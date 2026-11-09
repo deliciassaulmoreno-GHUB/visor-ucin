@@ -1,0 +1,51 @@
+@f 5. Hemodinámico/41.B. Protocolo de entrada y salida de ECMO.pdf
+@p 1
+# TEMA 41B. ECMO EN NEONATOLOGÍA: ENTRADA Y SALIDA DE ASISTENCIA ECMO.
+
+## INICIO DE ASISTENCIA CON ECMO
+- Conexión del circuito a las cánulas V y A del paciente.
+- ENTRADA EN ECMO:
+  - Abrir/Ajustar flujo de gas del Oxigenador (Retirada de Carbógeno si estaba previamente)
+  - Desclampar LADO VENOSO
+  - Programar revoluciones a 1500 rpm
+  - Desclampar LADO ARTERIAL (ajuste de RPM según necesidad de flujo de bomba)
+- Comprobar la CORRECTA COLOCACION DE LAS CANULAS con Rx de Tórax y Ecografía (intentar realizar antes de que se vaya el cirujano)
+- Transfusión de PLAQUETAS
+
+## ANALITICA A REALIZAR DIARIAMENTE DURANTE ASISTENCIA CON ECMO
+**AL PACIENTE:**
+- Cada 8 horas ……… EAB arterial y Hemograma (Si PLAQUETAS < 75000 → TX: min 10 ml/Kg al paciente).
+- Cada 12 horas ……… Bioquímica y Coagulación
+- Cada 24 horas ……… Sedimento de orina
+- Cada 48 horas ……… Hb libre Plasma - (Cada 24 horas a partir del 5º día ECMO) Y Bacteriología (Hemocultivo, Urocultivo, BAS)
+
+**AL CIRCUITO / OXIGENADOR:**
+- Cada 12 horas ……… EAB Pre y PostMembrana:
+  - Comprobar lavado CO2 y oxigenación MB (dif A-aO2 <150)
+  - Calibración de SVO2 si se precisa
+- ACT-LR : Mantener en Rango de 180 - 200 segundos
+- ACT cada 15 minutos hasta 4 en rango:
+  - Al inicio de asistencia,
+  - Después de TX Plaquetas o PFC
+  - Después de cambio de jeringa Heparina o modificación ritmo de PC
+- ACT cada 4 h mientras permanezca en rango.
+- Si ACT fuera de rango: aumentar o disminuir un 10% ritmo de PC según necesidad
+- Si Tx de plaquetas: Bolo de 10% + aumento 10% ritmo PC (salvo ACT fuera de rango)
+
+@p 2
+## PREPARACION PREVIA A LA SALIDA DE ASISTENCIA CON ECMO
+- Paso de mediación necesaria y que estuviera conectada al circuito, al Paciente (Ej: Sedación, goteos/NPT…)
+- Preparación HEPARINA 1:20 para conectar al paciente a la mitad de dosis de la estuviera pasando hasta ese momento. Se iniciará a criterio de MG durante las maniobras de destete ajustando ritmo según ACT del paciente.
+- SALIDA DE ECMO:
+  - Clampar LADO ARTERIAL
+  - Clampar LADO VENOSO
+  - Abrir Puente si no estaba previamente
+  - Conexión ¼ - ¼ para conectar Rama arterial y Venosa del circuito si se quiere recircular durante un tiempo
+- Si se deja circuito en RECIRCULANDO en espera, COMPROBAR:
+  - Bajar al mínimo o retirar Gas del Oxigenador ( Valorar cambio por Carbógeno si se prevé tiempo en espera prolongado)
+  - Ajuste de RPM para dejar flujo por la membrana > 300 ml/min
+  - Comprobación de gases / EAB previo, si se requiere reentrada y nuevo priming si es necesario.
+  - Si hay un HEMOFILTRO conectado al circuito, recordar suspender parámetros de tratamiento (Robo o extracción, diálisis…), hasta el paso del mismo al paciente.
+- Si se requiere dejar CANULAS EN ESPERA:
+  - Preparar llaves amarillas del armario de ECMO
+  - 2 lavados con SSF heparinizado de forma simple para cánula VENOSA y doble para cánula ARTERIAL: Ritmo de infusión a determinar por MG entre 3-5 ml/h

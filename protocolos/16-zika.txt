@@ -1,0 +1,68 @@
+@f 9. Infeccioso/16. Protocolo Zika-1.pdf
+@p 1
+# 16. Protocolo de riesgo de transmisión vertical virus Zika.
+__Elaborado por__: Grupo de Trabajo Zika HGUGM. Actualizado en mayo de 2016.
+Adaptación para evaluar riesgo de transmisión vertical en la evaluación del recién nacido.
+
+@deimg
+## ALGORITMO DE DIAGNOSTICO Y SEGUIMIENTO DE INFECCION POR VIRUS ZIKA EN EL EMBARAZO Y RECIEN NACIDO (Mayo 2016)
+**M Navarro, M Santos, P Martín Rabadán, M Calderón, E Zamora, MC Viñuela.**
+**S Enfermedades Infecciosas Pediátricas, S Neonatología, S Microbiología, S Obstetricia y Ginecología. (Grupo de trabajo de Zika HGUGM)**
+
+@caja
+-Preguntar a la embarazada sobre viajes a zonas endémicas (incluso 6-8 semanas antes de la concepción).
+**Contraindicar viajes a zona endémica.**
+-Preguntar si su pareja ha viajado durante su embarazo o periconcepcional a zonas endémicas **(En caso afirmativo se recomendará abstinencia o relaciones sexuales con protección durante el embarazo)** ¿Su pareja ha tenido clínica, o serología y/o PCR positiva o incierta y/o han mantenido relaciones sexuales sin métodos de barrera? http://www.cdc.gov/zika/geo/active-countries.html
+@fin
+@findeimg
+@img 16-zika-mapa.png
+@deimg
+http://wwwnc.cdc.gov/travel/notices/ — Actualizado a 26 mayo 2016
+
+^1^**__PRUEBAS MICROBIOLOGÍA__:**
+1.Serología y Acs neutralizantes frente a Zika y Dengue (añadir Chikungunya sólo en pacientes sintomáticos).
+@findeimg
+! El encabezado del algoritmo, el recuadro de preguntas (en rojo en el PDF), el mapa y las pruebas de microbiología son una imagen en el PDF: el texto se ha copiado a mano y el mapa de zonas con transmisión activa (mayo 2016) se reproduce recortado.
+
+Los estudios de serología (y anticuerpos neutralizantes)a una madre en riesgo de haber padecido infección por Zika (aunque sea asintomática) se solicitarán con los formularios de extrahospitalaria (en “Documentos útiles” en carpeta HGUGMDepartamentales del ordenador
+@p 2
+o copias impresas en las carpetas). Enviar muestra de Lunes a Viernes 8 a 13h a Siembras (teléfono 478455).
+
+@deimg
+## MANEJO NEONATAL DE LA INFECCIÓN CONGÉNITA POR VIRUS ZIKA
+@flujo
+[Recién nacido hijo de embarazada con historia de viaje a zona de transmisión de virus Zika]
+@cols
+[RN hijos de madres con resultado positivo o dudoso para el virus Zika // y/o // Microcefalia o calcificaciones intracraneales u otras alteraciones de la neuroimagen fetal]
+v
+[__RN:__ // - Estudio microbiológico de Zika < 48h de vida: // PCR sangre, orina, LCR. Serología sangre y LCR. // PCR en sangre, orina ± LCR // Serología en sangre ± LCR]
+[**Estudio de infecciónen RN:** // -Peso, Talla y PC // -Exploración física completa: Anomalías neurológicas, rasgos dismorficos, hepatoesplenomegalia, rash u otras lesiones piel. // -Ecografía cerebral // -Hemograma, función hepática // -Cribado auditivo // -Fondo de ojo // **Si Microcefalia o anomalías en ecografía cerebral:** // -RM y EEG // Si microbiología negativa: // Descartar otras infecciones congénitas: TORCH // Descartar otras causas genéticas o]
+---
+[Sin microcefalia ni alteraciones ecografías fetales o neonatales, ni microbiología sugerente de Zika en la madre]
+v
+[Improbable infección congénita por virus Zika]
+v
+[Cuidados habituales del RN]
+@fincols
+@cols
+? ESTUDIO Negativo
+[RN: PCR e IgM NEGATIVAS]
+v
+[Derivar para seguimiento por Sección de Infecciosas Pediátricas ( tf 843155) // Control serológico a los 2-3 meses // Ecografía cerebral a los 2 meses de edad // Valorar crecimiento cefálico // Control de audición 6 meses]
+---
+? ESTUDIO Positivo
+[RN, LA, placenta o cordón: PCR e IgM POSITIVAS // Notificar caso // www.msssi.gob.es/profesionales/saludPublica/ccayes/alertasActual/DocsZika/ABRIL_Protocolo_vigilancia_ZIKA_05.04.2016.pdf]
+v
+[Derivar al RN para seguimiento por infección congénita de Zika. // -Sección de Enfermedades Infecciosas Pediátricas y Neurología Infantil // -Ecografía cerebral a los 2 meses de edad // -Control de audición a los 6 meses // -Seguimiento el primer año de vida: Perímetro cefálico y neurodesarrollo]
+@fincols
+@finflujo
+@findeimg
+! El algoritmo de manejo neonatal es una imagen en el PDF y se ha redibujado aquí. En el PDF el resultado del estudio (negativo o positivo) sale del recuadro del estudio microbiológico del RN. El recuadro «Estudio de infección en RN» acaba en «Descartar otras causas genéticas o», cortado así en el original.
+
+@deimg
+@bib BIBLIOGRAFIA:
+-http://www.msssi.gob.es/profesionales/saludPublica/zika/informacion/home.htm
+-http://www.msssi.gob.es/profesionales/saludPublica/ccayes/alertasActual/alertActu.htm
+-http://www.aeped.es/documentos/protocolo-actuacion-pediatrica-y-neonatal-ante-brote-enfermedad-por-virus-zika-en-america.
+-CDC. Guidelines for Evaluating Neonates with Possible Zika Virus Infection. Disponible en http://www.jwatch.org/na40332/2016/01/29/guidelines-evaluating-neonates-with-possible-zika-virus#sthash.VUL4lqAq.dpuf
+@findeimg

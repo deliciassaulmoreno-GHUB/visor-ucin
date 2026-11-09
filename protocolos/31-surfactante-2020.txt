@@ -1,0 +1,121 @@
+@f 6. Respiratorio/31. Protocolo de administración de surfactante.pdf
+@p 1
+PROTOCOLO NEONATOLOGÍA: NÚMERO 31
+# SURFACTANTE PULMONAR: CRITERIOS Y MÉTODOS DE ADMINISTRACIÓN.
+@pie 1
+Autora: Cristina Ramos Navarro. Fecha de actualización: 29 de febrero de 2020.
+
+@caja
+## SURFACTANTE PULMONAR
+**Indicaciones:**
+- Síndrome de distrés respiratorio en recién nacido pretérmino. Administración selectiva precoz:
+  - Si el paciente requiere intubación para su estabilización en paritorio se debe administrar lo más precozmente posible y valorar extubación tras su administración (ver algoritmo de manejo respiratorio).
+  - Paciente estabilizado con CPAPn se debe administrar surfactante si necesidades de oxigeno >30% de forma mantenida (más de 20min) para saturaciones 90-94%. En este caso se administrara de forma mínimamente invasiva (LISA) (ver algoritmo).
+
+Si tras 6 horas de administración de surfactante el paciente mantiene necesidades de oxigeno >40% se administrará una segunda dosis de surfactante que puede ser mínimamente invasiva en el caso de que el paciente permanezca con CPAPn y no cumpla criterios de intubación.
+
+- Fallo respiratorio hipóxico en paciente con patología pulmonar susceptible de asociar inactivación del surfactante (Síndrome de aspiración meconial, Bronconeumonia, hemorragia pulmonar, Pacientes en ECMO) En estos casos el momento de administración será individualizará en cada paciente.
+@fin
+
+**Surfactante utilizado HGM: Poractant (Curosurf®, viales de 120mgr/1,5ml):**
+- 1º dosis 200mgr/kg (2,5 ml/kg).
+- 2º dosis 100mgr/kg (1,25ml/kg) si necesidades de oxigeno > 40% con un intervalo de 12 horas.
+
+Se guarda en nevera (2-8ºC), se debe girar el vial, no agitar y templar a temperatura ambiente durante 20 min o en la mano al menos 8 min. Los viales (cerrados) fuera del frigorífico no se pueden volver a introducir si han pasado más de 24hs. Cargar con aguja de al menos 20G de forma estéril, No agitar la jeringa.
+
+## __Forma de administración:__
+1. Si es a través de TET en paciente Intubado y conectado a VM (PSV con VG).
+- VERIFICAR LA COLOCACIÓN CORRECTA DEL TET PARA EVITAR LA ADMINISTRACIÓN SELECTIVA DE SURFACTANTE A PULMÓN DERECHO.
+- Colocar el paciente con la cabeza en posición neutra.
+- Introducir el catéter para administración de surfactante la distancia correspondiente (hacer coincidir los números del TET con los del catéter).
+- Administrar en surfactante en 2 alícuotas durante menos de 30 segundos retirando el catéter y ajustando los parámetros del respirador para asegurar una correcta ventilación y estabilización del paciente antes de cada alícuota.
+- Purgar el catéter con aire tras la última alícuota.
+- Se debe evitar aspiración del TET en la siguiente hora.
+
+2. De forma mínimamente invasiva (LISA) (paciente con soporte no invasivo con CPAPn o SNIPPV).
+__Protocolo de analgesia no farmacológica__: 2-3 minutos antes del procedimiento de laringoscopia se administraran entre 0,2ml/kg de LM extraída o sacarosa 24% según disponibilidad acompañado de succión no nutritiva durante su administración (tetina, Chupete o dedo).
+Contención durante el procedimiento por un segundo operador que se encargará de evaluar el nivel de confort valorando la necesidad de añadir analgesia farmacológica.
+__Procedimiento de administración de surfactante.__
+Laringoscopia directa para colocación de sonda de administración de surfactante (*KimVentTrach Care Technology ®, Kimberly-Clark Health Care, United Kingdom*) de 5 *French* a nivel traqueal a 1cm de cuerdas vocales. Se instilara la preparación de surfactante en menos de 60 segundos tras lo cual se realizara purgado del catéter con 5 ml de aire usando una jeringa
+@p 2
+@pie PROTOCOLO NEONATOLOGÍA: NÚMERO 31
+@pie SURFACTANTE PULMONAR: CRITERIOS Y MÉTODOS DE ADMINISTRACIÓN. 2
+desechable. Si el paciente presenta desaturación <75% y/o bradicardia se interrumpe la instilación hasta estabilización del paciente.
+Se descartará mediante aspiración de la sonda nasogástrica el paso de surfactante a la vía digestiva. Tras su administración se procede a la retirada del catéter manteniendo el soporte respiratorio no invasivo.
+
+@flujo
+[Respitación espontánea]
+v
+[CPAPn]
+v
+[FiO2>30% para Sat. // 90-94% en primeros 3 días.]
+@cols
+[No]
+v
+[Continuar CPAPn]
+---
+[Si]
+v
+[LISA]
+@fincols
+v
+[Criterios Intubación (FiO2>50%; // pH<7,20; pCO2>65mmHg; Apneas >4/h o >1 PPI]
+@cols
+[No]
+v
+[Continuar CPAPn // (Si FiO2 >40%: 2º dosis surfactante)]
+---
+[Si]
+v
+[Estabilidad Hemodinámica. Aceptable esfuerzo respiratorio]
+@fincols
+@cols
+[Si]
+v
+[SNIPPV]
+v
+[Si los criterios de intubación persisiten tras 2 hora de VM o existe deterioro clínico]
+---
+[NO]
+v
+[INTUBACIÓN]
+@fincols
+@finflujo
+
+@flujo
+[Intubado]
+v
+[Surfactante]
+v
+[PSV +VG (4ML/KG)]
+@cols
+[PIP> 17cmH2O o fuga aérea.]
+v
+[VAFO con VG]
+---
+[FiO2 >40% y PMAP > 10 y no respiración espontánea]
+v
+[Continuar VM]
+---
+[FiO2 30-40% o PMAP > 10 con respiración espontánea]
+v
+[Extubación a SNIPPV]
+---
+[FiO2 < 30% , PMAP < 10 y respiración espontánea]
+v
+[Extubación a CPAPn]
+@fincols
+[Criterios de reintubación: FiO2 > 50%* pH<7,20; pCO2 > 65; Apnea > 4 hora o > 2 PPI]
+@finflujo
+ALGORITMO DE MANEJO RESPIRATORIO EN RECIEN NACIDO PRETÉRMINO
+! Cómo se ve en el PDF: los dos esquemas (respiración espontánea a la izquierda, intubado a la derecha) están uno al lado del otro. En el de respiración espontánea, «Criterios Intubación» cuelga de «LISA» y «Estabilidad Hemodinámica» cuelga del «Si» de los criterios de intubación; aquí, por espacio, esas cajas siguen a lo ancho. La línea de «SNIPPV» llega a la caja «Si los criterios de intubación persisiten…», que está junto a «INTUBACIÓN». Las cuatro ramas de «PSV +VG» están en una sola fila. La caja «Criterios de reintubación» está debajo de «Extubación a SNIPPV», sin línea que la una a ninguna caja de arriba. De «Criterios de reintubación» y de «INTUBACIÓN» salen sendas flechas curvas que vuelven a «PSV +VG (4ML/KG)».
+
+* Se valorará en función de la FiO2 previa a extubación en pacientes crónicos con necesidades altas de oxígeno.
+* La dosis de surfactante se puede repetir a las 12 horas si necesidades de oxigeno >40%
+No está indicada la administración de más de 3 dosis de surfactante (dosis máxima 300-400mgr/kg)
+
+@bib BIBLIOGRAFIA:
+Sweet DG, Carnielli V, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome - 2016 Update. *Neonatology.* 2017;111(2):107-125.
+Polin RA, Carlo WA, Newborn CoFa, Pediatrics AAo. Surfactant replacement therapy for preterm and term neonates with respiratory distress. *Pediatrics.* 2014;133(1):156-163.
+Richard Martin, Prevention and treatment of Respiratory Distres Syndrome in preterm Infants. Uptodate Sep13, 2017.
+Ramos-Navarro C, Sánchez-Luna M, Zeballos-Sarrato S, González-Pacheco N. Less invasive beractant administration in preterm infants: a pilot study. Clinics (Sao Paulo) 2016; 71 (3): 128-34.

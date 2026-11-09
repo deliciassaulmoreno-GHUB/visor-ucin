@@ -1,0 +1,59 @@
+@f 11. Neurológico/66. Protocolo de ecografía pulmonar point of care.pdf
+@p 1
+# PROTOCOLO ECOGRAFÍA PULMONAR
+*Revisado Mayo 2025*
+! En el PDF la fecha de revisión («Revisado Mayo 2025») está al final, junto a la bibliografía; aquí se pone arriba.
+
+**INDICACIÓN:** Cualquier recién nacido con patología respiratoria.
+
+## CONSIDERACIONES TÉCNICAS *(Ecógrafo PX):*
+- Emplear sonda lineal de alta frecuencia (salvo edema muy importante, donde se puede valorar sonda convex).
+- Tras encender, introducir **datos del paciente** en pestaña PACIENTE (nombre y apellidos +/- NHC)
+- Seleccionar **PRESET PULMÓN.** Reducir profundidad a 4 cm. Ajustar foco en línea pleural.
+- Intentar **grabar vídeos**: cuando tengamos bien el plano → presionar símbolo cámara vídeo. Para grabar foto, presionar símbolo cámara foto.
+- Al finalizar la exploración, presionar FIN ESTUDIO.
+- Tras acabar, siempre **limpiar** ecógrafo con producto __SIN ALCOHOL__ (usar spray blanco de limpieza)
+
+## SISTEMÁTICA EXPLORACIÓN:
+- Si es posible, posición en **__DECÚBITO SUPINO__** durante al menos los __30 minutos__ previos. Si no es posible, registrar en qué posición se encontraba al realizar la ecografía.
+- **__MEDIDAS DE CONFORT:__** Solicitar ayuda de otra persona para contención, succión, sacarosa, cambios posturales. Esto conseguirá imágenes de mejor calidad y menor repercusión en el paciente. Dejar pequeña cantidad de gel en unas gasas dentro de la incubadora previamente para calentarlo.
+- Se deben explorar **todos los campos pulmonares**, **adaptándose** a la situación de cada paciente (pegatinas, sensores, postura, etc.).
+
+1. Colocar el transductor en sentido longitudinal y puntualmente trasversal. Perpendicular al tórax con la muesca orientada hacia craneal evitando movimientos oblicuos o de rotación que generan falsas imágenes (la línea pleural debe aparecer paralela a nuestra sonda).
+2. **PLANOS DE EXPLORACIÓN BÁSICOS** (se pueden añadir más según sospecha):
+- __PLANO ANTERIOR TRASVERSAL MEDIO__: intermamilar (si sospecha de Ntx).
+- __PLANO ANTERIOR__: línea medioclavicular. Dividir en superior e inferior.
+- __PLANO LATERAL:__ entre la línea axilar anterior y línea axilar posterior.
+- __PLANO POSTERIOR:__ tras línea axilar posterior. Dividir en superior e inferior. *Se puede obviar en las primeras 24 hdv.*
+
+*3.* Tras el plano anterior transversal, **SIEMPRE EXPLORAR PRIMERO HEMITÓRAX DERECHO** (ant-lat-post) y luego IZQUIERDO *(importante para homogeneizar imágenes).*
+4. En cada plano, evaluar desde apical hasta basal. En campos laterales/posteriores, hasta ver el diafragma.
+
+@p 2
+## INTERPRETACIÓN Y REGISTRO EN HISTORIA CLÍNICA:
+- Ecografía torácica a pie de cama realizada por (Dra/Dr…). **Posición:** DS/DL/DP.
+- Se describirá la ecografía con 2 evaluaciones: CUALITATIVA y CUANTITATIVA.
+
+@deimg
+| {2} EVALUACIÓN CUALITATIVA |
+|---|---|
+| **LÍNEA PLEURAL** | Fina/engrosada; desliza/no desliza |
+| **PATRÓN** | Líneas A, intersticial con/sin gradiente, alveolointersticial, consolidaciones (tamaño y localización). Homogéneo/parcheado. |
+| **SI NEUMOTÓRAX (supino)** | Localización y posición del punto pulmón (buscarlo **SIEMPRE**) |
+| **SI DERRAME PLEURAL (supino)** | Qué campos afecta y distancia interpleural máxima. |
+
+| EVALUACIÓN CUANTITATIVA |
+|---|
+| “4-step” score: 0-1-2-3 (Figura 1) |
+| **Score extendido:** 5 CAMPOS POR PULMÓN // **Score simplificado**: 3 CAMPOS POR PULMÓN **(< 24 hdv)** (Figura 2) |
+| **Extendido**: 0 –30. **Simplificado**: 0-18 |
+@findeimg
+! Las dos tablas de evaluación son una imagen en el PDF; se han copiado a mano. En el PDF están una al lado de la otra.
+
+**FIGURA 1**
+@img 66-figura1.png
+**FIGURA 2**
+@img 66-figura2.png
+! Las figuras 1 y 2 son imágenes en el PDF y se reproducen recortadas.
+
+*Mongodi S, Cortegiani A, Alonso-Ojembarrena A, Biasucci DG, Bos LDJ, Bouhemad B, Cantinotti M, Ciuca I, Corradi F, Girard M, Gregorio-Hernandez R, Gualano MR, Mojoli F, Ntoumenopoulos G, Pisani L, Raimondi F, Rodriguez-Fanjul J, Savoia M, Smit MR, Tuinman PR, Zieleskiewicz L, De Luca D. ESICM-ESPNIC international expert consensus on quantitative lung ultrasound in intensive care. Intensive Care Med. 2025 May 12. doi: 10.1007/s00134-025-07932-y. PMID: 40353867.*

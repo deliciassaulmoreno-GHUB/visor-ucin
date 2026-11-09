@@ -1,0 +1,72 @@
+@f 13. Vacunación/42. Protocolo de Inmunizacion frente al Vir us Respiratorio Sincitial con NIRSEVIMAB.pdf
+@p 1
+@pie 1
+# Protocolo 42. Inmunización frente al Virus Respiratorio Sincitial (VRS) en lactantes en la Comunidad de Madrid
+
+La infección/ bronquiolitis por VRS en menores de 2 años conlleva una importante sobrecarga asistencial en los Servicios de Atención Primaria y Urgencias, puede requerir ingreso hospitalario hasta en el 1-2%, y un 10% precisan atención en Unidades de Cuidados Intensivos (UCI). Condiciones subyacentes, como la prematuridad, las enfermedades crónicas pulmonares y las cardiopatías congénitas, pueden ocasionar un cuadro más grave.
+
+En octubre de 2022 se autorizó en la Unión Europea la comercialización de NIRSEVIMAB (Beyfortus®), el primer anticuerpo monoclonal indicado para la prevención de la enfermedad de las vías respiratorias inferiores producida por el VRS. En 2023 se aprobó la recomendación de su utilización en la población infantil con alto riesgo de enfermedad grave por VRS.
+En la Comunidad de Madrid, alineados con las recomendaciones de la Comisión de Salud Pública, se elaboró el protocolo de vigilancia, prevención y control de bronquiolitis por VRS, que se implementó por primera vez en la estación 2023_2024 y se continua hasta la actualidad.
+
+## RECOMENDACIONES de inmunización frente a VRS en la temporada epidémica (actualización 2025)
+La temporada de circulación de VRS habitualmente transcurre entre octubre-noviembre y febrero-marzo, por lo que la **campaña de inmunización se inicia el 1 de Octubre y finaliza el 31 de Marzo**.
+
+Se recomienda que reciban NIRSEVIMAB:
+- Los **lactantes menores de 6 meses al inicio de la temporada** (nacidos desde el 1 de abril hasta el 30 de septiembre) **y los recién nacidos durante la temporada** (nacidos desde el 1 de octubre hasta el 31 de marzo).
+- **Los prematuros de menos de 35 semanas y menores de 12 meses** de edad al inicio de estación epidémica. Si recibieron una dosis en la temporada previa y aún no han cumplido 12 meses de edad, podrán recibir una nueva dosis al inicio de la esta nueva temporada.
+- La **población pediátrica hasta 24 meses de edad con riesgo muy elevado de desarrollar enfermedad grave por VRS ^(1)^** a criterio del facultativo responsable. Si ya han recibido una dosis de Nirsevimab en la temporada anterior y son menores de 24 meses en el momento de la administración, podrán recibir una nueva dosis en esta temporada.
+
+@caja
+**(1)** __Alto riesgo de enfermedad grave por VRS según acuerdo nacional__:
+- Cardiopatías congénitas con afectación hemodinámica significativa cianosantes o no cianosantes,
+- Displasia broncopulmonar,
+- Cirugía cardiaca con bypass cardiopulmonar
+- Inmunodepresión grave (enfermedades oncohematológicas; inmunodeficiencias primarias sobre todo combinadas y agammaglobulinemia congénita; tratamiento con inmunosupresores de forma continuada),
+- Errores congénitos del metabolismo,
+- Enfermedades neuromusculares, pulmonares graves,
+- Síndromes genéticos con problemas respiratorios relevantes,
+- Síndrome de Down,
+- Fibrosis quística,
+- Malformaciones esofágicas
+- Cuidados paliativos.
+@fin
+
+## POSOLOGIA:
+@p 2
+@pie 2
+**Beyfortus® → NIRSEVIMAB:** Anticuerpo monoclonal IgG humano recombinante, de larga duración, neutralizante de la proteína F de VRS modificada. Inhibe la fusión de membrana en la entrada del virus, neutralizándolo.
+
+Se comercializa en forma de jeringa precargada, en dos presentaciones, según el peso del lactante
+| Los lactantes en su __primera temporada de VRS__ recibirán una dosis según su peso: | Si **<5 kg** se les administrará **jeringa precargada de 50 mg /0,5 ml** // Si **≥5 kg** se les administrará **jeringa precargada de 100 mg /1 ml** |
+|---|---|
+| La __dosis en la segunda temporada__ será de **200 mg** en dos inyecciones intramusculares (2 x 100 mg), administradas en el mismo acto de vacunación siempre que pesen ≥10 kg. | |
+| ***__En lactantes sometidos a CEC__:*** *dosis adicional una vez que el lactante **esté estable*** | ***Si < 90 días*** *tras 1ª dosis: dosis de 50 ó 100 mg según el peso corporal (200 mg si ≥10 kg)* // ***Si > 90 días*** *de la 1ª dosis: la dosis adicional podría ser:* // *‣ una dosis única de 50 mg independientemente del peso corporal durante la 1ª temporada* // *‣ 100 mg durante la 2ª temporada del VRS para cubrir el resto de la temporada de VRS.* |
+! En el PDF es una lista con viñetas; aquí va en tabla, con cada situación a la izquierda y su dosis a la derecha.
+
+## ¿CUÁNDO?
+| *__RN sanos__ durante la temporada* (de octubre a marzo) | → *primeras **24 - 48 horas TRAS NACIMIENTO*** // Si no es posible, se recomienda administrar a la mayor brevedad posible. |
+|---|---|
+| *__Recién nacidos hospitalizados__* | → ***TAN PRONTO** como la **situación clínica lo permita*** |
+
+Se recomienda la inmunización de la población diana independientemente del antecedente de vacunación materna durante el embarazo.
+
+**Los efectos adversos** más frecuentes (que pueden afectar hasta 1 de cada 100 lactantes) son erupción cutánea que se produce en los 14 días posteriores a la inyección, y fiebre y reacciones en el lugar de la inyección que se producen en los 7 días posteriores a la inyección.
+
+@caja
+**IMPLEMENTACIÓN DE INMUNIZACIÓN CON NIRSEVIMAB EN LA TEMPORADA EPIDEMICA**
+@fin
+
+Desde 1 de Septiembre se envía SMS a teléfonos de RN < 6 meses residentes en la CAM, informando de la campaña y con enlace al sistema de *“AUTOCITA”* - ***https://autocitavacuna.sanidadmadrid.org/autocita/2***
+
+Durante Octubre y 1ª sem Noviembre se habilitan 9 hospitales SERMAS como puntos de inmunización (disponibles en página WEB):
+
+**Administración en el AMBITO HOSPITALARIO:**
+| **1)** | Los __lactantes sanos < 6 meses al inicio de la temporada__ (RN desde el 1 abril): en centros hospitalarios con **CITA PREVIA mediante AUTOCITA,** o en fechas y horarios determinados sin cita previa (Ver lugares de administración en pagina WEB) |
+|---|---|
+| **2)** | __RN en la temporada__ (1 Octubre → 31 Marzo): tras el nacimiento, ANTES DEL ALTA HOSPITALARIA // - Es preciso **CIPA del RN** para registro informático de vacunas/inmunizaciones (Admisión primeras 24 h) // - En maternidades públicas y privadas **con residencia en la CAM** |
+| **3)** | Los __lactantes de ALTO RIESGO__ (DBP < 24 meses / RNPT < 35 sem y < 12 meses): **Se CITARÁN** desde la Unidad en la que se realiza el seguimiento del niño para su administración en dicho hospital. |
+@p 3
+@pie 3
+
+INFORMACION ADICIONAL en página WEB:
+https://www.comunidad.madrid/servicios/salud/virus-respiratorio-sincitial-vrs

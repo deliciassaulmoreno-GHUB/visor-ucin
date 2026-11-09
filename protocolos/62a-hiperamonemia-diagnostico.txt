@@ -1,0 +1,107 @@
+@f 7. Metabólico renal/62a. Protocolo de diagnóstico de hiperamonemia.pdf
+@p 1
+# 62a. PROTOCOLO HIPERAMONIEMIA AGUDA
+## Diagnóstico diferencial. Toma y envío de muestras
+*PROTOCOLO HIPERAMONIEMIA — __Revisado febrero 2022__*
+
+El **AMONIO** es un producto del metabolismo proteico nitrogenado altamente tóxico que cuando se acumula produce un cuadro de intoxicación que debe ser tratado de forma inmediata.
+
+**Valor normal en el periodo neonatal:** < 110 µmol/l (< 190 µg/dl). **¿Cómo se puede clasificar según la cifra de amonio?:**
+- **HIPERAMONIEMIA LEVE**: 110-250 µmol/l
+- **HIPERAMONIEMIA MODERADA**: 250-500 µmol/l
+- **HIPERAMONIEMIA GRAVE**: > 500 µmol/l
+
+@caja
+**SIEMPRE se debe repetir la muestra 2 veces antes de confirmar el diagnóstico**
+@fin
+
+## DIAGNÓSTICO DIFERENCIAL:
+Ver algoritmo del diagnóstico diferencial en *__ANEXO 1__* y *__ANEXO 2__*.
+
+## ¿QUÉ ESTUDIOS SOLICITAR?:
+@caja
+**RECORDAR sacar TODAS las muestras PREVIO a iniciar el tratamiento**
+@fin
+
+**__1º NIVEL__:** Hemograma (micromuestra), coagulación, bioquímica (iones, incluyendo fósforo y magnesio, glucosa, GOT, GPT, GGT, bilirrubina total y directa, urea, creatinina, ácido úrico, CPK, proteína C reactiva), amonio, cetonemia (mediante tira reactiva, dispositivo en UCIP), gasometría (láctico, cálculo del anión GAP) y sistemático de orina (valorar pH y cuerpos cetónicos).
+
+**Importante** extraer hemocultivo y urocultivo para descartar la presencia de sepsis neonatal.
+
+**Si HIPOGLUCEMIA además extraer muestra para:** insulina, péptido C, cortisol y GH.
+
+**__RECOMENDACIONES PARA LA EXTRACCIÓN Y PROCESAMIENTO DEL AMONIO:__**
+- Muestra venosa (tubo de EDTA), **NO** sirven las muestras de sangre capilar.
+- Evitar el uso de compresores porque la extracción no debe ser dificultosa (para evitar la hemólisis).
+- Conservar la __muestra en hielo__ y procesar inmediatamente al laboratorio (avisar al sanitario para que la lleve en mano al laboratorio central).
+
+**__2º NIVEL__:** Estudio metabólico.
+- **PAPEL SECO DE SCREENING METABÓLICO** (papel de filtro con sangre capilar):
+  - Guardar en nevera hasta su envío.
+  - __¿Dónde se envía?__: al “Laboratorio de Pruebas Metabólicas” del hospital.
+  - Si ya se han enviado las pruebas metabólicas a las 48 horas de vida recoger nueva muestra.
+- **SANGRE** (se obtiene a la vez que la muestra que se solicite para los estudios de 1º nivel):
+  - __¿Qué solicitar?__: aminoácidos, acilcarnitinas, ácidos orgánicos, carnitina.
+  - __¿Dónde se envía?__: al CEDEM.
+  - __¿Qué muestra extraer?__: SUERO → 2-5ml de sangre en tubo seco o con gel (**sin anticoagulante**).
+    - **SI SE ENVÍA EN EL MISMO DÍA A CEDEM** → en este caso hay 2 opciones:
+      - **1.** Sacar muestra tubo EDTA y mandar a __temperatura ambiente__ al “Punto de Encuentro” **(no necesario centrifugar).**
+      - **2.** Sacar muestra en tubo seco o con gel: CENTRIFUGAR y SEPARAR el suero y enviar a temperatura ambiente o refrigerada al “Punto de Encuentro”.
+    - **SI SE RECOGE DE GUARDIA O DURANTE EL FIN DE SEMANA:**
+      - Centrifugar y **SEPARAR** el suero.
+      - Conservar el suero congelado a -20ºC en el congelador de la UCI Pediátrica.
+      - Enviar refrigerada a “Punto de Encuentro” el día que se considere.
+- **ORINA**:
+  - __¿Qué solicitar?:__ aminoácidos, ácido orótico y ácidos orgánicos.
+  - __¿Dónde se envía?__: al CEDEM.
+  - __Orina__: se recogerán 2 muestras
+    - **Muestra 1:** aislada de 5-10 ml.
+    - **Muestra 2:** recogida de 12-24 horas. Es conveniente utilizar envases de plástico, nunca frascos o botellas que hayan contenido algún líquido. Enviar una fracción (máximo 100 ml) del total, indicando la diuresis total recogida.
+@p 2
+@pie PROTOCOLO HIPERAMONIEMIA Revisado febrero 2022
+  - __¿Cómo guardar las muestras?__:
+    - **SI SE ENVÍAN EN EL MISMO DÍA A CEDEM:** enviar refrigeradas a “Punto de Encuentro”.
+    - **SI SE VAN A ENVIAR AL DÍA SIGUIENTE:** se pueden guardar en nevera y al día siguiente enviar refrigeradas al “Punto de Encuentro”.
+    - **SI SE VA A TARDAR MÁS TIEMPO EN ENVIAR:** conservar congeladas a -20ºC en el congelador de la UCI Pediátrica y enviar refrigeradas a “Punto de Encuentro”.
+- **LCR**: **ESTÁ CONTRAINDICADA LA REALIZACIÓN DE PUNCIÓN LUMBAR EN CASOS DE HIPERAMONIEMIA.**
+
+**HORARIO “PUNTO DE ENCUENTRO”:** De __lunes a viernes antes de las 11.30 horas__ de la mañana (enviar en mano por sanitario).
+
+## __¿CÓMO REALIZAR LA SOLICITUD DEL ESTUDIO METABÓLICO?:__
+- Hay que rellenar la **“Solicitud de Estudios Extrahospitalarios”** incluida en “Departamentales: Neonatología → Documentos útiles → Metabolopatías → solicitud_estudios_extrahospitalarios”.
+- Entregar en la Secretaría de Neonatología para cursar la CARTA DE PAGO que será firmada y sellada. Una vez aceptada se procederá al envío de las muestras.
+
+## __CÓDIGOS DE MUESTRAS BIOLÓGICAS MÁS SOLICITADAS EN CASO DE HIPERAMONIEMIA:__
+@deimg
+| {3} **SOLICITUD DE ESTUDIOS EXTRAHOSPITALARIOS** |
+|---|---|---|
+| **Código** | | **Descripción** |
+| B003 | ORINA | Ácido orótico |
+| B004 | SANGRE | Ácidos grasos de cadena larga → *Si sospecha **trastorno β-oxidación*** |
+| B005 | ORINA | Ácidos orgánicos en orina |
+| B006 | SANGRE | Ácidos orgánicos en suero |
+| B007 | SANRE | Acilcarnitinas |
+| B014 | ORINA | Aminoácidos fraccionados en orina |
+| B015 | SANGRE | Aminoácidos fraccionados en suero |
+| B022 | SANGRE | Carnitina |
+| B132 | SANGRE | B-oxidación de ácidos grasos |
+| B133 | ORINA | B-oxidación de ácidos grasos |
+@findeimg
+@pie Si sospecha trastorno -oxidación
+! La tabla es una imagen en el PDF y se ha copiado a mano («SANRE» está así en el original). Un segundo rótulo verde «Si sospecha trastorno β-oxidación» acompaña a las dos filas de B-oxidación (B132 y B133).
+@pie Si sospecha trastorno -oxidación
+
+Valorar solicitar __**actividad de la biotinidasa**__ sobre todo si se asocia con crisis convulsivas (CÓDIGO B019), para descargar déficit de carboxilasas múltiples y defectos del metabolismo de la biotina.
+
+## OTRAS PRUEBAS COMPLEMENTARIAS A REALIZAR:
+- Monitorización de función cerebral +- solicitar EEG de 12 canales.
+- INVOS.
+- Ecografía transfontanelar.
+- Ecografía abdominal.
+- Ecocardiografía.
+- Fondo de ojo.
+- Realizar interconsulta Neuropediatría.
+
+| {3} **TELÉFONOS DE INTERÉS** |
+|---|---|---|
+| **METABÓLICAS:** 478828/478237 | **“PUNTO DE ENCUENTRO”:** 475040 | **CEDEM**: 914974589 o 914974868 |
+| **HOSPITAL 12 DE OCTUBRE** (Unidad metabólicas): 913908624 | {2} **HOSPITAL NIÑO JESÚS:** Centralita 915035900 // Buscas: 7733; 7782; 7769 |

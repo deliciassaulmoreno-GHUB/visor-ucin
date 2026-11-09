@@ -1,0 +1,59 @@
+@f 7. Metabólico renal/17a. Protocolo fluidoterapia-1.pdf
+@p 1
+# 17a. PROTOCOLO DE FLUIDOTERAPIA EN EL RECIÉN NACIDO A TÉRMINO Y PRETÉRMINO
+
+## ADMINISTRACIÓN DE LÍQUIDOS
+La fluidoterapia en neonatos debe ajustarse según la edad gestacional y el balance de líquidos, incluyendo las pérdidas insensibles, por las siguientes razones:
+- Existe una **pérdida de peso fisiológica** por contracción del espacio extracelular durante los primeros días de vida. En recién nacidos a término puede suponer hasta un 10% y en prematuros 15%.
+- En los primeros días de vida, existe una **fase de transición** que termina cuando se produce la máxima pérdida de peso. Durante este periodo (primeras 24-48h), se diferencia una fase prediurética inicial de oliguria relativa, seguida de una fase diurética que cursa con poliuria. Tras 7-10 días, durante la **fase intermedia**, la diuresis se estabiliza y existe una recuperación progresiva del peso al nacimiento. Posteriormente, durante la **fase de crecimiento estable,** tiene lugar una progresiva ganancia ponderal con balance positivo de fluidos y electrolitos.
+- Las **pérdidas insensibles** son mayores a menor edad gestacional, aunque disminuyen con humidificación de la incubadora y del respirador.
+
+El aporte de líquidos se ajusta según la edad gestacional y los días desde el nacimiento (*Tabla 1*). Se realiza un incremento diario de **10-20 cc/kg/día**, en función del balance real (peso) y teórico, la diuresis, los controles de equilibrio ácido-base y los niveles de sodio y potasio plasmáticos.
+Para su ajuste, se realizarán determinaciones de iones, creatinina y equilibrio ácido-base.
+A partir del 5º al 7º día se podrán liberalizar los aportes, individualizando cada caso según la situación clínica del paciente y su edad gestacional.
+En los pacientes que requieran restricción hídrica por su patología (DAP, Displasia broncopulmonar) no se deberían sobrepasar los 120-130 cc/kg/día en total.
+
+*Tabla 1. Aportes hídricos intravenosos*
+| **Día 1º** // **FASE PREDIURÉTICA** | **Días 2º-6º** // **FASE DIURÉTICA** | **A partir del día 7º** // **FASE INTERMEDIA** |
+|---|---|---|
+| **< 1.000 g**: 80 - 100 cc/kg/día // **1.000-1.500 g:** 70 - 90 cc/kg/día // **>1.500 g:** 60-80 cc/kg/día // **A término:** 40 - 60 cc/kg/día | **↑10-20 cc/kg/día** // **Vigilar peso y diuresis:** // < 1cc/kg/h: ↑ líquidos | **Pretérmino:** // **< 1.000 gr:** individualizar según DAP y patología pulmonar // **1.000-1.500 gr**: 120-150 cc/kg/día // **> 1.500 gr**: 140-160 cc/kg/día // **A término:** // 140-170 cc/kg/día |
+| Objetivos: // -Aporte de glucosa y aminoácidos. // -Balance real negativo. | Objetivo: pérdida de peso esperada con electrolitos normales. // Diuresis: 1-2 cc/kg/h | Diuresis según aportes. // Objetivo: nutrición. |
+! En el PDF la última fila son tres recuadros a los que apunta una flecha desde cada columna de la tabla.
+
+## FLUIDOTERAPIA
+### GLUCOSA
+Los aportes de glucosa deben comenzar desde el nacimiento:
+@p 2
+- En recién nacidos a término en los que no se esperen períodos prolongados de ayunas, los aportes de glucosa se realizarán habitualmente con **glucosado al 10%**, con lo que se cubren las necesidades de glucosa teniendo en cuenta los líquidos que le corresponden según los días de vida (*tabla 2*).
+- En recién nacidos pretérmino se empezará con solución de inicio o si es posible, **nutrición parenteral** para lograr balance nitrogenado positivo.
+
+Los aportes de glucosa se inician a **4-6 mg/kg/min**. Se deben aumentar 2 mg/kg/min al día para mantener unos niveles de glucosa en plasma de 75-120 mg/dl.
+
+### ELECTROLITOS, CALCIO Y FÓSFORO
+- Los **aportes de sodio y potasio** se iniciarán cuando la diuresis esté establecida, generalmente a partir de las 24-48 horas de vida, mientras los niveles plasmáticos sean normales. En las primeras horas de vida es más frecuente la aparición de hemólisis, disminución del filtrado glomerular y acidosis.
+- El **aporte de calcio** se debe iniciar en las primeras 24 horas de vida.
+- En caso de precisar **fósforo** (hipofosforemia con hipercalcemia en primeros días de vida en < 1000 gr) se administrará en forma de fosfato monosódico 1-2 mEq/kg/dia manteniendo relación Ca:P 2:0,5-1)
+
+*Tabla 3*
+| | **Día 1º** // **FASE PREDIURÉTICA** | **Días 2º-6º** // **FASE DIURÉTICA** | **A partir del día 7º** // **FASE INTERMEDIA** |
+|---|---|---|---|
+| **Glucosa** | 4 – 6 mg/kg/min | 4 – 8 mg/kg/min | Según glucemia |
+| **Calcio -** *Gluconato cálcico 10%* | 1 – 2 meq/kg/día | 1 – 2 meq/kg/día | Mantenimiento de aportes de Na, K y Ca según controles |
+| **Sodio -** *Cloruro sódico 20%* | no necesario | 2 – 3 meq/kg/día | |
+| **Potasio -** *Cloruro potásico 2M* | no necesario | 1 – 3 meq/kg/día | |
+! En el PDF «Mantenimiento de aportes de Na, K y Ca según controles» ocupa las filas de calcio, sodio y potasio de la última columna. El texto cita una «tabla 2» que no aparece en el PDF.
+
+Si la infusión de la solución glucosada se va a realizar por vía periférica, se tendrá en cuenta la osmolaridad de esta (*ver protocolo NTP*). En el caso de infundirse por vía central, precisará heparinización (tantas UI de heparina como ml de la preparación).
+
+@bib BIBLIOGRAFÍA
+- *Darmaun D, Lapillonne A, Simeoni U, Picaud JC, Rozé JC, Saliba E, Bocquet A, Chouraqui JP, Dupont C, Feillet F, Frelut ML, Girardet JP, Turck D, Briend A; Committee on Nutrition of the French Society of Pediatrics (CNSFP), and French Society of Neonatology (SFN). Parenteral nutrition for preterm infants: Issues and strategy. Arch Pediatr. 2018 May;25(4):286-294*
+- *Su BH. Optimizing nutrition in preterm infants. Pediatr Neonatol. 2014. Feb;55(1):5-13.*
+- *Dutta S, Singh B, Chessell L, Wilson J, Janes M, McDonald K, Shahid S, Gardner VA, Hjartarson A, Purcha M, Watson J, de Boer C, Gaal B, Fusch C. Guidelines for feeding very low birth weight infants. Nutrients. 2015 Jan 8;7(1):423-42.*
+- *Jochum F, Moltu SJ, Senterre T, Nomayo A, Goulet O, Iacobelli S; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR guidelines on pediatric parenteral nutrition: Fluid and electrolytes. Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31167-1.*
+- *Mesotten D, Joosten K, van Kempen A, Verbruggen S; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR guidelines on pediatric parenteral nutrition: Carbohydrates. Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31166-X.*
+- *Van Goudoever JB, Carnielli V, Darmaun D, Sainz de Pipaon M; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR guidelines on pediatric parenteral nutrition: Amino acids.*
+- *Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31164-6.*
+- *Lapillonne A, Fidler Mis N, Goulet O, van den Akker CHP, Wu J, Koletzko B; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR/CSPEN guidelines on pediatric parenteral nutrition: Lipids.*
+- *Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31165-8.*
+- *Bronsky J, Campoy C, Braegger C; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR/CSPEN guidelines on pediatric parenteral nutrition: Vitamins. Clin Nutr. 2018 Jun 18. pii:*
+- *S0261-5614(18)31170-1.*

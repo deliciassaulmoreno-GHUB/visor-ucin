@@ -1,0 +1,52 @@
+@f 4. Manejo prematuridad/5a. Manejo de la prematuridad AL ingreso.pdf
+@p 1
+# 5a. RECIÉN NACIDO MUY PREMATURO <32 semanas: MANEJO AL INGRESO
+*Elaborado: Susana Zeballos Sarrato. Versión 1.0 enero 2017. Actualización julio 2023: versión 1.1.*
+
+## 1- CONCEPTOS INICIALES
+- __*Prematuro tardío*__: 34+0 – 36+6 semanas de gestación (sg).
+- __*RN muy prematuro*__: < 32 semanas de gestación.
+- __*RN extremadamente prematuro*__: < 28 semanas de gestación.
+- __*Límite de la viabilidad*__: 22-25 semanas de gestación. Muy importante información a la familia. En nuestro medio se recomienda reanimación activa en RNPT ≥ 25 sg, y medidas de confort en <23 sg.
+- __*Muerte fetal*__: expulsión completa o extracción de la madre del producto de la concepción, independientemente de la duración de la gestación, que no presenta ningún signo de vida (no respiración, no latido cardiaco o pulso en cordón umbilical, o movimiento de músculos voluntarios).
+
+## 2- FACTORES DE RIESGO Y MANEJO PERINATAL:
+* Reflejarlos en la historia clínica: ayudan a determinar la posible etiología de la prematuridad y muchos de estos factores pueden influir en el pronóstico a corto y largo plazo de estos niños.
+
+@caja
+**__*1-Antecedentes maternos*__**: Hª clínica, edad, antecedentes médicos previos y patologías durante el embarazo, antecedentes obstétricos (especialmente desfavorables).
+**__*2-Embarazo:*__** espontáneo o TRA, control durante el embarazo, nº de fetos (y características del embarazo gemelar), informes ecográficos, factores de riesgo infeccioso (tiempo de bolsa rota, prolapso de bolsa, colonización materna, sospecha corioamnionitis…), ingresos previos y tiempo de ingreso actual y motivo (APP, BR, sangrado…).
+**__*3-Tratamiento materno*__**: ciclo de corticoides (fecha, nº de dosis, nº de ciclos), sulfato de magnesio, antibioterapia.
+**__*4-Parto*__**: tipo de parto e indicación de extracción fetal.
+**__*5-Recién nacido*__**: edad gestacional (la mejor estimación es por ecografía fetal precoz a las 8-12 semanas), género, reanimación (describir asistencia que precisa para estabilización respiratoria y FC), Apgar, pH cordón, somatometría al nacimiento (curvas de Fenton 2013, generalmente en la UCIN). Si es un paciente trasladado es importante indicar horas de vida al ingreso.
+@fin
+
+## 3- MANEJO PREVIO E INMEDIATO TRAS EL NACIMIENTO
+@caja
+**__*1-Preparación previa en la unidad*__**: informaremos al personal de enfermería y auxiliares para la preparación del material necesario para el ingreso (peso, incubadora, respirador/CPAP, vía para canalización, surfactante…). Informar a la familia si no se ha podido hacer previamente durante el ingreso materno en la planta de alto riesgo.
+**__*2-Preparación en paritorio:*__** preparar con antelación el material (siempre revisar) y personal para asistencia en paritorio.
+**__*3-Asistencia en paritorio*__**:
+**3.1**- El manejo y la estabilización en paritorio son de **vital importancia**, ya que puede determinar el **pronóstico** de estos niños: monitorización, estabilización respiratoria y evitar hipotermia (ver protocolo RCP Neonatal).
+**3.2**- Si el recién nacido nace sin latido y no se inicia reanimación o tras iniciarla no se consigue latido cardiaco (muerte fetal) o nace vivo, pero fallece en paritorio (medidas de confort o no respuesta a medidas de estabilización), se debe **reflejar en historia clínica materna.**
+@fin
+
+## 4-INGRESO EN LA UNIDAD NEONATAL
+@p 2
+@caja
+**__*1-Control Tª*__**: dejar bolsa de plástico en incubadora hasta estabilización Tª, humedad en incubadora 60-90% (> cuanto más inmaduro).
+**__*2-Estabilización respiratoria:*__** GN/ **CPAP/ VMNI** / VM y valorar administración de surfactante precoz (ver protocolo).
+**__*3-Monitorización*__**: FC, FR, TA, SatO2 preductal, Tª.
+**__*4-Sonda gástrica:*__** si soporte respiratorio o no alimentación por boca. Valorar inicio nutrición enteral trófica con LM propia o LM donada (ver protocolo, pedir CI).
+**__*5-Canalización de vía*__**: vena umbilical en <1000 gr, >1000 gr valorar según clínica (epicutáneo/ v.umbilical/via periférica)
+**__*6-Tratamientos iniciales*__**:
+6.1-profilaxis oculohemorragica: vitamina K 0,5 mg en <1500 gr y 1 mg en > 1500 gr.
+6.2-solución de inicio (sueroterapia si no hay), hasta llegada de NPT (pedirla lo antes posible) (ver protocolo).
+6.3-bolo de cafeína iv 20 mg/kg
+6.4-Antibioterapia: *ampicilina+gentamicina en ≤ 1000 gr. En > 1000 gr* valorar según FR infeccioso o clínica.
+**__*7-Pruebas complementarias:*__**
+7.1-Analítica: Hg, PCR, EAB
+7.2-Microbiología: hemocultivo y cultivos de superficie. CMV en orina en <1500 gr en primeros 15 días de vida.
+7.3-Rx tórax (si clínica respiratoria o VMI), Rx abdomen (si canalización umbilical). Ecografia Tf en 1ª 24 hdv.
+7.4-Ecografía pulmonar (ver protocolo).
+**__*8-CCD (cuidados centrados en el desarrollo) (ver protocolo).*__**
+@fin

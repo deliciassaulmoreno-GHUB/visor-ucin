@@ -1,0 +1,39 @@
+@f 11. Neurológico/38a. Protocolo de indicaciones de hipotermia activa-1.pdf
+@p 1
+@pie 1
+# 38a. PROTOCOLO DE TRATAMIENTO CON HIPOTERMIA TERAPEUTICA EN NEONATOS CON ENCEFALOPATÍA HIPÓXICO-ISQUÉMICA SIGNIFICATIVA
+**Fecha de modificación: noviembre 2020**
+
+La hipotermia terapéutica consiste en la reducción de la temperatura corporal entre 3-4^o^C mediante enfriamiento corporal total o cerebral selectivo, iniciada antes de las 6 horas de vida y mantenida durante 72 horas. En niños trasladados de otros hospitales se considera iniciada la hipotermia pasiva realizada durante el traslado. Es importante recordar que la hipotermia debe iniciarse lo antes posible, especialmente en las encefalopatías más graves. No olvidar que la hipertermia y la hipoglucemia incrementan el daño neurológico en la EHI.
+
+| {2} **1. Pacientes candidatos a tratamiento con HT tras un suceso de asfixia perinatal con o sin evento centinela claramente reconocible:** |
+|---|---|
+| **1.** | Edad gestacional ≥ 35 semanas y > 2000g (valorar individualmente en <35 semanas y < 2000 g) en caso de considerar tratamiento en un niño que no cumple estos criterios, comentar a los padres que la indicación está en su caso, fuera de protocolo; valorar y comentar a los padres los riesgos/beneficios y solicitar su consentimiento informado al menos verbalmente y reflejarlo en la historia clínica. |
+| **2.** | Datos perinatales compatibles con hipoxia-isquemia periparto // a. Estado fetal no tranquilizador durante la monitorización fetal o // b. Ph patológico obtenido del cuero cabelludo fetal (<7,20) o // c. Existencia de un evento centinela: prolapso de cordón, desprendimiento de placenta, rotura uterina, exanguinación fetal. // d. Existencia de distocia de parto |
+| **3.** | Estado objetivo de afectación perinatal (al menos uno) // a. Acidosis metabólica en sangre de cordón umbilical preferiblemente arteria umbilical) o pH en la primera hora de vida del recién nacido en ausencia de pH de cordón con: pH <7,0 y DB ≥12 mmol/L . // b. Apgar < 5 a los 5 minutos de vida // c. Necesidad de reanimación más de 10 minutos |
+| **4.** | Presencia de encefalopatía clínica moderada-grave: **CRITERIO IMPRESCINDIBLE** |
+! En el PDF los cuatro criterios son una lista numerada; aquí van en tabla.
+
+## 2. Escalas para la valoración clínica del grado de EHI: ver protocolo de escalas EHI.
+
+## 3. Manejo del recién nacido candidato a HT
+### __En paritorio:__
+- Seguir algoritmo de reanimación de la Sociedad Española de Neonatología
+- Evitar expansiones bruscas de volumen, hiperventilación, administración de bolos de bicarbonato y calcio
+- Tras estabilización del paciente (adecuada ventilación y FC >100lpm) apagar ya en paritorio cuna térmica para iniciar hipotermia pasiva
+
+@p 2
+@pie 2
+### __A su llegada a la unidad__
+| **a)** | Mantener hipotermia pasiva (34-35ºC) con control estricto de temperatura mediante monitorización de la misma (preferentemente rectal). Evitar variaciones bruscas de temperatura, hipertermia o sobreenfriamiento |
+|---|---|
+| **b)** | Acceso venoso (valorar vena umbilical) para administración de fluido terapia (Suero glucosado y calcio) y extracción de analíticas (hemograma, bioquímica, coagulación, gasometría, hemocultivo y cultivos de superficie). Actualmente ya no se recomienda una restricción hídrica intensa ya puede favorecer el daño renal. Iniciar fluidoterapia a 80 ml/kg/día y pueden admitir aportes globales de líquidos más altos 100-130 cc/kg días si precisa aportes iv elevados por necesidad de hemoderivados, drogas vasoactivas y perfusiones de mantenimiento de vías |
+| **c)** | Monitorización cardio respiratoria (SatO2, FC, ECG, TA, FR, CO2 espirado si ventilación mecánica), aEEG y oximetría cerebral y somática (INVOS) pegatinas localizadas en región frontal o fronto-parietal en un lado de la cabeza y en fosa renal |
+| **d)** | Medidas de soporte para estabilidad respiratoria: objetivo normo ventilación en pH corregido para la temperatura. Evitar hiperventilación y episodios de hipoxia o hiperoxia. Si precisa ventilación invasiva utilizar modalidad SIMV +VG para controlar hiperventilación. |
+| **e)** | Medidas de soporte para estabilidad hemodinámica: mantener TA en rango normal. Intentar evitar administraciones bruscas de volumen |
+| **f)** | Evitar hipoglucemia, controles seriados de glucemia |
+| **g)** | Solicitar eco cerebral para descartar daño prenatal y si es posible doppler cerebral para valorar cronopatologia del daño |
+| **h)** | Evitar si es posible, administración de sedo-analgesia para poder realizar una correcta evaluación del estado neurológico. Si precisa, administrar a dosis bajas (cloruro mórfico < 0,1mg/kg/dosis o fentanilo 1mcg/kg/dosis). Si se emplea, No será valorable la actividad de base del registro de aEEG durante los 20 min posteriores al bolo de medicación. |
+| **i)** | Evaluación clínica periódica: a la hora, 3 y 5 horas. Si se confirma en las siguientes 6 horas EHI moderada-severa: Iniciar hipotermia activa. Importante: no se debe esperar a las 6 horas de vida para decidir la inclusión en programa de hipotermia activa, si la situación de EHI significativa (moderada/ grave) está claramente definida, empezar cuanto antes con hipotermia activa servocontrolada. |
+| **j)** | Información a los padres sobre el tratamiento que va a recibir su hijo. Valorar entregar guía para padres. |
+! La lista a)–j) del PDF va aquí en tabla.

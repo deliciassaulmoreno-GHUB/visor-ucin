@@ -1,0 +1,90 @@
+@f 7. Metabólico renal/50. Protocolo de uso seguro de solucio nes electrolíticas en neonatología..pdf
+@p 1
+# __PROTOCOLO 50. USO SEGURO DE PREPARADOS ELECTROLÍTICOS EN NEONATOLOGÍA__
+*Fecha de revisión: Junio de 2018. Elaborado por: Dorita Blanco y Maria Sierra. Servicio de Neonatología*
+! En el PDF la fecha y la autoría están al final; aquí se ponen arriba. En el PDF cada fármaco es una tabla con la cabecera en rojo y los apartados en azul.
+
+## 1. SULFATO DE MAGNESIO
+| {5} **SULFATO DE MAGNESIO** |
+|---|---|---|---|---|
+| {5} Complemento electrolítico parenteral. Anticonvulsivo. |
+| {5} **DOSIFICACIÓN** |
+| {5} **1500mg Sulfato de Mg = 150 mg Mg elemental = 12.2mEq Mg/10 ml amp** // **Hipomagnesemia:** 25-50mg/kg/dosis iv de sulfato de magnesio cada 6h. // Reevaluar niveles a las 2-3 dosis // **Torsade des Pointes**: 25-50mg/kg/dosis de sulfato de magnesio cada 4-6 horas |
+| {5} **PREPARACIÓN** |
+| **PRESENTACIÓN** | **CONCENTRACIÓN** | **DILUCIÓN Y ADMINISTRACIÓN** | **TIEMPO** | **VÍA** |
+| Ampolla 10ml (1,22mEq/ml= 150mg/ml) | **Recomendada**: 75mg/ml. **Máxima**: 150mg/ml de sulfato de magnesio. | Para concentración 75mg/ml diluir al medio: igual ml de ampolla que de SSF o SG5%. // Ejem: 2ml ampolla + 2ml de SSF. | No exceder 1mEq/kg/h (125mg/kg/h) | VVP // VC |
+| {5} **ESTABILIDAD** |
+| {5} Almacenamiento ampolla a TªA. Dilución estable 24h a TªA. Desechar vial tras su uso. |
+| {5} **MONITORIZACIÓN** |
+| {5} TAM, FC |
+| {5} **PRECAUCIONES** |
+| {5} Flebitis. |
+! En el PDF «Hipomagnesemia:» está en el margen derecho, partido en tres líneas («Hipom / agnese / mia:»), junto a la dosis que le sigue.
+
+## 2. BICARBONATO SÓDICO
+| {5} ***3. BICARBONATO SÓDICO*** |
+|---|---|---|---|---|
+| {5} Tratamiento acidosis metabólica y reposición. |
+| {5} **DOSIFICACIÓN** |
+| {5} __PCR o hiperpotasemia severa__: 1 mEq/kg diluido al medio iv. // __Acidosis metabólica__: // HCO3 requerido (mEq)=déficit de HCO3 (mEq) x 0,3 x peso corporal (kg). // Administrar la mitad y luego valorar la necesidad del resto. |
+| {5} **PREPARACIÓN** |
+| **PRESENTACIÓN** | **CONCENTRACIÓN** | **DILUCIÓN Y ADMINISTRACIÓN** | **TIEMPO** | **VÍA** |
+| **Bicarbonato sódico 1/6M** (0,16 mEq/ml). Viales de 250 y 500ml. // **Bicarbonato sódico 1M** (1 mEq/ml). Ampolla de 10 ml. | Recomendada: 0,16mEq ml. (Vial 1/6M). // Máx: 0,5mEq/ml. | Administrar directamente (1/6M) o diluir con SSF o API (Bicarbonato 1M). Según prescripción. | Bolo rápido no excediendo los 10mEq/min. // Perfusión continua | VC // VVP |
+| {5} **ESTABILIDAD** |
+| {5} Desechar restante tras administración. Dilución estable 24 horas a TªA. Almacenamiento de viales o ampollas a TªA. |
+| {5} **MONITORIZACIÓN** |
+| {5} EAB (vigilar alcalosis metabólica y cifras de calcio y potasio) |
+| {5} **PRECAUCIONES** |
+| {5} Vigilar necrosis tisular. Mirar cuadro compatibilidades. |
+! La cabecera de esta tabla dice «3. BICARBONATO SÓDICO» en el PDF, aunque el apartado es el 2.
+
+## 3. CLORURO DE SODIO
+| {5} ***CLORURO DE SODIO*** |
+|---|---|---|---|---|
+| {5} Solución para casos de hiponatremia. Hipocloremia. Hiperhidratación hipotónica. |
+| {5} **DOSIFICACIÓN** |
+| {5} La dosis depende del déficit de sodio a partir de condiciones clínicas, electrolitos y valores de equilibrio ácido-base: // - Basales 2-3 mEq/kg. // - Fórmula de déficit de sodio: (Na deseado – Na obtenido) x 0.6 x Kg. // - Si Na < 120mEq/L Obnubilación y convulsiones Cl Na 3% 1-3ml/Kg. // - Hipovolemia: SSF al 0,9% a 10ml/kg |
+| {5} **PREPARACIÓN** |
+| **PRESENTACIÓN** | **CONCENTRACIÓN** | **DILUCIÓN Y ADMINISTRACIÓN** | **TIEMPO** | **VÍA** |
+| **CLNA 20%** amp 10ml. ( 32,4mEq= 1,98mg de Na). // **SSF 0,9%** viales de 10, 50,250, 500, y 1000ml. | Máx: 3% = (0,479mEq/ml) | -Para CLNA 3%: Diluir 10ml de NaCl 20% + 90ml de SSF 0,9%. // -Para goteo base consultar prescripción médica. // -SSF 0,9% administrar directamente. | No administrar a más de 1mEq/kg/h. | VVP // VC |
+| {5} **ESTABILIDAD** |
+| {5} Almacenamiento ampolla a TªA. Dilución estable 24 horas a TªA. Desechar ampolla tras su uso. |
+| {5} **MONITORIZACIÓN** |
+| {5} TA, EAB. |
+| {5} **PRECAUCIONES** |
+| {5} Flebitis. |
+! En el PDF la tabla del cloruro de sodio empieza en la página 1 y sigue en la 2 («PREPARACIÓN» en adelante).
+@p 2
+
+## 4. CLORURO POTÁSICO
+| {5} ***5. CLORURO POTÁSICO*** |
+|---|---|---|---|---|
+| {5} Haluro metálico compuesto de potasio y cloro. |
+| {5} **DOSIFICACIÓN** |
+| {5} Necesidades basales: 1-2 mEq/kg/día |
+| {5} **PREPARACIÓN** |
+| **PRESENTACIÓN** | **CONCENTRACIÓN** | **DILUCIÓN Y ADMINISTRACIÓN** | **TIEMPO** | **VÍA** |
+| ClK 2M (vial 5ml) 1ml=2mEq | Recomendada: 40mEq/L. // Máxima para VC: 150mEq/L. // Máxima para VVP: 80 mEq/L. | Diluir con SSF o SG5% en goteo base. | Infusión lenta. No superar 0,5-1mEq/kg/h | VC // VVP |
+| {5} **ESTABILIDAD** |
+| {5} Almacenamiento ampolla a TªA. Dilución estable 24h TªA. Desechar ampolla tras su uso. |
+| {5} **MONITORIZACIÓN** |
+| {5} ECG y analítica |
+| {5} **PRECAUCIONES** |
+| {5} Su infusión rápida puede ser letal, al igual que la administración directa del vial concentrado. Mirar tabla de compatibilidades. |
+! La cabecera de esta tabla dice «5. CLORURO POTÁSICO» en el PDF, aunque el apartado es el 4.
+
+## 5. GLUCONATO CÁLCICO
+| {5} ***GLUCONATO CÁLCICO 10%*** |
+|---|---|---|---|---|
+| {5} Sal de calcio y ácido glucónico |
+| {5} **DOSIFICACIÓN** |
+| {5} Necesidades basales: 1-2 mEq/kg/día // Hipocalcemia sintomática/ Hiperpotasemia →bolos puntuales: 0,5-1 ml/kg |
+| {5} **PREPARACIÓN** |
+| **PRESENTACIÓN** | **CONCENTRACIÓN** | **DILUCIÓN Y ADMINISTRACIÓN** | **TIEMPO** | **VÍA** |
+| Suplecal 0,46mEq/ml (vial 10ml) // 9,2 mg de Ca / ml | Recomendada: 0,23mEq/ml | Diluir al medio (misma cantidad de SSF o API que de gluconato cálcico) // Añadir dosis prescrita al goteo base. | 20 minutos | VC // VVP |
+| {5} **ESTABILIDAD** |
+| {5} Almacenamiento ampolla a TªA. Dilución estable 24h TªA. Desechar ampolla tras su uso. |
+| {5} **MONITORIZACIÓN** |
+| {5} Analítica // EGC si administración de bolo. |
+| {5} **PRECAUCIONES** |
+| {5} Riesgo de necrosis en caso de extravasación. // Mirar tabla de compatibilidades. |

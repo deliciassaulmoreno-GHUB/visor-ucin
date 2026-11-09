@@ -1,0 +1,43 @@
+@f 8. Digestivo/58. Protocolo de valoración del estado nutricional.pdf
+@p 1
+# 58. PROTOCOLO VALORACIÓN ESTADO NUTRICIONAL
+Complementa protocolo 17e. Revisión 2025
+*Actualizado 30/11/21 (Dras. M. Arriaga, A. Rodríguez y E. Sanz)*
+! En el PDF «Actualizado 30/11/21…» está al pie de la página 2, tapado en parte por «Complementa protocolo 17e. Revisión 2025».
+@pie Complementa protocolo 17e. Revisión 2025
+
+@flujo
+[**__AL INGRESO__** // Todos los pacientes serán clasificados en ELEVADO/ ADECUADO/BAJO peso para la edad gestacional según las curvas de Fenton (disponibles en carpeta de uso compartido “Departamentales”). // A aquellos con elevado o con bajo peso, se les aplicará el protocolo de hipoglucemia. // El médico responsable valorará si se trata de un paciente con riesgo nutricional/digestivo y si es candidato a ser receptor de leche humana donada (LHD), en cuyo caso se les ofrecerá a los padres, previa información sobre la Unidad de Nutrición Personalizada (UNP) y firma de Consentimiento Informado, la recepción de LHD.]
+v
+[Indicaciones de recepción de LHD: // ✓ Recién nacido pretérmino <32 semanas de edad gestacional. // ✓ Recién nacido de bajo peso al nacimiento < 1500 gramos. // ✓ Crecimiento intrauterino retardado // ✓ Depresión perinatal con acidosis metabólica severa (pH al ingreso <7.2, EB < -10, láctico >5). // ✓ Reintroducción de la alimentación tras enterocolitis necrotizante o cirugía intestinal. // ✓ Compromiso de la perfusión intestinal secundarios a eventos hipóxico-isquémicos (asfixia perinatal, post parada cardiorrespiratoria, shock grave). // ✓ Cardiopatía congénita con compromiso hemodinámico tanto en período preoperatorio como en postoperatorio // ✓ En pacientes con quilotórax se ofrecerá posibilidad de centrifugar para descremar la leche materna propia.]
+(Además, el personal facultativo de la UNP también revisará de lunes a viernes los ingresos, para confirmar si hay nuevos pacientes candidatos a recibir LHD.)
+v
+[**__DURANTE EL INGRESO__** // • Se valorará la ganancia ponderal diaria en todos los pacientes, estableciéndose como valor objetivo ganancia de 15-20 g/día // • Crecimiento de perímetro cefálico semanal, fijando como objetivo un aumento de 0.8cm/semana // • Longitud: objetivo un aumento de 0.5-0.8cm/semana]
+@finflujo
+
+| PARÁMETRO | OBJETIVO | VALOR DE RIESGO |
+|---|---|---|
+| PESO | +15-20 g/día | <15 g/día |
+| PC | 0.8 cm/semana | <0,5 cm/semana |
+| LONGITUD | 0.5-0.8 cm/semana | <0,5 cm/semana |
+
+@p 2
+@flujo
+[__En caso de estar en valores de riesgo__, se revisará que el aporte calórico y proteico sea el adecuado y se realizará analítica para valorar parámetros nutricionales (ver protocolo de nutrición en prematuro, disponible en carpeta de uso compartido “Departamentales”). En caso de no ser suficientes los aportes, se revisará la composición de la leche materna (LM) en la UNP y se individualizará la fortificación de la misma con FM 85.]
+@finflujo
+Independientemente, a los __pacientes prematuros__, se les realizará analítica nutricional a las 2 semanas de alcanzar la nutrición enteral exclusiva (ver protocolo de nutrición en prematuro)
+En pacientes con otra __patología crónica con riesgo nutricional__ (cardiopatías con insuficiencia cardiaca, quilotórax (ver protocolo específico disponibles en carpeta de uso compartido “departamentales”), postoperatorio de cirugía digestiva), se valorarán parámetros de crecimiento, analítica nutricional y se realizará interconsulta a Nutrición Infantil para valoración y tratamiento.
+
+## __PREVIO AL ALTA__
+@flujo
+@cols
+[__1. Valoración nutricional óptima:__ // Si ha estado con LM fortificada, se retirará la fortificación en la semana previa al alta y se vigilará el crecimiento.]
+---
+[__2. Valoración nutricional subóptima:__ // Se valoran distintas opciones para domicilio (ver protocolo nutrición del prematuro al alta, disponible en carpeta de uso compartido “departamentales”): // -Continuar con fortificación al alta. // -Ofrecer suplemento de fórmula de prematuro tras realizar las tomas de LM. // -Sustituir alguna toma de LM por fórmula de prematuro. // Cualquiera que sea la opción, se seguirá el crecimiento en Atención Primaria y en consulta de Neonatología]
+@fincols
+@finflujo
+! En el PDF este protocolo es texto seguido por apartados (al ingreso, durante el ingreso, previo al alta); aquí se presenta como pasos encadenados.
+
+@caja
+Práctica de **“No hacer”**: No sustituir nunca la lactancia materna por fórmula artificial, sin haber realizado previamente correcta valoración nutricional (aportes recibidos y analítica nutricional) e indicación médica clara.
+@fin

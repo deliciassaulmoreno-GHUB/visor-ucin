@@ -1,0 +1,44 @@
+@f 5. Hemodinámico/41.C. Checklist ECMO.pdf
+@p 1
+# TEMA 41C. ECMO: LISTA DE COMPROBACIÓN Y PURGADO DE CIRCUITO.
+**ANEXO_ 1**
+
+## COMPROBACION
+□ Conectar la bolsa de salida del aire a la llave del puente (lado venoso) retirando el tapón valvulado (Colocar Bolsa de aire sobre la consola)
+□ Conectar el SSF heparinizado simple a la llave de tres pasos colocada en la Presión-Succión (con sistema de hemoderivados), retirándo tapón valvulado.
+□ Comprobar Nivel de Agua del Calentador.
+□ Conectar tubuladuras de Agua al Oxigenador.
+□ Programar Tª37ºC.
+□ Comprobar que NO hay pérdidas de agua a través del Oxigenador.
+
+## PURGA POR GRAVEDAD
+□ Retirar tapón amarillo del lado venoso del Oxigenador.
+□ Llaves amarillas del puente abiertas.
+□ Colocar 1º clamp detrás de la llave de Presión-Succión y previo a la bomba.
+□ Abrir entrada de suero (llave de Presión-Succión).
+□ Abrir salida del aire (llave del puente – lado venoso).
+□ Purga del lado venoso hasta el puente (hasta que el SSF pase el puente).
+□ Colocar 2º clamp en lado venoso previo al puente.
+□ Retirar 1º clamp, que estaba colocado detrás de la llave de Presión-Succión.
+□ Purga del lado venoso hasta pasado el rotor de forma manual (dejar pasar suero hasta llave de medicación).
+
+## PURGA CON BOMBA CENTRIFUGA
+□ Rotor colocado en la unidad motriz, y aplicar crema conductora
+□ Encender Consola ROTAFLOW: Cuando aparezca “VALVE?” confirmar presionando botón “clamp” ✂
+□ Hacer “cero”: Subiendo el mando giratorio hasta 1500 rpm y después bajar a cero confirmar manteniendo pulsado el botón:→O←; hasta la aparición sonora de tres pitidos y aparecen 4 ceros.
+□ Programar 1500 rpm.
+□ Completar purgado del resto del circuito.
+□ Cerrar puente desde ambas llaves de 3 pasos, dejando la salida de aire abierta.
+□ Dejar purga con SSF durante 2 min, y mientras purgar todas las llaves de circuito.
+□ Colocar jeringa de 10 ml, a través de tapón valvulado superior postMB, y dejar que salga el aire espontáneamente (estará correctamente purgada cuando solo salga SSF).
+□ Retirar ¡SOLO AHORA! 2º clamp del lado venoso previo al puente.
+□ Cambiar SSF por Unidad Concentrado Hematíes y pasarla completa.
+□ Completar purgado con 50 ml de Plasma Fresco Congelado (en Dosifix).
+□ Cerrar entrada de hemoderivados y poner tapón en esa llave.
+□ Cerrar salida de aire y colocar tapón en esa llave.
+□ Colocar tapón amarillo pre membrana.
+□ Conexión de gas de la membrana (flujo de gas mínimo y fiO2 40%).
+□ Bolo de Heparina y realizar ph para “priming”.
+□ Conectar presurizadores a las llaves: pre-MB, post-MB y P-Succión y hacer “cero” (lavados de SSF limpio a 300mmHg).
+□ Conectar flowmeter en rama arterial (en la salida posmembrana) del circuito.
+□ Conectar Heparina a la llave antirreflujo purgada, al tapón valvulado del circuito.

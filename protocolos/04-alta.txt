@@ -1,0 +1,36 @@
+@f 2. Recién nacido sano/4. Protocolo de alta de hospitalización-1.pdf
+@p 1
+# PROTOCOLO DE ALTA DE HOSPITALIZACIÓN DEL RECIÉN NACIDO
+Dra. Pescador. Revisado y vigente en noviembre de 2021
+
+## Criterios de alta:
+- Estabilidad hemodinámica: datos de monitorización, gasométricos, ecocardiográficos y clínicos de estabilidad hemodinámica adecuados a su condición médica específica. Si necesidad de tratamiento farmacológico, alta con posibilidades de ser administrados por la familia en domicilio.
+- Estabilidad respiratoria: ausencia de signos de dificultad respiratoria, ausencia de apneas y saturación de oxígeno adecuada a su condición médica. Si necesidad de oxígenoterapia en domicilio, haber tramitado la provisión de oxígeno para el domicilio y desplazamientos a la familia, y monitor de saturación de oxígeno y frecuencia cardiaca.
+- Estabilidad térmica: capaz de mantener una temperatura corporal normal (36-37◦C) completamente vestido en una cuna abierta.
+- El recién nacido (RN) es capaz de cubrir sus necesidades calóricas y presentar adecuada ganancia ponderal a través de nutrición enteral completa. Puede realizar una adecuada succión y coordinación succión-deglución hasta completar las tomas.
+- Ausencia de signos de infección o necesidad de antibioterapia intravenosa.
+- No precisa aportes intravenosos de glucosa u otros iones.
+- Ausencia de signos de anemia u otras alteraciones hematológicas que requieran tratamiento.
+- Estabilidad neurológica: ausencia de crisis convulsivas, tanto clínicas como eléctricas, situación de drenaje de líquido cefalorraquídeo estable (portador de válvula ventrículoperitoneal o no necesidad de extracciones con reservorio tipo Ommaya)
+- Ausencia de riesgo sociofamiliar o tramitado seguimiento y apoyo.
+
+## Tareas a realizar para el alta del recién nacido:
+- Una vez tomada la decisión de alta de un recién nacido comunicar a la enfermería responsable del mismo esa decisión. Comunicar a los padres del paciente, preferiblemente con algún día de antelación la decisión.
+- Comprobar y, en su defecto pautar, que ha recibido la primera dosis de VHB y, en función de la duración de la estancia, ha recibido las dosis necesarias de esta y otras vacunas según el calendario vacunal vigente.
+- Realizar el screening auditivo. Si no se ha superado la prueba de cribado auditivo se ha proporcionado a los padres la cita para repetición de la prueba y en el caso de bilateralidad se ha recogido muestra de orina para CMV y proporcionado la cita para consulta de enfermedades infecciosas.
+@p 2
+- Proporcionar ayuda para la lactancia materna. En su defecto, asegurar la comprensión por parte de los padres de la fórmula a comprar, las cantidades y la preparación correcta de los biberones.
+- Proporcionar a los padres información detallada sobre las dosis, preparación y administración de medicación que precise el RN al alta. Proporcionar recetas de aquellas medicaciones que lo requieran.
+- Si el recién nacido debe llevarse a domicilio un monitor de pausas de apnea, instruir a los padres en reanimación cardiopulmonar básica.
+- Si el recién nacido así lo precisa tramitar la derivación a Atención Temprana y proporcionar la documentación e información necesaria para la valoración de dependencia.
+- Proporcionar a los padres información detallada para identificar situaciones de riesgo.
+- Escribir e imprimir un informe de alta de hospitalización. Explicar el informe a los padres.
+- Proporcionar a los padres volante para citas de exploraciones complementarias y seguimiento por especialistas.
+- Si el recién nacido es prematuro:
+  - Asegurar que se ha realizado cribado de retinopatía de la prematuridad y programación de seguimiento oftalmológico.
+  - Iniciar la profilaxis para el VRS y programar seguimiento para administración de futuras dosis si época epidémica.
+  - Tramitar la derivación a Atención Temprana y proporcionar la documentación e información necesaria para la valoración de dependencia.
+  - Solicitar, antes del alta, valoración por el Servicio de Rehabilitación. Si el neonato pretérmino ya ha iniciado tratamiento de fisioterapia o terapia ocupacional durante su hospitalización, contactar con el Servicio de Rehabilitación previo al alta para solicitar la continuidad de cuidados.
+
+@bib Bibliografía
+Benavente Fernández I, Sánchez Redondo MD, Leante Castellanos JL, Pérez Muñuzuri A, Rite Gracia S, Ruiz Campillo CW, Sanz López E y Sánchez Luna M. Criterios de alta hospitalaria para el recién nacido de muy bajo peso al nacimiento. An Pediatr (Barc). 2017; 87(1): 54.e1-54.e8.

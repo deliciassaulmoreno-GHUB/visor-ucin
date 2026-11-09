@@ -1,0 +1,39 @@
+@f 9. Infeccioso/71. Prevención infección CMV adquirida.pdf
+@p 1
+__Protocolo nº 71__
+# Prevención infección CMV adquirida
+*Revisión Enero 2025*
+
+@flujo
+@cols
+[__Población a realizar seguimiento__ // ≤32 semanas]
+[**POBLACIÓN ALTO RIESGO** // ≤ 28 semanas // < 1000 gr]
+---
+[**PRIMERA DETERMINACIÓN CMV** // - Orina del RN en primeras 48-72 horas . Objetivo: descartar CMV congénito------**MR** // - LM propia en primeros 5-6 dias: Objetivo: conocer estado serológico de la madre si éste no está disponible------**UNP** // - Otras opciones: ampliar serología a CMV en la madre si seroteca disponible------**MR**]
+@fincols
+v
+[**Madres seropositivas ó con PCR CMV en LM +**]
+(**< 28 semanas:** Pasteurizar LM propia 8 semanas)
+v
+[**Vigilancia epidemiológica** en orina del RN: PCR CMV semanal--------**MR** // Permite detectar infección en el pretérmino (puede ser asintomática) // SI **POSITIVO:** proponer **pasteurización** de LMp durante al menos **8 semanas** --**UNP** // En cualquier momento y ante **sospecha infección:** solicitar PCR CMV orina ---**MR**]
+v
+[• Tratamiento de casos sintomáticos graves de infección CMVp // • Solicitar RNM cerebral en los casos de infección en EPM a término (lesión SSB región occipital)]
+@finflujo
+! En el PDF «Población a realizar seguimiento» lleva una flecha a «Primera determinación CMV», y de «Madres seropositivas…» sale una flecha lateral a «< 28 semanas: Pasteurizar LM propia 8 semanas». MR y UNP van en color (verde y azul).
+
+@p 2
+Sospechar infección CMVp si:
+@deimg
+| {2} **Table 2 Table of clinical presentations to trigger testing for pCMV** |
+|---|---|
+| Risk factors | ▶ <32 weeks’ gestation // ▶ <1500 g birth weight // ▶ Exposed to breast milk from a CMV-seropositive mother |
+| Clinical features | ▶ Sepsis-like symptoms // ▶ Respiratory distress // ▶ Hepatomegaly // ▶ Splenomegaly // ▶ Cholestatic jaundice // ▶ NEC // ▶ BPD |
+| Abnormal laboratory markers | ▶ Thrombocytopaenia (<100×10^9^/µL) // ▶ Neutropaenia (<0.5/mm^3^) // ▶ Raised liver enzymes (AST >150 U/L, ALT >90 U/L, Gamma GT >200 IU/L) // ▶ Conjugated hyperbilirubinaemia |
+| Imaging | ▶ CXR: evidence of pneumonitis // ▶ CrUSS: lenticulostriatal vasculopathy, germinolytic cysts // ▶ Findings consistent with NEC |
+| {2} BPD, bronchopulmonary dysplasia; CMV, cytomegalovirus; CrUSS, cranial ultrasound scan; CXR, chest X-ray; NEC, necrotising enterocolitis; pCMV, postnatal cytomegalovirus. |
+@findeimg
+! La tabla 2 es una imagen en inglés dentro del PDF; se ha copiado a mano sin traducir.
+
+| **Indicaciones Tratamiento** |
+|---|
+| • Cuadros de sepsis-like // • Afectación orgánica severa: // • Neumonitis. // • Hepatitis con colestasis. // • Enterocolitis hemorrágica. // • Diarrea grave refractaria. // • Meningoencefalitis // • Empeoramiento respiratorio // // **• Valganciclovir 4-6 semanas .** |

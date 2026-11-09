@@ -1,0 +1,19 @@
+@f 7. Metabólico renal/57. Alteracion de funcion t iroidea en la analítica.pdf
+@p 1
+# PROTOCOLO 20b. FUNCIÓN TIROIDEA ANORMAL EN CUALQUIERA DE LOS CONTROLES
+! El título del PDF dice «Protocolo 20b» aunque el archivo es el 57.
+
+@flujo
+@cols
+[**__Hipertiroidismo bioquímico sin síntomas.__** // Inicialmente no tratamiento, control en 1-2 semanas // Considerar metamizol vía oral 0,2-0,5 mg/ kg/ día / 12h // **__Hipertiroidismo bioquímico con síntomas.__** // Iniciar **metamizol** 0,2-0,5 mg/ kg/ día / 12 horas via oral . // **-Si hiperactividad simpática**: Ingreso hospitalario. Añadir betabloqueantes 2 mg/ kg/ día cada 12 horas. // **-Si inestabilidad hemodinámica o Distrés Respiratorio:** Ingreso en UCI. Añadir lugol, 1 gota ( 0,05 ml ) tres veces al día o Yoduro potásico 1 gota ( 0,05 ml ) 1 vez al día.]
+v
+[Controles TSH / T 4 libre cada 1-2 semanas. Disminuir dosis metamizol cuando T4 libre se normalice, hasta suspensión ( media 1-2 meses )]
+---
+[**__Hipotiroidismo central o primario:__** // Repetir TSH / T4 libre en 1 semana -> // Iniciar levotiroxina 10 mcg / kg /día si T4 libre persite baja en nuevo control // Controles cada 2-3 semanas para ajuste de dosis de levotiroxina // En caso de patrón de hipotiroidismo central ( T4 libre baja y TSH inapropiadamente normal, anticuerpos Anti TSI negativos) estudiar eje hipofisario]
+@fincols
+@finflujo
+! Se copia tal como está en el PDF, que dice «metamizol» las tres veces; compruébalo con el autor del protocolo (el antitiroideo habitual es el metimazol).
+
+@bib Bibliografía:
+- Recomendaciones para el diagnóstico y seguimiento del feto y del recién nacido hijo de madre con patología tiroidea autoinmune. Ares Segura S, Temboury Molina C, Rodríoguez Sánchez A, et al. En representación del Grupo de trabajo de tiroides de la Sociedad Española de Endocrinología Pediátrica. Anales de Pediatría. 254 ( 2018)
+- D.C. Van der Kaay, J.D. Wasserman, M.R. Palmert. Management of neonates born to mothers with Graves’ disease. Pediatrics., 137 (2016), pp. e20151878

@@ -1,0 +1,238 @@
+@f 6. Respiratorio/30. Protocolo de ventilación no invasiva.pdf
+@p 1
+*PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)*
+# PROTOCOLO NEONATOLOGÍA: NÚMERO 30 (ACTUALIZADO FEBRERO 2025)
+**PROTOCOLO VENTILACIÓN NO INVASIVA**
+
+## ASISTENCIA NO INVASIVA EN PARITORIO.^1^
+@caja
+**INDICACIONES CPAP TRAS ESTABILIZACIÓN INICIAL.**
+- Menores de 32 semanas con esfuerzo respiratorio espontáneo.
+- Recién nacido con distres respiratorio:
+  - Necesidad de oxigeno > 21%
+  - Polipnea y/o tiraje subcostal.
+
+**APLICACIÓN EN PARITORIO.**
+Dispositivo neopuff con mascarilla buconasal:
+- Flujo: 8-10lpm.
+- PEEP 6-7cmH~2~0.
+- FiO2 para normograma de saturación.
+
+**Si el paciente va a ingresar en la UCIN, especialmente los menores de 28 semanas**, una vez estabilizado, se procederá a la colocación en paritorio del **dispositivo VN500-VN800** con el que se mantendrá posteriormente en la UCIN ^1^.
+- Interfase: Mascarilla nasal (se seleccionará el tamaño adecuado al paciente con la herramienta diseñada para ello)
+- Arnés cefálico (selección tamaño según medición de PC) https://youtu.be/gIumeXmT-e8?si=H2d7KOWkAWFZEU7s
+- SNG abierta
+- Modo Neonatal No invasivo CMV. Humidificador en modo invasivo.
+  - Flujo máximo 23 lpm
+  - PIP 15-20 cmH~2~O
+  - PEEP 6-7cmH~2~O
+  - FR 30 rpm
+  - FiO~2~ para Sat 90-94%
+@fin
+
+@flujo
+[RESPIRADOR A LA PARED. // CICLANDO EN PSV+VG CON PULMÓN Y CALENTADOR ENCENDIDO]
+v
+[NEOPUFF A LAS BALAS]
+(TRAS ESTABILIZACIÓN)
+v
+[COLOCACIÓN ARNES CEFÁLICO Y MASCARILLA // CONECTAR RESPIRADOR EN CMV]
+v
+[RESPIRADOR A LAS BALAS // TRASLADO]
+@finflujo
+@img 30-paritorio.png?v=2
+Maletín en UCIN
+! El esquema del PDF lleva a la izquierda dos fotos (el material de la interfase y el maletín) unidas por una flecha; se reproducen recortadas del PDF.
+
+^1^ El objetivo de esta medida es asegurar el mantenimiento de la presión positiva de forma más eficaz durante el traslado, el acondicionamiento de los gases de forma más precoz y minimizar las intervenciones a realizar al ingreso del paciente.
+Biniwale, M. and F. Wertheimer, *Decrease in delivery room intubation rates after use of nasal intermittent positive pressure ventilation in the delivery room for resuscitation of very low birth weight infants.* Resuscitation, 2017. **116**: p. 33-38.
+Meyer MP, Owen LS, Te Pas AB. Use of heated humidified gases for early stabilization of preterm infants: a meta-analysis. Front. Pediatr. 2018;6:319–319. doi: 10.3389/fped.2018.00319. Kuypers K, Martherus T, Lamberska T, Dekker J, Hooper SB, Te Pas AB. Reflexes that impact spontaneous breathing of preterm infants at birth: a narrative review. Arch Dis Child Fetal Neonatal Ed. 2020;105(6):675-679. doi: 10.1136/archdischild-2020-318915 Donaldsson S, Drevhammar T, Li Y, Bartocci M, Rettedal SI, Lundberg F, Odelberg-Johnson P, Szczapa T, Thordarson T, Pilypiene I, Thorkelsson T, Soderstrom L, Chijenas V, Jonsson B; CORSAD Trial Investigators. Comparison of Respiratory Support After Delivery in Infants Born Before 28 Weeks' Gestational Age: The CORSAD Randomized Clinical Trial. JAMA Pediatr. 2021 Sep 1;175(9):911-918. doi: 10.1001/jamapediatrics.2021.1497. PMID: 34125148; PMCID: PMC8424478.
+*Formación Fph; Guia humidificación drager
+@pie 1
+
+@p 2
+@pie PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)
+## ASISTENCIA NO INVASIVA EN UCIN
+@caja
+Los pacientes que ingresan en la UCIN por prematuridad (todos los menores de 28 semanas) o por distres respiratorio, se iniciará soporte con ventilación no invasiva.
+**Dispositivo: VN500-VN800. Modo Neonatal No invasivo CMV. VMNI. Humidificador modo invasivo *.**
+- Arnes cefálico (al menos los primeros 3 días)
+- Interfase: Mascarilla nasal.
+- Parámetros Iniciales:
+  - Flujo máximo 23lpm
+  - PIP 15-20 cmH~2~O
+  - PEEP 6-7cmH~2~O
+  - FR 30
+  - Ti 0,4
+  - Rampa 0,1
+  - FiO~2~ para mantener Sat 90-94%
+- Sonda nasogástrica en chimenea entre tomas.
+- **Manejo inicial:**
+  - Cafeína iv dosis de carga (Cafeina citrato 20mgr/kg)
+  - Ecografía pulmonar en las primeras 2 horas (entre la primera y segunda hora).
+  - Prematuros que precisen ≥ 30% FiO~2~ o LUS > 8, administrar surfactante (Curosurf 200mgr/kg por técnica LISA)*
+  - Si FiO2 > 35% tras surfactante, aumentar PEEP hasta 7-7,5 cmH~2~O tras realización de ecografía pulmonar.
+  - Si acidosis respiratoria (pCO~2~ > 60) aumentar PIP.
+  - En pacientes que cumplan uno de los criterios para intubación, pero en quienes se opte por optimizar el soporte ventilatorio no invasivo, se implementará la monitorización de INVOs cerebral con el objetivo de proporcionar una evaluación más objetiva de la estabilidad clínica y la necesidad de intubación orotraqueal.
+@fin
+- **Segunda dosis de surfactante si FiO2 > 35-40% a las 12 hs de la primera dosis**
+
+@caja
+**Criterios de Intubación:**
+- FiO2 ≥ 50% tras surfactante.
+- pH< 7,20; PCO~2~> 65mmHg
+- Pausas de Apnea (>4/h o más de una que requiera presión positiva intermitente)
+@fin
+
+@caja
+**Se realizará una evaluación diaria del histograma de saturación y frecuencia respiratoria y frecuencia cardiaca de las 24 horas previas. Ver anexo 1.**
+@fin
+@pie 2
+
+@p 3
+@pie PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)
+## ASISTENCIA NO INVASIVA EN CUIDADOS MEDIOS.
+@caja
+SOPORTE CON CPAP DE BURBUJA. SEATLE CPAP (REALIZAR CHECK LIST Anexo 2).
+- Tamaño de INTERFASE (mascarilla nasal), Tubuladuras (babyflow) y gorro ajustados al paciente.
+- FLUJO 8-10 lpm
+- PEEP 6-7 cmH~2~O
+- FiO~2~ para saturación (90-94%)
+@fin
+
+@caja
+**Criterios de paso a VMNI**
+- FiO~2~ mayor de 30% o LUS >8 en la primera semana de vida, en los primeros 3ddv se administrará también surfactante.
+- Acidosis respiratoria con pCO2 mayor de 60 mmHg
+- Pausas de apnea.
+@fin
+
+@caja
+**Se realizará una evaluación diaria del histograma de saturación y frecuencia cardiaca de las 24 horas previas. Ver anexo 1.**
+@fin
+
+@caja
+**Se mantendrá el soporte con CPAPn al menos hasta las 32 semanas de EPM.**
+@fin
+
+## CONSIDERACIONES GENERALES SOPORTE NO INVASIVO.
+- **Confirmar tamaño del gorro:** Medición semanal de perimetro cefálico ajustando el tamaño del gorro
+
+**Drager**
+| Tamaño | Color | Circunferencia de la cabeza (cm) | Peso(gramos) |
+|---|---|---|---|
+| S | Amarillo | Hasta 23 | 700 – 1,000 |
+| M | Naranja claro | Hasta 26 | 1,000 – 1,300 |
+| L | Salmón claro | Hasta 28 | 1,300 – 1,600 |
+| XL | Lavanda | Hasta 30 | 1,600 – 2,400 |
+| XXL | Azul | Hasta 33 | 2,400 – 3,000 |
+| XXL+ | Verde | Hasta 36 | Más de 3,000 |
+
+**nFlow**
+@deimg
+| {{#013a58}} **4707009** | Gorro nFlow azul marino, tamaño 9 (40 - 42cm) |
+| {{#33bebd}} **4707008** | Gorro nFlow turquesa, tamaño 8 (38 - 40cm) |
+| {{#f77a09}} **4707007** | Gorro nFlow naranja, tamaño 7 (36 - 38cm) |
+| {{#c12f25}} **4707006** | Gorro nFlow rojo, tamaño 6 (34 - 36cm) |
+| {{#08b28d}} **4707005** | Gorro nFlow verde, tamaño 5 (32 - 34cm) |
+| {{#fcc04d}} **4707004** | Gorro nFlow naranja claro, tamaño 4 (30 - 32cm) |
+| {{#038ac5}} **4707003** | Gorro nFlow azul, tamaño 3 (28 - 30cm) |
+| {{#ffe102}} **4707002** | Gorro nFlow amarillo, tamaño 2 (26 - 28cm) |
+| {{#747577}} **4707001** | Gorro nFlow marrón, tamaño 1 (24 - 26cm) |
+| {{#f0c5c8}} **4707110** | Gorro nFlow rosa, tamaño 0 (22 - 24cm) |
+| {{#9b9b9d}} **4707100** | Gorro nFlow gris, tamaño 00 (20 - 22cm) |
+| {{#fefefe}} **4707000** | Gorro nFlow blanco, tamaño 000 (18 - 20cm) |
+@findeimg
+! En el PDF la lista de gorros nFlow es una imagen de baja resolución, con un punto del color de cada gorro; se ha copiado a mano como tabla, con los colores de los puntos tomados de esa imagen.
+
+- Chequeo por turno del estado de la piel y **ajuste posición y tamaño de mascarilla /prongs según situación**. Individualizar utilización de apósitos protectores .
+@pie 3
+
+@p 4
+@pie PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)
+## CRITERIOS DE ESTABILIDAD RESPIRATORIA PARA ALTA DOMICILIARIA CON OXIGENO EN DBP ^2^
+@caja
+- Estable con < ½ l de oxigeno 100% (menos del 5% con saturaciones <89%)
+  - Mantiene Saturación > 92%
+  - No pausas de apnea que requieran intervención en los 5 días previos.
+  - Adecuada ganancia ponderal (20 g/d)
+  - TA en rango normal.
+- Mantiene Sat > 80% durante al menos 20 min sin oxigeno suplementario.
+- Evaluación previa por Cardiologia y Neumología. Continuidad asistencial por Rehabilitación y derivación CRECOVI.
+- Disponibilidad de dispositivos domésticos.
+  - Pulsioximetro
+  - Oxigeno líquido (con mochila) / concentrador de oxigeno.
+- Realizada educación a los padres
+  - Realizada formación en RCP básica
+  - Proporcionar y explicar guía para padres con DBP
+  - Explicado situación y actuación en caso de emergencia.
+  - Contacto previo con Pediatra de atención primaria.
+  - Gestionadas citas de seguimiento y medicación en la tarjeta
+  - Cita telefónica en consulta de Neonatología 24-48hs tras el alta.
+@fin
+
+^2^ ***Anderson, C. Bronchopulmonary Dysplasia: When the Very Preterm Baby Comes Home. Mo Med, 2019. 116(2): p. 117-122.***
+***Balfour-Lynn, I.M., et al., BTS guidelines for home oxygen in children. Thorax, 2009. 64 Suppl 2: p. ii1-26.***
+@pie 4
+
+@p 5
+@pie PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)
+## Anexo 1. Protocolo guiado por análisis de histograma para el manejo del soporte respiratorio no invasivo^3^
+**Reglas generales para el destete:**
+1. No reducir la presión hasta que la FiO₂ sea 21% en fase aguda y <30% en pacientes con Displasia Broncopulmonar.
+2. Ausencia de apneas significativas durante 24-48 horas.
+**3.** Frecuencia respiratoria > 60 rpm menos del 20% del tiempo en las ultimas 24 horas (este parámetro sólo puede ser considerado en los pacientes ingresados en la UCIN), sin trabajo respiratorio con gasometría normal (pH > 7,30; pCO2 < 60 mmHg). **Ver tabla 1.**
+4. Reducir la presión según el tipo de soporte utilizado:
+- **NIPPV:** reducir la presión inspiratoria (PIP) en pasos de 1–2 cm H₂O en prematuros menores de 29 semanas o con displasia broncopulmonar. Reducir en 2–4 cm H₂O en el resto de pacientes. Considerar paso a CPAPn si PMAP < 7-8 cmH2O, no pausas centrales y adecuada ventilación.
+- **CPAPn**: reducir la presión en pasos de 1 cm H₂O hasta 4 cmH~2~O^4^.
+  - **Mantener soporte con CPAPn hasta las 32 semanas de EPM^5^.**
+  - **En menores de 28 semanas realizar ecografía pulmonar previo a retirada, si LUS > de 6 no retirar^6^.**
+  - **Si FiO2 21% no colocar gafas nasales.**
+  - **En caso que precise aumento de FiO2 mayor del 3-5%, reiniciar CPAPn.**
+
+5. Modificar FiO₂ en incrementos o descensos del 3–5%.
+6. Se intentará reducir la presión, siempre que el histograma sea favorable para el destete (ver las tablas a continuación).
+
+^3^ Sur, A. and A. Paria, *Histogram analysis for bedside respiratory monitoring in not critically ill preterm neonates: a proposal for a new way to look at the monitoring data.* Eur J Pediatr, 2021. 180(1): p. 283-289.
+^4^ van Delft B, Van Ginderdeuren F, Lefevere J, van Delft C, Cools F. Weaning strategies for the withdrawal of non-invasive respiratory support applying continuous positive airway pressure in preterm infants: a systematic review and meta-analysis. BMJ Paediatr Open. 2020 Nov 19;4(1):e000858. doi: 10.1136/bmjpo-2020-000858. PMID: 33263087; PMCID: PMC7678397.
+^5^ Lam, R., et al., *The Effect of Extended Continuous Positive Airway Pressure on Changes in Lung Volumes in Stable Premature Infants: A Randomized Controlled Trial.* J Pediatr, 2020. **217**: p. 66-72.e1.
+Yazdi, S., et al., *Extended CPAP or low-flow nasal cannula for intermittent hypoxaemia in preterm infants: a 24-hour randomised clinical trial.* Arch Dis Child Fetal Neonatal Ed, 2024. 109(5): p. 557-561.
+^6^ Myers F, Dasani R, Tong J, et al. Point-of-care lung ultrasound for continuous positive airway pressure discontinuation in preterm infants. *J Perinatol*. 2025;45(1):68-72. doi:10.1038/s41372-024-02157-1
+Abdelmawla M, Seleem W, Farooqui M, Eltayeb A, Elsayed Y. Prediction of weaning readiness off nasal CPAP in preterm infants using point-of-care lung ultrasound. *Pediatric Pulmonology*. 2022; 57: 2128-2135. doi:10.1002/ppul.26014
+@pie 5
+
+@p 6
+@pie PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)
+| Frecuencia respiratoria (6) | {2} Porcentaje de tiempo con SpO₂ <90% | Porcentaje de tiempo con SpO₂ >95% |
+|---|---|---|
+| | **>20%** | **<20%** | **> 20%** |
+| **FR >80 rpm >20% del tiempo** | Aumentar presión (PIP) en 2–4 cm H₂O (NIPPV) y FiO₂ en 3–5% (1)(2) | Aumentar presión en 2–4 cm H₂O (NIPPV) o 1 cm H₂O (CPAP) (3) | |
+| **FR ~60–80 rpm >20% del tiempo** | Aumentar presión en 1–2 cm H₂O (NIPPV) o 1 cm H₂O (CPAP). Aumentar FiO2 3-5% (4) | No reducir presión o hacerlo con precaución. | Reducir FiO₂ en 3–5% (4) |
+| **FR >60 rpm <20% del tiempo** | Mantener presión. Aumentar FiO2 3-5% (4) | Ideal para el destete (5) | |
+! En el PDF la casilla «Reducir FiO₂ en 3–5% (4)» ocupa la columna de SpO₂ >95% sin separación entre filas; se coloca en la fila central, que es donde aparece.
+
+**Tabla 1: Guía específica para el ajuste de presión y FiO₂ basado en el histograma**
+
+**Notas adicionales:**
+1. En caso de soporte con CPAPn pasar a VMNI. Si se necesita FiO₂ >50%, considerar intubación (Evaluación según si cumple algún otro criterio de criterios de intubación, INVOs y ecografía pulmonar).
+2. Si no hay mejoría, aumentar PEEP en 1 cm H₂O, incrementar la frecuencia en 2–5/min o aumentar el tiempo inspiratorio en 0,1 segundos (hasta un máximo de 0,5 seg). Si no hay respuesta, considere escalar a soporte invasivo según criterios de intubación. “**Parámetros máximos” en VMNI: PIP 28 cmH2O; Ti 0,5 seg; FR 45rpm; PEEP 7 cmH2O; FiO2 ≥ 50%.**
+3. Si no se objetiva mejoría en caso de soporte con CPAPn pasar a VMNI.
+4. En caso de objetivarse un 10–20% del tiempo con saturaciones <90% y >95%, considerar aumentar la presión ± una reducción en 2-3% en la FiO₂. Evaluar necesidad o no de aumento de presión según revisión de tendencias y patrón ecográfico.
+5. Después de un destete de presión, deben pasar menos del 20% del tiempo con una frecuencia respiratoria (RR) >60 y requerir menos del 5% de incremento en la FiO₂. Si el histograma se deteriora significativamente después del destete, considerar retroceder, incluso si el PCO₂ es normal.
+6. Dada la ausencia de este parámetro en la monitorización continua en cuidados medios, la decisión de ajuste de los parámetros ventilatorios se basará en los datos de saturación y el resto de evaluaciones: ecografía pulmonar y revisión de los periodos de desaturación (coinciden con manipulaciones, tomas… ).
+@pie 6
+
+@p 7
+@pie PROTOCOLO 30. SOPORTE NO INVASIVO (FEBRERO 2025)
+@pie 7
+@bib
+1. Gruber, V., et al., What CPAP to use in the delivery room? Bench comparison of two methods to provide continuous positive airways pressure in neonates. BMJ Paediatr Open, 2024. 8(1).
+2. Drevhammar, T., et al., Comparison of nasal continuous positive airway pressure delivered by seven ventilators using simulated neonatal breathing. Pediatr Crit Care Med, 2013. 14(4): p. e196-201.
+3. Bjorland, P.A., et al., Tidal volumes and pressures delivered by the NeoPuff T-piece resuscitator during resuscitation of term newborns. Resuscitation, 2022. 170: p. 222-229.
+4. Hinder, M., et al., Neopuff T-piece resuscitator: does device design affect delivered ventilation? Arch Dis Child Fetal Neonatal Ed, 2017. 102(3): p. F220-F224.
+5. Lam, R., et al., The Effect of Extended Continuous Positive Airway Pressure on Changes in Lung Volumes in Stable Premature Infants: A Randomized Controlled Trial. J Pediatr, 2020. 217: p. 66-72.e1.
+6. Yazdi, S., et al., Extended CPAP or low-flow nasal cannula for intermittent hypoxaemia in preterm infants: a 24-hour randomised clinical trial. Arch Dis Child Fetal Neonatal Ed, 2024. 109(5): p. 557-561.
+7. Sur, A. and A. Paria, Histogram analysis for bedside respiratory monitoring in not critically ill preterm neonates: a proposal for a new way to look at the monitoring data. Eur J Pediatr, 2021. 180(1): p. 283-289.
+8. Anderson, C. and N.H. Hillman, Bronchopulmonary Dysplasia: When the Very Preterm Baby Comes Home. Mo Med, 2019. 116(2): p. 117-122.
+9. Balfour-Lynn, I.M., et al., BTS guidelines for home oxygen in children. Thorax, 2009. 64 Suppl 2: p. ii1-26.
+10. Cindy T. McEvoy, MD, MCR, et al., Increased Alveolar Volume and Lung Diffusion Capacity in Former Preterm Infants Randomized to Two Extra Weeks of Continuous Positive Airway Pressure (CPAP) in the NICU. —Hot topics 2024.

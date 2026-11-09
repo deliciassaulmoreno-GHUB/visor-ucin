@@ -1,0 +1,87 @@
+@f 8. Digestivo/17c. Protocolo de nutricion en teral en RN pretérmino (1).pdf
+@p 1
+*PROTOCOLO NUTRICION ENTERAL DEL RECIEN NACIDO PRETÉRMINO. Versión 2025*
+# __17.c PROTOCOLO NUTRICION ENTERAL DEL RECIEN NACIDO PRETÉRMINO__
+
+**__Objetivo nutrición en < 1500 gr__** “Crecer como en útero con la menor morbilidad posible”
+- Evitar la **restricción del crecimiento extrauterino**: percentil < 10 en datos antropométricos (peso, PC y longitud) ***al alta hospitalaria***. Causa: inadecuada ingesta calórica y proteica
+- Evitar **alteración en la composición corporal**: excesivo depósito de grasa corporal evidenciable ya ***previo al alta*** (a partir de 1 mes de EPM). Causa: inadecuada relación del aporte proteínas/calorías totales.
+
+| __Factores de riesgo__: | __Factores determinantes__: |
+|---|---|
+| Sexo varón // Necesidad VM en 1º ddv // Necesidad soporte respiratorio O2 a los 28 ddv | Retraso inicio nutrición enteral // Retraso en alcanzar enteral exclusiva // Retraso en recuperar peso al nacimiento |
+! En el PDF los títulos «Factores de riesgo» y «Factores determinantes» van encima de dos recuadros con borde rojo y amarillo; en el recuadro de riesgo va resaltado «Necesidad VM en 1º ddv», y en el de determinantes «nutrición enteral» y «Retraso en alcanzar enteral exclusiva».
+
+@flujo
+[[***__FASE DE TRANSICIÓN__*** // **7 dias de vida < 1500 gr** // **14 dias de vida < 1000 gr**]]
+@cols
+[**OBJETIVO FINAL de esta fase** // **Líquidos** 120-150 cc/kg/d (limitar si DAP, DBP) // Calorías 120-130 kcal/kg/d // Proteínas: 3,8-4,2 gr/kg/d]
+---
+[**PAUTAS PARA LOGRAR ESTE OBJETIVO** // __Inicio precoz__ enteral junto con Calostro oro faríngeo (ver protocolo COF): **1**-6 horas vida: calostro por SNG c/ 3 horas // __Incremento diario__: 20- 30 cc/kg/día (10-20 cc/kg/d en < 1000 gr) // __Enteral exclusiva__ en primeros 7 día si < 1500 gr // en primeros 14 días si < 1000 gr // *Fundamental iniciar NP en primeras 24 h*]
+@fincols
+v
+[**Monitorizar aporte proteico semanalmente**]
+@finflujo
+| **UREA** | **APORTE PROTEINAS** |
+|---|---|
+| < 10.7 mg/dl | Insuficiente aporte |
+| 19-30 mg/dl | Permite seguir aumento |
+| 30- 42,8 mg/dl | Disminuir aportes: ,5 gr/kg |
+| > 43 mg/dl | Suspender hasta normalizar urea |
+| {2} *(BUN (mg/dl) = Urea (mg/dl) / 2.1428)* |
+! Se copia tal como está en el PDF: «,5 gr/kg» (sin cifra delante de la coma) y sin fila para urea entre 10,7 y 19 mg/dl. En el PDF una flecha curva lleva de los dos recuadros de la fase de transición a esta tabla.
+
+@caja
+**Contraindicación de inicio de enteral**: obstrucción intestinal / ileo
+@fin
+
+@flujo
+@cols
+[**Leche elección**: __LECHE MATERNA FRESCA__ // LMD (análisis nutricional en etiqueta)]
+v
+[**Posibilidad de analizar LM en UNP**]
+---
+[__Composición teórica LM madura__ // 67,6 Kcal/100 ml // 50% energía no proteica: grasa // Ratio P/E: 3 gr/100ml]
+@fincols
+@finflujo
+! En el PDF los tres recuadros de la leche van en una fila, con una flecha de «Leche elección» a «Posibilidad de analizar LM en UNP».
+
+@p 2
+@pie PROTOCOLO NUTRICION ENTERAL DEL RECIEN NACIDO PRETÉRMINO. Versión 2025
+@flujo
+[[***__FASE DE ESTABILIZACION__*** // **Desde recuperación PRN al alta**]]
+v
+[**OBJETIVO de esta fase** // Ganancia Peso > 15-18 gr Kg/dia // Crecimiento PC > 0,8-0,9 cm/semana]
+v
+[**ACTUACIONES SI NO SE LOGRA OBJETIVOS** // __Aumento aportes liquidos enterales__ (LM/LMD): ***hasta 200 cc/kg/d*** // *(limitaciones en patologías: DBP, DAP, cardiopatías…)* // __Revisar aporte calorías__: 120-140 kcal/kg/día/ __hasta 150 kcal/kg/d__ en < 1000 g // __Revisar ratio P/E__: 3 gr/100 kcal]
+v
+[**Como aumentar aporte calórico y proteico** // Fortificación LM/LMD // Seleccionar LMD con mayor aporte proteico y graso (UNP)]
+v
+[Fortificación // (PRENAN)]
+v
+[**Iniciar** al alcanzar **80 cc/kg/d** con el objetivo de alcanzar __3,6 gr proteínas /120 kcal__]
+@cols
+[Estándar: según instrucciones: 1 cacito/25 cc (FM85) // Dirigida: __según análisis nutricional en UNP__]
+---
+[1 sobre (1 gr) PreNAN: 0, 4 gr proteínas // 100 ml de leche preparada: 1,6 gr prot teórico // *Medición en UNP: 1,1 gr/100 ml*]
+@fincols
+@finflujo
+
+@caja
+**CONTROLES ANALITICOS NUTRICIONALES** A LOS 14 días de alcanzar enteral exclusiva
+Ca, P, FA, índice Ca/Cr orina, niveles OH vitamina D3, ferritina, TG
+Valorar controles cada 15-20 días
+@fin
+
+@caja
+**__ACTUACIÓN EN EL PRETERMNIO DE BAJO PESO AL NACIMIENTO__**
+- Iniciar nutrición precoz: 12-24 cc/kg/dia con LM
+- Fortificar LM hasta los 6 meses/ F. prematuro hasta los 2 meses de EPM
+@fin
+
+@caja
+**Tablas de FENTON** hasta 40-44 sem EPM y continuar con tablas OMS ajustando a EPM hasta los 2 años (3 años en < 1000 gr)
+**Intergrowth 21** hasta los 6 meses EPM y continuar con tablas OMS ajustando a EPM hasta los 2 años (3 años en < 1000 gr)
+@fin
+http://intergrowth21.tghn.org/very-preterm-size-birth/#vp1
+@pie CURVAS CRECIMIENTO

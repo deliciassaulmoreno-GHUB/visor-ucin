@@ -1,0 +1,67 @@
+@f 5. Hemodinámico/41.A. Protocolo de indicaciones para ECMO.pdf
+@p 1
+# TEMA 41A. ECMO EN NEONATOLOGÍA: INDICACIONES Y PREPARACIÓN MATERIAL.
+
+## PROTOCOLO DE ENTRADA EN ECMO
+__OBJETIVO__: “Mantener un adecuado aporte de sangre oxigenada a los órganos vitales en situaciones donde el tratamiento convencional resulta insuficiente, proporcionando un tiempo de espera o reposo suficiente para la recuperación de la función respiratoria y/o cardiaca”.
+
+__ECMO RESPIRATORIO__: Los criterios generales para asistencia con ECMO por insuficiencia respiratoria grave mantenida:
+- **Índice de Oxigenación (IO) postductal: >40** de forma mantenida > 6 horas
+IO = PMA x FiO2 x 100 / PaO2
+(PMA = presión media en la vía aérea) (PaO2 = presión parcial de oxígeno postductal)
+(Con IO=20 considerar ECMO en situaciones que requieran traslado del paciente)
+- **AaDO2: 605-620 torr**
+Cálculo del gradiente AaDO2: (FiO2 x Presión barométrica-47-PaCO2)-PaO2
+- **Deterioro agudo: PaO2< 30-40 mmHg**.
+
+__ECMO CARDIACO__: La principal indicación es la situación de un gasto cardiaco inadecuado que no responde a tratamiento médico óptimo en las siguientes circunstancias:
+- Estabilización preoperatoria en cardiopatías congénitas no intervenidas.
+- Fracaso en la retirada de CEC una vez descartada lesión residual anatómica
+- Bajo gasto cardíaco post-cardiotomía.
+- Arritmia refractaria.
+- Miocardiopatías y miocarditis sin lesión estructural con una supervivencia de 50-60%
+- Rescate en neonatos con parada cardiaca refractaria.
+- Como puente para una asistencia ventricular de larga duración.
+- Como puente al trasplante.
+
+**Las contraindicaciones** se basan en problemas técnicos relacionados con la capacidad de canulación de los pacientes y el riesgo de la anticoagulación. Se pueden resumir en:
+| **Contraindicaciones absolutas** |
+|---|
+| 1.Edad gestacional < 34 semanas // 2.Evidencia de daño cerebral grave o irreversible // 3.Daño irreversible de un órgano crítico (hígado, miocardio, riñón) // 4. Coagulopatía intratable // 5. Más de 15 días de ventilación mecánica con presiones elevadas // 6. Enfermedad pulmonar que se sospecha que no será reversible |
+| **Contraindicaciones relativas** |
+| 1.Peso al nacimiento < 2.000 g // 2.Diátesis hemorrágica // 3. Hemorragia intraventricular grado I - II |
+
+@p 2
+**Se valorarán de forma individual en cada paciente**
+
+## PREPARACION DE MATERIAL
+**Ante un paciente con criterios de asistencia en ECMO sería necesario previo al inicio:**
+- Información a la familia con firma de CONSENTIMIENTO INFORMADO
+- Realizar ECOGRAFIA CEREBRAL y considerar monitorización con MFC e INVOS
+- Solicitar ANALITICA:
+  - Hemograma
+  - Bioquímica
+  - Coagulación
+- Petición de HEMODERIVADOS:
+  - 2 unidades de CONCENTRADO DE HEMATIES (1 entera para purgado del circuito y 1 fraccionada para necesidades del paciente).
+  - 1 unidad de PLASMA FRESCO CONGELADO (Se utilizarán 50 ml para purgado de circuito).
+  - 1 unidad de PLAQUETAS (Para pasar al paciente al inicio de asistencia).
+- Solicitar BALA DE CARBOGENO.
+- Medicación para CANULACIÓN:
+  - Sedación / Analgesia
+  - Heparina: Tras comprobación de coagulación y ACT del niño, administrar bolo de HEPARINA (25-50UI/Kg), cuando el cirujano ha expuesto los vasos cervicales.
+- MONTAJE Y PURGADO DEL CIRCUITO por enfermería según CHECK – LIST (Anexo_1)
+
+**Una vez purgado el circuito se realizarán las siguientes comprobaciones previas al inicio de asistencia:**
+- Conexión de LINEA DE GAS (tubo verde) a la membrana y abrir flujo de Gas (o Carbógeno) al mínimo con fiO2 40 %.
+- Administración de HEPARINA al circuito (260 UI) a través de la llave de medicación.
+- PRIMING del circuito según pH e indicación médica:
+
+@caja
+**MEDICACION DE PRIMING**
+- **Bicarbonato sódico 1M** (2 cc por cada 100 cc de sangre): **5 cc**
+- **Gluconato cálcico 10%** (2,6 cc por cada 100 cc de sangre): **6,5 cc**
+@fin
+
+- Jeringa de HEPARINA (1:20) conectada al circuito, dejando bomba EN ESPERA (Se iniciará la perfusión según el ACT del paciente e indicación médica)
+- Regleta con las 3 cápsulas de presión colocada a la altura de la membrana y hacer CERO, comprobando la correcta MONITORIZACION DE PRESIONES circuito previo a la entrada

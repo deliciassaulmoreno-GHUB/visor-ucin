@@ -1,0 +1,254 @@
+@f 6. Respiratorio/68. Protocolo de humidificacion del gas in halado en terapia respiratoria neonatal.pdf
+@p 1
+*La humedad en la vía respiratoria del recién nacido — Versión 2024*
+# LA HUMEDAD EN LA VIA RESPIRATORIA DEL RECIEN NACIDO
+*Raquel Miguel; Cristina Ramos — HOSPITAL GREGORIO MARAÑÓN*
+! En el PDF la cabecera («La humedad en la vía respiratoria del recién nacido — Versión 2024») y el pie («Raquel Miguel; Cristina Ramos — HOSPITAL GREGORIO MARAÑÓN» y el número de página) se repiten en cada página; aquí se ponen una vez, arriba.
+
+@pie LA HUMEDAD EN LA VIA RESPIRATORIA DEL RECIEN NACIDO — 1
+@pie Introducción — 2
+@pie Consecuencias de una inadecuada humidificación y calentamiento. — 3
+@pie Principios en el calentamiento y humidificación: — 4
+@pie Humidificadores activos. — 5
+@pie Recomendaciones sobre la temperatura de los gases en recién nacidos. — 6
+@pie Humidificación en Ventilación mecánica invasiva. — 6
+@pie Manejo de los humidificadores en ventilación mecánica invasiva: — 6
+@pie Humidificación en Ventilación mecánica no invasiva — 7
+@pie Manejo de los humidificadores en ventilación no invasiva — 9
+@pie Resolución de problemas: — 10
+@pie LA CONDENSACIÓN: Sensor de temperatura del asa inspiratoria, ¿dentro o fuera de la incubadora?, ¿dentro o fuera del radio del calor radiante de la cuna térmica? — 10
+@pie ¿Cómo podemos actuar frente a una condensación excesiva? — 10
+@pie ANEXO DE IMÁGENES — 12
+@pie Bibliografía consultada — 14
+@pie RESUMEN RECOMENDACIONES EN EL MONTAJE DE LOS HUMIDIFICADORES EN LOS DISTINTOS SOPORTES RESPIRATORIOS. — 15
+@pie 1
+
+@p 2
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+## Introducción
+Durante la respiración, el ser humano acondiciona los gases inspirados a una temperatura y humedad óptimas para un buen intercambio gaseoso. Este proceso de calentamiento y humidificación se lleva a cabo por la mucosa de la vía aérea, fundamentalmente de la nasofaringe y tráquea proximal a medida que el aire va descendiendo por las vías respiratorias.
+
+El calentamiento del aire inspirado se inicia en vía respiratoria superior de tal manera que cuando, llega a los pulmones, generalmente a la altura de la carina, ha alcanzado la temperatura de 37 ˚C y 44 mg/L de humedad absoluta.
+
+Hay que tener en cuenta además el papel del calentamiento de los gases en la termorregulación del recién nacido. Se ha visto que el calentamiento de gases en paritorio mejora la temperatura al ingreso^1^ y sabemos también que el mantener una adecuada temperatura al ingreso se asocia a un descenso en la mortalidad en pacientes prematuros (cada grado de aumento de temperatura se asocia a un descenso del 28% en la mortalidad)^2^.
+
+El recién nacido, y más aún el recién nacido pretérmino, tiene una serie de peculiaridades que condicionan el funcionamiento de la mucosa de la vía aérea:
+
+^1^ Meyer, M.P., L.S. Owen, and A.B. Te Pas, Use of Heated Humidified Gases for Early Stabilization of Preterm Infants: A Meta-Analysis. Front Pediatr, 2018. 6: p. 319.
+^2^ Laptook, A.R., et al., Admission temperature of low birth weight infants: predictors and associated morbidities. Pediatrics, 2007. 119(3): p. e643-9.
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 2
+
+@p 3
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+- En comparación con otras etapas evolutivas, el recién nacido produce una mayor mucosidad. Además, están disminuidos reflejos como la tos, el carraspeo y estornudo, mecanismos que ayudan a la expulsión de secreciones.
+- El aclaramiento mucociliar es más lento debido a un incremento en la secreción periciliar, siendo muy dependiente de la humedad y temperatura con mayor riesgo de sufrir alteraciones en su funcionamiento con mínimas alteraciones en ambos factores.
+
+La eficacia de estos sistemas de defensa es fundamental para disminuir la incidencia en la obstrucción e infección de las vías respiratorias. Por otro lado, el proceso de calentamiento y humidificación conlleva la pérdida de calor y vapor por el sistema respiratorio siendo una parte importante de las pérdidas insensibles de agua de estos pacientes (20 to 80%) y del gasto metabólico requerido para el mantenimiento de la temperatura (3-10%). El coste energético para el recién nacido de extraer un gramo de agua de su mucosa es de 0,58Kcal.
+
+Las ventajas de una adecuada humidificación son:
+- Ayudar a los mecanismos naturales de defensa de las vías respiratorias.
+- Fomentar un intercambio de gases y una ventilación eficaces.
+- Aumentar el bienestar del paciente y su tolerancia al tratamiento.
+
+## Consecuencias de una inadecuada humidificación y calentamiento.
+La ausencia de humidificación conlleva una secreción mucosa deshidratada, enlentecimiento del movimiento de los cilios y del transporte mucociliar, provocando daño de la mucosa con consiguiente inflamación y necrosis del epitelio que limita su capacidad de calentamiento y humidificación. Esto provoca un daño progresivamente más extenso pudiendo llegar a producir un deterioro en la función del surfactante, favorecer las infecciones, provocar obstrucción, atelectasia y fuga aérea.
+
+Después de 10 min de ventilación mecánica sin humidificación se produce un descenso de la distensibilidad, un aumento de la resistencia y trabajo respiratorio ^3^, asociándose en pacientes prematuros a mayor morbilidad ^4^.
+
+^3^ Greenspan J, Wolfson M,Shaffer T. Airway responsiveness to low inspired gas temperature in pre-term neonates. Journalof Pediatrics 1991; 118(3):443-5.
+^4^ Pillow JJ, Hillman NH, Polglase GR, et al: Oxygen, temperature and humidity of inspired gases and their influences on airway and lung tissue in near-term lambs. Intensive Care Med 35:2157–2163, 2009.
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 3
+
+@p 4
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+## Principios en el calentamiento y humidificación:
+La humedad relativa de un gas depende de su contenido absoluto de agua y de la temperatura. A 37ºC y 100% de humedad relativa, el gas inspirado contiene 44 mg/l de agua. A 30ºC un gas completamente saturado (100% de humedad relativa) contiene 30mg/l de agua. Si este gas se calienta a 37ºC, su humedad relativa cae a menos del 70%. (figura1).
+@img 68-fig1.png
+Figura 1.
+
+Como vemos los cambios en la temperatura condicionan cambios en la humedad, provocando tanto una humidificación inadecuada como condensación en el circuito. Si la humedad relativa del gas es 100%, con el descenso en la temperatura, la humedad relativa se mantiene, produciéndose condensación con los efectos deletéreos subsiguientes por el posible paso de agua a la vía aérea, contaminación bacteriana de la vía aérea inferior o autociclado de los respiradores. Así mismo, no debemos olvidar que **la presencia de condensación en el asa inspiratoria del circuito respiratorio implica una humidificación inadecuada de los gases inspirados.**
+@img 68-ha-hr.png
+! En el PDF, junto a este texto hay una lámina (humedad absoluta, humedad relativa, capacidad máxima y tamaño de las partículas) que es una imagen; se reproduce recortada.
+
+Otro aspecto importante a tener en cuenta es el hecho de que los cambios aislados de temperatura, sin modificación en el vapor de agua, constituyen pequeños cambios en el contenido energético comparado con los cambios en la humedad del gas, es decir, el hecho de calentar un aire frío provoca mucho menos enfriamiento de la vía aérea superior que si el aire estuviese excesivamente seco, y al revés, si inhalamos aire a 39ºC no saturado completamente de vapor de agua, se produce un enfriamiento rápido hasta igualarse a la temperatura corporal central sin calentar significativamente la vía aérea. Por ejemplo, si un gas saturado de humedad a 37ºC en la cámara del humidificador se le aplica calor seco hasta llegar a 39ºC en el circuito
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 4
+@p 5
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+respiratorio, este calor no añade prácticamente nada de energía al gas, sin embargo, si este aire estuviese completamente saturado de humedad a 40ºC si puede podría provocar daño de la mucosa.
+
+## Humidificadores activos.
+Los humidificadores constan de una cámara, un reservorio de agua y un elemento calentador (placa) junto con sistemas de medición de la temperatura. El aire se calienta en la cámara que se encuentra a la temperatura programada y se añade vapor de agua del reservorio caliente. La capacidad de vaporización viene determinada por la el área de superficie de agua y la temperatura. La tasa de consumo de agua de un humidificador es un buen indicador del grado de humidificación si conocemos el flujo utilizado.
+
+Los humidificadores actuales son cuentan con un control automático o semiautomático y servocontrolado de la temperatura pudiendo ser programados en modalidad invasiva (Tº en la cámara de 36-37ºC) o no invasiva (Tº en la cámara de 30-32ºC). En el caso de los semiautomáticos se puede ajustar manualmente.
+
+Uno de los humidificadores utilizado en nuestra unidad, Fisher and Paykel MR850, dispone de un modo de compensación de humedad, de forma que calcula la transmisión de energía en la placa para la humidificación del gas, si está por debajo del límite (porque el gas entre en la cámara a más temperatura), aumenta de forma automática la temperatura objetivo (hasta 3ºC en modo invasivo y 5ºC en no invasiva) para aumentar la humidificación activa. Esta función esta activada de fábrica en estos humidificadores. El modo de compensación de la humedad está desactivado si el punto decimal de la temperatura en la pantalla no parpadea.
+
+Los dispositivos cuentan además con un hilo calefactor en el asa inspiratoria que ayuda al mantenimiento de la temperatura, programándose generalmente 2-3ºC por encima de la temperatura de la cámara. Añade calor seco, evitando el descenso de temperatura a lo largo del recorrido del asa inspiratoria que provocaría condensación y pérdida de humedad. Como hemos comentado previamente, este calor seco añadido se disipa rápidamente en el trayecto posterior hasta la entrada del aire al paciente sin producir condensación (porción no calefactada del asa inspiratoria, pieza en Y, tubo endotraqueal o conexiones a la interfase de ventilación no invasiva).
+
+Los circuitos neonatales cuentan con una porción no calefactada en el asa inspiratoria de unos 28 cm, interpuesta entre la conexión al paciente y la parte calefactada del asa inspiratoria. El objetivo es permitir una longitud suficiente que facilite su posicionamiento en la incubadora y el cuidado canguro. También permite la colocación del sensor de temperatura alejado de la fuente de calor que constituye las incubadoras o las cunas térmicas, ya que podría alterar la medición del sensor y provocar un funcionamiento inadecuado del mismo, aunque la evidencia sobre esto último es controvertida^5,6^.
+
+El principal inconveniente es que, en esta porción, dependiendo de la temperatura exterior, se va a producir un enfriamiento de los gases y con favoreciendo la aparición de condensación y condicionado con ello que el que el gas no llegue adecuadamente humidificado y caliente al recién nacido. Se ha visto que, con esta porción no calefactada en el asa inspiratoria, a una Tº ambiental
+
+^5^ Todd DA, Boyd J, Lloyd J, John E. Inspired gas humidity during mechanical ventilation: effects of humidification chamber, airway temperature probe position and environmental conditions. J Paediatr Child Health. 2001 Oct;37(5):489-94. doi: 10.1046/j.1440-1754.2001.00750.x. PMID: 11885715.
+^6^ Todd, D., Boyd, J., Lloyd, J. and John, E. (2001), Inspired gas temperature during mechanical ventilation: Effects of environmental temperature and airway temperature probe position. Journal of Paediatrics and Child Health, 37: 495-500. https://doi.org/10.1046/j.1440-1754.2001.00749.x
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 5
+
+@p 6
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+de 20,5-24,8ºC el gas llega al paciente a una temperatura muy inferior (alrededor de 26ºC) a la programada en el sensor (40ºC), por debajo además de las recomendaciones aceptadas para el recién nacido, condicionando la aparición de condensación y el aumento de resistencia en la vía aérea en un modelo de ventilación invasiva^7^. Sin embargo, con una temperatura externa de 34ºC, con una Tº programada de 37ºC, la temperatura alcanzada era de 35-36ºC con la extensión no calefactada y de 36-38ºC sin ella, con dispositivos de soporte no invasivo^8^.
+
+Esto refleja la importancia de la temperatura exterior a la hora de mantener un adecuado acondicionamiento de los gases del recién nacido. Por ello, en pacientes en incubadoras, se recomienda que, si la temperatura de la incubadora se encuentra por debajo de 34ºC, se retire la porción no calefactada del asa inspiratoria para evitar la caída de Tª y con ello la condensación y pérdida de humedad del gas. En caso contrario se puede mantener esa porción no calefactada, ya que nos permite el posicionamiento del sensor distal de temperatura fuera de la incubadora para evitar fallos en su medición (ver resolución de problemas).
+https://www.draeger.com/Content/Documents/Products/Neonatal-Humidification%20Guidieline-illuph-PDF-9829-es-es-1911-1.pdf
+https://anesth.ru/monografii/Humidification in the Intensive Care Unit.pdf
+
+## Recomendaciones sobre la temperatura de los gases en recién nacidos.
+Según la Guía de Práctica Clínica de Termorregulación en el recién nacido de la Sociedad Iberoamericana de Neonatología:
+- En ventilación mecánica invasiva, la temperatura de los gases inspirados programada en el sensor distal (cercano al paciente) debe ser de 39ºC y - 2º C (37ºC en la cámara) para llegar a nivel del pulmón alrededor de 37ºC.
+- En modalidad no invasiva, la temperatura en la porción distal será de 37º C y – 2º C (35ºC en la cámara) para llegar la fosas nasales alrededor de 35º C.
+
+## Humidificación en Ventilación mecánica invasiva.
+Durante la ventilación mecánica, el tubo endotraqueal puentea las vías respiratorias superiores, por lo que su función de calentar y humedecer es omitida, así que tenemos que conseguir de manera artificial valores de 37 ˚ C y 44 mg/L de humedad absoluta. En neonatología se utilizan los humidificadores activos, que se intercalan en el asa inspiratoria.
+
+### Manejo de los humidificadores en ventilación mecánica invasiva:
+Lo normal, tanto en modo manual como automático, es que en la cámara del calefactor la temperatura sea de 37 ˚C (ya que es la temperatura que nos permite alcanzar al 100% de saturación los 44mg/L de humedad absoluta) y al finalizar el alambre calefactor del asa inspiratoria sea de 39-40 ˚C, permitiendo la caída de temperatura hasta el pulmón de -2 ˚C, aunque esta caída dependerá de la pérdida de calor radiante del asa con respecto a la temperatura ambiente, de ahí que unas veces, si la caída de temperatura es mayor se puede llegar a producir condensación. Se han descrito descenso de Tª de 3,9ºC en cunas térmicas y 2ºC en incubadoras^9^.
+
+^7^ Ruppert JA, McNinch NL, Volsko TA. An evaluation of temperature stability and resistance in neonatal ventilator circuits. Can J Respir Ther. 2021 Jan 29;57:8-13. doi: 10.29390/cjrt-2020-042. PMID: 33532559; PMCID: PMC7845534.
+^8^ Roberts CT, Kortekaas R, Dawson JA, Manley BJ, Owen LS, Davis PG. The effects of non-invasive respiratory support on oropharyngeal temperature and humidity: a neonatal manikin study. Arch Dis Child Fetal Neonatal Ed. 2016 May;101(3):F248-52. doi: 10.1136/archdischild-2015-308991. Epub 2015 Sep 9. PMID: 26354368.
+^9^ Davies M, Dunster K, Cartwright D (2004) Inspired gas temperature in ventilated neonates. Pediatr Pulmonol 38(1):50–54
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 6
+
+@p 7
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+La modalidad respiratoria puede afectar al acondicionamiento de los gases. Se ha objetivado una menor humidificación en modalidad de alta frecuencia comparado con ventilación convencional con los mismos parámetros del humidificador ^10^. Por norma general:
+- Humidificadores Automáticos: colocarlos en modo invasivo. Ellos mismos mantienen el gradiente de temperatura entre -2 y -3 entre el calefactor y el sensor proximal al niño, para mantener la temperatura y disminuir en lo posible la condensación del vapor de agua.
+- Humidificadores manuales o semi-automáticos se fijará la temperatura del sensor proximal al niño entre 39-40 ˚C^11^ y la temperatura de la cámara entre 36-37 ˚C. En estos casos si se objetiva condensación en el asa inspiratoria, además de lo comentado previamente se podría también programar manualmente un gradiente mayor de temperatura para evitar la condensación (Ver resolución de problemas).
+
+## Humidificación en Ventilación mecánica no invasiva
+En este caso, aunque no estamos baypaseando la vía aérea superior, responsable del calentamiento y humidificación de los gases, el exponer los tejidos los tejidos nasofaríngeos a un caudal de gas mayor que una ventilación minuto normal que está por debajo de la temperatura corporal y el punto de saturación de vapor de agua (por debajo del 100% de humedad relativa) produciría una sobrecarga de los tejidos nasofaríngeos provocando lesiones y disfunción de los mismos.
+
+En recién nacidos, el flujo de gas que pasa por la vía aérea en respiración espontánea es de, aproximadamente 0,3l/kg/min, por lo que resulta fácil comprender la dificultad de mantener una temperatura y una humedad correctas para los flujos de gas administrados al aplicar soporte no invasivo, que están entre 6 y 12l/min. Es por ello que en neonatología es necesario calentar y humidificar los gases por encima de 1 lpm.
+
+En ventilación no invasiva, los estándares americanos (“The American National Standards Institute) y de la Asociación Americana de Cuidados Respiratorios (AARC) recomiendan valores de la humedad absoluta en la vía respiratoria ≥ 30 mg/L de agua; y según la según la ISO, los valores deben ser ≥ 33 mg HO2/L^12^ para lo que se precisa una Tº mínima de 34-35ºC en la cámara para conseguir ese nivel de humedad. Como hemos comentado previamente, la Tº Objetivo del humidificador en modalidad no invasiva en la cámara es de 30-31ºC con lo que no se consigue ese mínimo de humedad necesaria (Ver figura 2, línea roja), menos aún si se produce pérdida de calor y con ello de humedad, en las porciones no calefactadas del asa inspiratoria, que en muchas ocasiones son bastante extensas, (figura 4).
+
+^10^ 1Nagaya K, Okamoto T, Nakamura E, Hayashi T, Fujieda K (2009) Airway humidifi cation with a heated wire humidifier during high-frequency ventilation using Babylog 8000 plus in neonates. Pediatr Pulmonol 44(3):260–266
+^12^ Datos citados en Ruben D Restrepo, Brian k Walsh, humidification during Invasive and Noinvasive Mechanical Ventilation: 2012, AARC Clinical Practice Guideline.
+! El PDF no incluye la nota al pie 11.
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 7
+
+@p 8
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+@img 68-fig2.png
+Figura 2
+@img 68-fig3.png
+Figura 3 que muestra la porción no calefactada en los dispositivos de soporte no invasivo, en el caso de baby-flow es aún mayor si se añade la alargadera no calefactada de los circuitos intersurgical.
+
+Es por ello que, en la mayoría de las unidades neonatales se utiliza en modo invasivo también en soporte no invasivo y es lo especificado en las recomendaciones de los fabricantes para su uso neonatal:
+@img 68-fp.png
+Fig. Recomendaciones F&P (www.fphcare.com/en-gb/hospital/infant-respiratory/faq)
+! Las figuras 1, 2 y 3 y la de recomendaciones F&P son imágenes en el PDF y se reproducen recortadas.
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 8
+
+@p 9
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+### Manejo de los humidificadores en ventilación no invasiva
+Sería bueno poder manejar humidificadores que tengan la aplicación en modo manual o semiautomático, para así poder ajustar la temperatura y humedad deseadas
+- Modo CPAP/VMNI/OAF: aplicar una temperatura entre 36-37 ˚C en el sensor del asa inspiratoria (cercana al paciente) y 34-35º C en la cámara para flujos normales de uso (6-10 L/min).
+- Con calentador humidificador automático MR50 utilizar modo invasivo (recomendación del fabricante para su uso en neonatología)
+
+Pese a que los fabricantes del humidificador MR 850 continúan recomendando seleccionar el modo invasivo en ventilación no invasiva en neonatología, otras empresas especializadas en ventilación neonatal como Drager, especifican seleccionar el modo invasivo para el soporte no invasivo cuando se utilicen prongs binasales o gafas de alto flujo, y modo no invasivo cuando se utilicen mascarillas nasales, posiblemente basado en que el flujo de gas pasa por la mucosa nasal con la mascarilla a diferencia de los prongs binasales, aunque sin una clara evidencia científica para esta recomendación. Es por ello que, para homogeneizar el manejo, mantenemos el uso del modo invasivo con todas las interfases.
+https://www.draeger.com/Content/Documents/Products/Neonatal-Humidification%20Guidieline-illuph-PDF-9829-es-es-1911-1.pdf
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 9
+
+@p 10
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+## Resolución de problemas:
+### LA CONDENSACIÓN: Sensor de temperatura del asa inspiratoria, ¿dentro o fuera de la incubadora?, ¿dentro o fuera del radio del calor radiante de la cuna térmica?
+La condensación de las tubuladuras es un problema muy frecuente que se produce, como hemos visto, por el enfriamiento del gas en el recorrido del asa inspiratoria. Los factores responsables son:
+- La temperatura ambiental, el área de exposición (mayor a menor diámetro de la tubuladura) y el flujo de gas (a menor flujo mayor tiempo de contacto con la Tº ambiental). Para minimizar esta pérdida de calor disponemos del cable calefactor del asa inspiratoria que calienta el gas a lo largo del recorrido hasta alcanzar la temperatura programada en el sensor distal (generalmente se programa 2-3 grados más alta que la Tº de la cámara, son servocontrolados). Este sensor debería colocarse lo más cercano posible a la conexión con el paciente para minimizar el descenso de temperatura en el recorrido posterior (tubuladura sin cable calefactor, pieza en Y y TET). Este cable proporciona calor seco, sin añadir humedad por lo que el riesgo de provocar lesiones es mínimo.
+- El problema que se produce en neonatología es que nuestros pacientes se encuentran siempre bajo una fuente de calor, bien radiante o en incubadora, lo que puede artefactar la temperatura del sensor si se encuentra dentro de la fuente de calor. El sensor detecta una temperatura mayor a la temperatura real del gas por lo que disminuye el calentamiento del cable con lo que el aire se enfría y las tubuladuras condensan agua. Las soluciones propuestas son, bien aislar el cable con un envoltorio reflectante (en el caso de calor radiante) o colocar el sensor fuera del área de la fuente de calor. Esto supone que la porción de tubuladura sin cable calefactor va a ser mayor pero al encontrarse bajo una fuente de calor externa, el enfriamiento será menor. Se ha recomendado que si la temperatura de la incubadora es mayor de 34ºC el sensor debe colocarse fuera de la incubadora y en caso contrario dentro de la incubadora. A nivel práctico sabemos que muchas veces no es posible mantener la Tº constante y acaba produciéndose cierto grado de condensación.
+
+### ¿Cómo podemos actuar frente a una condensación excesiva?
+La humedad que el recién nacido recibe es en forma de vapor de agua. Cuando éste se enfría se convierte en esas gotas de agua que apreciamos y llamamos condensación. No es malo si la condensación se produce en el asa espiratoria, pues ya el gas no tiene que volver al paciente; pero sí lo es si se produce en el asa inspiratoria pues parte del vapor de agua ha pasado a estado líquido y el gas será administrado con menos humedad de la deseada y puede provocar además aspiraciones al recién nacido y aumentar el riesgo de infección.
+
+Lo que nunca debemos hacer es disminuir la temperatura del calefactor pues la humedad absoluta de al menos ≥ 44 mg/L requerida para proteger la vía respiratoria no la proporcionaríamos.
+
+Medidas que sí podrían favorecer un descenso en la condensación serían:
+- Utilización de sistemas corrugados
+- Intercalar el asa corrugada inspiratoria sin cable calefactor más corta entre el sensor de temperatura más proximal al paciente y la interfase que se maneje en ese momento de apoyo respiratorio (pieza en Y del respirador, interfase de CPAP, interfase de alto flujo).
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 10
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+- Retirar completamente el asa corrugada sin cable calefactor,
+- Evitar elevado gradiente de temperatura entre la programada en el calefactor y la ambiental, es decir, moderar tanto en invierno como en el verano el aire acondicionado o la calefacción de la sala. Este es uno de los factores más importantes hay que insistir en aumentar la temperatura ambiental y evitar que las tubuladuras estén posicionadas en la salida del aire acondicionado.
+- Utilización de humidificadores semiautomáticos o manuales donde podamos programar el gradiente de temperatura entre sensores del sistema respiratorio, ya que aumentando el gradiente disminuimos algo la condensación.
+
+Ante la condensación del asa inspiratoria hay que actuar con todas estas medidas, no rendirnos, ya que como hemos visto implica que el aire llega al pulmón de nuestro paciente con una humedad inadecuada lo que puede provocarle un daño importante. En el caso de condensación en el asa espiratoria muchas veces tenemos que recurrir a la paciencia y nuestra buena labor de vaciar continuamente las tubuladuras del agua acumulada, ya que, sin este empeño, la ventilación y la protección del pulmón se verían perjudicada (autociclado).
+
+Disponemos actualmente en la unidad de un humidicador semiautomático: VHB20 Inspired, en el que se podría programar la temperatura del asa espiratoria, en el caso de que dispusiésemos de tubuladoras espiratorias con cable calefactor, lo que posiblemente puede ayudar a disminuir la condensación.
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 11
+
+@p 12
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+## ANEXO DE IMÁGENES
+@img 68-anexo1.png
+@img 68-anexo2.png
+@img 68-anexo3.png
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 12
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+@img 68-anexo4.png
+@img 68-anexo5.png
+@img 68-anexo6.png
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 13
+@deimg
+- Los tubos deberían estar más bajos que el paciente para garantizar que la condensación no fluye hacia el paciente.
+- Los tubos deberían estar en una posición en la que el líquido condensado pueda ser recolectado en el punto más bajo.
+- MONTAJE DE LA PIEZA EN Y: La pieza en Y debería colocarse de modo que la rama espiratoria esté más baja que la rama inspiratoria. Si se produjese condensación, el agua no debería fluir hacia el tubo endotraqueal o el sensor de flujo. Asegúrese de que la pieza en Y está colocada de modo que la condensación que se genera en la espiración va a la rama espiratoria.
+- TEMPERATURA DEL COMPARTIMENTO DE LA INCUBADORA > 33 °C: La temperatura de la incubadora puede influir en la medición de la temperatura.
+- TEMPERATURA DEL COMPARTIMENTO DE LA INCUBADORA < 33 °C: Si la temperatura de la incubadora es < 33 °C, asegúrese de: Retirar la extensión no calefactada de la incubadora. Colocar la sonda de temperatura en la incubadora. Tener una temperatura constante en la incubadora incluso cuando la incubadora esté abierta. Por favor, use una **cubierta para el sensor de temperatura** cuando el calefactor radiante esté conectado y el calor afecte al sensor.
+@findeimg
+! El anexo de imágenes son láminas (las de la izquierda o con ✓, montaje correcto; con ✗, incorrecto) y se reproduce recortado. Su texto, que no es seleccionable en el PDF, se ha copiado debajo de las láminas.
+
+@p 14
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 14
+
+@p 15
+@pie La humedad en la vía respiratoria del recién nacido Versión 2024
+## RESUMEN RECOMENDACIONES EN EL MONTAJE DE LOS HUMIDIFICADORES EN LOS DISTINTOS SOPORTES RESPIRATORIOS.
+### FUNCIONAMIENTO DE UN HUMIDIFICADOR
+Se basa en el calentamiento de los gases y en la producción de vapor de agua para proporcionar una adecuada termorregulación y humedad en el aire inspirado.
+
+El vapor de agua se consigue a través de una placa calefactora situada en la base del contenedor de agua y un alambre calefactor que mantiene y sigue calentando el aire para evitar la condensación en gotitas de agua y así no perder humedad. Este cable aporta calor al gas evitando la caída de temperatura y con ello la condensación del asa inspiratoria.
+
+El humidificador se abastece de agua estéril de una bolsa (se debe chequear por turno) a través de un sistema de auto llenado. En caso de falta de agua el humidificador emite una señal acústica.
+
+### CON RESPIRADOR EN VENTILACIÓN INVASIVA
+- **Cuando se inicie la ventilación mecánica invasiva las tubuladuras deben estar estériles, por lo que si el paciente estaba en soporte no invasivo deben cambiarse.** Posteriormente se realizarán los cambios reglados de las mismas según el protocolo de la unidad.
+- Si es posible, utilizar los humidificadores automáticos en modo invasivo. Si éstos no ofrecieran la temperatura adecuada de entre 38-40 ˚C en el sensor proximal al paciente, 36-37ºC en la cámara, deberán usarse los automáticos o semiautomáticos.
+- Si la temperatura de la incubadora es mayor de 33-34ºC se puede incluir la porción no calefactada del asa inspiratoria y dejar el sensor distal fuera de la incubadora. En caso contrario, deberemos colocar el sensor de temperatura lo más próximo al paciente, por lo que esta porción (desde el sensor de temperatura a la pieza en “y”) será lo más corta posible. Si se produce condensación se intentará retirar.
+
+### CON SISTEMA DE CPAP/VMNI/ALTO FLUJO
+- Si fuera posible se deberían utilizar los humidificadores auto o semiautomáticos ya que nos permiten ajustar manualmente la temperatura.
+- La programación en la cámara debe ser de 33-34ºC y en el sensor proximal al niño debería ser entre ***36-37 ˚C*** para que llegue a orofaringe a 34-36ºC.
+- **En caso de humidificador automático utilizar modo invasivo**.
+
+@caja
+**Humidificador semiautomático VHB20 Inspired**
+Permite ajuste automático en invasivo o no invasivo aunque se puede ajustar de forma manual de la temperatura.
+- Para cambiar el modo pulsar 3 seg ▼
+- Para ajustar la temperatura de la cámara: Presionar ▲; nos mostrará la temperatura de la cámara con este icono, presionar OK 3 segundos, la temperatura parpadeará, en este momento se puede ajustar la temperatura con las flechas y presionar OK.
+- Para ajustar la temperatura distal presionar ▲, tras 5 seg mostrará el icono, presionar OK 3 segundos y modificar la temperatura con las flechas y presionar OK.
+@fin
+@img 68-vhb20.png
+! Los iconos del recuadro (las flechas y los iconos de la cámara y del sensor distal) son dibujos en el PDF; las flechas se escriben ▼ y ▲, y para ver los dos iconos se reproduce el recuadro recortado.
+@pie Raquel Miguel; Cristina Ramos HOSPITAL GREGORIO MARAÑÓN 15
+
+@bib Bibliografía consultada
+- Roberts CT, et al. Arch Dis Chil Fetal Neonatal Ed 2016, 101: F248-F252
+- Ruben D Restrepo, “Brian K Walsh, Humidification During Invasive and Noinvasive Mechanical Ventilation”, AARC Clinical Practice Guideline, Respiratory CAre, May 2012, Vol. 57 Nº 5.
+- Manual del sistema de humidificación MR850 de Fisher&Paykel Healthcare
+- Guía de práctica clínica de termorregulación en el recién nacido, capítulo de Enfermería de SIBEN 2010, Sociedad Iberoamericana de Neonatología
+- Alan de Klerk, “Humidification During Noinvasive Respiratory Support of the Newborn: Continuious Positive Pressure Ventilation, and Humidified High-Flow Nasal Cannula”, Ed Antonio Matías Esquinas, Humidification in the Intensive Care Unit , Springer-Verlag Berlin Heidelberg 2012.
+- Todd DA, Boyd J, Lloyd J, John E. Inspired gas humidity during mechanical ventilation: effects of humidification chamber, airway temperature probe position and environmental conditions. J Paediatr Child Health. 2001 Oct;37(5):489-94. doi: 10.1046/j.1440-1754.2001.00750.x. PMID: 11885715.
+- Todd, D., Boyd, J., Lloyd, J. and John, E. (2001), Inspired gas temperature during mechanical ventilation: Effects of environmental temperature and airway temperature probe position. Journal of Paediatrics and Child Health, 37: 495-500. https://doi.org/10.1046/j.1440-1754.2001.00749.x
+- Ruppert JA, McNinch NL, Volsko TA. An evaluation of temperature stability and resistance in neonatal ventilator circuits. Can J Respir Ther. 2021 Jan 29;57:8-13. doi: 10.29390/cjrt-2020-042. PMID: 33532559; PMCID: PMC7845534.
+- Roberts CT, Kortekaas R, Dawson JA, Manley BJ, Owen LS, Davis PG. The effects of non-invasive respiratory support on oropharyngeal temperature and humidity: a neonatal manikin study. Arch Dis Child Fetal Neonatal Ed. 2016 May;101(3):F248-52. doi: 10.1136/archdischild-2015-308991. Epub 2015 Sep 9. PMID: 26354368.

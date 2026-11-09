@@ -1,0 +1,138 @@
+@f 5. Hemodinámico/55. Protocolo de hipertensi ón neonatal diagnóstico-1.pdf
+@p 1
+# __55. PROTOCOLO DE DIAGNÓSTICO DE HIPERTENSIÓN ARTERIAL NEONATAL: parte I.__
+**Fecha de actualización:** marzo 2020
+
+## 1. Definición
+TAS y/__o__ TAD > p95 para la edad postmenstrual en ≥ 3 valores medidos adecuadamente (ver apartado) durante un periodo > 6-12h.
+
+## 2. Medir la TA
+**TA invasiva:** Gold standard. Requiere canalización de catéter arterial, con los riesgos de infección, trombosis e isquemia correspondientes.
+
+**TA no invasiva:** Buena correlación. Más simple técnicamente y libre de riesgos. Mide TAM y calcula TAS y TAD.
+
+**Cómo medir TA no invasiva**:
+
+__Manguito__ de presión adecuado.
+
+Paciente __tranquilo__: tomar TA 15 min tras colocar manguito, preferentemente dormido o vigilia tranquila, >1.5h tras procedimiento, medicación o alimentación.
+
+@img 55-manguito.png
+*Medidas manguito. AC: circunferencia del brazo*
+
+Tomar __3 medidas__, descartando la primera y recogiendo la media de las otras dos.
+
+**Tablas de referencia según EPM**
+@deimg
+| PMA (weeks) | Blood pressure | {3} Systolic, mean, and diastolic blood pressure for infants after 2 weeks of life by PMA |
+|---|---|---|
+| | | 50th percentile | 95th percentile | 99th percentile |
+| 44 | SBP | 88 | 105 | 110 |
+| | MAP | 63 | 80 | 85 |
+| | DBP | 50 | 68 | 73 |
+| 42 | SBP | 85 | 98 | 102 |
+| | MAP | 62 | 76 | 81 |
+| | DBP | 50 | 65 | 70 |
+| 40 | SBP | 80 | 95 | 100 |
+| | MAP | 60 | 75 | 80 |
+| | DBP | 50 | 65 | 70 |
+| 38 | SBP | 77 | 92 | 97 |
+| | MAP | 59 | 74 | 79 |
+| | DBP | 50 | 65 | 70 |
+| 36 | SBP | 72 | 87 | 92 |
+| | MAP | 57 | 72 | 77 |
+| | DBP | 50 | 65 | 70 |
+| 34 | SBP | 70 | 85 | 90 |
+| | MAP | 50 | 65 | 70 |
+| | DBP | 40 | 55 | 60 |
+| 32 | SBP | 68 | 83 | 88 |
+| | MAP | 49 | 64 | 69 |
+| | DBP | 40 | 55 | 60 |
+| 30 | SBP | 65 | 80 | 85 |
+| | MAP | 48 | 63 | 68 |
+| | DBP | 40 | 55 | 60 |
+| 28 | SBP | 60 | 75 | 80 |
+| | MAP | 45 | 58 | 63 |
+| | DBP | 38 | 50 | 54 |
+| 26 | SBP | 55 | 72 | 77 |
+| | MAP | 38 | 57 | 63 |
+| | DBP | 30 | 50 | 56 |
+@findeimg
+! La tabla es una imagen (en el original, dos tablas lado a lado: 44-36 y 34-26 semanas) y se ha copiado a mano. También son imagen los rótulos del dibujo del manguito.
+
+**3. Clínica:** Asintomático. Fallo cardiaco, intolerancia digestiva o fallo de medro.
+@pie 1
+@p 2
+**4. Factores de riesgo:** Historia de canalización de arteria umbilical, BPEG, cardiopatía, DBP, daño renal, tratamiento con nefrotóxicos, síndrome de abstinencia, ECMO.
+
+## 5. Etiología. *Los más frecuentes subrayados:*
+**Pulmonares**
+- __Displasia broncopulmonar__
+- Neumotórax
+
+**Renovasculares**
+- __Tromboembolismos (2º a canalización de arteria umbilical)__
+- Estenosis/compresión de arteria renal
+- Trombosis de vena renal
+- Rubeola congénita
+
+**__Enf. de parénquima renal__**
+**Congénitas**
+- Enfermedad renal poliquística
+- Displasia renal
+- Esclerosis tuberosa
+- Obstrucción ureteropélvica
+- Sd nefrótico congénito
+- Disgenesia tubular renal
+
+**Adquiridas**
+- Necrosis tubular aguda
+- Necrosis cortical
+- Nefritis intersticial
+- Sd hemolítico urémico
+- Obstrucción (litiasis, tumores)
+
+**Neurológicas**
+- Dolor
+- Hipertensión intracraneal
+- Convulsiones
+- Disautonomía familiar
+- Hematoma subdural
+
+**Cardiológicas**
+- Coartación de aorta torácica
+
+**Endocrinas**
+- Hiperplasia suprarrenal congénita
+- Hiperaldosteronismo
+- Hipertiroidismo
+- Pseudohipoaldosteronismo tipo II
+
+**Neoplasias**
+- Tumor Wilms
+- Nefroma mesoblástico
+- Neuroblastoma
+- Feocromocitoma
+
+**Medicación/intoxicaciones**
+**Recién nacido**
+- Dexametasona
+- Drogas adrenérgicas
+- Intoxicación por Vitamina D
+- Cafeína y teofilina
+- Pancuronio
+
+**Madre**
+- Cocaína, Heroína
+
+**Miscelánea**
+- Nutrición parenteral exclusiva
+- Cierre de defecto abdominal
+- Hemorragia suprarrenal
+- Hipercalcemia
+- ECMO
+- Asfixia perinatal
+- Nefrocalcinosis
+
+Nwankwo M, Lorenz J, Gardiner J. A Standard Protocol for Blood Pressure Measurement in the Newborn. Pediatrics. 1997; 99 (6).
+@pie 2

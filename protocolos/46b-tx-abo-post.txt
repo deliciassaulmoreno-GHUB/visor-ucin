@@ -1,0 +1,61 @@
+@f 5. Hemodinámico/46.b. Protocolo sobre politica hemod erivados post-TxABO incompatible.pdf
+@p 1
+# Tema 46b. PROTOCOLO TRANSFUSIONAL DE TRASPLANTE CARDÍACO INFANTIL ABO INCOMPATIBLE: TRANSPLANTE y POSTOPERATORIO.
+Servicio de Cardiología……………………………… (Busca 845788)
+Servicio de Banco ……. ……….……………………… (Busca 841691)
+Equipo de Perfusión de CCV Infantil .…………. (Busca 844244)
+
+## 1. EN EL MOMENTO DEL TRANSPLANTE
+- Si se acepta un __DONANTE ABO COMPATIBLE__ la política transfusional para el acto del trasplante será la habitual de un Tx Cardiaco.
+- Si se oferta un __DONANTE ABO INCOMPATIBLE__ El cardiólogo de alerta contactará con el HEMATOLOGO de guardia (Busca 841691) para seguir el protocolo.
+
+**VOLUMEN Y TIPO DE HEMODERIVADOS DURANTE EL ACTO QUIRURGICO:** El volumen de reserva (calculado por el perfusionista): será el necesario para 3X recambios de exanguinotransfusión además de las necesidades habituales de hemoderivados para cirugía cardiaca.
+
+**X unidades CONCENTRADO DE HEMATIES del grupo sanguíneo** del Receptor o grupo 0
+**X unidades de PLASMA FRESCO CONGELADO** grupo AB
+**X unidades de PALQUETAS** grupo AB
+
+- El cardiólogo informará al MEDICO del servicio donde este hospitalizado el paciente (UCIs) el cual realizará la petición siguiendo las indicaciones descritas (Especificar en observaciones concentrado de hematíes de menos de 10 días)
+- En todas la peticiones indicar en Observaciones: “*Trasplante cardiaco ABO incompatible” y* pegar etiqueta color naranja fosforescente con la leyenda “Tx Cardiaco ABO incompatible”
+- *Contactar con Banco antes del envío de las peticiones*
+
+__DETERMINACION ISOHEMAGLUTININAS EN QUIROFANO__ realizada por Anestesista y el Técnico de Banco comunicará telefónicamente al Perfusionista los resultados (El titulo SEGURO de ISO AO para el Desclampaje Aórtico es ≤ 1:4)
+
+## 3. POSTOPERATORIO EN UCI
+→ __DETERMINACION DE ISOHEMAGLUTININAS__:
+- En turno de mañana previo *contacto telefónico con Banco*.
+- Al hacer la petición añadir en motivo de la solicitud: día de trasplante (0, +1,+2 etc...)
+- Etiquetar los tubos:
+  - 1 tubo con EDTA tapón morado (puede ser microtainer)
+  - 1 tubo seco sin medio tapón amarillo (no puede ser microtainer)
+@p 2
+Con la etiqueta habitual de código barras y añadir etiqueta color naranja fosforescente con la leyenda Tx cardiaco ABO incompatible sin tapar código barras).
+- Frecuencia de Determinaciones:
+  - Diariamente - durante la primera semana.
+  - Semanalmente - durante 2ª, 3ª semana y 4ª semana.
+  - Cada 2 semanas - durante 2º y 3ª mes.
+  - Mensualmente - durante 4º, 5º y 6º mes.
+  - Posteriormente cada 3 meses.
+
+→ __TIPO DE HEMODERIVADOS__
+El paciente que recibe un Trasplante cardiaco ABO INCOMPATIBLE debe recibir TODA SU VIDA HEMODERIVADOS CON POLITICA TRANSFUSIONAL de Tx ABO INCOMPATIBLE
+Dicha información aparecerá en la hoja transfusional de paciente elaborada por Banco.
+En la hoja diaria de enfermería de UCI deberá figurar la leyenda “*Tx cardiaco ABO incompatible”* y el tipo sanguíneo de hemoderivados que puede recibir el paciente (ver TABLA):
+- CONCENTRADO DE HEMATIES → **tipo sanguíneo del Receptor o grupo 0**
+- PLASMA → **AB o Plasma del tipo sanguíneo del Donante (si el receptor es grupo 0 )**
+- PLAQUETAS → **AB o Plaquetas del tipo sanguíneo del Donante (si el receptor es grupo 0 )**
+
+Las PLAQUETAS AB es el HEMODERIVADO de menor disponibilidad en BANCO, intentar solicitarlo en TURNO DE MAÑANA. En caso de no disponibilidad de plaquetas AB en Banco estas deben ser lavadas y su disponibilidad unas 2 horas.
+
+## 4. HOSPITALIZACION EN PLANTA
+Se regirá por las mismas consideraciones que en UCIP en cuanto a petición de hemoderivados y isohemaglutininas.
+
+## 5. AL ALTA
+- El paciente con un TRASPLANTE CARDIACO ABO INCOMPATIBLE SIEMPRE debe recibir LOS HEMODERIVADOS CON POLITICA TRANSFUSIONAL ABO INCOMPATIBLE **de forma INDEFINIDA**.
+- En el momento del ALTA para garantizar la SEGURIDAD del paciente debería llevar una Tarjeta cuya información será elaborada por Banco de sangre conteniendo el tipo sanguíneo de hemoderivados que debe recibir el paciente.
+- EN __SITUACION DE EMERGENCIA__ el protocolo de transfusión de hemoderivados SEGURO es:
+  - **Concentrado de hematíes tipo 0**
+  - **Plasma AB**
+  - **Plaquetas AB.**
+
+Fecha de actualización: enero 2018.

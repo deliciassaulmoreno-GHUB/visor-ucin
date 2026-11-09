@@ -1,0 +1,74 @@
+@f 10. Hematológico/54. Protocolo rtpa-1.pdf
+@p 1
+# PROTOCOLO NEONATOLOGÍA: NÚMERO 54.
+## TRATAMIENTO FIBRINOLÍTICO CON RT-PA (ALTEPLASA)
+**Raquel Hernández Pérez**
+**Fecha actualización: mayo 2020.**
+
+El rt-PA o activador tisular del plasminógeno es una glucoproteina sintética que favorece la conversión del plasminógeno en plasmina, facilitando la degradación de la fibrina dando a PDF (productos de degradación de la fibrina) y Dímero D. Es un tratamiento eficaz, pero con riesgo de hemorragias graves. En cada paciente deben ser valoradas las indicaciones y contraindicaciones analizando cuidadosamente los riesgos y beneficios.
+
+## __Indicaciones__ ^1,2,3^
+- Trombosis arterial que produce isquemia del miembro u órgano afecto.
+- Trombosis en cava inferior con oclusión de >50% de la luz, con extensión a venas renales o afectación de la función renal.
+- Trombosis de fístula sistémico-pulmonar o en relación con el conducto de Fontán en pacientes con fenestración.
+- Trombosis intracardiaca.
+- Síndrome de vena cava superior.
+- Quilotórax secundario a trombosis del territorio venosos superior sin mejoría tras tratamiento conservador (ver protocolo correspondiente).
+- Trombosis de seno venoso cerebrales con deterioro neurológico progresivo.
+
+## __Contraindicaciones relativas de trombolisis__^1,2,3^
+| | |
+|---|---|
+| 48 horas previas | Crisis convulsivas. // Procedimiento mayor: drenaje torácico quirúrgico, catéter de diálisis peritoneal, punción lumbar, drenaje ventricular… |
+| 7 días previos | Cirugías, especialmente si han requerido anticoagulación (ECMO). // Asfixia perinatal. |
+| 30 días previos | Sangrado/isquemia/trauma/cirugía en el SNC. |
+| Otros | <32 semanas EG* // Sangrado activo, coagulopatía, plaquetopenia (< 100.000/mcl) // Hipertensión arterial incontrolada // Shock séptico |
+^*^ Hay publicaciones en< 1500gr, pero no hay evidencia en cuanto a su seguridad^4^
+
+## __Protocolo__
+@flujo
+{1} **Analítica basal:** hemograma, coagulación y dímero D. Requisitos: fibrinógeno >100 mg/dL y plaquetas >100.000/mm3.
+v
+{2} **Ecografía transfontanelar** sin datos de hemorragia activa.
+v
+{3} **Administración de plasma fresco congelado** a 10 ml/kg, independientemente de los niveles de fibrinógeno (los neonatos presentan hasta un 50% menos de plasminógeno, en relación con los adultos).^5,6^
+v
+{4} **Pautar rt-PA** // - Vía: catéter origen de la trombosis (preferentemente) u otro catéter central. Valorar colocación de un catéter local. // - Preparar: Reconstituir vial de 20 mg de Actylise ® con 20 ml de agua para inyección (1 mg/ml). No agitar, evitar formación de espuma, si aparece dejar reposar hasta que desaparezca. Una vez reconstituido puede permanecer 24 horas a temperatura ambiente^7^. Conservar los viales en frigorífico.
+@finflujo
+@p 2
+@caja
+**Pautar: Actilyse vial 20 mg: Cargar …. mg hasta 50 ml de SSF (1cc/h= 0.06mg/kg/h)**
+**Ej. (RN 4 kg) Cargar 12 mg de alteplasa hasta 50 ml de SSF (Dilución: 0.24mg/dl)**
+Iniciar a 0.03 mg/kg/h y aumentar hasta 0,06mg/kg/h*
+Duración del tratamiento entre 48-72 horas (menor si se evidencia resolución ecográfica)
+*\* Aunque en pediatría se ha descrito como dosis eficaz 0,03 mg/kg/h, en los neonatos, dado los menores niveles de plasminógeno, se recomienda la dosis de 0,06 mg/kg/h.*
+@fin
+@pie ÓDilución: eficacia in vitro (sin precipitar) con una dilución de hasta 0,01 mg/ml8
+! Se copia tal como está en el PDF: «Dilución: 0.24mg/dl». 12 mg en 50 ml son 0,24 mg/ml; compruébalo con el autor del protocolo. El texto del PDF incluye además una línea que no se ve en la página («Dilución: eficacia in vitro (sin precipitar) con una dilución de hasta 0,01 mg/ml», con la cita 8); no se muestra aquí.
+@flujo
+{5} **Heparinización:** Heparina no fraccionada a 5-10 UI/kg/hora // *\* En modelos animales se ha demostrado que el tratamiento fibrinolítico puede inducir un estado procoagulante por aumento de los niveles de trombina.*
+v
+{6} **Controles durante el tratamiento** // - Hemograma y coagulación con dímero D, el primero a las 6 horas y después cada 12 horas. // ◦ Requisitos: plaquetas > de 100.000/mcl, fibrinógeno >100 mg/dl // ◦ Eficacia: Dímero D > 1100 ng/dl y disminución del fibrinógeno. // - Evaluación neurológica: presencia de crisis, disminución del estado de alerta… // - Ecografía doppler del territorio afecto cada 24 horas // - Vigilancia de aparición de hemorragias: sangrado cutáneo, mucosas, tubo endotraqueal, drenajes.
+v
+{7} **Evitar**: inyecciones intramusculares, sondaje vesical, canalización de vías arteriales y venosas centrales y colocación de sensores de temperatura rectal.
+@finflujo
+
+## __Indicación de suspensión__
+Suspender si aparece hemorragia con estabilización del paciente o necesidad de trasfusión. Administrar plasma fresco congelado y si sangrado severo valorar antifibrinolíticos: Ácido Tranexámico (uso fuera de ficha técnica: 4-10 mg/kg iv).
+En caso de procedimiento mayor: suspender 6 horas antes. **__Si fuera urgente al menos una hora antes__** (Vida media de 5 minutos, con metabolismo hepático, la actividad fibrinolítica persiste hasta una hora después de terminar). ^4^
+
+## PROTOCOLO DE DESOBSTRUCCIÓN DE CATETER CON ALTEPLASA
+| | |
+|---|---|
+| **Indicación:** | obstrucción de catéter venoso central sin respuesta a uroquinasa. |
+| | Utilizar jeringa precargada de Alteplasa 2.5mg/2.5ml: inyectar en la luz del catéter obstruido el volumen del recorrido del mismo a una concentración de 1mg/ml, valorar respuesta a los 30 y 60 minutos. Si no es eficaz se puede repetir la administración a igual concentración (máximo 2mg/ml). A las 2 horas desechar el volumen administrado y lavar la vía antes de administrar medicación. |
+
+@bib
+1. Santiago MJ, López-Herce J, Zarzoso S, Sánchez A, Mencía S, Carrillo A. Thrombolytic therapy using a low dose of tissue plasminogen activator in children. An Pediatr (Barc). 2012; 76:77-82.
+2. Raffini, Leslie Thrombolysis for intravascular thrombosis in neonates and children, Current Opinion in Pediatrics: February 2009 - Volume 21 - Issue 1 - p 9-14
+3. Giglia, Therese M. MD, FACC, FAAP, SCCM; Witmer, Char MD; Procaccini, David E. PharmD, BCPS; Byrnes, Jonathan W. MD Pediatric Cardiac Intensive Care Society 2014 Consensus Statement, Pediatric Critical Care Medicine: March 2016 - Volume 17 - Issue 3_suppl - p S77-S88
+4. Álvarez, P., Verdugo, P., Carvajal, L., Múhlhausen, G., Ríos, P., & Rodríguez, D. (2015). Activador del plasminógeno tisular recombinante en el manejo de trombos cardiacos en recién nacidos. Revista chilena de pediatría, 86(3), 194-199.
+5. Giglia, T. M., Witmer, C., Procaccini, D. E., & Byrnes, J. W. (2016). Pediatric cardiac intensive care society 2014 consensus statement: pharmacotherapies in cardiac critical care anticoagulation and thrombolysis. Pediatric critical care medicine, 17(3_suppl), S77-S88.
+6. Parmar N, Albisetti M, Berry LR, Chan AK. The fibrinolytics system in newborns and children. Clin Lab 2006; 52:115-124.
+7. Semba, Charles P. et al Alteplase: Stability and Bioactivity after Dilution in Normal Saline Solution. Journal of Vascular and Interventional Radiology 2003; Volume 14, Issue 1, 99 – 102
+8. Semba, C. P., Weck, S., & Patapoff, T. (2003). Alteplase: stability and bioactivity after dilution in normal saline solution. *Journal of vascular and interventional radiology*, *14*(1), 99-102.

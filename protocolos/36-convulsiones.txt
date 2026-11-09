@@ -1,0 +1,51 @@
+@f 11. Neurológico/36. Crisis convulsivas-1.pdf
+@p 1
+# Protocolo 36: Crisis convulsivas neonatales.
+## ALGORITMO PARA EL TRATAMIENTO DE LAS CONVULSIONES NEONATALES
+@deimg
+@flujo
+[**Sospecha de convulsión neonatal** // Confirmar convulsiones en el EEG (si esta disponible) y continuar con MFC mediante aEEG // Chequear la existencia de causas corregibles: hipoglucemia y alteraciones electrolíticas // Comenzar con antibióticos/antivirales si el RN tiene fiebre o alto riesgo de infección del SNC // Realizar Punción Lumbar lo antes posible una vez estabilizadas las convulsiones]
+v
+[Si se confirma una convulsión en el aEEG sin una causa inmediatamente corregible: // **FENOBARBITAL 20 mg/ kg /iv y comenzar mantenimiento a 5 mg/kg/día en 2 dosis**]
+@cols
+(Hacer niveles de FB en 1-2 horas)
+---
+(Iniciar / continuar aEEG // Evaluar clínica y aEEG 10´despues de dosis de carga)
+@fincols
+v
+? Si la crisis persiste
+@cols
+[1a. Completar dosis de choque de FB // 20 mg/kg (total 40 mg de carga) // En EHI+ hipotermia 10 mg/kg ( total 30 mg/kg)]
+---
+[1b. Administrar bolo de **LEVETIRACETAM** : 40-50 mg/kg // Opción Preferida si aEEG de base alterado o EHI // Mantenimiento : 20 - 40 mg/kg /día en 2 dosis]
+@fincols
+? Si la crisis persiste /recidiva
+@cols
+[2a. Administrar bolo de **LEVETIRACETAM**]
+---
+[2b. **Completar dosis de carga de FB** (si es posible según niveles)]
+@fincols
+v
+? Si la crisis no cede /recidiva
+@cols
+[A. Sin causa Probable /conocida]
+v
+[Ensayo Terapéutico con : Piridoxina / Piridoxal –P // Acido folínico o Biotina]
+---
+[B. Con causa Probable / conocida]
+v
+[Elegir un fármaco antiepiléptico en 3ª línea de tratamiento // Continuar tratamiento de mantenimiento con Levetiracetam]
+@fincols
+v
+@cols 3
+[**FENITOINA** // 20 mg/kg iv. Mantenimiento: 5 mg/kg /día en 3 dosis // Niveles a la hora de la dosis de carga]
+---
+[**MIDAZOLAM** // bolo : 0.15 mg/kg . Mantenimiento: 1-18 ug/kg/min // Comenzar descenso a las 24 horas del control de las crisis]
+---
+[**LIDOCAINA** // 2mg/kg/iv. + 6 mg/kg/ h x 6h . ↓ 2mg/kg/h cada 12h // Duraciónón máxima del tratamiento 36 horas]
+@fincols
+? Si la crisis se mantiene como estatus convulsivo o recidiva
+[Realizar ensayo Terapéutico con Lidocaína si previamente no se utilizo Fenitoína . // Como último ensayo terapéutico utilizar Perfusión de Pentobarbital]
+@finflujo
+@findeimg
+! El algoritmo es una imagen en el PDF y se ha redibujado aquí. En el PDF las flechas cruzan: tras «Si la crisis persiste /recidiva», 1a continúa en 2a y 1b en 2b. «(total 40 mg de carga)» está así en el PDF (sin «/kg»), igual que «Duraciónón».

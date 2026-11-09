@@ -1,0 +1,14 @@
+@f 2. Recién nacido sano/6a. Curvas de crecimiento RNPT.pdf
+@p 1
+TEMA 6a.
+# CURVAS DE CRECIMIENTO EN RECIÉN NACIDOS PRETÉRMINOS
+## 1.- CURVAS DE CRECIMIENTO RN PRETÉRMINO <37 SEMANAS DE GESTACIÓN.
+Se recomienda emplear las curvas de Fenton (1) hasta las 44 semanas postmenstruales (2)
+
+! Para calcular el percentil, usa Calculadoras y escalas › Somatometría › Fenton (de 22 a 42 semanas).
+
+@img 6a-rnpt-ninas.png
+http://ucalgary.ca/fenton/files/fenton/espanol-fenton2013growthchart-ninas.pdf
+@p 2
+@img 6a-rnpt-ninos.png
+http://ucalgary.ca/fenton/files/fenton/espanol-fenton2013growthchart-ninos.pdf.

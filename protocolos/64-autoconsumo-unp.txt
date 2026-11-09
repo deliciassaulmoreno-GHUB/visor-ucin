@@ -1,0 +1,38 @@
+@f 8. Digestivo/64. Protocolo de realización de autoconsumo UNP.pdf
+@p 1
+# Protocolo 64. PROCEDIMIENTO PARA REALIZAR AUTOCONSUMO EN LA UNIDAD DE NUTRICIÓN PERSONALIZADA
+*Protocolo 64 — Autoconsumo leche materna propia de la UNP — RevisIón Enero 2025*
+! Las capturas de pantalla del programa del banco de leche se reproducen recortadas del PDF; los recuadros de colores marcan dónde pulsar.
+
+@flujo
+{1} Entramos en el listado de **LECHE CRUDA** en **PASAR DONADA A CONSUMO PROPIO.**
+@finflujo
+@img 64-menu.png
+@flujo
+[**a.** Leemos con el lector la etiqueta del bote que queremos pasar a autoconsumo o escribimos F y el número de la botella.]
+@finflujo
+@img 64-botella.png
+@flujo
+[**b.** Como en la ficha de la donante ya figura el nombre de su hijo y la fecha de parto, el programa, a partir de esta información, localiza el **NHC del recién nacido** y si lo encuentra, aparece automáticamente cumplimentado en la siguiente pantalla, indicando además el **nombre del recién nacido** para su comprobación. // Si no lo encuentra, habría que indicar manualmente el NHC del recién nacido al que se va a asignar la leche para su consumo.]
+@finflujo
+@img 64-consumo.png
+@flujo
+[**c.** Esta etiqueta se pega en el bote que se entrega al paciente.]
+@finflujo
+@img 64-etiqueta.png
+
+@p 2
+@flujo
+{2} Entramos en **DONANTE** y vamos a la pestaña de **DONACIONES.**
+@finflujo
+@img 64-donaciones.png
+@flujo
+[En esta pantalla hacemos 2 cosas: // **a.** Comprobamos que el bote ha **“retornado a la donante”** // **b.** Seleccionamos con la punta de flecha negra el bote que hemos asignado al paciente y obtenemos una **etiqueta** de ese bote que pegamos en la hoja del paciente llamada “solicitud de leche humana donada pasteurizada”.]
+v
+{3} Entramos en el **RECEPTOR** con el NHC y vamos a la pestaña de **LECHE RECIBIDA DE SU MADRE.**
+@finflujo
+@img 64-receptor.png
+@flujo
+[Se busca el número de **alícuota (A11111)** y se sacan varias **ETIQUETAS DE LA UNIDAD SELECCIONADA:** // **a.** Para pegar una en la hoja del paciente llamada “solicitud de leche humana donada pasteurizada” (junto con la obtenida previamente). // **b.** Para pegar en gráfica de enfermería del receptor // **c.** Para poder hacer las alícuotas (tanto en UCIN como en Cuidados Medios)]
+@finflujo
+@pie Protocolo 64 Autoconsumo leche materna propia de la UNP RevisIón Enero 2025

@@ -1,0 +1,67 @@
+@f 6. Respiratorio/33. Protocolo de ventilación invasiva-1.pdf
+@p 1
+# PROTOCOLO DE VENTILACIÓN MECÁNICA INVASIVA
+*Noelia González Pacheco, Cristina Ramos Navarro*
+*Última actualización: Febrero 2025*
+
+## INDICACIONES
+Insuficiencia respiratoria, tras optimización de la ventilación no invasiva, definida por los siguientes criterios (Tabla 1)
+
+| CRITERIOS DE INTUBACIÓN |
+|---|
+| **Pausas de apnea** (>4 episodios a la hora o más de uno que precise administración de VPPI) |
+| **Acidosis respiratoria** (pCO~2~> 65 mmHg y pH <7,20 en gasometría arterial o capilar arterializada) |
+| **FiO~2~ > 50%** |
+Tabla 1. Criterios de intubación.
+
+## OBJETIVO
+Uso de estrategias de **PROTECCIÓN PULMONAR** encaminadas a minimizar el daño pulmonar asociado a la ventilación mecánica (modalidades sincronizadas, mínima FiO~2~ para mantener una SatO~2~ preductal 90-95%, volúmenes tidales controlados y presiones pico limitadas, con un ajuste adecuado de la PEEP para mantener una adecuada capacidad residual funcional).
+
+## MODALIDADES
+**a. VENTILACIÓN MANDATORIA INTERMITENTE SINCRONIZADA (SIMV)**
+El respirador asiste el número de ciclos fijados sincronizándose con el esfuerzo del paciente; sobre esa frecuencia prefijada el paciente puede respirar espontáneamente sin asistencia por parte del respirador.
+@img 33-simv.png
+- ***Ventajas:*** ↓ riesgo de hiperventilación.
+- ***Desventajas:*** dificultad para vencer el incremento de presión que supone la presencia del TET en las respiraciones espontáneas → *Solución:* añadir presión soporte en respiraciones espontáneas ***(SIMV+PS)***
+- ***Indicaciones:*** situaciones en que el paciente no puede/debe controlar el VM espontáneamente (cardiopatías congénitas con flujo sistémico dependiente del flujo pulmonar, postoperados sedoanalgesiados o problemas neurológicos).
+
+**b. ASISTIDA/CONTROLADA (A/C)**
+El respirador asiste todas las respiraciones espontáneas según los parámetros prefijados; en caso de apnea, el respirador garantiza la frecuencia respiratoria fijada enviando inspiraciones mandatorias.
+@img 33-ac.png
+- ***Ventajas:*** VT más homogéneo entre respiraciones; control del tiempo inspiratorio.
+- ***Desventajas:*** riesgo de hiperventilación (autociclado).
+- ***Indicaciones:*** limitado a casos concretos en los que se quiera mantener un tiempo inspiratorio largo y constante.
+
+@p 2
+**c. VENTILACIÓN EN PRESIÓN DE SOPORTE (PSV)**
+@img 33-psv.png
+El respirador asiste todas las respiraciones espontáneas según los parámetros prefijados; diferencia con A/C: duración de la inspiración ciclada por flujo (no por por tiempo); la inspiración termina cuando la velocidad de flujo cae por debajo del 15-20% del pico de flujo máximo, iniciándose en ese momento la espiración.
+- ***Ventajas:*** modalidad más fisiológica, mayor sincronía.
+- ***Desventajas:*** pacientes con constante de tiempo muy baja (fase inicial del SDR del prematuro) o broncoespasmo (pico de flujo disminuido) → *Solución:* asociación de Garantía de Volumen **(VG)**
+- ***Indicaciones:*** SDR, excepto aquellos casos en los que el control del VM deba ser realizado por el clínico.
+
+**d. GARANTÍA DE VOLUMEN**
+Ventilación con flujo continuo, controlada-guiada por volumen y limitada por presión → el respirador compara el VT espirado en cada respiración con el VT fijado (VG), ajustando en la siguiente respiración el PIP a administrar para acercarse al mismo.
+El PIP máximo alcanzado por el respirador será el fijado por el clínico.
+Se puede asociar a las tres modalidades anteriores: SIMV, A/C y PSV.
+- ***Ventajas:*** mayor estabilidad de la ventilación, menor exposición a VT excesivos o insuficientes, mejoría del destete respiratorio (descenso automático de la PIP al mejorar la dinámica respiratoria) y descenso en la frecuencia de DBP o muerte.
+@img 33-vg.png
+! Las cuatro gráficas de curvas son imágenes en el PDF y se reproducen recortadas.
+
+| | SIMV | A/C | PSV |
+|---|---|---|---|
+| **Inicio inspiración** | Paciente | Paciente | Paciente |
+| **Frecuencia respiratoria** | Respirador | Paciente | Paciente |
+| **Tiempo inspiratorio** | Respirador | Respirador | Paciente |
+! En el PDF las casillas «Paciente» van en gris y las casillas «Respirador» en negro.
+
+## PARÁMETROS
+| {2} **VM = VT x FR** (200-400 ml/kg/min) |
+|---|
+| ***Flujo / rampa*** | 6-8 lpm / 0,08-0,15 seg |
+| ***PEEP*** | 5-7 cm H~2~O |
+| ***PIP*** | Límite en función del peso (*protocolo VAFO*) |
+| ***VG*** | 4-6 ml/kg / en DBP con aumento del espacio muerto 7-8 ml/kg |
+| ***Ti*** | 0,25-0,35 seg / superior en DBP / de escape en PSV |
+| ***FR de escape*** | 35-40 rpm (favorecer sincronización) |
+| ***FiO~2~*** | Mínima necesaria para SatO~2~ 90-95% |

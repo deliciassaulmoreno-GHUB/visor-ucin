@@ -1,0 +1,129 @@
+@f 12. Procedimientos/25. Protocolo preparación perfusiones-1.pdf
+@p 1
+# PROTOCOLO PERFUSIONES
+*Ana Rodríguez Sánchez de la Blanca/ Alba Pérez Pérez*
+*Revisado Enero 2022*
+
+## 1. PREPARACIÓN DE PERFUSIONES CONTINUAS
+Todas las perfusiones continuas que se emplean en la unidad se cargan en jeringas de 50 ml y con suero glucosado al 5%.
+*__EXCEPCIONES:__*
+- Perfusión de *__furosemida__*: se cargan en 12 cc y con SSF. No añadir heparina.
+- Perfusiones de *__heparina__*: se cargan con SSF.
+- Perfusión de *__dexmedetomidina__*: se carga en SSF
+
+El programa FARHOS dispone de un asistente de prescripción que permite la prescripción de perfusiones de forma estandarizada y ajustadas al peso del paciente, por lo que deberá usarse este formato de prescripción para garantizar la seguridad del paciente.
+
+## 2. ¿CÓMO LO CALCULAMOS?
+**A.** Con los cálculos que veremos a continuación obtendremos los **__miligramos__** del fármaco que queremos preparar.
+
+Existen “fórmulas rápidas” para hacer estos cálculos, pero vamos a ver el proceso por el cual llegamos a estas fórmulas a través de una serie de ejemplos. Para ello, necesitamos conocer 2 factores iniciales:
+1. *La forma en la que se expresa la concentración de ese fármaco.*
+2. *La equivalencia que queremos entre concentración y ritmo de infusión.*
+
+*EJ: Queremos preparar una perfusión de dopamina:*
+1. *La concentración de este fármaco se expresa en µg/kg/min.*
+2. *La equivalencia concentración/ritmo infusión que buscamos es: ritmo de 1 cc/h de la perfusión corresponderá a 10 µg/kg/min de dopamina.*
+
+**B.** Las concentraciones de los distintos fármacos se expresan de la siguiente forma:
+| µg/kg/min | drogas vasoactivas y midazolam |
+|---|---|
+| µg/kg/h | cloruro mórfico y fentanilo |
+| mg/kg/h | furosemida, propofol y relajantes musculares |
+| UI/kg/h | insulina y heparina |
+! En el PDF es una lista con «---» entre la unidad y los fármacos.
+
+@p 2
+@pie 2
+### I. CONCENTRACIONES EXPRESADAS EN µg/kg/min
+Peso del paciente: 2,5 kg
+| **DOPAMINA** // 10 ***µg/kg/min*** --- 1 cc/h | **DOPAMINA** // ¿cuántos ***miligramos*** del fármaco tengo que cargar en una jeringa de 50 ml? |
+|---|---|
+@caja
+(***Dosis x Peso x Minutos x Volumen***) / ***Microgramos***
+(10 x 2,5 x 60 x 50) / 1000 → (60 x 50) / 1000 = 3
+de aquí deducimos la fórmula rápida …
+***(Dosis x Peso x 3) / Ritmo de infusión***
+(10 x 2,5 x 3) / 1 = 75 mg de dopamina
+@fin
+! En el PDF las fórmulas son fracciones (numerador sobre denominador); aquí van en una línea con «/». La fórmula rápida va en verde en el original. Dos flechas señalan que «10» es la dosis y «2,5» el peso.
+- * El ritmo está en horas y la concentración en minutos, de manera que en el numerador debo multiplicar por 60 (minutos que tiene una hora)
+- * La dosis a cargar tengo que expresarla en miligramos, mientras que la concentración se encuentra en microgramos por lo que tengo que dividir entre mil (denominador)
+
+### II. CONCENTRACIONES EXPRESADAS EN mg/kg/h
+Peso del paciente: 2,5 kg
+| **ROCURONIO** // 0,5 ***mg/kg/h*** --- 1 cc/h |
+|---|
+@caja
+(***Dosis x Peso x Volumen***) / ***Ritmo***
+**(0, 5 x 2, 5 x 50) / 1 = 62, 5 mg de rocuronio**
+***(Dosis x Peso x 50) / Ritmo de infusión***
+@fin
+- * En este caso tanto el ritmo como la concentración están en horas por lo que el 60 desaparece del numerador.
+- * Tanto la dosis a cargar como la concentración están en miligramos, por lo que del denominador desaparece el 1000.
+
+@p 3
+@pie 3
+### III. CONCENTRACIONES EXPRESADAS EN µg/kg/h
+Peso del paciente: 2,5 kg
+| **FENTANILO** // 2 ***µg/kg/h*** --- 1 cc/h |
+|---|
+@caja
+(***Dosis x Peso x Volumen***) / ***Microgramos***
+**(2 x 2,5 x 50) / 1000 = 0, 25 mg de fentanilo**
+***(Dosis x Peso x 50) / Ritmo de infusión x 1000***
+@fin
+- * En este caso tanto el ritmo como la concentración están en horas por lo que el 60 desaparece del numerador.
+- * La dosis a cargar tengo que expresarla en gramos, mientras que la concentración se encuentra en microgramos por lo que tengo que dividir entre mil (denominador).
+! «expresarla en gramos» está así en el PDF; en el ejemplo el resultado se expresa en miligramos (0,25 mg).
+
+## 3. ¿CÓMO LO PAUTAMOS?
+El resultado obtenido después de aplicar las diferentes fórmulas se expresa en miligramos del fármaco y el modo de dar la pauta a la enfermería será el siguiente:
+@caja
+**“75 mg de dopamina hasta 50 cc de SG5% ”**
+**“(resultado) miligramos de (fármaco) hasta 50 cc de SG5%”**
+@fin
+
+## 4. PERFUSIÓN DE INSULINA
+La equivalencia en las perfusiones de insulina es ***1 cc/h = 0,1 UI/kg/h***
+| En *__<1500 gramos__* | 10 UI/kg de insulina+ Albumina 20%: 1,8 ml + SG5%: 98 ml |
+|---|---|
+| En *__>1500 gramos__* | 10UI/ kg de insulina hasta 100 cc de SG5%. |
+
+*El programa de prescripción electrónica FARHOS dispone de protocolo correspondiente a la preparación de las perfusiones de insulina arriba indicadas.
+
+@p 4
+@pie 4
+## 5. PERFUSIONES DE HEPARNA
+En nuestra unidad se emplean dos perfusiones de heparina estandarizadas:
+- Heparina 1: 20 - cada ml de la perfusión contiene 20 UI de heparina 1%
+- Heparina 1: 50 - cada ml de la perfusión contiene 50 UI de heparina 1%
+
+*El programa de prescripción electrónica FARHOS dispone de protocolo correspondiente a la preparación de las perfusiones arriba indicadas.
+
+@ancha
+| **FARMACO** | **EQUIVALENCIA** | **FÓRMULA** | **DOSIS MÍN** | **DOSIS MÁX** |
+|---|---|---|---|---|
+| ***Dopamina*** | 1 cc/h = 10 µg/kg/min | Dosis x Peso x 3 / ritmo | 3 | 10 |
+| ***Dopamina concentrada*** | 1 cc/h = 20 µg/kg/min | Dosis x Peso x 3 / ritmo | 3 | 10 |
+| ***Dobutamina*** | 1 cc/h = 10 µg/kg/min | Dosis x Peso x 3 / ritmo | 3 | 10 |
+| ***Adrenalina*** | 1 cc/h = 0, 1 µg/kg/min | Dosis x Peso x 3 / ritmo | 0,01 | 0,15 |
+| ***Noradrenalina*** | 1 cc/h = 0,05 µg/kg/min | Dosis x Peso x 3 / ritmo | 0,05 | 1,5 |
+| ***Noradrenalina concentrada*** | 1 cc/h = 0,5 µg/kg/min | Dosis x Peso x 3 / ritmo | 0,1 | 1,5 |
+| ***Nitroprusiato*** | 1 cc/h = 1 µg/kg/min | Dosis x Peso x 3 / ritmo | 0,2 | 3 |
+| ***Milrinona*** | 1 cc/h = 1 µg/kg/min | Dosis x Peso x 3 / ritmo | 0,5 | 1 |
+| {5} {fondo #e2c6d2} |
+| ***Fentanilo*** | 1 cc/h = 4 µg/kg/h | Dosis x Peso x 50 / 1000 | 0,5 | 10 |
+| ***Cloruro mórfico*** | 1 cc/h = 10 µg/kg/ h | Dosis x Peso x 50 /1000 | 3 | 20 |
+| ***Midazolam*** | 1 cc/h = 2 µg/kg/min | Dosis x Peso x 3 | 0,5 | 6 |
+| ***Rocuronio*** | 1 cc/h = 0, 5 mg/kg/h | Dosis x Peso x 50 | 0,3 | 0,6 |
+| ***Propofol*** | 1 cc/h = 10 mg/h | Precargada | 0,5 | 4 |
+| ***Dexmedetomidina*** | 1 cc/h | Dosis x Peso x 50 /1000 | 0,2 | 1 |
+| {5} {fondo #e2c6d2} |
+| ***Furosemida*** | 1 cc/h = 1 mg/ kg/h | Dosis x Peso x 12 | 0,1 | 1 |
+| ***Heparina 1:20*** | 1 cc/ 20 UI/h | 20 x 50 | 5 | |
+| ***Heparina 1:50*** | 1 cc/ 50 UI/h | 50 x 50 | 5 | |
+! En el PDF las cifras 0,05 y 0,5 de las dos noradrenalinas son un texto pequeño superpuesto en la casilla; se han copiado leyendo la imagen.
+
+*En grandes prematuros o pacientes que necesiten restricción hídrica se preparan perfusiones concentradas.
+
+**“NO HACER”:** *No es necesario la heparinización sistematizada de las perfusiones de fármacos, salvo que éstas vayan a ser administradas por una vía central por la que no se esté infundiendo ningún otro preparado o lavado que ya esté heparinizado.*

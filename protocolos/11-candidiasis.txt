@@ -1,0 +1,75 @@
+@f 9. Infeccioso/11. Protocolo de infeccion  fúngica en neonatología.pdf
+@p 1
+# __Tema 11. INFECCION FUNGICA EN NEONATOLOGIA/ CANDIDIASIS NEONATAL__
+**__FECHA ÚLTIMA ACTUALIZACION__: Septiembre 2017**
+! En el PDF la fecha de actualización está al final; aquí se pone arriba.
+
+## ***__1.- CONCEPTOS__***
+| | |
+|---|---|
+| **__-CANDIDIASIS INVASIVA:__** | *__CANDIDEMIA__:* invasión por Candida limitada al *torrente circulatorio* // *__CANDIDIASIS DISEMINADA__:* afectación de diversos *órganos* por Candida con/sin candidemia |
+| **__-CANDIDIASIS URINARIA (CANDIDURIA):__** | aislamiento de Candida en *orina* (>10x6 UFC/ml en urocultivo obtenido por sondaje vesical) // Un urocultivo positivo para Candida en niños con cualquier factor de riesgo* (ver apdo 5) y sobre todo en <1500 gr, es sinónimo de ***infección*** (no colonización) y por lo tanto estaría ***siempre indicado el tto sistémico y el estudio de extensión*** para descartar candidiasis diseminada. |
+| **__-CANDIDIASIS RENAL:__** | afectación renal por Candida (“fungus ball”/microabcesos) |
+| **__-CANDIDEMIA PERSISTENTE:__** | aislamiento en hemocultivo de la misma especie de Candida a las 72 horas del inicio del tratamiento antifúngico |
+
+## ***__2.- DIAGNOSTICO__***
+| **__INFECCION PROBADA__** | **__INFECCION PROBABLE:__** Cultivo (-) pero |
+|---|---|
+| * Cultivo (+) para Candida (Hemocultivo/Urocultivo/LCR) // * Endoftalmitis candidiásica // * Bolas fúngicas | * Mejoría con tto antifúngico y/o // * Endocarditis candidiásica y/o // *Microabscesos en eco TF // * + >= 1 de los siguientes: // - *Colonización por Candida/ Dermatitis candidiásica* // - *Trombopenia <100.000/mm3* // - *Complicación por diseminación de Candida* |
+
+## ***__3.- ESTUDIO DE EXTENSION__***
+| | |
+|---|---|
+| ECOGRAFÍA TF → | Abscesos, ventriculitis, vasculitis |
+| ECOGRAFIA ABDOMINAL → | “Fungus ball”/trombos |
+| ECOCARDIOGRAMA → | Endocarditis |
+| PUNCION LUMBAR → | Meningoencefalitis |
+| ESTUDIO FONDO OJO → | Endoftalmitis |
+
+## ***__4.- PROFILAXIS__*** *__(paciente asintomático y sin datos microbiológicos de infección)__*
+| | |
+|---|---|
+| **__INDICACION:__** | Incidencia >10% (mantenida >3 meses) o pico de prevalencia (>2 casos) en pacientes ingresados en UCIN |
+| **__A QUIEN?:__** | -RNPT <1000 gr // -RNPT 1000-1500 gr + alguno de los siguientes factores de riesgo*: // *Colonización materna o del RN por Candida spp // *Antecedente de cirugía abdominal // *Antibioterapia amplio espectro en semana previa // *Portador de CVC // *Ventilación mecánica |
+| **__TRATAMIENTO:__** | Fluconazol 3 mg/kg/dosis IV/VO, 2 veces a la semana |
+| **__DURACION:__** | 4-6 semanas |
+
+@p 2
+## ***__5.- TRATAMIENTO EMPIRICO__*** *(paciente sintomático pero sin confirmación microbiológica de CI)*
+| | |
+|---|---|
+| **__INDICACION:__** | RN de alto riesgo de CI (<1500 gr) con sepsis clínica tras 48h de antibioterapia que cumpla >1 de los siguientes criterios: // *Hiperglucemia persistente // *Trombopenia persistente // *FR de CI (colonización, Cx abd, ATB amplio espectro, CVC, VM) |
+| **__TRATAMIENTO__:** | Anfotericina B Liposomal(3-5 mg/kg/24h) |
+| **__DURACION__:** | Suspender a los 5 días si microbiología negativa |
+
+## ***__6.- TRATAMIENTO DIRIGIDO__*** *__(cuando existe confirmación microbiológica de CI)__*
+| | |
+|---|---|
+| **__TRATAMIENTO__*:*** | **Anfotericina B Liposomal** (3-5 mg/kg/24h) →**fluconazol** iv/vo (choque 24 mg/kg; mto 12 mg/kg/dosis, intervalos según tabla) |
+| **__DURACION__*:*** | resolución clínica /21 días tras HC o UC negativo |
+| **__Si meningitis por Candida:__** | 21 días tras HC negativo o resolución de lesiones ecográficas si las hay / Valorar LCR |
+| **__Si candidiasis diseminada:__** | 4-6 semanas |
+
+| **EPM** | **días** | **intervalo** |
+|---|---|---|
+| <= 29 | 0-14 // >14 | /72h // /48h |
+| 30-36 | 0-14 // >14 | /48h // /24h |
+| 37-44 | 0-7 // >7 | /48h // /24h |
+| >= 45 | todos | /24h |
+
+@caja
+→ HEMOCULTIVOS DE CONTROL CADA 3 DIAS
+@fin
+
+## __ENTIDAD ESPECIAL: CANDIDIASIS CUTANEA CONGENITA__
+| | |
+|---|---|
+| ***Definición*** | rash extenso que afecta a >=2 áreas cutáneas (tórax, abdomen, espalda) ó >=1 + afectación umbilical o placentaria; presentación PRECOZ(primeras 24-48 horas de vida) |
+| ***Diagnóstico:*** | -Clínica: maculopapulosa eritematosa → vesículas/pústulas→ rash descamativo → agrietamiento // -Aislamiento de Candida en cultivo de superficie (cutáneo) // -Identificación de Candida en placenta/cordón umbilical |
+| ***Evaluación*** | Cultivo rash cutáneo + Hemocultivo + Cultivo LCR ( excepto rash en región lumbar → retrasar PL) |
+| ***Tratamiento*** | ANFOTERICINA B (14 días) |
+
+@bib BIBLIOGRAFIA
+*-Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America.* Pappas P, Kauffman C, Andres D, Clancy C, Marr K, et al. Clinical Infectious Disease, Volume 62, Issue 4, 15 Feb 2016, Pages e1-e50.
+*-Invasive candidiasis in LBWP infants: risk factors, clinical course and outcome in a prospective multicenter study of cases and their matched controls.* Barton et al. BMC Infectious Disease 2014, 14:327.
+*-Recomendaciones de la Sociedad Española de Infectología Pediátrica sobre diagnóstico y tratamiento de la candidiasis invasiva*. C. Figueras, C. Díaz de Heredia, J.J. García, M. Navarro, J. Ruiz-Contreras. Anales Pediatr (Barc). 2011; 74 (5): 337. e1-337.e17.

@@ -1,0 +1,64 @@
+@f 10. Hematológico/23. Protocolo de Anemia Neonatal-1.pdf
+@p 1
+# 23. PROTOCOLO DE ANEMIA NEONATAL
+*Ana Rodríguez Sánchez de la Blanca. Septiembre 2024.*
+
+Los tipos más frecuentes de anemia en el neonato son la anemia fisiológica y la anemia de la prematuridad. No obstante, existen diversas etiologías responsables de un descenso de hemoglobina en el período neonatal que pueden clasificarse en tres grupos, atendiendo al mecanismo fisiopatológico principal:
+
+## DIAGNÓSTICO DIFERENCIAL
+| **PÉRDIDAS SANGUÍNEAS** | **HEMÓLISIS** | **DÉFICIT DE PRODUCCIÓN** |
+|---|---|---|
+| **PATOLOGÍA EMBARAZO** // • Transfusión feto-fetal // • Transfusión feto-materna // • Corioangiomas | **INMUNE** // • Incompatibilidad ABO y Rh // • Enf. autoimune materna | **HIPOPLÁSICA FISIOLÓGICA** // • Término // • Pretérmino |
+| **CAUSAS OBSTÉTRICAS** // • Desprendimiento de placenta // • Placenta previa // • Vasa previa // • Inserción velamentosa cordón | **NO INMUNE** // • Alteraciones del hematíe // - Defectos membrana // - Enzimopatías // - Hemoglobinopatías // • Infecciones // • Déficit de vitamina E // • Anemia hemolítica microangiopática // • Coagulación intravascular diseminada | **APLÁSICA CONGÉNITA** // • Blackfand- Diamond // • Fanconi // • Idiopática // // **APLÁSICA SECUNDARIA** // • Infecciones // • Leucemia congénita // • Postransfusión intrauterina |
+| **SANGRADO NEONATAL** // • Hemorragia intracraneal // • Hemorragia retroperitoneal // • Rotura hepática / esplénica // • Hemorragia gastrointestinal // • Enf. Hemorrágica del RN | | |
+
+## APROXIMACIÓN DIAGNÓSTICA INICIAL
+Entre las pruebas complementarias de primera línea a solicitar se encuentran un hemograma y frotis sanguíneo con recuento de reticulocitos, una bioquímica básica con bilirrubina fraccionada, el grupo sanguíneo y Rh y un test de Coombs directo:
+| **RETICULOCITOS** | **BILIRRUBINA** | **TEST DE COOMBS** | **MORFOLOGÍA** | **DIAGNÓSTICO** |
+|---|---|---|---|---|
+| Normal/ ↓ | Normal | Negativo | Normal | Anemia fisiológica // Anemia hipoplásica congénita // Anemia aplasia |
+| Normal / ↑ | Normal | Negativo | Normal | Hemorragia aguda |
+| Normal / ↑ | Normal | Negativo | Microcíticos hipocrómicos | Hemorragia crónica (feto-fetal/ feto-materna) |
+| ↑ | ↑ | Positivo | Normal | Hemólisis inmune (aloinmune/ autoinmune) |
+| Normal / ↑ | ↑ | Negativo | Alterada | Esferocitosis; enzimopatías; hemoglobinopatías |
+
+@p 2
+Una segunda línea de pruebas complementarias se orientará en función de los resultados analíticos iniciales y la sospecha etiológica principal:
+| | |
+|---|---|
+| *__Ecografía transfontanelar y abdominal__* junto con *__estudio de coagulación__* | ante la sospecha de una hemorragia neonatal. |
+| *__Test de Kleihauer-Batke__* | indica la existencia de hemoglobina fetal en sangre materna y es diagnóstico de transfusión feto-materna. |
+| *Estudio de __electroforesis de hemoglobinas__.* | |
+| *Estudios etiológicos de __anemia hemolítica no inmune__:* | alteraciones de la membrana del hematíe o enzimopatías (déficit de glucosa-6-fosfato deshidrogenasa; déficit de piruvato quinasa) |
+| *__Despistaje infeccioso__* | TORCH, lúes, herpes, parvovirus y citomegalovirus. |
+| *__Estudio de médula ósea__:* | en caso de anemias hiporregenerativas. |
+
+## INDICACIONES PARA TRANSFUSIÓN DE CONCENTRADO DE HEMATÍES
+- La recomendación principal es que la sangre empleada para transfusión en el neonato corresponda a una bolsa de corto almacenamiento, esto es 2-3 días.
+- Se recomienda dividir la bolsa de un mismo donante en diferentes alícuotas.
+- El volumen habitual de infusión es 15 ml/kg que podrá fraccionarse en 2 ocasiones separadas por 12-24 horas.
+- El tiempo de infusión es de 2-3 horas.
+
+| {2} **VALORES DE HEMOGLOBINA LÍMITE PARA TRANSFUSIÓN HEMATÍES** |
+|---|---|
+| **SITUACIÓN CLÍNICA** | **VALOR DE HEMOGLOBINA** |
+| Shock hipovolémico | Transfusión inmediata, independiente del valor de Hb |
+| Cardiopatías cianógenas // ECMO | < 12,5 |
+| Inestabilidad cardiocirculatoria | < 12 |
+| Pretérmino: sepsis, DAP, NEC | < 11,5 |
+| Recién nacido pretérmino | Ver tabla 4 |
+
+| {4} **VALORES DE HEMOGLOBINA LÍMITE PARA TRANSFUSIÓN HEMATÍES EN PRETÉRMINOS** |
+|---|---|---|---|
+| **EDAD POSTNATAL** | **VENTILACIÓN INVASIVA** | **OXÍGENO/VENTILACIÓN NO INVASIVA** | **NO SOPORTE RESPIRATORIO** |
+| Primeras 24 horas | < 12 | < 12 | < 10 |
+| ≤ 7 días | < 12 | < 10 | < 10 |
+| 8- 14 días | < 10 | < 9,5 | < 7,5 |
+| ≥ 15 días | < 10 | < 8,5 | < 7,5 |
+! Los signos ≤ y ≥ de la edad postnatal se pierden en el texto del PDF; se han copiado de la imagen. La tabla dice «Ver tabla 4» aunque las tablas del PDF no están numeradas: se refiere a la tabla de pretérminos.
+
+@bib __BIBLIOGRAFÍA__
+- Cloherty J, Eichenwald E, Martin C, Stark A. Manual de Neonatología. Barcelona: Wolters Kluwer; 2017.
+- Ahler S, Malwatkar K, Kadam S. Neonatal anemia. *Semin Fetal Neonatal Med* 2008; 13: 239-47.
+- New HV, Berryman J, Bolton Maggs P et al. Guidelines on transfusion for fetuses, neonates and older children. *Br J Haematol* 2016; 175:784-828.
+- Howarth C, Banerjee J, Aladangady N. Red Blood Cell Transfusion in Preterm Infants: Current Evidence and Controversies. *Neonatology* 2018; 114: 7-16.

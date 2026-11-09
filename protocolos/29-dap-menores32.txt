@@ -1,0 +1,57 @@
+@f 5. Hemodinámico/29. Protocolo de manejo de DAP en menores de 32 semanas.pdf
+@p 1
+# PROTOCOLO 29. PROTOCOLO DUCTUS ARTERIOSO PERSISTENTE EN MENORES DE 32 SEMANAS
+Ana Rodríguez Sánchez de la Blanca
+Revisado: Junio 2024
+
+## 1. ¿ES UN DUCTUS HEMODINÁMICAMENTE SIGNIFICATIVO?
+| **CRITERIOS CLÍNICOS DE DAP HEMODINÁMICAMENTE SIGNIFICATIVO** |
+|---|
+| **Ventilación mecánica invasiva // Hipotensión que precisa inotrópicos // Acidosis metabólica sin otra causa justificada** |
+
+| **CRITERIOS ECOGRÁFICOS DE DAP HEMODINÁMICAMENTE SIGNIFICATIVO** |
+|---|
+| **DAP ≥ 1,5 mm // + // Flujo pulsátil // + // Velocidad telediastólica en API > 20 cm/s // + // Robo diastólico en aorta abdominal** |
+
+## 2. ¿EDAD GESTACIONAL?
+Por encima de las 28 semanas la incidencia de cierre espontáneo es mayor, de manera que dividiremos a los pacientes en diferentes categorías en función de su edad gestacional.
+| EDAD GESTACIONAL | ECOCARDIOGRAFÍA | INDICACIÓN TRATAMIENTO |
+|---|---|---|
+| **< 26 semanas** | 5 días | Criterios clínicos y ecográficos |
+| **26-28 semanas** | 7 días | Criterios clínicos y ecográficos |
+| **28-32 semanas** | Según situación clínica | Criterios clínicos y ecográficos |
+
+@pie 1
+@p 2
+## 3. PAUTA DE TRATAMIENTO
+Se administrará un único ciclo de ibuprofeno (3 dosis separadas por un intervalo de 24 horas) independientemente de si ha sido efectivo o no.
+| 1ªDOSIS | 2ªDOSIS | 3ªDOSIS |
+|---|---|---|
+| 10 mg/kg | 5 mg/kg | 5 mg/kg |
+
+## ***__INDICACIONES DE CIERRE PERMANENTE (QUIRÚRGICO/PERCUTÁNEO)__***
+DAP ecocardiográfica y clínicamente significativo persistente tras un ciclo de tratamiento o con contraindicaciones para ibuprofeno
++
+Más allá de los 14 días de vida
+- __Percutáneo:__ diámetro ductal < 4 mm con anatomía favorable y peso paciente > 750 gramos
+- __Quirúrgico:__ resto de pacientes
+
+## ***__MANEJO MÉDICO CONSERVADOR__***
+- Restricción hídrica 130 cc/kg/día; siempre y cuando asegure un adecuado aporte calórico
+- Mantener presión positiva (PEEP 6-6,5 cmH~2~O)
+- Evitar hiperventilación
+- Mantener Hb > 11 g/dl
+
+## ***__CONTRAINDICACIONES PARA ADMINISTRACIÓN DE IBUPROFENO__***
+- Sangrado activo (especialmente intracraneal o digestivo)
+- Trombocitopenia: < 60.000 /µl (absoluta); 60.000 – 100.000 /µl (relativa)
+- Coagulopatía
+- Hipertensión pulmonar
+- NEC estadio II o superior
+- Oliguria (< 1 cc/kg/) o elevación de la creatinina (> 1,5 mg/dl)
+- Tratamiento concomitante con corticoides
+
+## ***__* CONSIDERACIONES A TENER EN CUENTA__***
+- No es necesario suspender o disminuir la pauta de alimentación durante el tratamiento con ibuprofeno. Evitar la administración de furosemida y corticoides durante el ciclo de tratamiento.
+- En ***__mayores de 32 semanas__***, controles evolutivos y no tratar de inicio dado que presenta una incidencia elevada de cierre espontáneo y además la efectividad del tratamiento es menor por una menor respuesta al fármaco a partir de esta edad gestacional.
+@pie 2

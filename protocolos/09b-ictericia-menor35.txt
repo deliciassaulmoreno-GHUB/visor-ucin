@@ -1,0 +1,54 @@
+@f 10. Hematológico/9.b. Protocolo de ictericia en menores de 35 semanas.pdf
+@p 1
+# PROTOCOLO 9 (b), revisión E. Sanz, enero 2022:
+## MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN PRETÉRMINO (RNPT)
+
+## Indicación de inicio de fototerapia y de exanguinotransfusión:
+| **EG (sem)** | **Fototerapia (bili total sérica)** | **Exanguinotfs. (bili total sérica)** |
+|---|---|---|
+| < 28 | 5-6 | 11-14 |
+| 28+0-29+6 | 6-8 | 12-14 |
+| 30+0-31+6 | 8-10 | 13-16 |
+| 32+0-33+6 | 10-12 | 15-18 |
+| 34+0-34+6 | 12-14 | 17-19 |
+
+@caja
+Utilizar el rango más bajo de bilirrubina total sérica (BTS) para los niños de mayor riesgo:
+1. Menor EG
+2. Niveles de albúmina <2.5 g dl
+3. Enfd hemolítica
+4. Clínicamente inestables: pH <7.15, hemocultivo + en las 24 h previas, apnea o bradicardia significativa (ventilación con PPI o intubación en las 24 h previas), hipotensión que requiera soporte vasoactivo y/o ventilación mecánica.
+@fin
+
+Utilizar la edad postmentrual (EPM): Ej: para un RNPT de 29+2 sem de 7 días de vida, mirar el rango para su EPM de 30+2 sem.
+
+## Retirada de la FT:
+-Suspender la FT cuando la BTS sea 1–2 mg /dl menor que el rango de inicio de FT para su EPM.
+- Medir la BTS a las 12-24 h después de suspender la FT para valorar el rebote.
+
+## Introducción:
+En comparación con el RNT, la ictericia precoz en el prematuro <35 semanas es más frecuente, severa y prolongada.
+La etiología es la misma que en el RNT y en cuanto a la patogenia, se debe principalmente a:
+-↑producción de la bilirrubina (↑ recambio hematíes)
+-Inmadurez hepática (↓ aclaramiento y conjugación de bilirrubina)
+-↑ circulación enterohepática de la bilirrubina
+
+Actualmente **no hay suficiente evidencia ni consenso** en cuanto al manejo de la hiperbilirrubinemia en el RNPT.
+Las guías clínicas varían de unos países a otros y están basadas en estudios observacionales y recomendaciones de expertos.
+No obstante, en un ensayo clínico randomizado se observó menor riesgo de complicaciones neurológicas y menor daño auditivo a los 18-22 meses de vida en RNPT que habían recibido fototerapia con niveles relativamente bajos de bilirrubina. Por eso, muchas unidades neonatales han adoptado un manejo más agresivo de la fototerapia en los RNPT.
+! En el PDF la introducción es la columna izquierda de la página 1 y la tabla y la retirada de la FT, la columna derecha; aquí la parte práctica va primero.
+
+@p 2
+## Que NO hacer:
+-NUNCA aplicar fototerapia sin protección ocular.
+- NO hay evidencia suficiente para justificar la aplicación de fototerapia profiláctica en pretérminos.
+
+## Recordatorio:
+-Cuando se prescriba tratamiento con fototerapia, indicar en la hoja de prescripción “con protección ocular”.
+
+@bib Bibliografía:
+1. Morris BH. Aggressive vs. conservative phototherapy for infants with extremely low birth weight. N Engl J Med. 2008;359(18):1885.
+2. Bhutani VK. Hyperbilirubinemia in Preterm Neonates. Clin Perinatol. 2016 Jun;43(2):215-32
+3. Maisels MJ. An approach to the management of hyperbilirubinemia in the preterm infant less than 35 weeks of gestation. J Perinatol. 2012 Sep;32(9):660-4.
+4. Bhutani VK. Unconjugated hyperbilirubinemia in the preterm infant (less than 35 weeks gestational age. UpToDate, Dec 2021.
+5. Pillai A. Pathogenesis and Management of Indirect Hyperbilirubinemia in Preterm Neonates Less Than 35 Weeks: Moving Toward a Standardized Approach. Neoreviews. 2020

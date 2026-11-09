@@ -1,0 +1,66 @@
+@f 7. Metabólico renal/7. Protocolo de hipoglucemia-1.pdf
+@p 1
+# HIPOGLUCEMIA TRANSITORIA (24 HDV) EN RN ≥34 SEMANAS SANOS CON FACTORES DE RIESGO
+**Versión 1. Junio 2024. Susana Zeballos Sarrato. Neonatología**
+! En el PDF la versión y la autora están al pie de la página 1; aquí se ponen arriba.
+
+@ancha
+| **FACTORES DE RIESGO** | **PREVENCIÓN** | **SÍNTOMAS** |
+|---|---|---|
+| -PREMATURIDAD (34-36+6 sem) // -BPEG (p<10, IG21 en RNAT, FENTON en RNPT) // -EPEG (p>90) // -HMD (cualquier tipo) // -CUALQUIER RN CON SÍNTOMAS GRAVES DE HG // // OTROS FR (RN INGRESADOS): // -Asfixia perinatal, hipotermia, policitemia, SDR, sepsis, sospecha enfermedad metabólica, endocrina o Beckwith-Wiedemann. | PARITORIO // -Valorar extracción de LM // -Piel-piel 2-4 horas. // -Mantener Tª 36,5-37ºC // -Iniciar alimentación precoz en 1ª hdv // -Si FA: toma de 10-15 ml. // // PLANTA // -Mantener madre-hijo juntos y continuar piel-piel (al menos 2-4 hdv), toma de Tª. // -Informar a los padres de la importancia de LM precoz, frecuente, sin restricciones de tiempo // -Valorar extracción de LM (para ofrecer como complemento tras el pecho) // -Si FA: continuar FA 10-20 cc/toma | ADRENÉRGICOS // Irritabilidad, temblores-hiperexcitabilidad, dificultad en la alimentación, vómitos, llanto mantenido inconsolable, taquipnea, taquicardia, palidez, hipotermia. // // **NEUROGLICOPÉNICOS**^*^ // Letargia (no respuesta a estímulos), hipotonía, falta de reactividad a la manipulación, estupor, crisis convulsivas, desaturación, cianosis , apnea, coma |
+
+@caja
+**1º CONTROL ANTES DE 2ª TOMA O A LAS 3 HDV (LM)** — **CAPILAR-ANALIZADOR GASES**
+@fin
+
+@ancha
+| {fondo #ff5150} **G <25 mg/dl o G<45 + síntomas graves^*^** | {fondo #fac090} **G 25-35 mg/dl** | {fondo #ffff99} **G 36-44 mg/dl** | {fondo #92d051} **G ≥45 mg/dl** |
+|---|---|---|---|
+| **INGRESO Y G IV** // // -ritmo 4-8 mg/k/min // -bolo G10% 2 cc/k sólo si síntomas graves // -Si paciente asintomático, valorar **GEL DEXTROSA** hasta canalización de vía. // -Si paciente síntomas graves y se retrasa canalización de vía, valorar GLUCAGÓN IM/SC. | **GEL DEXTROSA 40% (hasta 2 consecutivos)**^**^ // **+** // **CONTINUAR LM o FA** // **+** // **VALORAR**: // -FA: aumentar cantidad y/o acortar tomas cada 2 h // -LM: insistir en tomas frecuentes, avisar a enfermería, revisar técnica. // // **2º-3º CONTROL VALORAR:** // **-2º gel** // **-LM: suplementos FA** // **-INGRESO** | **CONTINUAR LM o FA sin medidas adicionales** // // **2º CONTROL:** // **-FA:** aumentar cantidad y/o acortar tomas cada 2 h // **-LM: GEL DEXTROSA** e insistir en tomas frecuentes, avisar a enfermería, revisar técnica. // // **3º LM/FA: GEL DEXTROSA En LM valorar suplemento FA** // // **4º: si <40 mg/dl VALORAR INGRESO Y G IV** | **CONTINUAR LM o FA** // // -Realizar nuevo control en tomas intercaladas, es decir, dejar siguiente toma sin control y hacerlo a las 6 horas) // - ≥ 45 mg/dl **X 2**: suspender controles |
+| {fondo #e6b9b8} **CONTROL 30 MIN de sueroterapia** | {fondo #fdeada} **CONTROL 1 HORA tras administrar GEL** | {fondo #ffffcc} **CONTROL PRETOMA o a las 3 horas si LM** | {fondo #d6e4bd} **↑ INTERVALO CONTROL** |
+! En el móvil la tabla se desplaza hacia los lados.
+
+@p 2
+| **GEL DEXTROSA AL 40%/ GLUCOSA 40%** |
+|---|
+| -Se administra en RN asintomáticos, estabilidad clínica y NUNCA SUSTITUYE a la alimentación, tras aplicar gel se debe dar alimentación inmediatamente. |
+| -Dosis de 200 mg/k: 0,5 ml/k y desechar el resto de la jeringa. |
+| -Prescripción médica en el recién nacido. Se dejará en nevera para uso inmediato hasta que se pueda prescribir. |
+| -^**^Se puede administrar una 2ª dosis consecutiva tras 2º control si se mantiene la indicación (las dosis consecutivas siempre están separadas por un control que mantenga la indicación). Máxima dosis recomendada: 4 aplicaciones en 24h. |
+| -Administración: en mucosa yugal (zona continua de las encías y que recubre la porción interna de las mejillas). No debe ser tragado por el RN. |
+| -Técnica: ponerse guantes. Primero secaremos con una gasa la mucosa del RN. Dividir la dosis total en 4 partes. Cada parte se coloca sobre el dedo de nuestra mano (guantes) y la aplicaremos en la mucosa yugal masajeando. Alternaremos la mucosa (izquierda y derecha) hasta aplicar las 4 partes. // -Se puede dar con cualquier tipo de alimentación, pero sobre todo indicado en LM exclusiva para minimizar la administración de FA. |
+| - 25-35 mg/dl: tras 1º control administrar gel dextrosa tanto en LM como FA. |
+| - 36-44 mg/dl: tras 2º control en los casos de lactancia materna: administrar gel de dextrosa. En los casos de lactancia artificial, administrar tras 3º control |
+
+| **GLUCAGÓN:** |
+|---|
+| -200 mcg/k intramuscular o subcutáneo. Dosis máxima 1 mg. |
+| -Valorar si se demora canalización de vía periférica y no se puede administrar gel de dextrosa o si no aumento de glucemia tras bolo de glucosa iv. |
+
+| **GLUCOSA IV:** |
+|---|
+| -Iniciar a 4-8 mg/k/min y 60 ml/k/d (si síntomas graves se puede iniciar a 80 ml/k/d). |
+| -Bolo de SG10% 2 ml/k en casos indicados. |
+| -HMD: debido al riesgo de aumento de secreción de insulina con aportes de G iv, se puede iniciar perfusión a 3-5 mg/k/min. |
+| -Mantener glucemias >50 mg/dl en primeras 24 hdv y >60 mg/dl posteriormente. |
+| -Si concentración >12,5% o > 10 mg/k/min se recomienda canalizar vía central. |
+| -Si aportes >12 mg/k/min se recomienda estudio completo de HG. |
+! En el PDF la página 2 es un recuadro con guiones; aquí cada apartado (gel de dextrosa, glucagón y glucosa iv) es una tabla.
+
+| {2} **ABREVIATURAS** |
+|---|---|
+| LM: | lactancia materna |
+| LME: | lactancia materna extraída |
+| FA: | fórmula adaptada |
+| Tª: | temperatura |
+| RN: | recién nacido |
+| BPEG: | bajo peso para la edad gestacional |
+| EPEG: | elevado peso para la edad gestacional |
+| HMD: | hijo de madre diabética |
+| HG: | hipoglucemia |
+| SDR: | síndrome de distrés respiratorio |
+| TTO: | tratamiento |
+| FR: | factores de riesgo |
+| HDV: | horas de vida |
+| G: | glucosa |
+| G IV: | glucosa intravenosa |

@@ -1,0 +1,115 @@
+@f 10. Hematológico/22. Protocolo de manejo de trombopenia.pdf
+@p 1
+# TROMBOPENIA NEONATAL. Febrero 2026
+@caja
+**1º CONFIRMAR TROMBOPENIA CON 2ª MUESTRA**
+@fin
+
+@flujo
+[**Inicio trombopenia** // *(plaq<150000/mcl))*]
+@cols
+[**< 72 HORAS DE VIDA**]
+@cols
+[**Severa** // *(< 50000/mcl)*]
+---
+[**Leve/moderada** // *(50000-149000/mcl)*]
+@cols
+[**Mal estado general**]
+---
+[**Buen estado general**]
+@fincols
+@fincols
+[Descartar sepsis/CID // (coagulación, hemocultivos, PCR…) +/- antibioterapia empírica]
+@cols
+[Sepsis/CID]
+v
+[**Tratar causa subyacente**]
+---
+[No Sepsis/CID]
+@fincols
+---
+[**≥72 HORAS DE VIDA**]
+v
+[Descartar NEC, CID y sepsis]
+@cols
+[No NEC, CID o sepsis]
+---
+[NEC, CID o sepsis]
+v
+[**Tratar causa subyacente**]
+@fincols
+[-Aumentando progresivamente, >150000/mcl a los 10 ddv // -Evidencia de CIR/insuficiencia placentaria/DM / HTA/ preeclampsia]
+v
+[**Seguimiento**]
+@fincols
+v
+[**Orientar diagnóstico y PPCC según antecedentes y EF**]
+@finflujo
+@caja
+No olvidar infecciones fúngicas: sedimento orina + UC hongos
+@fin
+! Diagrama redibujado del PDF. A «Descartar sepsis/CID» llegan «Severa» y «Mal estado general». A «Orientar diagnóstico y PPCC…» llegan «No Sepsis/CID», «Buen estado general» y «No NEC, CID o sepsis». Al recuadro «Aumentando progresivamente…» (que lleva a «Seguimiento») llegan «Buen estado general» y «No NEC, CID o sepsis».
+
+| | |
+|---|---|
+| **Hª previa hermano afectado/no otra causa en un RNT<72 hdv con BEG** | Descartar TP aloinmune |
+| **TP materna y/o Hª de esplenectomía** | Descartar TP autoinmune |
+| **EF sugestiva de patología (cromosomopatías, infecciones congénitas…)** | Descartar TORCH / cromosomopatías (13, 18, 21) |
+| **Catéter central, Hematuria, crisis convulsivas…** | Descartar trombosis (asociada a catéter, renal, senos… |
+| **Hª sufrimiento perinatal** | Valorar TP asociada a asfixia |
+| **TP en RNPT alimentado con LM** | Descartar CMV adquirido |
+! En el PDF son seis recuadros, cada uno con una flecha hacia su actuación, que salen de «Orientar diagnóstico y PPCC…».
+
+@caja
+REALIZAR TAMBIÉN FUNCIÓN HEPÁTICA Y RENAL
+@fin
+*UpToDate Agosto 2017. Adapted from: Sola-Visner M, Saxonhouse MA, Brown RE. Neonatal thrombocytopenia: what we do and don't know. Early Hum Dev 2008; 84:499.*
+
+@p 2
+| **EDAD APARICIÓN** | **CAUSAS** |
+|---|---|
+| Feto | Trombopenia aloinmune // Infección congénita (CMV, toxoplasma, rubeola, VIH, sífilis, parvovirus B19, etc) // Enfermedad autoinmune materna (LES, PTI, etc) // Aneuploidía (trisomías del 13, 18 y 21) // Enfermedad hemolítica por isoinmunización Rh severa // Trombopenias hereditarias (trombopenia amegacariocítica, Wiskott-Aldrich, Kasabach-Merritt, TAR, etc) |
+| Neonato (<72 horas de vida) | Prematuridad // Insuficiencia placentaria // Asfixia // Infección perinatal (Streptococos, E coli, listeria, etc) // Coagulación Intravascular diseminada // Trombopenia aloinmune // Enfermedad autoinmune materna (LES, PTI…) // Infección congénita (CMV, toxoplasma, rubeola, VIH, sífilis, parvovirus B19…) // Trombosis venosa y arterial (aorta, vena renal…) // Enfermedades hematológicas (leucemia congénita, síndrome hemofagocítico…) // Trombopenias hereditarias (trombopenia amegacariocítica, Wiskott-Aldrich, Kasabach-Merritt, TAR, etc) // Enfermedad metabólica (alteraciones del metilmalónico) // Medicamentosa |
+| Neonato (>72 horas de vida) | Sepsis // Enterocolitis necrotizante (NEC) // Infección congénita (CMV, toxoplasma, rubeola, VIH, sífilis, parvovirus B19, etc) // Enfermedad autoinmune materna (LES, PTI, etc) // Trombopenias hereditarias (trombopenia amegacariocítica, Wiskott-Aldrich, Kasabach-Merritt, TAR, etc) // Enfermedad metabólica (alteraciones del metilmalónico) // Inducida por heparina (niños ingresados en UCI) // Medicamentosa |
+
+## INDICACIONES TRASFUSIÓN PLAQUETAS
+@flujo
+[¿Sangrado activo?]
+@cols
+? SI
+[Trasfundir si <100000 pl/mcl]
+---
+? NO
+@fincols
+[**<25000** pl/mcl]
+@cols
+? SI
+[Trasfundir]
+---
+? NO
+@fincols
+[**25000-49000** pl/mcl]
+@cols
+? SI
+[**No trasfundir si clínicamente estable.** // **Valorar trasfundir si:** // -<28 sem y < 1 sem vida // - Inestabilidad clínica // - Previo a punción lumbar // - Antecedente de sangrado grave (HIV 3 o 4, pulmonar…) // - Sangrado menor activo (petequias, secreciones teñidas…) // - Coagulopatía concomitante // - Precisa cirugía o exanguinotrasfusión // - 72 horas postoperatorio]
+---
+? NO
+@fincols
+[**≥ 50000** pl/mcl]
+? SI
+[**No trasfundir de rutina.** // Valorar si cirugía mayor y <100000 pl/mcl, hemorragia activa, antes o después neurocirugía]
+@finflujo
+
+@caja
+Se trasfundirán las plaquetas habituales a no ser que se sospeche TROMBOPENIA ALOINMUNE donde preferiblemente se trasfundirán plaquetas HPA-1 a/ HPA-1 b negativo (se solicitan al centro de transfusiones)
+@fin
+
+| |
+|---|
+| Realizar estudio siempre si TROMBOPENIA GRAVE, PERSISTENTE o AFECTACIÓN DEL ESTADO GENERAL |
+| En las trombopenias severas SOLICITAR ECOGRAFÍA TRANSFONTANELAR para descartar sangrados intracraneales |
+| Infecciones que producen trombopenia: TORCH, bacterianas, fúngicas, CMV, HERPES, PARVOVIRUS, ENTEROVIRUS, VVZ, ¿ADENOVIRUS? |
+
+@bib
+1. *Christensen RD, Davenport P, Sola-Visner MC, Archambault J, Delaney C, Bahr TM, Elliott JC, Ilstrup SJ, Ohls RK. Improving Platelet Transfusion Practice. Neoreviews. 2026 Jan 1;27(1):e11-e24.*
+2. *Curley A et al.; PlaNeT2 MATISSE Collaborators. Randomized Trial of Platelet-Transfusion Thresholds in Neonates. N Engl J Med. 2019 Jan 17;380(3):242-251.*

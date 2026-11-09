@@ -1,0 +1,50 @@
+@f 11. Neurológico/Protocolo EcoTF en prematuros.pdf
+@p 1
+# PROTOCOLO DE REALIZACIÓN DE ECOGRAFÍAS TRANSFONTANELARES EN RECIÉN NACIDOS PREMATUROS
+@p 2
+| {fondo #e9a75c} **< 28 semanas** | {fondo #dfbe4b} **28-32 semanas** | {fondo #c993a3} **> 32 semanas** |
+|---|---|---|
+| • Día 1: Opcional ^*^ // • **Día 3** // • **Día 7** // • **Día 14** // • **Día 28** // • **Edad a término o prealta** | • Día 1: Opcional ^*^ // • **Día 4-7** // • Día 14: Sólo si justificación clínica. // • **Día 28** // • **Edad a término o prealta** | • **NO indicación** salvo: // ‣ PC<p3 // ‣ RCP // ‣ Ventilación mecánica // ‣ Necesidad de ionotrópico en las primeras 24 horas // ‣ Embarazo gemelar monocorial complicado // ‣ CIR // ‣ Muerte intraútero // ‣ Complicaciones clínicas // ‣ Alteraciones neurológicas |
+
+@caja
+**^*^**
+- Apgar menor de 7 a los 5min
+- Descenso de Hb
+- Deterioro clínico con inestabilidad hemodinámica (hipotensión, shock…)
+- NEC o shock séptico
+- Si requiere ventilación el primer día de vida
+- Si se sospecha daño intraútero
+- Si se sospecha malformaciones intracraneales
+@fin
+
+@p 3
+@flujo
+@cols
+[{{#e9a75c}} **Grado I o II**]
+v
+[Repetir en **7 días**]
+@cols
+[Estable]
+v
+[Repetir en **4-6 semanas**]
+v
+[A las **36 semanas o antes del alta**]
+---
+[{{#c993a3}} Si hay III o IV]
+@fincols
+---
+[{{#c993a3}} **Grado III o IV**]
+v
+[Repetir en **7 días**]
+@cols
+[Si no hay dilatación progresiva ni lesión de sustancia blanca]
+v
+[**Cada 2 semanas** x 2 y luego en edad a término]
+---
+[Si hay dilatación progresiva o lesión de sustancia blanca]
+v
+[**Semanalmente** hasta que la anchura del asta frontal sea < 6mm o ya no se vean quistes (mínimo 4 semanas)]
+@fincols
+@fincols
+@finflujo
+! Las páginas 2 y 3 son diapositivas (imágenes con texto). El algoritmo se ha redibujado; en el PDF «Si hay III o IV», en la rama del grado I o II, lleva una flecha a «Repetir en 7 días» de la rama del grado III o IV. Los colores de las cabeceras y los puntos son los del PDF. «ionotrópico» está así en el original.

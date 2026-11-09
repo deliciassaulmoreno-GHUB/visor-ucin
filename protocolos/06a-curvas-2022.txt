@@ -1,0 +1,19 @@
+@f 2. Recién nacido sano/6a. Curvas de crecimiento para menores de 37 semanas.pdf
+@p 1
+# 6a. CURVAS DE CRECIMIENTO EN RECIÉN NACIDOS menores de 37 semanas de gestación.
+Elaborado: Susana Zeballos Sarrato. Actualizado mayo 2022
+
+Se recomienda emplear las curvas de Fenton (1) hasta las 44 semanas postmenstruales (2)
+
+! Para calcular el percentil, usa Calculadoras y escalas › Somatometría › Fenton (de 22 a 42 semanas).
+
+@img 6a-fenton-ninas.png
+http://ucalgary.ca/fenton/files/fenton/espanol-fenton2013growthchart-ninas.pdf
+@p 2
+@img 6a-fenton-ninos.png
+http://ucalgary.ca/fenton/files/fenton/espanol-fenton2013growthchart-ninos.pdf.
+
+@bib
+1. Fenton TR, Kim JH. A systematic review and meta-analysis to revise the Fenton growth chart for preterm infants. BMC Pediatr2013;13:59.
+
+2. Protocolo de seguimiento para el recién nacido menor de 1500 g o menor de 32 semanas de gestación. Madrid: Sociedad Española de Neonatología; 2017.

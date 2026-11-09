@@ -1,0 +1,342 @@
+@f 13. Vacunación/59. Farmacos compatibles e incom patibles con la LM y donación.pdf
+@p 1
+# 59. Fármacos compatibles e incompatibles con la LM y donación
+! El PDF no tiene título ni texto: son solo las tablas. El título es el nombre del archivo. En el PDF cada página tiene dos o tres tablas en columnas, cada una con su cabecera; aquí van seguidas en una sola tabla para compatibles y otra para incompatibles, en el mismo orden.
+@pie FARMACOS COMPATIBLES AÑO DE REVISION FARMACOS COMPATIBLES AÑO DE REVISION
+| **FARMACOS COMPATIBLES** | **AÑO DE REVISION** |
+|---|---|
+| Acetazolamida | 2019 |
+| Acetilcisteína | 2021 |
+| Aciclovir | 2019 |
+| Ácido Ascórbico | 2021 |
+| Ácido Fólico | 2021 |
+| Ácido Hialurónico | 2021 |
+| Ácido Salicílico | 2021 |
+| Ácido ursodesoxicólico | 2019 |
+| Albendazol | 2019 |
+| Ambroxol | 2021 |
+| Amikacina | 2019 |
+| Amoxicilina | 2019 |
+| Amoxicilina-Clavulánico | 2019 |
+| Ampicilina | 2019 |
+| Ampicilina-Sulbactan | 2019 |
+| Anestesia general | 2021 |
+| Anestesia local y epidural | 2021 |
+| Arginina | 2021 |
+| Articaína hidrocloruro | 2021 |
+| Aspirina | 2019 |
+| Aztreonam | 2019 |
+| Bencidamina hidrocloruro | 2021 |
+| Benzocaína | 2021 |
+| Betametasona Tópica | 2021 |
+| Biotina | 2021 |
+| Bisacodilo | 2019 |
+| Bromhexina | 2021 |
+| Budesonida inhalada | 2021 |
+| Bupivacaína | 2019 |
+| Carbenicilina | 2019 |
+| Carbocisteína | 2021 |
+| Cardo Mariano | 2021 |
+| Carnitina | 2021 |
+| Cefaclor | 2019 |
+| Cefadroxilo | 2019 |
+| Cefalexina | 2019 |
+| Cefalotina sódica | 2019 |
+| Cefepima hidrocloruro | 2019 |
+| Cefixima | 2021 |
+| Cefoperazona sódica | 2019 |
+| Cefotaxima sódica | 2019 |
+| Cefotetán | 2019 |
+| Cefoxitina sódica | 2019 |
+| Cefpodoxima proxetilo | 2019 |
+| Cefradina | 2019 |
+| Ceftazidima | 2019 |
+| Ceftibuteno | 2019 |
+| Ceftizoxima sódica | 2019 |
+| Ceftriaxona sódica | 2019 |
+| Cefuroxima | 2019 |
+| Celecoxib | 2021 |
+| Certolizumab | 2019 |
+| Cetirizina hidrocloruro | 2021 |
+| Ciprofloxacino | 2021 |
+| Cisaprida | 2019 |
+| Clindamicina tópica | 2019 |
+| Clindamicina Vaginal | 2019 |
+| Clomipramina | 2019 |
+| Clorotiazida | 2019 |
+| Clotrimazol | 2021 |
+| Cloxacilina | 2021 |
+| Dalteparina sódica | 2019 |
+| Darbepoetina | 2021 |
+| Desipramina | 2019 |
+| Desloratadina | 2021 |
+| Desogestrel | 2019 |
+| Dexametasona Colirio | 2021 |
+| Dextrometorfano | 2021 |
+| Diclofenaco | 2021 |
+| Dicloxacilina | 2019 |
+| Digoxina | 2019 |
+| Dimeticona | 2021 |
+| Diosmina | 2021 |
+| Domperidona | 2019 |
+| Ebastina | 2021 |
+| Enoxaparina | 2021 |
+| Eritromicina (uso tópico) | 2019 |
+| Eritropoyetina recombinante humana | 2021 |
+| Escitalopram | 2021 |
+| Esomeprazol | 2021 |
+| Espironolactona | 2019 |
+| Estreptomicina | 2019 |
+| Etanercept | 2019 |
+| Etonogestrel | 2021 |
+| Famotidina | 2019 |
+| Fexofenadina hidrocloruro | 2019 |
+| Filgrastim | 2019 |
+@p 2
+@pie FARMACOS COMPATIBLES AÑO DE REVISION FARMACOS COMPATIBLES AÑO DE REVISION FARMACOS COMPATIBLES AÑO DE REVISION
+| Fitomenadiona | 2019 |
+| Fluconazol | 2021 |
+| Flurbiprofeno | 2021 |
+| Formoterol | 2021 |
+| Fosfomicina | 2019 |
+| Furosemida | 2021 |
+| Gadopentetato de meglumina | 2019 |
+| Gentamicina | 2019 |
+| Heparina | 2021 |
+| Hidralazina hidrocloruro | 2019 |
+| Hidroclorotiazida | 2019 |
+| Hidrocortisona | 2021 |
+| Hidrocortisona Tópica | 2021 |
+| Hidroxicloroquina sulfato | 2021 |
+| Ibuprofeno | 2019 |
+| Imipenem + Cilastatina | 2019 |
+| Infliximab | 2019 |
+| Insulina | 2021 |
+| Interferón Beta-1a | 2019 |
+| Iohexol | 2019 |
+| Ivermectina | 2019 |
+| Kanamicina | 2019 |
+| Lactulosa | 2021 |
+| Lansoprazol | 2021 |
+| Lenograstim | 2019 |
+| Levocetirizina | 2021 |
+| Levonorgestrel | 2019 |
+| Levonorgestrel anticonceptivo de emergencia | 2019 |
+| Levotiroxina | 2019 |
+| Lidocaína | 2019 |
+| Lincomicina | 2019 |
+| Loperamida hidrocloruro | 2021 |
+| Loratadina | 2019 |
+| Lorazepam | 2019 |
+| Magnesio, carbonato de | 2021 |
+| Magnesio, fosfato de | 2021 |
+| Magnesio, hidróxido de | 2021 |
+| Magnesio, sulfato de | 2021 |
+| Mebendazol | 2021 |
+| Medroxiprogesterona acetato | 2021 |
+| Mefloquina | 2019 |
+| Meropenem | 2019 |
+| Metformina hidrocloruro | 2021 |
+| Metildopa | 2019 |
+| Metilprednisolona | 2021 |
+| Metimazol | 2021 |
+| Metoclopramida | 2019 |
+| Metoprolol | 2021 |
+| Metronidazol (uso dérmico y vaginal) | 2021 |
+| Miconazol | 2021 |
+| Midazolam | 2019 |
+| Mifepristona | 2019 |
+| Minoxidil, uso tópico | 2021 |
+| Misoprostol | 2019 |
+| Mometasona Furoato | 2021 |
+| Montelukast sódico | 2019 |
+| Mupirocina | 2021 |
+| Nafazolina | 2021 |
+| Nicardipino hidrocloruro | 2019 |
+| Nicotinamida | 2019 |
+| Nifedipino | 2019 |
+| Nimodipino | 2019 |
+| Nistatina | 2021 |
+| Norfloxacino | 2021 |
+| Nortriptilina hidrocloruro | 2019 |
+| Noscapina | 2019 |
+| Omeprazol | 2019 |
+| Ondansetrón | 2021 |
+| Orlistat | 2021 |
+| Oseltamivir Fosfato | 2019 |
+| Oximetazolina hidrocloruro | 2021 |
+| Oxitetraciclina | 2019 |
+| Pantoprazol | 2019 |
+| Paracetamol | 2019 |
+| Paroxetina | 2019 |
+| Penicilina G | 2019 |
+| Penicilina G Benzatina | 2019 |
+| Penicilina V | 2019 |
+| Pentoxifilina | 2019 |
+| Permetrina | 2021 |
+| Piridostigmina bromuro | 2019 |
+| Prednisolona | 2019 |
+| Prednisona | 2019 |
+| Progesterona | 2021 |
+| Propofol | 2019 |
+| Propranolol | 2019 |
+| Riboflavina | 2019 |
+| Ropivacaína hidrocloruro | 2019 |
+| Salbutamol | 2021 |
+| Sertralina | 2021 |
+| Simeticona | 2021 |
+| Tacrolimús (uso tópico) | 2019 |
+@p 3
+@pie FARMACOS COMPATIBLES AÑO DE REVISION
+| Terbutalina sulfato | 2019 |
+| Tiopental Sódico | 2019 |
+| Tobramicina | 2021 |
+| Tobramicina | 2019 |
+| Toxina Botulínica | 2021 |
+| Triprolidina hidrocloruro | 2019 |
+| Valaciclovir | 2019 |
+| Verapamilo hidrocloruro | 2019 |
+| Vitamina A | 2021 |
+| Vitamina B1 | 2021 |
+| Vitamina B12 | 2021 |
+| Vitamina B6 | 2021 |
+| Vitamina d | 2021 |
+| Vitamina E | 2021 |
+| Warfarina | 2019 |
+| Zanamivir | 2019 |
+| Zinc Sales | 2021 |
+
+@p 4
+@pie FARMACOS INCOMPATIBLES AÑO DE REVISION FARMACOS INCOMPATIBLES AÑO DE REVISION
+| **FARMACOS INCOMPATIBLES** | **AÑO DE REVISION** |
+|---|---|
+| Abacavir | 2019 |
+| Ácido Mefenámico | 2021 |
+| Ácido Nalidíxico | 2019 |
+| Ácido Valproico | 2019 |
+| Alfentanilo | 2019 |
+| Alprazolam | 2021 |
+| Amantadina hidrocloruro | 2021 |
+| Amitriptilina | 2021 |
+| Anagrelida | 2021 |
+| Atorvastatina cálcica | 2021 |
+| Azatioprina | 2021 |
+| Azitromicina | 2019 |
+| Baclofeno | 2019 |
+| Benzonatato | 2021 |
+| Betahistina | 2021 |
+| Betametasona | 2021 |
+| Bilastina | 2021 |
+| Bromazepam | 2021 |
+| Bupropion | 2019 |
+| Cabergolina | 2021 |
+| Captopril | 2019 |
+| Carbamazepina | 2021 |
+| Carisoprodol | 2021 |
+| Ciclobenzaprina hidrocloruro | 2021 |
+| Ciclofosfamida | 2019 |
+| Claritromicina | 2019 |
+| Clonazepam | 2019 |
+| Clopidogrel | 2021 |
+| Cloranfenicol | 2019 |
+| Clorazepato dipotásico | 2019 |
+| Clozapina | 2019 |
+| Codeína | 2019 |
+| Dexametasona | 2021 |
+| Dexclorfeniramina | 2021 |
+| Dexametasona | 2021 |
+| Dexketoprofeno trometamol | 2021 |
+| Diazepam | 2021 |
+| Dicicloverina | 2019 |
+| Difenhidramina | 2021 |
+| Diltiazem hidrocloruro | 2019 |
+| Dimenhidrinato | 2019 |
+| Doxiciclina | 2021 |
+| Duloxetina | 2019 |
+| Enalapril | 2021 |
+| Ergotamina tartrato | 2021 |
+| Eritromicina | 2021 |
+| Escopolamina | 2021 |
+| Éter | 2021 |
+| Etinilestradiol | 2019 |
+| Etoricoxib | 2021 |
+| Fenazopiridina hidrocloruro | 2021 |
+| Fenilefrina | 2021 |
+| Fentermina | 2021 |
+| Fluoxetina | 2021 |
+| Furosemida | 2021 |
+| Glibenclamida | 2019 |
+| Gonadorelina Acetato | 2019 |
+| Guaifenesina | 2021 |
+| Hidrato de cloral | 2019 |
+| Hidroxizina | 2021 |
+| Hierba de San Juan | 2019 |
+| Imipramina | 2019 |
+| Indometacina | 2019 |
+| Isoniazida | 2019 |
+| Itraconazol | 2019 |
+| Ketoconazol | 2021 |
+| Ketoprofeno | 2021 |
+| Ketorolaco trometamol | 2019 |
+| Labetalol | 2019 |
+| Lamotrigina | 2021 |
+| Levetiracetam | 2021 |
+| Levofloxacino | 2021 |
+| Litio | 2021 |
+| Losartán potásico | 2021 |
+| Meloxicam | 2021 |
+| Mesilato de pridinol | 2021 |
+| Mestranol + Noretinodrel | 2019 |
+| Metamizol | 2021 |
+| Metilergometrina maleato | 2021 |
+| Metocarbamol | 2021 |
+| Metotrexato | 2019 |
+| Metronidazol | 2021 |
+| Minoxidil | 2019 |
+| Morfina | 2021 |
+| Naproxeno | 2021 |
+| Neomicina | 2021 |
+| Nicotina como terapia de reemplazo | 2021 |
+@p 5
+@pie FARMACOS INCOMPATIBLES AÑO DE REVISION FARMACOS INCOMPATIBLES AÑO DE REVISION
+| Nimesulida | 2021 |
+| Nitazoxanida | 2019 |
+| Nitrendipino | 2019 |
+| Nitrofurantoína | 2021 |
+| Ofloxacino | 2019 |
+| Olanzapina | 2019 |
+| Orfenadrina | 2021 |
+| Oxcarbazepina | 2019 |
+| Paliperidona | 2019 |
+| Pentobarbital | 2019 |
+| Perfenazina | 2019 |
+| Petidina hidrocloruro | 2019 |
+| Pinaverio bromuro | 2021 |
+| Pirazinamida | 2019 |
+| Piroxicam | 2021 |
+| Pregabalina | 2021 |
+| Pseudoefedrina | 2021 |
+| Quetiapina fumarato | 2021 |
+| Ranitidina | 2021 |
+| Ricino | 2021 |
+| Risperidona | 2019 |
+| Sales de Bismuto | 2021 |
+| Secnidazol | 2021 |
+| Sulfametoxazol | 2019 |
+| Sulfasalazina | 2019 |
+| Sulpirida | 2021 |
+| Sumatriptán | 2021 |
+| Tenofovir fumarato de disoproxilo | 2019 |
+| Terbinafina | 2021 |
+| Tetraciclina | 2019 |
+| Tinidazol | 2019 |
+| Tiocolchicósido | 2021 |
+| Topiramato | 2021 |
+| Tramadol | 2021 |
+| Trimebutina maleato | 2021 |
+| Ulipristal acetato | 2019 |
+| Vedolizumab | 2019 |
+| Velanfaxina | 2021 |
+| Vigabatrina | 2019 |
+| Vinorelbina tartrato | 2021 |
+! En el original aparecen dos veces «Tobramicina» (2021 y 2019) entre los compatibles y «Dexametasona» entre los incompatibles. «Furosemida» figura en las dos listas, y «Minoxidil» también («Minoxidil, uso tópico» en compatibles). «Velanfaxina» está escrito así.

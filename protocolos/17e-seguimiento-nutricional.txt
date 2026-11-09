@@ -1,0 +1,62 @@
+@f 8. Digestivo/17e. Seguimiento nutricional en pacientes de riesgo.pdf
+@p 1
+# __17e. SEGUIMIENTO NUTRICIONAL DE PACIENTES DE RIESGO__
+*Protocolo 17e — Valoración estado nutricional — Revisión Enero 2025*
+
+@caja
+< 1800 g y/o < 32 semanas
+Bajo peso (RCE < p3/Zscore≤-1,8 DS)
+@fin
+
+## __PROTOCOLO ACTUAL DE NUTRICIÓN PARENTERAL Y ENTERAL__
+@flujo
+[**__1º FASE TRANSICION__** // Iniciar NPT__en primeras 24 horas__ con 2,5-3 g/kg/d de proteínas + 1,5-2 g/kg/d de grasas (SMOFlipid 20%) o solución de inicio. Progresar según protocolo NPT. // Nutrición enteral precoz (1-6 horas vida: calostro): 20-30 ml/kg/día y 10-20 ml/kg/d en < 1000 g; fraccionada cada 3 horas a pasar en 1 hora. // COF en <1500 gr con LM propia (primeras extracciones maternas) // Objetivo: alcanzar la nutrición enteral exclusiva en primeros 7 días y en primeros 14 días en < 1000 g.]
+@cols
+[Líquidos: 120-150 ml/kg/d (limitar si DAP, DBP) // Calorías: 120-130 kcal/kg/d // Proteínas: 3,8-4,2 g/kg/d]
+---
+[15% máximo de pérdida peso // Balances diarios reales y teóricos EAB diario en < 1000 g (individualizar necesidad en 1000-1500 g)]
+@fincols
+v
+[**__2º FASE: DESDE RECUPERACIÓN PESO AL NACIMIENTO AL ALTA__** // Objetivo: ganancia peso >15-18 gr/kg/día y perímetro cefálico > 0,8-0,9 cm/semana.]
+v
+[- Aumento aportes líquidos enterales (LM/LMD) hasta 200ml/kg/día. // - Revisar aporte calorías: 120-140 kcal/kg/d (__hasta 160 kcal/kg/día__ en < 1000 g // - Revisar ratio P/E: 3 g/100 kcal // - **__Hacer análisis nutricional__** leche propia o donada: martes y jueves (primer mes) Después 1 vez/semana]
+v
+[**FORTIFICACIÓN INDIVIDUALIZADA** // Iniciar al alcanzar **80 ml/kg/día** de enteral // Por análisis nutricional LM propia o donada; SELECCIONAR LMD (> aporte P y Grasas)]
+v
+[**__Análisis nutricional__** a los 14 días enteral exclusiva: Ca, P, FA, proteínas totales, albúmina, Ca/Cr orina, Vitamina A (sólo una determinación PREALTA) y D, Ferritina.]
+@finflujo
+
+| {2} **__SUPLEMENTOS HIERRO Y VITAMINA A y D__** |
+|---|---|
+| **Hierro:** | 2 mg/kg/día si LM |
+| **Vitamina A**(*prealta*)**:** | niveles ≥200 ng/ml. Dosis: 1.330-3300 U/kg/día ***__(Dosis máxima: 5000 UI/día)__*** |
+| **Vitamina D** según peso: | 750 gr: 300-525 UI/Kg/día // 1000 gr: 400-700 UI/Kg/día // 1500 gr: 600-1000 UI/Kg/día |
+
+| **__NUTRICIÓN AL ALTA:__** | |
+|---|---|
+| __**1000 g al nacimiento**__ o< 30 semanas con __RCE al alta__ (Zscore≤-1,8 DS) | LM + PreNAN FM o FA prematuro |
+| __**Resto prematuros**__ | LM sin fortificación o FA de inicio o FA Prematuro según Zscore |
+! En el PDF la nutrición al alta es un recuadro con dos líneas; aquí cada línea se parte en dos columnas en los dos puntos.
+
+@p 2
+@pie Protocolo 17e Valoración estado nutricional Revisión Enero 2025
+## __Población a incluir:__
+**__Patrón crecimiento:__**
+| | | |
+|---|---|---|
+| Tipo 0: | PAEG con PA al alta para su EGP (crecimiento adecuado) | =0 |
+| Tipo 1: | PAEG con BP al alta para su EGP (crecimiento restringido neonatal o crecimiento extrauterino retardado) | = 1 |
+| Tipo 2: | BPEG y BP al alta para su EGP (crecimiento intrauterino restringido –CIR) | = 2 |
+| Tipo 3: | BPEG que al alta presenta recuperación posnatal precoz de su crecimiento (early posnatal catch-up) | = 3 |
+
+**__Datos OBJETIVOS NUTRICIONALES:__**
+| | |
+|---|---|
+| **__Primera semana tras alcanzar enteral completa: Si=1/NO=2__** | líquidos 120-160 ml/kg/d (limitar si DAP, DBP) + calorías 120-130 kcal/kg/d + proteínas: 3,8-4,2g/kg/d |
+| **__Tras recuperación PRN: SI=1/NO=0__** | Ganancia peso > 15-18 g/kg/día y PC > 0,8-0,9 cm/semana y P/E: 3 g/100 kcal |
+
+TABLA 2. CLASIFICACIÓN RESTRICCIÓN DE CRECIMIENTO FETAL Y MANEJO SUGERIDO
+| | |
+|---|---|
+| **Tipo I** // -PFE < p3 // -ICP < p5 (vasodilatación) // -AU > p95 // -IP medio AUt< p95 // Vigilancia semanas // Parto sobre 37 semanas // Considerar riesgo de registro patológico en trabajo de parto | **Tipo II** // -Flujo diastólico ausente en AU en dos ocasiones sobre 50% de los ciclos en las dos arterias // -Flujo diastólico reverso en Itsmo Aórtico // Vigilancia Bisemanal // Parto sobre 34 semanas // Considerar cesárea electiva |
+| **Tipo III** // -Flujo diastólico reverso en AU // -IP DV > p95 // Alto riesgo FMIU // Vigilancia cada 24-28 horas // Parto sobre 30 semanas // Cesárea | **Tipo IV** // -Variabilidad ausente sin medicación sedante que lo expliquey/o desaceleraciones espontáneas // -Flujo diastólico reverso en DV // Desaceleraciones espontáneas pueden justificar cesáreaemergencia // Variabilidad ausente o DV reverso parto cesárea sobre 26semanas con corticoides completados // Vigilancia cada 12-24 horas |

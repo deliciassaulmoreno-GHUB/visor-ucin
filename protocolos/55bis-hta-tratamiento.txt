@@ -1,0 +1,71 @@
+@f 5. Hemodinámico/55 bis. Protocolo de hipertensión neonatal tratamiento-1.pdf
+@p 1
+# __55 bis. PROTOCOLO DE DIAGNÓSTICO DE HIPERTENSIÓN ARTERIAL NEONATAL: parte II.__
+***Fecha de actualización:*** *octubre 2020.*
+
+## 1. Estudio etiológico
+**1.1. Hª clínica:**
+
+**Datos prenatales:** consumo materno de drogas de abuso, datos de asfixia perinatal, enfermedad nefrourológica en ecografías prenatales.
+
+**Historia neonatal:** uso de catéter arterial umbilical *(trombosis)*, medicación, displasia broncopulmonar, síndromes /anomalías congénitas asociados a hipertensión.
+
+**1.2. Exploración física:** ausencia de pulsos femorales *(CoAo)*, masa abdominal, fenotipos sindrómicos, genitales ambiguos *(HSC)*, signos de trombosis periférica.
+
+**1.3. Pruebas complementarias de primer nivel** *(A todos):*
+- Ecografía renal. Doppler de vasos renales. *Para descartar enf. renovasculares, del parénquima renal, masas renales y obstrucción del tracto urinario.*
+- Analítica de orina, micción única (iones, creatinina, sedimento, urocultivo y gram)
+- Analítica de sangre (Creatinina, urea, sodio, potasio, calcio y hemograma)
+- Ecocardiografía transtorácica. *Para descartar alteraciones del arco aórtico.*
+
+**1.4. Pruebas complementarias de segundo nivel** *(Según sospecha):*
+- Estudio nefrourológico: CUMS, medicina nuclear, RMN, arteriografía. *Según sospecha y hallazgos encontrados en ecografía, para diagnóstico específico. Para estudio nuclear, solicitar traslado en ambulancia al H Central desde secretaría.*
+- Renina, aldosterona, hormonas tiroideas y cortisol plasmáticos. *Estudio endocrinológico.*
+- Catecolaminas en orina: *Despistaje neuroblastoma.* *Suficiente con muestras de micción única (3 muestras en 3 días consecutivos). En dos botes, en uno se añadirá el ácido reactivo. Hacer dos peticiones: Metanefrinas fraccionadas, ácido homovanílico y ácido vanilmandélico; y Creatinina en orina. En mano a laboratorio de bioquímica “elementos traza” (tlf: 78467). Si lactancia materna: excluir de dieta materna desde 2 días antes: Cereales, café, té, cola, vainilla, chocolate, picantes, colorantes, bebidas gaseosas, naranja, plátano, piña, galletas, harina, yogures de sabores, natillas y flanes.*
+- Ecografía transfontanelar. *Para descartar causas de HTIC: hemorragias, masas, etc.*
+
+**2. Tratamiento:** etiológico si posible. Retirada de posible yatrogenia.
+| Estadío | Percentil TA | Clínica | Enfermedad de órgano diana* | Tto y vía admón |
+|---|---|---|---|---|
+| Normal | <p95 | - | - | No |
+| HTA leve | p95 – p99 | Sano | No | Observación |
+| | | Hospitalizado/ERC | No | Valorar tto vo/ iv |
+| HTA moderada | p95 – p99 | Sano | Sí | Tto oral |
+| | | Hospitalizado/ERC | Sí | Tto oral o iv |
+| HTA grave | >p99 | Sano | No | Tto oral |
+| | | Cualquiera | Sí | Tto iv |
+@pie 1
+@p 2
+| Emergencia hipertensiva | TAS > 120 ó // TAD > 90 (80 RNPT) | Cualquiera | Sí/No | Tto iv en perfusión continua |
+* Hipertrofia ventricular izquierda, daño renal agudo, alteración del nivel de conciencia.
+! En el original la tabla tiene celdas combinadas: las filas en blanco de Estadío y Percentil TA pertenecen a la fila de encima. La fila de Emergencia hipertensiva está en la página 2.
+
+Elección del fármaco:
+| Fármaco | Grupo | Dosificación | Intervalo | Comentarios |
+|---|---|---|---|---|
+| {5} **Infusión continua** |
+| **Esmolol** | βbloqueante | {2} Inicio 50 µg/kg/min. Incremento c/5min hasta TA deseada, máx 1mg/kg/min | • Acción muy rápida // • CI: bloqueo AV e IC aguda |
+| __Hidralacina__ | Vasodilatador | {2} 0.2 µg/kg/min // Máx 2mg/kg/día | • Puede ↑FC |
+| Nicardipino | Ca antagonista | {2} 0.5 - 2 µg/kg/min | • Taquicardia refleja leve |
+| Nitroprusiato | Vasodilatador | {2} Inicio 0.25-0.5 µg/kg/min // Máx 2 µg/kg/min. // En crisis hipertensiva hasta 10 µg/kg/min menos de 10 mins. | • Toxicidad por cianuro // • Metahemoglobinemia |
+| {5} **IV intermitentes** |
+| **Labetalol** | αβbloqueante | 0.2 - 1 mg/kg // Máx 10mg/kg/día | c/8-12h | • CI relativa: DBP e IC aguda |
+| Hidralacina | Vasodilatador | 0.1 - 5 mg/kg // Máx 8mg/kg/día | c/6-8h | • Puede ↑FC |
+| {5} **Vía oral** |
+| **Labetalol** | αβbloqueante | 0.5 - 1.5 mg/kg // Máx 10mg/kg/día | c/12h | • CI relativa: DBP e IC aguda |
+| Propanolol | βbloqueante | 0.25 - 1 mg/kg // Máx 8-10mg/kg/día | c/6-8h | • Monitorizar FC // • Evitar si DBP |
+| __Amlodipino__ | Ca antagonista | 0.1 – 0.4 mg/kg | c/24h | • HipoTA, intolerancia alimentaria, daño hepático, interacción con CYP3A4. |
+| Captopril | IECA | 0.01 – 0.05 mg/kg // Máx 2mg/kg/día | c/6-8h | • 1ª dosis puede causar hipoTA, > riesgo si diuréticos // • Monitorizar Cr y K // • No en < 44 sem EPM |
+| **Hidroclorotiazida** | Tiazida | 1 - 2 mg/kg/día | c/12-24h | • Alcalosis metabólica, hipoK |
+| **Espironolactona** | Antagonista aldosterona | 0.5 - 1.5 mg/kg | c/12h | • hiperK |
+**1ªlínea**. __2ªlínea__. Uso sólo con experiencia.
+
+@bib Bibliografía
+Harer M, Kent A. Neonatal hypertension: an educational review. Pediatr Nephrol. 2018.
+
+Starr M, Flynn J. Neonatal hypertension: cases, causes, and clinical approach. Pediatr Nephrol. 2018.
+
+Dionne J, Abitbol C, Flynn J. Hypertension in infancy: diagnosis, management and outcome. Pediatr Nephrol. 2012; 27: 17–32.
+
+Flynn J. Etiology, clinical features, and diagnosis of neonatal hypertension. UptoDate 2019.
+@pie 2

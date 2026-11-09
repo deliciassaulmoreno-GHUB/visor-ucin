@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>Visor UCI Neonatal</title>
+<link rel="stylesheet" href="visor.css?v=31">
+</head>
+<body>
+<div class="layout">
+  <section class="phone-wrap" aria-label="Vista de la app">
+    <div class="phone">
+      <header class="bar">
+        <button id="back" class="icon" aria-label="Volver">‹</button>
+        <h1 id="title">Neonatología</h1>
+        <button id="fav" class="icon" aria-label="Favorito">☆</button>
+        <button id="night" class="icon" aria-label="Modo noche">◐</button>
+      </header>
+      <main id="screen" tabindex="-1"></main>
+      <footer class="legal">Borrador de revisión. No sustituye al protocolo vigente ni a la prescripción en FARHOS.</footer>
+    </div>
+  </section>
+  <aside id="panel" class="panel" aria-label="Panel de revisión">
+    <button id="panelClose" class="panel-close">Volver a la app</button>
+    <nav class="tabs" role="tablist">
+      <button data-tab="item" role="tab">Esta pantalla</button>
+      <button data-tab="todo" role="tab">Pendientes</button>
+      <button data-tab="out" role="tab">Exportar</button>
+    </nav>
+    <div id="panelBody"></div>
+  </aside>
+</div>
+<button id="panelOpen" class="panel-open">Revisión</button>
+<script src="datos.js?v=5"></script>
+<script src="compat.js"></script>
+<script src="tablas.js?v=1"></script>
+<script src="farmacos.js?v=7"></script>
+<script src="renal.js?v=2"></script>
+<script src="contenido.js?v=18"></script>
+<script src="somato.js?v=1"></script>
+<script src="crecimiento.js?v=3"></script>
+<script src="escalas.js?v=13"></script>
+<script src="protocolos.js?v=27"></script>
+<script src="visor.js?v=25"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+@f 9. Infeccioso/14a. Prevención de VIH congénito-1.pdf
+@p 1
+# PREVENCIÓN TRANSMISION VERTICAL VIH
+Protocolo Neonatología y Enfermedades Infecciosas Pediátricas. Junio 2018
+
+@flujo
+@cols
+[**MADRE VIH CONOCIDA**]
+@cols
+[**TAR triple terapia** y // **CVP <50 copias/ml** // a partir de semana 36]
+v
+[**Tipo de parto: VAGINAL** // *salvo contraindicaciones obstétricas]
+v
+[**TAR habitual** // via oral]
+v
+[**No AZT iv**]
+---
+[**No TAR triple terapia** ó **inicio tardío** // **CVP >50 copias/ml** ó **desconocida** // a partir de la semanas 36]
+v
+[**Tipo de parto:** // **CESÁREA ELECTIVA** // en la semana 38]
+v
+[**TAR gestante previo al parto** // • Si TAR previo: **TAR habitual via oral, asociar raltegravir**. // • No TAR previo: ***tenofovir+emtricitabina y raltegravir***]
+v
+[**AZT IV** (desde 2-3h antes de cesárea // • __Dosis inicial__: **AZT 2 mg/kg** en 1h // • __Después__: **AZT 1 mg/kg/h** hasta pinzar cordón]
+@fincols
+---
+[**MADRE VIH DESCONOCIDA**]
+v
+[Test VIH URGENTE previo parto]
+@cols
+[Positivo]
+---
+[Negativo]
+@fincols
+@fincols
+@finflujo
+! En el PDF la caja «Positivo» de la madre con VIH desconocido tiene una flecha que lleva a «Tipo de parto: CESÁREA ELECTIVA».
+
+VIH = Virus Inmunodeficiencia Humana; TAR= tratamiento antirretroviral; CVP= carga viral plasmática; IV= intravenoso; AZT = zidovudina
+
+@p 2
+@caja
+**FACTORES DE RIESGO**
+•Madre sin TAR en embarazo
+•Madre con TAR pero CVP > 50 cop/ml
+•Diagnóstico tardío (≥28 semanas)
+•Primo-infección VIH durante la gestación
+•Valorar en: rotura prolongada de bolsa, otras ITS, sangrado importante durante el parto
+@fin
+
+@flujo
+@cols
+[**RECIÉN NACIDO ≥ 35 SEG y >2kg**]
+v
+? ¿Factores de riesgo?
+@cols
+? NO
+[**__MONOTERAPIA__ AZT** // Inicio 4-6 horas vida // Duración 4 semanas]
+---
+? SI
+[**__TRIPLE TERAPIA__** // **AZT + 3TC + NVP** // Inicio 4-6 horas vida // Duración // - ZDV+ 3TC 4 semanas // - NVP 2 semanas]
+@fincols
+---
+[**RECIÉN NACIDO < 35s EG y/o <2kg**]
+v
+? ¿Factores de riesgo?
+@cols
+? NO
+[**__MONOTERAPIA__ AZT** // Inicio 4-6 horas vida // Duración 4 semanas]
+---
+? SI
+[**__MONOTERAPIA__** // **AZT (+/- NVP dosis única)** // Inicio 4-6 horas vida // Duración: // - ZDV 4 semanas // - NVP dosis única si madre no ha recibido NVP en parto.]
+@fincols
+@fincols
+v
+[**Lactancia Materna** contraindicada. Gestión de concesión de ayuda económica para lactancia artificial desde consulta de Infecciosas. Facilitar monodosis de leche (contacto con SUPERVISORA DE GUARDIA) para alimentación la primera semana de vida. // **Analítica sangre primeras 48h** // •__0,5 ml microtainer morado__ (Hemograma Laboratorio Urgencias Infantil) // •__2,5 ml tubo EDTA__ (PCR RNA/DNA VIH Laboratorio Inmuno-biología Molecular ). La petición no se realiza por HCIS. Utilizar volante impreso en controles Enfermería. Enviar de L-V antes de 13h; si es fin de semana, guardar a temperatura ambiente, sin centrifugar y enviar en día laborable. // **CMV en orina** primera semana de vida (tubo o bote con tapón rojo, sin medio, petición Microbiología “virus”) // **PIC Infecciosas** al ingreso (busca 843155) para cita en primera semana de vida (volante de citación). En altas de fin de semana → remitir a consulta de infecciosas el lunes de la siguiente semana SIN CITA. // **Seguimiento PCR VIH** a las 2 semanas de vida si alto riesgo, si no alto riesgo: 6 semanas - 6 meses // **Citar al alta a los 15 días** de vida en Consulta de Enfermedades Infecciosas]
+@finflujo
+! En el PDF las cuatro ramas de tratamiento del recién nacido acaban en el mismo recuadro final.

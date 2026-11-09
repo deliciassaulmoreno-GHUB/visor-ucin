@@ -1,0 +1,93 @@
+@f 9. Infeccioso/19. Protocolo CMV congenito -1.pdf
+@p 1
+# PROTOCOLO 19. INFECCIÓN CONGÉNITA POR CITOMEGALOVIRUS.
+Protocolo Neonatología y Enfermedades Infecciosas Pediátricas. Elaborado: junio de 2018.
+Autoras: Sylvia Caballero y Alba Pérez.
+
+El CMV es la causa más frecuente de infección congénita en países desarrollados, siendo uno de los principales motivos de retraso psicomotor e hipoacusia de origen infeccioso.
+
+## DIAGNÓSTICO INFECCIÓN CONGÉNICA POR CMV EN EL RN:
+| | |
+|---|---|
+| | Aislamiento del virus en muestra de orina, sangre, saliva o LCR. |
+| __Principal método de screening:__ | PCR CMV orina |
+| __Método de recogida:__ | muestra de **orina** recogida por **bolsa/sondaje**; solicitar “virus” en petición a Microbiología; enviar en **tubo o bote de tapón rojo sin medio**. |
+| __¿Cuándo?__ | En los **primeros 15 días de vida**. |
+
+@flujo
+[Si niño>15 ddv con CMV orina positivo, es necesario determinar PCR CMV en sangre seca en papel de filtro de las pruebas de talón.]
+@cols
+[✓ Si PCR CMV positiva en sangre seca: diagnóstico CMV congénito.]
+---
+[✓ Si PCR CMV negativa en sangre seca: clasificar en congénita o adquirida según otros parámetros, pero NO se puede descartar CMV congénito.]
+@fincols
+@finflujo
+
+__Indicaciones de recogida de orina para el diagnóstico de infección congénita CMV:__
+@caja
+1. Infección materna altamente probable durante el embarazo (PCR CMV en sangre, seroconversión IgG o presencia de IgM positiva con IgG de baja avidez).
+2. Serología materna indicativa de posible infección en el embarazo: IgM positiva sin control de avidez.
+3. Infección fetal demostrada durante el embarazo (PCR o cultivo positivo en líquido amniótico).
+4. Hallazgos ecográficos prenatales sugerentes (oligoamnios o polihidramnios, hidrops fetal, derrame pleural o pericárdico, retraso crecimiento intrauterino, hepato-esplenomegalia, calcificaciones intrahepáticas, aumento de la ecogenicidad intestinal, microcefalia, dilatación ventricular, atrofia cortical y calcificaciones intracraneales).
+5. Al nacimiento, sospecha de infección congénita sintomática (cualquiera de las siguientes):
+- **a.** Microcefalia o clínica neurológica.
+- **b.** Alteraciones ecográficas: ventriculomegalia, calcificaciones cerebrales, quistes en la matriz germinal (germinolisis), displasias corticales, alteración de la sustancia blanca, quistes periventriculares (leucomalacia periventricular) y vasculopatía lenticuloestriada.
+- **c.** Hiperproteinorraquia de etiología no filiada.
+- **d.** Coriorretinitis.
+- **e.** Sordera neurosensorial o cribado auditivo no superado previo al alta.
+- **f.** Clínica de infección grave intrauterina al nacimiento: petequias, citopenias, hepato-esplenomegalia, ictericia, hipertransaminasemia, etc.
+
+6. Situaciones de las gestantes que condicionan mayor riesgo de reactivación de CMV:
+- **a.** Hijos de madres con infección por VIH
+- **b.** Hijos de mujeres que han recibido inmunosupresores
+- **c.** Otras inmunodeficiencias con riesgo de reactivación del CMV
+
+7. Valorar en neonatos con retraso crecimiento intrauterino simétrico.
+**__Solicitar siempre en RNPT< 1500gr: para diagnóstico diferencial con CMV adquirido en evolución.__**
+@fin
+
+## EVALUACIÓN del RN diagnosticado de infección congénita por CMV:
+| **Pruebas complementarias** |
+|---|
+| - Exploración física y evaluación neurológica. |
+| - Analítica: hemograma, coagulación, bioquímica. |
+| - Microbiología: PCR cuantitativa CMV en sangre. |
+| - LCR (no de rutina, consultar con E. Infecciosas): citoquímica + PCR para CMV. |
+| - Fondo de ojo +/- potenciales evocados visuales. |
+| - Potenciales evocados auditivos. |
+| - Ecografía cerebral. |
+| - RM cerebral precoz (menores 1 mes) // ▪ RNs con CMVc asintomáticos, con ecografía normal y estudio de audición normal. // ▪ RNs con CMVc asintomáticos, con hallazgo inespecífico en la ecografía cerebral (ej: vasculopatía lentículo-estriada) |
+| - EEG (si clínica neurológica o alteraciones en la neuroimagen) |
+! En el PDF la segunda indicación de RM («hallazgo inespecífico en la ecografía cerebral») va resaltada en amarillo.
+
+@p 2
+## TRATAMIENTO
+**Objetivo principal del tratamiento:** prevenir el desarrollo o progresión de la hipoacusia (fluctuante y progresiva) o de las alteraciones en el neurodesarrollo.
+
+| | |
+|---|---|
+| **Indicaciones** | ▪ Indicado siempre en RN con CMVc y alguna de las siguientes alteraciones: // - Afectación del SNC (microcefalia, alteración neuroimagen, con excepción de la vasculopatía lenticulo-estriada aislada) // - Cribado auditivo no superado // - Coriorretinitis // - Enfermedad organoespecífica (neumonitis, trombopenia significativa, hepatitis, hepatomegalia, esplenomegalia o colitis). // ▪ Individualizar en RN asintomáticos o monosintomáticos con afectación leve (p.ej.: ictericia, petequias, etc.), sin afectación del SNC. |
+| **Dosis** | **1. Valganciclovir oral (Valcyte® 50 mg/ml):** 32 mg/kg/día cada 12 horas *(ajustar dosis al peso).* (dispensación en Farmacia Hospitalaria) // **2. Ganciclovir iv:** 12 mg/kg/día cada 12 horas en caso de intolerancia oral (*ajustar dosis al peso).* // Se administrará por vía oral siempre que sea posible, salvo en pacientes con problemas digestivos o intolerancia oral. |
+| **Seguimiento:** | • __PCR CMV en sangre__ (opcional). La PCR debería ser indetectable al finalizar el tratamiento, aunque puede volver a aumentar la carga viral al finalizar el tratamiento. // • __Hemograma__ para control de la neutropenia. Realizar hemograma semanal-quincenal, especialmente durante el primer mes; posteriormente, si estable, cada 15-30 días . |
+| __Duración tratamiento:__ | **6 meses.** |
+
+@flujo
+? Si < 500 micro/L neutrófilos:
+[▪ Suspender tratamiento. // ▪ Realizar hemograma cada 5-7 días:]
+@cols
+[• Si neutrófilos > 1000 micro/L: reiniciar tratamiento.]
+---
+[• Si continúa con neutropenia: considerar administración del factor estimulante de granulocitos.]
+@fincols
+@finflujo
+
+| **MEDIDAS DE AISLAMIENTO Y CONTROL DE INFECCIÓN:** | **SEGUIMIENTO AL ALTA** |
+|---|---|
+| ▪ Sólo son necesarias las precauciones de aislamiento estándar: especial atención al lavado de manos o uso de soluciones alcohólicas, así como medidas ante el posible contacto con fluidos o mucosas. // ▪ No está contraindicada la lactancia materna. | ▪ Citar, previo al alta, en: Neonatología, Neurología, Oftalmología, ORL hipoacusia y Enfermedades Infecciosas Pediátricas. // ▪ Valorar según exploración y pruebas complementarias: rehabilitación y atención temprana. |
+
+@bib ***Bibliografía:***
+*- F. Baquero-Artigao y Grupo de estudio de la infección congénita por citomegalovirus de la Sociedad Española de Infectología Pediátrica. Documento de consenso de la Sociedad Española de Infectología Pediátrica sobre el diagnóstico y el tratamiento de la infección congénita por citomegalovirus. An Pediatric (Barc). 2009;71(6):535-547.*
+*- Gail J Demmler-Harrison. Congenital cytomegalovirus infection: management and outocome. Uptodate. Revisado en agosto de 2017.*
+*- Rawlinson WD et al. Congenital Cytomegalovirus infection in pregnancy and the neonate: consensus recommedantions for prevention , diagnosis and therapy. Lancet Infect Dis 2017, 17: e177-88*
+*- Luck SE, Wieringa JW, Blázquez-Gamero D, et al. ESPID Congenital CMV Group Meeting, Leipzig 2015. Congenital Cytomegalovirus: A European Expert Consensus Statement on Diagnosis and Management. Pediatr Infect Dis J. 2017 Dec;36(12):1205-1213.*
+*- Giannattasio et al. Is lenticulostriated vasculopathy an unfavorable prognostic finding in infants with congenital cytomegalovirus infection? J Clin Virl 91 (2017) 31-35.*

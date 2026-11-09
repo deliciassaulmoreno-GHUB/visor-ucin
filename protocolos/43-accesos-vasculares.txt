@@ -1,0 +1,78 @@
+@f 12. Procedimientos/43. Protocolos accesos vasculares-1.pdf
+@p 1
+*PROTOCOLOS NEONATOLOGÍA: NÚMERO 43*
+# ACCESOS VASCULARES EN NEONATOLOGÍA.
+
+| {2} **1. VÍA VENOSA PERIFÉRICA:** |
+|---|---|
+| a. | Infusión soluciones con osmolaridad < 800 mOsm/litro. |
+| b. | Infusión goteos con concentración máxima de potasio de 40 mEq/litro. |
+| c. | **__Nunca__** administrar dopamina, adrenalina o noradrenalina. |
+| d. | Si fuera necesario y no hubiera vía central SÍ se puede utilizar la dobutamina y milrinona. |
+| e. | No es necesario lavado de mantenimiento. |
+| f. | Vigilar flebitis y extravasaciones. |
+
+| {2} ***2. SILÁSTICO:** catéter central de inserción periférica (1 o 2 luces) (PIC)* |
+|---|---|
+| a. | Siempre es necesaria radiografía de control para localización: // i. Si no se visualiza se puede repetir radiografía con contraste (0.3 cc). // ii. Vigilar aparición de extrasístoles: si aparecieran retirar silástico los cm correspondientes. // iii. Nunca se puede dejar en contra de flujo. |
+| b. | __Si inserción MMSS:__ se considera central cuando llega al menos a la vena subclavia (localización en radiografía a nivel tercio medio clavícula). |
+| c. | __Si inserción vasos craneales:__ se considera central cuando llega al menos a la vena yugular. |
+| d. | Es necesario lavado de mantenimiento y/o flujo mínimo de 1 cc/hora: SSF o SG5% + heparinización simple. |
+| e. | Riesgo de infección y trombosis. |
+| f. | Salvo los silásticos de 2 luces: // i. No sirven para extracción de analíticas. // ii. No sirven para trasfusión de hemoderivados. // iii. No administrar urokinasa. |
+
+## 3. VASOS UMBILICALES:
+| {2} ***a. Vena umbilical:** 2 luces 4 French.* |
+|---|---|
+| i. | Siempre es necesaria radiografía de control para localización: // 1. Posición ideal: extremo distal 0.5-1 cm por encima del diafragma (a nivel de vena cava inferior). // 2. No dejar en vena porta. |
+| ii. | Fórmula para calcular cm a introducir: **[(Peso x3)+ 9] / 2 + 1** |
+| iii. | Riesgo de infección y trombosis. |
+! La fórmula es una imagen en el PDF: «(Peso x3)+ 9» sobre «2», y fuera de la fracción «+ 1». Aquí se escribe en una línea con corchetes para indicar qué va dividido entre 2.
+
+| **LUCES** | **PROXIMAL** | **DISTAL** |
+|---|---|---|
+| **UTILIDAD** | Perfusiones continuas | Extracciones, trasfusiones, expansiones, mediación puntual y monitorización PVC |
+@p 2
+@pie PROTOCOLOS NEONATOLOGÍA: NÚMERO 43 ACCESOS VASCULARES EN NEONATOLOGÍA.
+| **FLUJO** | Flujo mínimo 1 cc/hora | Lavado: 1 o 1.5 cc/hora (normalmente SG5% + heparinización simple en RNPT o doble en RNT) |
+
+| {2} ***b. Arteria umbilical:** 1 luz 3.5 French.* |
+|---|---|
+| i. | Siempre es necesaria radiografía de control para localización: // 1. Posición alta correcta: entre D6-D10. // 2. Posición baja correcta: entre L3-L5. |
+| ii. | Fórmula para calcular cm a introducir: **(Peso x 3) + 9** |
+| iii. | Riesgo de trombosis. |
+| iv. | __Utilidad:__ Extracción de muestras y monitorización invasiva TA. |
+| v. | __Lavado mínimo constante:__ 2 cc/hora (con SSF + heparinización simple). |
+! La fórmula de la arteria umbilical también es una imagen en el PDF.
+
+| {2} **4. VENAS CENTRALES (yugular o femoral):** *2 o 3 luces* |
+|---|---|
+| a. | Siempre es necesaria radiografía de control para localización. |
+
+| **PARA VÍAS FEMORALES** | **RNT** | **RNPT** |
+|---|---|---|
+| **Longitud (cm)** | 13 | 5-8 |
+| **Grosor (Fr)** | 5.5 | 3-4 |
+| **Luces** | 3 | 2-3 |
+
+| b. | Riesgo de infección y trombosis. |
+|---|---|
+
+@ancha
+| **LUCES** | **PROXIMAL** | **MEDIAL** | **DISTAL** |
+|---|---|---|---|
+| **UTILIDAD** | Perfusiones continuas: // DROGAS VASOACTIVAS | Perfusiones continuas: // NPT +- SEDACIÓN | Extracciones,trasfusiones, expansiones, mediación puntual y monitorización PVC |
+| **FLUJO** | Flujo mínimo 1 cc/hora | Flujo mínimo 1 cc/hora | Lavado: 1 o 1.5 cc/hora (normalmente SG5% + heparinización doble) |
+
+| {2} **5. ARTERIAS CENTRALES (radial, braquial o femoral):** *1 luz, VIGON 22G de 5cm.* |
+|---|---|
+| a. | No es necesario control radiológico. |
+| b. | __Utilidad:__ extracción de muestras y monitorización invasiva TA. |
+| c. | __Lavado mínimo constante:__ 2 cc/hora (con SSF + heparinización simple). |
+
+@caja
+**__MANTENER CUALQUIER TIPO DE VÍA EL MÍNIMO TIEMPO POSIBLE__**
+@fin
+
+Fecha actualización: agosto de 2017.
+! En el PDF los apartados son una lista (a., b., i., ii.…); aquí van en tablas.

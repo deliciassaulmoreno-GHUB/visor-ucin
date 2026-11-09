@@ -1,0 +1,70 @@
+@f 4. Manejo prematuridad/5b. Manejo de la prematuridad DURANTE EL INGRESO.pdf
+@p 1
+# 5b. RECIÉN NACIDO MUY PREMATURO <32 semanas: MANEJO __DURANTE__ EL INGRESO
+*Elaborado: Susana Zeballos Sarrato. Versión 1.0 enero 2017. Actualización julio 2023: versión 1.1.*
+
+## 5-COMPLICACIONES TRAS EL NACIMIENTO
+@deimg
+**Cuadro 2.10.1.** Eventualidades posibles propias del prematuro (por aparatos):
+
+| | *Antes del 3^er^ día* | *Entre el 3º y el 15º día* | *Después del 15º día* |
+|---|---|---|---|
+| **Respiratorio** | • EMH // • Síndrome de aspiración | • Crisis de apnea | • DBP o NCP |
+| **Cardiocirculatorio** | • Hipotensión | • DAP | |
+| **Digestivo** | • Tapón meconial // • Íleo paralítico | • Intolerancia alimentaria // • ECN | |
+| **Termorregulación** | • Hipotermia/hipertermia | | |
+| **Metabolismo** | • Hipernatremia // • Estado hiperosmolar // • Deshidratación // • Acidosis metabólica // • Hipoglucemia/hiperglucemia // • Hiperkaliemia // • Hiperazoemia // • Hiperamoniemia // • Hipoproteinemia // • Hiperbilirrubinemia // • Hipocalcemia // • Hipofosforemia | • Hiponatremia // • Edemas // • Hiperbilirrubinemia // • Acidosis metabólica tardía | |
+| **Neurológico** | • Hemorragia peri-intraventricular | • LPV // • Hidrocefalia posthemorrágica // • ROP // • Déficit neurosensorial (hipoacusia, déficit visual) | • LPV |
+| **Infeccioso** | • Infección prenatal y perinatal // • Sepsis precoz | • Infección nosocomial, neumonía | • Bronquiolitis |
+| **Hematológico** | • Anemia hemorrágica | | • Anemia del prematuro |
+| **Urinario** | • Insuficiencia renal | | • Nefrocalcinosis |
+@findeimg
+Referencia: Protocolo SENeo
+! En el PDF este texto está tapado por la tabla; la tabla es una imagen y se ha copiado a mano.
+
+@caja
+**__*Especial control en los primeros días de vida:*__**
+1-RESPIRATORIO: síndrome de distrés respiratorio (cómo se administra surfactante y número de dosis), aire ectópico (neumotórax), apneas.
+2- HEMODINÁMICO: signos de DAP (valorar ecocardiografía en primeros días de vida en prematuros extremos).
+3- METABÓLICO: alteraciones iónicas, del EAB o de la glucemia. Control del balance hídrico.
+4- DIGESTIVO: tolerancia digestiva, inicio precoz de nutrición enteral, aportes adecuados en NPT.
+5- NEUROLÓGICO: ecografia TF en primeras 24-48 hdv. Riesgo de hemorragia cerebral (controles seriados ecografía TF, atención a anemización y clínica neurológica).
+6- INFECCIÓN: cultivos iniciales. vigilancia estrecha de signos o síntomas de sépsis vertical (más frecuente con el descenso de eg).
+7- HEMATOLÓGICO: hemograma según indicación
+@fin
+
+@p 2
+## 6-CONTROLES DURANTE EL INGRESO
+@caja
+**__*1-Somatometría*__**: peso diario, talla y PC semanal.
+**__*2-Ecografías cerebrales:*__** ≤28 semanas, al menos 2 controles en 1ª semana de vida. Los controles varían en función de la patología del paciente. RM a las 40 semanas postmenstruales en ≤28 semanas.
+**__*3-Controles fondo ojo:*__** a partir de la 4º semana de vida en < 30 semanas (≥ 30 semanas no hay indicación sistemática de control FO, valorar en función de antecedentes y evolución clínica).
+**__*4-Analítica:*__** nutricional, osteopenia y anemia: cada 2-3 semanas a partir de inicio de NE exclusiva
+Hierro: inicio a partir del mes de vida cuando ya está establecida la nutrición enteralhasta inicio de alimentación complementaria (LM a 4 mg/k, FP 1,5 mg/k).
+Vitamina D: 600 u/d con nutrición enteral exclusiva.
+**__*5-Nuevo protocolo control TIROIDEO:*__**
+__Pruebas del talón:__
+✓ A las **48 horas** de vida (TSH y T4 total)
+✓ En **segunda semana** de vida (TSH y T4 total)
+✓ En **cuarta semana** de vida (TSH y T4 total)
+**__TSH Y T4L en suero de sangre periférica (capilar o venoso)__**
+✓ En cuarta semana de vida (intentar hacer coincidir con analítica nutricional)
+✓ A los 15 días de un procedimiento con yodo
+✓ Al alta de Neonatología si no tiene función tiroidea en los 30 días previos
+**__*6-Vacunación*__**: calendario vacunal según edad cronológica. Incluida vacuna Rotavirus. Palivizumab según indicación.
+**__*7-Rehabilitación:*__** realizar IC para iniciar tratamiento durante el ingreso (especialmente indicado en ≤28 semanas)
+@fin
+
+## 7-ALTA
+## 7.1 Rellenar Registro de SEN 1500
+## 7.2 Previo al alta
+- Inscripción en registro civil, solicitar tarjeta sanitaria. Contacto con Centro de Salud.
+- Tratamientos (recetas o MUP) y alimentación.
+- Citas en consultas hospitalarias (intentar unificar citas).
+- ***Solicitar valoración en CRECOVI para discapacidad y derivación a CAT (indicado especialmente en ≤ 29 semanas).***
+
+## 7.3 Informe de alta:
+- Reflejar los datos perinatales relevantes
+- Reflejar todos aquellos datos solicitados en registro de SEN 1500
+- Nutrición al alta, somatometría al alta con percentiles para edad postmenstrual.
+- Diagnósticos y adecuada codificación. Precisar diagnósticos al alta y valoración de riesgo especialmente neurológico al alta.

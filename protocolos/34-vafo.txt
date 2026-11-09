@@ -1,0 +1,65 @@
+@f 6. Respiratorio/34. Protocolo VAFO-1.pdf
+@p 1
+# 34. PROTOCOLO DE VENTILACIÓN DE ALTA FRECUENCIA OSCILATORIA
+*Noelia González Pacheco*
+*Última actualización: Noviembre 2024*
+
+Se define por el uso de volúmenes tidales (VThf) inferiores al espacio muerto (<2,7 ml/Kg) entregados a frecuencias respiratorias supra-fisiológicas (> 3 Hz = 180 ciclos/min; 1 Hz = 60 ciclos/min), mediante un circuito que mantiene una presión de distensión continua sobre la vía aérea.
+
+## INDICACIONES
+| CRITERIOS DE INICIO DE VAFO | |
+|---|---|
+| **INSUFICIENCIA RESPIRATORIA SEVERA REFRACTARIA A VMC*:** // Necesidades de **FiO~2~ > 50%^#^ y/o PaCO~2~ > 55-60 mm Hg** (según tipo de muestra) que precise presión inspiratoria pico (PIP) elevada → | • **> 15 cm H~2~O** en *< 1.000 g.* // • **> 15-17 cm H~2~O** entre *1.000-1.500 g* // • **> 17 cm H~2~O** entre *1.500-2.000 g* // • **> 20 cm H~2~O** entre *2.000-3.000 g* // • **> 25-30 cm H~2~O** en *>3.000 g* |
+| {2} **ESCAPE AÉREO** (enfisema intersticial, neumotórax) |
+| {2} **HIPERTENSIÓN PULMONAR PERSISTENTE DEL RECIÉN NACIDO con fracaso de la VMC** |
+| {2} **HEMORRAGIA PULMONAR** |
+| {2} **ATELECTASIA PULMONAR** |
+***Tabla 1.*** **Criterios de inicio de ventilación de alta frecuencia oscilatoria (VAFO).**
+*En recién nacidos con SDR relacionado con la prematuridad definimos el fracaso de la VMC cuando esta situación se presenta después de administrar una dosis inicial de surfactante, manteniéndose un pulmón con reducción de su volumen o atelectásico.
+^#^En recién nacidos a término valorar previamente la causa de la hipoxemia.
+
+## ESTRATEGIAS DE OXIGENACIÓN Y VENTILACIÓN
+| OXIGENACIÓN | {2} VENTILACIÓN |
+|---|---|---|
+| **RECLUTAMIENTO PULMONAR** | {2} **DCO~2~ = VThf^2^ x** ***f*** |
+| | ***Sin VG*** | ***Con VG*** |
+| **PMA** // **FiO~2~** | **↑ΔPhf** // **↑ Ti** // **↓** ***f*** → **↑VThf** | **↑VThf** // **↑** ***f*** |
+***Tabla 2.*** **Estrategias de oxigenación y ventilación en VAFO.**
+! En las tablas 1 y 2 la flecha → sustituye a la flecha azul dibujada en el PDF.
+
+## PARÁMETROS INICIALES
+### RECLUTAMIENTO PULMONAR
+- **PMA inicial**: 1-2 cm H~2~O > PMA en VMC (la misma en caso de escape aéreo)
+- ↑ **PMA** 1 cm H~2~O cada 3-5 min (o más tiempo si no se ha estabilizado la SatO~2~) hasta salto oximétrico o descenso de FiO~2~ un 20-25% de la FiO~2~ inicial ***(presión crítica de apertura pulmonar)***
+- ↓**PMA** 1 cm H~2~O cada 10-15 min hasta descenso de SatO~2~ < 90% ***(presión crítica de cierre)***
+- ↑ **PMA** de nuevo a la presión de apertura hasta mejoría de oxigenación y fijar PMA 1-2 puntos por encima de presión de cierre ***(PMA óptima)***
+@img 34-reclutamiento.png
+! La gráfica de presión-volumen es una imagen en el PDF y se reproduce recortada.
+
+@p 2
+| {2} PARÁMETROS INICIALES |
+|---|---|
+| **FiO~2~** | = VMC |
+| **PMA** | **1-2 cm H~2~O >** PMA en VMC // ***PMA*** *habituales para trabajar en* ***zona de seguridad:*** // < 1.000 gr: 8-10 cm H~2~O // 1.000-1.500 gr: 10-12 cm H~2~O // 1.500-2.000 gr: 12-15 cm H~2~O // > 2.000 gr: > 15 cm H~2~O * |
+| **Frecuencia** (***f***) | ***8-15 Hz*** // <1000 gr: 14-15 Hz // 1000-2000 gr: 12-14 Hz // >2000 gr: 8-12 Hz |
+| **ΔPhf** | *Inicial:* **40-50 cm H~2~O** // *Tras maniobra de reclutamiento* deslimitar 15-20 cm H~2~O por encima del necesario para alcanzar el VThf programado |
+| **VThf** | ***1,5-2 mL/Kg*** |
+| **Tiempo inspiratorio^#^** | ***I:E 1:2*** *(33%)* // *I:E 1:1 (50%)* si f > 15 Hz |
+***Tabla 3.*** **Parámetros iniciales en VAFO.**
+*Es inusual el empleo de PMA > 25 cm H~2~O, aunque en algunos casos puede ser necesario, de manera puntual, para reclutar el pulmón.
+^#^A igualdad de VThf (en VAFO+VG) el ratio ***IE: 1:2*** se asocia a mayor eficacia en la ventilación, minimizando el atratamiento aéreo; programar IE 1:2 salvo posibilidad de emplear frecuencias > 15 Hz, y siempre en caso de fuga aérea.
+
+Realizar **RADIOGRAFÍA DE TÓRAX** tras completar maniobra de reclutamiento pulmonar, o previamente si no se objetiva mejoría de la oxigenación a pesar de aumento de PMA, y **EAB** a los 20-30 minutos, tras estabilización de la ventilación.
+
+| {2} OBJETIVO: mínimo VThf para mantener una ventilación adecuada |
+|---|---|
+| {2} Tras comprobar una adecuada ventilación, intentar ↑ **frecuencia** y ↓ **proporcionalmente el VThf** para mantener una DCO~2~ estable. |
+| **HIPOCAPNIA** | ↓ VThf |
+| **HIPERCAPNIA** | Intentar ↑ frecuencia |
+***Tabla 4.*** **Objetivo en VAFO con VG y maniobras para modificar la ventilación.**
+
+| {2} CAUSAS MÁS FRECUENTES DE FRACASO DE VAFO |
+|---|---|
+| **DINÁMICA PULMONAR** | Resistencias muy elevadas en la vía aérea // Compliance normal |
+| **PMA** | Reclutamiento incompleto, no alcanzando la presión de apertura // Descenso excesivamente rápido de la PMA // Mantenimiento de la PMA en la presión de apertura |
+***Tabla 5.*** **Causas más frecuentes de fracaso de la VAFO.**

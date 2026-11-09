@@ -1,0 +1,36 @@
+@f 6. Respiratorio/47. Protocolo de corticoides postnatales para DBP.pdf
+@p 1
+# PROTOCOLO 47. INDICACIÓN Y PAUTA DE CORTICOIDES POSTNATALES PARA LA DISPLASIA BRONCOPULMONAR. (Actualizado en abril 2025),
+
+## Indicaciones:
+Pacientes con edad gestacional menor de 32 semanas asistidos con Ventilación mecánica invasiva (VM) que, entre la segunda-tercera semana de vida, continúen dependientes de ésta con necesidades de oxígeno y de asistencia respiratoria alta.
+
+## Contraindicaciones:
+- Infección activa.
+- Enterocolitis necrotizante.
+- Tratamiento actual con Ibuprofeno para Ductus Arterioso Persistente (se esperará a completar ciclo de tratamiento previo al inicio de tratamiento), o programados para cierre quirúrgico o percutáneo del DAP
+
+## Protocolo:
+- **Se consensuará el inicio de tratamiento en sesión clínica.**
+- Se informará a los padres y se constatará su conformidad con el inicio del tratamiento en la Historia Clínica.
+- Firma de modelo de CI (carpeta de Consentimientos)
+- Se confirmará normalidad de cifra plaquetaria sin infección activa.
+- Confirmar ausencia de enterocolitis.
+
+## Pauta:
+Dexametasona (dosis acumulada 0.89 mg/kg) intravenosa:
+- 0.075 mg/kg por dosis cada 12 horas 3 días
+- 0.05 mg/kg por dosis cada 12 horas 3 días
+- 0.025 mg/kg por dosis cada 12 horas 3 días
+- 0.01 mg/kg por dosis cada 12 horas 2 días y suspender.
+
+**El objetivo del tratamiento es retirar la ventilación mecánica invasiva por lo que se debe optimizar el resto del tratamiento del paciente y programar una extubación lo antes posible**.
+
+**No administrar corticoides como tratamiento de DBP en la primera semana de vida.**
+**Evitarlo a partir de los 50 días de edad cronológica**
+**Se debe descartar siempre otra patología intercurrente responsable de la insuficiencia respiratoria previo a su administración.**
+
+@bib Bibliografía:
+*Doyle LW, Davis PG, Morley CJ, McPhee A, Carlin JB, DART Study Investigators. Low-dose dexamethasone facilitates extubation among chronically ventilator-dependent infants: a multicenter, international, randomized, controlled trial. Pediatrics. 2006 Jan;117(1):75-83.*
+*Alan H. Jobe;* ***Prenatal and Postnatal Steroids and Pulmonary Outcomes****The Newborn Lung: Neonatology Questions and Controversies, Chapter 20, 335-346. Third edition 2019,*
+*Ramaswamy VV, Bandyopadhyay T, Nanda D, Bandiya P, Ahmed J, Garg A, Roehr CC, Nangia S. Assessment of Postnatal Corticosteroids for the Prevention of Bronchopulmonary Dysplasia in Preterm Neonates: A Systematic Review and Network Meta-analysis. JAMA Pediatr. 2021 Jun 1;175(6):e206826. doi: 10.1001/jamapediatrics.2020.6826. Epub 2021 Jun 7. PMID: 33720274; PMCID: PMC7961472.*

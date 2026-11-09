@@ -1,0 +1,61 @@
+@f 2. Recién nacido sano/2. Protocolo de atención al recién nacido sano.pdf
+@p 1
+TEMA 2.
+# PROTOCOLO DE CUIDADOS DEL RECIÉN NACIDO SANO. PARITORIO Y PLANTA DE OBSTETRICIA.
+Dra. Isabel Pescador. Actualizado en febrero de 2018
+
+La Organización Mundial de la Salud (2013) recomienda que el sistema de salud evalúe la condición de madre e hijo, apoye la lactancia materna u otra nutrición, monitorice el crecimiento del niño y capacite y apoye a los padres para que cuiden de su hijo durante el periodo neonatal ^6^.
+
+La Academia Americana de Pediatría (AAP) en sus recomendaciones de 2015 sobre alta tras el parto de niños recién nacidos (RN) a término sanos especifica unos criterios mínimos para considerar que el niño está preparado para el alta ^4^. Estas recomendaciones abarcan la evaluación de patrones de alimentación y eliminación, riesgo o presencia de hiperbilirrubinemia, factores de riesgo de sepsis, recogida adecuada de muestras para screening metabólico, realización de screening auditivo, evaluación del estado cardiovascular, estado de vacunación, y seguridad en el domicilio.
+
+## En el paritorio:
+- Test de __Apgar__ al minuto y 5 minutos tras el pinzamiento del cordón umbilical (A).
+- El __cordón umbilical__ ha de ser cortado en condiciones de asepsia y pinzado con seguridad (A).
+- __Inspección inicial__ para comprobar el estado de bienestar del RN. Si su estado es sano, la transición y la adaptación inicial puede realizarse de forma espontánea sin necesidad de manipulación (B).
+- Determinación de __gases sanguíneos en sangre arterial del cordón umbilical (A).__
+- Prevención de la hipotermia y contacto __piel con piel__ precoz con la madre.
+- __Identificación__ al RN sin separarlo de la madre. Todo RN debe ser correctamente identificado desde el momento de la ligadura del cordón umbilical.
+- Se confirmará que se realiza una __toma__ espontánea y que el enganche es adecuado.
+- Administración de __vitamina K__ de forma profiláctica para prevenir el desarrollo de una enfermedad hemorrágica en el RN (B). La administración profiláctica de vitamina K más eficaz y rentable es la IM, 1mg en los RN a término en forma de dosis única (A). Si los padres no aceptan la administración IM de vitamina K, ha de informárseles de la posibilidad de administrarla en forma oral.
+- La administración de __pomadas o colirios antibióticos__ de forma habitual a todos los RN es eficaz en prevenir la oftalmia neonatal por gonococo y, en gran medida, por C. trachomatis, es sencilla, sin riesgos para el RN y con un coste muy bajo (A).
+- Revisión de la __historia obstétrica materna__ con especial atención a los hallazgos ecográficos prenatales, el riesgo y prevención de la infección vertical.
+- __Órdenes médicas__ desde paritorio legibles y firmadas en hoja de parto para realizar en planta: Administración de gammaglobulina y vacuna de hepatitis B en RN hijo de madre VHB positiva (pautar ambas en la prescripción electrónica). Control de glucemia si bajo peso, elevado peso o hijo de madre diabética. Vigilancia de signos de infección si SGB positivo o fiebre materna intraparto.
+- __Pesar al RN__. Esta maniobra puede posponerse hasta que el periodo de contacto piel con piel inicial ha finalizado.
+
+## En planta de obstetricia:
+- Propiciar la __unión madre-hijo desde el nacimiento hasta el alta hospitalaria__, por lo que no deben existir separaciones, salvo que la salud de alguno de estos lo requiera (B). Mantener al recién nacido __identificado__ en todo momento.
+- __Primera revisión__ llevada a cabo por un médico residente, dentro de las primeras 24 horas tras el nacimiento. Recogida de datos perinatales, anamnesis y exploración física completa. Cumplimentación de datos en historia clínica electrónica. Si patología o riesgo aplicación de los protocolos desde el primer día desde el nacimiento, y solicitud de pruebas complementarias y citas en consultas externas.
+- Segunda revisión, __revisión de alta__, llevada a cabo por un médico adjunto. Exploración física completa. Recomendaciones para el alta, incluyendo comprobación de citas para pruebas complementarias y especialistas. Elaboración del informe de alta.
+- Sólo en caso de madre portadora de HBsAg, administración por parte de enfermería de la __vacuna de la hepatitis B y inmunoglobulina específica anti HBV__.
+
+Realización de la extracción de sangre de talón para __screening metabólico__ a las 48 horas de vida. Realización, por parte de la enfermera especializada, de los potenciales auditivos como __screening de hipoacusia neonatal__ antes del alta.
+
+@p 2
+## Criterios de alta:
+- Alta a las 48 horas de vida si parto vaginal, a las 72 horas si parto por cesárea.
+- Ausencia de evidencia de anormalidad neonatal detectada durante el ingreso hospitalario y la exploración física rutinaria.
+- Antes del alta, conocer el peso del RN y el estado de hidratación y nutrición.
+- Signos vitales normales y estables durante al menos las 12h previas al alta.
+- El RN presenta diuresis regular y ha eliminado al menos una vez meconio de forma espontánea (B).
+- El RN debe haber completado con éxito al menos 2 tomas, habiéndose valorado de forma favorable la coordinación, succión y respiración durante las mismas (B). Se han proporcionado a los padres datos de recocimiento de hambre.
+- No está indicada la medición rutinaria de la bilirrubina a todos los RN. Identificar y evaluar a los RN con riesgo de hiperbilirrubinemia significativa.
+- Se han comprobado los factores de riesgo de infección y, en su caso, se ha evaluado adecuadamente al RN de acuerdo con las guías para el manejo de neonatos con sospecha de sepsis de inicio precoz (A).
+- Se han revisado las serologías maternas, así como el grupo sanguíneo del RN y el test de Coombs directo cuando está indicado realizar (B).
+- Se ha administrado gammaglobulina antihepB en RN susceptibles junto con la 1ª dosis de vacuna de HBV (A).
+- Se han realizado los cribados endocrinometabólico y auditivo según los protocolos específicos establecidos en cada caso (A). Si no se ha superado la prueba de cribado auditivo se ha proporcionado a los padres la cita para repetición de la prueba y en el caso de bilateralidad se ha recogido muestra de orina para CMV y proporcionado la cita para consulta de enfermedades infecciosas.
+- Los padres han recibido información para proporcionar los cuidados adecuados al RN, confirmado la adquisición de dichos conocimientos y competencias (B).
+- Se han proporcionado instrucciones respecto al seguimiento posterior del RN, recomendando una primera cita en atención primaria a las 72 h del alta hospitalaria. Se deben dar instrucciones a seguir en caso de una complicación o emergencia (B).
+- Se ha realizado una valoración de factores de riesgo sociales. En caso de estar presentes, el alta debe ser retrasada hasta que se hayan podido resolver o se haya establecido un plan que garantice la seguridad del RN (B).
+
+@bib Bibliografía
+1. Rite Gracia S, Pérez Muñuzuri A, Sanz López E, Leante Castellanos JL, Benavente Fernández I, Ruiz Campillo CW, Sánchez Redondo MD y Sánchez Luna M, en representación del Comité de Estándares de la Sociedad Española de Neonatología. Criterios de alta hospitalaria del recién nacido a término sano tras el parto. An Pediatr (Barc) 2017; 86:289.e1-6.
+
+2. Sánchez Luna M, Pallás Alonso CR, Botet Mussons F, Echaniz Urcelay I, Castro Conde JR, Narbona E y Comisión de Estándares de la Sociedad Española de Neonatología. Recomendaciones para el cuidado y atención del recién nacido sano en el parto y en las primeras horas después del nacimiento. An Pediatr (Barc), 71 (2009), 349-36.
+
+3. Jing L, Bethancourt CN, and McDonagha T. Assessing infant and maternal readiness for newborn discharge. Curr Opin Pediatr 2017, 29.
+
+4. Benitz WE. Hospital stay for healthy term newborn infants. Pediatrics 2015; 135:948-953.
+
+5. Langan RC. Discharge Procedures for Healthy Newborns. Am Fam Physician 2006; 73: 849-52, 857-8.
+
+6. WHO, 2013. WHO Recommendations on Postnatal Care of the Mother and Newborn [Online].

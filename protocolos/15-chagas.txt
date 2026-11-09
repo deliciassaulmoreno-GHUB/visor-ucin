@@ -1,0 +1,53 @@
+@f 9. Infeccioso/15. Protocolo Chagas-1.pdf
+@p 1
+# TEMA 15. PROTOCOLO DE DETECCIÓN DE TRANSMISIÓN VERTICAL DE ENFERMEDAD DE CHAGAS EN ZONA NO ENDÉMICA.
+@caja
+Fecha de revisión: septiembre 2018.
+Autores: Itziar Marsinyach Ros
+@fin
+
+| | |
+|---|---|
+| **__Definición de E. Chagas__** | enfermedad producida tras la infección por el protozoo Tripanosoma Cruzi. |
+| **__Importancia de la enfermedad de Chagas__** | Inicialmente confinada a zonas endémicas (transmisión por insecto vector) y actualmente con frecuencia creciente en zonas no endémicas (Estados Unidos, Australia y Europa) por transmisión por otros mecanismos (transfusión de hemoderivados, trasplante de órganos, vertical). |
+| **__Prevalencia de enfermedad de Chagas en zona no endémica__** | entre el 3,5 al 9,7% y hasta 0,54-0,7% en mujeres embarazadas(1). |
+| **__Transmisión vertical__** | la más frecuente en nuestro medio (5-6%). |
+
+**__Programas de detección de enfermedad de Chagas en zona no endémica:__**
+- ✓ Importancia de detección precoz en fase inicial de la enfermedad porque aumenta la probabilidad de cura y de la prevención de la progresión de la enfermedad.
+- ✓ Indicación de cribado: universal a TODAS las gestantes latinoamericanas procedentes de América Central y América del Sur (recomendación de la OMS). Ha demostrado ser una estrategia de prevención coste-efectiva de la diseminación de la enfermedad en zona no endémica(2).
+- ✓ Cribado: Realizar SEROLOGÍA para enfermedad de Chagas a **__todas__** las gestantes/madres procedentes de América Central y América del Sur (excepción de las islas del Caribe).
+
+## __Procedimiento de cribado de madres con riesgo de E. Chagas:__
+@flujo
+{1} Se recomienda que el cribado se realice durante la gestación como parte de las serologías (TORCH) en primer trimestre, pero si esto no es posible, en cualquier momento de la gestación(3).
+v
+{2} Si tras el parto, no tiene cribado, extraer al ingreso en la planta de obstetricia.
+v
+{3} Informar a la madre.
+v
+{4} Extraer un tubo de serología (seco) a la madre en horario de mañana (de lunes a viernes).
+v
+{5} Remitir la muestra a laboratorio de serología con petición de “Serología T. Cruzi”.
+v
+{6} El resultado tarda aproximadamente 24 horas (por eso es preferible hacerlo al ingreso).
+v
+{7} Si es FIN DE SEMANA mandar un tubo de serología a Chagas de la madre a microbiología. Recoger el nombre y número de historia (entregar a adjunto de planta de neonatología que tras revisar los resultados contactará telefónicamente a la madre).
+v
+? __Resultados de la serología:__
+@cols
+[__Si la serología es negativa__ → alta.]
+---
+[__Si la serología es positiva__: // - Extraer al recién nacido __una__ muestra de sangre (en tubo de EDTA 1-2 ml) para PCR. // - Petición “extrahospitalarias” en ***Hcis.*** // - ***Rellenar petición de extrahospitalarias justificando petición*** *(figura 1).* // - Remitir a laboratorio de SIEMBRAS (avisar en el teléfono 78454 y especificar que se mandará sólo un tubo) para realización de PCR a Chagas (ésta se envía a Instituto Carlos III en Majadahonda). // - Remitir al recién nacido a consulta de __Infecciosas__ (en 15 días) para recepción de resultados, seguimiento (durante al menos 9 meses) y valorar, en función del resultado iniciar tratamiento. // - Remitir a la madre y a sus familiares para estudio a centro de salud/consulta de medicina del viajero y a los otros hijos a Infecciosas.]
+@fincols
+@finflujo
+
+@p 2
+@img 15-peticion-extrahospitalarias.png
+Figura 1. Ejemplo de hoja de petición de extrahospitalarias (en este caso para estudio de Zika).
+! La figura 1 es una foto en el PDF y se reproduce recortada.
+
+@bib __Bibliografía__
+1. González-Tomé MI, Rivera M, Camaño I, Norman F, Flores-Chávez M, Rodríguez-Gómez L, et al. Recomendaciones para el diagnóstico, seguimiento y tratamiento de la embarazada y del niño con enfermedad de Chagas. Enferm Infecc Microbiol Clin [Internet]. 2013;31(8):535–42. Available from: http://linkinghub.elsevier.com/retrieve/pii/S0213005X12003217
+2. Requena-Méndez A, Bussion S, Aldasoro E, Jackson Y, Angheben A, Moore D, et al. Cost-effectiveness of Chagas disease screening in Latin American migrants at primary health-care centres in Europe: a Markov model analysis. Lancet Glob Heal. 2017;5(4):e439–47.
+3. Flores-Chavez M, Merino F, Garcia-Bujalance S, Martin-Rabadan P, Merino P, Garcia-Bermejo I, et al. Surveillance of Chagas disease in pregnant women in Madrid (Spain), 2008-2010. Trop Med Int Heal [Internet]. 2011;16:368. Available from: http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L705899 98

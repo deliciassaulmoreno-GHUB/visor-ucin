@@ -1,0 +1,28 @@
+@f 7. Metabólico renal/18b. Hojas de tratamiento para NTP ciclada-1.pdf
+@p 1
+# HOJAS DE TRATAMIENTO PARA EL CICLADO DE LA NUTRICIÓN PARENTERAL
+! Es una hoja para rellenar e imprimir; para imprimirla usa el PDF original (enlace al final). La hoja trae dos tablas iguales; aquí se muestra una.
+
+| PEGATINA IDENTIFICATIVA |
+|---|
+| // // |
+
+**FECHA:** — VOLUMEN CALCULADO: Nutrición Parenteral — Lípidos
+
+| | Ritmo NP | Ritmo Lípidos | Glucemia | Diuresis |
+|---|---|---|---|---|
+| 0-12 h | | | | |
+| 13h | | | | |
+| 14h | | | | |
+| 15h | | | | |
+| 16h | | | | |
+| 17h | | | | |
+| 18h | | | | |
+| 19h | | | | |
+| 20h | | | | |
+| 21h | | | | |
+| 22 h | | | | |
+| 23 h | | | | |
+PAUSA: Ritmo NP a 1/ 1,5/ 2 ml/hora
+
+@pie VOLUMEN CALCULADO Nutrición Parenteral FECHA: Lípidos Ritmo NP Ritmo Lípidos Glucemia Diuresis 0-12 h 13h 14h 15h 16h 17h 18h 19h 20h 21h 22 h 23 h PAUSA: Ritmo NP a 1/ 1,5/ 2 ml/hora

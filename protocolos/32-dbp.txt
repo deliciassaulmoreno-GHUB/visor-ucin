@@ -1,0 +1,53 @@
+@f 6. Respiratorio/32. Protocolo de displasia broncopulmonar.pdf
+@p 1
+# DISPLASIA BRONCOPULMONAR
+Dra. Elena Maderuelo Rodríguez.
+Revisado julio de 2024.
+
+La displasia broncopulmonar (DBP) es una enfermedad pulmonar crónica que, como consecuencia de múltiples factores, añadidos a la inmadurez de la vía aérea, provoca una disminución del crecimiento pulmonar, tanto de la vía aérea como de los vasos pulmonares, dando lugar a una limitación en la función respiratoria de grado variable.
+! En el PDF la firma («Dra. Elena Maderuelo Rodríguez. Revisado julio de 2024.») está al pie de cada página; aquí se pone una vez, arriba.
+
+| **Edad gestacional** | **<32 semanas** | **≥32 semanas** |
+|---|---|---|
+| **Momento de evaluación** | EPM 36 sem o alta domiciliaria | >28 días pero <56 días de vida o alta domiciliaria |
+| {3} **Tratamiento con O2 >21% durante al menos 28 días^1^ más:** |
+| **DBP leve (grado 1)** | Respirando aire ambiente. | Respirando aire ambiente. |
+| **DBP moderada (grado 2)** | Necesidad^2^ de FiO2<30% | Necesidad^2^ de FiO2<30% |
+| **DBP severa (grado 3)** | Necesidad de FiO2 ≥30% y/o presión positiva (VM, CPAPn, GN >2L/min)^3^ | Necesidad de FiO2 ≥30% y/o presión positiva (VM, CPAPn, GN >2L/min)^3^ |
+*(Definición de consenso del NICHD en el año 2000)*
+
+^1^ Pacientes tratados con oxígeno > 21% y/o presión positiva o alto flujo por patología no respiratoria (ej. apneas centrales o parálisis diafragmática) no se considera DBP a no ser que desarrollen enfermedad pulmonar parenquimatosa y muestren signos clínicos de distes respiratorio. Se considera un día de tratamiento con oxígeno > 21% si lo recibe durante más de 12 horas al día.
+
+^2^ Se precisa test fisiológico confirmando la necesidad de oxígeno: **Test de reducción de oxígeno.** El diagnóstico de DBP queda establecido si falla el test de reducción de oxígeno al no poder mantener una saturación ≥90% respirando aire ambiente.
+
+^3^ El tratamiento con oxígeno FiO~2~> 30% y/o presión positiva con cualquier sistema de ventilación no invasiva o Gafas nasales con más de 2l/min (independientemente de la FiO~2~) sin el cual no se pueda mantener una saturación de oxígeno ≥ 90% a las 36 semanas de edad postmenstrual o 56 días de edad postnatal debe reflejar la terapia habitual del paciente en los días previos o posteriores a esa fecha, no un hecho puntual. En estos casos se considera DBP grave (grado 3) y no es preciso la realización de test de reducción de oxígeno.
+
+## TEST DE REDUCCIÓN DE OXÍGENO
+| | |
+|---|---|
+| **¿Cuándo?** | EPM 36 sem o 56 ddv |
+| **¿A quién?** | Pacientes con FiO2 < 30% para mantener una SaO2 > 90% en reposo o cuando, respirando una FiO2 > 30%, la SaO2 es > 96%. |
+| **¿Cómo?** | Reducción de la FiO2 hasta llegar a aire ambiente manteniendo SatO2 >90%. // Requiere monitorización continua cardiorrespiratoria y de pulsioximetría. En 4 fases: |
+
+| | |
+|---|---|
+| 1. Basal: | Saturación y necesidades de oxígeno en reposo |
+| 2. Reducción: | Si está respirando con cánulas nasales disminuyendo el flujo cada 5 minutos (condiciona descensos de la FiO2 del 20%) hasta alcanzar el 21% |
+| 3. Aire ambiente: | Se retiran las cánulas nasales durante 60 minutos |
+| 4. FiO2 inicial: | Vuelta a la asistencia inicial en caso de no superar el test |
+
+@p 2
+## MANEJO CLÍNICO PRÁCTICO:
+- Reducir la exposición a la inflamación del feto y del recién nacido prematuro (corticoides prenatales y postnatales).
+- Concentraciones de oxígeno ajustadas desde el nacimiento para evitar hiperoxia.
+- Manejo menos invasivo de la asistencia respiratoria inicial (LISA, CPAPn, SIPPVn).
+- Ventilación mecánica evitando al máximo volu/barotrauma (PSV/VAFO + VG).
+- Mejorar el estado nutricional de los RN más inmaduros, en especial <1.000 g.
+- Se pueden considerar ciclos cortos de diuréticos si edema clínico o balances positivos acumulados significativos que tengan repercusión en la asistencia respiratoria.
+- Tratamiento con dexametasona (indicaciones y pauta en PROTOCOLO 47).
+@pie Dra. Elena Maderuelo Rodríguez.
+@pie Revisado julio de 2024.
+
+@bib BIBLIOGRAFÍA:
+- *Risk factors and bronchopulmonary dysplasia severity: data from the Spanish Bronchopulmonary Dysplasia Research Network. Cristina Ramos‑Navarro · Elena Maderuelo‑Rodriguez · Ana Concheiro‑Guisan · Santiago Perez‑Tarazona ·Santiago Rueda‑Esteban · Ana Sanchez‑Torres · Manuel Sanchez‑Solis · Ester Sanz‑Lopez ·Manuel Sanchez‑Luna · GEIDIS Research Network. European Journal of Pediatrics. https://doi.org/10.1007/s00431-021-04248-z*
+- *Displasia broncopulmonar: definiciones y clasificación. Comité de Estándares de la Sociedad Española de Neonatología. M. Sánchez Luna, J. Moreno Hernando, F. Botet Mussonsa, J.R. Fernández Lorenzo, G. Herranz Carrillo, S. Rite Gracia, E. Salguero García e I. Echaniz Urcelay. An Pediatr (Barc). 2013;79(4):262.e1---262.e6*

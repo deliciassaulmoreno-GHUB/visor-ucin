@@ -1,0 +1,546 @@
+@f 10. Hematológico/TROMBOSIS NEONATAL MANEJO Y TRATAMIENTO 15-04 [Autoguardado] (1).pdf
+@p 1
+# TROMBOSIS NEONATAL: ANTICOAGULACION Y FIBRINOLISIS
+*Sonia Villar Castro*
+! El PDF es una presentación de 37 diapositivas. Cada diapositiva es aquí un apartado; las figuras y gráficas se reproducen recortadas.
+
+@p 2
+## Consideraciones especiales en periodo neonatal
+@flujo
+@cols
+[* ↓ inhibidores coagulación (AT, prot C, prot S) // * ↓actividad fibrinolítica // *↑actividad factor von Willebrand]
+---
+[*↓ factores vitK dep (II, VII,IX,X) y contacto (XI,XII) // *↓ generación de trombina (IIa)]
+@fincols
+@finflujo
+@img tromb-equilibrio.png
+EQUILIBRIO HEMOSTATICO
+@img tromb-cascada.png
+
+@p 3
+## TROMBOSIS NEONATAL
+- Más frecuente en primera infancia (neonato-lactante) y pubertad
+Período neonatal: 0,7-5,1/100.000 RN vivos (2,4-7,5/1000 ingresos UCIN)
+- **FACTORES RIESGO:**
+  - **CATETER VASCULAR CENTRAL (80-90%)**
+  - Prematuridad
+  - Cardiopatía congénita/Enfermedad renal/ SIC/ metabolopatías
+  - Infecciones
+  - Shock/Hipovolemia/ Deshidratación
+  - Asfixia perinatal/ Hipoxemia grave
+  - Cateterismo cardíaco/canalización arterial (trombosis arterial)
+  - Trombofilia
+
+@p 4
+## CLINICA
+@ancha
+| | **EXTREMIDADES** | **INTESTINO/VENA PORTA** | **RIÑON** | **AORTA/VCI** | **SNC** |
+|---|---|---|---|---|---|
+| **ARTERIAL** | - Pálidas y/o frías // - Pulso débil/ausente // - < TA | - Enterocolitis necrotizante // *(trombosis arteria mesentérica)* | - IR // - >TA // *(trombosis art renal)* | - TA MMSS>MMII | - Convulsiones // - Letargia |
+| **VENOSA** | - Edema // - Dolor // - Cianosis/hiperemia | - Hepatomegalia // - Esplenomegalia // - Alter func hepática // *(trombosis vena porta)* | - Hematuria // - Proteinuria // - Masa abdominal // *(trombosis vena renal)* | - Hematuria // - Edema MMII // *(trombosis VCI)* | - Convulsiones // - Letargia // *(TSVC)* |
+
+@p 5
+## TRATAMIENTO ANTITROMBOTICO
+- Carencia de ensayos clínicos prospectivos que evalúen TIPO y DURACION del tratamiento antitrombótico neonatal.
+- Las opciones de tratamiento se basan principalmente en un consenso de expertos basado en la escasa evidencia disponible (ACCP/CHEST)
+- **Observar vs tratar:**
+  - gravedad de la trombosis
+  - posibilidad de deterioro del órgano/extremidad
+  - presencia de comorbilidades
+  - riesgo de sangrado
+
+@p 6
+## TRATAMIENTO ANTITROMBOTICO
+| **TRATAMIENTO ANTICOAGULANTE (HNF/HBPM)** | **TRATAMIENTO FIBRINOLITICO (SK, UK, rTPA)** |
+|---|---|
+| - Previene formación trombos // - Evita progresión trombo | - Lisis trombo |
+
+@p 7
+## HEPARINA NO FRACCIONADA (HNF)
+__MECANISMO ACCION__: unión a AT III aumentando efecto inhibitorio sobre la trombina y factor Xa
+| | |
+|---|---|
+| **Difícil manejo:** | •Monitorización frecuente // •Acceso IV // •Alto grado de variabilidad en la dosis inter e intra paciente // •Niveles bajos de AT // •Mayor aclaramiento // •Resistencia a la heparina |
+| **Efectos secundarios:** | -Sangrado // -HIT // -Osteoporosis |
+| **Ventajas:** | -Bajo coste // -Rápido inicio de acción // -Rápida reversibilidad (vida media 1h) |
+@img tromb-hnf-cascada.png
+@pie AT III + HNF (-)
+
+@p 8
+## HNF:DOSIS Y MONITORIZACION
+@caja
+- **BOLO:** 75-100 U/Kg en 10 min (evaluar riesgo de sangrado)
+- **MANTENIMIENTO:** 28 U/Kg/h
+@fin
+**Recomendación prematuros:**
+| | | |
+|---|---|---|
+| <28 sem: | bolo 25 U/Kg | mantenimiento 15 U/Kg/h |
+| 28-37 sem: : | bolo 50 U/Kg | mantenimiento 15 U/Kg/h |
+@caja
+- **OBJETIVO:** ANXA 0,3-0,7 U/ml = TTPA 60-85 seg
+(4h después de la dosis de carga y después de cada cambio de dosificación)
+@fin
+*Monagle et al. Chest 2012*
+! En el PDF las dosis de prematuros son dos líneas de texto («<28 sem: bolo 25 U/Kg, mantenimiento 15 U/Kg/h» y «28-37 sem: : bolo 50 U/Kg, mantenimiento 15 U/Kg/h»); aquí van en tabla.
+
+@p 9
+## NOMOGRAMA AJUSTE DOSIS DE HNF
+@deimg
+| {6} I. Loading dose: heparin 75 units/kg IV over 10 min |
+|---|---|---|---|---|---|
+| {6} II. Initial maintenance dose: 28 units/kg per h for infants aged < 1 y; 20 units/kg per h for children aged > 1 y |
+| {6} III. Adjust heparin to maintain aPTT of 60-85 s (assuming this reflects an anti-Xa level of 0.35-0.70): |
+| **aPTT, s** | **ANXA** | **Bolus, units/kg** | **Hold, min** | **% Rate Change** | **Repeat aPTT** |
+| < 50 | <0,1 | 50 | 0 | + 10 | 4 h |
+| 50-59 | 0,1-0,34 | 0 | 0 | + 10 | 4 h |
+| 60-85 | 0,35-0,7 | 0 | 0 | 0 | Next day |
+| 86-95 | 0,71-0,89 | 0 | 0 | − 10 | 4 h |
+| 96-120 | 0,9-1,2 | 0 | 30 | − 10 | 4 h |
+| > 120 | >1,2 | 0 | 60 | − 15 | 4 h |
+| {6} IV. Obtain blood for aPTT 4 h after administration of the heparin loading dose and 4 h after every change in the infusion rate |
+| {6} V. When aPTT values are therapeutic, a daily CBC and aPTT |
+@findeimg
+@pie ANXA <0,1 0,1-0,34 0,35-0,7 0,71-0,89 0,9-1,2 >1,2
+*ACCP 2012*
+! La tabla es una imagen en inglés en el PDF y se ha copiado a mano sin traducir; la columna ANXA está añadida en azul en el original.
+
+@p 10
+## SULFATO PROTAMINA
+Reversión de heparinización con sulfato de protamina
+| **Minutos desde la última dosis de heparina** | **Dosis de protamina (mg)/100 UI HNF recibida en las 2 últimas horas** |
+|---|---|
+| <30 | 1 |
+| 30-60 | 0,5-0,75 |
+| 60-120 | 0,375-0,5 |
+| >120 | 0,25-0,375 |
+Max 50 mg. Admon en 10 min.
+
+@p 11
+## HBPM (Enoxaparina/ Clexane ®)
+__MECANISMO ACCION__: unión a AT III aumentando efecto inhibitorio sobre la trombina y factor Xa
+- **VENTAJAS:**
+  - Mayor biodisponibilidad
+  - Administración subcutánea
+  - Mayor vida media (5-7h) → > intervalo interdosis. Pico actividad 4-6h postdosis
+  - Monitorización menos intensiva
+  - Menos efectos secundarios
+
+*Since LMWH show a particulary favorable risk/benefit ratio, the decisión not to treat TE will most likely be restricted to those infants with an exceptionally high risk of hemorrhage, eg, very immature preterm neonates within the firs days of life or established IVH.*
+*Thrombosis in the critically ill neonate: incidence, diagnosis and management. Vascular Health and Risk Management 2008*
+
+@p 12
+## HBPM: DOSIS Y PAUTA DE ADMINISTRACION
+| | **TRATAMIENTO** | **PROFILAXIS** |
+|---|---|---|
+| **<2 MESES** | 1,5 mg/kg/dosis cada 12h | 0,75 mg/kg/dosis cada 12h |
+| **>2 MESES** | 1 mg/kg/dosis cada 12h | 0,5 mg/kg/dosis cada 12h |
+
+@p 13
+## Dosis mayores en nuestros pacientes ???
+149 niños tratados
+| {2} **Dosis standard (mg/Kg/12h)** | {2} **Dosis altas mg/Kg/12h** |
+|---|---|---|---|
+| < 3m | > 3m | < 3m | >3m |
+| 1.5 | 1 | 1.7 | 1.2 |
+Resultados:
+- Dosis medias requeridas en <3m: 1.83 mg/Kg.
+-El grupo de dosis altas alcanzó niveles terapéuticos + rápidamente (1 día antes) y menos venopunciones
+@img tromb-bauman.png
+Dosis requeridas por grupos de edad
+*Bauman ME. Thromb Haemost 2009; 101:86-92*
+
+@p 14
+## ENOXAPARINA: DOSIS MAYORES EN NEONATOS?
+-RNPT: 2 mg/kg/dosis cada 12h (1,5-2 mg/kg/dosis)
+-RNT: 1,7 mg/kg/dosis cada 12h (1,5-1,7 mg/kg/dosis)
+@caja
+**INDIVIDUALIZAR SEGÚN EL RIESGO HEMORRAGICO DE CADA PACIENTE**
+@fin
+*Management of thrombosis in the newborn. UpToDate 2021*
+
+@p 15
+## HBPM: MONITORIZACION
+**Actividad antiXa**
+-Determinada en una muestra tomada 4 horas después de su administración subcutánea
+-Tras inicio de tratamiento realizar 1º monitorización 4 horas después de la 2º dosis
+@caja
+**NIVEL TERAPEUTICO: anti-Xa 0,5-1 U/ml**
+**NIVEL PROFILACTICO: anti-Xa 0,1-0,3 U/ml**
+@fin
+
+@p 16
+| **F.antiXa (U/ml)** | **Ajuste próxima dosis** | **Nuevo control F antiXa** |
+|---|---|---|
+| **<0,35** | ↑25% | 4h después de la siguiente dosis de la mañana |
+| **0,35-0,49** | ↑10% | 4h después de la siguiente dosis de la mañana |
+| **0,5-1** | No cambios | 24h, a la semana y al mes (4 horas después de la dosis de la mañana) |
+| **1,1-1,5** | ↓20% | Antes de la siguiente dosis |
+| **1,6-2** | Retrasar 3h siguiente dosis , después se ↓prox dosis un 30% | Antes de la siguiente dosis y 4 horas después de la siguiente dosis de la mañana |
+| **>2** | Suspender hasta anti-Xa <0,5, después se ↓prox dosis un 40% | Antes de la siguiente dosis. Si anti-Xa >0,5 repetir cada 12 horas |
+@caja
+**Procedimientos invasivos: suspender 2 dosis de HBPM**
+@fin
+! Las flechas ↑ y ↓ de la columna de ajuste se pierden en el texto del PDF; se han copiado de la imagen.
+
+@p 17
+## SISTEMA FIBRINOLITICO: Consideraciones especiales en periodo neonatal
+@flujo
+[< Plasminógeno]
+v
+[< Plasmina]
+v
+[< Activ fibrinolitica]
+@finflujo
+@img tromb-fibrinolisis.png
+
+@p 18
+## TRATAMIENTO FIBRINOLITICO: INDICACIONES
+Los consensos actuales **no recomiendan** el tratamiento fibrinolítico, a menos que la trombosis conlleve riesgo de pérdida vital/isquemia extremidades u órganos.
+- Trombosis arterial/venosa con isquemia
+- Sindrome VCS secundaria a trombosis
+- Trombosis senos venosos con deterioro neurológico progresivo
+- Trombos auriculares de gran tamaño
+- Cardiopatías congénitas con obstrucción del shunt
+- Trombosis bilateral de venas renales
+- TEP masivo/no responde a tto anticoagulante con inestabilidad cardiovascular
+
+*Thrombolysis for intravascular thrombosis in neonates and children. Raffini. Current Opinion in Pediatrics 2009*
+
+@p 19
+## TRATAMIENTO FIBRINOLITICO: CONTRAINDICACIONES
+| | |
+|---|---|
+| 1. RN < 32 semanas de gestación (1º semana de vida) | 7. Convulsiones en las 48 horas previas |
+| 2. Asfixia severa en los 7 días previos | 8. Procedimiento invasivo en los 3 días previos |
+| 3. Antecedente de Cx mayor o hemorragia en los 10 días previos | 9. Sepsis |
+| 4. Hemorragia activa | 10. Trombopenia (<50,000)/hipofibrinogenemia (<100) |
+| 5. Neurocirugía/ hemorragia del SNC en los 30 días previos | 11.Hipertensión arterial no controlada |
+| | 12. Malformaciones arterio-venosas |
+*Thrombolysis for intravascular thrombosis in neonates and children. Raffini. Current Opinion in Pediatrics 2009*
+*MancoJohnson et al. Thromb Haemost . 2002. Scientific Subcommittee on Perinatal and Pediatric Thrombosis on behalf of the International Society of Thrombosis and Haemostasis (ISTH)*
+! En la diapositiva falta el punto 6.
+
+@p 20
+## TRATAMIENTO FIBRINOLITICO: UROKINASA
+| **Dosis inicial** | **Mantenimiento** | **Duración** |
+|---|---|---|
+| 4400 U/kg en 10 min | 4400 U/kg/h | 12-24h |
+@caja
+UK (vial 100,000 UI)
+UK -----UI + SSF 50 ml → 1 ml/h (4400 U/kg/h)
+Ej: 3 kg
+3 x 4400 x 50 /1 = 660,000 UI
+UK 660,000 UI + SSF 50 ml → 1 ml/h (4400 UI/kg/h)
+@fin
+
+@p 21
+## TRATAMIENTO FIBRINOLITICO: rTPA
+| | |
+|---|---|
+| **DOSIS BAJAS:** | 0,03-0,1 mg/kg/h (*Neonatos 0,06-0,1 mg/kg/h) |
+| **DOSIS ESTANDAR:** | 0,1-0,5 mg/kg/h |
+| **DOSIS ALTAS:** | 0,5-0,6 mg/kg/h |
+| **DURACION:** | ACCP 2008 : 0,1-0,6 mg/kg/h , 6-48 horas // Wang et al 2003: 0,03-0,06 mg/kg/h, 12-96h // UpToDate 2021: 0,1-0,2 mg/kg/h, 6h .Alternativa: 0,03 mg/kg/h, 24h |
+*Thrombolysis for intravascular thrombosis in neonates and children. Raffini. Current Opinion in Pediatrics 2009*
+
+@p 22
+## PREPARACION rTPA (Actilyse vial 20 mg)
+@flujo
+[**Concentración recomendada: 0,5 mg/ml**]
+v
+[VIAL 20 MG]
+v
+[Reconstituir vial 20 mg con 20 ml API (1 mg/ml)]
+v
+[Diluir 20 mg hasta 40 ml SSF (0,5 mg/ml) → X ml/h (0,06 mg/kg/h )]
+v
+[Ej: 3 Kg → 0,36 ml/h (0,06 mg/kg/h)]
+@finflujo
+
+@p 23
+- VIA ADMINISTRACION: local vs sistémica
+- TRATAMIENTO COADYUVANTE CON HEPARINA ???
+Iniciar heparina durante o inmediatamente después de completar el tratamiento trombolítico (HNF 10 U/Kg/h, sin bolo previo) o HBPM
+*Management of thrombosis in the newborn-UpToDate. Feb 2021*
+
+@p 24
+## TRATAMIENTO FIBRINOLITICO: MONITORIZACION
+Suplementación previa con PFC (10 ml/kg)
+- * CLINICA
+- * ECOGRAFIA: cada 6 h
+- * LABORATORIO (antes, durante y después del tto): *Hemograma/Coagulación : a las 4 horas de inicio → cada 6-8h
+
+| {2} **EFECTO TRATAMIENTO:** |
+|---|---|
+| Disminución fibrinógeno | Si fibrinógeno<100 mg/dl → PFC 10-20 ml/kg/8h |
+| Aumento D-dímero | No aumento D-dímero → PFC (10 ml/kg) + aumento dosis rtpa |
+| Aumento APTT | |
+@caja
+**MANTENER**
+- fibrinógeno > 100 mg/dl
+- plaquetas > 75.000/mm3
+@fin
+*Monagle et al. Chest 2012;141;e737S-e801S*
+*Thrombolysis for intravascular thrombosis in neonates an children. Raffini. Current Opinion in Pediatrics, 2009*
+
+@p 25
+## TRATAMIENTO FIBRINOLITICO: SEGURIDAD Y EFICACIA
+| | |
+|---|---|
+| **Hemorragia: variable (0-40%)** | Mayor: 15-20% → 1,5%HIC (RNPT, 1º sem: 25%) // Menor: 20% |
+| **Mortalidad:** | ~1,2 - 13% |
+| **Efectividad: 70-90%** | Resolución completa: 70% // Resolución parcial: 20% |
+
+@p 26
+## PROFILAXIS TROMBOSIS INTRALUMINAL: MANTENIMIENTO CATETER CENTRAL
+Mantenimiento CC con perfusión continua (luz distal)
+500 ml SG5%/SSF + Heparina sódica 1% (1000 U/ml)
+| | | | |
+|---|---|---|---|
+| **VENA:** | Heparina sódica 1% 1000 UI (1 ml) + SG5% 500 ml | 1,5 ml/h (2U/ml) | 3 U/h de Hep |
+| **ARTERIA:** | Heparina sódica 1% 500 UI (0,5ml) + SSF 500 ml | 2 ml/h (1U/ml) | 2 U/h de Hep |
+| ***Vena umbilical RNPT :** | Heparina sódica 1% 500 UI + SG5% 500 ml | 1 ml/h (1U/ml) | 1 U/h de Hep |
+| ***Vena umbilical RNT :** | Heparina sódica 1% 1000 UI + SG5% 500 ml | 1,5 ml/h (2U/ml) | 3 U/h de Hep |
+! En la diapositiva cada fila es una línea de texto.
+*CHEST 2012: For neonates with CVADs, we recommend to maintain CVAD patency with UFH continuous infusion at 0.5 units/kg per h over no prophylaxis (Grade 1A)*
+*For neonates and children with peripheral arterial catheters in situ, we recommend UFH continuous infusion at 0.5 units/mL at 1 mL/h compared with normal saline (Grade 1A) .*
+
+@p 27
+## TRATAMIENTO TROMBOSIS INTRALUMINAL (TROMBOLISIS LOCAL)
+➡ Sospechar si el catéter no refluye o deja de dar un flujo suficiente
+➡ Comprobar adecuada localización y no acodamiento
+| **UROKINASA (5000 UI/ml)** | **ALTEPLASA (rTPA) (1 mg/ml)** |
+|---|---|
+| • Infundir 110% volumen purgado luz del catéter (aumentar 0,1-0,2 ml vol purgado) // • Aspirar a los 30 min. Si no refluye mantener 1h // • No respuesta→ UK 10,000 UI/ml, mismo volumen. Valorar a los 30 y 60 min // • Si refluye, desechar volumen administrado y 1 ml de sangre, lavar con 5 ml SSF | • Infundir 110% volumen purgado luz del catéter (aumentar 0,1-0,2 ml vol purgado) // • Aspirar a los 30 min. Si no refluye mantener 1h // • No respuesta → repetir a igual concentración // • Si refluye, desechar volumen administrado y 1 ml de sangre, lavar con 5 ml SSF |
+@caja
+**__VOLUMEN SELLADO CVC__**
+__4,5, 5 y 5,5 F__ (5,8,13 cm): 0,5 ml
+__5,5 F__ (30 cm) y __7 F__: 1 ml
+@fin
+
+@p 28
+## TROMBOSIS VENOSA (RELACIONADA CON CATETER)
+__CLINICA__: mal funcionamiento del catéter, infección catéter persistente, trombopenia persistente
+@flujo
+[**CVC-TV**]
+@cols 3
+[No oclusivo (<50% luz)]
+v
+[Expectante]
+v
+[Seguimiento ecográfico]
+v
+[Progresión trombo]
+---
+[Oclusivo(>50% luz)/Sintomático]
+v
+[HBPM/ HNF 5d → HBPM]
+v
+[6 sem-3 meses]
+---
+[Compromiso vital/isquemia órgano/miembro]
+v
+[Trombolisis (rTPA) + HBPM (10 U/Kg/h)]
+@fincols
+@finflujo
+- Si posible, retirada de CVC tras 3-5 días de anticoagulación a dosis terapéuticas
+- Si CVC se mantiene una vez terminado el tto anticoagulante usar HBPM a dosis profilácticas hasta su retirada
+*CHEST 2012 (Grado 2C)*
+*Thrombosis in the critically ill neonate: incidence, diagnosis and management. Vascular Health and Risk Management 2008*
+! En la diapositiva «6 sem-3 meses» aparece tachado en rojo. De «Progresión trombo» sale una flecha hacia «6 sem-3 meses» de la rama del centro.
+
+@p 29
+## TROMBOSIS VENOSA RENAL
+- *Trombosis espontánea más frecuente en el neonato*
+- 50% condiciones protrombóticas asociadas → estudio trombofilia
+@flujo
+@cols
+[**UNILATERAL**]
+@cols
+[No daño renal/no extensión VCI]
+@cols
+[Expectante]
+v
+[Extensión trombo]
+---
+[TTO ACO (HBPM/ /HNF 5 días → HBPM) // *Duración 6 sem-3 meses*]
+@fincols
+---
+[Extensión VCI]
+v
+[TTO ACO(HBPM/ /HNF 5 días→ HBPM // *Duración 6 sem-meses*]
+@fincols
+---
+[**BILATERAL CON FALLO RENAL**]
+@cols
+[TTO ACO (HBPM/ /HNF)]
+---
+[TTO trombolítico(rtpA)+ACO (HBPM/HNF)]
+@fincols
+@fincols
+@finflujo
+*CHEST 2012 — Grado 2C*
+! En la diapositiva «Extensión trombo» lleva una flecha a «TTO ACO (HBPM/ /HNF 5 días → HBPM)».
+
+@p 30
+## TROMBOSIS SENOS VENOSOS CEREBRALES
+@flujo
+[**TSVC**]
+@cols
+[No hemorragia asociada]
+v
+[HNF/HBPM *6 sem-3 meses*]
+---
+[Con hemorragia asociada]
+v
+[*Seguimiento ecográfico*]
+v
+[Si extensión del trombo → Tto ACO (HNF/HBPM)]
+@fincols
+v
+[__DURACION__: eco 6 sem]
+@cols
+[RECANALIZACION COMPLETA → Fin tto]
+---
+[RECANALIZACION INCOMPLETA → Tto 6 semanas más (total 3 meses)]
+@fincols
+@finflujo
+*CHEST 2012 — Grado 2C*
+
+@p 31
+## TROMBOSIS AURICULA DERECHA
+- **BAJO RIESGO** → Retirada catéter con/sin tto anticoagulante. Monitorización estrecha
+- **ALTO RIESGO** → anticoagulación/trombolisis
+
+@caja
+**ALTO RIESGO:**
+*Tamaño>2cm
+*Móvil
+*Pediculado
+*Afectación v.tricúspide
+*Arritmias
+*Inestabilidad hemodinámica
+*Crecimiento a pesar de tto ACO
+@fin
+*CHEST 2012 — Grado 2C*
+
+@p 32
+## TROMBOSIS ARTERIAL RELACIONADA CON CATETER
+- Factores de riesgo: catéteres umbilicales (< riesgo a nivel T6-T9)/ catéteres arteriales periféricos
+- Retirar el catéter inmediatamente (Grado 2B).
+- Iniciar terapia anticoagulante con HNF/HBPM (10 días)
+- Evaluar terapia fibrinolítica si hay riesgo de pérdida de un miembro u órgano.
+
+*CHEST 2012*
+*Management of thrombosis in the newborn. UpToDate 2021*
+
+@p 33
+## FIBRINOLISIS:POSIBLE ESQUEMA DE ACTUACION
+@flujo
+[**TROMBOSIS ARTERIAL/VENOSA CON RIESGO VITAL/ISQUEMICO**]
+@cols
+? CONTRAINDICACIONES
+[Anticoagulación(HNF/HBPM) 10 d]
+@cols
+[Resol]
+v
+[Suspender]
+---
+[NO resol]
+v
+[HBPM (max3m)]
+@fincols
+(No respuesta)
+---
+? NO CONTRAINDICACIONES
+[Fibrinolisis]
+v
+[rTPA (0,06 mg/kg/h) 6h (+ HNF 10 U/Kg/h) → ECO]
+@fincols
+@cols 3
+[No resolución]
+---
+[R. parcial]
+v
+[HNF/HBPM hasta resol]
+---
+[R.completa]
+v
+[Suspender tratamiento]
+@fincols
+@cols
+[Riesgo vital/embólico]
+v
+[Continuar rTPA (max 0,1)]
+---
+[No riesgo vital/embólico]
+v
+[Suspender rTPA]
+v
+[Continuar HNF/HBPM]
+@fincols
+@finflujo
+! En la diapositiva las tres respuestas a la ecografía (no resolución, parcial, completa) salen del recuadro de rTPA. «No respuesta» une la anticoagulación con «Fibrinolisis». Las dos cajas de riesgo vital/embólico de la última fila cuelgan de «No resolución».
+
+@p 34
+## OCLUSION ARTERIAL AGUDA POSTCATETERISMO CARDIACO
+@caja
+**PROFILAXIS**
+Bolo HNF 100 U/kg
+Vendaje compresivo 4-6h
+Vigilar color, Tº, pulsos
+@fin
+@flujo
+[**SOSPECHA TROMBOSIS ARTERIAL**]
+v
+[HNF 4h *(Grado 1B)*]
+(*No bolo previo: 100 U/kg* // *Si bolo >4h → 50 U/kg*)
+@cols
+[Pulso (+)]
+v
+[HNF 24h]
+---
+[Pulso (-)/riesgo]
+v
+[rTPA 2h *(Grado 1C)*]
+v
+[HNF 4h]
+@cols
+[Pulso (+)]
+v
+[HNF 6h]
+---
+[Pulsos (-)]
+v
+[2º ciclo rTPA]
+v
+[HNF 6h]
+@fincols
+@fincols
+@finflujo
+@caja
+**NO RESPUESTA:**
+- Angioplastia percutánea
+-Trombectomía qx
+@fin
+*Tras resolución: HBPM 5-7 días*
+*SECIP 2013 — Sociedad y Fundación de Cuidados Intensivos Pediátricos*
+
+@p 35
+## INFARTO ISQUEMICO ARTERIAL PERINATAL
+- Localización más frecuente: territorio ACM
+- **TRATAMIENTO**
+| **No origen embólico** | **Origen cardioembólico** |
+|---|---|
+| Tratamiento conservador | HNF/HBPM |
+*CHEST 2012 — Grado 2C*
+
+@p 36
+## TROMBOFILIA
+| **INDICACIONES:** | **NIVEL I (biología molecular)** | **NIVEL II (dosificación de factores) 3-6 meses** |
+|---|---|---|
+| -Espontánea // -Gravedad desproporcionada // -Recurrente // -Localización inusual // -Historia familiar | - Mutación f.V Leiden // - Mutación gen protrombina (G20210A) // - MTHFR | -Proteína C // -Proteína S // -Antitrombina // -Homocisteina |
+
+@p 37
+@pie SE ADMITEN SUGERENCIAS… MUCHAS GRACIAS

@@ -1,0 +1,140 @@
+@f 7. Metabólico renal/62f. Ejemplo 2 tratamiento protocolo Hiperamoniemia FARHOS.pdf
+@p 1
+# ANEXO 4.1 --> TRATAMIENTO DE ELECCIÓN
+! Ejemplo de prescripción en FARHOS con un paciente de prueba («PRUEBA INFORMATICA») de 3 kg. Se copian la cabecera y las pautas tal como salen en el PDF; el diagnóstico y la edad del paciente de prueba son datos ficticios del sistema. En el PDF van resaltados en amarillo el peso y cada «Volumen a infundir». El «0» tras cada pauta es la columna «Días tto.».
+@caja
+H.G.U."Gregorio Marañón" Nº. Historia: 2069601 Cama: Cama 6238
+Nombre: PRUEBA Sexo: Varón
+Apellidos: INFORMATICA
+Fecha nac.: 01/01/1960 Edad: 62 años
+Talla: 52 cm. Peso: 3 Kg. S.C.: 0,20102 m².
+HOJA DE TRATAMIENTO FARMACOTERAPÉUTICO
+Médico prescriptor: ALBA PEREZ PEREZ
+Médico responsable:
+Alergias farmacológicas: No conocidas, Pirazolónicos
+Diagnóstico: Prueba, ARTRITIS REUMATOIDE, CANCER DE COLON Y RECTO METASTÁSICO, TRATAMIENTO
+CITOMEGALOVIRUS, AFECCIÓN ORGÁNICA GRAVE DE ENFERMEDAD AUTOINMUNE,
+Fecha de impresión: 31 de marzo de 2022 Hora: 18:42
+@fin
+
+**Descripción / Pauta / Vía de administración — Días tto.**
+## Medicación Pautada
+
+### BIOTINA *(MEDEBIOTIN FUERTE 5MG AMP (NO GUIA))*
+**30 mg C/ 24 h** — 0
+Inicio: 31/03/2022 00:00
+Vía: SONDA NASOGASTRICA
+Vía oral/SNG
+
+### ARGININA CLORHIDRATO *(ARGININA CLORHIDRATO 10% 10 ML. VIAL)*
+**750 mg Dosis única:** — 0
+Inicio: 31/03/2022 19:00
+**(250 mg/Kg./dosis)**
+Vía: INTRAVENOSA
+Dosis de carga: 250-400 mg/kg a pasar en 90-120 minutos
+**Volumen a infundir= 37.5 ml en 90-120 minutos** — *Calcular el volumen a infundir según la dosis a administrar y la concentración final tras la dilución.*
+Vía: intravenosa y central preferiblemente. (Se podría administrar también por vía oral durante períodos cortos de tiempo)
+PREPARACIÓN:
+Se administra diluido con suero glucosado al 10%
+Diluir la ampolla (10 ml) en 40 cc de suero glucosado al 5-10%, hasta volumen final: 50 cc (concentración 20 mg/mL)
+Se puede administrar en Y con ammoul, benzoato sódico y fenilbutirato sódico.
+Excepcionalmente se podría diluir junto con el ammoul en una misma perfusión.
+
+### ARGININA CLORHIDRATO *(ARGININA CLORHIDRATO 10% 10 ML. VIAL)*
+**750 mg C/ 24 h** — 0
+Inicio: 31/03/2022 00:00
+**(250 mg/Kg./dosis)**
+Vía: INTRAVENOSA
+Dosis de mantenimiento: 250 mg/kg a pasar en 24 h
+**Volumen a infundir: 1.5 ml/hora** — *Calcular el volumen a infundir según la dosis a administrar y la concentración final tras la dilución.*
+Vía: intravenosa y central preferiblemente. (Se podría administrar también por vía oral durante períodos cortos de tiempo)
+PREPARACIÓN:
+Se administra diluido con suero glucosado al 5-10% y en perfusión continua
+Diluir la ampolla (10 ml) en 40 cc de suero glucosado al 10%, hasta volumen final: 50 cc (concentración 20 mg/mL)
+Se puede administrar en Y con ammoul, benzoato sódico y fenilbutirato sódico.
+Excepcionalmente se podría diluir junto con el ammoul en una misma perfusión.
+
+### ÁCIDO CARGLÚMICO *(CARBAGLU 200 mg comp (NEONATOLOGÍA))*
+**300 mg Dosis única:** — 0
+Inicio: 31/03/2022 19:00
+**(100 mg/Kg./dosis)**
+Vía: SONDA NASOGASTRICA
+Vía oral/SNG
+1ª dosis 100 mg/Kg
+Dilución mínima 5-10 mL de agua
+
+### ÁCIDO CARGLÚMICO *(CARBAGLU 200 mg comp (NEONATOLOGÍA))*
+**75 mg C/ 6 h** — 0
+Inicio: 31/03/2022 00:00
+**(25 mg/Kg./dosis)**
+Vía: SONDA NASOGASTRICA
+Vía oral/SNG
+Dosis mantenimiento 100-250 mg/Kg/día, cada 6 h
+Dilución mínima 5-10 mL de agua
+@pie Página 1 de 3 Cama: Cama Paciente: PRUEBA INFORMATICA
+@pie Descripción / Pauta / Vía de administración Días tto.
+
+### FENILACETATO SÓDICO; SODIO,BENZOATO *(AMMONUL 10 % jeringas 10 ml)*
+**750 mg Dosis única:** **(250 mg/Kg./dosis)** — 0
+Inicio: 31/03/2022 19:00
+Vía: INTRAVENOSA
+Vía: intravenosa y central preferiblemente
+Dosis de carga: 250 mg/kg a pasar en 90-120 minutos
+**Volumen a infundir= 37.5 ml en 90-120 minutos** — *Calcular el volumen a infundir según la dosis a administrar y la concentración final tras la dilución.*
+PREPARACIÓN:
+Se administra diluido con suero glucosado al 10%
+Diluir 10 ml de la ampolla en 40 cc de suero glucosado al 10% para un volumen final de 50 cc.
+Concentración final: 20 mg/ml (máximo 50 mg/mL)
+Se puede administrar en Y con arginina.
+Excepcionalmente se podría diluir junto con la arginina en una misma perfusión.
+
+### FENILACETATO SÓDICO; SODIO,BENZOATO *(AMMONUL 10 % jeringas 10 ml)*
+**750 mg C/ 24 h** **(250 mg/Kg./dosis)** — 0
+Inicio: 31/03/2022 00:00
+Vía: INTRAVENOSA
+Vía: intravenosa y central preferiblemente
+Dosis de mantenimiento: 250-500 mg/kg a pasar en 24 h
+**Volumen a infundir: 1.5 ml/hora** — *Calcular el volumen a infundir según la dosis a administrar y la concentración final tras la dilución.*
+PREPARACIÓN:
+Se administra diluido con suero glucosado al 10% y en perfusión continua.
+Diluir 10 ml de la ampolla en 40 cc de suero glucosado al 10% para un volumen final de 50 cc.
+Concentración final: 20 mg/ml (máximo 50 mg/mL)
+Se puede administrar en Y con arginina.
+Excepcionalmente se podría diluir junto con la arginina en una misma perfusión.
+
+### HIDROXICOBALAMINA *(MEGAMILBEDOCE amp 10 mg 2 mL)*
+**10 mg C/ 24 h** — 0
+Inicio: 31/03/2022 00:00
+Vía: ORAL
+Se puede administrar vía oral/SNG y vía intramuscular.
+En caso de administración por vía intramuscular: 1 mg/día y precaución si coagulopatía.
+Evitar uso por vía intravenosa por riesgo de anafilaxia.
+
+### CARNITINA *(CARNICOR 1 g amp 5 ml)*
+**0,15 g Dosis única:** — 0
+Inicio: 31/03/2022 19:00
+**(0,05 g/Kg./dosis)**
+Vía: INTRAVENOSA
+Vía: iv (puede ser vvp). También se puede administrar vía oral/SNG mediante la presentación carnicor viales bebibles (1g en 10 mL)
+1ª dosis: 50 mg/kg iv a pasar en 90 minutos
+PREPARACIÓN EN CASO DE ADMINISTRACIÓN IV:
+Se administra diluido en SF en 15-30 min
+Diluir 1 ampolla (5 mL) en 45 mL de fisiológico: volumen final de 50 mL
+Concentración final: 20 mg/mL
+
+### CARNITINA *(CARNICOR 1 g amp 5 ml)*
+**0,075 g C/ 6 h** — 0
+Inicio: 31/03/2022 00:00
+**(0,025 g/Kg./dosis)**
+Vía: INTRAVENOSA
+Vía: iv (puede ser vvp). También se puede administrar vía oral/SNG mediante la presentación carnicor viales bebibles (1g en 10 mL)
+Dosis mantenimiento: 100 mg/kg/día cada 6 horas oral/iv.
+PREPARACIÓN EN CASO DE ADMINISTRACIÓN IV:
+Se administra diluido en SF en 15-30 min
+Diluir 1 ampolla (5 mL) en 45 mL de fisiológico: volumen final de 50 mL
+Concentración final: 20 mg/mL
+@pie Página 2 de 3 Cama: Cama Paciente: PRUEBA INFORMATICA
+
+| Fecha de impresión | Usuario | Nº. de colegiado |
+|---|---|---|
+| 31 de marzo de 2022 | ALBA PEREZ PEREZ | |

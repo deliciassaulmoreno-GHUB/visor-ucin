@@ -1,0 +1,64 @@
+@f 3. Criterios de ingreso/3.a. Protocolo criterios de ingreso en UCIN.pdf
+@p 1
+# 3.a. PROTOCOLO DE CRITERIOS DE INGRESO Y ALTA EN UNIDAD DE CUIDADOS INTENSIVOS DEL SERVICIO DE NEONATOLOGÍA
+Dra. Pescador. Primera versión:noviembre de 2017. Actualizado mayo 2022.
+
+## __CRITERIOS DE INGRESO.__
+- Inmadurez del recién nacido:
+  - Peso de nacimiento menor a 1.000 gramos independientemente de la edad gestacional.
+  - Recién nacido menor de 26 semanas.
+- Aparato cardio-circulatorio:
+  - Cardiopatías congénitas críticas.
+  - Shock con compromiso cardio-circulatorio. En este grupo se incluyen situaciones de shock séptico, cardiogénico o hipovolémico.
+  - Postquirúrgico de cirugía cardiaca, en situación de inestabilidad hemodinámica, que requieren monitorización invasiva y/o drogas vasoactivas,
+  - Arritmias con repercusión hemodinámica.
+  - Recién nacido hidrópico.
+  - Paciente portador de catéter venoso central localizado en territorio femoral.
+  - Necesidad de drogas vasoactivas de infusión continua
+- Aparato respiratorio:
+  - Síndrome dificultad respiratoria con necesidad de ventilación mecánica invasiva y/o asociado a inestabilidad hemodinámica.
+  - Malformaciones del tracto respiratorio/pulmonares (hernia diafragmática congénita, fístula traqueo-esofágica,... ).
+  - Pausas de apnea recurrentes de cualquier etiología.
+- Neurológico/ Neurocirugía:
+  - Asfixia perinatal. Encefalopatía hipóxico isquémica moderada – grave.
+  - Malformaciones mayores del sistema nervioso central (disrafias abiertas, hidrocefalias con indicación quirúrgica urgente…)
+  - Infecciones meníngeas con alteración del nivel de conciencia y/o inestabilidad clínica.
+  - Crisis convulsivas activas.
+  - Recién nacido con drenaje ventricular externo.
+  - Enfermedades neuromusculares congénitas/adquiridas.
+- Aparato digestivo:
+  - Malformaciones del tracto digestivo/pared abdominal: Onfalocele / Gastrosquisis.
+  - Enterocolitis necrotizante
+  - Obstrucción intestinal.
+  - Atresia duodenal o yeyunal.
+  - Atresia del esófago o fistula traqueoesofágica.
+  - Masas abdominales a estudio.
+  - Hemorragia digestiva alta o baja.
+@p 2
+- Aparato genitourinario:
+  - Malformaciones del tracto urinario/renales congénitas que requieren técnicas de depuración extra-renal.
+- Metabólico-renal/Endocrinológico:
+  - Sospecha/debut de error innato del metabolismo.
+  - Debut de insuficiencia suprarrenal o diabetes mellitus neonatal con acidosis metabólica significativa.
+  - Pacientes subsidiarios de técnica de depuración extra-renal.
+  - Necesidad de insulina en infusión continua
+- Hematológico:
+  - Enfermedad hemorrágica del recién nacido / Síndromes hemorrágicos
+  - Enfermedad hemolítica del recién nacido con necesidad de exanguino-transfusión o recambio sanguíneo parcial a través de catéter venoso central.
+  - Anemia congénita con repercusión hemodinámica.
+- Tumores congénitos.
+- Aparato Musculoesquelético:
+  - Alteraciones osteo-articular con compromiso cardiorrespiratorio secundario (Osteocondroplasia)
+  - Pacientes con trauma obstétrico en situación de compromiso hemodinámico.
+- Infecciones:
+  - Infecciones que cursen con inestabilidad hemodinámica o respiratoria.
+  - Pacientes que requieran aislamiento.
+- Necesidad de aislamiento de un paciente por motivos no infecciosos.
+
+## __CRITERIOS DE ALTA.__
+- Paciente que no requiere infusión continua de fármacos vasoactivos.
+- Paciente que no requiere soporte respiratorio invasivo.
+- Pacientes mayores de 26 semanas de EPM o mayores de 1.000 gramos.
+- Traslado a otro hospital.
+- Patología que motivo su ingreso en UCIN se encuentra resuelta, compensada o solo precisa completar estudio.
+

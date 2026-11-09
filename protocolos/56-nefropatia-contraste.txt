@@ -1,0 +1,71 @@
+@f 7. Metabólico renal/56. Protocolo de prevencion d e nefropatía por contraste.pdf
+@p 1
+# TEMA 56. PROTOCOLO PROFILAXIS DAÑO RENAL AGUDO ASOCIADO A LA ADMINISTRACIÓN DE CONTRASTE INTRAVENOSO
+
+@flujo
+[Paciente que va a ser sometido a cateterismo / angioTAC…]
+v
+[**MEDIDAS GENERALES:** // ✓ Asegurar **EUVOLEMIA** // ✓ Optimizar situación hemodinámica. // ✓ Valorar suspender nefrotóxicos 24 horas antes (^*^). // ✓ Minimizar uso de diuréticos en las 12 horas previas. // ✓ Evitar balance negativo en las 12 h previas.]
+v
+[Evaluar factores de riesgo]
+@cols
+[Ningún factor de riesgo]
+v
+[Medidas generales]
+---
+[Si ≥ 1 Factor de Riesgo]
+v
+[Valorar fluidoterapia con SSF iv: // ✓ Precateterismo: 5 ml/KM la hora previa. // ✓ Postcateterismo: 2 ml/KM/h x 6 horas (máximo 50 ml/h). // *La fluidoterapia es adicional a sus entradas. // **Calcular por KM (kg metabólico). // ***Si poliuria, reponer pérdidas para evitar balance negativo.]
+@fincols
+@finflujo
+
+@caja
+**Contraindicaciones relativas:**
+- Sobrecarga hídrica.
+- Edema agudo de pulmón.
+@fin
+
+@caja
+**ESCALA FACTORES DE RIESGO DRA-AC**
+- Prematuridad (EG < 34 semanas)
+- Deshidratación.
+- Sepsis.
+- Antecedente de cirugía en los 7 últimos días.
+- Hemodinámico:
+  - Hipotensión (TA<p10).
+  - Necesidad Inotrópicos.
+  - Asistencia ventricular.
+  - Antecedente PCR últimos 7 días.
+- Filtrado glomerular estimado <60 ml/min/1.73m^2^.
+@fin
+! En el PDF la escala de factores de riesgo está a la derecha y una línea la une con «Evaluar factores de riesgo»; las contraindicaciones relativas están junto al recuadro de fluidoterapia. Los recuadros de analítica basal y de controles posteriores van en rojo.
+
+@caja
+**ANALÍTICA BASAL (<24h)**
+- Plasma: Creatinina, urea, úrico, Cistatina C, ß2M.
+- Orina:
+  - Sistemático
+  - Creatinina, proteínas, albúmina, úrico, Na, K, Cl, Ca, P, Mg.
+  - Cistatina C, ß2M
+@fin
+
+@caja
+**CONTROLES ANALÍTICOS POSTERIORES**
+- Plasma: Creatinina, urea, úrico, Cistatina C, ß2M.
+- Orina:
+  - Sistemático
+  - Creatinina, proteínas, albúmina, úrico, Na, K, Cl, Ca, P, Mg.
+  - Cistatina C, ß2M
+@fin
+
+@caja
+(^*^) **NEFROTÓXICOS frecuentes en UCIP**:
+**Alteran la hemodinamia renal:** Diuréticos, IECAS, ARA-II, AINEs
+**Antibióticos**:
+Vancomicina, teicoplanina, aminoglucósidos, rifampicina, sulfadiazina, cotrimoxazol, Betalactámicos a dosis altas (p.ej, amoxicillina ≥ 100 mg/kg/d).
+**Antivirales**:
+Acyclovir, adefovir, cidofovir, tenofovir, indinavir, Foscarnet, ganciclovir, valganciclovir.
+**Antifúngicos**:
+Amfotericina B (la no liposomal), Voriconazol.
+**Inmunosupresores:** Cisplatino, methotrexate, ciclosporina, tacrolimus, everolimus, ifosfamida, Igs.
+@fin

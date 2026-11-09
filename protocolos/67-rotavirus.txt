@@ -1,0 +1,84 @@
+@f 13. Vacunación/67. Protocolo vacunación de Rotavirus en prematuros.pdf
+@p 1
+# PROCOLO 67. VACUNACIÓN FRENTE A ROTAVIRUS EN NEONATOLOGÍA
+*Sara Vigil Vázquez*
+*Versión 2.0. Última actualización: octubre 2024*
+
+## 1. INTRODUCCIÓN Y JUSTIFICACIÓN
+La infección por rotavirus es la principal causa de diarrea grave a nivel mundial, infectando prácticamente a todos los niños en los primeros 5 años de vida. Aunque la mortalidad es baja en países industrializados, hasta un 25% de los casos precisa ingreso hospitalario. El objetivo principal de la vacunación frente a rotavirus es prevenir la infección en los lactantes y niños menores de 5 años, así como evitar la enfermedad grave y la hospitalización.
+
+A pesar de la mejora de las condiciones higiénico-sanitarias, la vacunación es actualmente la única estrategia con impacto en la prevención de la enfermedad. En los países que han introducido la vacuna en sus programas de inmunización, se ha evidenciado una importante disminución de enfermedad por rotavirus con un descenso en las consultas e ingresos hospitalarios por gastroenteritis.
+
+### 1.1 Vacunación en prematuros
+Los recién nacidos prematuros menores de 32 semanas son un grupo especialmente vulnerable a la infección, ya que presentan inmadurez de las barreras cutáneo-mucosas y del sistema inmunológico, con más riesgo de enfermedad grave.
+
+La vacunación en prematuros ha demostrado inmunogenicidad y eficacia, con un perfil de seguridad similar al del recién nacido a término. Debe realizarse siguiendo la pauta temporal establecida en la ficha técnica de los preparados comerciales existentes, no debiéndose administrar en niños de mayor edad debido al riesgo de invaginación intestinal descrito. Estos pacientes con frecuencia están todavía hospitalizados cuando corresponde la administración de la primera dosis. Los datos existentes sugieren un riesgo muy bajo de diseminación e infección nosocomial cuando la vacunación se realiza durante el ingreso.
+
+## 2. VACUNAS DISPONIBLES
+@img 67-vacunas.png
+| | **ROTARIX®** | **ROTATEQ®** |
+|---|---|---|
+| *Tipo de vacuna* | Monovalente humana atenuada. | Pentavalente bovina-humana recombinada |
+| *Dosis y forma de administración* | 1,5 ml. Polvo liofilizado y disolvente para suspensión. No precisa reconstitución. | 2 ml. Tubo precargado. |
+| *Vía de administración* | Exclusivamente oral | Exclusivamente oral |
+| *Pauta* | 2 dosis. | 3 dosis. |
+| *Primera dosis* | A partir de las 6 semanas de vida y nunca después de las 20 semanas. | A partir de las 6 semanas de vida y nunca después de las 12 semanas. |
+| *Intervalo entre dosis* | 4 semanas. | 4 semanas. |
+| *EG mínima* | 27 semanas. | 25 semanas. |
+! Las fotos de las dos vacunas se han recortado del PDF.
+
+@p 2
+## 3. RECOMENDACIONES ACTUALES
+Desde noviembre de 2022 la vacunación frente a rotavirus en prematuros menores de 32 semanas de edad gestacional se encuentra incluida en el calendario vacunal en la Comunidad de Madrid, siendo Rotarix la vacuna financiada.
+
+A partir del 1 de octubre de 2024, la Comunidad de Madrid siguiendo las recomendaciones de vacunación frente a rotavirus aprobadas por el Consejo Interterritorial del Sistema Nacional de Salud de enero de 2024, amplia las indicaciones previas de vacunación frente a rotavirus a todos los lactantes nacidos a partir del 1 de agosto de 2024.
+
+## 4. PROTOCOLO DE VACUNACIÓN EN EL SERVICIO DE NEONATOLOGÍA
+### 4.1. Población objetivo
+Todos los recién nacidos ingresados en la unidad de Neonatología, clínicamente estables^*^, que permanezcan hospitalizados cuando toca iniciar la pauta de vacunación, es decir, entre las 6 y las 20 semanas desde el nacimiento.
+*^*^Clínicamente estables: Sin soporte respiratorio o soporte respiratorio con GN o CPAP nasal con FiO2 menor del 30%, no pausas de apnea. Nutrición enteral exclusiva bien tolerada.*
+
+### 4.2. Vacuna a administrar y pauta de administración
+Se administrará la vacuna financiada Rotarix.
+| **Dosis** | 1,5 ml. |
+|---|---|
+| **1ª dosis** | entre las 6-8 semanas de vida. Podría postponerse su administración hasta no más allá de las 20 semanas desde el nacimiento. // Salvo inestabilidad clínica, se administrará a los 2 meses de edad cronológica conjuntamente con el resto de las vacunas incluidas en calendario. // Pautar en FHAROS. Protocolo Neonatología vacunas 2 meses. |
+| **2ª dosis** | se administrará a los 4 meses de edad cronológica coincidiendo con el resto de las vacunas incluidas en calendario. Intervalo mínimo entre dosis: 4 semanas. |
+| **Edad máxima para finalizar la vacunación** | 24 semanas de edad postnatal. |
+
+Las ficha técnica de esta vacuna no incluyen a los RN nacidos antes las 27 semanas de edad gestacional, ya que esta población no se incluyó en los estudios científicos para obtener la licencia de cada una de las vacunas. Siguiendo las recomendaciones de la SENEO y el CAV-AEP en su documento de consenso, dado que los RN muy prematuros tienen mayor riesgo de GEA graves por rotavirus, se recomienda su vacunación tras consensuarlo con los padres.
+
+Se recomienda que la vacunación se complete con la misma vacuna que se inició.
+! En el PDF la pauta (dosis, 1ª dosis, 2ª dosis y edad máxima) es una lista; aquí va en tabla. «Pautar en FHAROS» está así en el original.
+
+@p 3
+### 4.3. Vía de administración
+__Oral.__ La administración de la vacuna se hace en mucosa yugal o mejor, por succión directa a través del dispositivo. Salvo que sea absolutamente necesario, no se administrará la vacuna por sonda oro o nasogástrica, ya que no existe evidencia científica sobre la inmunogenicidad, eficacia y efectividad de la vacuna administrada por esta vía. No obstante, si el uso de sonda fuese especialmente necesario se puede administrar como cualquier otra medicación oral.
+
+Si se observa o se sospecha firmemente que se ha tomado una dosis incompleta (por ejemplo, el niño escupe o regurgita la vacuna), puede administrarse una única dosis de reemplazo, pero esta circunstancia no se ha estudiado en los ensayos clínicos.
+
+### 4.4 Posibles efectos adversos tras su administración
+Como posibles efectos adversos frecuentes se han descrito pérdida de apetito y diarrea leves. Además se han descrito casos de invaginación intestinal asociados a la vacuna.
+
+Mantener monitorización respiratoria durante 48-72 horas tras la administración de la vacuna, especialmente en niños con inmadurez respiratoria, por el riesgo potencial de apnea.
+
+### 4.5 Contraindicaciones y precauciones
+| *GENERALES* | • Antecedente de hipersensibilidad a alguno de los componentes de la vacuna. // • Posponer en casos de enfermedad aguda febril, diarrea o vómitos. |
+|---|---|
+| *ESPECÍFICAS* | • Malformación congénita gastrointestinal no corregida que pueda predisponer a una invaginación intestinal (incluyendo divertículo de Meckel). // • Historia previa de invaginación intestinal. // • Durante la fase aguda de enterocolitis u ostomías con pérdidas elevadas y ausencia de autonomía nutricional por vía enteral. // ‣ Por el contrario, sí se podrá administrar en casos de enterocolitis ya resuelta u ostomías normofuncionantes. // • Inmunodeficiencia combinada grave. // • Intolerancia hereditaria a la fructosa, malabsorción de glucosa o galactosa o insuficiencia de sacarasa-isomaltasa. // • Recién nacidos prematuros cuyas madres recibieron medicamentos inmunosupresores, como anticuerpos monoclonales (etarnecept, infliximab, adalimumab), durante el embarazo. |
+| *OTRAS PRECAUCIONES* | No se dispone de datos de seguridad o eficacia en ensayos clínicos respecto a la administración de esta vacuna en: // • Infección VIH // ‣ Aunque no hay datos suficientes, el Comité Asesor de Vacunas Español recomienda la vacunación frente al rotavirus en niños con infección por VIH sin inmunodepresión (> 15% CD4 en < 5 años). Valorar individualmente. // • Convivientes inmunodeprimidos // • Pacientes que han recibido una transfusión de sangre o inmunoglobulinas en los 42 días anteriores a la administración de la vacuna. // ‣ Esta advertencia no se ha derivado de ningún estudio o evidencia científica específica, sino de la experiencia de otras vacunas, por lo que no contraindicaría la administración de la vacuna frente al rotavirus durante la estancia hospitalaria. // • Discrasias sanguíneas, leucemias, linfomas u otras neoplasias malignas. |
+@p 4
+! En el PDF las contraindicaciones son listas bajo tres subtítulos; aquí van en tabla. «etarnecept» está así en el original.
+
+### 4.6. Administración simultánea con otras vacunas y productos
+- Se puede administrar con todas las vacunas del calendario actual y sin necesidad de respetar ningún intervalo de tiempo entre ellas (no interfieren en la inmunogenicidad, eficacia ni seguridad).
+- No hay necesidad de restringir la alimentación antes o después de la administración.
+- No se debe mezclar con otros medicamentos.
+
+### 4.7 Medidas para la prevención de la infección a contactos
+Se mantendrán precauciones para evitar transmisión horizontal en las 2 semanas posteriores a la vacunación.
+- Aislamiento de contacto (bata y guantes).
+- Lavado de manos previo y posterior a la manipulación del paciente.
+- Estrictas medidas higiénicas en el cambio de pañales.
+
+Estas medidas incluyen a pacientes que, habiendo sido dados de alta, reingresasen en la unidad por cualquier otro motivo.

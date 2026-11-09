@@ -1,0 +1,58 @@
+@f 7. Metabólico renal/62d. Tratamiento urgente hiperamoniemia..pdf
+@p 1
+# 62d. ALGORITMO MANEJO SEGÚN NIVELES DE AMONIO: __ANEXO 3__
+*PROTOCOLO HIPERAMONIEMIA — __Revisado Febrero 2022__*
+@caja
+**URGENCIA VITAL**
+@fin
+@deimg
+@flujo
+[**HIPERAMONIEMIA > 110 µmol/l**]
+@cols
+[**Tratamiento nutricional**]
+v
+[Dieta absoluta, aportes de 10 mg/kg/min de glucosa y retirar las proteínas]
+---
+[**Tratamiento farmacológico y depurador**]
+v
+@fincols
+@cols 3
+[**Amonio 100-150 µmol/l**]
+v
+[N-carbamilglutamato // Cofactores]
+v
+[Repetir amonio en 2 horas]
+---
+[**Amonio 150-400 µmol/l**]
+v
+[N-carbamilglutamato // Cofactores // L-arginina iv // BZ+FB iv o Ammonul iv // Si > 250, canalizar vía venosa central]
+v
+[Repetir amonio en 2 horas]
+v
+? Amonio 100-150 µmol/l
+[Continuar tratamiento]
+? Amonio > 400 µmol/l
+[**Hemodialfiltración**]
+---
+[**Amonio > 400 µmol/l**]
+v
+[N-carbamilglutamato // Cofactores // L-arginina iv // BZ+FB iv o Ammonul iv // *Canalizar vía venosa central para depuración extrarrenal]
+v
+[Repetir amonio en 2 horas]
+v
+? Amonio < 400 µmol/l
+[Continuar tratamiento]
+? Amonio > 400 µmol/l
+[**Hemodialfiltración**]
+@fincols
+@finflujo
+@findeimg
+! El algoritmo es una imagen en el PDF y se ha redibujado aquí. Las tres columnas (amonio 100-150, 150-400 y > 400) son las tres ramas del tratamiento farmacológico y depurador. Tras «Repetir amonio en 2 horas», en el PDF las dos opciones de cada columna son recuadros uno al lado del otro; aquí van una debajo de otra, como preguntas en color. «Hemodialfiltración» está escrito así en el PDF.
+
+@caja
+**Valorar ECMO + hemodiafiltración si cifras amonio > 1000 *µmol/l***
+@fin
+
+***SI __PACIENTE ASINTOMÁTICO__ y cifra entre 110-150 µmol/l:** dejar a dieta absoluta, asegurar aportes de glucosa y repetir para confirmar*
+
+***FUENTE:** Protocolos de diagnóstico y tratamiento de los errores congénitos del metabolismo. AECOM. 2º edición. 2018.*

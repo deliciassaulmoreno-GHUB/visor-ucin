@@ -1,0 +1,32 @@
+@f 8. Digestivo/65. Protocolo de fortificación leche materna.pdf
+@p 1
+# __Protocolo 65. FORTIFICACIÓN LECHE MATERNA PROPIA Y DONADA__
+*Protocolo 65 — Revisión Enero 2025*
+
+El personal que manipule la leche materna debe realizar **higiene de manos y llevar mascarilla, gorro y guantes.**
+
+Con el fin de **optimizar y homogeneizar** la fortificación de la leche materna propia ó donada con FM85 se realizará de la siguiente manera:
+
+| | |
+|---|---|
+| **Leche proporcionada por la UNP**, una vez descongelada: | la auxiliar del turno que corresponda fortificará **el biberón completo** __**antes de su reparto en las**__ __diferentes__ **tomas según la tabla que se muestra abajo** (serán casi siempre cantidades de 120 ó 135 cc) y se mantendrá refrigerada en nevera hasta que se consuma completamente**.** |
+| **Leche fresca proporcionada por la madre**: | la auxiliar del turno que corresponda fortificará **el biberón completo** __**antes de su reparto en las diferentes**__ **tomas según la tabla que se muestra abajo** y se mantendrá refrigerado en nevera hasta se consuma completamente. |
+! En el PDF son dos guiones («Leche proporcionada por la UNP…» y «Leche fresca proporcionada por la madre…»); aquí cada uno es una fila.
+
+@caja
+**__NO FORTIFICAR MÁS DE 130 CC DE LECHE (tanto propia como donada) HASTA QUE SE HAYA CONSUMIDO LA QUE YA ESTÉ FORTIFICADA.__**
+@fin
+
+La fortificación se especificará en la prescripción médica: un sobre de FM85 por cada 25 cc
+
+EN la tapa del biberón que se fortifique se pegará una pegatina de **__COLOR AMARILLO__** (PRENAN FM por cada 25 cc) ) __indicando la fecha y hora de la__ __fortificación.__
+
+@ancha
+| Volumen de leche (cc) | **20** | **25-39** | **40-49** | **50-59** | **60 -74** | **75 - 79** | **80-99** | **100 –119** | **120-124** | **125-130** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| {fondo #ffff00} **FM en 25 cc** | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+
+Para cargar la toma que corresponda se sacará de la nevera el biberón fortificado y se agitará para homogenizar lo más posible la mezcla. Se cargará la cantidad correspondiente a la toma que se vaya a consumir (biberón ó jeringa según la prescripción médica) y se calentará según procedimiento habitual. Lo que reste del biberón fortificado se dejará refrigerado en nevera para la preparación de las siguientes tomas.
+
+## __Biberones de 240 cc que sean proporcionados por la UNP__
+Una vez descongelado se dividirán en dos biberones de 120 cc. Se fortificará el que se vaya a empezar a utilizar siguiendo la tabla adjunta y se pegará la pegatina correspondiente en la tapa. **Tras agotar el biberón fortificado** se realizará la fortificación del segundo biberón en cuya tapa se pegará la pegatina correspondiente.

@@ -1,0 +1,79 @@
+@f 7. Metabólico renal/17b+. Componentes de NPT pediátrica.pdf
+@p 1
+# COMPONENTES UTILIZADOS EN LA NUTRICIÓN PARENTERAL PEDIÁTRICA
+
+## __SOLUCIONES DE GLUCOSA__
+| | {7} **GRAMOS GLUCOSA/PRESENTACIÓN** |
+|---|---|---|---|---|---|---|---|
+| **PRESENTACIÓN** | **70 %** | **50 %** | **40 %** | **30 %** | **20 %** | **10 %** | **5%** |
+| **500 mL** | - | 250 g | 200 g | 150 g | 100 g | 50 g | 25 g |
+| **250 mL** | 175 g | - | 100 g | - | 50 g | 25 g | - |
+| **100 mL** | - | 50 g | - | - | - | - | - |
+
+## __SOLUCIONES DE AMINOÁCIDOS__
+| **AA ESTANDAR** | **Vol. (ml)** | **AA g/L** | **Proteínas g/L** | **N g /L** | **Na meq/L** | **Cl meq/L** |
+|---|---|---|---|---|---|---|
+| PRIMENE 10% | 250 | 100 | 100 | **15** | - | - |
+| {7} **SOLUCIONES ESPECIALES** |
+| NEPHROTECT | 250 | 100 | 101,875 | **16,3** | **-** | - |
+
+## __ELECTROLITOS__
+| **FUENTES** | **PRESENTACIÓN** | {7} **CONCENTRACIÓN (unidad/ml)** |
+|---|---|---|---|---|---|---|---|---|
+| | | **Na** (Meq) | **K** (Meq) | **Cl** (Meq) | **Ca** (Meq) | **Mg** (Meq) | **Acetato**(Meq) | **P** (mmol) |
+| Fosfato monosódico 1M | ampollas 10 mL | 1 | - | - | - | - | - | 1 |
+| Cloruro sódico 20% | miniplasco 10 mL | 3,4 | - | 3,4 | - | - | - | - |
+| Acetato sódico 1M | ampollas 10 mL | 1 | - | - | - | - | 1 | - |
+| Glicerofosfato sódico | ampollas 10 mL | 2 | - | - | - | - | - | 1 |
+| Cloruro potásico 2M | vial 20 mL | - | 2 | 2 | - | - | - | - |
+| Acetato potásico 1M | vial 50 mL | - | 1 | - | - | - | 1 | - |
+| Fosfato monopotásico 1M | ampollas 10 mL | - | 1 | - | - | - | - | 1 |
+| Sulmetin 15% | ampollas 10 mL | - | - | - | - | 1,22 | - | - |
+| Gluconato cálcico 10% | miniplasco 10 ml | - | - | - | 0,46 | - | - | - |
+
+@p 2
+## __EMULSIONES DE LÍPIDOS__
+| **EMULSIÓN LIPÍDICA** | **GRAMOS LÍPIDOS/PRESENTACIÓN** |
+|---|---|
+| {2} **LCT/ω-9** |
+| CLINOLEIC 20%, 100 ml | 20 |
+| CLINOLEIC 20%, 250 ml | 50 |
+| {2} **LCT/MCT/ ω-3/ω-9** |
+| SMOFLIPID 20 %, 100ml | 20 |
+| SMOFLIPID 20 %, 250ml | 50 |
+
+@p 3
+## __VITAMINAS__
+| | **INFUVITE^®^ Pediatric** // **5 ml** | **SOLUVIT^®^** // **10 ml** | **VITALIPID Infantil^®^** // **10 mL** |
+|---|---|---|---|
+| {4} **Contenido vial** |
+| Retinol palmitato // Retinol (vit A) | // 700mcg (2300 UI) | | 690 mcg // 2300 UI |
+| Tiamina mononitrato (Vitamina B1) // Tiamina clorhidrato | // 1,2 mg | 3,1 mg (2,5 mg) | |
+| Riboflavina-fosfato sódico (Vitamina B2) | 1,4 mg | 4,9 mg (3,6 mg) | |
+| Piridoxina clorhidrato (Vitamina B6) | 1 mg | 4,9 mg (4,0 mg) | |
+| Ascorbato sódico // Ác. Ascórbico (Vit C) | // 80 mg | 100 mg // (113 mg) | |
+| Colecalciferol (Vit D3) // Ergocalciferol (Vit D2) | 10 mcg (400 UI) | | // 10 mcg (400 UI) |
+| α−Tocoferol (vit E) | 7 mg (7 UI) | | 6,4 mg (7 UI) |
+| Fitomenadiona (vit K~1~) | 200 mcg | | 200 mcg |
+| Nicotinamida | 17 mg | 40 mg | |
+| Ac. Pantoténico | - | 15 mg | |
+| Biotina | 20 mcg | 60 mcg | |
+| Ac Fólico | 140 mcg | 400 mcg | |
+| Cianocobalamina | 1 mcg | 5 mcg | |
+! En el PDF «α−Tocoferol (vit E)» aparece con símbolos mal codificados en la tipografía; se ha copiado leyendo la imagen. Las cifras de cada casilla van a la altura de la línea a la que corresponden (por ejemplo, 700 mcg de Infuvite es «Retinol (vit A)», no «Retinol palmitato»).
+
+@p 4
+## __OLIGOELEMENTOS__
+| | | **Infutraze 10ml** | **Peditrace® No comercializado** |
+|---|---|---|---|
+| | {3} **Contenido vial** |
+| Selenio (mcg) | | 70 | 20 |
+| Molibdeno (mcg) | | | |
+| Hierro (mcg) | | | |
+| Zinc (mcg) // RNPT 400 mcg/Kg---> 1 ml (= total 500) // RNPT 200 mcg/Kg--> 0,5 ml (= total 250) | | 5000 // 500 mcg/mL | 2500 |
+| Manganeso (mcg) | | 10 | 10 |
+| Cobre (mcg) | | 400 | 200 |
+| Cromo (mcg) | | | |
+| Flúor (mcg) | | | 570 |
+| Yodo (mcg) | | 19,6 | 10 |
+! En el PDF «Infutraze 10ml» y las dos pautas de zinc para RNPT están resaltadas en verde, y «No comercializado» en amarillo.

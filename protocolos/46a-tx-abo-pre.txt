@@ -1,0 +1,43 @@
+@f 5. Hemodinámico/46.a. Protocolo sobre politica hemo derivados pre-TxABO incompatible.pdf
+@p 1
+# Tema 46a. PROTOCOLO TRANSFUSIONAL DE TRASPLANTE CARDÍACO INFANTIL ABO INCOMPATIBLE: PRE-TRANSPLANTE
+Servicio de Cardiología……………………………… (Busca 845788)
+Servicio de Banco ……. ……….……………………… (Busca 841691)
+Equipo de Perfusión de CCV Infantil .…………. (Busca 844244)
+
+## 1. ANTES DEL TRANSPLANTE
+El cardiólogo contactará con el Hematólogo de Banco de Sangre para informar de la inclusión del paciente.
+El Medico de BANCO introducirá al paciente en el programa PROGESA y creará una ficha transfusional con etiqueta especial “*Transfusión preferente de productos*”.
+*Ver TABLA DE PREFERENCIAS HEMODERIVADOS* (Hematíes leucodeplecionados, almacenados en SAG-manitol, NO lavados)
+  - CONCENTRADO DE HEMATIES → GRUPO DEL RECEPTOR **o** GRUPO 0
+  - PLASMA FRESCO → AB
+  - PLAQUETAS → AB En aquellos casos que NO dispongamos de plaquetas AB deberán ser lavadas con suero salino. (Duración proceso lavado: 2 h)
+  - **No usar sangre total** en ningún caso.
+
+## __PETICIÓN DE HEMODERIVADOS PARA PROCEDIMIENTOS PROGRAMADOS O URGENTES__
+- En procedimiento **programado:** reserva preferente en **turno de mañana** y **Contactar telefónicamente con Banco de sangre**.
+- **Especificar, en la petición de hemoderivados: plasma AB y plaquetas AB o lavadas y** en apartado de Observaciones “*CANDIDATO A TX CARDIACO ABO INCOMPATIBLE*”.
+- **Especificar en la petición** de **concentrado de hematíes,** en Observaciones: NIÑO < DE 10 KG, Concentrado de hematíes de <10 días, si es posible **Y “***CANDIDATO A TX CARDIACO ABO INCOMPATIBLE”*
+- Se añadirá una etiqueta especial (naranja fosforescente) a la petición.
+- **La disponibilidad,** en Banco de sangre, de **plaquetas tipo AB no es siempre posible.** Intentar solicitarlas en turno de mañana. **Fuera del turno de mañana hablar por teléfono con Banco**.
+
+## __PETICION DE ISOHEMAGLUTININAS__
+- Será considerado candidato a trasplante cardiaco ABO incompatible todo aquel paciente con **título de Isohemaglutininas menor o igual a 1:8.**
+- Determinación de **isohemaglutininas del receptor cada 15 días.**
+- Solicitud en **turno de mañana** (L – V).
+- Se solicitan en HEMATOLOGIA → INMUNOHEMATOLOGIA
+@p 2
+- En Motivo de la petición añadir: ***“Candidato a Tx cardiaco ABO incompatible”***
+- TUBOS DE MUESTRAS:
+  - 1 tubo con **EDTA tapón morado** (puede ser microtainer)
+  - 1 tubo **seco sin medio tapón amarillo** (NO puede ser microtainer)
+- Añadir a los tubos una **etiqueta especial** (color naranja fosforescente con la leyenda *Cardíaco ABO incompatible). **Dichas etiquetas deberán ser solicitadas por las supervisoras de enfermería de las Unidades donde el paciente esté hospitalizado (UCIN, UCIP, Planta 3C, Quirófano infantil).***
+
+## Tabla - TABLA DE HEMODERIVADOS ADECUADOS PARA TRASPLANTE CARDIACO ABO INCOMPATIBLE SEGÚN GRUPO SANGUINEO DONANTE Y RECEPTOR
+| GRUPO DONANTE* | GRUPO RECEPTOR | HEMATIES // Tipo receptor o grupo 0 | PLASMA // Tipo AB o Tipo Donante (si receptor es 0) | PLAQUETAS // Tipo AB o Tipo Donante (si receptor es 0) |
+|---|---|---|---|---|
+| AB | 0 | 0 | AB | AB |
+| B | 0 | 0 | AB o B | AB o B |
+| A | 0 | 0 | AB o A | AB o A |
+| AB o A | B | 0 o B | AB | AB |
+| AB o B | A | 0 o A | AB | AB |

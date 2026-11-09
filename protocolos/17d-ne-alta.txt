@@ -1,0 +1,22 @@
+@f 8. Digestivo/17d. Protocolo de NE al alta domiciliaria en RNPT. docx-1.pdf
+@p 1
+# __17d. Protocolo de nutrición enteral al alta domiciliaria en recién nacido pretérmino.__
+*Protocolo de nutrición enteral al alta domiciliaria en recién nacido pretérmino. Versión 2025*
+
+@caja
+**__SIEMPRE QUE SEA POSIBLE LACTANCIA MATERNA__**
+@fin
+
+| | |
+|---|---|
+| {fondo #dcefc8} < 1000 gr // < 30 semanas con RCE al alta | **LM fortificada** hasta las 40 sem de EMP (se puede prolongar hasta los 2 meses de EPM /52 sem EPM (hasta alcanzar p25 en curvas crecimiento ) // *Fortificar: 50% tomas al pecho y 50% LM extraida fortificada ó F. prematuro* // *< P10 sólo LM : NO ÉXITO* // // **Fórmula de prematuro** hasta las 40 sem de EPM (se puede prolongar hasta los 2 meses de EPM /52 sem EPM (hasta alcanzar p25 en curvas crecimiento) |
+| {fondo #dcefc8} Resto prematuros | **FA de inicio** suplementada con LC-PUFAs |
+
+@caja
+**__Suplementos__**
+- Vitamina D (seguir protocolo osteopenia)
+- Hierro oral : 2-4 mg/kg/dia ( tener en cuenta transfusiones de sangre)
+  - Inicio a partir de 15 ddv según control analítico
+  - Hasta minimo los 3 m EPM
+@fin
+! En el PDF el recuadro de suplementos va en color naranja.

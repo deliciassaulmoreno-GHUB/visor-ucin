@@ -1,0 +1,57 @@
+@f 11. Neurológico/38b. Escalas EHI.pdf
+@p 1
+# __38b. Escalas de valoración de encefalopatía hipóxico-isquémica (EHI).__
+## __a) Escala de graduación de la EHI de Sarnat .__
+Tener en cuenta que es una escala no validada para las primeras seis horas de vida.
+| | **Estadio 1** | **Estadio 2** | **Estadio 3** |
+|---|---|---|---|
+| **Nivel de conciencia** | Hiperalerta | Letargia | Estupor |
+| {4} **Neuromuscular** |
+| *Tono muscular* | Normal | Hipotonía leve | Flacidez |
+| *Postura* | Leve flexión distal | Severa flexión distal | Descerebración intermitente |
+| *Reflejos miotáticos* | Aumentados | Aumentados | Disminuidos/ausentes |
+| *Mioclonías* | Presentes | Presentes | Ausentes |
+| {4} **Reflejos** |
+| *Succión* | Débil | Débil/ausente | Ausente |
+| *Moro* | Fuerte | Débil, incompleto | Ausente |
+| *Oculovestibular* | Normal | Hiperactivo | Débil/Ausente |
+| *Tónico cervical* | Leve | Fuerte | Ausente |
+| **Función autonómica** | Simpáticas | Parasimpáticas | Ambas deprimidas |
+| *Pupilas* | Midriasis | Miosis | Variable/medias, poco reactivas |
+| *FC* | Taquicardia | Bradicardia | Variable |
+| *Secreción vía aérea* | Escasa | Profusa | Variable |
+| *Motilidad GI* | No disminuida | Aumentada | Variable |
+| **Convulsiones** | No | Común: focal o multifocal | Poco común, excluyendo descerebración |
+| **EEG** | Normal | Precoz: bajo voltaje // Tardío: patrón periódico // Convulsiones: focales | Precoz: patrón periódico con periodos isoeléctricos // Tardío: isoeléctrico |
+| **Duración** | Menos 24 horas | 2 a 14 días | Horas a semanas |
+EEG: electroencefalograma. FC: frecuencia cardiaca. GI: gastrointestinal
+
+## __b) Escala de graduación García-Alix__
+En proceso de validación para las primeras 6 horas de vida
+| **Gravedad** | {2} **Manifestaciones clínicas** |
+|---|---|---|
+| {3} **Leve** |
+| *Capacidad para despertar* | {2} Normal. |
+| *Tono muscular* | {2} Hipotonía de distribución proximal superior. |
+| *Respuestas motoras* | {2} Cantidad normal o ligeramente disminuida, calidad normal. |
+| *Reactividad* | {2} Hiperexcitabilidad: reflejos tendinosos exagerados, clonus, y/o temblor. |
+| **Moderada** | A | B |
+| *Capacidad para despertar* | Letargia o estupor moderado. | Convulsiones aisladas o repetitivas. |
+| *Tono muscular* | Alteración del tono muscular. | |
+@p 2
+| *Respuestas motoras* | Disminuidas pero de calidad normal. | |
+| *Reactividad* | Reflejos miotáticos disminuidos y reflejos primitivos débiles. | |
+| **Grave** | A | B |
+| *Capacidad para despertar* | Coma o estupor severo. | Signos de disfunción del troncoencéfalo. |
+| *Tono muscular* | Hipotonía generalizada, flacidez o postura tónica sostenida. | |
+| *Respuestas motoras* | Ausentes o estereotipadas: actitudes que remedan decorticación o descerebración o respuestas de triple flexión, convulsiones repetitivas o estado epiléptico. | |
+| *Reactividad* | Reflejos primitivos ausentes. | |
+! En el PDF la columna B ocupa todas las filas de su grado: «Convulsiones aisladas o repetitivas» es la alternativa B de toda la encefalopatía moderada, y «Signos de disfunción del troncoencéfalo» la de toda la grave.
+
+Estados de conciencia utilizados en la escala de graduación García-Alix
+| **Normal** | Normal. Despierta espontáneamente. |
+|---|---|
+| **Embotado** | Despierta con relativa facilidad pero precisa estimulación y mantiene la alerta > 6 segundos. |
+| **Letargia** | Despierta con cierta dificultad a estímulos molestos. Mantiene la alerta breves segundos (<6 segundos). |
+| **Estupor** | Despierta con dificultad a estímulo doloroso, vuelve rápidamente al "sueño" tras cesar estímulo. |
+| **Coma** | No despierta ante estímulos nociceptivos. |

@@ -1,0 +1,64 @@
+@f 13. Vacunación/61. Protocolo de transporte interhospita lario recepción y emisión de paciente.pdf
+@p 1
+# __61. PROTOCOLO DE RECEPCIÓN Y ENVÍO DE PACIENTES TRASLADADOS DESDE/HACIA OTROS HOSPITALES__
+@caja
+Versión: 1.0
+Fecha de revisión: 4/4/22.
+Autoría: Dra. Isabel Pescador Chamorro. Dra. Itziar Marsinyach Ros.
+@fin
+
+**__Objetivo del protocolo__**
+Realizar la transferencia del paciente y su documentación acompañante, de manera estandarizada, para promover el bienestar y la seguridad del paciente, así como la transmisión completa de toda la información.
+
+## __Recepción desde otros hospitales.__
+### 1. __Aceptación del ingreso del paciente__
+El servicio de emergencias correspondiente confirmará el traslado del paciente con fecha y hora de ingreso aproximadas vía telefónica al personal responsable asistencial de neonatología. Teléfonos directos de neonatología: 660200812/669347796.
+
+### 2. __Elección de cama de destino del paciente__
+Cualquiera que fuese la gravedad del paciente, si su ingreso en otro centro ha sido superior a 48 horas el destino será una de las dos camas de aislamiento de UCIN (2C15 y 2C16).
+Si el paciente presenta alguna patología respiratoria su destino también será alguna de las dos camas de aislamiento situadas en la unidad C.
+Cualquier otro paciente será ubicado en la cama de cuidados intensivos o cuidados intermedios que corresponda según el nivel de cuidados necesario.
+En los pacientes procedentes de otros centros, en los que hayan estado un tiempo superior a 48 horas, se recogerán a su ingreso muestras microbiológicas para estudio de Staphilococcus Aureus meticilin resistente y bacterias productoras de carbapenemasas.
+
+### 3. __Transferencia del paciente.__
+Proceso mediante el cual se realiza paso de información y de responsabilidad asistencial de un proveedor de cuidado (el médico que realiza el transporte) a otro (el neonatólogo de guardia).
+Es un procedimiento complejo que consta de varias fases:
+| **a)** | __Transferencia estandarizada de información según el protocolo SAVOR.__ // A la llegada del paciente, las personas responsables de su cuidado, incluyendo médicos, enfermeros y auxiliares, escucharán la transferencia de la información, sin realizar ninguna otra actividad simultáneamente, ni interrupciones. Esta sistemática de transferencia se hará siempre que la estabilidad del paciente lo permita. // La información se transferirá de forma estructurada siguiendo un protocolo SAVOR // S: situación del paciente (estabilidad y presencia de alergias). // A: antecedentes más relevantes. // V: verificación de la situación del paciente por aparatos. // O: ordenes médicas pendientes. |
+|---|---|
+| **b)** | Transferencia documental reglada que incluirá mínimo hoja de traslado del paciente con el registro de constantes y medicación administrada e informe del hospital emisor. De forma ideal también consistirá en el consentimiento informado firmado por la familia. |
+| **c)** | Verificación de la identificación del paciente con pulsera, nombre y fecha de nacimiento ratificados por familiar o por el médico responsable. |
+@p 2
+| **d)** | Preparación del puesto de destino y tratamientos o monitorización necesarios para garantizar la continuidad del cuidado. |
+| **e)** | Transferencia física del paciente pactado entre los proveedores de cuidado al ritmo que tolere el paciente. |
+| **f)** | A la llegada del paciente se debe tramitar su ingreso administrativo. Se rellenará una orden de ingreso y se enviará al familiar acompañante o a un celador, en ausencia de familiar, a la planta -1, admisión de urgencias para tramitarlo. |
+| **g)** | Se proporcionará y se solicitará la firma del consentimiento informado de ingreso en la unidad neonatal, al familiar responsable del paciente que ingresa. |
+! En el PDF las fases a)–g) son una lista; aquí van en tabla. En la sigla SAVOR el PDF solo explica S, A, V y O; no hay línea para la R.
+
+## __Envío hacia otros hospitales.__
+Si el paciente vino trasladado de otro centro y se pretende enviar de retorno al centro de origen, se contactará con el hospital de origen para acordar su recepción y la fecha de traslado.
+Si pertenece a la Comunidad de Madrid, el día del traslado, se contactará con el SUMMA 112 (llamando al teléfono 061), para solicitar un traslado neonatal.
+Si no pertenece a la Comunidad de Madrid, se contactará con control de camas (llamando al teléfono 47018) y se les proporcionará un informe de hospitalización para la gestión del traslado. El hospital de destino se encargará de enviar el recurso de traslado.
+Previo al traslado del paciente se debe extraer una muestra de exudado nasofaríngeo para PCR a COVID, con antelación suficiente para conocer el resultado antes de iniciar el traslado.
+Se proporcionará una copia impresa en papel del informe de hospitalización para los padres del paciente y otra para el hospital que recibirá al paciente. Además, se adjuntará en una carpeta toda la documentación que se desea acompañar al informe.
+
+## __Listado de verificación para la transferencia de pacientes a su llegada a o envío desde este Servicio.__
+| | **Sí/No** |
+|---|---|
+| Paciente identificado. | |
+| Transferencia de situación de estabilidad/inestabilidad del paciente. | |
+| Se ha notificado qué vías lleva el paciente. | |
+| Se ha notificado qué soporte inotrópico lleva el paciente y situación hemodinámica. | |
+| Se ha notificado qué soporte respiratorio lleva el paciente y situación respiratoria. | |
+| Se ha notificado qué fluidoterapia lleva el paciente. | |
+| Se ha notificado qué sedoanalgesia lleva el paciente y valoración del dolor. | |
+| Se ha notificado qué medicación intermitente y a qué horas se ha administrado por última vez. | |
+| Relación de otros datos o constantes no incluidos en apartados anteriores (por ejemplo temperatura). | |
+| Se ha notificado qué dispositivos porta el paciente (drenajes, sondas…). | |
+| Se ha notificado qué tipo de leche, cantidad y vía de administración toma el paciente. A qué hora se le ha administrado la última toma. | |
+| Se ha especificado quien acompaña al paciente, y si es en mismo vehículo que se traslada al propio paciente. | |
+| Se ha entregado toda la documentación que debe acompañar al paciente. | |
+| Los padres disponen de un informe de hospitalización del paciente. | |
+| Resultado del exudado nasofaríngeo para PCR a COVID. | |
+| Sistema de retención para el traslado. | |
+| Notificación de eventos adversos/fallos de dispositivos/errores durante el traslado. | |
+! La página 3 del PDF está en blanco.

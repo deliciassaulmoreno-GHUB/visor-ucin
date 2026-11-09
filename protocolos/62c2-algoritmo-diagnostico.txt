@@ -1,0 +1,61 @@
+@f 7. Metabólico renal/62c parte 2.  Protocolo Hiperamoniemia.pdf
+@p 1
+# 62c parte 2. DIAGNÓSTICO DIFERENCIAL HIPERAMONIEMIA
+*PROTOCOLO HIPERAMONIEMIA — __Revisado Febrero 2022__*
+@deimg
+@flujo
+[**HIPERAMONIEMIA > 110 µmol/l**]
+(**Solicitar estudios de 1º nivel y de 2º nivel** *(papel seco, suero y orina)*)
+@cols
+[**ACIDOSIS METABÓLICA** // Anión GAP > 20]
+[Cetonemia // Cuerpos cetónicos en orina]
+@cols
+↓↓ // + hipoglucemia
+v
+[**TRASTORNOS DE LA B OXIDACIÓN DE ÁCIDOS GRASOS**]
+---
+↑↑ // + glucemia normal o baja
+v
+[**ACIDEMIAS ORGÁNICAS**]
+@fincols
+---
+[**NO ACIDOSIS** // (generalmente alcalosis respiratoria)]
+v
+[**TRASTORNOS DEL CICLO DE LA UREA**]
+v
+Glutamina ↑
+@fincols
+@finflujo
+
+**Trastornos del ciclo de la urea según la citrulina:**
+@flujo
+@cols
+Citrulina ↓ (< 30 µmol/l)
+@cols
+Ácido orótico N o ↓
+v
+[**Deficiencia de NAGS** (↑ Ala, ↓ Arg) // **Deficiencia de CPS1** (↑ Ala, ↓ Arg)]
+---
+Ácido orótico ↑
+v
+[**Deficiencia de OTC** (↑ Ala, ↓ Arg)]
+@fincols
+---
+Citrulina N
+v
+[**Síndrome HHH** // (↑ ornitina plasma, ↑ homocitrulina orina)]
+@fincols
+@cols
+Citrulina ↑ (100 – 200 µmol/l)
+v
+[**Deficiencia de ASL** o **aciduria argininosuccínica** (ASA ↑↑↑) // **Deficiencia de ARG1** o **argininemia** (↑ Arg)]
+---
+Citrulina ↑↑↑ (> 250 µmol/l)
+v
+[**Deficiencia de ASS** o **citrulinemia tipo 1** // (↓ Arg, no ASA)]
+@fincols
+@finflujo
+
+**NAGS: N-acetil-glutamato sintetasa; CPS1: carbamilfosfatosintetasa; OTC: ornitina transcarbamilasa; ASL: argininosuccinato liasa, ARG1: arginasa 1; ASS: argininosuccinato sintetasa
+@findeimg
+! Todo el algoritmo es una imagen en el PDF y se ha copiado a mano con la página ampliada. En el PDF las cuatro ramas de la citrulina salen de «Glutamina ↑» en una sola fila; aquí van en dos filas de dos. Los recuadros de trastornos de la β-oxidación (verde), acidemias orgánicas (naranja) y trastornos del ciclo de la urea (azul) van en color.

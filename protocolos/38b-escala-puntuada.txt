@@ -1,0 +1,92 @@
+@f 11. Neurológico/38b. Escala Puntuada EHI_Español.pdf
+@p 1
+# ESCALA PUNTUADA (GARCÍA-ALIX) PARA LA ENCEFALOPATÍA HIPÓXICO-ISQUÉMICA PERINATAL
+
+| {2} **ALERTA** |
+|---|---|
+| {2} *Aplica los estímulos aumentando progresivamente la intensidad, dejando suficiente tiempo entre la aplicación de uno y otro para observar completamente la reacción del paciente* |
+| **0** | Se despierta sin dificultad y se mantiene alerta durante más de 30 seg |
+| **1** | Despierta con ligera dificultad ante el estímulo no-nociceptivo. La alerta está ligeramente reducida (7-30 seg). Si llanto se apaga poco a poco sin precisar consuelo |
+| **2** | Clara dificultad para despertar ante el estímulo nociceptivo. Cuando despierta mantiene la alerta pocos segundos (≤ 6 seg). Si alcanza el llanto, este cesa bruscamente |
+| **6** | Despierta con enorme dificultad ante el estímulo nociceptivo y vuelve rápidamente al sueño al dejar de aplicar el estímulo. Nunca alcanza el llanto |
+| **8** | No se despierta al aplicar estímulos nociceptivos |
+
+| {2} **POSTURA (TONO MUSCULAR)** |
+|---|---|
+| {2} *Con el paciente en decúbito supino, observa la posición de las piernas y de los brazos* |
+| **0** | Flexión y aducción adecuadas de las extremidades |
+| **1** | Pobre flexión y aducción de extremidades superiores |
+| **2** | Pobre flexión y aducción de extremidades superiores e inferiores |
+| **6** | Hipotonía grave o postura tónica (no persistente) |
+| **8** | Postura flácida o tónica mantenida (descerebración o decorticación) |
+@img ehi-postura.png
+
+| {2} **ACTIVIDAD MOTORA ESPONTÁNEA** |
+|---|---|
+| {2} *Sin aplicar estímulos al paciente, observa su patrón de movimientos espontáneos respecto a si involucra las diferentes partes del cuerpo, si los movimientos ocurren en diferentes direcciones y velocidad (complejidad y variabilidad), y si parece existir continuidad entre los movimientos (fluidez)* |
+| **0** | Movimientos con fluidez, variabilidad y complejidad |
+| **1** | Movimientos fluidos y variables, pero existen temblores y sacudidas excesivas |
+| **2** | Disminuidos; Monótonos con variabilidad y complejidad pobres |
+| **6** | Actividad muy disminuida |
+| **8** | No hay actividad o existe temblor continuo en reposo |
+
+| {2} **RESPUESTA MOTORA AL APLICAR ESTÍMULOS** |
+|---|---|
+| {2} *Observa la respuesta motora al aplicar estímulos de intensidad progresiva* |
+| **0** | Movimientos alternantes y vigorosos de extremidades |
+| **1** | Respuesta motora normal, pero movimientos escasos |
+| **2** | Movimientos de retirada que incluyen más allá de la extremidad estimulada |
+| **6** | Movimientos de retirada que incluyen solo la extremidad estimulada |
+| **8** | Actividad ausente o esterotipada; puede recordar a posturas de decorticación o descerebración |
+
+| {2} **REFLEJOS MIOTÁTICOS** |
+|---|---|
+| {2} *Observa la facilidad de respuesta, la amplitud, y la extensión de la zona reflexógena* |
+| {2} *Reflejo patelar; sitúa la rodilla ligeramente flexionada y percute el tendón con el martillo* // *Reflejo aductor; sitúa un dedo encima del tendón y golpea encima con el martillo* // *Reflejo aquíleo; golpea el dedo situado en la superficie plantar distal del pie* |
+| **0** | Normal |
+| **1** | Hiperactivos |
+| **2** | Hipoactivos |
+| **6** | Ausentes |
+| **8** | Respuesta inmediata sin latencia ni acostumbramiento |
+@img ehi-reflejos.png
+
+| {2} **PATRÓN RESPIRATORIO** |
+|---|---|
+| **0** | Espontánea (A) or Kussmaul (B) |
+| **1** | — |
+| **2** | Respiración periódica |
+| **6** | — |
+| **8** | Hiperpnea central (A), apneústica (B), Biot (C), atáxica (D) o apnea |
+@img ehi-resp.png
+
+| {2} **CONVULSIONES CLÍNICAS** |
+|---|---|
+| **0** | Ausentes |
+| **1** | — |
+| **2** | — |
+| **6** | Única (≤ 1/h) |
+| **8** | Repetidas (> 1/h) o status |
+
+| {2} **CRISIS EN EL ELECTROENCEFALOGRAMA INTEGRADO POR AMPLITUD** |
+|---|---|
+| {2} *Ante la sospecha en el trazado integrado por amplitud de crisis, es obligado confirmar en la línea de EEG no procesada el patrón de ondas de al menos 10 segundos de duración que apoya el diagnóstico de crisis* |
+| **0** | Ausentes |
+| **1** | — |
+| **2** | — |
+| **6** | Única (≤ 1/h) |
+| **8** | Repetidas (>1/h) or *status* |
+@img ehi-crisis.png
+
+| {2} **PATRÓN DE FONDO EN EL ELECTROENCEFALOGRAMA INTEGRADO POR AMPLITUD^*^** |
+|---|---|
+| {2} *Observa el patrón del trazado de fondo y los márgenes superior e inferior de la amplitud (voltaje) de la actividad del EEG* |
+| **0** | VCN. CVS |
+| **1** | VCN. No CVS |
+| **2** | Voltaje discontinuo |
+| **6** | Brote supresión |
+| **8** | Bajo voltaje o trazado plano |
+@img ehi-fondo.png
+
+—, no aplicable; VCN: voltaje continuo normal; h: hora; CVS: ciclos vigilia-sueño
+^*^*Voltaje continuo normal*: banda estrecha, actividad continua y variable con margen inferior >5µV y superior en 10-50µV. *Voltaje discontinuo*: banda ancha, actividad discontinua con margen inferior variable <5µV y superior >10µV. *Brote-supresión*: banda estrecha con amplitud <5µV sin variabilidad y brotes de actividad con amplitud >25µV. *Bajo voltaje*: banda estrecha con margen inferior <5µV and superior <10µV. *Trazado plano*: trazado isoeléctrico con márgenes superior en inferior <5µV. *Ciclos vigilia-sueño*: variaciones cíclicas onduladas de la amplitud con periodos de mayor ensanchamiento (sueño tranquilo) y estrechamiento de la banda (sueño activo o alerta)
+! En el PDF es una sola tabla con cinco columnas de puntuación (0, 1, 2, 6 y 8) y cada ítem con una franja de color; aquí cada ítem va en su tabla, con una fila por puntuación. Los dibujos de postura y reflejos y los trazados respiratorios y de aEEG se han recortado del PDF; en las tiras de postura, patrón respiratorio y patrón de fondo, las figuras van de izquierda a derecha en el orden de las puntuaciones (0, 1, 2, 6 y 8), con hueco donde una puntuación no lleva figura; la tira de reflejos muestra cómo explorar los tres reflejos. En el trazado de crisis, el de la izquierda es «Única» (6) y el de la derecha «Repetidas» (8). «or», «and» y «esterotipada» están así en el original.

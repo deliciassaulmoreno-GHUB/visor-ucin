@@ -1,0 +1,119 @@
+@f 10. Hematológico/9.a Protocolo de ictericia en mayores de 35 semanas.pdf
+@p 1
+# PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+*Revisado por E. Sanz, junio 2024*
+@pie 1
+
+## 1. INTRODUCCIÓN:
+**Etiología:** La ictericia neonatal precoz es generalmente debida a hiperbilirrubinemia no conjugada o indirecta.
+La existencia de hiperbilirrubinemia significativa (que requiera tratamiento), de aparición en primeras 24 horas de vida, hiperbilirrubinemia directa o prolongada obliga a investigar su etiología:
+
+| {2} **Causas de hiperbilirrubinemia neonatal** |
+|---|---|
+| **Indirecta (no conjugada)** | **Directa (conjugada)** |
+| Ictericia fisiológica // Incompatibilidad ABO // Isoinmunización Rh // Deficiencia G6PD // Esferocitosis hereditaria // Hemoglobinopatías // Policitemia // Extravasación sanguínea (ej. cefalohematoma) // Alimentación con leche materna // Galactosemia // Hipotiroidismo // Infección // Enfermedad de Crigler-Najjar // Síndrome de Gilbert // Síndrome de Lucey-Driscoll | Atresia biliar // Hepatitis neonatal idiopática // Nutrición parenteral // Quiste colédoco // Déficit alpha1-antitripsina // Fibrosis quística // Sepsis // Infección urinaria // Galactosemia // Hipotiroidismo // Medicamentosa // Enfermedad de depósito // Trisomía 18 o 21 // Síndrome de Alagille // Síndrome de Zellweger // Síndrome de Rotor // Síndrome de Dubin-Johnson |
+
+**Factores de riesgo para desarrollar ictericia clínicamente significativa:**
+- Menor edad gestacional
+- Ictericia en primeras 24 horas
+- Bilirrubina pre-alta cercana al umbral de inicio de fototerapia (FT)
+- Enfermedad hemolítica autoinmune u otras patologías hemolíticas o antecedentes familiares de enfermedad hemolítica
+- Antecedentes familiares de necesidad de FT/exanguinotransfusión
+- Lactancia materna exclusiva con aportes insuficientes
+- Cefalohematoma o sangrado local significativo,
+- Otros: síndrome de Down, macrosomía, hijo de madre diabética, policitemia.
+
+@p 2
+@pie PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+@pie 2
+## 2. CRIBADO DE ICTERICIA:
+@caja
+**Recomendación de CRIBADO de ictericia:**
+Se recomienda medir la bilirrubina transcutánea (bili Tc) o sérica (bili S) a TODOS los recién nacidos entre las 24 y las 48 horas de vida, y anotar horas de vida y valor de biliTc en HCIS.
+@fin
+**A tener en cuenta:**
+- La bili Tc sirve solo para el cribado, si la biliTc es ≥15 mg/dL o está a menos de 3 mg/dL de los valores de inicio de fototerapia, hay que confirmarlo con bili S.
+- La bili Tc puede sobreestimar los niveles de bilirrubina en pacientes con piel oscura.
+- Las determinaciones capilares de bilirrubina que se hacen en los gasómetros GEM (point of care) de la planta de Obstetricia y de Cuidados medios y UCIN, son mediciones en sangre total y, aunque es una técnica fiable, a veces pueden sobrestimar la bilirrubina total sérica.
+- La bilirrubina total sérica medida en el laboratorio es el gold estándar para decidir el inicio, modificación y retirada del tratamiento de la hiperbilirrubinemia, por lo que conviene confirmar la BiliS en una muestra enviada a laboratorio, especialmente una vez que se ha iniciado la fototerapia. Además, en laboratorio se puede determinar las fracciones conjugada/directa y no conjugada/indirecta de la bilirrubina para descartar colestasis.
+
+## 3. TRATAMIENTO DE LA HIPERBILIRRUBINEMIA
+### 3.1 Recomendación de TRATAMIENTO:
+- Para iniciar tratamiento, siempre confirmar la bilirrubina en sangre o suero, nunca guiarse por la Tc.
+- Las gráficas de tratamiento están basadas en los valores de bilirrubina total sérica. A efectos prácticos, se puede iniciar la FT con los valores de bilirrubina en sangre total medida en el gasómetro.
+- Según si el paciente presenta o no factores de riesgo de neurotoxicidad, se utilizarán gráficas diferentes:
+
+@caja
+**Factores de riesgo de neurotoxicidad:**
+- Enfermedad hemolítica autoinmune
+- Déficit de G6PDH u otras patologías hemolíticas
+- Sepsis
+- Hipoalbuminemia < 3g/dL
+- Inestabilidad clínica significativa en las 24h previas
+@fin
+
+- Además de las gráficas, existen calculadoras disponibles online para valorar el tratamiento:
+Bilitool: https://bilitool.org/
+Uptodate: https://www.uptodate.com/contents/calculator-newborn-hyperbilirubinemia-assessment-for-infants-born-at-35-weeks-gestation?search=hiperbilirrubinemia%20neonato&topicRef=5063&source=related_lin k&selectedTitle=2%7E150
+
+@p 3
+@pie PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+@pie 3
+### 3.2 FOTOTERAPIA (FT):
+- Pescribirla siempre indicando “con protección ocular” (en FARHOS, en “otras observaciones no dietéticas”).
+- Lámpara: Bililux, emite longitud de onda entre 460 y 490 nm, a través de un sistema de 20 luces LED azules.
+@img 9a-lampara.png
+
+La fototerapia se inicia con una intensidad de irradiancia del 60%, programando en la lámpara 3 indicadores led:
+@img 9a-led3.png
+
+Alimentación durante la FT: la FT puede ser interrumpida para las tomas (30 min aprox.) salvo que la biliS sea ≥ 20 mg/dL.
+
+@p 4
+@pie PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+@pie 4
+| | **3.2.1. FT SIN factores de riesgo de neurotoxicidad** | **3.2.2. FT CON factores de riesgo de neurotoxicidad** |
+|---|---|---|
+| __Mediciones de biliS durante tratamiento__ | inicialmente a las 6-8 horas, posteriormente, tras comprobación de descenso o estabilización de los valores, cada 12 horas. // Si la bilirrubina aumenta rápidamente, se intensificará la irradiancia de la fototerapia al 100%, aumentando a 5 indicadores led. | primer control a las 4-6h del inicio de la FT hasta tener controlados los niveles y posteriormente se puede espaciar a cada 12 horas. |
+| __Suspensión__ de la FT | Normalmente, cuando la bili S está al menos 2 puntos por debajo del umbral para inicio de FT. // Pero si hay __factores de riesgo de rebote (<38 semanas y/o inicio precoz de la FT en primeras 48 horas de vida y/o enfd hemolítica)__, se puede prolongar más el tiempo de fototerapia. | Normalmente si la biliS está al menos 2-3 puntos por debajo del umbral para inicio de FT. // Pero si hay factores de riesgo de rebote (<38 semanas y/o inicio precoz de la FT en primeras 48 horas de vida y/o enfd hemolítica), se puede prolongar más el tiempo de FT. |
+| __Medición de posible rebote de bili tras suspender la FT__ // __Rebote tras suspender la FT__ | Normalmente, determinar una biliS tras un periodo mínimo de 12h tras suspender la FT y preferiblemente a las 24 h de su suspensión (no hace falta prolongar ingreso para realizarlo). // Pero, si hay factores de riesgo de rebote (<38 semanas y/o inicio precoz de la FT en primeras 48 horas de vida y/o enfd hemolítica), determinar una biliS a las 6- 12 h tras suspender la FT y repetir la biliS al día siguiente de haber suspendido la FT. | Normalmente determinar una biliS tras un periodo mínimo de 12h tras suspender la FT y preferiblemente a las 24 h de su suspensión. // Pero, si hay factores de riesgo de rebote (<38 semanas y/o inicio precoz de la FT en primeras 48 horas de vida y/o enfd hemolítica), determinar una bili S a las 6 -12 h tras suspender la FT y repetir la biliS al día siguiente de haber suspendido la FT. |
+@pie Mediciones de biliS durante tratamiento Suspensión de la FT
+! En el PDF los apartados 3.2.1 (página 4) y 3.2.2 (página 5) van seguidos, cada uno con su gráfica; aquí su texto se compara en una tabla y debajo van, por orden, la gráfica de 3.2.1, la foto de 5 indicadores led y la gráfica de 3.2.2. El título de la última fila es «Medición de posible rebote de bili tras suspender la FT» en 3.2.1 y «Rebote tras suspender la FT» en 3.2.2.
+
+@img 9a-ft-sin.png
+@img 9a-led5.png
+@p 5
+@pie PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+@pie 5
+@img 9a-ft-con.png
+
+@p 6
+@pie PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+@pie 6
+### 3.3 Indicación de EXANGUINOTRANSFUSIÓN:
+Siempre antes de plantear la exanguinotransfusión, se hará tratamiento con fototerapia intensiva y, tras 2-4 horas de FT, se volverá a medir la biliS y se planteará ET según las siguientes gráficas en función de la existencia o no de riesgo de neurotoxicidad:
+3.3.1 SIN factores de riesgo de neurotoxicidad:
+@img 9a-et-sin.png
+3.3.2. CON factores de riesgo de neurotoxicidad:
+@img 9a-et-con.png
+! Las gráficas (umbrales de fototerapia y de exanguinotransfusión por horas de vida y edad gestacional, en inglés) y las fotos de la lámpara son imágenes en el PDF y se reproducen recortadas.
+
+@p 7
+@pie PROTOCOLO 9 (a): MANEJO DE LA HIPERBILIRRUBINEMIA EN EL RECIÉN NACIDO ≥ 35 SEMANAS DE EDAD GESTACIONAL
+@pie 7
+## 4. Qué NO HACER:
+@caja
+- Los niños amamantados NO deben ser rutinariamente suplementados con fórmula. El aporte adicional de líquidos (VO o IV) en RN alimentados con LM debe restringirse a aquellos con riesgo elevado de ET.
+- NO hay evidencia suficiente para justificar el uso rutinario de inmunoglobulinas IV para prevenir la ET.
+- NUNCA aplicar FT sin protección ocular.
+- NUNCA iniciar un tratamiento basado en los valores de biliTc.
+@fin
+
+@bib 5. Referencias:
+1. Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859.
+2. Protocolos de la Sociedad Española de Neonatología 2023. Capítulo 3.30: Ictericia. Colestasis. Serrano I., Gálvez Z., Rite S. ISBN 978-84-09-50796-2. Disponible en: https://www.seneo.es/index.php/publicaciones/protocolos-de-la-seneo-2023
+3. Sánchez-Redondo, et al. Recomendaciones para la prevención, la detección y el manejo de la hiperbilirrubinemia en los recién nacidos con 35 o más semanas de edad gestacional. An Pediatr (Barc). 2017.
+4. Wong RJ, Bhutani VK, Unconjugated hyperbilirubinemia in term and late preterm newborns: Initial management. UptoDate, last updated Apr 17, 2023. Disponible en: https://www.uptodate.com/contents/unconjugated-hyperbilirubinemia-in-term-and-late-preterm-newborns-initial-management?search=hiperbilirrubinemia%20recien%20nacido&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2
+5. AAP. Management of hyperbilirubinemia in the newborn infant 35 or more weeks of gestation. Pediatrics. 2004.
+6. National Institute for Health and Care Excellence (NICE): Clinical guideline on jaundice in newborn babies under 28 days (2010, updated 2023). Disponible en https://www.nice.org.uk/guidance/cg98
+7. Bahr. A New Hour-Specific Serum Bilirubin Nomogram for Neonates ≥35 Weeks of Gestation. J Pediatr. 2021.

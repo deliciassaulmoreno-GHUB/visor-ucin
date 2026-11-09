@@ -1,0 +1,36 @@
+@f 12. Procedimientos/40. Tratamiento dolor subagudo o crónico-1.pdf
+@p 1
+# TEMA 40. PROTOCOLO DE ANALGESIA FARMACOLÓGICA Y NO FARMACOLÓGICA PARA PREVENCIÓN Y TRATAMIENTO DEL DOLOR SUBAGUDO/CRÓNICO
+Autoría: Itziar Marsinyach Ros.
+Fecha de actualización: marzo 2025.
+
+**__TIPOS DE DOLOR SUBAGUDO O CRÓNICO NEONATAL__** – ventilación mecánica, dolor postoperatorio, dehiscencia de heridas, fracturas patológicas, etc.
+
+## __MEDIDAS COMUNES A TODOS LOS PACIENTES:__
+- Agrupar tarea con manipulación para respetar el sueño.
+- Valoración de dolor prolongado con escala validada: COMFORT-NEO.
+- Manipulación cuidadosa, cambio postural con contención, succión con endulzantes (lactancia materna o sacarosa 24%, ver protocolo) y evitando movimientos bruscos.
+- Favorecer presencia de los padres y fomentar su participación en la identificación de dolor.
+
+## __FARMACOTERAPIA__
+| **FÁRMACO** | **CARACTERÍSTICAS** |
+|---|---|
+| **PARACETAMOL** | **Grupo**: AINEs. // **Indicación**: dolor agudo, subagudo o crónico. Primera línea para tratamiento de dolor. No útil para dolor por procedimientos (1) // **Forma de administración:** dosis intermitentes. Inicio acción en 30 minutos. // **Dosis**: 7,5mg/kg/dosis cada 6-8 horas intravenoso u oral/enteral. // **Datos seguridad:** múltiples estudios. Precaución en pretérminos y evitar en pacientes con daño hepático. Osmolaridad muy elevada. Prolonga el tiempo de protrombina. // **Presentación**: solución enteral 100mg/ml, infusión intravenosa 1000mg/100ml. // **Efectos secundarios:** afectación hepática. |
+| **METAMIZOL MAGNÉSICO o SÓDICO.** | **Grupo:** Pirazolona. Efecto analgésico, espasmolítico y antipirético. // **Indicación:** dolor subagudo o crónico **__refractario__** a tratamiento con paracetamol y opioides. // **Forma de administración:** dosis intermitentes o perfusión continua. // **Seguridad:** Uso fuera de ficha técnica en neonatos y lactantes pequeños. Uso restringido en EEUU y algunos países europeos. Pocos datos de seguridad. No utilizar en prematuros. // **Dosis:** pauta intravenosa 20-40mg/kg/dosis cada 6-8 horas. Pauta oral/enteral 10-15 mg/kg/dosis cada 6-8 horas. Infusión continua 3,3 a 6,6 mg/kg/hora. // **Presentación:** i.v. Nolotil® (metamizol magnésico) ampollas 2g/5ml y solución oral Metalgial® (metamizol sódico) 500mg/ml. // **Efectos secundarios:** hipotensión, leucopenia, neutropenia y trombopenia. |
+| **CLORURO MÓRFICO** | **Grupo:** Opioides. // **Indicación:** Segunda línea para tratamiento de dolor agudo/subagudo/crónico y primera línea en dolor intenso/agitación. // **Forma de administración:** intravenosa o subcutánea en dosis intermitentes o perfusión continua. // **Seguridad:** estudios a corto y largo plazo de seguridad en pacientes a término y pretérmino. // **Dosis:** bolos a 0,05-0,1mg/kg/dosis cada 4-6 horas y perfusión continua 5 a 20mcg/kg/hora. // **Presentación:** ampollas 1mg/1ml. // **Efectos secundarios**: depresión respiratoria, íleo intestinal, retención urinaria, hipotensión, tolerancia, abstinencia, náuseas y vómitos. |
+| **FENTANILO** | **Grupo:** opioide sintético. // **Indicación:** Segunda línea para tratamiento de dolor agudo/subagudo/crónico y primera línea en dolor intenso/agitación. // **Forma de administración:** intravenosa en perfusión continua (efecto rápido de corta duración en bolos, ideal para procedimientos: ver protocolo PROCEDIMIENTOS). // **Seguridad:** estudios a corto y largo plazo de seguridad en pacientes a término y pretérmino. // **Dosis:** Infusión continua 1-10mcg/kg/hora. // **Presentación:** ampollas 150mcg/3ml. // **Efectos secundarios:** rigidez torácica, depresión respiratoria, íleo intestinal, retención urinaria, hipotensión, tolerancia y abstinencia. |
+| **MIDAZOLAN** | **Grupo:** Benzodiacepinas. // **Indicación:** Tratamiento de dolor (como coadyuvante) y/o estrés de tercera línea en pacientes ya tratados con opiáceos. // **Forma de administración:** perfusión continua (efecto rápido y poco duradero muy útil en bolos para procedimientos: ver protocolo PROCEDIMIENTOS). // **Seguridad:** no recomendado su uso en población neonatal (especialmente pretérminos) por estudios a largo plazo con peores resultados en neurodesarrollo y relacionado con neuroapoptosis en modelos animales neonatales. Ponderar riesgo/beneficio en paciente grave. // **Dosis:** Infusión continua 1 a 4mcg/kg/minuto. // **Presentación:** ampollas 1mg/1ml o ampollas 15mg/3ml. // **Efectos secundarios:** depresión respiratoria, hipotensión, tolerancia. |
+| **DEXMEDETOMIDINA** | **Grupo:** Agonistas alfa-2. // **Indicación:** Tratamiento de dolor/estrés de cuarta línea en pacientes ya tratados con opiáceos/midazolan que han desarrollado taquifilaxia o para rotación de pauta de sedo-analgesia. Uso de primera línea en pacientes cardiópatas (individualizar) con trastornos del ritmo cardíaco. // **Forma de administración:** Infusión continua. // **Seguridad:** escasos estudios de seguridad a medio-largo plazo en neonatos. Fármaco muy extendido en población pediátrica y adultos // **Dosis:** perfusión continua 0,1 a 0,5 mcg/kg/hora. Inicio a bajas dosis en neonatos (respecto población pediátrica o adulta) por menor aclaramiento plasmático // **Presentación:** vial 100mcg/ml. // **Efectos secundarios:** bradicardia, hipotensión (simpaticolíticos). |
+! En el PDF «DEXMEDETOMIDINA» está partido en dos líneas («DEXMEDETOMI-DINA»). En el paracetamol, «Grupo: AINEs» está así en el original.
+
+@p 2
+@bib BIBLIOGRAFÍA
+1. Ohlsson A, Shah PS. Paracetamol (acetaminophen) for prevention or treatment of pain in newborns. The Cochrane database of systematic reviews. 2016;10:CD011219.
+2. American Academy of Pediatrics Committee on F, Newborn, American Academy of Pediatrics Section on S, Canadian Paediatric Society F, Newborn C, Batton DG, et al. Prevention and management of pain in the neonate: an update. Pediatrics. 2006;118(5):2231-41.
+3. Bellu R, de Waal K, Zanini R. Opioids for neonates receiving mechanical ventilation: a systematic review and meta-analysis. Archives of disease in childhood Fetal and neonatal edition. 2010;95(4):F241-51.
+4. Gibbins S, Stevens BJ, Yamada J, Dionne K, Campbell-Yeo M, Lee G, et al. Validation of the Premature Infant Pain Profile-Revised (PIPP-R). Early human development. 2014;90(4):189-93.
+5. Hall RW, Anand KJ. Pain management in newborns. Clin Perinatol. 2014;41(4):895-924.
+6. Ng E, Taddio A, Ohlsson A. Intravenous midazolam infusion for sedation of infants in the neonatal intensive care unit. The Cochrane database of systematic reviews. 2012;6:CD002052.
+7. Ceelie I, de Wildt SN, van Dijk M, van den Berg MM, van den Bosch GE, Duivenvoorden HJ, et al. Effect of intravenous paracetamol on postoperative morphine requirements in neonates and infants undergoing major noncardiac surgery: a randomized controlled trial. JAMA. 2013;309(2):149-54.
+
+*Dra. Itziar Marsinyach Ros. Neonatología. HGUGM. Fecha revisión: marzo 2025*

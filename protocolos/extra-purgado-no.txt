@@ -1,0 +1,87 @@
+@f 6. Respiratorio/Purgado de óxido nítrico
+# PUESTA EN MARCHA TERAPIA INOmax DSiR
+! Transcrito de las fotos de la hoja plastificada de la unidad que aportaste (dos caras). No hay PDF original. Lo que no se lee en las fotos se marca con «…» y no se ha completado. Los rótulos en cursiva son los pies de las fotos pequeñas de la hoja. Las fotos de la hoja están al final.
+
+@deimg
+Comprobar que las conexiones del equipo (2 de alta presión y 2 de baja presión) están correctamente conectadas al INOmax ® DSiR. Encender el equipo presionando el interruptor negro que se encuentra en la parte trasera del equipo.
+*Conectores alta presión — Conectores baja presión*
+
+## 1 Prueba de fuga
+Para comprobar que no hay fugas en el sistema:
+Comprobar que las dos botellas están cerradas.
+Abrir y cerrar la válvula de una de las botellas, con la que iniciaremos la terapia y comprobar durante 30 segundos que la aguja de su manómetro no se mueve.
+*Válvula — Manómetro*
+
+## 2 Prueba de purga
+@flujo
+[1º Preparar el módulo inyector para las pruebas de purga y rendimiento]
+v
+[2º Conectar el tubo de O~2~ a una fuente auxiliar de O~2~ y establecer un flujo de 15L/min]
+v
+[3º Fijar NO a 40ppm. Para ello, presionar “NO” del dosificador de la pantalla, selecionar dosis de 40ppm con la rueda y confirmar volviendo a presionar “NO” de la pantalla]
+(Rueda de control)
+v
+[4º Esperar que aparezca la alarma “presión NO/N~2~ baja”. Cuando los valores de NO y NO~2~ sean menores que 1 la purga ya está terminada]
+@finflujo
+
+* **Importante**: durante la prueba de purga las dos botellas que aparecen en la pantalla parpadean en color rojo y aparece la alarma “ válvula de cilindro cerrada”. Si no es así, comprobar que la válvula de los cilindros está bien cerrada. La aguja del manómetro tiene que ir bajando hasta valor 0. También suena la alarma “ NO~2~ alto”.
+
+## 3 Prueba de rendimiento
+Abrir la misma botella de NO que hemos usado en el punto 1 ( la otra botella permanecerá cerrada) y bajar el NO a 20 ppm (presionar «NO» del dosificador de la pantalla y con la rueda de control seleccionar 20 ppm, confirmar presionando de nuevo «NO») manteniendo el flujo de O~2~ a 15 L/min. Comprobar que los valores monitorizados están dentro de los límites aceptables:
+
+@caja
+**O~2~: 98 % (±2) — NO~2~: __<__1,5 ppm — NO: 16 – 24 ppm**
+@fin
+
+* **Importante:** cada vez que seleccionamos una nueva dosis de NO, se deben modificar las alarmas de monitorización de NO según criterio clínico. Los valores más comunes son un 50% más del valor pautado en el límite superior y un 50% menos en el inferior. En la prueba de rendimiento a 20ppm, las alarmas estándar serían 30ppm para el límite superior y 10ppm para el inferior. Para modificar los valores de las alarmas, presionar en el botón de la alarma que se quiere modificar, seleccionar el valor con la rueda y confirmar volviendo a presionar el botón de la alarma.
+**Otra opción es en este momento de la prueba de rendimiento, poner las alarmas de monitorización de NO a 0 (límite inferior) y a 90 (límite superior). De este modo, durante el tratamiento no deberán modificarse cada vez que se paute una nueva dosis de NO.**
+
+## 4 Introducción de datos del paciente (OPCIONAL)
+Antes de conectar el equipo al respirador, …
+@flujo
+[1º Presionar el botón “paciente”]
+v
+(Aparece teclado alfanumérico)
+[2º … datos del paciente …]
+@finflujo
+! El texto pequeño del paso 4 está demasiado borroso en la foto para leerlo entero; solo se ha copiado lo legible. Debajo de las pantallas hay una nota «*Importante: …» que tampoco se lee.
+
+## 5 Conexión al respirador
+- si se deja el circuito presurizado: conectar durante los primeros 10 minutos después de terminar la puesta en marcha.
+- si se deja el circuito despresurizado (cerrar botella y purgar) la puesta en marcha dura hasta 12 horas, … conectarse durante este periodo de tiempo sin necesidad de repetir la puesta en marcha.
+! En el paso 5 el final de la primera línea y el trozo marcado con «…» de la segunda se leen mal en la foto; compruébalos en la hoja.
+
+## 6 Calibración diaria del límite inferior de los gases de monitorización (O~2~, NO~2~ y NO)
+@flujo
+{1} 1º Presionar el botón
+v
+{2} 2º Presionar el botón “low cal”
+v
+{3} 3º Volver a presionar el botón “low cal” // Aparecen las tres barras de progreso
+v
+{4} Se inicia la calibración
+v
+{5} 5º La calibración finaliza cuando aparecen las tres barras de progreso en color verde
+v
+{6} 6º Volver a la pantalla principal presionando dos veces el botón
+@finflujo
+! En la hoja cada paso lleva una captura de la pantalla del INOmax. En los pasos 1º y 6º el botón que hay que presionar es un dibujo en la hoja (se ve en la foto de la cara 2). El paso 4 solo tiene la captura y el rótulo «Se inicia la calibración»; el texto del 3º se lee con dificultad.
+
+## 7 Cambio de botella vacía durante la terapia
+El cambio de botella durante la terapia debe realizarse **ANTES** de que el manómetro de la botella que se está usando marque una presión de «0».
+
+1.-Realizar una «purga rápida» de la botella llena. Para ello, desconectar su **conexión de baja presión** situada en la parte trasera del monitor y presionarla durante unos segundos en **el punto de purga.**
+Importante: La válvula de la botella debe estar cerrada.
+2. Abrir la válvula de la botella llena.
+3. Cerrar la válvula de la botella vacía.
+4. Realizar una «purga rápida» (ver paso 1) de la botella vacía hasta que su manómetro indique una presión de «0».
+5. Retirar la botella vacía del INOmax DSIR® desconectando su conexión de alta presión (de rosca) y conectar una nueva botella.
+6. Anotar en el «libro de control de terapias» la fecha y hora del cambio de botella así como el nº de la botella con la que continuamos la terapia
+*Conexiones de baja presión — Punto de purga*
+@findeimg
+
+## Fotos de la hoja
+**Cara 1**
+@img no-purgado-cara1.jpg
+**Cara 2**
+@img no-purgado-cara2.jpg

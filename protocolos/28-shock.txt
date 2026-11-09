@@ -1,0 +1,61 @@
+@f 5. Hemodinámico/28. Protocolo Shock neonatal-1.pdf
+@p 1
+# 28. PROTOCOLO SHOCK NEONATAL
+Ana Rodríguez Sánchez de la Blanca
+Revisado: febrero 2025
+
+## DEFINICIÓN
+Situación hemodinámica de incapacidad para mantener un adecuado equilibrio entre el transporte de oxígeno y el consumo a nivel de los tejidos, que da lugar a hipoxia tisular y fallo metabólico celular.
+
+## TIPOS
+I. __CARDIOGÉNICO:__ se relaciona con un fallo cardíaco con incapacidad para mantener un adecuado gasto sistémico. *Ejemplos: insuficiencia cardíaca, arritmias, postoperatorio de cirugía cardíaca, isquemia miocárdica*
+
+II. __HIPOVOLÉMICO:__ derivado de una pérdida sanguínea rápida y masiva. *Ejemplos: hemorragias, grandes quemados, aumento de permeabilidad capilar (sepsis)/tercer espacio (obstrucción intestinal, enterocolitis)*
+
+III. __DISTRIBUTIVO:__ consecuencia de disfunción vasomotora. Dentro de este grupo se incluyen:
+- __ANAFILÁCTICO__: reacción sistémica grave de hipersensibilidad por exposición a una sustancia sensibilizante
+- __NEUROGÉNICO__: alteración en el tono vasomotor/ lesión medular
+- __SÉPTICO__: infección
+
+## SIGNOS CLÍNICOS
+@flujo
+@cols
+[[Taquicardia // Taquipnea // Hipotensión // Relleno capilar enlentecido // Piel fría/ Vasodilatación]]
+---
+[[Oliguria // Acidosis metabólica // Hiperlactacidemia // Deterioro del nivel de conciencia]]
+@fincols
+@finflujo
+
+## OBJETIVOS DEL TRATAMIENTO
+- Normalización de las cifras de TA, relleno capilar < 2 segundos, corrección de la acidosis metabólica, gasto urinario adecuado, saturación venosa mixta (o en aurícula derecha si no existe cortocircuito izquierda-derecha) 65-70, gasto cardíaco 120-150 ml/kg/min.
+- Monitorización y accesos vasculares adecuados: vía venosa central con medición de PVC; vía arterial con medición de presión.
+- Asegurar vía aérea, ventilación y oxigenación: intubación y ventilación invasiva
+- Sedación y analgesia adecuadas
+- Tratamiento etiológico
+
+@p 2
+@flujo
+[RECONOCIMIENTO SIGNOS CLÍNICOS DE SHOCK]
+(Cribado infeccioso // Gasometría arterial y venosa // Coagulación y pruebas cruzadas // Ecocardiografía)
+v
+[EXPANSIÓN ***VOLUMEN*** (10 cc/kg; inicialmente cristaloides) // Inicio de ***ANTIBIOTERAPIA EMPÍRICA*** // Valorar inicio de ***PGE~1~*** si sospecha de cardiopatía ductus dependiente // Corrección de hipoglucemia y/o alteraciones iónicas]
+? ¿SHOCK REFRACTARIO A FLUIDOS?
+[[***DOPAMINA*** *+/- DOBUTAMINA*]]
+? ¿SHOCK REFRACTARIO A DOPAMINA?
+@cols
+{1} TA baja // Disfunción de ventrículo izquierdo // SVO~2~< 65 // Saturación regional de O~2~ < 60
+[[***ADRENALINA***]]
+---
+{3} TA baja // Vasodilatación periférica // Función ventricular normal/ Dsfx leve
+[[***NORADRENALINA***]]
+---
+{2} TA normal // Disfunción de ventrículo izquierdo // SVO~2~< 65 // Saturación regional de O~2~ < 60
+[[***MILRINONA*** (precargar con volumen)]]
+---
+{4} TA baja o normal // Hipoxemia // Disfunción ventrículo derecho/ HTP
+[[***NO~inh~ ± MILRINONA***]]
+@fincols
+? ¿SHOCK REFRACTARIO A INOTRÓPICOS?
+*Descartar neumotórax/ derrame pericárdico
+[[***HIDROCORTISONA*** // ***ECMO*** // En pretérminos < 1500 gramos, puede estar indicada la hidrocortisona en caso de no respuesta a dopamina a dosis máxima 10 µg/kg/min]]
+@finflujo

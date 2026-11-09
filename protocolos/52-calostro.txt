@@ -1,0 +1,40 @@
+@f 8. Digestivo/52. Protocolo de administración de calostro-1.pdf
+@p 1
+# __52. PROTOCOLO ADMINISTRACION DE CALOSTRO OROFARINGEO (COF)__
+*Protocolo 52 — Calostro orofaringeo — Revisión Enero 2025*
+
+| **A QUIEN VA DIRIGIDO:** | Pretérminos < 32 semanas y/o < 1500 gr |
+|---|---|
+| **CUANDO INICIARLO Y HASTA CUANDO MATENERLO:** | En cuanto se obtenga calostro fresco de la madre. Si los padres autorizan administración de calostro donado se iniciará en cuanto esté disponible tras la descongelación. En general se administrará en primeras horas de vida. // Se mantendrá la administración de COF hasta los 5 días de vida. // Debe constar pautado en __HOJA DE PRESCRIPCION MEDICA__ |
+| **CANTIDAD QUE ADMINISTRAR e INTERVALO DE ADMINISTRACION** | 0,2 cc cada 3 horas (no se descontará del volumen de la leche pautada en cada toma). En pacientes que presentan mala tolerancia (especialmente < 1000 gr) se podrá administrar 0,1 cc . |
+| **COMO ADMINISTRARLO** | Con la jeringa en la que se ha extraído la madre su calostro. En caso de calostro donado ó calostro fresco almacenado en biberón, se cargará 0,2 cc en jeringa pequeña de 1 cc. // Etiquetar cada jeringa a administrar con etiqueta de medicación si calostro fresco ó etiqueta de UNP si calostro donado. // Se administrará en cara interna de mucosa oral __alternando__ cada lado, izquierda /derecha según posición del paciente en cada toma: si cabeza en DLD en cara interna de mucosa oral derecha , si cabeza en DLI en cara interna de mucosa oral izqda. Se administrará con la jeringa favoreciendo succión con chupete de mariposa. // Será administrado por TCAE, DUE y __preferentemente por los padres__ previo entrenamiento |
+| **ANOTACIÓN EN GRAFICA DE ENFERMERÍA** | Se reflejará como COF y al lado la cantidad, en línea paralela a la alimentación |
+! En el PDF la parte práctica (a quién, cuándo, cantidad, cómo y anotación) son apartados seguidos, tras la justificación; aquí van primero y en tabla. «Como administrarlo» empieza en la página 1 y sigue en la 2.
+
+## Justificación:
+El **calostro de pretérminos** tiene una alta concentración de factores bioactivos y protectores en comparación con el del recién nacido término. Mayor concentración de:
+- Ig A, lisozima y lactoferrina
+- Macrófagos, linfocitos y neutrófilos
+
+La administración de calostro fresco extraído manualmente por la madre ha demostrado tener un efecto inmunoestimulador local a nivel del __tejido linfoide orofaringeo dónde:__
+- El contenido elevado de citoquinas del calostro interactúan con el tejido linfoide orofaringeo (adenoides y amígdalas) estimulando o inhibiendo producción de otras citoquinas y modulando la respuesta inmune
+- La alta concentración de IL6 en el calostro (comparado con la leche madura) puede estimular la producción de IgA secretora en células mononucleares del tejido linfoide orofaringeo y aumentar inmunidad de las mucosas
+
+Existe asimismo un efecto sobre el __tejido linfoide intestinal__ por el calostro que alcanza el tracto gastrointestinal favoreciendo la producción de IL 10 e IgAs
+Por último, el calostro tiene altas concentraciones de lactoferrina y prolactina. La lactoferrina inhibe crecimiento de bacterias uniéndose al hierro (esencial para su supervivencia) y la prolactina modula la respuesta inmune promoviendo la maduración y migración de linfocitos
+Diversos estudios han demostrado que tras la administración de COF hay:
+- Incremento IgAs en saliva
+- Incremento de lactoferrina en saliva
+- Disminución días hasta enteral completa
+
+Siendo un procedimiento factible y seguro
+@pie Protocolo 52 Calostro orofaringeo Revisión Enero 2025
+
+*Protocolo consensuado en Enero 2025 por*
+- *Médicos UNP: Dra Sánchez y Dra Caballero*
+- *Enfermería UCIN y CCMM: Gloria Sanz y Maisa Martinez*
+- *Logopeda: Belén Ordoñez*
+
+@bib Bibliografía
+*-Panchal H, Athalye-Jape G, Patole S. Oropharyngeal colostrum for preterm infants: a systematic review and meta-analysis. Adv Nutr 2019; 00:1-11*
+*-Garg BD, Balasubramanian H, Kabra NS, Bansal A. Effect of oropharyngeal colostrum therapy in the prevention of necrotising enterocolitis among very low birthweight neonates: a meta analysis of randomised controlled trials. J Hum Nutr Diet 2018; 31, 612-624*

@@ -1,0 +1,184 @@
+@f 10. Hematológico/Protocolo exanguino unificado pdf.pdf
+@p 1
+# PROTOCOLO EXANGUINOTRANSFUSIÓN
+*Autores: Rebeca Gregorio, Belén Bernardo, Alba Pérez.*
+*PROTOCOLO EXANGUINOTRANSFUSIÓN — __Revisado Junio 2022__*
+
+@flujo
+{1} **INDICACIONES:** *__anexo 1.__*
+v
+{2} **MATERIAL NECESARIO:** // ▪ Catéter venoso umbilical específico para exanguino (preferentemente) o femoral (2-3 luces). // ▪ Calentador de sangre (pedir a quirófano): 37 ºC. // ▪ Hoja de control de extracciones *__(anexo 3).__* // ▪ Kit para exanguinotransfusión *__(anexo 4).__* // ▪ Bolos de calcio (1 ml de agua bidestilada y 1 ml de Gluconato Cálcico 10%). // ▪ **Petición de Sangre:** SANGRE IRRADIADA FRESCA (< 7 días) y RECONSTITUIDA CON PFC. (Si sospecha de isoinmunización o incompatibilidad ABO se cruzará con la sangre materna)
+v
+{3} **SOLICITUD DE PRUEBAS COMPLEMENTARIAS:** // ▪ **Pruebas complementarias** indispensables para iniciarse el proceso (llevar en mano al Banco): // - __**Al recién nacido:**__ • Grupo sanguíneo y Coombs directo. • Pruebas cruzadas: indicar que es para exanguinotransfusión y volumen total de sangre que precisamos. // - __**A la madre:**__ Si se sospecha isoinmunización o incompatibilidad ABO. *Si no tiene NHC llamar a admisión para generarlo.* • Pruebas cruzadas/Grupo: se enviarán dos tubos (uno rojo y otro morado) → pedir en UCIP, Obstetricia o paritorio. // ▪ Otras pruebas complementarias según sospecha *__(ver anexo 5).__*
+(**AVISAR CUANTO ANTES A HEMATÓLOGO DE GUARDIA DE ADULTOS Y BANCO DE SANGRE**)
+v
+{4} **CÁLCULOS PARA INTERCAMBIOS DE SANGRE:** // ▪ **Volumen total de sangre a intercambiar:** 2 x volemia (80 ml/kg) // - En algunos casos de hemólisis puede ser suficiente con una volemia. // ▪ **Volumen de alícuotas:** dependerá del peso del paciente y de los factores de riesgo.
+@finflujo
+! En el PDF, junto a las pruebas de la madre, hay una foto de los dos tubos (rojo y morado); no se reproduce.
+
+| **PESO PACIENTE *(gramos)*** | **VOLUMEN ALÍCUOTAS *(ml)*** |
+|---|---|
+| <1500 | 5 |
+| 1500-2500 | 10 |
+| 2500 -3500 | 20 |
+| >3500 | 30 |
+
+- **Calcular el nº de pases** a realizar según volumen total a exanguinar y volumen de las alícuotas.
+- Imprimir hoja de control de extracciones *__(anexo 3).__* Según el total de pases, modificar la hoja.
+
+@p 2
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+@flujo
+{5} **TÉCNICA** // ▪ **DIETA ABSOLUTA** al menos 3 horas antes del procedimiento. Iniciar sueroterapia a basales. // ▪ **MONITORIZACIÓN** frecuencia cardiaca, saturación oxígeno, TA programada cada 15 -20 min y Tª central (con SV o sensor rectal). // ▪ Monitorización con **INVOS somático** si disponible (mantener siguientes 24h). // ▪ **Canalizar la vía.** Control radiológico para posicionamiento. // ▪ Administrar **profilaxis antibiótica** (Cefazolina o Ampicilina + Gentamicina). // ▪ **Conectar el sistema** de exanguinotransfusión *__(anexo 4)__* y el calentador.
+v
+[▪ **INICIAR INTERCAMBIOS:** *__anexo 4.__* // Extraer sangre paciente → desechar a bolsa del kit → coger sangre nueva bolsa transfusión → infundir al paciente // ▪ **Cada 8 pases:** extraer EAB (al sacar la sangre del paciente / la jeringa de gasometría conecta con la llave de 4 pasos) → Si HipoCa++, administrar bolo de calcio. // ▪ **Duración total de la técnica:** 50 - 70 minutos.]
+v
+[- **TRAS FINALIZACIÓN** (en las siguientes 2 horas): realizar analítica de control (hemograma, coagulación, bioquímica) para descartar complicaciones. // - La bilirrubina post-exanguino debería ser el 50 - 75% de la inicial. // - Mantener a dieta absoluta al menos 12 horas tras la técnica. // - Administrar una segunda dosis de cefazolina 12 h tras la anterior (excepto si está ya con antibioterapia empírica).]
+v
+{6} **VIGILANCIA/CORRECCIÓN DE COMPLICACIONES:** // Acidosis o alcalosis metabólica, hipotermia, hipocalcemia, hipercalcemia, hipoglucemia, hiperpotasemia, coagulopatía, trombopenia, enterocolitis necrotizante, anemia/policitemia, arritmias, cambios bruscos de volemia, trombosis, embolismo aéreo.
+@finflujo
+
+@p 3
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+## PROTOCOLO EXANGUINOTRANSFUSIÓN: ANEXO 1
+### INDICACIONES
+- **HIPERBILIRRUBINEMIA GRAVE:** Con valores mantenidos por encima de lo indicado por los nomogramas según EG y riesgo a pesar de optimización de medidas *(figura 1).*
+- Progresión de la anemia a pesar del control de las cifras de bilirrubina en una hemólisis masiva.
+- Signos de encefalopatía aguda por hiperbilirrubinemia *(anexo 3).*
+- Otras causas menos frecuentes son: hemocromatosis, tos ferina maligna, sepsis, metabolopatías, intoxicaciones, malaria grave …
+
+@img ex-figura1.png
+*Figura 1.* Valores de bilirrubina (total) según la EG, edad postnatal y factores de riesgo para indicar exanguinotransfusión
+@deimg
+La AAP considera 3 grupos de riesgo en función de la edad gestacional y de otros factores y en función de estos adapta las indicaciones de tratamiento:
+-Bajo riesgo: EG ≥ 38 semanas y sin patología asociada.
+-Riesgo intermedio: EG ≥ 38 + factores de riesgo* o 35-37 + 6 sin patología asociada.
+-Riesgo alto: 35-37 + 6 con factores de riesgo*.
+*Factores de riesgo: enfermedad hemolítica isoinmune, deficiencia de G6PD, asfixia, letargia significativa, inestabilidad térmica, sepsis, acidosis o albúmina < 3 g/dl.
+@findeimg
+! La figura 1 se reproduce recortada; en ella la línea verde, roja y naranja corresponden a los tres grupos de riesgo de la AAP (el PDF no lo indica con leyenda). El texto de los grupos de riesgo es una imagen en el PDF y se ha copiado a mano. El anexo 1 remite al «anexo 3» para la encefalopatía, pero esa información está en el anexo 2.
+
+@p 4
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+## PROTOCOLO EXANGUINOTRANSFUSIÓN: ANEXO 2
+__Sintomatología neurológica derivada de la hiperbilirrubinemia grave:__
+@deimg
+| **Espectro clínico de la encefalopatía por hiperbilirrubinemia** |
+|---|
+| **Kernicterus “clásico”** |
+| *Encefalopatía aguda por bilirrubina* |
+| Rechazo alimento, letargia, alteraciones del tono muscular (hipo/hipertonía, retrocollis,opistótonos), llanto agudo, ojos en sol poniente, fiebre, crisis convulsivas,coma, exitus |
+| Alteraciones PEATC |
+| Hallazgos en la RM(T1): núcleos pálidos y subtalámicos |
+| *Encefalopatía crónica por bilirrubina* |
+| Trastorno del movimiento: atetosis, distonía, espasticidad o hipotonía |
+| Trastorno sensorial auditivo: sordera (total o parcial) o neuropatía auditiva |
+| Trastorno oculomotor: parálisis mirada vertical o lateral |
+| Displasia de la dentición decidua: decoloración y pérdida del esmalte dental |
+| **Formas sutiles de kernicterus: disfunción neurológica inducida por bilirrubina (BIND)** |
+| *Alteraciones neurológicas: cognitivas, trastornos del aprendizaje, trastornos del movimiento* |
+| *Déficit sensorial auditivo aislado* |
+| *Otras posibles complicaciones relacionadas: TDAH, autismo, torpeza motriz, Parkinson* |
+@findeimg
+*Extraído de: Campistol J, Galvez H, Cazorla AG, Málaga I, Iriondo M, Cusí V. Disfunción neurológica inducida por bilirrubina. Neurología. 2012;27(4):202–12*
+
+__BIND “Bilirrubin-induced neurologic dysfunction” score:__
+@deimg
+| {2} **Bilirubin-induced neurologic dysfunction (BIND) assessment (score) for term and late preterm infants** |
+|---|---|
+| **Clinical signs** | **Score** |
+| {2} **Mental status** |
+| Normal | 0 |
+| Sleepy but arousable, decreased feeding | 1 |
+| Lethargic, poor suck, irritable, and/or jittery | 2 |
+| Semicomatose to comatose, unable to feed, seizures | 3 |
+| {2} **Muscle tone** |
+| Normal | 0 |
+| Persistent mild to moderate hypotonia | 1 |
+| Mild to moderate hypertonia alternating with hypotonia | 2 |
+| Persistent retrocollis and opisthotonos | 3 |
+| {2} **Cry pattern** |
+| Normal | 0 |
+| High pitched when aroused | 1 |
+| Shrill, difficult to console | 2 |
+| Inconsolable crying or weak/absent cry | 3 |
+| **Total BIND score** | |
+Total scores for BIND determine the presence and severity of acute bilirubin encephalopathy (ABE) for infants without other identifiable causes for neurologic dysfunction:
+- Scores between 7 and 9: Advanced ABE, requiring emergency intervention (exchange transfusion) to prevent further brain injury and potentially reverse acute brain damage.
+- Scores between 4 and 6: Moderate ABE, requiring urgent intervention (intensive phototherapy and potentially exchange transfusion) to possibly (based on timing of intervention) prevent and reverse brain injury.
+- Scores between 1 and 3: Consistent with subtle signs of ABE, requiring intervention (phototherapy) depending on total bilirubin. In these patients, auditory brainstem response testing is helpful, as an abnormal result would confirm the presence of moderate ABE.
+@findeimg
+*Extraído de Uptodate: Unconjugated hyperbilirubinemia in the newborn: Interventions. Consultado online 29/04/2021*
+! Las dos tablas del anexo 2 son imágenes en el PDF y se han copiado a mano; la del BIND está en inglés en el original y no se ha traducido.
+
+@p 5
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+## PROTOCOLO EXANGUINOTRANSFUSIÓN: ANEXO 3
+**PLAN DE EXANGUINOTRASFUSIÓN:**
+| | |
+|---|---|
+| ▪ PESO: | PEGATINA PACIENTE |
+| ▪ VOLUMEN TOTAL (peso x 80 x 2): | |
+| ▪ VOLUMEN ALÍCUOTAS: | |
+| ▪ NÚMERO TOTAL DE PASES: | |
+
+| | EXTRAEMOS | INFUNDIMOS |
+|---|---|---|
+| 1º pase | | |
+| 2º pase | | |
+| 3º pase | | |
+| 4º pase | | |
+| 5º pase | | |
+| 6º pase | | |
+| 7º pase | | |
+| 8º pase | | |
+| {3} EAB. Si precisa, bolo de Gluca 10% 1 ml + agua 1 ml |
+! En el PDF la hoja repite cuatro veces el bloque de 8 pases y la gasometría; aquí se muestra uno. Para imprimirla usa el PDF original.
+@pie 1º pase 2º pase 3º pase 4º pase 5º pase 6º pase 7º pase 8º pase EAB. Si precisa, bolo de Gluca 10% 1 ml + agua 1 ml
+@pie 1º pase 2º pase 3º pase 4º pase 5º pase 6º pase 7º pase 8º pase EAB. Si precisa, bolo de Gluca 10% 1 ml + agua 1 ml
+@pie 1º pase 2º pase 3º pase 4º pase 5º pase 6º pase 7º pase 8º pase EAB. Si precisa, bolo de Gluca 10% 1 ml + agua 1 ml
+
+@p 6
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+## PROTOCOLO EXANGUINOTRANSFUSIÓN: ANEXO 4
+@img ex-kit.png
+@pie CATÉTER VYGON PARA EXANGUINO: en almacén de neonatología LLAVE DE 4 PASOS COMPONENTES
+@p 7
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+@img ex-montaje.png
+@pie MONTAJE DEL SISTEMA PROCEDIMIENTO
+! El anexo 4 (catéter Vygon, kit, componentes, llave de 4 pasos, montaje del sistema y procedimiento en 4 pasos) son fotos rotuladas y se reproduce recortado del PDF.
+
+@p 8
+@pie PROTOCOLO EXANGUINOTRANSFUSIÓN Revisado Junio 2022
+## PROTOCOLO EXANGUINOTRANSFUSIÓN: ANEXO 5
+**PRUEBAS COMPLEMENTARIAS:** Podrán solicitarse todas ellas o sólo algunas según sospecha diagnóstica.
+@ancha
+| **SOLICITUD** | **TUBO** | **ALMACENAMIENTO** | **OBJETIVO DIAGNÓSTICO** |
+|---|---|---|---|
+| {4} **SANGRE** |
+| **Hemograma URG** | | Lab | Anemia, trombopenia, leucopenia o leucocitosis |
+| **Bioquímica URG** *(BT, BD, BI, GOT, GGT, GPT, FA, LDH, albúmina, PT, Cr, U, P, Mg, CPK, PCR+/- PCT)* | | Lab | Tipo de ictericia, citolisis, colestasis, insuficiencia renal, infección, hipoalbuminemia |
+| **Amonio** | | Lab. Llevar en hielo | Hiperamoniemia |
+| **Gasometría** | | Neo | |
+| **Coagulación URG** | | Lab | |
+| **Reticulocitos. Frotis** | | Lab. Llamar a Hematólogo | Esferocitosis hereditaria, tipo de anemia. Leucemias |
+| **Grupo sanguíneo y Coombs** | | Lab | Incompatibilidad Rh/ABO |
+| **Hemocultivo** | | Micro | Sepsis |
+| **Pruebas cruzadas** *(especificar volumen total. Se pide “CH” y se explica que es para exanguinotrasfusión)* | | Banco. Llamar a Banco y hematólogo adultos para avisar. | |
+| **Tubo DNA** | Tubo EDTA | Nevera cuidados medios | Esferocitosis, déficit de G6PDH |
+| **Suero** *(estudio metabólico)* | 4 ml Tubo en gel o seco | Bajar en mano al Lab, centrifugar __y separar suero__. Después congelar a -20 º C *(Congelador UCIP)* | Errores congénitos metabolismo (ECM) |
+| {4} **ORINA** |
+| **Orina** *(estudio metabólico)* | Muestra única | Congelar a -20 º C *(Congelador UCIP)* | ECM |
+| **Sedimento orina** | | Lab | ITU, hemoglobinuria, coluria |
+| **UC. Gram** | | Micro. Llamar para Gram | ITU |
+| **CMV en orina** | Muestra única | Micro | |
+| {4} **Iniciar recogida de orina de 12 horas** si sospecha ECM |
+| {4} **RADIOLOGÍA** |
+| **Ecografía TF y abdominal** | | Llamar a radiólogo | Hemorragias, malformaciones, infartos… |
+| **Radiografía de tórax/abdomen** | | Confirmación posición del catéter | |
+
+@bib BIBLIOGRAFÍA
+- Campistol J, Galvez H, Cazorla AG, Málaga I, Iriondo M, Cusí V. Disfunción neurológica inducida por bilirrubina. Neurología. 2012;27(4):202–12.
+- Criado Vega EA. Exanguinotransfusión. An Pediatría Contin. 2014;12:137–41.
+- Uptodate: Unconjugated hyperbilirubinemia in the newborn: Interventions. https://www-uptodate-com.bvcscm.a17.csinet.es/contents/unconjugated-hyperbilirubinemia-in-the-newborn-interventions?search=exanguinotrasfusion&source=search_result&selectedTitle=2 150&usage_type=default&display_rank=2. Consultado online 29/04/21.

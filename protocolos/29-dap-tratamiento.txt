@@ -1,0 +1,148 @@
+@f 5. Hemodinámico/29. Diagnóstico y tratamiento de ductus arterioso.pdf
+@p 1
+# PROTOCOLO DE TRATAMIENTO DEL DUCTUS ARTERIOSO PERSISTENTE CON REPERCUSIÓN HEMODINÁMICA EN RECIÉN NACIDOS PREMATUROS
+Ana Rodríguez Sánchez de la Blanca
+Revisado: octubre 2017
+
+## 1. ¿ES UN DUCTUS HEMODINÁMICAMENTE SIGNIFICATIVO?
+| {2} ***CRITERIOS CLÍNICOS DE DAP HEMODINÁMICAMENTE SIGNIFICATIVO*** |
+|---|
+| ***DAP Leve*** // ***(C1)*** | Apneas ocasionales (< 6/hora) // CPAPn o VMC (PMVA <9) // Rx: aumento de la vascularización pulmonar |
+| ***DAP Moderado*** // ***(C2)*** | Apneas horarias // Aumento necesidades ventilación (PMVA 9-12) y/o FiO2 > 0,3 // Rx: cardiomegalia y/o edema pulmonar // Intolerancia digestiva con distensión abdominal // Hipotensión arterial que requiere de un fármaco inotrópico // Oliguria // Acidosis metabólica moderada (pH 7,10-7,25 / EB -7 a -12) |
+| ***DAP Grave*** // ***(C3)*** | VMC con PMVA > 12 o VAFO // Hemorragia pulmonar // NEC “like” // Inestabilidad hemodinámica con > 1 inotrópico // Acidosis severa (pH< 7,10 / EB > -12 |
+
+| {4} ***CRITERIOS ECOGRÁFICOS DE DAP HEMODINÁMICAMENTE SIGNIFICATIVO*** |
+|---|
+| | **Diámetro Ductal** | **Relación AI/Ao** | **Doppler diástole** |
+| ***DAP Leve (E1)*** | < 1,5 mm | < 1,5 | No robo diástole |
+| ***DAP Moderado (E2)*** | 1,5- 3 mm | 1,5-2 | Ausencia diástole |
+| ***DAP Grave (E3)*** | > 3 mm | > 2 | Diástole invertida |
+
+## 2. ¿EDAD GESTACIONAL?
+Por encima de las 28 semanas la incidencia de cierre espontáneo es mayor, de manera que dividiremos a los pacientes en dos categorías en función de su edad gestacional (ver diagramas).
+
+@deimg
+@flujo
+[**< 28 semanas**]
+v
+[**ECOCARDIOGRAFÍA A LAS 72 hdv**]
+@cols
+[[**DAP LEVE (E1)**]]
+@cols
+Criterios clínicos leve (C1)
+v
+[**SEGUIMIENTO EVOLUTIVO**]
+---
+Criterios clínicos moderado-severo (C2/C3)
+v
+[**MANEJO MÉDICO CONSERVADOR**]
+@fincols
+---
+[[**DAP MODERADO-SEVERO (E2/E3)**]]
+@cols
+Criterios clínicos leve (C1)
+v
+[**MANEJO MÉDICO CONSERVADOR**]
+---
+Criterios clínicos moderado-severo (C2/C3)
+v
+[**IBUPROFENO**]
+@fincols
+@fincols
+v
+[**Reevaluación a las 48 horas (x2) y posteriormente cada 7-10 días o previamente si descompensación clínica ***]
+@finflujo
+@findeimg
+! El diagrama es una imagen y se ha copiado a mano. En el original «Manejo médico conservador» es una sola caja a la que llegan las dos ramas (E1 con C2/C3 y E2/E3 con C1), y a la reevaluación llegan «Seguimiento evolutivo» y «Manejo médico conservador», no «Ibuprofeno».
+
+*Mantener controles ecográficos hasta que el ductus se cierre o se mantenga con criterios ecográficos de leve y asintomático o con clasificación de clínica leve.
+*Tras finalización de ciclo de tratamiento con ibuprofeno comprobar estado del ductus mediante ecocardiografía dentro de las siguientes 48 horas.
+
+@p 2
+@deimg
+@flujo
+[**28-32 semanas**]
+v
+[**ECOCARDIOGRAFÍA A LOS 7 ddv // (o previamente si sintomatología)**]
+@cols
+[[**DAP LEVE (E1)**]]
+v
+[**SEGUIMIENTO EVOLUTIVO**]
+v
+[**Control a los 7-10 días**]
+---
+[[**DAP MODERADO-SEVERO (E2/E3)**]]
+@cols
+Criterios clínicos leve (C1)
+v
+[**MANEJO MÉDICO CONSERVADOR**]
+---
+Criterios clínicos moderado-severo (C2/C3)
+v
+[**IBUPROFENO**]
+@fincols
+@fincols
+v
+[**Control a las 72 horas**]
+@cols
+[[**DAP LEVE**]]
+v
+[**MANEJO MÉDICO CONSERVADOR**]
+v
+[**Reevaluación cada 7-10 días o previamente si descompensación clínica***]
+---
+[[**DAP MODERADO-SEVERO**]]
+v
+[**IBUPROFENO**]
+@fincols
+@finflujo
+@findeimg
+! Este diagrama también es una imagen copiada a mano. En el original, «Control a las 72 horas» y lo que sigue cuelgan solo de «Manejo médico conservador» (rama E2/E3 con criterios clínicos leves C1).
+
+*Mantener controles ecográficos hasta que el ductus se cierre o se mantenga con criterios ecográficos de leve y asintomático o con clasificación de clínica leve.
+*En general pacientes estables con soporte respiratorio con CPAPn y bajos requerimientos de oxígeno son candidatos a un manejo conservador.
+
+## PAUTA DE TRATAMIENTO CON IBUPROFENO INTRAVENOSO
+Cada ciclo de tratamiento consiste en 3 dosis separadas por un intervalo de 24 horas
+| 1ªDOSIS | 2ªDOSIS | 3ªDOSIS |
+|---|---|---|
+| 10 mg/kg | 5 mg/kg | 5 mg/kg |
+
+## INDICACIONES DE CIERRE PERMANENTE (QUIRÚRGICO/PERCUTÁNEO)
+DAP ecocardiográfica (E2/E3) y clínicamente significativo (C2/C3) persistente tras dos ciclos de tratamiento o con contraindicaciones para ibuprofeno
++
+Más allá de los 28 días de vida
+
+## MANEJO MÉDICO CONSERVADOR
+- Restricción hídrica <120 ml/kg/día; siempre y cuando asegure un adecuado aporte calórico
+- Mantener presión positiva (PEEP 5-6 cmH~2~O)
+- Evitar hiperventilación
+- Mantener Hb > 11 g/dl
+
+## CONTRAINDICACIONES PARA ADMINISTRACIÓN DE IBUPROFENO
+- Sangrado activo (especialmente intracraneal o digestivo)
+- Trombocitopenia:
+  - < 60.000 /µl (absoluta)
+  - 60.000 – 100.000 /µl (relativa)
+- Coagulopatía
+- Hipertensión pulmonar
+- NEC estadio II o superior
+- Oliguria (< 1 cc/kg/) o elevación de la creatinina (> 1,5 mg/dl)
+- Tratamiento concomitante con hidrocortisona
+
+## CONSIDERACIONES A TENER EN CUENTA
+- No es necesario suspender o disminuir la pauta de alimentación durante el tratamiento con ibuprofeno, aunque si se recomienda evitar alimentación en la hora siguiente a la administración del fármaco.
+- Evitar la administración de furosemida y corticoides durante el ciclo de tratamiento.
+- En ***__mayores de 34 semanas__*** de edad gestacional, controles evolutivos y no tratar de inicio dado que presenta una incidencia elevada de cierre espontáneo y además la efectividad del tratamiento es menor por una menor respuesta al fármaco a partir de esta edad gestacional.
+- En contexto de __sepsis__, con reapertura del ductus o aumento de su significación ecográfica, mantener actitud expectante y tratamiento conservador y reevaluar una vez superada la infección tratando sólo aquellos que sean clínica y ecocardiográficamente significativos (moderado-severo).
+
+@bib BIBLIOGRAFÍA RECOMENDADA
+1. McNamara P, Sehgal A. Towards rational management of the patent ductus arteriosus: the need for disease staging. Arch Dis Child Fetal Neonatal 2007;92: F424–F427.
+
+2. Hammerman C, Bin-Nun A, Kaplan M. Managing the Patent Ductus Arteriosus in the Premature Neonate: A New Look at What We Thought We Knew. Semin Perinatol 2012; 36:130-138.
+
+3. El-Khuffash A, James AT, Corcoran JD et al. A Patent Ductus Arteriosus Severity Score Predicts Chronic Lung Disease or Death before Discharge. J Pediatr 2015; 167: 1354-61.
+
+4. Prescott S, Keim-Malpass J. Patent Ductus Arteriosus in the Preterm Infants: Diagnostic and Treatment Options. Adv Neonatal Care 2017; 17: 10-18.
+
+5. Bixler GM, Powers GC, Clark RH et al. Changes in the Diagnosis and Management of Patent Ductus Arteriosus from 2006 to 2015 in United States Neonatal Intensive Care Units. J Pediatr 2017; 189: 105-112.

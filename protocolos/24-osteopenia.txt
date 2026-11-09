@@ -1,0 +1,141 @@
+@f 7. Metabólico renal/24. Osteopenia de la prematuridad-1.pdf
+@p 1
+# TEMA 24. ENFERMEDAD OSEA METABÓLICA DEL PREMATURO.
+**Fecha de actualización: 19 de abril de 2024.**
+**Autoría: Sylvia Caballero Martín.**
+
+**__DEFINICIÓN:__** reducción del contenido y la mineralización ósea
+
+**Principales factores de riesgo:**
+Prematuridad (especialmente < 27 semanas y < 1000 gramos al nacimiento).
+Otros: uso prolongado de nutrición parenteral (> 4 semanas); falta de estimulación mecánica; fármacos: diuréticos y corticosteroides ; resección intestinal; colestasis severa; enfermedad renal y el no uso de fortificantes en la lactancia materna.
+
+**__CAUSA:__** Carencia de **calcio** y/o de **fósforo** resultado de una **ingesta** y/o **absorción** deficientes
+
+## __FISIOLOGÍA__
+**Reguladores de calcio (Ca) y fósforo (P)**
+| **PTH (principal regulador)** | **1,25 (OH) D** |
+|---|---|
+| __Renal__ (+ importante): // - Aumenta reabsorción de Ca en túbulo distal // - Disminuye reabsorción de P en túbulo proximal (↓TRP). // - Activación de 1-alfa-hidroxilasa: convierte 25(OH)D en 1,25(OH)D. → | __Renal__: disminuye excreción de Ca y P . // __Intestinal__: aumenta reabsorción de Ca (+++) y P. |
+| __Óseo:__ Aumenta la resorción ósea : Aumento de FA. | __Óseo__: Disminuye resorción por osteoclastos, aumenta maduración ósea y mineralización por osteoblastos y osteocitos |
+
+| **Calcio** | **Fosfato** |
+|---|---|
+| Ion extracelular esencial. // Requiere mantener concentración estable. // 98-99% se encuentra en el hueso | Ion intracelular. // Mecanismos menos robustos que los del Ca para mantener su concentración plasmática estable. // 80% hueso y 20% metabolismo energético intracelular y acumulación masa magra |
+| Su déficit activa PTH: **normocalcemia e hipofosfatemia** | Su déficit no modifica PTH // Activa 1,25(OH)D: **hipercalcemia e hipercalciuria** |
+! En el PDF una flecha une la activación de la 1-alfa-hidroxilasa con la acción intestinal del 1,25(OH)D.
+
+## __PREVENCIÓN DE ENFERMEDAD METABÓLICA ÓSEA DE LA PREMATURIDAD__
+**1)** Aporte adecuado de Ca y P:
+- Aportar precozmente Ca y P en nutrición parenteral limitando la duración de ésta si es posible a 2 semanas en < 1500 gr. Mantener relación molar Ca/P≤ 1,4
+- Inicio precoz nutrición enteral (aportes limitados en nutrición parenteral) LM aporte insuficiente: FORTIFICAR a partir de 80 cc/kg/día de enteral
+- Recomendaciones ESPGHAN (2022): Ca 120-200 mg/kg/d y P 70-115 mg /kg/d
+
+**2)** Suplementación con vitamina D (papel secundario)
+- Niveles adecuados de 25-hidroxivitamina D>50 nmol/L (deficiencia grave si < 25 nmol/L)
+
+@p 2
+__**Aportes basales recomendados y contenido en LM, fortificante y fórmula prematuros**__
+| | **ESPGHAN 2022** | **LM /100ml** | **LM+PreNAN HMF /100 ml** | **PreNAN HMF /sobre** | **PreNAN<1800 gr/100ml** | **PreNAN>1800 gr/100ml** |
+|---|---|---|---|---|---|---|
+| **Calcio** | 120-200 mg/kg/d (3-5 mEq/kg/d) | 26 mg | 102 mg | 19 mg | 119 mg | 77 mg |
+| **Fósforo** | 70-115 mg/kg/d (2,2-3,7mEq/kg/d) | 16 mg | 60 mg | 11 mg | 78 mg | 45 mg |
+| **Vit. D** | 400-700 UI/kg/d (10- 17,5μg/kg/d) (*) | | 150 UI (3,76 mcgr) | 37,6UI (0,94 mcgr) | 136 UI (3,6 mcgr) | 64 UI (1,6 mcgr) |
+*1 mmol Ca=2 mEq= 40 mg 1 mmol P=2 mEq= 31 mg*
+(*) Corresponde a: 300-525 UI/kg/d hasta 750 g; 400-700 UI/kg/d hasta 1000 g; 600-1000 UI/kg/d hasta 1500 gr.
+Dosis máxima recomendada: 1000 UI/día
+
+**3)** Adecuada manipulación (suave) y posicionamiento en las incubadoras (nidos): favorece un mejor desarrollo muscular y la deposición de minerales.
+
+## __CRIBADO DE ENFERMEDAD METABÓLICA ÓSEA DE LA PREMATURIDAD__
+Iniciar cribado de los prematuros a las **4 semanas** del nacimiento.
+__Cribado inicial__: Sospecha EMO si :
+- **FA**: **> 800 IU/L ó > 500 con tendencia a aumentar**
+
+Elevación fisiológica desde nacimiento con pico máximo a las 4-6 semanas: 400-800 UI/L Descenso posterior a las 8-10 Semanas a < 500-600 UI/l con P ≥4 mg/dl.
+Puede elevarse en enfermedad hepática y deficit de cobre.
+Puede disminuir por deficit de Zn y uso de glucocorticoides.
+- **Fósforo** **< 5,5 mg/dl.** (correlacionar con FA)
+
+P < 4 mg/dl con valores normales de FA: indica rápido crecimiento con necesidad de suplementación adicional de P (suplementar aparte de la fortificación hasta P > 5 mg/dl).
+- **Calcio** (corregido con albúmina) **< 8,5 mg/dL o > 10,5 mg/dL**
+
+Suele ser normal en prematuros con EMO
+Niveles bajos indican pérdidas elevadas por orina o disminución de la ingesta.
+Niveles altos: - sobretratamiento
+- secundario a recambio óseo por hipofosfatemia (que induce aumento de 1,25(OH)2D
+- Excesiva ingesta. Puede asociar hipercalciuria
+
+__Determinaciones secundarias que ayudan a conocer suplementación a realizar:__
+- **PTH** **> 100 pg/dl**: Hiperparatiroidismo. Indicación de tratamiento con calcitriol.
+- **Reabsrorción tubular de fosfato** (*)
+  - **>95% + hipofosforemia** : indica baja eliminación urinaria de P (baja PTH o baja ingesta de P): indicación de suplementación con P .
+  - **< 85%**: pérdida urinaria de P por daño tubular renal primario (con frecuencia con PTH elevada). Sugiere déficit de Ca: indicación de suplementación con Ca.
+- **Ca/Cr orina:** detecta hipercalciuria (por exceso ingesta o aumento de pérdida urinaria por diuréticos). En primer año de vida los valores medios pueden llegar a superar el valor de 0,6. Después del primer año de vida un cociente superior a 0,2 incrementa el riesgo de nefrocalcinosis.
+- **25(OH)D:** **< 30 ng/ml** (Si < 20 ng/ml indica déficit de Vitamin D). No útil como screening de EMO (valores normales en prematuros con/sin enfermedad) .
+
+(*)*Reabsorción tubular de fosfato (TRP) = 1 − (Cr sérica x P orina) / (P sérico x Cr orina) x 100*
+! En el PDF los umbrales de las determinaciones (FA, fósforo, calcio, PTH, reabsorción tubular de fosfato y 25(OH)D) van en rojo. La fórmula de la TRP es una fracción; aquí la raya de fracción se escribe «/».
+
+@p 3
+## __DATOS RADIOLOGICOS__
+Revisar Rx previas (fracturas costales)
+Ideal: Rx muñeca ó rodilla: Ensanchamiento epifisario/ Irregularidades en la zona de calificación provisional en la interfaz epifisaria/metafisaria
+
+## __ALGORITMO PARA EVALUAR SALUD OSEA__
+*< 1500 gramos (independientemente de EG)*
+*>1500 gramos con factores de riesgo: NP prolongada >4 semanas; corticoides; tratamiento continuado con diuréticos; colestasis severa.*
+@flujo
+[**Cribado inicial** a las 4 semanas // FA, Ca, P y 25 (OH)D]
+v
+[FA> 800 ó>500 en aumento // y P < 5,5 mg/dl]
+@cols
+? NO
+[Repetir cribado c/2-4 semanas]
+---
+? SI
+[**Cribado secundario** // PTH, RTP, Ca/Cr orina // Revisar Rx]
+@fincols
+(y/o)
+@cols
+[Valorar **suplementación de Ca** si: // FA elevada // PTH> 100 pg/ml // P bajo con TRP bajo (normal: 85-95%) // Cambios radiológicos/fracturas // Ajustar dosis de Vit D según niveles]
+Capsulas de Ca elemental 10 ó 20 mg
+---
+[Valorar **suplementación de Fósforo** si: // FA elevada // PTH normal o baja // P bajo con TRP ≥-95% // Cambios radiológicos/fracturas // Ajustar dosis de Vit D según niveles]
+Fosfato monosódico (1 cc = 31 mg)
+@fincols
+@finflujo
+! En el PDF «Ajustar dosis de Vit D según niveles» queda cortado en la imagen de los recuadros; se ha copiado del texto del PDF. Las cápsulas de calcio y el fosfato monosódico van en el PDF debajo de los dos recuadros, uno debajo del otro. Del recuadro del cribado secundario salen dos flechas, una a cada recuadro, con el rótulo «y/o».
+
+NO mezclar en la misma toma suplementos de calcio y fósforo (precipitación)
+Controles periódicos cada 2-4 semanas
+
+## SUPLEMENTACIÓN DE CA Y P
+Revisar aportes de Ca y P en la alimentación que recibe
+Aportes adicionales:
+- Ca: inicio a 20 en aumento hasta 70-80 mg/kg/d
+- P: inicio a 10-20 en aumento hasta 40-50 mg/kg/d
+- Vitamina D: generalmente EMO no mediada por déficit de vitamina D. Aumento a máximo 800 UI/d para favorecer absorción de suplementación
+
+## SUPLEMENTACIÓN AL ALTA
+- Peso >2000 gr **sin evidencia de EMO** (FA < 800 UI/L y P> 4 mg/dl):
+  - En ausencia de RCE:
+    - retirada de suplementación en 2-3 días si toma LM
+    - cambio a FA de inicio si no LM
+    - mantener suplementación con vitamina D según niveles
+  - < 1000 gr y < 30 semanas con RCE al alta :
+    - LM: Mantener fortificación hasta EPM 40 semanas
+    - Fórmula de prematuro hasta EPM 40 semanas
+@p 4
+- En presencia de datos analíticos de EMO al alta:
+  - mantener suplementación de Ca y P con fortificación si la precisa ó añadiendo Ca y P al tratamiento al alta en caso de no precisar fortificación.
+  - controles periódicos en consulta hasta retirada cada 2-4 semanas
+
+*Revisión Marzo 2024. Dra. Sylvia Caballero Martin*
+
+@bib BIBLIOGRAFIA
+1. Motokura K et al. Appropiate phosphorus intake by parenteral nutrition prevents metabolic bone disease of prematurity in extremely low-birth weight infants. JPEN 2021 Aug 45;(6):1319-1326 -Embleton ND et al. Enteral Nutrition in Preterm Infants (2022): A Position Paper From the ESPGHAN Committee on Nutrition and Invited Experts. J Pediatr Gastroenterol Nutr 2023 Feb 1;(76)2: 248-268
+2. Rayannavar A, Calabria AC.Screening for Metabolic Bone Disease of prematurity. Semin Fetal Neonatal Med. 2020 Feb;25(1):101086. doi: 10.1016/j.siny.2020.101086.
+3. Yan-Mei C, Xin-Zhu L, Rong Z, Xi-Hong L, Xiao-Mei T, Ping-Yang C, Zhi-Chun F. Expert consensus on clinical management of metabolic bone disease of prematurity (2021). Nutritional Committee of Neonatology Branch of Chinese Medical Doctor Association; Neonatal Nutrition and Health Management Group, Professional Committee of Child Health, Chinese Medical Doctor Association; Editorial Committee of Chinese Journal of Contemporary Pediatrics..Zhongguo Dang Dai Er Ke Za Zhi. 2021 Aug 15;23(8):761-772.
+4. Kovacs CS.Management of bone health in preterm infants – UpToDate. Febrero 2024. Bone development and mineral homeostasis in the fetus and neonate: roles of the calciotropic and phosphotropic hormones. Physiol Rev 94: 1143–1218, 2014 doi:10.1152/physrev.00014.2014
+5. A Lucas, O G Brooke, B A Baker, N Bishop, R Morley . High alkaline phosphatase activity and growth in preterm neonates. Arch Dis Child 1989 Jul;64(7 Spec No):902-9.

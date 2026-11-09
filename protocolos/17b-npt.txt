@@ -1,0 +1,98 @@
+@f 7. Metabólico renal/17b. Protocolo de NTP.pdf
+@p 1
+@pie 1
+# 17b. PROTOCOLO DE NUTRICION PARENTERAL EN EL RECIEN NACIDO A TERMINO Y PRETERMINO
+*Protocolo NPT Versión 2025*
+
+## 1. NUTRICIÓN PARENTERAL
+En nuestro centro disponemos de dos opciones:
+- *Nutrición parenteral individual*: aportes según necesidades nutricionales y peso del paciente.
+- *Solución de inicio*: es una nutrición parenteral estándar que contiene por cada 55 ml de solución de inicio: 2 g de aminoácidos (Primeneᴿ), 3.8 g de glucosa (glucosa 20%) y calcio 1 meq (Suplecalᴿ), con una osmolaridad de 691 mOsm/L y 23 Kcal.
+
+*Tabla 4. Principios inmediatos*
+| | ***Peso RN*** | ***Aportes 1º día*** | ***Incremento diario*** | ***Objetivo*** |
+|---|---|---|---|---|
+| **AMINOÁCIDOS** | **< 1.000 g CIR** | **__2,5__-3 g/kg/día (siempre ≥ 1.5 g/kg/día)** | **+ 0,5 g/kg/día** | **3,5 g/kg/día** |
+| | **> 1.500 g A término** | **2,5 g/kg/día (siempre ≥ 1.5 g/kg/día)** | **+ 0,5 - 1 g/kg/día** | |
+| **HIDRATOS DE CARBONO** | **Pretérmino** | **6-8 g/kg/día (4-8 mg/kg/min)** | **+ 1-2 g/kg/día (2-3 mg/kg/min/g aa)** | **__14__-16 g/kg/día (10-11 mg/kg/min)** |
+| | **A término** | **4-8 g/kg/día (2.8-5.5 mg/kg/min)** | | |
+| **LÍPIDOS** // ***SMOFlipid* 20%*** | | **1,5-2 g/kg/día (Desde 1º día, antes de 48h)** | **+ 0,5 g/kg/día** | **3-3,5 g/kg/día** |
+- *Soja + TGM + Oliva + Pescado*
+! En el PDF el objetivo de aminoácidos y el incremento y objetivo de hidratos de carbono ocupan las dos filas de su grupo. El texto «2,5» de los aportes de <1.000 g y «14» del objetivo de hidratos van subrayados.
+
+*Tabla 5. Iones*
+| | ***24 horas de vida*** | ***>24 horas de vida*** | ***Incremento diario*** |
+|---|---|---|---|
+| **Sodio** *ClNa 20%* | **2-3 meq/kg/día** | **2-3 meq/kg/día** | **En función de EAB e iones** |
+| **Potasio** *ClK 2M* | | **1-3 meq/kg/día** | |
+| **Cloro** | | **<2-3 meq/kg/día en <1500g la 1º sem** | |
+| **Calcio** *Gluconato Ca 10%* | **1-2 meq/kg/día** | **1-3 meq/kg/día** | |
+| **Fosfato** | **Fosfato= Ca/2 (0.5-2)^1^** | **Fosfato=Ca/2 (0.5-2)^1^** | Precipitan si volumen total < 100 cc |
+! En el PDF «2-3 meq/kg/día» de las primeras 24 horas ocupa las filas de sodio, potasio y cloro, y «En función de EAB e iones» ocupa la columna de incremento diario desde sodio hasta calcio.
+
+^1^Recientemente se recomienda que en <1000 gr, para evitar hipofosforemia e hipercalcemia secundaria, la relación *calcio/fósforo inicialmente sea 1:1.*
+En caso de acidosis metabólica deben iniciarse aportes de **acetato** igualando las cargas iónicas de aniones y cationes, de esta manera:
+*Na + K = Cl + 2P + acetato*
+
+*Tabla 6. Vitaminas, minerales y otros*
+| | |
+|---|---|
+| **Vitaminas** | ***< 1kg**: 1,5 cc/día; **1-3 kg**: 3 cc/día; **>3kg**: 5 cc* |
+| **Zinc** | **0 mg/kg/día(ver oligoelementos)** |
+| **Magnesio** | **0,25 meq/kg/día** |
+| **Oligoelementos** | **1 cc/kg/día prematuros; 0.5 cc/kg/día término** |
+
+### OSMOLARIDAD
+Debemos ajustar la osmolaridad del fluido para vías centrales y periféricas:
+*Tabla 7. Cálculo de osmolaridad*
+| | ***Osmolaridad*** | ***Kcal/g*** |
+|---|---|---|
+| **HdC** | 5,5 mOsm/g | 3,5 – 4 Kcal/g |
+| **AA** | 9-11 mOsm/g | 3,5 – 4 Kcal/g |
+| **Grasas** | 1,25 mOsm/g | 10 Kcal/g |
+| **Monovalentes (Na, K, Cl)** | 1 mOsm/meq | - |
+| **Divalentes (Ca, P)** | 2 mOsm/meq | - |
+
+@p 2
+@pie 2
+@pie Protocolo NPT Versión 2025
+Cálculo de la osmolaridad:
+1. Multiplicar la osmolaridad de cada gramo por el número total de gramos de la solución.
+2. Hacer una regla de tres en la que:
+Osm total --- Vol programado
+X ---------- 1000 cc
+
+| | ***Osmolaridad máxima*** |
+|---|---|
+| **Vía periférica** | 800 mOsm/L |
+| **Vía central** | 1.600 – 1.800 mOsm/L |
+
+### HEPARINIZACIÓN
+Cuando la vía de administración sea un catéter central o un catéter central de inserción periférica, se heparinizará la solución intravenosa con **heparina sódica 1%** (UI de heparina 1% = ml totales).
+
+### CONTROLES ANALÍTICOS
+Realizar controles al menos una vez al día de equilibrio ácido-base, glucosa, calcio y electrolitos en muestra de sangre total por punción periférica o venosa, hasta alcanzar estabilidad en el aumento de aportes de nutrición parenteral.
+Valorar más controles según alteraciones iónicas o de glucemia.
+Evaluar balance nitrogenado semanal (BUN (mg/dl) = Urea (mg/dl) / 2,1428):
+- BUN 9-14 mg/dL (3,2-5 mmoL/L): en estos valores se pueden seguir incrementando los suplementos proteicos.
+- BUN 14-20 mg/dL: disminuir aportes 0,5 g/kg.
+- BUN <20 mg/dL: suspender suplementos proteicos.
+! Se copia tal como está en el PDF: el tercer punto dice «BUN <20 mg/dL», que coincide con los rangos anteriores; compruébalo con el autor del protocolo. También dice «mg/ml» en las cifras de glucemia del párrafo siguiente.
+
+Niveles de glucemia > 145 mg/ml se asocian con mayor morbilidad y mortalidad. Ajustar los aportes en cada caso y de ser necesario, considerar tratamiento con insulina tras determinaciones repetidas de glucemia > 180 mg/ml. Revisar prescripción de NP por si los aportes de AA están bajos.
+Control de TG a partir de los 15 días de vida independientemente del tipo de nutrición que esté recibiendo (NP, Enteral o mixta):
+- Hasta 265 mg/dL
+- NUNCA > 400 mg/dL
+
+@bib BIBLIOGRAFÍA
+- *Darmaun D, Lapillonne A, Simeoni U, Picaud JC, Rozé JC, Saliba E, Bocquet A, Chouraqui JP, Dupont C, Feillet F, Frelut ML, Girardet JP, Turck D, Briend A; Committee on Nutrition of the French Society of Pediatrics (CNSFP), and French Society of Neonatology (SFN). Parenteral nutrition for preterm infants: Issues and strategy. Arch Pediatr. 2018 May;25(4):286-294*
+- *Su BH. Optimizing nutrition in preterm infants. Pediatr Neonatol. 2014. Feb;55(1):5-13.*
+- *Dutta S, Singh B, Chessell L, Wilson J, Janes M, McDonald K, Shahid S, Gardner VA, Hjartarson A, Purcha M, Watson J, de Boer C, Gaal B, Fusch C. Guidelines for feeding very low birth weight infants. Nutrients. 2015 Jan 8;7(1):423-42.*
+- *Jochum F, Moltu SJ, Senterre T, Nomayo A, Goulet O, Iacobelli S; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR guidelines on pediatric parenteral nutrition: Fluid and electrolytes. Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31167-1.*
+- *Mesotten D, Joosten K, van Kempen A, Verbruggen S; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR guidelines on pediatric parenteral nutrition: Carbohydrates. Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31166-X.*
+- *Van Goudoever JB, Carnielli V, Darmaun D, Sainz de Pipaon M; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR guidelines on pediatric parenteral nutrition: Amino acids.*
+- *Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31164-6.*
+- *Lapillonne A, Fidler Mis N, Goulet O, van den Akker CHP, Wu J, Koletzko B; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR/CSPEN guidelines on pediatric parenteral nutrition: Lipids.*
+- *Clin Nutr. 2018 Jun 18. pii: S0261-5614(18)31165-8.*
+- *Bronsky J, Campoy C, Braegger C; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR/CSPEN guidelines on pediatric parenteral nutrition: Vitamins. Clin Nutr. 2018 Jun 18.*
+- PGN • Volume 76, Number 2, February 2023. Enteral Nutrition in Preterm Infants: ESPGHAN Position Paper 2022

@@ -1,0 +1,26 @@
+Transcripción de los protocolos del servicio al formato de la app.
+Cada .txt es un protocolo, escrito copiando el PDF. Se convierte a protocolos.js con prot.py.
+Formato:
+  @f ruta del PDF desde "1. Protocolos/"      (primera línea)
+  @p N          cambio de página del PDF (para el cotejo y el enlace al original)
+  # texto       título de apartado      ## texto  subapartado      ### texto  sub-subapartado
+  - texto       viñeta (dos espacios delante = segundo nivel)
+  | a | b |     fila de tabla; una fila "|---|" separa la cabecera
+  ! texto       nota del visor (no es del PDF; no entra en el cotejo)
+  @img archivo  imagen recortada del PDF (gráficas o esquemas que no se pueden copiar)
+  @bib [título]  a partir de aquí, bibliografía (plegada); sin título pone «Bibliografía»
+  **negrita**  __subrayado__  ^sup^  ~sub~  {{#rrggbb}} punto de color (tomado del PDF)
+  Cualquier otra línea es un párrafo; una línea en blanco cierra el párrafo.
+  @caja ... @fin   recuadro
+  @deimg ... @findeimg   texto copiado de una imagen del PDF (no tiene capa de texto; se coteja a mano)
+  *cursiva*
+  @pie texto   texto del PDF que se omite a propósito en la app (pies de página repetidos, páginas duplicadas);
+               cuenta como presente en el cotejo. Si no es un pie obvio, añadir una nota del visor (!).
+  Tablas: {n} al inicio de una celda = ocupa n columnas; // dentro de una celda = salto de línea.
+  @flujo ... @finflujo   diagrama:
+     [caja]   [[caja discontinua]]   (globo lateral)   ? pregunta   v (flecha)   {n} caja numerada
+     @cols ... --- ... @fincols   ramas en paralelo (se pueden anidar); // = salto de línea
+     @cols 3 ... --- ... --- ... @fincols   tres ramas en una fila
+     cualquier otra línea = texto suelto. Dentro de un diagrama vale @deimg ... @findeimg.
+  @ancha                  antes de una tabla: tabla ancha con desplazamiento horizontal en el móvil
+  | {fondo #rrggbb} texto |   casilla con el color de fondo del PDF

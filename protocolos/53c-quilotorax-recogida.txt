@@ -1,0 +1,29 @@
+@f 5. Hemodinámico/53c. Quilotórax. Anexo 2. Recogida datos.pdf
+@p 1
+# PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO: *__ANEXO 2__*
+! Es una hoja de recogida para rellenar a mano. Aquí se copian los campos; las casillas en blanco de cada día no se reproducen y la página 2 repite la misma tabla. Para imprimirla, abre el PDF original (enlace abajo).
+
+| **Fecha cirugía:** | **Fecha colocación drenaje derecho:** | *PEGATINA PACIENTE* |
+|---|---|---|
+| **Tipo cirugía:** | **Fecha colocación drenaje izquierdo:** | |
+| **Peso al diagnóstico quilotórax:** | **Fecha cateterismo:** | |
+| | **Fecha pleurodesis:** | |
+
+| **FECHA** |
+|---|
+| **DÉBITO DERECHO** // *ml totales / ml/kg/día* |
+| **DÉBITO IZQUIERDO** // *ml totales / ml/kg/día* |
+| **QUILOPERITONEO** // Si o no / ml totales |
+| **BALANCE TEÓRICO** — **PESO** |
+| **NUTRICIÓN ENTERAL** // *ml por toma / tipo leche* |
+| **OCTREÓTIDO** // Dosis mcg/kg/hora |
+| **OTROS TRATAMIENTOS** |
+| **IgG** // *Cifra / Reposión* |
+| **ALBÚMINA** // *Cifra / Reposión* |
+| **ANTITROMBINA III** // *Cifra / Reposición* |
+| **COAGULOPATÍA** // *Si o no / Transfusión PFC* |
+
+*PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO — Revisado Agosto 2022*
+@p 2
+@pie FECHA DÉBITO DERECHO ml totales / ml/kg/día DÉBITO IZQUIERDO ml totales / ml/kg/día QUILOPERITONEO Si o no / ml totales BALANCE TEÓRICO PESO NUTRICIÓN ENTERAL ml por toma / tipo leche OCTREÓTIDO Dosis mcg/kg/hora OTROS TRATAMIENTOS IgG Cifra / Reposión ALBÚMINA Cifra / Reposión ANTITROMBINA III Cifra / Reposición COAGULOPATÍA Si o no / Transfusión PFC
+@pie PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO Revisado Agosto 2022

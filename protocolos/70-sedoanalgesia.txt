@@ -1,0 +1,90 @@
+@f 12. Procedimientos/70. Protocolo infusiones estandar de sedoanalgesia Febrero 2025.pdf
+@p 1
+@pie 1
+# __70. PROTOCOLO DE INFUSIONES ESTÁNDAR DE SEDOANALGESIA EN UCI DE NEONATOLOGÍA__
+Febrero 2025. Elaborado por Ester Sanz^1^, Ana Rodríguez^1^, María Arriaga^1^, Silvia Manrique^2^
+Aprobado por M. Sánchez Luna^1^ y A. Moro^1^
+Servicios de Neonatología^1^ y Farmacia^2^ Hospital Gregorio Marañón
+
+@ancha
+| **FÁRMACO** | **RANGO PESOS** | **CONCENTRACIÓN** | **DOSIS EN 50 ml** | **VOLUMEN EN 50 ml** |
+|---|---|---|---|---|
+| {fondo #c5d9ef} **DEXMEDETOMIDINA** | {fondo #c5d9ef} 1-2 Kg | {fondo #c5d9ef} 1 mcg/ml | {fondo #c5d9ef} 50 mcg | {fondo #c5d9ef} 0,5 ml |
+| {fondo #c5d9ef} | {fondo #c5d9ef} >2 Kg | {fondo #c5d9ef} 2 mcg/ml | {fondo #c5d9ef} 100 mcg | {fondo #c5d9ef} 1 ml |
+| {fondo #c5d9ef} | {fondo #c5d9ef} CONCENTRADA | {fondo #c5d9ef} 4 mcg/ml | {fondo #c5d9ef} 200 mcg | {fondo #c5d9ef} 2 ml (amp) |
+| {fondo #f8d5bb} **FENTANILO** | {fondo #f8d5bb} < 1 Kg | {fondo #f8d5bb} 1,5 mcg/ml | {fondo #f8d5bb} 75 mcg | {fondo #f8d5bb} 1.5 ml |
+| {fondo #f8d5bb} | {fondo #f8d5bb} 1-2 kg | {fondo #f8d5bb} 3 mcg/ml | {fondo #f8d5bb} 150 mcg | {fondo #f8d5bb} 3 ml (amp) |
+| {fondo #f8d5bb} | {fondo #f8d5bb} >2 Kg | {fondo #f8d5bb} 6 mcg/ml | {fondo #f8d5bb} 300 mcg | {fondo #f8d5bb} 6 ml |
+| {fondo #f8d5bb} | {fondo #f8d5bb} CONCENTRADA | {fondo #f8d5bb} 12 mcg/ml | {fondo #f8d5bb} 600 mcg | {fondo #f8d5bb} 12 ml |
+| {fondo #fce59a} **KETAMINA** | {fondo #fce59a} <1Kg | {fondo #fce59a} 0,5 mg/ml | {fondo #fce59a} 25 mg | {fondo #fce59a} 0,5 ml |
+| {fondo #fce59a} | {fondo #fce59a} 1-2 Kg | {fondo #fce59a} 1 mg/ml | {fondo #fce59a} 50 mg | {fondo #fce59a} 1 ml |
+| {fondo #fce59a} | {fondo #fce59a} >2Kg | {fondo #fce59a} 2 mg/ml | {fondo #fce59a} 100 mg | {fondo #fce59a} 2 ml |
+| {fondo #fce59a} | {fondo #fce59a} CONCENTRADA | {fondo #fce59a} 4 mg/ml | {fondo #fce59a} 200 mg | {fondo #fce59a} 4 ml |
+| {fondo #cfe2bf} **MIDAZOLAM** | {fondo #cfe2bf} <1Kg | {fondo #cfe2bf} 0,1 mg/ml | {fondo #cfe2bf} 5 mg | {fondo #cfe2bf} 5 ml (amp) |
+| {fondo #cfe2bf} | {fondo #cfe2bf} 1-2 Kg | {fondo #cfe2bf} 0,15 mg/ml | {fondo #cfe2bf} 7,5 mg | {fondo #cfe2bf} 7,5 ml |
+| {fondo #cfe2bf} | {fondo #cfe2bf} >2Kg | {fondo #cfe2bf} 0,3 mg/ml | {fondo #cfe2bf} 15 mg | {fondo #cfe2bf} 15 ml |
+| {fondo #cfe2bf} | {fondo #cfe2bf} CONCENTRADA | {fondo #cfe2bf} 0,6 mg/ml | {fondo #cfe2bf} 30 mg | {fondo #cfe2bf} 30 ml |
+| {fondo #f6cdf6} **MÓRFICO , CLORURO**^**^ | {fondo #f6cdf6} <1Kg | {fondo #f6cdf6} 10 mcg/ml | {fondo #f6cdf6} 0,5 mg | {fondo #f6cdf6} 0,5 ml |
+| {fondo #f6cdf6} | {fondo #f6cdf6} 1-2Kg | {fondo #f6cdf6} 20 mcg/ml | {fondo #f6cdf6} 1 mg | {fondo #f6cdf6} 1 ml |
+| {fondo #f6cdf6} | {fondo #f6cdf6} >2 Kg | {fondo #f6cdf6} 40 mcg/ml | {fondo #f6cdf6} 2 mg | {fondo #f6cdf6} 2 ml |
+| {fondo #f6cdf6} | {fondo #f6cdf6} CONCENTRADA | {fondo #f6cdf6} 100 mcg/ml | {fondo #f6cdf6} 5 mg | {fondo #f6cdf6} 5 ml |
+| {5} ^**^ **Para la preparación de la perfusión será necesario previamente diluir la ampolla de Morfina 1%: tomar 1 ml de la ampolla junto con 9 ml de SSF de modo que la dilución de morfina obtenida será 1mg/ml. Una vez hecha la dilución se cargará la cantidad indicada en la última columna en función de la perfusión estándar elegida** |
+| **PROPOFOL** | >2 Kg | 1% (10 mg/ml) | | |
+| **REMIFENTANILO** | >2Kg | 0.04 mg/ml | 2 mg | |
+
+| {2} **Ampollas de medicación** |
+|---|---|
+| Dexdor: | 100mcg/ml ampollas de 2ml |
+| Fentanilo: | 0,15mg/3 ml ampollas 3ml |
+| Ketamina: | 50mg/ml vial de 10ml |
+| Midazolam: | 1mg/1ml ampolla 5ml |
+| Cloruro mórfico 1% | (10mg/ml) ampolla 1ml (diluir según se indica en la tabla) |
+
+**Abreviaturas**
+mcg: microgramo
+ml: mililitro
+Kg: kilogramos
+amp: ampolla
+
+## ¿CÓMO PRESCRIBIRLO EN FARHOS?
+@p 2
+@pie 2
+Buscar en protocolos de neonatología: Neonatología sedación estándar
+@img 70-farhos-1.png
+Seleccionar perfusión apropiada para nuestro paciente: para cada fármaco existen varias concentraciones en función del peso del paciente si queremos concentrar más la perfusión porque precisemos restringir líquidos usar la inmediatamente superior y a la inversa si queremos diluirla más
+
+Ejemplo: Niño de 1.7 Kg perfusión de fentanilo
+- La indicada por su peso sería: 3 microgramos/ml
+- La quiero concentrar más: usaría 6 microgramos/ml
+- La quiero diluir más: usaría 1,5 microgramos/ml
+@img 70-farhos-2.png
+Una vez seleccionada, la perfusión aparece en la prescripción, pero sin el ritmo al que debe infundirse. Hemos de seleccionar la perfusión para modificarla:
+@p 3
+@pie 3
+@img 70-farhos-3.png
+Una vez seleccionada, aparece el menú de mezclas dónde vamos a poder programar el ritmo de la perfusión para administrar al paciente la cantidad de fármaco que queremos. Ejemplo: vamos a programar para administrar a 2mcg/kg/h
+1. Selecciono el medicamento: en este caso fentanilo
+@img 70-farhos-4.png
+2. Selecciono **mezclas estándares** y programo:
+  - a. Dosis a administrar: en este caso 2 microgramos/kg/h
+@p 4
+@pie 4
+  - b. Dosis total que es la de la perfusión que he seleccionado: en este caso 0,075 mg
+
+El volumen aparece 51,5 ml, NO hay que modificarlo.
+@img 70-farhos-5.png
+3. Tras programar lo anterior, abro el menú de la velocidad y selecciono ml/h
+@img 70-farhos-6.png
+@p 5
+@pie 5
+Tras ello FARHOS programa de manera automática la velocidad (flecha roja) a la que debe ir la perfusión seleccionada para administrar el fármaco a la dosis deseada, en este caso a 2mcg/kg/min.
+
+Después, aceptamos en el tic verde lateral derecho (flecha verde):
+@img 70-farhos-7.png
+Tras ello, aparece la siguiente pantalla y debo dar en aceptar (flecha roja):
+@img 70-farhos-8.png
+Finalmente, ya aparece en la prescripción del paciente la perfusión estándar seleccionada al ritmo deseado y su equivalencia en dosis:
+@p 6
+@pie 6
+@img 70-farhos-9.png
+! Las capturas de FARHOS se han recortado del PDF. «en este caso a 2mcg/kg/min» está así en el PDF; el ejemplo se programa a 2 mcg/kg/h. En la tabla, la casilla de volumen de propofol y remifentanilo está vacía en el original.

@@ -1,0 +1,63 @@
+@f 12. Procedimientos/39. Analgesia para procedimientos.pdf
+@p 1
+# TEMA 39. PROTOCOLO DE ANALGESIA FARMACOLÓGICA Y NO FARMACOLÓGICA PARA PREVENCIÓN Y TRATAMIENTO DEL DOLOR POR __PROCEDIMIENTOS__ EN NEONATOLOGÍA.
+Autoría: Itziar Marsinyach Ros. Fecha de actualización: abril 2025.
+
+## __MEDIDAS COMUNES A TODOS LOS PROCEDIMIENTOS__
+- Prevención: confirmar la necesidad de la técnica (promover monitorización no invasiva, agrupar procedimientos/extracciones).
+- Agrupar tarea con manipulación para respetar el sueño.
+- Realizar valoración previa-durante y tras el procedimiento con escala validada (PIPP-R).
+- Valoración de dolor mediante escala validada para procedimientos (PIPP-R).
+
+## __MEDIDAS PARA PREVENCIÓN-ANALGESIA POR PROCEDIMIENTO (TABLA).__
+| **PROCEDIMIENTO** | **CONTROL DE DOLOR** |
+|---|---|
+| Punción del talón | Acondicionamiento de la zona (valorar calentamiento). // Succión con endulzante (lactancia materna, sacarosa 24%, glucosa 30%) __2 minutos antes__ del procedimiento. // Posicionamiento, arropamiento. Favorecer extracción en canguro. // Contención por ayudante (preferiblemente los padres). // Uso de lanceta mecánica aprobada para edad gestacional del paciente. |
+| Extracción venosa | Succión con endulzante (lactancia materna, sacarosa 24%, glucosa 30%) __2 minutos antes__ del procedimiento. // Posicionamiento, arropamiento. Contención por ayudante (preferiblemente los padres). // Evitar movimientos bruscos y posturas dolorosas de los miembros. |
+| Punción lumbar | Succión con endulzante (lactancia materna, sacarosa 24%, glucosa 30%) 2 minutos antes. // Posicionamiento, arropamiento. // Valorar analgesia farmacológica con fármaco de acción rápida (ej. Ketamina). |
+| Intubación // Colocación de tubo de tórax // Canalización vías centrales | Analgesia no farmacológica antes del procedimiento: evitar estrés (arropamiento, contención, calor y succión). Contención por ayudante // Elección del fármaco analgésico – mayor experiencia con: opiáceos (Fentanilo 1-3mcg/kg/dosis por rapidez de acción) y valorar, __si precisa__, sedación en recién nacidos a término con midazolan (0,05-0,3mg/kg/dosis). // En pacientes extubados, valorar (si edad gestacional > 34 semanas) ketamina intravenosa 1-3mg/kg/dosis. // Evitar relajantes musculares en neonatos (intubación difícil). |
+| LISA // *Less Invasive Surfactant Administration* | Succión con endulzante (lactancia materna, sacarosa 24%, glucosa 30%) 2 minutos antes. // Posicionamiento, arropamiento. // Contención por ayudante. // Si precisa: valorar bolo 0,5mcg/kg de Fentanilo o Ketamina 1mg/kg iv. |
+| Inyección IM/SC | Preferir ruta IV. Medidas no farmacológicas, |
+| Catéter umbilical | Medidas no farmacológicas. |
+| Sonda nasogástrica | Medidas no farmacológicas, lubricar la sonda. |
+| Aspiración TET | Succión. En pacientes intubados, no se recomienda administrar solución endulzante en las dosis recomendadas. Se puede aplicar una gota con el chupete o una gasa empapada (lactancia materna, sacarosa 24%, glucosa 30%). // Posicionamiento, arropamiento. Contención por ayudante (preferiblemente los padres). // Aspiraciones cortas. Esperar a recuperación. // La eficacia de la analgesia farmacológica (opiáceos) para tratamiento de dolor relacionado con procedimientos cortos, arroja resultados controvertidos. // Si inestabilidad respiratoria: premedicar con fentanilo iv .en bolo. |
+| Examen fondo de ojo | Medidas no farmacológicas, colirio anestésico, etc. |
+| Retirada de catéter torácico | Medidas no farmacológicas. |
+| Retirada de suturas/ fijaciones | Medidas no farmacológicas. |
+@p 2
+
+Uso limitado de medidas farmacológicas para procedimientos por falta de evidencia de su seguridad a largo plazo en fármacos distintos de los opiáceos y datos controvertido de su eficacia a dosis habituales para procedimientos cortos.
+Fármacos de uso restringido por haberse relacionado con posibles efectos adversos sobre el neurodesarrollo: Ketamina, Propofol, Midazolan, etc.
+
+@bib BIBLIOGRAFÍA
+1. Gibbins S, Stevens BJ, Yamada J, Dionne K, Campbell-Yeo M, Lee G, et al. Validation of the Premature Infant Pain Profile-Revised (PIPP-R). Early human development. 2014;90(4):189-93.
+2. Hall RW, Anand KJ. Pain management in newborns. Clin Perinatol. 2014;41(4):895-924.
+3. Stevens B, Yamada J, Lee GY, Ohlsson A. Sucrose for analgesia in newborn infants undergoing painful procedures. The Cochrane database of systematic reviews. 2013;1:CD001069.
+4. Gray L, Miller LW, Philipp BL, Blass EM. Breastfeeding is analgesic in healthy newborns. Pediatrics. 2002;109(4):590-3.
+5. Anand KJ, International Evidence-Based Group for Neonatal P. Consensus statement for the prevention and management of pain in the newborn. Archives of pediatrics & adolescent medicine. 2001;155(2):173-80.
+
+*Dra. Marsinyach Ros. Neonatología. HGUGM. Fecha revisión: abril 2025.*
+
+## ESCALA PIPP-Revised
+@p 3
+@deimg
+**The Premature Infant Pain Profile: Revised**
+@ancha
+| **Infant Indicator** | {4} **Indicator Score** | **Infant Indicator Score** |
+|---|---|---|---|---|---|
+| | **0** | **+1** | **+2** | **+3** | |
+| **Change in Heart Rate (bpm)** // Baseline: ______ | 0 - 4 | 5 - 14 | 15 - 24 | >24 | |
+| **Decrease in Oxygen Saturation (%)** // Baseline: ______ | 0 - 2 | 3 - 5 | 6 – 8 | >8 or Increase in O~2~ | |
+| {fondo #cfcfd3} **Brow Bulge (Sec)** | {fondo #cfcfd3} None (<3) | {fondo #cfcfd3} Minimal (3 -10) | {fondo #cfcfd3} Moderate (11 – 20) | {fondo #cfcfd3} Maximal (>20) | {fondo #cfcfd3} |
+| {fondo #cfcfd3} **Eye Squeeze (Sec)** | {fondo #cfcfd3} None (<3) | {fondo #cfcfd3} Minimal (3 -10) | {fondo #cfcfd3} Moderate (11 – 20) | {fondo #cfcfd3} Maximal (>20) | {fondo #cfcfd3} |
+| {fondo #cfcfd3} **Naso-Labial Furrow (Sec)** | {fondo #cfcfd3} None (<3) | {fondo #cfcfd3} Minimal (3 -10) | {fondo #cfcfd3} Moderate (11 – 20) | {fondo #cfcfd3} Maximal (>20) | {fondo #cfcfd3} |
+| {5} ^*^ Sub-total Score: | |
+| **Gestational Age (Wks + Days)** | >36 wks | 32 wks - 35 wks, 6d | 28 wks- 31wks, 6d | <28wks | |
+| {fondo #cfcfd3} **Baseline Behavioural State** | {fondo #cfcfd3} Active and Awake | {fondo #cfcfd3} Quiet and Awake | {fondo #cfcfd3} Active and Asleep | {fondo #cfcfd3} Quiet and Asleep | {fondo #cfcfd3} |
+| {5} ^**^ Total Score: | |
+^*^ Sub-total for physiological and facial indicators. If Sub-total score>0, add GA and BS indicator scores.
+^**^ Total Score: Sub-total Score + GA Score + BS Score
+@findeimg
+! La escala es una imagen en inglés en el PDF y se ha copiado a mano. La última columna («Infant Indicator Score») está vacía en el original: es para anotar la puntuación de cada fila.
+
+**NOTA**: Calcular el score subtotal de parámetros fisiológicos y expresión facial y, si es > 0, incluir puntuación de edad gestacional y estado basal de comportamiento.

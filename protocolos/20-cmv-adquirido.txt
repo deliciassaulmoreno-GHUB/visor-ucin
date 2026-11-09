@@ -1,0 +1,69 @@
+@f 9. Infeccioso/20. Protocolo CMV adquirido-1.pdf
+@p 1
+# PROTOCOLO 20. INFECCIÓN POR CITOMEGALOVIRUS ADQUIRIDO.
+Protocolo Neonatología y Enfermedades Infecciosas Pediátricas. Actualizado: junio de 2018.
+Autoras: Sylvia Caballero y Alba Pérez.
+
+**Paciente objeto de este protocolo:** Infección adquirida en el recién nacido, desde el momento del parto hasta los primeros meses de vida. Las infecciones por CMV adquiridas en la comunidad, así como las presentes en el paciente inmunodeprimido, no son objeto de este protocolo. El grupo principal de riesgo de infección sintomática son los RNPT (<32 SEG) o de muy bajo peso al nacimiento (<1500 g).
+
+| **FUENTES DE TRANSMISIÓN:** | **CLÍNICA:** |
+|---|---|
+| ▪ Materna: principalmente mediante la leche materna, en su mayoría en madres IgG CMV positivas (reactivación del virus en glándulas mamarias). // ▪ Transfusiones (raro actualmente por las medidas realizadas en los bancos de sangre). // ▪ Fluidos biológicos (orina y saliva, especialmente a través del personal sanitario) → transmisión nosocomial. Se previene mediante un correcto lavado de manos. | ▪ Más frecuentemente asintomática. // ▪ Si infección sintomática: neumonitis, hepatitis, enteritis, linfadenopatía, meningitis aséptica o sepsis. // ✓ Alteraciones analíticas: neutropenia, linfocitosis o linfopenia, trombopenia, anemia, colestasis o hipertransaminasemia. // ✓ Sospechar también si aumento necesidades FiO2 (en paciente con displasia broncopulmonar). |
+
+La excreción de virus máxima en la leche materna se alcanza entre las semanas 4º y 8º de vida, momento en el que es más probable la infección del lactante. Los síntomas generalmente aparecen entre las semanas 6º y 10º de vida.
+Los factores de riesgo de infección sintomática grave con interés clínico descritos son la prematuridad extrema (<26 SEG) y la presencia de comorbilidades.
+
+## DIAGNÓSTICO:
+El diagnóstico de la infección adquirida por CMV puede ser especialmente difícil en niños en los que no exista una muestra biológica adecuada (principalmente orina al nacimiento) para la detección de CMV. Esto es debido a la baja sensibilidad de la PCR en sangre seca en papel secante obtenida de los neonatos las primeras semanas de vida. Es por esto por lo que, en los RNPT (<32 SEG) o bajo peso al nacimiento (<1500 g), se recomienda obtener una muestra de orina para PCR CMV durante los primeros 15 días de vida. Otras indicaciones se pueden consultar en el protocolo de CMV congénito.
+@flujo
+@cols
+[Cultivo o PCR CMV negativos en orina en las 3 primeras semanas de vida y positivos posteriormente en cualquier tipo de secreción (no contaminada por leche materna).]
+---
+[Cultivo o PCR CMV positivos en orina, sangre o LCR a partir de las 3 semanas de vida:]
+@cols
+[✓ Si PCR CMV positiva en sangre seca: diagnóstico CMV congénito.]
+---
+[✓ Si PCR CMV negativa en sangre seca: el diagnóstico de posible o probable infección adquirida se realizará acorde a otros factores, NO pudiéndose descartar CMV congénito.]
+@fincols
+@fincols
+@finflujo
+
+## EVALUACIÓN del RN con infección adquirida por CMV:
+| {2} **Pruebas complementarias** |
+|---|---|
+| - Exploración física. // - Analítica: hemograma y bioquímica completa. // - Radiografía de tórax si clínica respiratoria. // - Ecografía de abdomen si hepatomegalia, hepatitis o colestasis. | - Microbiología: // ▪ PCR cuantitativa CMV sangre y orina. // ▪ Cultivo o PCR CMV en leche materna*. // ▪ Valorar cultivo o PCR en LCR, heces o BAS/BAL según clínica. |
+*Si hermano gemelo alimentado con LM o si dudas sobre origen congénito o adquirido (ver último apartado).
+
+@p 2
+## TRATAMIENTO
+| | |
+|---|---|
+| **Indicación de tratamiento en infección adquirida comfirmada** | No está indicado el tratamiento sistemático. La infección resolverse espontáneamente en la mayoría de los casos. // Indicado en los casos graves: // ▪ Cuadro sepsis-like. // ▪ Neumonitis con necesidad de oxigenoterapia o asistencia ventilatoria. // ▪ Hepatitis colestásica o con aumento moderado o progresivo de las transaminasas (> 3 veces valores normales). // ▪ Enterocolitis hemorrágica. // ▪ Diarrea grave refractaria. // ▪ Meningoencefalitis. |
+| **Pauta** | Tratamiento de inicio: Ganciclovir iv. Si mejoría clínica, valorar pasar a valganciclovir vo. |
+| **Dosis** | ▪ Ganciclovir iv: 12 mg/kg/día cada 12 horas (ajustar dosis al peso). // ▪ Valganciclovir oral (Valcyte® 50 mg/ml): 32 mg/kg/día cada 12 horas (ajustar dosis al peso). (dispensación en Farmacia Hospitalaria) |
+| **Duración** | Al menos 2-3 semanas, se puede prolongar más tiempo, según la evolución clínica. |
+| **Seguimiento** | Valorar PCR CMV en sangre 1 vez/semana inicialmente, para objetivar disminución progresiva de la carga viral, o si mala evolución. Hemograma semanal (suspender si neutropenia <500/mm3). |
+
+## MEDIDAS DE AISLAMIENTO Y CONTROL DE INFECCIÓN:
+- Sólo son necesarias las precauciones de aislamiento estándar: lavado de manos o uso de soluciones alcohólicas.
+- Lactancia materna: a pesar de que la mayoría de las madres seropositivas (IgG) a CMV excretan el virus durante los primeros meses de vida, el beneficio de la lactancia materna supera a sus posibles riesgos. Sin embargo, no está claro el riesgo de mantener la lactancia materna en madres con excreción activa de CMV en la leche materna con hijos de alto riesgo o con infección por CMV sin tratamiento. Se podría considerar ofrecer a la madre la opción de pasteurización o congelación (<18ºC al menos 24 horas) de la leche materna. La pasteurización elimina el riesgo de transmisión del virus, pero altera la composición de la leche, mientras que la congelación no elimina completamente el riesgo, pero mantiene intacta su composición.
+
+@flujo
+[**Situación especial:** gemelos prematuros con infección adquirida confirmada en uno de ellos: // ✓ Solicitar PCR CMV en leche materna + CMV orina en el otro gemelo.]
+@cols
+[Si CMV orina positivo: seguir protocolo habitual previamente descrito.]
+---
+[Si CMV orina negativo + PCR CMV leche materna positiva: seguir lo indicado en el párrafo anterior.]
+@fincols
+@finflujo
+! Se copia tal como está en el PDF: «congelación (<18ºC…)», sin signo menos delante del 18.
+
+## SEGUIMIENTO AL ALTA
+A diferencia de la infección congénita, no está demostrado que la infección adquirida produzca hipoacusia neurosensorial a largo plazo. Hay controversia en cuanto a una posible afectación neurocognitiva, aunque en todo caso ésta sería leve. El seguimiento neurocognitivo ha de ser el habitual del prematuro.
+
+@bib Bibliografía:
+- A. Alarcón Allen, F. Baquero-Artigao y Grupo de estudio de la infección congénita por citomegalovirus de la Sociedad Española de Infectología Pediátrica. Revisión y recomendaciones sobre la prevención, diagnóstico y tratamiento de la infección posnatal por citomegalovirus. An Pediatric (Barc). 2011;74(1):52.
+- Gail J Demmler-Harrisoon. Acquired cytomegalovirus infection in children. Uptodate. Último acceso: 12 de abril de 2018.
+- Kadambari S, Luck S, Heath PT, Sharland M. Preemptive Screening Strategies to Identify Postnatal CMV Diseases on the Neonatal Unit. Pediatr Infect Dis J. 2016 Oct;35(10):1148-50.
+- Gunkel J, Wolfs TF, de Vries LS, Nijman J. Predictors of severity for postnatal cytomegalovirus infection in preterm infants and implications for treatment. Expert Rev Anti Infect Ther. 2014 Nov;12(11):1345-55.
+- Lanzieri TM, Dollard SC, Josephson CD, Schmid DS, Bialek SR. Breast milk-acquired cytomegalovirus infection and disease in VLBW and premature infants. Pediatrics. 2013 Jun;131(6): e1937-45.

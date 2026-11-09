@@ -1,0 +1,72 @@
+@f 5. Hemodinámico/53a.  Quilotórax. Anexo 1. Algoritmo.pdf
+@p 1
+# ANEXO 1
+@flujo
+[**CONFIRMACIÓN QUILOTÓRAX POSTQUIRÚRGICO** // __Recoger débito por drenajes y tratamiento de manera diaria: rellenar documento (*Anexo 2*)__]
+@cols
+[**PRUEBAS COMPLEMENTARIAS:** *ver protocolo*]
+---
+[[**ANTICOAGULAR** si trombosis territorio superior]]
+@fincols
+@cols
+[**BAJO DÉBITO** // *(< 20 ml/kg/día)*]
+v
+[__Cambio nutrición enteral:__ // **MONOGEN® o LECHE MATERNA CENTRIFUGADA + MCT** ✷]
+v
+[[**__¿HASTA CUÁNDO?__** // Durante 4-6 semanas]]
+---
+[**ALTO DÉBITO** // *(>20 ml/kg/día)*]
+v
+[**DIETA ABSOLUTA + NPT**]
+(*Si mejoría*)
+@fincols
+v
+**Si persiste débito alto:** // *> 10 ml/kg/día __durante una semana__ o // > 100 ml al día __durante 5 días consecutivos__*
+v
+[[Valorar otros tratamientos conservadores como **OCTREOTIDO:** *ver hoja siguiente*]]
+*Si no mejora, valorar…*
+v
+(*Valorar realizar*)
+[**CATETERISMO**]
+@deimg
+(*Si mejoría*)
+@findeimg
+@cols
+[[**SÓLO DIAGNÓSTICO**]]
+*Pasar de manera precoz a siguiente paso*
+v
+[**PLEURODESIS**]
+@deimg
+(*Si mejoría*)
+@findeimg
+[[**LINFOGRAFÍA** // (lo ideal sería previo a la pleurodesis)]]
+---
+[[**TERAPÉUTICO**]]
+*Dejar de margen al menos 1 semana para comprobar resultados. // Si no mejora…*
+v
+[**PLEURODESIS**]
+[[**LINFOGRAFÍA** // (lo ideal sería previo a la pleurodesis)]]
+@fincols
+@finflujo
+! Adónde van las flechas en el original: los tres globos «Si mejoría» (junto a Dieta absoluta, a Cateterismo y a la Pleurodesis tras cateterismo diagnóstico) vuelven a «Cambio nutrición enteral»; «Valorar realizar» es una flecha roja que baja desde «Anticoagular» hasta «Cateterismo». Dos de los «Si mejoría» están en la imagen sin capa de texto y se han copiado a mano.
+
+✷ **MCT= triglicéridos cadena media**
+__Concentración:__ 1 gr/1 ml
+*__Aporte calórico:__ 8.55 kcal/ml o 8.55 kcal/gr*
+
+Introducción progresiva si LMC
+Vigilar: vómitos/deposiciones diarreicas
+
+**¿CÓMO PAUTARLO?**
+- Iniciar 2.5 gr/100 ml de leche
+- Aumentar 0.5 gr/100 ml diarios
+- Máximo: 5 gr/100 ml
+
+## OBSERVACIONES:
+- **RETIRAR DRENAJES** si débito < 2 ml/kg/día y nutrición enteral > 40 ml/kg/día.
+- Si débito < 10 ml/kg/día, mantener tratamiento conservador 3-4 semanas y si persiste valorar tto invasivo.
+- Intentar NO canalizar silástico en lado izquierdo previo a una cirugía cardiaca. Retirada PRECOZ vías centrales.
+- Valorar __ciclar NPT__ si dieta > 10 días y estabilidad hemodinámica.
+- Si **quiloperitoneo:** valorar individualmente según repercusión necesidad de punción evacuadora o colocación de drenaje peritoneal vs válvula derivación peritoneo-yugular/auricular (decisión conjunta por equipo multidisciplinar).
+
+*PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO — Revisado Agosto 2022*

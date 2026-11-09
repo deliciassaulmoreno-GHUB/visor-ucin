@@ -1,0 +1,28 @@
+@f 13. Vacunación/60. Protocolo melatonina para RMN.pdf
+@p 1
+# __Protocolo 60. Pauta de sedación para RMN con melatonina__
+@caja
+Fecha de actualización: marzo 2022.
+Autoría: Dra. Dorotea Blanco Bravo.
+@fin
+Indicación: neonatos en situación respiratoria estable que tengan indicación de RMN sin anestesia (no hay que poner interconsulta).
+
+| {fondo #b4a7d6} ***MELATONINA*** |
+|---|
+| La melatonina (N-acetil-5-hidroxitriptamina) es producida fundamentalmente por la glándula pineal. Propiedades: inducción del sueño y regulación de los ciclos vigilia sueño.; antioxidantes, antiinflamatorias y neuroprotectoras. |
+| {fondo #a4c2e4} **DOSIFICACIÓN** |
+| ***PROTOCOLO PARA REALIZACION DE RM CEREBRAL EN EL RN:*** // ***30 minutos*** antes de la RM administrar 0,64 mg/kg de melatonina // Si a los 20 minutos de la administración, la inducción del sueño es insuficiente: administrar 1 mg más (0,5 ml más de la dilución independientemente del peso) // ***Pautar como suplemento alimentario*** |
+| {fondo #a4c2e4} **PREPARACIÓN** |
+
+| **PRESENTACIÓN** | **COMPOSICÓN** | **DOSIFICACIÓN** | **VÍA** |
+|---|---|---|---|
+| Melamil Tripto® | **En 0,5 ml:** // **1mg de melatonina** // 20 mg de triptófano // 1,4 mg de B6 | Dosificación según dosis de melatonina a administrar | VO // SNG/SOG // STP |
+
+| {fondo #a4c2e4} **ESTABILIDAD** |
+|---|
+| Conservar en un lugar fresco y seco, alejado de fuentes de calor (entre 15-25 ° C). Una vez abierto, cerrar el frasco inmediatamente, guardar en la nevera y consumir dentro de los 30 días siguientes. |
+| {fondo #a4c2e4} **MONITORIZACIÓN** |
+| FC, Saturación. |
+| {fondo #a4c2e4} **PRECAUCIONES** |
+| Para la inducción del sueño previa a RM cerebral, **__no se debe__** superar dosis total de 4 mg de melatonina. Si es necesario, adelantar la toma para que el niño baje sin hambre. // En la sale de RM se pondrá protección auricular y “manta” de contención habitual. |
+! En el PDF es una sola tabla; la fila de preparación tiene cuatro columnas (más una columna vacía entre «Dosificación» y «Vía») y aquí va aparte. «COMPOSICÓN» y «sale de RM» están así en el original.

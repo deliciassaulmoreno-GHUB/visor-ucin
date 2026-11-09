@@ -1,0 +1,123 @@
+@f 7. Metabólico renal/62b. Protocolo tratamiento inicial de hiperamonemia.pdf
+@p 1
+# __62b.__ PROTOCOLO HIPERAMONIEMIA AGUDA
+## Tratamiento en fase aguda sin diagnóstico
+*PROTOCOLO HIPERAMONIEMIA — __Revisado Febrero 2022__*
+
+## 1. ALGORITMO MANEJO SEGÚN NIVELES DE AMONIO: __Ver ANEXO 3__
+**__¿CADA CUÁNTO REALIZAR CONTROLES DE AMONIO?:__** cada 2 horas inicialmente, luego se pueden espaciar según evolución.
+**__¿QUÉ VÍAS CANALIZAR?:__** al menos 2 vías venosas (una de ellas central). Si amonio > 250 µmol/l preparar vía para HDFVVC.
+
+## 2. MEDIDAS INICIALES:
+- **DIETA ABSOLUTA.**
+- **Retirar** aportes de **proteínas** las primeras 48 horas → *luego reiniciarlas entre 0.1-0.3 g/kg/día si normalización amonio.*
+- **Eliminar los lípidos** hasta descartar un trastorno de la β-oxidación de ácidos grasos. Posteriormente se pueden iniciar.
+- **SUEROTERAPIA:** aportes altos de glucosa altos para prevenir el catabolismo (__10 mg/kg/min__) + iones.
+  - Las medicaciones de la hiperamoniemia se diluyen en SG al 10% (tener en cuenta para cálculos).
+  - Realizar __controles de glucemia__ horarias las primeras 4 horas y posteriormente cada 6 horas.
+  - Si hiperglucemia iniciar perfusión de insulina.
+- Riesgo de hipernatremia por aportes alto de sodio en las medicaciones específicas de hiperamoniemia.
+- Garantizar la **adecuada oxigenación y ventilación** del paciente. Valorar intubación orotraqueal si hiperamoniemia grave.
+- **Evitar:** hipotensión, hipovolemia, hipertermia, anemia e hiponatremia.
+- **Descartar infección** y valorar necesidad de inicio de antibioterapia.
+
+**__MEDICACIONES PROHIBIDAS:__** valproico; **__Si sospecha trastorno β-oxidación__**, prohibido: benzoato, ammonul y carnitina.
+**__MEDICACIONES CON PRECAUCIÓN:__** corticoides, fenitoína, carbamazepina, topiramato, midazolam. Si se utiliza fenobarbital vigilar niveles de amonio.
+
+@caja
+**NO OLVIDAR SACAR LAS MUESTRAS ANTES DE INICIAR EL TRATAMIENTO**
+@fin
+
+## 3. FÁRMACOS:
+*__Ver ANEXO 4: ejemplo con paciente de 3 kg__*
+***Prescripción electrónica:** seleccionar PROTOCOLO NEONATOLOGÍA HIPERAMONIEMIA AGUDA*
+
+| **TRATAMIENTO DE ELECCIÓN** | **TRATAMIENTO ALTERNATIVO** | **TRATAMIENTO SI SOSPECHA TRASTORNO β-OXIDACIÓN** |
+|---|---|---|
+| -Arginina iv // -N-carbamilglutamato oral // -Ammonul (benzoato + fenilbutirato) iv // -__**Cofactores:**__ // ▪ Carnitina oral/iv (carbaglu)® // ▪ Biotina oral // ▪ Hidroxicobalamina IM/oral | -Arginina iv // -N-carbamilglutamato oral // -Benzoato sódico iv // -Fenilbutirato sódico iv // -__**Cofactores:**__ // ▪ Carnitina oral/iv // ▪ Biotina oral // ▪ Hidroxicobalamina IM/oral | -Arginina iv // -N-carbamilglutamato oral // -Fenilbutirato sódico iv // -__**Cofactores:**__ // ▪ Biotina oral // ▪ Hidroxicobalamina IM/oral |
+! En el PDF la cabecera de cada columna tiene un color (azul oscuro, rosa y gris).
+
+### A) Arginina:
+- **Vía:** intravenosa y central preferiblemente.
+- **Dosis de carga:** __250__-400 mg/kg a pasar en 90-120 minutos; **Dosis de mantenimiento:** 250mg/kg a pasar en 24 horas (incluso hasta 600 mg/kg/día)
+- **Presentación:** Arginina clorhidrato 10% ampollas 10 ml (1gr/10ml).
+- **PREPARACIÓN:**
+  - Se administra diluido con suero glucosado al 5-10% y en perfusión continua.
+  - Diluir la ampolla (10 ml) en 40 cc de suero glucosado al 10% → __volumen final: 50 ml.__
+  - **Concentración final:** 20 mg/ml.
+  - Se puede administrar en Y con ammoul, benzoato sódico y fenilbutirato sódico.
+  - Excepcionalmente se podría diluir junto con el ammoul en una misma perfusión.
+
+### B) N-Carbamilglutamato:
+- **Vía:** oral/SNG.
+- **1ª dosis:** 100 mg/kg**; Dosis posterior:** 100-250 mg/kg/día cada 6 horas.
+- **Presentación:** Carbaglú comprimidos 200 mg.
+- **PREPARACIÓN:**
+  - Dilución mínima en 5-10 ml de agua.
+@p 2
+@pie PROTOCOLO HIPERAMONIEMIA Revisado Febrero 2022
+
+### C) Ammonul (Fenilacetato + benzoato):
+- **Vía:** intravenosa y central.
+- **Dosis de carga:** 250 mg/kg a pasar en 90-120 minutos; **Dosis de mantenimiento:** __250__-500 mg/kg a pasar en 24 horas.
+- **Presentación:** Ammonul 10% ampollas 50 ml (100 mg fenilbutirato + 100 mg benzoato/ml).
+- **PREPARACIÓN:**
+  - Se administra diluido con suero glucosado al 10% y en perfusión continua.
+  - Diluir 10 ml de la ampolla en 40 cc de suero glucosado al 10% → __volumen final: 50 ml.__
+  - **Concentración final:** 20 mg/ml (máximo 50 mg/mL)
+  - Se puede administrar en Y con arginina.
+  - Excepcionalmente se podría diluir junto con la arginina en una misma perfusión.
+
+### D) Fenilbutirato sódico:
+- **Vía:** intravenosa y central (vvp si se diluye con SG 5%).
+- **Dosis de carga:** 250 mg/kg a pasar en 90-120 minutos; **Dosis de mantenimiento:** 250-500 mg/kg a pasar en 24 horas.
+- **Presentación:** Ambutyrate ampollas 10 ml (2gr/10ml).
+- **PREPARACIÓN:**
+  - Se administra diluido con suero glucosado al 5-10% y en perfusión continua.
+  - Diluir la mitad de la ampolla (5 ml) en 45 cc de suero glucosado al 10% → __volumen final: 50 ml.__
+  - **Concentración final:** 20 mg/ml.
+  - Se puede administrar en Y con arginina y benzoato.
+
+### D) Benzoato sódico:
+- **Vía:** intravenosa y central preferiblemente.
+- **Dosis de carga:** 250 mg/kg a pasar en 90-120 minutos; **Dosis de mantenimiento:** 250-500 mg/kg a pasar en 24 horas.
+- **Presentación:** Benzoato sódico 25% ampollas 10 ml (2,5gr/10ml).
+- **PREPARACIÓN:**
+  - Se administra diluido con suero glucosado al 5-10% y en perfusión continua.
+  - Diluir la ampolla (10ml) en 40 cc de suero glucosado al 10% → __volumen final: 50 ml.__
+  - **Concentración final:** 50 mg/ml.
+  - Se puede administrar en Y con arginina y fenilbutirato.
+
+### E) Carnitina:
+- **Vía:** oral/SNG o iv (puede ser vvp).
+- **1ª dosis:** 50 mg/kg iv a pasar en 90 minutos; **Dosis posterior:** 100 mg/kg/día cada 6 horas oral/iv.
+- **Presentación:** Carnicor ampollas 1 gr 5 ml/ Carnicor solución oral 1 gr viales bebibles 10ml.
+- **Preparación en caso de administración iv:**
+  - Se administra diluido en SF en 15-30 min.
+  - Diluir 1 ampolla (5 ml) en 45 ml de fisiológico: volumen final de 50 ml. **Concentración final:** 20 mg/ml.
+
+### E) Biotina:
+- **Vía:** oral/SNG.
+- **Dosis:** 30 mg/día dosis única diaria.
+- **Presentación:** Medebiotin 5mg amp 1 mL (se pueden administrar por vía oral).
+
+### F) Hidroxicobalamina:
+- **Vía:** intramuscular u oral/SNG
+- **Dosis si vía IM:** 1mg/día dosis única diaria → precaución si coagulopatía.
+- **Dosis si vía oral:** 10 mg/día dosis única diaria.
+- **Presentación:** megamilbedoce ampollas 10mg 2ml (misma forma presentación oral e IM).
+! Las letras de los apartados (dos «D» y dos «E») están así en el PDF.
+
+## 4. HEMODIAFILTRACIÓN veno-venosa continua:
+- **INDICACIÓN:**
+  - Si niveles de amonio > 400 µmol/l.
+  - Si no hay respuesta al tratamiento tras 4 horas con cifras de amonio entre 200-400 µmol/l.
+  - Si acidosis metabólica grave que no mejora tras 4 horas de tratamiento (pH < 7,1).
+- **¿HASTA CUÁNDO MANTENERLA?:** hasta que las cifras de amonio se mantengan estables < 100 μmol/L.
+
+@caja
+**RECOMENDACIONES**
+**Flujo sanguíneo:** 3-10 ml/kg/min (30-40 ml/min); **Flujo diálisis:** 1/3 flujo sangre inicialmente; **Flujo sustitución:** 100 ml/hora
+Se puede ir aumentando flujo de diálisis si no conseguimos descenso cifras de amonio.
+Mantener **fracciones de filtración** < 10-12% (ajustar flujo de sangre para conseguirlo).
+@fin

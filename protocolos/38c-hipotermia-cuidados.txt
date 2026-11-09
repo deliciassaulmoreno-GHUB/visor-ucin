@@ -1,0 +1,75 @@
+@f 11. Neurológico/38c Cuidados en hipotermia activa-1.pdf
+@p 1
+@pie 1
+# __38c. PROTOCOLO DE HIPOTERMIA ACTIVA.__ Última revisión: noviembre 2020.
+## __MANEJO DEL PACIENTE EN HIPOTERMIA ACTIVA__
+
+### 1. __Fase de enfriamiento__
+- **Iniciar hipotermia activa lo antes posible una vez estabilizado el paciente.**
+- Tratar coagulopatia y/o plaquetopenia significativa, especialmente si existe sangrado activo.
+- Si inestabilidad hemodinámica, solicitar ECOCARDIOGRAFIA (funcional) y Troponina I/proBNP.
+- Programar dispositivo (“programación de tratamiento activo en Tecotherm®”): enfriamiento a 33,5ºC durante 72 horas y recalentamiento hasta 36.5ºC a una velocidad máxima de 0.5ºC/h (entre 0.2-0,5ºC/ hora).
+- El enfriamiento, debe ser más lento y cuidadoso en los neonatos con necesidades de O2 ≥ 50% o si estas aumentan > 30% sobre el valor inicial (riesgo de hipertensión pulmonar neonatal). La HPPN no contraindica el tratamiento con hipotermia activa.
+- Iniciar sedo analgesia y medidas de confort no farmacológicas (patucos). Si existe canalización de arteria umbilical o femoral para medición de TA invasiva vigilar perfusión de los pies por turno.
+
+### 2. __Fase de mantenimiento__
+- Mantener monitorización neurológica:
+  - Evaluación clínica cada 8-12 horas
+  - Monitor aEEG (durante el tratamiento y mantener 24-72 horas después (hasta que alcance patrón continuo con ciclos).
+  - Oximetría cerebral y somática.
+- Mantener medidas de soporte respiratorio y hemodinámico según necesidad del paciente.
+- Monitorización estrecha temperatura rectal, FC, ECG, FR, SatO2, TA, diuresis y lactato
+  - Evitar: modificaciones bruscas de temperatura
+  - Realizar doble control de temperatura central en el Tecotherm®: con temperatura rectal (servo) y sensor cutáneo en hígado.
+  - Rellenar colchón una vez por turno desde la máquina SIN desconectar el colchón de la circulación, directamente en la conexión verde del Tecotherm®.
+  - Revisar por turno grafica de temperatura en Tecotherm para detectar variaciones significativas en la temperatura del colchón (picos febriles, crisis convulsivas, etc.)
+@img 38c-tecotherm.png
+- Control de la ventilación mediante *__pCO2 corregida para la temperatura__* (40-45mmHg arterial y 45-50mmHg venosa). Si ventilación invasiva. SIMV+VG
+  - Evitar hipo-hiperoxia
+  - Evitar hipotensión arterial. Evitar expansiones bruscas de volumen
+- Mantener normo hidratación (80-120-140 ml/kg/d).
+- Controles seriados de glucemia e iones mediante gasometría cada 8- 12 horas o según precise el paciente:
+- Sedoanalgesia con opiáceos fentanilo o cloruro mórfico. En perfusión (cloruro mórfico 5mg/kg/h o
+@caja
+Objetivo: calcio total >7,0 mg/dl (Ca++ > 0,9 mmol/l), Mg+ > 1,6 mg/dl, Na+ 135-145 y K+ 3,5-4,5 mEq/l. Glucemia > 50mg/dl (idealmente 70-120mg/dl)
+@fin
+fentanilo 1 mcg/kg/min) o bolos (cloruro mórfico < 0,1mg/kg/dosis o fentanilo 1mcg/kg/dosis) según precise el paciente. Evitar distres térmico (vigilar signos de disconfort).
+! El recuadro «Objetivo…» corta en el PDF la frase de la sedoanalgesia; se ha dejado en el mismo sitio. Por su contenido parece referirse a los «Controles seriados de glucemia e iones», que terminan en dos puntos. «cloruro mórfico 5mg/kg/h» está así en el PDF.
+
+@p 2
+@pie 2
+- Analíticas de control seriadas, valorar periodicidad según paciente.
+- Considerar reducir el enfriamiento cuando: las necesidades de O2 aumentan más de un 30% frente a las previas o existe coagulopatía o trombocitopenia grave con sagrado activo que no responde al tratamiento con hemoderivados, y cuando la frecuencia cardiaca es < 80 lpm.
+- Ecografía cerebral: de manera individualizada. De forma ideal cada 24-48h. Siempre al ingreso para descartar lesiones de origen prenatal. Realizar doppler cerebral seriado (de especial valor predictivo a las 8-12 horas de vida). Solicitar si existen cambios clínicos significativos o en aEEG (descartando trombosis en senos venosos superficiales y profundos) y después del recalentamiento.
+- Si se realiza punción lumbar, valorar enolasa neuronal especifica en LCR para diagnóstico diferencial con otras patologías. (Ver procesamiento de muestra en: ***Departamentales –documentos útiles-otros documentos***).
+
+### 3. __Fase de recalentamiento__
+- Hasta 36,5ºC de Tª central lentamente en 6-12 h, a una velocidad de 0,2-0,5 ◦C por hora.
+- Si crisis convulsivas clínicas o eléctricas durante recalentamiento: realizar el mismo en 12 horas.
+- Vigilar complicaciones:
+  - Crisis convulsivas: Estas convulsiones son en ocasiones subclínicas y se identifican mediante el aEEG. Pueden ser de difícil tratamiento y precisan enlentecer o parar transitoriamente el recalentamiento y en ocasiones reforzar tratamiento anti comicial
+  - Episodios de apnea: puede precisar inicio de presión positiva continua.
+  - Hipotensión por vasodilatación periférica.
+  - Alteraciones de K: hiperpotasemia por salida de K intracelular.
+
+### 4. Fármacos durante la hipotermia
+- Antibióticos: __Gentamicina__ aumentando el intervalo de administración cada 36 horas y realizando controles de niveles.
+- Opiáceos usar dosis más bajas posible.
+- Antiepilépticos según protocolo de crisis convulsivas: en hipotermia el fenobarbital puede mejorar la neuroproteccion utilizar como fármaco de primera línea pero sin dejar pautados bolos de mantenimiento y pautando como segunda línea Levetiracetam ( Keppra) y haciendo niveles de ambos fármacos.
+- Si inotrópicos se recomienda iniciar dobutamina (según situación del paciente)
+
+### 5. Nutrición: valorar individualmente nutrición trófica con leche materna propia o donada
+
+### Una vez terminado tratamiento con hipotermia en cuanto al seguimiento neurológico:
+- Exploración neurológica periódica incluyendo movimientos generales y signos de alarma
+- Mantener aEEG hasta recuperación de patrón continuo con ciclos (si es posible)
+- Realizar ecografía cerebral
+- Realizar potenciales somatosensoriales del nervio mediano (idealmente cuanto antes una vez finalizado el tratamiento con hipotermia) y EEG de 14 canales.
+- Realizar RM entre los 5-10 días de vida (recordar en RN menores de < de 37 semanas, esperar a la edad de termino para una correcta valoración de cápsula interna)
+- Valoración por parte de neuropediatria y rehabilitación
+
+IMPORTANTE: solicitar RM al ingreso en la unidad para realizarla el 5-10º día de vida (valorar la posibilidad de realizar con manta e hidrato de cloral o anestesia).
+
+INFORMAR DEL PRONOSTICO A LOS PADRES Y PROGRAMAR SEGUIMIENTO SEGÚN EL GRADO DE ESTIMACION PRONÓSTICA DEL 1 al 5 (en departamentales- documentos útiles-otros documentos)
+
+**__Al Alta__** citar en neonatología- neuroprotección, neuropediatria y rehabilitación

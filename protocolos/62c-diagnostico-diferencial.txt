@@ -1,0 +1,18 @@
+@f 7. Metabólico renal/62c. Protocolo Hiperamonemia..pdf
+@p 1
+# 62c. DIAGNÓSTICO DIFERENCIAL HIPERAMONIEMIA.
+*PROTOCOLO HIPERAMONIEMIA — __Revisado febrero 2022__*
+
+| | **GLUCEMIA** | **pH sangre** | **LACTATO** *(N < 2 mmol/l)* | **AMONIO** | **GOT/GPT** | **CUERPOS CETÓNICOS** | **PISTA DIAGNÓSTICA** |
+|---|---|---|---|---|---|---|---|
+| **Trastornos del ciclo de la urea** | N | N o alcalosis | N o ↑ | ↑↑↑ | ↑ | N | Niveles de amonio muy elevados, **ALCALOSIS RESPIRATORIA**, HTA |
+| **Acidemias propiónica y metilmalónica** | N o ↓ | Acidosis grave | ↑ | ↑↑ | N o ↑ | ↑↑↑ | Acidosis metabólica con anión GAP elevado, hiperlactacidemia y cetosis o cetonuria. Ácido úrico↑. Neutropenia, trombopenia |
+| **Acidurias isovalérica y 3 metil crotónica** | N | Acidosis moderada o grave | ↑ | ↑↑ | N o ↑ | ↑ | |
+| **Trastorno β oxidación de ácidos grasos** *(sobre todo los de cadena larga)* | ↓ | N o acidosis | N o ↑ | ↑ | N o ↑ | NEGATIVOS (< 0,4) | **HIPOGLUCEMIA HIPOCETÓSICA**, elevación de CPK. Acilcarnitinas ↑, Miocardiopatía. Antecedente de madre con hígado graso o síndrome de HELLP. |
+| **Hiperamoniemia transitoria** *(en RN prematuros)* | N | N | N | ↑ | N | N | Primeras 24-36 h y se resuelve espontáneamente en 4-5 días |
+| **Enfermedad de la orina con olor a jarabe de arce** | N | Acidosis leve o moderada | N o ↑ | N o ↑ | N | N o ↑ | Movimientos estereotipados, “orina con olor a jarabe de arce” |
+| **Hiperamonemia-hiperinsulinismo** | ↓ | Acidosis | ↑ | ↑ | N o ↑ | ↑↑ | Episodios recurrentes de hipoglucemia sintomática. Hiperamoniemia estable que no varía con la ingesta ni con el ayuno y es asintomática. Puede asociar crisis convulsivas. |
+! En el PDF la pista diagnóstica de las acidemias propiónica y metilmalónica es la misma casilla para las acidurias isovalérica y 3 metil crotónica.
+
+**OTRAS CAUSAS METABÓLICAS MENOS FRECUENTES:** déficit múltiple de carboxilasas, defectos metabolismo biotina o lisinuria con intolerancia a las proteínas.
+**OTRAS CAUSAS METABÓLICAS MENOS FRECUENTES:** fallo hepático, infección, situaciones de hipercatabolismo o sobrecarga proteica.

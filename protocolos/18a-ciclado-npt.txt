@@ -1,0 +1,41 @@
+@f 7. Metabólico renal/18a. Protocolo de ciclado de NPT-1.pdf
+@p 1
+# __PROTOCOLO PARA EL CICLADO DE LA NUTRICIÓN PARENTERAL__
+__Guía de ciclado. Servicio Neonatología__
+
+1. Para calcular ritmo mínimo tras ciclado, aplicar fórmula
+F=V/ (4T)-10
+Donde Flujo= Volumen total calculado de NP (ml) / (4x Tiempo (horas) con NP) -10
+! Se copia tal como está en el PDF. Las cifras del ejemplo de abajo (130 mL en 20 horas → 1,85 ml/hora) salen al dividir el volumen entre (4 × 20 − 10) = 70, no al restar 10 al resultado de la división; compruébalo con el autor del protocolo.
+
+2. Antes de las horas de pausa, el descenso se hace en dos tiempos utilizando el flujo calculado la hora antes y el doble del flujo calculado dos horas antes de suspender la nutrición parenteral.
+3. Después de las horas de pausa el ritmo se asciende escalonadamente, la primera hora tras la suspensión el ritmo es el flujo calculado, la segunda hora el doble del flujo y las horas sucesivas el cuádruple del flujo, es decir, el ritmo final.
+4. El resto de horas en las que no se realiza el ciclado de la NP el ritmo es el cuádruple del flujo calculado.
+5. Durante tiempo de pausa bajar ritmo de NP a 1-2 ml/h. Los lípidos se suspenderán (solicitar la cantidad adicional de NP en la prescripción para farmacia).
+6. Glucemia capilar en la mitad del tiempo de pausa, si ≥ 47 mg/dl, continuar ciclado según pauta. Si < 47 mg/dl iniciar NP al ritmo que se administraría si pasases la NP en 24 horas sin ciclar.
+7. Se comienza el ciclado con una duración de 1 hora, y se aumenta según tolerancia hasta un máximo de 4 horas a los RNPT y de 6 horas a los RNT y RNPT con EG corregida a término.
+
+@p 2
+8. Como los lípidos se administran separados del resto de la nutrición parenteral, para calcular la administración ciclada de lípidos se siguen los mismos pasos.
+
+**Ejemplo:** Recién nacido de 1 Kg. Volumen total de Nutrición Parenteral de130mL/Kg y de lípidos a 2 gr/kg/día, con la emulsión empleada (ClinOleic® al 20%) el volumen calculado de lípidos es 10 ml. Administración de la NP en 20 horas con 4 horas de pausa.
+
+Flujo de NPT según fórmula: 130/(4 x 20) -10 = 1,85 ml/hora
+Flujo de lípidos según fórmula: 10/(4x20)-10 = 0,15 ml/hora
+
+**Fecha** — VOLUMEN PEDIDO: Nutrición Parenteral…… 130 mL — Lípidos…………...……….10 mL
+
+| | Ritmo NP | Ritmo Lípidos | Glucemia | Diuresis |
+|---|---|---|---|---|
+| 0-12 h | 7,4 ml/h | 0,3 ml/h | | |
+| 13h | 3,7ml/h | 0,3ml/h | | |
+| 14h | 1,85ml/h | 0,15ml/h | | |
+| 15h | 1-2 ml/h | STOP | | |
+| 16h | 1-2 ml/h | STOP | | |
+| 17h | 1-2 ml/h | STOP | Glucemia 17 h | |
+| 18h | 1-2 ml/h | STOP | | |
+| 19h | 1,85ml/h | 0,15 | | |
+| 20h | 3,7ml/h | 0,3 | | |
+| 21h | 7,4ml/h | 0,6 | | |
+| 22-24 h | igual | igual | | |
+! Se copia tal como está en el PDF: el ritmo de lípidos de 0-12 h (0,3 ml/h) no coincide con el de 21h (0,6), que es el cuádruple del flujo calculado según el punto 4; compruébalo con el autor del protocolo.

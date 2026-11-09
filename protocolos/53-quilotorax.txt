@@ -1,0 +1,70 @@
+@f 5. Hemodinámico/53. Protocolo de quilotórax-1.pdf
+@p 1
+# 53. PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO
+*Revisado Agosto 2022*
+@pie PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO
+
+**1. ETIOLOGÍA:** Aparece habitualmente como complicación de una __CIRUGÍA CARDIACA__ (incidencia: 2,5-16,8%), aunque también puede ocurrir secundariamente a cualquier cirugía torácica como hernia diafragmática o atresia de esófago. Su origen es **__multifactorial__:** lesión directa del conducto torácico o vasos linfáticos de los plexos mediastínicos (especialmente hiliares, perihiliares, peritraqueales y cercanos al timo), aumento de la PVC o trombosis venosa. En ocasiones, puede haber de base malformaciones linfáticas congénitas (trastorno central del flujo linfático o síndrome de perfusión linfática pulmonar).
+
+**2. FACTORES asociados al quilotórax tras cirugía cardiaca:** Tº by-pass, Tº clampaje aórtico, cierre diferido tórax, trombosis, riesgo quirúrgico, canalización vías (subclavia o yugular, silástico izquierdo), síndromes (Down, Turner, Noonan) y algunos tipos de cardiopatía (fisiología ventrículo único, cirugía arco, cirugía Glenn o Fontan, trasposición de grandes vasos).
+
+**3. DIAGNÓSTICO:** análisis de líquido pleural con:
+- **Células:** > 1000 cel/mcl con predominio de mononucleares (linfocitos > 80%).
+- **Triglicéridos:** > 110 mg/dl (no criterio indispensable si no están con nutrición enteral exclusiva).
+
+__¿Qué analizar en el líquido pleural?:__ Cultivo (tubo tapa roja) + células (tubo hemograma) + bioquímica (tubo bioquímica) + gasometría (jeringa gases). Solicitar: básico líq. pleural + colesterol y triglicéridos líq. pleural.
+
+**4. DEFINICIÓN QUILOTÓRAX ALTO DÉBITO:** __> 10 -20 ml/kg/día durante más de 5 días.__
+
+**5. PRUEBAS COMPLEMENTARIAS:** **INDIVDUALIZAR en cada caso según gravedad y débito**
+
+a) __Pruebas de laboratorio:__
+- **Gasometría** cada 24-48 horas.
+- **Hemograma, bq general con proteínas totales y coagulación** → semanalmente.
+- **Albúmina** → cada 48-72 horas.
+- **Vitaminas liposolubles y triglicéridos** → cada 2 semanas si NPT prolongada.
+- **Cuantificación de inmunoglobulinas y subpoblaciones linfocitarias** → cuando indique inmunología.
+- **Antitrombina III** → semanalmente a partir de la 1ª semana (__tubo de coagulación de la pediátrica: 2ml. NO MICROTAINER. Realizar de L-V antes de las 14 horas__). Teléfono: 478447
+
+b) __Pruebas de imagen:__
+- **Ecocardiografía:** cada 24-48 horas según indicación del servicio de cardiología.
+- **Ecografía doppler de vasos supraaórticos:** al diagnóstico y semanalmente si quilotórax de alto débito persistente.
+- **Ecografía doppler de territorio inferior.**
+- Descartar, sobre todo tras pleurodesis, la presencia de __QUILOPERITONEO__: **ecografía abdominal**, perímetro abdominal, presión intraabdominal.
+
+__Realizar interconsulta a **INMUNOLOGÍA** cuando aparezca **LINFOPENIA + PROTEÍNAS TOTALES BAJAS.**__
+
+**c) PRINCIPALES COMPLICACIONES:** **Aumento de la morbi-mortalidad postoperatoria**
+- __HIPOVOLEMIA:__ realizar reposiciones según el débito por el drenaje.
+  - Reponer 1/2 o 1/3 de las pérdidas con SSF o albúmina según precise.
+@p 2
+- __ALTERACIONES IÓNICAS__ como hiponatremia.
+- __HIPOALBUMINEMIA:__ mantener cifras > 2,5 g/dl.
+  - Si precisa, reponer con albúmina al 15 o 20%: 1-2 gr/kg en 4-6 horas.
+- __HIPOGAMMAGLOBULINEMIA__ (IgG < 500 mg/dl):
+  - __Privigen 100 mg/ml= 2,5 gr/25 ml__. **Dosis:** 400-600 mg/kg a pasar lento en 4-6 horas. Iniciar a 0,3-0,5 ml/kg/hora y si buena tolerancia aumentar progresivamente cada 30 minutos hasta un máximo de 2 ml/kg/hora. Riesgo de hipotensión y taquicardia. No es necesario premedicar. Realizar control de inmunoglobulinas a la semana de la administración.
+- __ALTERACIONES DE LA COAGULACIÓN__ como hipofibrinogenemia.
+  - Si precisa trasfundir PFC o fibrinógeno.
+- __TROMBOSIS:__
+  - El quilotórax se asocia a una disminución de la antitrombina III en plasma (actividad de antitrombina <70%) por lo que, en pacientes graves, con trombosis extensas y/o altos requerimientos de heparina se podría plantear el tratamiento con antitrombina III, valorando el riesgo beneficio.
+    - **Dosis AT III en UI:** (100 - % actividad) x peso. Otra forma: 30-50 UI/Kg. Administración lenta sin superar 0,08 ml/kg/min. __Precaución:__ Puede aumentar el riesgo de sangrado si el paciente está en tratamiento concomitante con heparina. Realizar monitorización estrecha anticoagulación.
+  - Tratamiento de trombosis confirmada (ver protocolo correspondiente).
+- __LINFOPENIA GRAVE (< 1000 linfocitos/ml o linfocitos T CD4+ (<750/μl)):__ aumento del riesgo infeccioso.
+  - Valorar inicio de tratamiento con __septrim__ (cotrimoxazol= trimetropim-sulfametoxazol): viernes/sábado/domingo o lunes/miércoles/viernes. **Dosis:** 8 mg/kg/día cada 12 horas de **__trimetropim__**. Se puede administrar oral (jarabe) o intravenoso (preparación especial, necesario diluir). Para disminuir errores de medicación __mejor pautarlo en mililitros.__
+- __COLESTASIS:__ origen multifactorial (ver protocolo correspondiente).
+
+**d) TRATAMIENTO:** *Ver anexo 1.*
+- Colocar __DRENAJE PLEURAL__ conectado a Pleur- evac® con aspiración (-5 o -10 cm H~2~0).
+- Tratamiento de soporte respiratorio y hemodinámico: INDIVIDUALIZAR cada paciente.
+
+@flujo
+@cols
+[**CONSERVADOR**]
+[[**FUNDAMENTAL: 1.** Cambio dieta: LMC + MCT o Monogen // **2.** Dieta absoluta + NPT // // **OTRAS OPCIONES:** // Octeótrido // Corticoides // Sildenafilo // Propranolol]]
+---
+[**INVASIVO**]
+[[**1. CATETERISMO DIAGNÓSTICO/ TERAPEÚTICO // 2. PLEURODESIS // 3. LINFOGRAFÍA CON CONTRASTE** // (lo ideal sería previo a la pleurodesis)]]
+@fincols
+@finflujo
+! En el original hay una flecha de «Conservador» a «Invasivo».
+@pie PROTOCOLO QUILOTÓRAX POSTQUIRÚRGICO Revisado Agosto 2022

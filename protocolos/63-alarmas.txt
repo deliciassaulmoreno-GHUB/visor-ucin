@@ -1,0 +1,63 @@
+@f 12. Procedimientos/63. Protocolo de alarmas de mon itorización en neonatología.pdf
+@p 1
+# 63. PROTOCOLO DE ALARMAS DE MONITORIZACIÓN EN NEONATOLOGÍA
+*Revisado: 28/02/2025 E. Sanz / M. Arriaga / A. Rguez Sánchez de la Blanca*
+
+La monitorización de las constantes vitales es fundamental para valorar el estado clínico del paciente. Los límites de las alarmas deben ser indicados en las hojas de prescripción médica de cada paciente.
+
+Cuando salta una alarma de monitorización, el personal de enfermería debe verificar el estado del paciente y puede silenciar temporalmente la alarma. El personal de enfermería podrá modificar los límites de alarma solamente bajo indicación del médico responsable.
+
+El personal auxiliar (TMCAE) podrá apagar las alarmas solamente bajo la supervisión de la enfermera.
+
+A continuación, se resumen los valores normales y los límites generales de alarma para los principales parámetros vitales:
+
+## 1. Temperatura:
+En el recién nacido a término se consideran valores normales de temperatura:
+| **Axilar y rectal:** | el valor normal es de 36.5 a 37.5°C. |
+|---|---|
+| **Periférica:** | el valor normal es de 36 a 37°C. |
+
+**Alarmas:**
+| Paciente en normotermia: | alarma mínima en 36°C y máxima en 37.5°C. |
+|---|---|
+| Paciente en hipotermia: | Si en hipotermia pasiva: alarma mínima en 34°C y máxima en 35°C. // Si en hipotermia activa: la temperatura rectal será servocontrolada a través de Tecotherm. Poner la alarma mínima en 33°C y la máxima en 34.5°C. |
+| {2} En pacientes con cardiopatía y taquicardia que requieran hipotermia, el médico indicará la temperatura objetivo y se fijarán, en función de la misma, los límites de alarma. |
+
+## 2. Frecuencia cardiaca (FC):
+En el recién nacido a término, los percentiles de FC son:
+Percentil 95: 162 lpm / Percentil 50: 120 lpm / Percentil 3: 102 lpm.
+@caja
+En general se fijará la alarma mínima en 100 lpm y la máxima en 180 lpm.
+@fin
+Pero como la FC puede variar mucho en función del sueño, estrés, medicación recibida, temperatura, dolor, patología de base, etc., se podrán individualizar los límites de la misma, siempre que se consulte previamente al médico responsable.
+
+@p 2
+## 3. Frecuencia respiratoria (FR):
+En el recién nacido a término, la frecuencia respiratoria oscila entre 35 y 60 respiraciones por minuto (rpm).
+@caja
+En general, se fijará la alarma mínima en 30rpm y la máxima en 60 rpm.
+@fin
+Pero, al igual que la FC, la FR puede variar en función del estado del paciente, por lo que se podrán individualizar dichos límites, siempre previa consulta al médico responsable.
+
+## 4. Saturación arterial de oxígeno (SaO2):
+Las alarmas de SaO2 se fijarán de forma individualizada en función de la EG del paciente, de la necesidad o no de aporte suplementario de oxígeno y de la patología de base (especialmente en cardiopatías congénitas).
+
+De forma general, se fijarán las alarmas como se indica:
+| **Con FiO2 21%:** | RNT: Alarma mínima en 94% y máxima en 100% // Pretérmino: Alarma mínima en 92% y máxima en 100% |
+|---|---|
+| **Con FiO2 > 21%:** | RNT: Alarma mínima en 92% y máxima en 98% // Pretérmino: Alarma mínima en 90% y máxima en 96% |
+
+## 5. Tensión arterial (TA):
+La TA varía en función de la edad gestacional y de la edad postnatal (ver protocolo 55, diagnóstico de hipertensión arterial neonatal).
+Alarmas de TA: Se fijarán en función de la edad postmenstrual (EPM) del paciente.
+@caja
+Alarma mínima en percentil 5 y máxima en percentil 95 de la EPM del paciente.
+@fin
+! En el PDF los valores normales y las alarmas son líneas de texto; aquí la temperatura y la saturación van en tablas y los límites generales de alarma en recuadros. En el PDF no van en negrita ni en recuadro.
+
+@p 3
+@caja
+**NO HACER:**
+-NO administrar nunca oxígeno sin monitorización de pulsioximetría
+-NO desactivar de forma permanente las alarmas sonoras
+@fin
