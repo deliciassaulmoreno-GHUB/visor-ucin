@@ -1,25 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#7FD8C8"/>
-      <stop offset="1" stop-color="#3DB3A2"/>
+      <stop offset="0" stop-color="#B9F0E4"/>
+      <stop offset="0.55" stop-color="#5CC7B4"/>
+      <stop offset="1" stop-color="#1F8070"/>
     </linearGradient>
   </defs>
   <rect width="512" height="512" fill="url(#g)"/>
-  <g fill="#FFFFFF">
-    <!-- cabeza -->
-    <circle cx="256" cy="150" r="70"/>
-    <!-- rizo -->
-    <path d="M250 82 q-6 -26 22 -30 q-14 10 -6 30 z"/>
-    <!-- cuerpo -->
-    <ellipse cx="256" cy="300" rx="78" ry="88"/>
-    <!-- brazos -->
-    <g stroke="#FFFFFF" stroke-width="38" stroke-linecap="round" fill="none">
-      <path d="M196 258 Q150 290 140 330"/>
-      <path d="M316 258 Q362 290 372 330"/>
-      <!-- piernas -->
-      <path d="M220 370 Q200 410 176 430"/>
-      <path d="M292 370 Q312 410 336 430"/>
-    </g>
+  <!-- cuerpo -->
+  <path d="M96 512 C96 420 170 384 256 384 C342 384 416 420 416 512 Z" fill="#fff"/>
+  <!-- orejas -->
+  <circle cx="160" cy="300" r="24" fill="#fff"/>
+  <circle cx="352" cy="300" r="24" fill="#fff"/>
+  <!-- cara -->
+  <circle cx="256" cy="292" r="100" fill="#fff" stroke="#4DB8A6" stroke-width="10"/>
+  <!-- gorrito -->
+  <path d="M150 262 C150 150 200 112 256 112 C312 112 362 150 362 262 Z" fill="#fff" stroke="#6CCDBB" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="140" y="236" width="232" height="50" rx="25" fill="#fff" stroke="#5FC5B3" stroke-width="10"/>
+  <g stroke="#7CD3C2" stroke-width="7" stroke-linecap="round">
+    <line x1="176" y1="250" x2="176" y2="272"/><line x1="208" y1="250" x2="208" y2="272"/>
+    <line x1="240" y1="250" x2="240" y2="272"/><line x1="272" y1="250" x2="272" y2="272"/>
+    <line x1="304" y1="250" x2="304" y2="272"/><line x1="336" y1="250" x2="336" y2="272"/>
   </g>
+  <!-- pompón -->
+  <circle cx="256" cy="98" r="30" fill="#fff" stroke="#8ED9CA" stroke-width="10"/>
+  <!-- cara dormida -->
+  <g stroke="#3FA897" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M206 318 q16 14 32 0"/>
+    <path d="M274 318 q16 14 32 0"/>
+    <path d="M240 350 q16 12 32 0"/>
+  </g>
+  <circle cx="200" cy="346" r="13" fill="#F6B8C4" opacity="0.8"/>
+  <circle cx="312" cy="346" r="13" fill="#F6B8C4" opacity="0.8"/>
 </svg>
