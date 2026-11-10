@@ -1,0 +1,282 @@
+@f 14. Protocolos SENEO/2.12. Hijo de madre con infección congénita: toxoplasmosis, Chagas, sífilis
+@p 117
+# 2.12 HIJO DE MADRE CON INFECCIÓN CONGÉNITA: TOXOPLASMOSIS, CHAGAS, SÍFILIS
+
+*Borja Guarch-Ibáñez^1^, U. Gutiérrez^2^ y Mª Cruz López^2^, Serena Villaverde^3^*
+
+*^1^Hospital Universitari de Girona Josep Trueta. Universitat de Girona. ^2^Hospital Universitario Cruces, Barakaldo, Bizkaia. ^3^Hospital Universitario 12 de Octubre. Universidad Complutense de Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 103-111 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. Las figuras 1-4 están redibujadas con su mismo texto.
+
+## 1 Toxoplasmosis
+
+La toxoplasmosis es una zoonosis de distribución universal causada por *Toxoplasma gondii.* La toxoplasmosis congénita (TC) resulta de la transmisión transplacentaria de gestantes que adquieren la primoinfección durante el embarazo. En España su incidencia se encuentra infranotificada en los sistemas de registro oficiales a pesar de ser una enfermedad de declaración obligatoria. Actualmente se estima que puede afectar en España alrededor de 2/10.000 recién nacidos (RN) vivos al año.
+
+El riesgo de infección fetal es directamente proporcional a la edad gestacional en que se produce la infección materna, a diferencia de la gravedad de la afectación fetal que es inversamente proporcional a ésta.
+
+**Toxoplasmosis durante la gestación**
+La primoinfección por *T. gondii* en la gestante suele ser frecuentemente asintomática o presentarse en forma de síndrome mononucleósico (20%). El diagnóstico de la infección en la gestante se realiza mediante la serologías (IgM T. *gondii,* IgG T. *gondii* y avidez de IgG). El diagnóstico de la infección fetal se realiza mediante PCR de *T. gondii* en líquido amniótico (Sensibilidad 92% y Especificidad 98,3%) y ecografía fetal (Figura 1).
+@p 118
+@deimg
+@flujo
+@cols
+[Diagnóstico de infección materna // · Seroconversión IgG // · ↑x ≥3 títulos IgG en 2 extracciones separadas de 3-4 semanas. // · Títulos altos de IgG, con baja avidez]
+
+v
+
+[· PCR en líquido amniótico (>18SG y > 4 semanas de la infección materna) // · Ecógrafía fetal (repetir cada 4 semanas)]
+
+v
+
+(+)
+
+[__Infección fetal demostrada =__ // **TOXOPLASMOSIS CONGÉNITA** // · Tratamiento del RN]
+
+---
+
+[Iniciar profilaxis en la gestante: // · Espiramicina (1g cada 8 horas)]
+
+(-) o no realizadas
+
+[__Ausencia de infección fetal demostrable:__ // **Continuar** con espiramicina hasta el final de la gestación.]
+
+v
+
+**Si infección en el 3^er^ trimestre y amniocentesis no realizada**
+v
+
+[*Sustituir (a partir de la 16SG) espiramicina por **pirimetamina** (50 mg cada 24 horas) + **sulfadiazina** (1500mg cada 12 horas) + **ácido folínico** (50mg a la semana) hasta el final de la gestación.]
+
+**\*Iniciar<4 semanas después de la infección materna**
+@fincols
+@finflujo
+@findeimg
+*Figura 1: Manejo de la Toxoplasmosis durante la gestación*
+! En el PDF «Diagnóstico de infección materna» lleva flecha a «Iniciar profilaxis»; la PCR/ecografía (-) o no realizadas lleva a «Ausencia de infección fetal»; «Infección fetal demostrada» lleva también flecha al recuadro de pirimetamina.
+
+**Clínica en el recién nacido**
+Es muy variable: desde casos asintomáticos hasta formas graves con afectación neurológica y/o sistémica, abortos y mortinatos. La forma más frecuente de presentación al nacimiento es asintomática (80% de los casos en países con cribado sistemático durante el embarazo). A pesar de ello, la mayor parte de las veces acabarán presentando clínica durante los años posteriores en forma de reactivaciones de la infección latente, principalmente a nivel ocular en forma de coriorretinintis. Las exploraciones complementarias iniciales a realizar en todo RN con antecedente de toxoplasmosis gestacional y los criterios diagnósticos de TC están descritas en las Tablas 1 y 2.
+
+| **Tabla 1: Valoración inicial del recién nacido** |
+|---|
+| Revisión HC, EF y neurológica completa |
+| Valoración oftalmológica (fondo de ojo) |
+| Analítica sanguínea: // • Hemograma y fórmula, transaminasas y bilirrubina, urea y creatinina // • Ig específicas *T. gondii:* IgM, IgG. IgA (si disponible)# |
+| Estudio citobioquímico de LCR* |
+@p 119
+@pie Tabla 1: Valoración inicial del recién nacido (continuación)
+| Microbiología: // • PCR *T. gondii* en orina // • PCR *T. gondii* en LCR* // • PCR *T. gondii* en sangre // • PCR *T. gondii* en placenta |
+| Ecografía transfontanelar. Si alterada: RM cerebral |
+| Potenciales automáticos de cribado auditivo (PAA) |
+| AP de placenta |
+| # IgM y IgA deben realizarse a partir del 5ºdía de vida para evitar contaminación materna. // *La punción lumbar está indicada en: // – TC confirmada // – Sospecha de TC y clínica compatible // – Infecciones maternas del 3ertrimestre asintomáticas con estudio neonatal negativo // – Infecciones maternas del 1º y 2ºtrimestre asintomáticas, con estudio neonatal negativo sin tratamiento materno durante la gestación. |
+
+| **Tabla 2: Diagnóstico de confirmación de toxoplasmosis congénita** |
+|---|
+| RN sintomático* + IgM / IgA (+) |
+| RN sintomático* + IgM / IgA (-) y cualquiera de: // • Historia de toxoplasmosis gestacional // • PCR (+) en sangre, orina o LCR del RN // • PCR (+) en placenta o LA |
+| RN asintomático con historia de toxoplasmosis gestacional y cualquiera de: // • IgM / IgA (+) en RN // • PCR (+) en sangre, orina o LCR del RN // • PCR (+) en placenta o LA |
+| PCR (+) en sangre de talón del RN |
+| Elevación de IgG persistente en sangre del niño durante seguimiento |
+| Persistencia de IgG >12 meses |
+| *Se considera sintomático si clínica o neuroimagen compatibles. Se considera clínica compatible: // – Enfermedad Neurológica: coriorretinitis, alteración en LCR, calcificaciones encefálicas, convulsiones, hidrocefalia, anemia, microcefalia y cataratas. // – Enfermedad Generalizada: esplenomegalia, ictericia, anemia, fiebre, hepatomegalia, linfoadenopatías, neumonitis, exantema, eosinofilia. |
+
+**Manejo de la toxoplasmosis congénita en el recién nacido**
+El tratamiento recomendado de la **TC confirmada** tiene una duración de **1 año** (Figura 2) En casos de TC que no cumple los criterios diagnósticos establecidos en la tabla 2 **(TC dudosa)**, se recomienda el seguimiento clínico y serológico postnatal estrechos hasta descartar enfermedad.
+@p 120
+@deimg
+@caja
+· **Pirimetamina** (DM 25mg/día)
+
+TC sintomática: 1mg/kg/día vo x 6 meses
+
+TC asintomática: 1mg/kg/día vo x 3 meses
+
+⬇
+
+Continuar hasta fin de tratamiento: 1 mg/kg/día 3 veces por semana.
+
+· **Sulfadiazina:** 100 mg/kg/día/12h vo. Si déficit de 6-glucosa-fosfato-deshidrogenasa sustituir por **clindamicina** (30 mg/kg/día/6h).
+
+· **-Ácido folínico:** 5-10 mg/día VO, 3 veces por semana
+
+Si coriorretinitis activa y/o proteínas en LCR>1g/dL añadir prednisona 1mg/kg/día/12h vo hasta mejoría/normalización.
+
+Si TC sintomática se recomienda inicio precoz del tratamiento.
+@fin
+@findeimg
+*Figura 2: Tratamiento de la TC*
+
+En estos casos también se recomienda la realización de **Western Blot *T. gondii*** (ELISA) para diferenciar según el patrón de bandas el origen de las IgG, especialmente en las infecciones adquiridas en el 3er trimestre. En la Figura 3 se expone el manejo diagnóstico-terápeutico ante la sospecha de TC.
+
+@deimg
+@flujo
+@cols
+[TC dudosa]
+@cols
+[**Infección 1^er^ o 2º trimestre**]
+
+v
+
+[**No tratamiento** // Seguimiento de IgG al mes de vida y cada 2 meses]
+@cols
+v
+
+[IgG (-) x2 muestas = // **TC descartada***]
+
+**\*Se recomienda tener una muestra de IgG (-) a partir de los 12 meses**
+---
+
+v
+
+[· IgG en ascenso x2 muestras // · Persistencia de IgG >12m // · IgM o IgA (+)]
+
+(→ TC confirmada)
+@fincols
+---
+
+[**Infección 3^er^ trimestre**]
+
+v
+
+[**Western-Blot**]
+
+(-) → No tratamiento · (+) → TC confirmada
+@fincols
+---
+
+[TC confirmada]
+
+v
+
+[· **Tratamiento** // **(Pirimetamina + sulfadiazina + ácido folínico)** // · **Seguimiento** // **Clínico** // **Analítico:** hemograma cada 15 días el 1^er^ mes o hasta que las cifras de neutrófilos se estabilicen. Posteriormente cada 2 meses hasta el final del tratamiento. // **Serológico:** cada 2 meses hasta fin del tratamiento. // **Oftalmológico:** fondo de ojo manual hasta vida adulta. // **Auditivo:** PEATC al año de vida.]
+@fincols
+@finflujo
+@findeimg
+*Figura 3: Abordaje terapéutico y seguimiento del RN con historia de toxoplasmosis gestacional*
+! En el PDF «TC dudosa» lleva flechas a «Infección 1^er^ o 2º trimestre» y a «Infección 3^er^ trimestre». Los rótulos entre paréntesis con «→» los he puesto yo para indicar las flechas del original.
+
+@p 121
+Se recomienda realizar controles analíticos seriados para detectar precozmente efectos secundarios de la medicación, especialmente la neutropenia.
+
+El tratamiento puede disminuir y negativizar la síntesis de anticuerpos. También puede observarse una positivización de IgM o un ascenso o rebote de IgG en los meses posteriores a la finalización del tratamiento, que no se recomienda volver a tratar.
+
+## 2 Enfermedad de Chagas congénita
+
+**Patogenia y epidemiología**
+La enfermedad de Chagas, causada por el parásito *Trypanosoma Cruzi,* es transmitida principalmente mediante picadura del insecto *triatoma* en áreas endémicas (norte, centro y sur de América). Este insecto hematófago infecta al defecar sobre la picadura. Otros mecanismos de transmisión son a través de transfusión de sangre contaminada, ingesta de alimentos contaminados por las heces del parásito o la infección vertical de la madre infectada al feto. La Organización Mundial de la Salud estima que hay 8 millones de personas infectadas en el mundo, de las cuales 2 millones son mujeres en edad fértil. Dada la dificultad del diagnóstico en las fases iniciales de la infección, tiende a convertirse en una enfermedad crónica la cual puede presentar afectación cardiaca y gastro-intestinal, siendo la insuficiencia cardiaca por miocardiopatía dilatada la causa principal de muerte.
+
+**Cribado embarazada**
+Una mujer afectada por Chagas crónico tiene en torno a un 5% de probabilidad de transmitir verticalmente la infección, principalmente por vía hematógena o menos frecuentemente por vía transplacentaria. Este porcentaje de transmisión vertical es mayor en el caso de primoinfección o una reactivación de la infección materna. Debido al flujo migratorio, están aumentando los casos en áreas no endémicas secundarios a la transmisión vertical, sobre todo en Europa y Estados Unidos. España es el país europeo más afectado con 90 % de los casos detectados en Europa. Por todo ello, se recomienda el cribado con serología IgG anti-T.Cruzi durante la gestación o en el puerperio a todas las mujeres de origen latino-americano, incluso a las nacidas en España. El objetivo es identificar de forma precoz a los neonatos afectados para iniciar tratamiento, ya que el tratamiento administrado antes del primer año de vida tiene una tasa de curación cercana al 100%.
+
+**Diagnóstico y manifestaciones clínicas**
+El diagnóstico en el recién nacido se realizará mediante microhematocrito/PCR específica en sangre periférica a las 48 horas de vida. Se podrá demorar el estudio hasta el mes de vida si se encuentra asintomático (pico máximo de parasitemia a las 4-6 semanas de vida).
+
+El 80% de los neonatos afectados estarán asintomáticos. El 20% restante puede presentar datos similares a otras infecciones congénitas (prematuridad, bajo peso gestacional, hepato-esplenomegalia, plaquetopenia, anemia, ictericia o colestasis, fiebre, derrame pericárdico, coriorretinitis...). Los casos más severos (sobre todo en coinfección con VIH) pueden presentar hidrops fetalis, miocarditis, meningo-encefalitis e incluso fallecimiento. No están descritas anomalías congénitas asociadas a esta infección, pero sí partos prematuros y abortos. No está contraindicada la lactancia materna en madres con
+@p 122
+infección crónica, salvo si presentan fisuras con sangrado activo en pezón.
+
+**Manejo** (Figura 4)
+@deimg
+@flujo
+Madre con serología IgG positiva para T.Cruzi
+
+v
+
+Microhematocrito o PCR sangre periférica al neonato a partir de las 48 horas de vida (se podría realizar al mes de vida en asintomáticos)
+@cols
+v
+
+No detectable
+
+v
+
+Seguimiento en CCEE Infectología: Repetir PCR a los 2 meses y Ac hasta los 8-9 meses
+@cols
+v
+
+PCR negativa y negativización de AC maternos
+
+v
+
+Descartada infección congénita: Fin seguimiento
+
+---
+
+v
+
+PCR positiva/ No negativización de AC a partir de los 8-9 meses de vida
+
+(→ Positivo)
+@fincols
+---
+
+v
+
+Positivo
+@cols
+Tratamiento: // 1ª opción: Benznidazol 5-7 mg/Kg/día en 2 dosis durante 60 días (medicación extrabjera, existe fórmula pediátrica) // Alternativa: Nifurtimox 10.15 mg/Kg/día en 3 dosis durante 60 días
+
+v
+
+Controles analíticos seriados: // · Control de efectos secundarios del tratamiento (citopenias): cada 2 semanas durante el mismo y 1 mes tras finalización. // · Comprobar negativización de PCR en sangre y Ac: al mes, 6 meses y al año.
+
+---
+
+Estudios: // Radiografía tórax // Ecografía cranel y abdominal // Fondo de ojo // Potenciales evocados // *Punción lumbar: si síntomas/ alteraciones ecográficas
+
+*Está indicado estudiar a los hermanos
+@fincols
+@fincols
+@finflujo
+@findeimg
+*Figura 4. Manejo del neonato con Enfermedad de Chagas congénita*
+! El rótulo «(→ Positivo)» lo he puesto yo: en el PDF una flecha sale de «PCR positiva/ No negativización…» hacia la rama de tratamiento. «Nifurtimox 10.15 mg/Kg/día» está así en el PDF.
+
+@caja
+**SE RECOMIENDA**
+- Realizar screening con serología IgG anti-T.Cruzi a mujeres gestantes originarias de zonas endémicas.
+- Identificar antes del año de vida a los recién nacidos infectados e iniciar tratamiento a todos los recién nacidos con infección congénita confirmada. Tratar mujeres en edad fértil con infección crónica por chagas (no durante la gestación).
+@fin
+## 3 Sífilis congénita
+
+**Patogenia y epidemiología**
+La sífilis congénita es el resultado de la transmisión vertical de *Treponema Pallidum.* Puede transmitirse vía transplacentaria a partir de la semana 8ª-9ª semana de gestación, o, con menor frecuencia por contacto directo en el momento del parto con el chancro
+@p 123
+sifilítico. La transmisión vertical se produce tras la primoinfección materna, tanto en la fase clínica de la enfermedad (tasa de transmisión del 50-100%) como en el periodo latente (tasa de transmisión del 10-40% según fase tardía o temprana). En los últimos 12 años se ha producido un preocupante aumento de la incidencia de sífilis en nuestro medio, las tasas en países industrializados varían desde 0,1 a 39,8 casos por 100.000 nacidos vivos.
+
+**Cribado embarazada y tratamiento**
+La mayor parte de las guías coinciden en el uso de test no treponémicos (TNT) para el cribado del primer trimestre en la embarazada. Sin embargo, como alternativa podría realizarse el cribado con test treponémicos (TT) con posterior confirmación con TNT en caso de positividad.
+
+El cribado positivo en primer trimestre con test no treponémicos (VDLR, RPR) implica el inicio de tratamiento en la gestante y la realización de un test treponémico (ELISA/ FTA) confirmatorio. En caso de negatividad de éste, se consideraría un falso negativo debido a otras causas (otras infecciones, enfermedades autoinmunes, drogas, neoplasias, vacunaciones). En caso de positividad del TT se considera confirmada la infección por sífilis materna y deberá clasificarse como sífilis 1ª, 2ª o latente precoz (precisará Penicilina G Benzatina 2.400.000 UI 1 dosis vía im) o como sífilis latente tardía o de primoinfección desconocida (tratamiento con 3 dosis de Penicilina G Benzatina im separadas de forma semanal). Se considerará tratamiento correcto solo en estos casos y si la última dosis recibida fue mínimo 30 días antes del parto. La gestante precisará control mensual con TNT hasta el parto para descartar reinfecciones y diagnóstico y tratamiento de la pareja sexual.
+
+| {2} **Tabla 3. Sintomatología de la sífilis congénita** |
+|---|---|
+| **Sífilis congénita precoz** (antes de los 2 años) | **Sífilis congénita tardía** (después de los 2 años) |
+| Parto prematuro, crecimiento intrauterino retardado, hidrops fetal // Linfadenopatías generalizadas // Neumonitis // Hepatoesplenomegalia // Alteraciones hematológicas (penias) // Manifestaciones mucocutáneas: petequias, púrpura, pénfigo palmoplantar, exantema maculopapuloso, rágades // Manifestaciones renales: síndrome nefrótico // Lesiones óseas; osteocondritis, periostitis // Manifestaciones SNC: meningitis, seudoparálisis de Parrot // Manifestaciones oculares: coriorretinitis, retinitis en sal y pimienta // Fiebre, rinorrea intensa | Nariz en silla de montar // Frente prominente // Dientes de Hutchinson // Queratitis intersticial // Rágades // Gomas en la nariz/paladar // Mandíbula prominente // Paladar ojival // Micrognatia // Fisuras periorales // Lesiones SNC: sordera neurosensorial, retraso mental, convulsiones, hidrocefalia, ceguera // Lesiones osteoarticulares: articulaciones de Clutton (derrame bilateral indoloro de rodillas), tibia en sable, escápulas en forma de campana |
+
+@p 124
+@ancha
+| {3} **Tabla 4. Diagnóstico neonatal y tratamiento** |
+|---|---|---|
+| **Situación clínica** | **Evaluación recomendada** | **Tratamiento recomendado** |
+| {3} **Sífilis congénita comprobada o altamente probable:** |
+| • Examen físico consistente; // • TNT 4 veces superior al materno en el momento del parto; o // • PCR o campo oscuro positivo en placenta, cordón, lesiones o líquido corporal o tinción de plata positiva en placenta o cordón | **Sangre:** hemograma, proteína C reactiva, coagulación, perfil hepático, albúmina, función renal, serología de sífilis, TORCH, VIH y VHC // **LCR:** citoquímica, VDRL y FTA-Abs (si negativos NO excluye neurosífilis) // **Imagen:** Rx huesos largos, ecografía craneal (Rx de tórax si clínica respiratoria) // **Detección de espiroquetas:** por PCR o microscopía óptica de campo oscuro en placenta, cordón umbilical, muestra de rinorrea o exudado de lesiones de piel // **Valoración oftalmolófica y potenciales evocados auditivos** | **Penicilina G sódica IV durante 10 días** // < 4 semanas de vida: // • 100.000 UI/kg/día cada 12h primeros 7 días // • 150.000 UI/kg/día cada 8 horas 3 días más // > 4 semanas de vida: // • 200.000-300.000 UI/kg/día cada 4-6h 10 días // Alternativa: Penicilina G procaína IM 50.000 UI/kg/24h 10 días // **Si neurosífilis:** // • 200.000-300.000 UI/kg/día cada 4-6h 14 días // Continuar con Penicilina G Benzatina 50.000 UI/kg/día semanal 3 semanas |
+| {3} **Sífilis congénita posible:** |
+| Examen físico normal y títulos de TNT <0 = de 4 veces los maternos y: // • Madre tratada de forma inadecuada o no tratada; o // • Madre tratada con otro antibiótico que no es penicilina; o // • Tratamiento materno iniciado en los 30 días previos al parto; o // • Madre con evidencia de reinfección o recaída | **Sangre:** hemograma, función renal y hepática, serologías TORCH, VIH y VHC // **LCR:** citoquímica y VDRL // **Imagen:** Rx huesos largos y ecografía craneal // **Valoración oftalmolófica** | Tratar igual que en sífilis comprobada |
+| {3} **Sífilis congénita menos probable:** |
+| Examen físico normal y títulos de TNT <0 = de 4 veces los maternos y: // • Madre tratada de forma adecuada (especialmente si los títulos TNT se mantuvieron bajos y estables antes y durante el embarazo y periparto) // • Madre sin evidencia de reinfección | Serología de sífilis // No es necesario hacer otras evaluaciones | Dos opciones: // 1. No tratar y realizar seguimiento serológico cada 2-3 meses durante 6 meses // 2. Si no es posible realizar seguimiento serológico: Penicilina G benzatina IM 50.000 UI/kg, dosis única |
+! «<0 =» está así en el PDF (se lee «≤»).
+
+@p 125
+**Seguimiento del recién nacido**
+- En todo hijo de madre con serología positiva para sífilis: seguimiento clínico a los 2, 4, 6 y 12 meses con serología de control (TNT) cada 2-3 meses hasta que negativicen (en torno a los 6-9 meses) o disminuyan 4 veces los títulos.
+- Si no negativizan o persisten títulos estables, reevaluar (incluido estudio de LCR) y tratar con penicilina 10 días.
+- En aquellos pacientes con anomalías bioquímicas o positividad de VDRL en LCR en el periodo neonatal, realizar punción lumbar de control cada 6 meses hasta normalización de parámetros.
+- Los test treponémicos (TT) no deben usarse para seguimiento ni para valorar respuesta terapéutica.
+@bib
+1. Baquero-Artigao F, del Castillo-Martín F, Fuentes I, et al. The Spanish Society of Pediatric Infectious Diseases Guidelines for the diagnosis and treatment of congenital toxoplasmosis. An Pediatr (Barc). 2013;79(2):116.e1-16.
+2. Maldonado YA, Read JS; Committee on infectious diseases. Diagnosis, Treatment, and Prevention of Congenital Toxoplasmosis in the United States. Pediatrics. 2017;139:e20163860.
+3. Carlier Y, Altcheh J, Angheben A, et al. Congenital Chagas disease: Updated recommendations for prevention, diagnosis, treatment, and follow-up of newborns and siblings, girls, women of childbearing age, and pregnant women. PLoS Negl Trop Dis. 2019;13(10):e0007694.
+4. Forsyth CJ, Manne-Goehler J, Bern C, et al. Recommendations for Screening and Diagnosis of Chagas Disease in the United States. J Infect Dis. 2022;225(9):1601-1610.
+5. American Academy of Pediatrics. Syphilis. In: Kimberlin DW, Barnett ED, Lynfield R, Sawyer MH, eds. Red Book: 2021 Report of the Committee on Infectious Diseases. Itasca, IL. American Academy of Pediatrics 2021;729-744.
+6. Nuñez E, Claros S. Sociedad Española de Infectología Pediátrica. Infecciones congénitas: sífilis. Infectología pediátrica avanzada: abordaje práctico. Ed: Panamericana; 2014: 201-213.

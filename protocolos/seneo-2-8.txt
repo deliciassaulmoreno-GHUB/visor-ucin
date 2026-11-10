@@ -1,0 +1,193 @@
+@f 14. Protocolos SENEO/2.8. Reanimación en paritorio. Muerte súbita neonatal
+@p 94
+# 2.8 REANIMACIÓN EN PARITORIO. MUERTE SÚBITA NEONATAL
+
+*Martin Iriondo Sanz^1^, Alejandro Ávila Álvarez^2^, Cèsar W. Ruiz Campillo^3^*
+
+*^1^Hospital Universitario de Sant Joan de Déu, Barcelona. ^2^Complexo Hospitalario Universitario de A Coruña. ^3^Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 80-85 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. El algoritmo (Figura 1) está redibujado con su mismo texto.
+
+## 1 Introducción
+
+La mayoría de recién nacidos (RN) (85%), sólo va a precisar cuidados de rutina (pinzamiento tardío del cordón y contacto materno “piel con piel”). Ante determinadas situaciones patológicas, la transición feto-neonatal puede comprometerse, desembocando en una situación de asfixia perinatal, que se manifiesta en el RN en forma de apnea, bradicardia e hipotensión. El proceso de atención global representa un verdadero “soporte a la transición del RN” que debe distinguirse de las intervenciones que restauran funciones vitales o “maniobras de reanimación”.
+
+El algoritmo de reanimación neonatal refleja de manera esquematizada la secuencia de actuación durante la transición y reanimación de un RN en sala de partos. Este algoritmo de reanimación neonatal de la SENeo se ha actualizado en 2021.
+
+Dentro del algoritmo se incluye un nomograma de saturaciones de oxígeno objetivo en los primeros minutos de vida e intervalos de tiempo durante los cuales se deben ir realizando los diferentes pasos. Además, a un lado del algoritmo se señala la recomendación de mantener una temperatura normal y evitar hipertermia durante la reanimación y al otro se recuerda la conveniencia de solicitar ayuda con la pregunta “¿necesitas ayuda?”. El algoritmo se presenta en la Figura 1 y comprende 5 puntos básicos: pasos previos, valoración y estabilización iniciales, ventilación y oxigenación, compresiones torácicas y medicación.
+
+De todos estos puntos, la ventilación se considera el paso fundamental en la reanimación del RN y, por tanto, se sitúa en el centro resaltada en el algoritmo.
+@p 95
+@deimg
+**Asistencia a la transición y reanimación del recién nacido en sala de partos**
+@flujo
+[Asesoramiento antenatal // Comprobar material de asignación de roles]
+
+**PARTO** (reloj)
+
+? ¿Gestación a término?* // ¿Respira o llora? // ¿Buen tono muscular?
+@cols
+No
+
+v
+
+(60 s)
+
+[· **Considerar pinzamiento tardío** de cordón // · Colocar bajo fuente de calor // · **Posición** cabeza, **vía aérea abierta** // · **Secar, estimular** // · **Reposicionar** cabeza]
+
+v
+
+? FC < 100 // “gasping” o apnea
+
+v
+
+[**Ventilar** // Monitorización SpO~2~ // ECG si disponible]
+
+v
+
+(30 s)
+
+? Persiste FC < 100
+
+v
+
+[**Asegurar/corregir maniobras ventilación** // Considerar intubación]
+
+v
+
+(30 s)
+
+? FC < 60
+
+v
+
+[**Compresiones torácicas** // Coordinadas con VPPPI 3:1]
+
+(**[O~2~] 100%** // **Intubación** // **ECG** // **Canalización vena umbilical**)
+
+v
+
+? FC < 60
+
+v
+
+[**Adrenalina c/3-5 min** // Considerar expansión volumen]
+
+---
+
+Sí
+
+v
+
+[**RETRASAR PINZAMIENTO CORDÓN + CUIDADOS DE RUTINA:** // · Proporcionar calor // · Asegurar vía aérea abierta // · Evaluación continua // **Madre piel con piel**]
+
+(No, desde «FC < 100 “gasping” o apnea»)
+
+? Dificultad respiratoria
+
+(No: vuelve a cuidados de rutina)
+
+v
+
+[**Valorar CPAP** // Monitorización SpO~2~]
+@fincols
+@finflujo
+
+| {2} **[O~2~] inicial 21%** // Modificar según pulsioximetría (mano derecha) |
+|---|---|
+| **Tiempo** | **SpO~2~** |
+| 3 min | 70-80% |
+| 5 min | 80-90% |
+| 10 min | 90-95% |
+
+[[Los recién nacidos prematuros tardíos pueden tratarse como los a término si la valoración de la respiración y el tono muscular es adecuada]]
+
+**MANTENER Tª NORMAL (36,5 - 37,5ºC) - Evitar hipertermia** · **¿NECESITAS AYUDA?**
+@findeimg
+*Figura 1. Algoritmo de Reanimación neonatal de la SENeo*
+! Redibujado del PDF. En el original: de «Persiste FC < 100» sale una flecha que vuelve a «Dificultad respiratoria»; si en la segunda «FC < 60» no hay mejoría tras las compresiones, una flecha curva vuelve a «Compresiones torácicas»; «No» en la primera «FC < 60» vuelve a la ventilación. Los tiempos (60 s), (30 s) y (30 s) van en una columna a la izquierda. «MANTENER Tª NORMAL (36,5 - 37,5ºC) - Evitar hipertermia» y «¿NECESITAS AYUDA?» son dos flechas verticales a lo largo de todo el algoritmo. Los rótulos entre paréntesis «No, desde…» y «No: vuelve a…» los he puesto yo para indicar las flechas.
+
+## 2 Pasos previos
+
+Se incluyen dos aspectos importantes de la anticipación y preparación, como son la importancia del consejo prenatal en aquellas situaciones en las que se prevea la necesidad de reanimación, y la comprobación del material y el reparto de roles previo, estableciendo las funciones que asumirá cada profesional.
+@p 96
+## 3 Valoración y estabilización iniciales
+
+Tras el parto, se debe iniciar el reloj y se responde a tres preguntas iniciales:
+1. ¿La gestación es a término*?
+2. ¿El RN respira o llora?
+3. ¿Tiene buen tono muscular?
+
+*\* Los RNs prematuros tardíos, pueden tratarse como los a término si la valoración de la respiración y el tono muscular son adecuados.*
+
+Si la respuesta a las tres preguntas iniciales es afirmativa, es decir, si el niño procede de una gestación a término (o es un prematuro tardío con buena evaluación inicial), llora o respira normalmente y tiene buen tono, se debe favorecer el contacto con la madre (piel con piel) con la finalidad de mantener la temperatura corporal, la vinculación afectiva, iniciar el proceso de lactancia materna y evitar maniobras innecesarias. Además debe secarse, limpiar la vía aérea sólo si es necesario, y realizar una evaluación clínica estrecha de cara a detectar precozmente situaciones de potencial riesgo (apnea, colapso postnatal, dificultad respiratoria, cianosis...). En esta situación se recomienda retrasar el pinzamiento del cordón umbilical al menos un minuto.
+
+Si la respuesta a alguna de las 3 preguntas iniciales es negativa se inician los primeros pasos de estabilización inicial:
+- Colocar bajo fuente de calor
+- Permeabilizar la vía aérea (posicionar la cabeza, vía aérea abierta)
+- Secar, estimular al RN
+- Reposicionar cabeza
+
+En estos casos, puede considerarse también el pinzamiento tardío de cordón si localmente es factible y está protocolizado. En esta estabilización inicial, se evalúan 2 parámetros: respiración y frecuencia cardiaca (FC), y en función de ellos se decide la necesidad de iniciar la ventilación con presión positiva. Actualmente, no se utiliza la valoración del color del recién nacido debido a su subjetividad entre diferentes observadores.
+
+Esta valoración y estabilización iniciales, junto con el inicio de la ventilación se denominan “el minuto de oro” de la reanimación del RN.
+
+**Ventilación y oxigenación**
+Si el el RN respira bien y la FC es superior a 100 lpm, pueden aplicarse los cuidados de rutina y volver con su madre (piel con piel).
+
+En neonatos con respiración espontánea y FC superior a 100 lpm, pero con dificultad respiratoria, puede considerarse el uso de presión positiva continua en la vía respiratoria (CPAP). Se recomienda colocar un pulsioxímetro en la mano o muñeca de la extremidad superior derecha (control de saturación de hemoglobina preductal). Si la FC es menor de 100 lpm o la respiración es apneica o tipo “gasping”, se debe iniciar ventilación con presión positiva (dentro del pimer minuto o minuto de oro). Se recomienda también, colocar pulsioxímetro preductal y considerar el uso de electrodos torácicos para
+@p 97
+visualización del ritmo cardiaco como medida fiable y precoz de la FC.
+
+En RNs a término se recomienda iniciar la ventilación con aire ambiente (FiO~2~ 0.21) y en prematuros de < 32 semanas gestacionales se usa una Fi0~2~ entre 0.21y 0.3. La concentración de oxígeno se regula a lo largo de la reanimación para obtener la saturación objetivo reflejada en la tabla incluida en el algoritmo. Si la FC continúa siendo inferior a 100 lpm, efectuaremos las maniobras necesarias para corregir la técnica de ventilación con mascarilla buscando una ventilación que expanda el tórax y se valorará la necesidad de intubación endotraqueal. La reevaluación continua de la eficacia de la ventilación es fundamental.
+
+Una vez establecida una ventilación adecuada durante 30 segundos, valoraremos de nuevo la FC para indicar o no el inicio de compresiones torácicas.
+
+**Compresiones torácicas**
+Si a pesar de 30 segundos de ventilación adecuada la FC está por debajo de 60 lpm, se iniciarán las compresiones torácicas. La relación compresión / ventilación recomendada sigue siendo de 3:1 (90 compresiones y 30 ventilaciones por minuto) y la técnica de los 2 pulgares con las manos envolviendo el tórax es la de elección.
+
+Cuando se requieren compresiones torácicas, se recomienda la intubación orotraqueal, aumentar la FiO~2~ hasta 1, monitorizar con ECG (además del pulsioxímetro) y preparar la canalización umbilical.
+
+Las compresiones torácicas se mantienen 30 segundos, al cabo de los cuales si la FC es mayor a 60 lpm se suspenden y se sigue ventilando hasta estabilizar la FC por encima de 100 lpm y la respiración. Si la FC está por debajo de 60 lpm se pasa al siguiente punto de la reanimación.
+
+**Medicación: adrenalina y líquidos**
+El uso de adrenalina está indicada cuando tras 30 segundos de ventilación adecuada con presión positiva intermitente y compresiones torácicas eficaces, la FC sigue siendo < 60 lpm.
+
+La vena umbilical es la vía de elección. Si el acceso vascular no está disponible, la administración por vía endotraqueal es razonable mientras se canaliza la vena umbilical. La dosificación de la adrenalina endovenosa es de 0.01-0.03 mg/kg (10-30 mcg/kg), es decir, 0.1-0.3 mL/kg de la solución 0,1 mg/mL (la dosis endotraqueal es 0,5-1 mL/kg de esta misma solución). Esta dosis se debe repetir, si continúa estando indicada, cada 3-5 minutos. Durante este tiempo se mantienen las compresiones torácicas hasta que aumente la FC por encima de 60 lpm.
+
+Si el RN no presenta mejoría a pesar de todas las medidas mencionadas, se debe replantear la situación, valorar diferentes situaciones que pueden comprometer la eficacia de la reanimación y considerar la administración de una expansión de volumen (suero fisiológico a 10 mL/Kg en 5-10 minutos por vena umbilical).
+
+## 4 Muerte súbita neonatal: colapso postnatal
+
+La forma más frecuente de muerte súbita neonatal, es el colapso postnatal (SUPC:
+@p 98
+*Sudden Unexpected Postnatal Collapse*). Se define como un colapso postnatal repentino e inesperado que ocurre dentro de la primera semana postnatal en un bebé nacido > 35 semanas de edad gestacional, con un Apgar a los 5 minutos > 7, que aparentemente está bien al nacer y se considera saludable, que requiere reanimación cardiopulmonar con ventilación mecánica, requiriendo ingreso en la UCIN con resultado de muerte o encefalopatía hipóxico-isquémica grave.
+
+Mientras el niño permanece con la madre debemos seguir vigilándolo, especialmente su mecánica respiratoria. Las posibles causas de colapso postnatal son múltiples, pero frecuentemente se asocian con una mala posición de la vía aérea que puede acabar provocando una apnea. Es más frecuente en primíparas. Las medidas preventivas se basan en una posición adecuada para reducir la probabilidad de una apnea obstructiva y en la vigilancia continua. Para ello, se debe colocar al RN en decúbito prono sobre la madre, con la cabeza ladeada (nariz y boca libres), y con la cama de la madre inclinada 45º. Es importante supervisar las primeras tomas de lactancia materna.
+
+La monitorización continua con pulsioximetría es controvertida y no hay suficientes datos para recomendarla de forma generalizada. Es necesaria la vigilancia continua del RN, tanto por los profesionales sanitarios como por la propia madre, a la que se deben explicar los signos de riesgo.
+
+Si en algún momento el niño presenta una respiración inadecuada o un cambio de color se le colocará bajo una fuente de calor radiante y tras su evaluación se iniciarán las maniobras de estabilización y/o reanimación.
+
+El traslado de la madre y del RN desde paritorio a la habitación del área maternal, así como los primeros días de vida, son momentos clave y de riesgo en los que deben proseguirse las medidas preventivas.
+@caja
+**SE RECOMIENDA**
+- Los pasos previos a la atención del RN en paritorio, como son el consejo prenatal, comprobación de material y asignación de roles, son fundamentales para una buena anticipación y preparación.
+- El retraso del pinzamiento de cordón umbilical, es una medida recomendada dentro de los cuidados de rutina del RN y siempre que sea posible en la estabilización inicial.
+- La implementación de las medidas de estabilización inicial y la optimización de la ventilación son las medidas principales en la atención del RN en sala de partos.
+- La vigilancia continua del RN, la posición adecuada de madre-RN, y la supervisión de las primeras tomas de lactancia materna, son puntos clave en la prevención del colapso postnatal del RN.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Dentro de las medidas de estabilización inicial, no se recomienda de forma sistemática la aspiración de secreciones, estando ésta indicada si se objetivan signos de obstrucción de la vía aérea.
+- El color del recién nacido, debido a su subjetividad, no se utiliza actualmente para la toma de decisiones en los diferentes pasos de la reanimación neonatal.
+- En la prevención del colapso postnatal, la monitorización continua con
+@p 99
+pulsioximetría es controvertida y no hay suficientes datos para recomendarla de forma generalizada.
+@fin
+@bib
+1. Wyllie J, Perlman JM, Kattwinkel J, et al. Part 7: Neonatal resuscitation: 2015 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment Recommendations. Resuscitation 2015; 95:e169-201.
+2. Wyckoff MH, Wyllie J, Aziz K, et al. Neonatal Life Support: 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations. Circulation 2020; 142(suppll):S185-221.
+3. Aziz K, Lee HC, Escobedo MB, et al. Part 5: Neonatal Resuscitation: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 2020;142 (suppl 2):S524-50.
+4. Madar J, Roehr CC, Ainsworth S, et al. European Resuscitation Council Guidelines 2021: Newborn resuscitation and support of transition of infants at birth. Resuscitation 2021;161:291-326.
+5. Grupo de Reanimación Neonatal de la SENeo. Manual de reanimación neonatal. 5ª edición (en revisión) 2022.
+6. Suárez Pérez C, Rodríguez García L, Gómez de Cos M, et al. Medidas de seguridad para evitar el colapso postnatal repentino (SUPC).2020 https://revistamedica.com/medidas-seguridad-colapso-postnatal-repentino-supc/

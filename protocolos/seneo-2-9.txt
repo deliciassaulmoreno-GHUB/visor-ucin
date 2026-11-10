@@ -1,0 +1,150 @@
+@f 14. Protocolos SENEO/2.9. Riesgo psicosocial en neonatología. Renuncia del recién nacido
+@p 100
+# 2.9 RIESGO PSICOSOCIAL EN NEONATOLOGÍA. RENUNCIA DEL RECIÉN NACIDO
+
+*Anna Creus Molins, Anna Fàbregas Martori, Esther Miguel Martín*
+
+*Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 86-90 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. El esquema (Figura 1) está redibujado con su mismo texto.
+
+## 1 Introducción
+
+Entendemos el riesgo psicosocial como aquella situación que incluye a todo niño o niña, cuyo entorno social y/o familiar presenta alteraciones o carencias sociales y/o afectivas que impiden el desarrollo físico, psíquico y social saludable del mismo". Diferentes estudios han demostrado que la exposición a situaciones de riesgo psicosocial tiene consecuencias en la salud infantil, que pueden ser de diferente gravedad, sobre todo relacionadas con patología de salud mental, pero también con problemas del desarrollo psicomotor, del lenguaje y de la conducta.
+
+Es importante que los profesionales sanitarios conozcamos este tipo de riesgo, ya que tenemos la obligación legal de detectarlo y comunicarlo, de cara a la protección de los niños y niñas frente a cualquier tipo de violencia hacia la infancia.
+
+## 2 Cuadro de factores de riesgo psicosocial
+
+Factores que hemos de tener en cuenta para la detección de situaciones de riesgo del recién nacido:
+- Trastorno por uso de sustancias (TUS) de los progenitores
+- Gestación no controlada o parcialmente controlada
+- Madre menor de 18 años
+- Familia monoparental
+- Violencia machista o de género
+- No control médico adecuado de una enfermedad orgánica materna
+- Enfermedad mental de los progenitores sin control ni tratamiento
+- Situación socioeconómica precaria, problemas de vivienda, etc...
+- Problemas familiares graves (ej., progenitor en privación de libertad, falta de red familiar y social, proceso actual de ruptura de la pareja, ...)
+@p 101
+- Embarazo no deseado
+- Embarazo ocultado
+- Inmigración reciente, con todo lo que puede conllevar: barrera idiomática, problemática económica, de vivienda, diferencias culturales, duelo migratorio, etc...
+- Intervención de la Dirección General de Protección de la infancia y de la adolescencia durante el embarazo actual o en anteriores embarazos, etc ...
+
+Estos indicadores determinan el grado de gravedad, de modo que podemos encontrarnos con **diferentes situaciones:**
+
+**2.1. Situaciones de riesgo psicosocial leve:**
+- Madre adolescente (menor de 18 años) , sin otros factores de riesgo.
+- Antecedentes de TUS previos a la gestación actual.
+- Consumo aislado de cannabis sin otros factores de riesgo.
+- Seguimiento por parte de los servicios de protección del menor durante la gestación actual, siendo favorable la evolución.
+
+Gestación no controlada de forma total o parcial (falta alguna serología, ecografía o no se ha realizado todo el seguimiento médico establecido), sin otros factores de riesgo.
+
+**2.2. Situaciones de riesgo psicosocial moderada- grave:**
+- TUS durante la gestación actual o tóxicos en orina positivos de la gestante/madre, solicitados por algún motivo (heroína, cocaína, anfetaminas, alcohol, cannabis, metadona, benzodiacepinas sin prescripción médica,...)
+- Gestación no controlada o parcialmente controlada, con más factores de riesgo asociados y conocidos en el momento del nacimiento.
+- Violencia de género con la pareja actual.
+- Problemas de salud mental de la madre, cuando los profesionales referentes valoran que el estado de ésta dificulta o imposibilita el cuidado del recién nacido.
+- Enfermedad grave materna, no controlada de forma voluntaria (HIV, DM,...)
+- Madre adolescente (menor de 18 años) con otros factores de riesgo que dan como resultado percepción de gravedad.
+- Comunicación de *Nasciturus* (no nacido): situación en la que la Dirección General de Protección del Menor del área correspondiente, resuelve el desamparo preventivo durante el embarazo, activándose la retirada de tutela temporal del recién nacido a los progenitores, así como la retención hospitalaria del mismo en el momento del nacimiento.
+
+La detección precoz de estos factores de riesgo es muy importante y determinante para una evolución favorable posterior ya que, si son detectados en el período prenatal, el trabajo multidisciplinar que se podrá realizar favorecerá la resolución de las problemáticas existentes o manifiestas, y también ayudará a favorecer el adecuado vínculo de la madre con el bebé y la instauración de una lactancia materna exitosa.
+@p 102
+A continuación, en el siguiente esquema, señalaremos las diferentes actuaciones a realizar en función del momento de la detección ( ver FIGURA 1)
+
+@deimg
+@flujo
+[**Actuación a realizar en función del momento de la detección del riesgo psicosocial**]
+@cols 3
+[**Durante el embarazo**]
+
+v
+
+[· Detección precoz de factores de riesgo psicosocial // · Generar confianza con la intervención, no juicios de valor // · Si consumo de tóxicos: información sobre riesgo para el feto, intentar remisión]
+
+---
+
+[**Durante el parto**]
+
+v
+
+[· Detección precoz factores de riesgo psicosocial // · Si gestación no controlada, además, solicitar serologías urgentes maternas y valorar tóxicos en orina]
+
+---
+
+[**Durante la hospitalización**]
+
+v
+
+[· Detección precoz factores de riesgo psicosocial // · Exploración física recién nacido (RCIU, TEAF, SAN,...) // · Comportamiento madre, vínculo con bebé,...]
+@fincols
+v
+
+[**CONSULTA CON:** // **TRABAJO SOCIAL HOSPITALARIO** // **+/-** // **PSIQUIATRÍA/PSICOLOGÍA PERINATAL** // (imprescindible antes del alta)]
+
+v
+
+[EVALUACIÓN MULTIDISCIPLINAR DE CADA CASO DE FORMA INDIVIDUALIZADA]
+@cols
+[SI SE CONSIDERA RIESGO PSICOSOCIAL LEVE]
+
+v
+
+[ALTA AL DOMICILIO CON LA FAMILIA: // · Contacto con CAP previo al alta // · Contacto con Servicios sociales de zona previo al alta // · Valorar ingreso domiciliario // · Citar a Consulta de Pediatría Social // · Derivar a CDIAP si consumo tóxicos maternos, prematuridad... // · Derivar a CE Genética si sospecha TEAF]
+
+---
+
+[SI SE CONSIDERA RIESGO PSICOSOCIAL MODERADO/GRAVE]
+
+v
+
+[CONTACTO CON LOS SERVICIOS DE PROTECCIÓN DE LA INFANCIA Y DE LA ADOLESCENCIA // (antes del alta), quien puede resolver:]
+
+v
+
+[**RETENCIÓN HOSPITALARIA Y DESAMPARO PREVENTIVO DEL RECIEN NACIDO:** // · Alta con familia de acogida (de urgencia diagnóstica) // · Alta con tutela con familia extensa // · Alta a Centro de menores]
+@fincols
+@finflujo
+@findeimg
+*Figura 1.*
+
+*TEAF: Transtorno del espectro alcohólico fetal, RCIU: retraso del crecimiento intrauterino, SAN: Síndrome de abstinencia neonatal, CDIAP: Centro de Desarrollo y Atención Precoz*
+! En el PDF, del recuadro «CONTACTO CON LOS SERVICIOS DE PROTECCIÓN…» sale también una flecha hacia «ALTA AL DOMICILIO CON LA FAMILIA».
+
+@p 103
+## 3 Renuncia del recién nacido
+
+Es aquella situación en la que la madre o ambos progenitores manifiestan la voluntad de renunciar a la patria potestad del hijo/a. Esta decisión ha de ser meditada, personal, libre y bajo ningún concepto hemos de juzgar o expresar opiniones subjetivas.
+
+Cuando se produzca el nacimiento del bebé, éste se separará inmediatamente de la madre, a no ser que verbalice querer verlo. Se hará intervención por parte de Trabajo Social Sanitario pre y postparto y se ofrecerá seguimiento psicológico.
+
+Al recién nacido se le dará el alta hospitalaria pasadas las 48 horas del nacimiento si el embarazo ha sido bien controlado y el bebé no presenta ninguna patología, con família de urgencia diagnóstica (familia de acogida temporal) o bien, a centro de menores.
+
+Dependiendo de las situaciones (embarazo no controlado, transtorno por uso de sustancias de la madre,.. ) se valorará si es necesario realizar algún estudio ecográfico, analítico, serológico, etc .... y valorar alargar el ingreso un mínimo de 5 días para valoración de la aparición de posible síndrome de abstinencia neonatal.
+@caja
+**SE RECOMIENDA**
+- Detectar de forma precoz, idealmente ya durante el embarazo, aquellos casos de familias de riesgo psicosocial, y derivar para valoración por Trabajo Social y/o Psiquiatría y Psicología Perinatal. Se realizará estudio familiar y acompañamiento durante el periodo prenatal.
+- Informar a la madre de los riesgos para el feto y el futuro bebé de consumir sustancias tóxicas durante el embarazo.
+- Favorecer el método “piel con piel” en sala de partos e intentar no separar al binomio madre-bebé durante el ingreso en el puerperio siempre que sea posible.
+- Favorecer lactancia materna, siempre y cuando no haya contraindicación médica para ello y la madre lo desee.
+- En el caso de una renuncia, separar inmediatamente a la madre del bebé en el momento de nacer, siempre respetando sus deseos.
+- Contactar con Trabajo Social hospitalario y/o Psiquiatría y Psicología perinatal según sea necesario, después del nacimiento del bebé, para una valoración del caso. Posteriormente, se deberá realizar una seguimiento al alta adecuado a las necesidades de la familia, realizando coordinación con zona (Centro de salud, Centros de Desarrollo y Atención temprana, Servicios sociales, etc...)
+- Explicar a los padres lo que deben hacer ante el llanto de su bebé. Informar del daño que puede producirle el hecho de sacudir o balancear fuerte al bebé, como prevención del “Síndrome del niño/a sacudido”
+- Informar del riesgo de consumir tóxicos estando al cuidado de un recién nacido, y de los riesgos de consumir ciertas sustancias si se está amamantando al bebé.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Emitir juicios de valor en relación a una familia de riesgo psicosocial o a una renuncia.
+@p 104
+- Separar a la madre al bebé sin un motivo importante (sólo si existe riesgo de daño físico hacia el recién nacido o riesgo de fuga de la familia con él).
+- El desconocimiento por parte del personal sanitario de los factores de riesgo psicosocial y, por lo tanto, la no detección de situaciones de riesgo. Se debe formar y sensibilizar a todos/as los profesionales en relación a dicha problemática para saber qué detectar y cómo actuar.
+@fin
+@bib
+1. Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia. https://www.boe.es/eli/es/lo/2021/06/04/8
+2. Protocolo de actuación ante malos tratos en la infancia y la adolescencia en el ámbito de la salud. Edición Marzo 2019. Departamento de salud. https://scientiasalut.gencat.cat/handle/11351/4053
+3. Hughes K, Bellis MA, Hardcastle KA, et al. The effect of multiple adverse childhood experiences on health: a systematic review and meta-analysis. Lancet Public Health 2017; 2: e356–66.
+4. Mouesca JP. Child maltreatment prevention: the pediatrician's function. Part 1: Overview, evidence, risk factors, protective factors and triggers. Arch Argent Pediatr 2015:113;558-567.
+5. Lane WG. Prevention of child maltreatment. Pediatr Clin North Am 2014;61:873-88.
+6. Child abuse and neglect. NICE guideline. October 2017. https://www.nice.org.uk/guidance/ng76.

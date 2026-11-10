@@ -1,0 +1,173 @@
+@f 14. Protocolos SENEO/2.10. Conductas de riesgo: tabaquismo, alcohol, drogas de abuso
+@p 105
+# 2.10 CONDUCTAS DE RIESGO: TABAQUISMO, ALCOHOL, DROGAS DE ABUSO
+
+*Óscar García-Algar*
+
+*Hospital Clínic Barcelona, Universitat de Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 91-98 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El consumo de sustancias de abuso durante el embarazo es un problema de salud pública muy relevante. No sólo afecta a la madre y supone un mayor riesgo de abuso y negligencia, sino que además la exposición prenatal a sustancias psicoactivas es causa totalmente prevenible de alteraciones en el crecimiento y el neurodesarrollo del recién nacido y posteriormente durante la infancia.
+
+## 2 Prevalencia de consumo de sustancias de abuso en el embarazo
+
+La estimación de la prevalencia del consumo de sustancias de abuso durante el embarazo es difícil de establecer y varía considerablemente en cada área geográfica, teniendo en cuenta además que el policonsumo es muy frecuente.
+
+En nuestro entorno, se ha demostrado en estudios con biomarcadores que aproximadamente el 60% de las mujeres embarazadas consume alguna cantidad de alcohol durante el embarazo, el 15 % tabaco, el 10% cánnabis y el 5% cocaína. Estas cifras varían en los distintos grupos poblacionales en relación con múltiples factores sociodemográficos: metanfetaminas en embarazadas procedentes de Filipinas, arecolina si vienen de India y Pakistán, alcohol en madres de adoptados en países de Europa del Este, etc.
+
+Un aspecto importante a tener en cuenta es la poca conciencia por parte del grupo poblacional de mujeres embarazadas del riesgo del consumo de sustancias de abuso durante el embarazo para el feto, el recién nacido y posteriormente a lo largo de la vida. Aunque el embarazo suele ser una motivación para disminuir o abandonar el consumo, un alto porcentaje de embarazos no son planificados, y el retraso en el conocimiento del embarazo (a partir de las 7-8 semanas de gestación) se produce en más de una cuarta parte de los casos. Este consumo supone un riesgo ya que expone al embrión y al feto durante un período crítico del neurodesarrollo precoz.
+@p 106
+## 3 Efectos del consumo de sustancias de abuso en el embarazo
+
+El útero es el entorno del embrión y el feto durante el embarazo, y la mayoría de las sustancias (tanto las de abuso como los contaminantes ambientales o los fármacos de prescripción) atraviesan la placenta y alcanzan concentraciones fetales que pueden ser muy superiores a las maternas. Esto es especialmente grave en etapas precoces de la embriogénesis, y se traduce en diversos efectos sobre el desarrollo fetal (Tabla 1):
+1. Resultados perinatales adversos: relacionadas con parto pretérmino, bajo peso al nacer, diversas complicaciones médicas y obstétricas (retraso de crecimiento intrauterino, corioamnioniotis, infecciones perinatales, etc.)
+2. Malformaciones congénitas
+3. Efectos neuroconductuales
+@ancha
+| {7} **Tabla 1. Resumen de los efectos de la exposición prenatal a drogas de abuso** |
+|---|---|---|---|---|---|---|
+| | **Nicotina** | **Alcohol** | **Cánnabis** | **Opiáceos** | **Cocaína** | **Metanfetamina** |
+| {7} **Efectos a corto plazo** |
+| Crecimiento fetal | + | ++ | - | + | + | + |
+| Anomalías congénitas | ? | ++ | - | - | - | - |
+| Abstinencia | - | - | - | ++ | - | ? |
+| Trastornos neuroconductuales | + | + | + | + | + | + |
+| {7} **Efectos a largo plazo** |
+| Crecimiento | ? | ++ | - | - | ? | ? |
+| Conducta | + | ++ | + | + | + | ? |
+| Cognición | + | ++ | + | ? | + | ? |
+| Lenguaje | + | + | - | ? | + | ? |
+| Rendimiento | + | ++ | + | ? | ? | ? |
+
+**Síndrome de abstinencia neonatal (SAN)**
+El SAN incluye una serie de signos y conductas que presenta un neonato, generalmente en los primeros 4 días de vida, después de interrumpir la exposición gestacional a sustancias psicoactivas consumidas por la madre: llanto agudo, irritabilidad, trastornos del ciclo sueño-vigilia, del tono muscular, motores, de alimentación, gastrointestinales (vómitos, diarrea), disfunción autonómica (sudoración, fiebre, rigidez, bostezos, estornudos) y no ganancia de peso. Aunque clásicamente se asocia a la abstinencia a opiáceos, otras sustancias
+@p 107
+también pueden causar un cuadro similar (por ejemplo, nicotina, benzodiacepinas).
+
+**Alcohol**
+El alcohol es uno de los principales teratógenos y la principal causa prevenible de trastornos del neurodesarrollo en el mundo occidental. Los efectos del alcohol en el feto varían según el momento de la exposición, la concentración de alcohol en sangre y el patrón de consumo materno. Aunque se ha demostrado que la gravedad del efecto está relacionada con la dosis consumida, no existe ninguna cantidad de alcohol cuyo consumo puede considerarse seguro durante el embarazo. Por lo tanto, la única recomendación es que las mujeres deben evitar absolutamente el consumo de alcohol durante el embarazo, incluyendo el período alrededor de la concepción. Los efectos negativos relacionados con el consumo de alcohol durante el embarazo se agrupan bajo el término Trastorno del Espectro Alcohólico Fetal (TEAF, FASD en inglés), que incluye 4 formas clínicas: Síndrome Alcohólico Fetal (SAF), SAF parcial (SAFp), defectos de nacimiento relacionados con el alcohol (ARBD) y trastorno del neurodesarrollo relacionado con el alcohol (ARND).
+
+En nuestro entorno no se conoce la prevalencia del TEAF en la población general, aunque probablemente el valor es alrededor del 4%, como sucede en otros países de la cuenca mediterránea. En grupos poblacionales concretos, está prevalencia es mucho más elevada, por ejemplo, entre los adoptados en países de Europa del este es el 50%.
+
+En términos generales, el TEAF se caracteriza, desde el punto de vista clínico, por la presencia de todos o de algunos de los siguientes signos y síntomas:
+1. Anomalías craneofaciales: filtrum (pliegue subnasal) liso (desaparición de las columelas), labio superior fino (desaparece la forma característica de M o de arco de Cupido) y hendiduras palpebrales pequeñas.
+2. Retraso del crecimiento: valores de peso y/o talla por debajo del percentil 10 en función de la edad y el sexo.
+3. Alteración del sistema nervioso central: valor del perímetro craneal por debajo del percentil 10 en función de la edad y el sexo.
+4. Alteraciones neuropsicológicas: afectación de dominios conductuales y cognitivos.
+
+**Cocaína**
+Es una sustancia estimulante ilegal que se consume recreacionalmente en todo el mundo y en todos los grupos de edad, también entre mujeres embarazadas. Atraviesa la placenta y produce daño en el neurodesarrollo fetal, relacionado con su efecto vasoconstrictor. Durante el período neonatal, los neonatos expuestos prenatalmente muestran signos de alteración de la regulación neuroconductual, incluyendo labilidad en su estado general, movimientos y reflejos de baja calidad, hipertonía, deficiencia de atención e irritabilidad. Después del período neonatal, se han descrito signos de deficiencia de la regulación sueño-vigilia, hiperreactividad y disminución de la respuesta emocional y fisiológica a la estimulación ambiental; también se observan problemas de conducta, lenguaje, cognición y motores, y se ha asociado lasu exposición prenatal con el Trastorno por Déficit de Atención e Hiperactividad (TDAH), trastorno oposicionista desafiante y consumo de sustancias a lo largo de la vida. También puede dar lugar a malformaciones congénitas, prematuridad, retraso de crecimiento intrauterino, desprendimiento de placenta o aborto.
+@p 108
+**Anfetaminas**
+Su exposición prenatal se ha asociado con disminución del nivel de alerta, aumento del estrés y alteraciones motoras. Afecta a la estructura y el funcionamiento del sistema nervioso central y produce efectos a corto plazo similares a la cocaína. A largo plazo, destacan los problemas conductuales y emocionales, incluyendo hiperreactividad, ansiedad, depresión y aislamiento social, además de TDAH, conductas externalizantes alteradas, reducción del cociente intelectual (CI) y deficiencias en el aprendizaje, la memoria y la coordinación motora.
+
+**Nicotina**
+Los neonatos expuestos prenatalmente pueden presentar afectación del nivel de alerta, irritabilidad, hiperexcitabilidad, hipertonía y signos compatibles con abstinencia neonatal, que suele durar pocas horas. También se ha asociado con aumento del riesgo de desprendimiento de placenta, prematuridad, placenta previa, bajo peso al nacer y problemas respiratorios neonatales. A largo plazo, la exposición prenatal puede dar lugar a irritabilidad, trastornos de conducta, de autorregulación, TDAH, mayor consumo de sustancias en la adolescencia e irritabilidad y conducta agresiva.
+
+**Opiáceos**
+Los opiáceos (por ejemplo, heroína) pueden dar lugar a abstinencia neonatal (igual que los opioides, como la metadona). Existen pocos estudios a largo plazo con suficiente calidad metodológica para obtener resultados relevantes, aunque la exposición prenatal se ha asociado con reducción del volumen de algunos núcleos cerebrales y clínicamente con hiperactividad y deficiencia de atención, problemas cognitivos y de memoria.
+
+**Cánnabis**
+El cánnabis es la tercera sustancia de abuso consumida durante el embarazo después del alcohol y el tabaco. A pesar de su elevado consumo, existen pocos estudios que hayan aclarado completamente sus los posibles efectos a largo plazo sobre el SNC. No obstante, siguiendo el sentido común de salud pública, la ausencia de evidencia no equivale a evidencia de ausencia: es decir, la única recomendación posible es que hay evitar cualquier consumo de cánnabis durante el embarazo.
+
+Su consumo durante el embarazo se ha relacionado con bajo peso al nacer, complicaciones neonatales graves y alteraciones neuroconductuales (temblores, afectación del nivel de alerta, de la autorregulación, irritabilidad, excitabilidad). A largo plazo, los niños expuestos prenatalmente muestran dificultades en el razonamiento verbal, memoria a corto plazo y función ejecutiva (resolución de problemas, falta de atención, impulsividad).
+
+**Benzodiacepinas**
+Son fármacos que se prescriben muy frecuentemente durante el embarazo y que también se consumen como sustancias de abuso. La exposición prenatal es poco conocida porque no existen herramientas de cribado efectivas. Su abstinencia da lugar a hipoventilación, irritabilidad y dificultades de alimentación, que pueden aparecer hasta varias semanas después del nacimiento. Los efectos a largo plazo son retraso en el desarrollo motor y síntomas neuropsicológicos.
+
+**Identificación del consumo y de la exposición**
+El cribado del consumo de sustancias de abuso durante el embarazo y en la época
+@p 109
+preconcepcional se puede realizar mediante un cuestionario a la madre, o una determinación de la presencia de biomarcadores de estas sustancias en matrices biológicas, principalmente orina materna y neonatal y en algunos casos de alta sospecha, en pelo materno.
+
+En todas las mujeres, en la visita preconcepcional y durante el embarazo hay que pasar un cuestionario sobre el consumo de sustancias de abuso. Existen diversos cuestionarios estructurados que se pueden emplear durante el período prenatal, aunque la mayoría son específicos para el consumo de alcohol: AUDIT (Alcohol Use Disorders Identification Test) completo o abreviado, pregunta única de cribado o SBIRT (Screening, Brief Intervention, and Referral to Treatment).
+
+## 4 Intervenciones
+
+La detección precoz (preferentemente preconcepcional) permite aumentar las opciones de tener un embarazo y un recién nacido sin problemas asociados. En las mujeres con un cribado positivo para el consumo de sustancias de abuso, la entrevista motivacional (intervención breve) puede ser muy útil y justifica la derivación especializada para diagnóstico, tratamiento y seguimiento. En estos casos es muy importante la participación de la pareja y/o la familia para la recuperación de la mujer. La estrategia SBIRT es muy efectiva para motivar el abandono del consumo y consta de 3 componentes: cribado para determinar la gravedad del consumo de la sustancia, la intervención breve para crear una motivación a través de la conversación de soporte, y la derivación para el tratamiento relacionando a la paciente directamente con los servicios necesarios.
+
+**Lactancia materna**
+Todas las sustancias de abuso pueden estar presentes en la leche materna, aunque sea en cantidades muy pequeñas. No obstante, se han descrito efectos secundarios relacionados con la lactancia materna en mujeres consumidoras de estas sustancias.
+
+- Nicotina: se recomienda abandonar o limitar el consumo, utilizar terapia sustitutiva con nicotina y en todo caso, consumir inmediatamente después de la toma y fuera del ambiente donde está el neonato
+- Cafeína: aunque se recomienda un máximo de 2 tazas al día, es preferible no tomar café (o que sea descafeinado) ya que la vida media de la cafeína en leche materna dura más que el intervalo entre tomas
+- Alcohol: no consumir
+- Cánnabis: no consumir y si se consume, fuera del ambiente donde está el neonato
+- Cocaína: no consumir
+- Opiáceos (heroína): no consumir
+- Opioides (metadona): no consumir; valorar cada caso
+- Benzodiacepinas: no recomendable; consultar para cada fármaco
+- Antidepresivos: consultar para cada fármaco
+- Antipsicóticos: consultar para cada fármaco
+@p 110
+**Período posnatal**
+Todos los recién nacidos que han estado expuestos prenatalmente a sustancias de abuso, deben ser monitorizados y recibir tratamiento de soporte durante el período postnatal inmediato, para poder detectar la posible aparición de signos de abstinencia neonatal.
+
+Hay que valorar cada caso y solicitar exploraciones complementarias para descartar otras etiología y los efectos de cada sustancia: hemograma, bioquímica, EEG, ecografía cerebral, y RM y serologías si es preciso
+
+En caso de exposición prenatal a opiáceos, el neonato debe ser hospitalizado al menos durante 72 horas, para poder identificar los síntomas del SAN y poder iniciar su tratamiento farmacológico. Esta evaluación se puede realizar mediante el test de Finnegan (Tabla 2), que se aplica cada 3 o 4 horas, aunque originalmente fue descrito para el SAN a opiáceos. Para el tratamiento no farmacológico se utilizan técnicas de confort, minimizar los estímulos ambientales y alimentación fraccionada, y para el tratamiento se pueden emplear de elección sulfato de morfina o metadona (Tabla 3), y si la madre toma metadona o buprenorfina como tratamiento, la lactancia materna no está contraindicada.
+
+En todos los casos de recién nacidos expuestos prenatalmente a sustancias de abuso o con clínica de SAN, debe intervenir la trabajadora social con el objetivo de mejorar la calidad de vida de la mujer y su recién nacidos, detectar una posible desprotección infantil y evitar la cronificación del problema social y de salud El pediatra de Atención Primaria tiene un papel muy importante en la exposición posnatal a sustancias de abuso a través de la evaluación continuada del lactante, sus cuidadores y su entorno.
+
+| {2} **Tabla 2. Test de Finnegan** |
+|---|---|
+| {2} **Alteraciones del Sistema Nervioso Central** |
+| Llanto agudo // Llanto agudo continuo | 2 // 3 |
+| Duerme < 1h después de comer // Duerme < 2h después de comer // Duerme <3h después de comer | 3 // 2 // 1 |
+| Reflejo de Moro hiperactivo // Reflejo de Moro marcadamente hiperactivo | 2 // 3 |
+| Temblor ligero al ser molestado // Temblor moderado o grave al ser molestado | 1 // 2 |
+| Temblor ligero espontáneo // Temblor moderado o grave espontáneo | 3 // 4 |
+| Hipertonía muscular | 2 |
+| Excoriaciones | 1 |
+| Mioclonías | 3 |
+| Convulsiones generalizadas | 5 |
+@p 111
+@pie Tabla 2. Test de Finnegan (continuación)
+| {2} **Alteraciones vegetativas** |
+| Sudoración | 1 |
+| Fiebre 37,2-38,8ºC // Fiebre ≥ 38,4ºC | 1 // 2 |
+| Bostezo frecuentes | 1 |
+| Erupciones cutáneas fugaces | 1 |
+| Obstrucción nasal | 1 |
+| Estornudos frecuentes | 1 |
+| Aleteo nasal | 2 |
+| Frecuencia respiratoria >60/min y tiraje | 1 // 2 |
+| {2} **Alteraciones gastrointestinales** |
+| Succión con avidez | 1 |
+| Rechazo del alimento | 2 |
+| Regurgitaciones // Vómitos a chorro | 2 // 3 |
+| Deposiciones blandas // Deposiciones líquidas | 2 // 3 |
+| **Puntuación total** | |
+| {2} Si la puntuación es ≥ 8, hay que iniciar el tratamiento |
+! Así en el PDF: «Fiebre 37,2-38,8ºC» (1 punto) y «Fiebre ≥ 38,4ºC» (2 puntos); los dos intervalos se solapan. «Frecuencia respiratoria >60/min y tiraje» lleva 1 y 2 sin indicar qué corresponde a cada uno.
+
+| {2} **Tabla 3. Tratamiento farmacológico del Síndrome de Abstinencia Neonatal (SAN)** |
+|---|---|
+| **Fármaco** | **Comentarios** |
+| {2} **Tratamiento de elección/primera línea** |
+| Sulfato de morfina | Solución acuosa, 0,04mg/ml // Dosis: 0,05ml/Kg, cada 3-4h (máximo: 2ml/Kg, cada 3-4h) // Dosis según test de Finnegan: // • 8-10 puntos: 0,8 mg/Kg/día, cada 4h // • 1-13: 1,2 mg/Kg/día, cada 4h // • 14-16: 1,6 mg/Kg/día, cada 4h // • ≥17: 2 mg/Kg/día, cada 4h // Se retira cuando test de Finnegan <8 durante 3 días |
+| Metadona | Dosis: 0,1-0,3mg/Kg, cada 6-8h, IM o SC, o 0,5-1 mg/Kg, cada 4-8h, VO |
+@p 112
+@pie Tabla 3. Tratamiento farmacológico del Síndrome de Abstinencia Neonatal (SAN) (continuación) Fármaco Comentarios
+| {2} **Tratamiento alternativo/segunda línea** |
+| Fenobarbital | 3 dosis iniciales: 10mg/Kg/dosis, cada 12h, VO o IM // Dosis después: 8mg/Kg/día, cada 12h, VO // Se retira después de 3 días cuando el test de Finnegan es <8; se suspende cuando la dosis es 2mg/Kg/día |
+| Clorpromacina | Dosis: 1-3mg/Kg/dia, cada 6-8h, VO o IM, 2-4 días |
+! Así en el PDF: «1-13: 1,2 mg/Kg/día» (probablemente 11-13, tras 8-10 puntos).
+
+@caja
+**SE RECOMIENDA**
+- No existe ninguna cantidad de alcohol cuyo consumo sea seguro durante el embarazo
+- Es recomendable aplicar estrategias para identificar el consumo durante la gestación
+- Se debe evitar el consumo de estas sustancias durante la lactancia materna
+- Ante la menor sospecha clínica de SAN, debe emplearse el test de Finnegan
+- Es necesario realizar una valoración psicosocial posnatal en todos los casos de sospecha o certeza de consumo prenatal de sustancias de abuso
+@fin
+@bib
+1. Behnke M, Smith VC. Prenatal Substance Abuse: Short- and Long-term Effects on the Exposed Fetus. Pediatrics 2013;131:e1009-24.
+2. Gómez-Roig MD, Pascal R, Cahuana MJ, et al. Environmental exposure during pregnancy. Influence in prenatal development and early-life: A comprehensive review. Fetal Diagn Ther 2021;48:245-257.
+3. González-Colmenero E, Concheiro-Guisán A, Lorenzo-Martínez M, et al. Drug testing in biological samples vs. Maternal surveys for the detection of substance use during whole pregnancy. J Addict Dis 2021;39:175-82.
+4. Louw KA. Substance use in pregnancy: The Medical Challenge. Obstetric Medicine. 2018;11:54-66.
+5. Sebastiani G, Borrás-Novell C, Casanova MA, et al. The Effects of Alcohol and Drugs of Abuse on Maternal Nutritional Profile during Pregnancy. Nutrients 2018;10:1008.
+6. Velez ML, Jansson ML. Perinatal Substance Use Disorders: Intrauterine Exposure, En: el-Guebaly N, et al (eds.). Textbook of Addiction Treatment. 2ª ed. Springer. Cham. 2021; 1529-47.

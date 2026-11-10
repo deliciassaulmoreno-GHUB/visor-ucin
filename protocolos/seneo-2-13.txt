@@ -1,0 +1,331 @@
+@f 14. Protocolos SENEO/2.13. Infección congénita: citomegalovirus, virus herpes simplex, virus varicela-zóster y virus Zika
+@p 126
+# 2.13 INFECCIÓN CONGÉNITA: CITOMEGALOVIRUS, VIRUS HERPES SIMPLEX, VIRUS VARICELA-ZÓSTER Y VIRUS ZIKA
+*Daniel Blázquez Gamero^1^, María Cernada Badía^2^, Marie Antoinette Frick^3^, Ana Alarcón Allen^4^*
+*^1^ Hospital Universitario 12 de Octubre. Universidad Complutense. Instituto de Investigación Hospital 12 de Octubre, Madrid. ^2^Hospital Universitari i Politècnic La Fe, Valencia. ^3^ Hospital Universitari Vall d'Hebron, Barcelona. ^4^Hospital Sant Joan de Déu, Barcelona. Institut de Recerca Sant Joan de deu. Universitat de Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 112-124 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. Las tablas se han copiado a mano.
+
+## 1 Infección congénita por citomegalovirus
+Agente causal: citomegalovirus (CMV). Infección primaria materna: 1-7% de madres seronegativas. Incidencia global de infección congénita por CMV (CMVc): 0,2- 1,5%
+
+Mecanismo de transmisión: Vía transplacentaria tras viremia materna. Infección primaria materna: 30-40% infección fetal. Infección no primaria materna: 1% infección fetal
+
+Clínica: Tablas 1 y 2
+
+@deimg
+| **Tabla 1. Manifestaciones clínicas al nacimiento** | **%** |
+|---|---|
+| **Sin síntomas** | 87,3 |
+| **Con síntomas** | 12,7 |
+| Ictericia | 40 |
+| Petequias | 55 |
+| Púrpura | 3 |
+| Hepatoesplenomegalia | 17 |
+| Microcefalia | 35 |
+| Convulsiones | 1 |
+| Bajo peso para la edad gestacional | 27 |
+| **Hipoacusia** | |
+| Sin síntomas aparentes al nacimiento | 30 |
+| Con otros síntomas al nacimiento | 10 |
+| **Coriorretinitis** | 5-9 |
+
+@p 127
+| **Tabla 2. Secuelas** | **Sin síntomas al nacimiento** | **Con síntomas al nacimiento** |
+|---|---|---|
+| Alguna secuela | 13,5 | 50-60 |
+| Hipoacusia | 10 | 30 |
+| Motoras | * | 19 |
+| Cognitivas | * | 15 |
+| Lenguaje | * | 34,6 |
+| Cognitivas | * | 15 |
+| {3} *El porcentaje de secuelas depende de la definición de “asintomático al nacimiento” y de los diferentes estudios. |
+@findeimg
+! «Cognitivas» aparece dos veces en la Tabla 2 del PDF.
+
+Diagnóstico (Tablas 3,4,5)
+
+@deimg
+| {2} **Tabla 3. Diagnóstico de la infección materna, fetal y en el neonato** |
+|---|---|
+| **Técnica** | **Comentarios** |
+| {2} **Diagnóstico de la infección materna** |
+| **Seroconversión CMV** | Diagnóstica de infección materna. |
+| **IgG e IgM positivas con baja avidez** | IgM puede mantenerse positiva tras una infección aguda durante más de 9 meses. Baja avidez (< 35-40%) indica la existencia de una infección primaria reciente (últimos 3-4 meses). |
+| {2} **Diagnóstico de la infección fetal** |
+| **PCR CMV en líquido amniótico** | Sensibilidad 85-95%. // Realizar al menos 8 semanas tras la infección primaria y a partir de la semana 18 de gestación. Una PCR negativa en la amniocentesis >18 semanas de gestación se asocia a un buen pronóstico. |
+| **PCR CMV en sangre fetal (cordocentesis)** | Una PCR positiva en sangre fetal es diagnóstica de infección congénita. Indicada en casos seleccionados. |
+| {2} **Diagnóstico de la infección en el neonato** |
+| **PCR CMV en orina** | Sensibilidad: 100%. Especificidad: 99%. // Debe realizarse en los primeros 14-21 días de vida. Una sola muestra negativa al nacimiento excluye completamente la infección congénita. |
+| **PCR CMV en saliva** | Sensibilidad: > 97%. Especificidad: 99%. // 7,5-20% de falsos positivos posibles por contaminación con leche materna o secreciones del canal del parto (confirmar con PCR en orina). |
+| **PCR CMV en sangre** | Hasta el 20% pueden no presentar viremia al nacimiento (una carga viral indetectable no excluye el CMVc). |
+| **PCR CMV en sangre seca de talón** | Sensibilidad: 60-85% dependiendo de la técnica empleada. // Especificidad: 99%. |
+| **PCR CMV en LCR** | La presencia de CMV en LCR se asocia a cuadros más graves. // No está indicada la realización rutinaria de una punción lumbar a los niños asintomáticos o poco sintomáticos y debe individualizarse. |
+| **IgM** | La serología frente a CMV no se recomienda para el diagnóstico por el alto número de falsos negativos (más del 30%). |
+
+@p 128
+| **Tabla 4. Indicación de estudio de CMVc** |
+|---|
+| • Neonatos con hallazgos físicos compatibles con CMVc: hepatoesplenomegalia, microcefalia, convulsiones, hipotonía, petequias /púrpura, ictericia al nacimiento, y bajo peso para la edad gestacional. // • Ictericia prolongada y/o incremento de bilirrubina directa en un neonato. // • Trombocitopenia neonatal sin otra justificación. Alteraciones en las pruebas de imagen: calcificaciones cerebrales, ventriculomegalia, quistes germinolíticos subependimarios o paraventriculares, alteraciones de sustancia blanca, malformación cortical, hipoplasia cerebelosa, vasculopatía lenticuloestriada. // • Alteraciones oculares: coriorretinitis. // • Sospecha de hipoacusia (no pasa cribado auditivo). // • Antecedentes de infección gestacional por CMV o hallazgos ecográficos fetales compatibles. // • Prematuridad: descartar la infección congénita por CMV en < 28 semanas por su mayor riesgo de una infección postnatal sintomática. |
+
+| {3} **Tabla 5. Estudios recomendados en neonatos con diagnóstico de infección congénita por CMV** |
+|---|---|---|
+| **Técnica** | {2} **Comentarios** |
+| Exploración física completa | {2} A todos |
+| Hemograma, bioquímica con transaminasas y bilirrubina | {2} A todos // Trombopenia: < 100.000 plaquetas /mm3 // Hepatitis: Incremento de GPT > 80 UI/ml // Colestasis (bilirrubina directa >2mg/dl) |
+| Pruebas de detección viral: // • PCR CMV orina // • PCR CMV en sangre // • PCR en sangre seca de talón / cordón seco | {2} A todos // En los niños mayores de 21 días es necesario recurrir a muestras obtenidas en las tres primeras semanas de vida (PCR en sangre del talón de las pruebas metabólicas). |
+| LCR // • Citobioquímica // • PCR CMVen LCR | {2} Punción lumbar en casos seleccionados en los que pueda cambiar la actitud terapéutica. No indicada en casos asintomáticos o poco sintomáticos de manera rutinaria. La PCR CMV positiva en LCR y la hiperproteinorraquia se asocian a mayor riesgo de secuelas. |
+| Evaluación auditiva | {2} A todos. Cribado auditivo con potenciales evocados auditivos automatizados. Hipoacusia si umbral dB > 30 dB. |
+| Fondo de ojo | {2} A todos. Descartar coriorretinitis. |
+| Ecografía transfontanelar | A todos | Hallazgos en pruebas de imagen: calcificaciones cerebrales (típicamente periventriculares), ventriculomegalia, vasculopatía lenticuloestriada, quistes germinolíticos subependimarios o paraventriculares, alteraciones de sustancia blanca, malformación cortical, hipoplasia cerebelosa y alteraciones de la migración neuronal. |
+| RM craneal | Indicada si: // • ·Hallazgos compatibles con CMVc en la exploración física, hipoacusia o coriorretinitis. // • Alteraciones en el hemograma o la bioquímica. // • Hallazgos compatibles con cCMV en la ecografía transfontanelar al nacer o en la RM fetal. // • No hay consenso en si debe realizarse de manera rutinaria o sólo en casos seleccionados con mayor riesgo. | (ver casilla anterior) |
+@findeimg
+! En la Tabla 5 del PDF la casilla «Hallazgos en pruebas de imagen…» ocupa la altura de las filas de ecografía transfontanelar y RM craneal; el «(ver casilla anterior)» lo he puesto yo.
+
+@p 129
+Tratamiento y prevención: El tratamiento durante la gestación o en el recién nacido debe realizarse en unidades multidisciplianares y con experiencia en el manejo de estos pacientes.
+
+A) Gestante. Prevención de la infección fetal (infección primaria materna periconcepcional y en primer trimestre hasta semana 14). (Tabla 6)
+
+@deimg
+@ancha
+| {6} **Tabla 6. Tratamiento de infección por CMV en la gestante** |
+|---|---|---|---|---|---|
+| **Fármaco** | **Presentación** | **Dosis** | **Vía** | **Efectos adversos** | **Estudios** |
+| **Valaciclovir** | *Valaciclovir, Valtrex^®^* // Oral (500mg, 1000mg) | 2gr cada 6 horas | VO | Cefalea, náuseas, dolor abdominal, elevación de transaminasas, insuficiencia renal, alteraciones hematológicas. | ECA doble ciego y controlado con placebo: valaciclovir 8 gr/día en infección materna primaria periconcepcional o en el primer trimestre. Reducción de infección fetal en amniocentesis del 30 al 11% (p=0,03). |
+| **Inmunoglobulina hiperinmune anti-CMV** | *Megalotec^®^* (100 U/ml) // Viales:10 ml (1000U), 50 ml(5000 U) | 200 U/kg | IV | Cefalea, náuseas y vómitos, temblores/ escalofríos, reacciones de hipersensibilidad (raro) | Estudio observacional: 153 embarazos, 6,5% de transmisión fetal (200 UI/kg cada 2 semanas hasta 18SG) (Kagan) // 2 ECA no demostraron disminución del riesgo de infección fetal // (100UI/kg mensual) // (Revello y Huges) |
+| {6} *ECA: ensayo clínico aleatorizado. VO: vía oral. IV: vía intravenosa. SG: semanas gestacionales.* |
+@findeimg
+
+El Valaciclovir en infección fetal con afectación leve-moderada se asocia a un aumento significativo de RN asintomáticos frente a una cohorte histórica: 82% versus 43%.
+
+B) Niño. El ganciclovir (GCV) está indicado en los casos graves con afectación extensa o con riesgo vital o si existe imposibilidad para una correcta administración/absorción oral. En el resto de casos pueden tratarse por vía oral con valganciclovir (VGV) desde el principio. Se debe iniciar el tratamiento lo antes posible. Fuera del periodo neonatal la evidencia de su uso es limitada. El foscarnet puede ser una alternativa en casos de resistencias a GCV/ VGC.(Tablas 7,8)
+
+@deimg
+@ancha
+| {5} **Tabla 7. Tratamiento de infección por CMV en el neonato** |
+|---|---|---|---|---|
+| **Fármaco** | **Presentación** | **Dosis** | **Vía** | **Efectos adversos y comentarios** |
+| **Ganciclovir** | *Cymevene^®^* (Inyectable, 500mg) | 12 mg/kg/día, dividido en dos dosis | IV | Neutropenia (más frecuente), trombopenia, anemia, elevación de creatinina y fallo renal, alteraciones hepáticas. |
+| **Valganciclovir** | *Valcyte^®^* (Líquida, 50mg/ml) | 32 mg/kg/día, dividido en dos dosis | VO | Similar a ganciclovir, pero menor riesgo de neutropenia // Mantener en frío una vez reconstituido. |
+| {5} *VO: vía oral. RN: recién nacido.* |
+
+@p 130
+| {2} **Tabla 8. Indicación del tratamiento antiviral en el niño** |
+|---|---|
+| **Situación** | **Tratamiento antiviral** |
+| Afectación SNC: // • Microcefalia // • Calcificaciones cerebrales // • Alteración extensa de sustancia blanca // • Coriorretinitis // • Otras alteraciones compatibles con CMVc en pruebas de imagen (excluyendo la vasculopatía lenticuloestriada aislada). | GCV/VGC 6 meses |
+| Enfermedad grave o que ponga en peligro la vida // Hepatomegalia marcada y/o hepatitis severa. | GCV/VGC 6 meses |
+| Hipoacusia | GCV/VGC 6 meses |
+| Infección moderada (>2 síntomas o persistencia > 2 semanas): // • Petequias // • Trombopenia (< 100.000 cs /mm3) // • Hepatoesplenomegalia // • Hepatitis (ALT > 80UI/ml) | Plantear GCV/VGC 6 semanas- 6 meses |
+| Infección leve: // • Pequeño para la edad gestacional // • Leve trombopenia // • Leve hepatomegalia/esplenomegalia | No hay evidencia de su utilidad, individualizar teniendo en cuenta otros hallazgos (imagen, momento de infección fetal) |
+| Niño con exploración física normal, con hemograma y bioquímica normal y pruebas de imagen sin alteraciones significativas. | No indicado |
+@findeimg
+
+Seguimiento. (Tabla 9)
+
+@deimg
+| {2} **Tabla 9. Seguimiento de la infección neonatal por CMV** |
+|---|---|
+| **Pruebas** | **Periodicidad** |
+| Hemograma y bioquímica con transaminasas y función renal (sólo si recibe GCV/VGV) | Inicialmente cada 2 semanas y si no presenta neutropenia ni otras alteraciones, cada 3 semanas. Si neutropenia < 500 NT suspender el tratamiento antiviral y reiniciar posteriormente. En algunos casos con afectación grave se puede plantear el uso de factor estimulante de colonias de granulocitos. |
+| ORL | PEATC, inicialmente cada 3-6 meses y posteriormente cada 6 meses. Cuando sea posible por edad, se puede evaluar la audición mediante audiometrías. |
+| Oftalmología | Fondo de ojo al nacimiento y repetir a los 12 meses de vida |
+| Neurología | Evaluar el neurodesarrollo y evolución del lenguaje en cada visita al pediatra. // Los niños con afectación en las pruebas de imagen o hallazgos clínicos relevantes (hipotonía, convulsiones, problemas motores) deben ser valorados por un neurólogo infantil. // Vigilar la presencia de alteraciones vestibulares, especialmente en los niños con hipoacusia. |
+| {2} *NT: neutrófilos. PEATC: potenciales evocados auditivos de tronco cerebral.* |
+@findeimg
+
+@p 131
+## 2 Infección neonatal por virus Herpes simplex
+- Agente causal: virus herpes simple (VHS): VHS-1 y VHS-2. Clásicamente tras infección genital por VHS-2, en aumento el VHS-1 (14%). Seroprevalencia VHS-2 en España: 5-10%. En gestantes (EEUU): 20-30%. Incidencia global herpes neonatal: 0,05-0,3 cada 1.000 nacidos vivos. Infección congénita (transmisión intrauterina): 1 cada 100.000-300.000 nacidos vivos. 60-80% casos no hay antecedentes de herpes en la madre ni en su pareja.
+Mecanismos de transmisión:
+  - Perinatal (85%): contacto en el canal del parto (la mayoría de las gestantes son asintomáticas). Mayor riesgo: VHS-1, primoinfección, final gestación, amniorrexis >4 h, monitorización fetal invasiva.
+  - Si lesiones activas riesgo transmisión: 2% (reactivación), 25-60% (primoinfección).
+  - Postnatal (10%): contacto con lesiones VHS.
+  - Intrauterina (5%): transplacentaria o retrógrada. 90% casos VHS-2.
+- Clínica. (Tabla 10)
+
+@deimg
+@ancha
+| {5} **Tabla 10. Clínica de la infección congènita por Herpes Simplex.** |
+|---|---|---|---|---|
+| **Formas clínicas** | **Infección congénita** | {3} **Infección neonatal** |
+| | **Infección congénita** | **Enfermedad cutánea-ocular-oral (45-50%)** | **Enfermedad localizada en SNC (30-35%)** | **Enfermedad diseminada (20-25%)** |
+| **Momento de infección** | Intraútero | {3} Perinatal/postnatal |
+| **Edad aparición** | Al nacimiento | 10-12 días de vida | 15-20 días de vida | 10-12 días de vida |
+| **Clínica** | Aborto, hydrops fetal, muerte intraútero. // Lesiones congénitas-tríada clásica: afectación cutánea, ocular y cerebral. // Vesículas, úlceras, cicatrices, aplasia cutis. // Coriorretininits, microoftalmia, atrofia óptica, cataratas. // Microcefalia, encefalomalacia, hidroanencefalia, porencefalia, // calcificaciones intracraneales, malformaciones cerebelosas. // Otras: CIR, anomalías cardíacas, hipoplasia miembros, hepatomegalia, esplenomegalia. | Vesículas cutáneas base eritematosa. // Úlceras bucales. // Querato/blefaro/ conjuntivitis. Iridociclitis. // Necrosis retiniana aguda (rara, riesgo desprendimiento retina). | Convulsiones (focales o generalizadas), apneas, letargia, irritabilidad, rechazo de la alimentación, apnea, fontanela abombada, fiebre o hipotermia. // Lesiones cutáneas en un 60-70% de los casos. | Sepsis, SRIS, y afectación multiorgánica (neumonitis, insuficiencia respiratoria, hepatitis, fallo hepático, CID, meningoencefalitis) // 20-40% casos sin afectación cutánea. |
+@p 132
+@pie Tabla 10. Clínica de la infección congènita por Herpes Simplex. (continuación) Formas clínicas Infección congénita Infección neonatal Infección congénita Enfermedad cutánea-ocular-oral (45-50%) Enfermedad localizada en SNC (30-35%) Enfermedad diseminada (20-25%)
+| **Recurrencias** | | Herpes cutáneo: 50% casos (1-2 semanas tras fin tto) | Menos frecuente. 20% por encefalitis autoinmune (semanas o meses después) | |
+| **Secuelas** | Retraso psicomotor | Buen pronóstico con tto. Secuelas neurológicas: <1%. | Secuelas neurológicas: 70% | Secuelas neurológicas graves en 15-20% supervivientes. |
+| **Mortalidad** | 45% | | Sin tto 50%. // Con tto 4%. | Sin tto 85%. // Con tto 29% |
+| {5} *CIR: Crecimiento intrauterino retardado. Tto: Tratamiento. SRIS: Síndrome de respuesta inflamatoria sistémica. CID: Coagulación intravascular diseminada.* |
+@findeimg
+
+- Diagnóstico. (Tabla 11)
+
+@deimg
+| {2} **Tabla 11. Diagnóstico de la infección congènita por VHS en el neonato** |
+|---|---|
+| **Recién nacido asintomático** (madre con antecedentes o lesiones activas) | **Recién nacido sintomático** |
+| **Madre con antecedentes de VHS o serologíaVHS IgG positiva sin lesiones activas:** Observación. // **Madre con antecedentes de VHS o serologíaVHS IgG positiva con lesiones activas en el parto (<6 semanas):** // Tto materno (aciclovir/valaciclovir). // Cesárea electiva. // PCR de VHS-1 y VHS-2 en frotis cutáneo, mucoso y sangre en recién nacido a partir de las 24h de vida. // • Si negativo: observación 6 semanas. // • Si positivo: analítica, estudio LCR e inicio tto aciclovir. Si analítica normal, PCR en sangre/ LCR negativas y persiste asintomático se puede suspender tto tras 10 días. // **Madre con primoinfección:** // Tto materno (aciclovir/valaciclovir). // Cesárea electiva si lesiones activas. // Analítca y PCR de VHS-1 y VHS-2 en frotis cutáneo, mucoso, sangre y LCR en recién nacido a partir de las 24h de vida. Se iniciará tto aciclovir a la espera de resultados. // • Si PCR negativa: aciclovir x 10 días. // • Si PCR positiva: aciclovir x 14-21 días en función de la afectación. | **Diagnóstico clínico** (considerarlo en sepsis sin respuesta tras 48h tto). // **PCR VHS:** lesiones, sangre y LCR. Falsos negativos en fases iniciales y tras varios días de tto antiviral. Mayor mortalidad si carga viral elevada en sangre. // **LCR:** pleocitosis mononuclear, hiperproteinorraquia, glucosa normal o disminuida, puede haber hematíes. // **EEG:** patrón paroxístico focal o multifocal en cualquier localización. Más sensible y precoz que la neuroimagen. // **Ecografía transfontanelar/RM cerebral:** edema cerebral, hemorragias o lesiones necrotizantes (encefalomalacia quística) en lóbulos frontal, parietal, temporal o troncoencéfalo. Inicialmente puede ser normal. RM más sensible. Buena correlación con secuelas. // **Exploración oftalmológica** con fondo de ojo si afectación ocular. |
+| {2} *Tto: Tratamiento.* |
+
+@p 133
+Tratamiento y prevención. (Tabla 12)
+
+@ancha
+| {6} **Tabla 12. Tratamiento de la infección congènita por VHS.** |
+|---|---|---|---|---|---|
+| {2} **Clínica** | {2} **Duración** | **Efecto** | **Aislamiento** |
+| **Clínica** | **Tratamiento** | **Enf. cutánea-ocular-oral** | **Afectación SNC o diseminada** | | |
+| **Todas inicio** | Aciclovir IV // 60 mg /Kg/día // 3 dosis | 14 días | Mínimo 21 días (o hasta PCR VHS LCR negativo). | Previene la progresión a enfermedad diseminada y la afectación neurológica. // Puede producir neutropenia. Si < 500 NT/mm3, reducir dosis a la mitad. | De contacto: // -Si lesiones mucocutáneas // -Si exposición a lesiones en parto |
+| **Todas mantenimiento** | Aciclovir VO // 900 mg /m2/día // 3 dosis | {2} 6 meses | Previene recurrencias. // Mejora pronóstico neurológico. // Control NT mensualmente. | (ver casilla anterior) |
+| **Conjuntivitis/ Blefaritis^a^** | Aciclovir pomada oftálmica 3% ó Ganciclovir gel oftálmico 0,15% 1 aplicación c/8 horas | {2} 7 días | | |
+| **Iridociclitis^a^** | Asociar corticoides tópicos | | | | |
+| **Queratitis^a^** | Aciclovir pomada oftálmica 3% ó Ganciclovir gel oftálmico 0,15% 1 aplicación c/5 horas. // Asociar: Eritromicina pomada oftálmica 1 aplicación c/8 horas y ciclopléjico 0,5%. | {2} 10 días // 5 días | | |
+| **Necrosis retiniana aguda^a^** | Ganciclovir intravítreo | | | | |
+| {6} *NT: neutrófilos. VO: vía oral. IV: vía intravenosa. ^a^Requiere manejo y seguimiento por oftalmología pediátrica.* |
+@findeimg
+! En el PDF la casilla de aislamiento ocupa la altura de las filas «Todas inicio» y «Todas mantenimiento»; el «(ver casilla anterior)» lo he puesto yo.
+
+@p 134
+## 3 Infección neonatal por virus varicela-zóster
+- Agente causal: virus varicela-zóster (VVZ). Seroprevalencia VVZ en mujeres en edad fértil en Europa: 90-95%. Incidencia global varicela gestacional: 0,1-3 por cada 1.000 embarazos. Incidencia síndrome de varicela congénita: 0,06 por cada 100.000 nacidos vivos. Incidencia varicela neonatal: 0,16 por cada 100.000 nacidos vivos
+- Mecanismos de transmisión: Vía transplacentaria. Vía ascendente si afectación de la mucosa genital materna. Contacto con lesiones maternas y sangre en el momento del parto. Vía respiratoria o por contacto con lesiones de varicela postnatalmente
+- Clínica. (Tabla 13)
+
+@deimg
+@ancha
+| {6} **Tabla 13. Sintomatología clínica de la infección congènita por varicela-zoster.** |
+|---|---|---|---|---|---|
+| **Formas clínicas** | {2} **Varicela antenatal** | {2} **Varicela perinatal** | **Varicela postnatal** |
+| | **Síndrome de varicela congénita** | **Varicela fetal asintomática** | **Varicela perinatal precoz** | **Varicela perinatal tardía** | |
+| **Momento de infección materna** | <20SG | 20SG a 21 días preparto | 21 a 5 días preparto | 5 días preparto a 2 días postparto | > 3 días de vida |
+| **Riesgo de transmisión** | 0-1% <13SG // 2% 13-20SG | 1-2% | 20-50% | 20-50% | - |
+| **Clínica** | Muerte fetal, RNPT, RCIU, BPEG // Malformaciones cutáneas, oculares, esqueléticas, neurológicas, genitourinarias, gastrointestinales, cardiovasculares, hepáticas, hematológicas // 15% HZ en primeros 4 años de vida | Asintomático // 20% HZ en primeros 2 años de vida | Inicio: <5 días de vida // Leve | Inicio: 5-10 días de vida // Grave en 50% con afectación visceral | Inicio: >15 días de vida // Leve |
+| **Secuelas** | 20% | - | - | - | - |
+| **Mortalidad** | 30% | - | - | Tratamiento: // -No: 20-30% // -Sí: 7% | - |
+| {6} *RNPT: recién nacido prematuro. RCIU: retraso de crecimiento intrauterino. BPEG: bajo peso por edad gestacional. HZ: herpes zóster.* |
+@findeimg
+
+@p 135
+Diagnóstico. (Tabla 14)
+
+@deimg
+| {3} **Tabla 14. Diagnóstico de la infección por varicela Zoster.** |
+|---|---|---|
+| **Gestante** | **Feto** | **Recién nacido** |
+| Diagnóstico clínico // PCR VVZ lesiones si dudas | Marcadores ecográficos y antecedente materno de VVZ // RM cerebral y ocular // PCR VVZ líquido amniótico | Diagnóstico clínico y antecedentes // PCR VVZ lesiones // PCR VVZ LCR si varicela neonatal tardía o clínica neurológica // Serología VVZ |
+@findeimg
+
+Tratamiento y prevención. (Tabla 15 )
+
+@deimg
+@ancha
+| {6} **Tabla 15. Actitud en la infección congènita por Varicela Zoster.** |
+|---|---|---|---|---|---|
+| {2} **Situación** | {4} **Actitud a seguir** |
+| **Varicela gestacional** | **Forma clínica** | **Gestante** | **Prevención en neonato** | **Tratamiento en neonato** | **Lactancia materna** |
+| **< 21º día preparto** | **Síndrome varicela congénita** | Aciclovir según gravedad^a^ | - | Plantear interrupción si alteraciones morfológicas a las 20 SG // Si clínica aciclovir^b,c^ | Pecho directo |
+| **21º-5º día preparto** | **Varicela perinatal precoz** | Aciclovir según gravedad^a^ | Aislamiento | Si clínica aciclovir^b^ | Pecho directo si no lesiones activas en el pezón |
+| **5º día preparto a 2º día postparto** | **Varicela perinatal tardía** | Aciclovir según gravedad^a^ // Aislamiento | Administrar inmunoglobulina^d^ // Aislamiento y separación materna | Si clínica aciclovir^b^ | Lactancia diferida^e^ |
+| **≥3º día postparto** | **Varicela postnatal** | Aciclovir según gravedad^a^ | Aislamiento | Si clínica aciclovir^b^ | Pecho directo sino lesiones activas en el pezón |
+| {6} *^a^Casos no complicados: aciclovir VO 800mg 5 veces al día 7 días o valaciclovir VO 1g cada 8 horas. Neumonía varicelosa o casos complicados: aciclovir IV 10-15mg cada 8 horas 5-10 días. ^b^Aciclovir 10 mg/kg/dosis IV cada 8 horas durante 10 días. ^c^Sólo estaría indicado si existe clínica activa para reducir el daño potencial de una replicación viral persistente. ^d^En España no está disponible la inmunoglobulina hiperinmune por lo que se recomienda la inmunoglobulina polivalente IV 400 mg/kg (dosis única). ^e^Desechar si la madre tiene lesiones activas en el pezón y el recién nacido no ha recibido inmunoglobulina o aciclovir.* |
+@findeimg
+! En la Tabla 13 del PDF la varicela postnatal empieza «> 3 días de vida»; en la Tabla 15, «≥3º día postparto»; y la clínica de la varicela postnatal, «Inicio: >15 días de vida». Copiado tal cual.
+
+## 4 Infección congénita por virus zika
+- Agente causal: virus Zika (ZIKV). Brote en 2015 y 2016 en las Américas, el Caribe y el Pacífico. Actualizaciones sobre la distribución geográfica del ZIKV disponibles en: Centros para el Control y la Prevención de Enfermedades (CDC) y Organización
+@p 136
+Panamericana de la Salud/Organización Mundial de la Salud
+- Mecanismo de transmisión: Vía transplacentaria. Mayor riesgo de secuelas fetales graves si la infección ocurre en el primer trimestre.
+- Clínica. (Tabla 16)
+
+@deimg
+| **Tabla 16. Características del síndrome de ZIKV congénito (SZC)** |
+|---|
+| 1. Secuencia disruptiva del cerebro fetal (microcefalia grave, suturas craneales superpuestas, hueso occipital prominente y piel del cuero cabelludo redundante) // 2. Alteraciones características de la neuroimagen: // • Calcificaciones cerebrales (principalmente cortico-subcorticales) // • Ventriculomegalia // • Reducción del volumen cerebral // • Malformación cortical (polimicrogiria, paquigiria, lisencefalia) // • Adelgazamiento o hipoplasia del cuerpo calloso // • Hipoplasia del tronco del encéfalo y el cerebelo // 3. Afectación ocular: pigmentación moteada y atrofia coriorretiniana, alteraciones del nervio óptico // 4. Contracturas congénitas (artrogriposis) // 5. Hipertonía temprana marcada |
+@findeimg
+
+Existen casos menos graves con alteraciones de neuroimagen y microcefalia no grave o perímetro cefálico normal al nacer.
+
+- Diagnóstico (Tablas 17 y 18)
+
+**Tabla 17. Evaluación del recién nacido con infección posible por ZIKV.**
+@deimg
+@flujo
+[Posible exposición materna a ZIKV*]
+v
+? ¿Manifestaciones compatibles con SZC en el recién nacido?
+@cols
+Sí
+v
+[· Examen físico y antropometría // · PCR (suero y orina) e IgM (suero) para ZIKV en primeros días tras el nacimiento // · PCR e IgM en LCR si se obtiene con otros fines // · Ultrasonografía y RM cerebrales // · Examen oftalmológico // · Potenciales evocados auditivos de tronco cerebral // Seguimiento especializado del neurodesarrollo y atención temprana]
+---
+No
+v
+? ¿Evidencia de laboratorio de posible infección materna por ZIKV durante el embarazo?
+@cols
+Sí
+v
+[· Examen físico y antropometría // · PCR (suero y orina) e IgM (suero) para ZIKV en primeros días tras el nacimiento // · PCR e IgM en LCR si se obtiene con otros fines // · Ultrasonografía cerebral, considerar RM // · Examen oftalmológico // · Potenciales evocados auditivos de tronco cerebral]
+v
+? ¿Evaluación inicial normal?
+(No → recuadro de la izquierda)
+v
+Sí
+v
+? ¿Evidencia de laboratorio de infección congénita por ZIKV?^†^
+(Sí → recuadro de la izquierda · No → evaluación y atención estándar)
+---
+No
+v
+[Evaluación y atención estándar del recién nacido]
+@fincols
+@fincols
+@finflujo
+@findeimg
+*\*Viajar a o residir en un área con transmisión de ZIKV por mosquitos, o tener relaciones sexuales sin usar condón con una pareja que haya viajado a o viva en una de esas áreas. †PCR positiva en cualquier muestra clínica o IgM positiva para ZIKV con prueba de neutralización por reducción de placas (PNRT) positiva.*
+*Modificado de Adebanjo T, Godfred-Cato S, Viens L, et al. Update: Interim guidance for the diagnosis, evaluation, and management of infants with possible congenital Zika virus infection - United States, October 2017. MMWR Morb Mortal Wkly Rep 2017; 66:1089.*
+! En el PDF la Tabla 17 es un diagrama de flujo. Los rótulos entre paréntesis con «→» los he puesto yo para indicar adónde llevan las flechas («recuadro de la izquierda» es el de la rama «Sí» de la primera pregunta).
+
+@p 137
+@deimg
+| {3} **Tabla 18. Interpretación de las pruebas de laboratorio en el recién nacido.** |
+|---|---|---|
+| **PCR** | **IgM** | **Interpretación** |
+| Positiva | Cualquier resultado | Infección congénita por ZIKV confirmada |
+| Negativa | Positiva | Infección congénita por ZIKV probable* |
+| Negativa | Negativa | Infección congénita por ZIKV improbable si evaluación clínica normal^†^ |
+| {3} *\*Puede haber falsos positivos por reacción cruzada de anticuerpos IgM o por reactividad inespecífica (confirmar mediante PNRT). †Un resultado negativo de la PCR no excluye la infección congénita porque la eliminación del virus es transitoria.* |
+@findeimg
+
+Los resultados de laboratorio deben interpretarse en el contexto de la cronología de la infección durante el embarazo, los resultados serológicos maternos, la clínica del recién nacido y la confirmación mediante PNRT.
+
+- Tratamiento y prevención: No existe un tratamiento específico para la infección por ZIKV, y el manejo es de apoyo.
+Prevención de la infección por ZIKV en la embarazada:
+  - Prevenir la exposición a ZIKV a través de la picadura de un mosquito infectado, evitando viajar a áreas con transmisión de ZIKV por mosquitos o siguiendo las medidas de protección frente a los mosquitos.
+  - Adherirse a las medidas de protección contra la transmisión sexual (abstinencia o condón) si la pareja ha viajado o vive en un área con riesgo de ZIKV.
+
+@caja
+**SE RECOMIENDA**
+- Descartar una infección congénita por CMV en todos los niños en los que se sospeche una hipoacusia o no pasen el cribado auditivo.
+- Pautar tratamiento supresor con aciclovir oral durante un mínimo de 6 meses tras la infección neonatal por VHS.
+- Administrar inmunoglobulinas al hijo de madre con varicela entre los 5 días antes del parto y los 2 días posteriores.
+- Realizar seguimiento multidisciplinar y especializado de los recién nacidos con SZC, incluyendo aquellos sin microcefalia pero con alteraciones de neuroimagen.
+@fin
+
+@caja
+**NO SE RECOMIENDA**
+- Tratar por vía intravenosa a los neonatos con CMVc con cuadros no graves y sin contraindicaciones para la administración de valganciclovir por vía oral.
+- Tratar sistemáticamente con aciclovir a los hijos de madre con varicela asintomáticos.
+@fin
+
+@p 138
+@bib
+1. Luck SE, Congenital Cytomegalovirus: A European Expert Consensus Statement on Diagnosis and Management. Pediatr Infect Dis J 2017;36:1205-1213.
+2. Pinninti SG, Kimberlin DW. Neonatal herpes simplex virus infections. Semin Perinatol 2018;42:168-175.
+3. Grupo de Trabajo de Infección Neonatal por virus herpes simplex de la Sociedad Española de Infectología Pediátrica. Guía de la Sociedad Española de Infectología Pediátrica sobre prevención, diagnóstico y tratamiento de la infección neonatal por virus herpes simplex. An Pediatr 2018;89:64.e1-e10.
+4. Blumental S, Lepage P. Management of varicella in neonates and infants. BMJ Paediatr Open. 2019;3:e000433.
+5. Romero García A, Albañil Ballesteros MR. Grupo de Patología Infecciosa de la Asociación Española de Pediatría de Atención Primaria (AEPap). Varicela congénita y neonatal. Septiembre 2015. http://www.aepap.org/grupos/grupo-de-patologia-infecciosa/documentos-del-gpi.
+6. Adebanjo T, Godfred-Cato S, Viens L, et al. Update: Interim guidance for the diagnosis, evaluation, and management of infants with possible congenital Zika virus infection - United States, October 2017. MMWR Morb Mortal Wkly Rep2017; 66:1089-1099.

@@ -1,0 +1,183 @@
+@f 14. Protocolos SENEO/2.7. Definición y tipos de prematuridad. Cálculo de la edad gestacional
+@p 87
+# 2.7 DEFINICIÓN Y TIPOS DE PREMATURIDAD. CÁLCULO DE LA EDAD GESTACIONAL
+
+*Susana Zeballos Sarrato, Isabel Pescador Chamorro, Manuel Sánchez Luna*
+
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 73-79 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición de prematuridad
+
+**1.1. Definición**
+**La prematuridad se define como el nacimiento que ocurre antes de completarse las 37 semanas de gestación (SG) o antes de 259 días de gestación, desde el primer día del último periodo menstrual**
+**1.2. Importancia de la prematuridad:**
+Es un problema de salud pública de primer orden (OMS 2012) debido a:
+- el aumento de las tasas de nacimientos prematuros en casi todos los países.
+- el riesgo de mortalidad y morbilidad a corto y largo plazo.
+- la desigualdad en los datos de supervivencia.
+
+**1.3. La prematuridad a nivel mundial:**
+- Supone el 5-18% de los nacimientos, con las mayores tasas en África y Asia.
+- Es la 1ª causa de mortalidad en recién nacidos (RN) y la 2ª causa de muerte en menores de 5 años.
+- Más del 80% de nacimientos prematuros ocurren en las 32-36 SG.
+- La OMS ha fijado como objetivo la prevención y adecuada atención al parto y al recién nacido pretérmino (RNPT).
+- Para mejorar la atención, es imprescindible contar con registros fiables y aplicar actuaciones basadas en la evidencia científica.
+- La supervivencia del RNPT ha aumentado en las últimas décadas gracias a la mejora del manejo perinatal y postnatal (corticoides prenatales, surfactante exógeno, nuevas modalidades ventilatorias...); sin embargo, existe una importante variabilidad en los resultados, especialmente en el RNPT extremo.
+
+**1.4. La prematuridad a nivel nacional:**
+__1.4.1. Datos del Instituto Nacional de Estadística (INE)__ (datos aproximados por nacimientos
+@p 88
+sin constancia de las SG):
+- El porcentaje de nacimientos prematuros oscila entre el 6,3-7,4% del total de nacimientos.
+- Aproximadamente, el 85% de los RNPT están entre las 32-36 SG.
+- El porcentaje de RNPT <32 SG ha aumentado: del 10,7% (1996) a un 15,1% (2020).
+
+__1.4.2. Sociedad Española de Neonatología (seNeo, www.seneo.es):__
+
+- Registro de morbi-mortalidad desde el año 2002 (SEN1500):
+  - Incluye al RNPT < de 1500 gramos al nacimiento y/o <32 SG.
+  - Mejoría de los resultados de supervivencia y morbilidad.
+- La seNeo recomienda:
+  - Atención del parto prematuro en centros perinatales especializados donde se pueda garantizar un nivel de cuidados contínuo (Decálogo para la atención del recién nacido prematuro).
+  - Seguimiento especializado de los prematuros con riesgo de alteraciones en su desarrollo (Protocolo para RN<1500 gramos o <32 semanas).
+
+## 2 Tipos de prematuridad
+
+**2.1. Definición**
+**Los grados de prematuridad se definen fundamentalmente por la edad gestacional (EG) (semanas+días), pero también se pueden definir por el peso al nacimiento:**
+**__2.1.1. Clasificación según la EG:__**
+- RN moderadamente prematuro: 32+0-36+6 semanas. Dentro de este grupo estaría el prematuro tardío entre las 34+0-36+6 semanas. Suponen aproximadamente el 85-86% de los partos prematuros (INE, resultados aproximados de la última década).
+- RN muy prematuros: 28+0-31+6 semanas. Aproximadamente el 10%.
+- RN prematuro extremo <28+0 semanas. 4-5% de los partos prematuros. Dentro de este grupo se encontrarían los RNPT en el límite de la viabilidad (22-25 semanas).
+
+__2.1.2. Clasificación según el peso al nacer:__
+
+- RN de bajo peso: <2500 g.
+- RN de muy bajo peso: <1500 g.
+- RN de extremado bajo peso: <1000 g.
+
+__2.1.3. De acuerdo a la EG y el peso al nacer__ (curvas de crecimiento de Fenton 2013):
+- Peso adecuado para la EG: percentil 10-90.
+@p 89
+- Peso elevado para la EG: > p90.
+- Bajo peso: < p10. Este grupo de pacientes tiene un mayor riesgo de morbimortalidad.
+
+**2.2. Importancia**
+Definir el grado de prematuridad tiene una gran relevancia ya que el riesgo de mortalidad, el riesgo y tipo de morbilidades asociadas a corto y largo plazo están estrechamente relacionados con la EG y el peso al nacimiento. El RNPT extremo es el de mayor riesgo.
+
+## 3 Cálculo de la edad gestacional
+
+**3.1. Definición**
+__3.1.1. Edad Gestacional (EG):__ duración de la gestación; se mide a partir del primer día del último período menstrual normal o fecha de última regla (FUR). Una gestación a término dura 280 días o 40 semanas. La EG se expresa en semanas completas y días, representa el tiempo de estancia en el útero materno e implica desarrollo antenatal. Para evaluar el desarrollo tras el nacimiento debe de emplearse la edad postmenstrual.
+
+__3.1.2. Edad Embriológica:__ se basa en la edad desde la concepción, 14 días menor a la edad gestacional (266 días), ya que se asume que la ovulación se produce 14 días después de la FUR.
+
+__3.1.3. Edad Postmenstrual (EPM):__ tras el nacimiento, son las semanas de vida sumadas a las semanas de gestación . Se emplea para valorar el crecimiento y el desarrollo postnatal. En ocasiones se emplea el término incorrecto de “EG corregida”.
+
+**3.2. Importancia**
+- para un adecuado control gestacional y fetal.
+- la toma de decisiones para un adecuado manejo perinatal y postnatal.
+- nacimiento en centros especializados (niveles asistenciales según la EG).
+- predecir el riesgo de morbimortalidad ya que la EG es el factor determinante de la madurez de los órganos. Existe una correlación inversa entre la EG y el riesgo de morbi-mortalidad.
+
+**3.3. Métodos para la valoración de la edad gestacional:**
+**__3.3.1. Métodos prenatales:__**
+- Fecha de última regla (FUR): contando desde el 1er día del último ciclo menstrual. Es el método más extendido, aunque tendencia a sobreestimar e impreciso (falta de ciclos menstruales regulares de 28 días, dificultad para precisar FUR...).
+- Fecha de concepción. En los casos de fecundación in vitro la fecha de la concepción y transferencia del embrión es conocida.
+- **Ecografía obstétrica:**
+  - **Primer trimestre:** se recomienda realizar la primera ecografía entre las
+@p 90
+10+0-13+6 semanas, ya que es el **método más fiable para valorar la edad gestacional.** La longitud cráneo-caudal (en inglés CRL) es el parámetro que proporciona una estimación más precisa de la edad gestacional (± 5-7 días). La mejor forma de estimar la EG es la FUR confirmada con ecografía obstétrica precoz. Si existe discrepancia, la ecografía tiene mayor fiabilidad.
+
+  - 2º-3º trimestre: la estimación de la EG se basa en fórmulas que incorporan variables como: diámetro biparietal, perímetro craneal, perímetro abdominal y longitud del fémur. La valoración de la EG es menos precisa con el avance de la gestación:
+    - < 22 semanas: la ecografía sigue teniendo valor para la estimación de la EG.
+    - > 22 semanas: menor precisión. Dificultad para diferenciar entre una menor EG o un crecimiento intrauterino restrictivo (CIR), por lo que son precisas ecografías seriadas.
+- Datos clínicos:
+  - Exploración de la altura uterina:
+    - a partir de las 12 semanas se puede palpar el fondo uterino sobre la sínfisis del pubis.
+    - Palpar el útero dos dedos por encima del ombligo sugiere que el feto está en una EG en el límite de la viabilidad.
+  - Latido cardíaco: a partir de las 6 semanas. Doppler cardíaco a partir de 9-10 semanas.
+  - Percepción de movimientos fetales: entre las 16 y 20 semanas de gestación.
+
+**__3.3.2. Métodos postnatales:__**
+- Se emplean cuando no hay una adecuada estimación prenatal de la EG.
+- Escalas clínicas (método más empleado):
+  - Mayor precisión las que emplean criterios de madurez física y neuromuscular. La suma de puntos de cada criterio se corresponde con una EG.
+  - Deben realizarse de forma precoz, en las primeras horas de vida.
+  - Limitaciones:
+    - La valoración neuromuscular es compleja y puede estar influida por la situación clínica del paciente o medicación materna.
+    - Tendencia a sobreestimar la EG en RNPT e infraestimar en los casos de CIR5.
+  - Las más empleadas son:
+    - Escala de Dubowitz:
+      - Valora 34 parámetros.
+      - Más precisa, pero compleja de realizar y requiere mayor tiempo.
+@p 91
+      - Precisión: comparada con ecografía ± 2,6 semanas, con FUR ± 2,9 semanas.
+    - **Nueva Escala de Ballard,** es la más empleada:
+      - Valora 6 parámetros físicos y 6 neurológicos (Tabla 1).
+      - Realizar en primeras 24-48 horas de vida.
+      - Más sencilla y rápida de realizar, pero mayor tendencia a sobreestimar.
+      - Precisión: comparada con ecografía ± 3,8 semanas, con FUR ± 4,2 semanas.
+- Otros métodos (limitaciones técnicas y de interpretación de los resultados):
+  - Neurológicos: Ecografía cerebral, EEG.
+  - Exploración ocular (< 48 horas de vida): entre las 27 y 34 semanas se produce la desaparición progresiva de la vascularización de la cápsula anterior del cristalino.
+
+**Tabla 1. NUEVA ESCALA DE BALLARD.** Adaptado de: *Ballard JL, Khoury JC, Wedig K, et al. New Ballard Score, expanded to include extremely premature infants. J Pediatr. 1991 Sep;119(3):417-23.*
+@img seneo-2-7-ballard-nm.png
+@pie MADUREZ NEUROMUSCULAR PUNTUACIÓN -1 0 1 2 3 4 5 Postura Ventana cuadrada (muñeca) >90° 90° 60° 45° 30° 0° Retroceso del brazo 180° 140 -180° 110-140° 90-110° <90° Ángulo poplíteo 180° 160° 140° 120° 100° 90° <90° Signo de la bufanda Talón-oreja
+! La parte de madurez neuromuscular lleva dibujos y se muestra recortada del PDF.
+@deimg
+@ancha
+| {8} **MADUREZ FÍSICA** |
+|---|---|---|---|---|---|---|---|
+| **PUNTUACIÓN** | **-1** | **0** | **1** | **2** | **3** | **4** | **5** |
+| **Piel** | Pegajosa, friable, transparente | Gelatinosa, roja, translúcida | Rosa pálido, venas visibles | Descamación superficial y/o eritema, pocas venas | Agrietamiento, zonas pálidas, venas raras | Gruesa, grietas profundas, ausencia de venas | Dura, agrietada, arrugada |
+@p 92
+@pie Tabla 1. NUEVA ESCALA DE BALLARD. Adaptado de: Ballard JL, Khoury JC, Wedig K, et al. New Ballard Score, expanded to include extremely premature infants. J Pediatr. 1991 Sep;119(3):417-23. (continuación) MADUREZ FÍSICA PUNTUACIÓN -1 0 1 2 3 4 5
+| **Lanugo** | Ninguno | Escaso | Abundante | Fino | Zonas libres | Casi no hay lanugo | |
+| **Superficie plantar** | Longitud: 40-50 mm-1 // <40 mm:-2 | Longitud >50 mm, sin pliegues | Marcas rojas mortecinas | Pliegues transversos anteriores | Pliegues en los 2/3 anteriores | Pliegues en toda la planta | |
+| **Mamas** | Imperceptibles | Apenas perceptibles | Areola plana, no hay glándula mamaria | Areola punteada, glándula de 1-2 mm | Areola elevada, glándula de 3-4 mm | Areola completa, glándula de 5-10 mm | |
+| **Ojo/oreja** | Fusión palpebral leve: -1 // fuerte: -2 | Párpados abiertos, pabellón liso, plegado | Pabellón ligeramente curvado, blando, despliegue lento | Pabellón bien formado, blando, despliegue rápido | Pabellón bien formado y firme, despliegue instantáneo | Cartílago grueso, oreja rígida | |
+| **Genitales masculinos** | Escroto plano, liso | Escroto vacío, rugosidades finas | Testes en la parte superior del canal, escasas rugosidades | Testes en descenso, pocas rugosidades | Testes descendidos, rugosidades abundantes | Testes colgantes, rugosidades profundas | |
+| **Genitales femeninos** | Clítoris prominente, labios planos | Clítoris prominente, labios menores pequeños | Clítoris prominente, labios menores en crecimiento | Labios mayores y menores igual de prominentes | Labios mayores grandes, labios menores pequeños | Labios mayores cubren el clítoris y los labios menores | |
+
+| **PUNTUACIÓN** | **SEMANAS** |
+|---|---|
+| -10 | 20 |
+| -5 | 22 |
+| 0 | 24 |
+| 5 | 26 |
+| 10 | 28 |
+| 15 | 30 |
+| 20 | 32 |
+| 25 | 34 |
+| 30 | 36 |
+| 35 | 38 |
+| 40 | 40 |
+| 45 | 42 |
+| 50 | 44 |
+@findeimg
+! En el PDF la correspondencia puntuación-semanas va en dos filas horizontales; aquí, en columnas para que quepa en el móvil.
+
+@caja
+**SE RECOMIENDA**
+- Clasificar la prematuridad según la EG (semanas+días) y peso al nacer (adecuado, elevado o bajo peso para la EG).
+- Nacimiento en centros especializados (niveles asistenciales según la edad gestacional).
+- La mejor estimación de la EG es mediante la FUR confirmada con ecografía obstétrica precoz (10-13+6 semanas). Si existe una discrepancia, la ecografía tiene
+@p 93
+mayor fiabilidad.
+
+- El método más empleado de estimación postnatal de la EG es la Nueva Escala de Ballard
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No debe emplearse el término de “edad gestacional corregida”. Empleamos el concepto de edad postmenstrual-EPM- para valorar el crecimiento y desarrollo postnatal. La EG nunca cambia y representa el grado de madurez al nacimiento.
+@fin
+@bib
+1. Sociedad Española de Neonatología. Disponible en: https://www.seneo.es/images/site/publicaciones/protocolos/8.pdf.
+2. Born too soon: the global action report on preterm birth. www.who.int/maternal_child_adolescent/documents/born_too_soon/en/ (Accessed on May 04, 2012). https://www.who.int/es/news-room/fact-sheets/detail/preterm-birth.
+3. Rite Gracia S, Fernández Lorenzo JR, Echániz Urcelay I, et al. Comité de Estándares y la Junta Directiva de la Sociedad Española de Neonatología. Niveles asistenciales y recomendaciones de mínimos para la atención neonatal. An Pediatr (Barc). 2013;79:51.e1-51.e11.
+4. Committee Opinion No. 700. American College of Obstetricians and Gynecologists. Methods for estimating the due date. Obstet Gynecol 2017; 129:e150-4.
+5. Lee AC, Panchal P, Folger L, et al. Diagnostic Accuracy of Neonatal Assessment for Gestational Age Determination: A Systematic Review. Pediatrics. 2017;140:e20171423.
+6. Ballard JL, Khoury JC, Wedig K, et al. New Ballard Score, expanded to include extremely premature infants. J Pediatr. 1991; 119:417-23.

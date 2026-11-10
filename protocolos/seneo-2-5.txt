@@ -1,0 +1,96 @@
+@f 14. Protocolos SENEO/2.5. Diagnóstico y terapéutica prenatal
+@p 76
+# 2.5 DIAGNÓSTICO Y TERAPÉUTICA PRENATAL
+
+*Montserrat Izquierdo Renau, Joan Sabrià Bach*
+
+*Hospital Sant Joan de Déu, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 62-66 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Las técnicas de diagnóstico y terapia prenatal han evolucionado de forma exponencial en los últimos años. Las unidades obstétricas de medicina materno-fetal alcanzan un nivel diagnóstico de alta precisión ya en vida fetal, lo cual permite una información pronóstica muy ajustada a las familias que se enfrentan con algún tipo de patología fetal bien sea malformativa, genética, sindrómica, etc.
+
+La figura del neonatólogo o de los diferentes especialistas pediátricos que pueden estar involucrados en el cuidado de ese futuro recién nacido es clave a la hora de completar la información que reciben estas familias, dentro de la aproximación multidisciplinar que estos casos tan complejos merecen. Por otro lado, estos niños que acaban ingresando, llegan a las unidades neonatales con una historia diagnóstica y terapéutica previa que los neonatólogos debemos conocer y saber interpretar.
+
+El objetivo de este protocolo es describir brevemente las principales herramientas de diagnóstico prenatal más frecuentemente utilizadas, así como los procedimientos terapéuticos fetales más habituales.
+
+## 1 Diagnóstico prenatal
+
+**1.1. Pruebas no invasivas**
+**1.1.1. Ecografia**
+La ecografía supone hoy en día la herramienta más potente en el diagnóstico prenatal de malformaciones; así como de detección de signos de riesgo de anomalías cromosómicas y valoración del crecimiento fetal. El seguimiento del embarazo comprende al menos la realización de 3 ecografías con unos objetivos determinados en cada una de ellas:
+- Primer trimestre, que se realiza en torno a la semana 12: confirmar la gestación, así como el número de fetos y corionicidad, datación de la gestación, determinación de los marcadores de aneuploidía (como el pliegue nucal), valoración anatómica precoz y valoración del riesgo de preeclampsia mediante el índice de pulsatilidad de las arterias uterinas.
+- Segundo trimestre, en torno a la semana 20-22: valoración de la placenta, inserción del cordón y líquido amniótico, valoración del crecimiento fetal y valoración minuciosa de la anatomía fetal
+- Tercer trimestre, en torno a la semana 34-36 en gestaciones de bajo riesgo: valoración de la posición y crecimiento fetal, valoración de la placenta y del líquido
+@p 77
+amniótico y revaloración de la anatomía fetal.
+
+En función de los posibles antecedentes y los hallazgos obtenidos en las diferentes exploraciones se pueden ir sumando mayor número de controles ecográficos, así como ecografías más especializadas como estudios Doppler, ecocardiografía fetal o la neurosonografía. En casos con sospecha de patología especialmente a nivel cerebral, torácico o digestivo la resonancia magnética puede ser útil para confirmar las sospechas ecográficas o aportar información adicional.
+
+**1.1.2. Cribado de aneuploidías**
+En el primer trimestre de la gestación, alrededor de las 12 semanas, se lleva a cabo el cribado o “screnning” combinado, bioquímico-ecográfico, para las alteraciones cromosómicas más frecuentes. Se estima el riesgo de trisomía 21, trisomía 13 y trisomía 18 para los que presenta una tasa de detección del 90% por una tasa de falsos positivos del 3%. Este riesgo se estima a partir del riesgo asociado a la edad materna, modificado por marcadores ecográficos y bioquímicos. En cuanto a parámetros ecográficos se utiliza la LCC (longitud cráneo-caudal) para la datación de la gestación y la translucencia nucal como marcador de riesgo. Se determinan además, dos marcadores bioquímicos: la fracción libre de la beta-gonadotropina coriónica (fb-hCG) y la proteína placentaria A asociada al embarazo (PAPP-A), cuyos resultados anormales se relacionan con aneuploidías.
+
+En aquellas gestaciones que consulten más allá de la semana 14, existe la probabilidad de un cribado de segundo trimestre que presenta una menor tasa de detección de T21 (se estima del 75%), basado en el riesgo por edad materna y marcadores bioquímicos (fb-hCG, alfa-fetoproteina, estriol no conjugado e Inhibina-A).
+
+Hay que puntualizar que, en el caso de gestaciones obtenidas mediante la donación de ovocitos, se emplea la edad de la donante para llevar a cabo estas estimaciones.
+
+Finalmente, el riesgo calculado clásicamente se estratificaba en alto y bajo en función de si es superior o inferior a 1/250. Más recientemente, debido a los cambios en políticas de diagnóstico prenatal por la posibilidad del estudio del DNA fetal libre, se tiende a clasificar en alto, medio y bajo, con puntos de corte aproximados de 1/250 para el alto y 1/1000 para el intermedio.
+
+**1.1.3. DNA fetal libre en sangre materna**
+En plasma materno se puede encontrar DNA libre procedente del feto, en concreto del trofoblasto, que se puede estudiar para valorar el riesgo de las anomalías cromosómicas más frecuentes (T21, T13 o T18) y determinar los cromosomas sexuales. Se ha estimado una sensibilidad mayor al cribado combinado para la detección de T21 (97% con una tasa menor del 1% de falsos positivos), y puede ampliar su rango de detección de trisomías a otros cromosomas (del 1 al 22) y algunas microdeleciones muy seleccionadas (22q11), aunque la sensibilidad para estas es menor, alrededor del 40%. Es importante recordar que también se trata de pruebas de cribado, no diagnósticas, que se deberían confirmar siempre con procedimientos invasivos.
+
+**1.2. Pruebas invasivas**
+En aquellos casos que los diferentes cribados detecten un riesgo elevado de cromosomopatía o en los que se detecte alguna malformación por ecografía, está indicada la obtención de una muestra fetal para realizar estudios genéticos diagnósticos.
+
+La obtención de muestras fetales se realiza principalmente mediante dos técnicas:
+@p 78
+- Biopsia corial: obtención de muestra de trofoblasto de las vellosidades coriales por vía transcervical o transabdominal materna.
+- Amniocentesis: obtención de líquido amniótico por vía transabdominal.
+
+La elección de una u otra técnica va a depender del momento en que establezca la indicación: hasta la semana 14 se optará por la biopsia de vellosidades coriales y más allá de ese momento se optará por la amniocentesis. Actualmente, el riesgo de pérdida fetal asociado a estos procedimientos, cuando se realizan ecoguiados, en condiciones adecuadas y por personal entrenado, se estima entre un 0,1-0,2 %.
+
+Además de para el estudio de posibles alteraciones genéticas en el feto, el estudio del líquido amniótico también es útil para el diagnóstico de infecciones congénitas (por ejemplo citomegalovitus, toxoplasma o parvovirus), o para el diagnóstico de la infección intraamniótica o corioamnionitis.
+
+Por último, la cordocentesis u obtención de sangre fetal, vía transabdominal, por punción ecoguiada de la vena umbilical, es un procedimiento que se lleva a cabo a partir de la semana 20. Se puede utilizar para la confirmación diagnóstica de alteraciones genéticas, pero su indicación principal será el diagnóstico de confirmación de anomalías hematológicas (especialmente la anemia fetal en contexto isoinmunización o infecciones congénitas), o el estudio de la función renal fetal en el caso de alteraciones nefrourológicas (β2-microglobulina, creatinina...). Es un procedimiento menos frecuente y con un riesgo de pérdida fetal algo más elevado, alrededor de 1%.
+
+## 2 Estudios genéticos en muestras fetales
+
+Los principales estudios genéticos que se llevan a cabo en muestras fetales son:
+- QF-PCR *(Quantitative Fluorescent PCR)*: Es una técnica que cuantifica de forma rápida la dotación numérica de los cromosomas 13, 18, 21, X e Y mediante el estudio de varias secuencias de ADN polimórficas denominadas repeticiones cortas en tándem (“short tandem repeats: STR”) o marcadores microsatélites con el fin de detectar las aneuploidías más frecuentes.
+- CARIOTIPO: El estudio de la dotación cromosómica o cariotipo consiste en el análisis del número y estructura de todos los cromosomas en metafase, mediante el estudio del patrón de bandas específico para cada cromosoma. Permite la identificación de todas las anomalías cromosómicas numéricas (incluyendo las aneuploidías autosómicas y sexuales), las anomalías estructurales con un segmento cromosómico involucrado superior a las 5-10 Mb (translocaciones, deleciones, duplicaciones, inversiones e inserciones) así como los mosaicismos.
+- ARRAY CROMOSÓMICO: Análisis genético de todo el genoma de mayor resolución que el cariotipo ya que es capaz de detectar anomalías a partir de 10kb-1Mb; aunque sólo detecta alteraciones por pérdida o ganancia de material cromosómico (por ejemplo, no detectaría mutaciones puntuales, traslocaciones ni mosaicismos de baja frecuencia).
+- EXOMA: La secuenciación de los exones (es decir, la lectura de los fragmentos de DNA que codifican genes) proporciona una de las formas más completas de estudiar el DNA en busca de mutaciones puntuales y permite analizar de forma
+@p 79
+simultánea varios genes con posibilidad de reanálisis según los hallazgos clínicos.
+
+## 3 Terapia fetal
+
+Los avances en el diagnóstico prenatal han favorecido el desarrollo de técnicas terapéuticas que permiten mejorar el pronóstico de algunas afecciones fetales severas diagnosticadas intraútero. La primera terapia fetal descrita fue la transfusión intraútero en casos de anemia fetal. Posteriormente empezó a aplicarse la cirugía fetal abierta (laparotomía materna+histerorrafia) para alteraciones como las valvas de uretra posterior o los defectos de tubo neural. La aparición de la fetoscopia (cirugía fetal mediante trócar/es intrauterino/s) minimiza los riesgos maternos y disminuye la prematuridad asociada a la cirugía abierta. Esto ha permitido ampliar el espectro de alteraciones a tratar y es actualmente la técnica más utilizada para llevar a cabo estas intervenciones.
+
+Las principales terapias que se llevan a cabo intraútero son las mencionadas a continuación. Hay que tener en cuenta que la selección del paciente tributario a esta terapia sigue unos criterios muy estrictos, debe ser individualizada y preferiblemente consensuada multidisciplinarmente, ya que no dejan de ser procedimientos con alto riesgo de complicaciones fetales y/o prematuridad.
+
+1. Fotocoagulación laser de comunicaciones vasculares para el síndrome de transfusión feto-fetal, el retraso de crecimiento selectivo o el síndrome anemia-policitemia en gestaciones gemelares monocoriales.
+2. Colocación de balón intratraqueal en casos de hernia diafragmática congénita, que requerirá una segunda fetoscopia para retirada posterior.
+3. Colocación de catéteres de drenaje toraco-amnióticos (hidrotórax, malformación adenomatoidea-quística)
+4. Cistoscopias y permeabilización ureteral en las obstrucciones bajas de la vía urinaria
+5. Valvuloplastias en las estenosis aórtica o pulmonar críticas
+6. Cierre de defectos del tubo neural
+
+Por último, mencionar la terapia EXIT (ex-utero intrapartum treatment), mediante la cual se extrae el feto del útero materno, y estando todavía conectado a circulación placentaria se garantiza la permeabilidad de la vía aérea mediante intubación o traqueostomía. Hoy en día, en nuestro medio, se realiza en situaciones de vía aérea difícil (principalmente masas cervicales como los teratomas o los linfangiomas).
+@caja
+**SE RECOMIENDA**
+- Aproximación interdisciplinaria, incluyendo a obstetras, neonatólogos y otros especialistas en casos de patología fetal.
+- Elaboración de un plan de parto y de actuación al nacimiento que quede reflejado en la historia clínica de la gestante, fácilmente accesibles por parte de quienes atenderán al recién nacido.
+- Visita de consejo prenatal a las familias por parte de los diferentes especialistas que realizarán el seguimiento de su hijo
+@p 80
+- Realizar una completa transmisión de la información prenatal al equipo que atenderá al recién nacido durante el proceso del parto
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Derivación tardía de gestantes con patología fetal o riesgo de prematuridad en aquellos casos que el centro pueda ofrecer control obstétrico prenatal pero no pueda atender al recién nacido postnatalmente, con el fin de poder dar la atención global que la familia y el futuro recién nacido necesitan.
+@fin
+@bib
+1. Levy B, Stosic M. Traditional Prenatal Diagnosis: Past to Present. Methods Mol Biol. 2019; 1885:3-22.
+2. Jindal A, Sharma M, Chaudhary C. Amniocentesis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022.
+3. Deprest JA, Flake AW, Gratacos E, et al. The making of fetal surgery. Prenat Diagn. 2010; 30:653-67.
+4. Gratacós E. Terapia y cirugía fetal: indicaciones y resultados actuales. Prog Obstet Ginecol. 2008;51:541-58.
+5. Deprest J, Benachi A, Gratacós E et al. Randomized Trial of Fetal Surgery for Moderate Left Diaphragmatic Hernia. N Engl J Med. 2021;385(2):119-129.

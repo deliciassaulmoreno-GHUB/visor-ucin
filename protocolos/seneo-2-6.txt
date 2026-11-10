@@ -1,0 +1,117 @@
+@f 14. Protocolos SENEO/2.6. Transporte intraútero y neonatal
+@p 81
+# 2.6 TRANSPORTE INTRAÚTERO Y NEONATAL
+
+*Laura Sánchez García^1^, Félix Morales Luengo^2^, Raquel Jordán Lucas^3^*
+
+*^1^ Hospital Universitario La Paz, Madrid. Equipo de transporte neonatal de la Comunidad de Madrid. ^2^Hospital Universitario Río Hortega, Valladolid. ^3^Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 67-72 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. Las figuras 1-3 son esquemas; se han redibujado como tablas con su mismo texto.
+
+## 1 Introducción
+
+Las primeras horas de vida de un recién nacido (RN) vulnerable, por prematuridad o patología asociada, determinan su pronóstico a largo plazo. Por ello, estos niños deben nacer en un centro preparado para atenderlos, y en su defecto ser trasladados de un modo seguro y eficaz. El traslado neonatal (TN) precisa de una organización basada en la coordinación de distintos recursos, la estabilización del paciente en el hospital emisor (HE) y el posterior transporte e ingreso en un hospital receptor (HR).
+
+## 2 Tipos de traslado neonatal
+
+**2.1. Traslado intraútero:** traslado de una gestante a otro hospital de mayor complejidad donde se puedan ofrecer los cuidados definitivos a la madre y/o al RN. **Es el transporte de elección y ha demostrado reducir la morbimortalidad perinatal con respecto al TN postnatal.** La decisión del traslado intraútero está condicionada por el riesgo de parto inminente, así como antecedentes obstétricos, distancia a HR y disponibilidad de camas (Tabla 1).
+
+**2.2. Traslado neonatal:** no todos los problemas pueden detectarse a tiempo para el traslado intraútero y hasta un 30-50% pueden presentarse durante el parto o el periodo neonatal inmediato. El TN depende de la clasificación de las Unidades Neonatales por niveles asistenciales y la regionalización de los sistemas sanitarios. Debe ser organizado, planificado y ejecutado por personal capacitado y dotado de recursos adecuados. **Las principales indicaciones de TN son la prematuridad y bajo peso y cualquier patología o sospecha de esta que no pueda ser atendida en el HE.**
+**2.3. Traslado de retorno:** permite optimizar la disponibilidad de camas en diferentes áreas sanitarias, reagrupar familias para que se encuentren más cerca de sus hijos hospitalizados, favorecer la relación interpersonal entre profesionales y reducir el coste sanitario.
+@p 82
+| {2} **Tabla 1. Indicaciones y contraindicaciones principales del traslado intraútero** |
+|---|---|
+| **Indicaciones** | **Contraindicaciones** |
+| • APP en < 32 semanas con o sin RPM // • Parto múltiple < 34 semanas // • RCIU grave < 34 semanas // • Malformaciones congénitas que obligan a un tratamiento inmediato // • Incompatibilidad sanguínea grave // • Hidrops fetal // • Polihidramnios u oligoamnios grave // • Preeclampsia grave o síndrome de HELLP // • Enfermedad metabólica que necesite control inmediato // • Enfermedad materna grave o complicaciones del embarazo (patología cardíaca, diabetes insulinodependiente, infecciones) | • Desprendimiento de placenta // • Sangrado abundante // • Parto inminente // • Inestabilidad clínica o necesidad de cuidados intensivos maternos asumibles en el hospital emisor // • Sospecha pérdida del bienestar fetal // • Procidencia de cordón o extremidades |
+
+*Modificado de Moreno y Thió. APP (amenaza de parto prematuro); HELLP (hemólisis, aumento de los enzimas hepáticas, plaquetopenia); RCIU (retraso de crecimiento intrauterino); RPM (rotura prematura de membranas)*
+
+**Recursos humanos y competencias del equipo de transporte neonatal**
+El equipo de TN idóneo lo constituye un pediatra neonatólogo, enfermería especializada en pediatría y un técnico en emergencias sanitarias. Todo el equipo debe estar familiarizado con la patología neonatal más frecuente, recibir formación en transporte y en soporte vital básico y avanzado (neonatal y pediátrico), siendo para ello fundamental el trabajar de forma regular tanto en unidades neonatales como en equipos de TN. Las competencias del equipo de TN implican:
+- Conocimientos teóricos y habilidades clínicas y técnicas.
+- Comunicación y habilidades interpersonales.
+- Competencias relacionadas con el medio de transporte.
+- Formación continuada.
+
+La responsabilidad sobre el RN es del personal del HE hasta la llegada del equipo de TN y es compartida durante la estabilización, hasta la salida hacia el HR.
+
+**Recursos materiales destinados al transporte neonatal**
+El vehículo y equipamiento deben cubrir las necesidades asistenciales como unidad móvil de cuidados intensivos para la transferencia de neonatos de diferente madurez y nivel de cuidados. Debe garantizarse la intercambiabilidad en diferentes escenarios y la interoperabilidad entre distintos vehículos. Los recursos materiales aconsejados, aunque no todos imprescindibles para el TN, se resumen en la tabla 2.
+
+La elección del **tipo de vehículo** dependerá de variables como la disponibilidad del recurso, características geográficas, distancia, características clínicas y urgencia.
+@p 83
+- **Transporte terrestre:** de elección si el estado clínico del paciente lo permite.
+- **Transporte aéreo:** valorar en función de la urgencia (patología tiempo-dependiente), la distancia (más de 150 km) y los tiempos de traslado (más de una hora). Requiere entrenamiento específico, tener en cuenta los efectos del transporte sobre la patología neonatal y el material de traslado.
+| **Tabla 2. Dispositivos y material para el traslado neonatal** |
+|---|
+| • Incubadora de transporte con sistema de retención homologado y secciones transparentes. // • Monitorización multiparamétrica: FC, FR, ECG, PANI, PAI, PVC, SpO2 y Tª. Analizador de sangre portátil y glucómetro. Deseables la monitorización puntual de la etCO2 y la PtCO2. Preferiblemente alarmas visuales, mejor que sonoras. // • Sistemas de canalización de vías y equipos de infusión de fármacos y fluidos. // • Refrigerador para fármacos. // • Material para nutrición enteral. Sistema almacenador de leche materna. // • Material para el manejo de la vía aérea. Bolsa autoinflable neonatal con válvula de PEEP. Sistema de aspiración portátil. Ventilador de transporte con modo controlado y asistido. Humidificador. Soporte ventilatorio no invasivo. Deseable ventilación de alta frecuencia y oxigenoterapia de alto flujo. // • Oxígeno, aire medicinal y ONi portátiles, con conexión rápida, suficiente para duplicar la transferencia más larga anticipada. // • Material para la RCP, desfibrilador. // • Sistema de sondaje vesical y recolección de orina. // • Sistema de hipotermia activa servocontrolada. // • Deseable, ecógrafo portátil. // • Sistema de carga y descarga de incubadora sin levantamiento. // • Luz para diagnóstico. // • Asientos para al menos tres profesionales/familia. Sistema de restricción certificado. // • Suministro de energía para que el equipo médico pueda alimentarse desde el vehículo sin usar la batería de la incubadora. // • Sistemas de comunicación entre el equipo médico-conductores-unidad de base. |
+
+*Modificado de Jordan et al. ECG: electrocardiograma; etCO2: capnografía; FC: frecuencia cardiaca; FR: frecuencia respiratoria; ONi: óxido nítrico inhalado; PAI: presión arterial invasiva; PANI: presión arterial no invasiva; PEEP: presión espiratoria al final de la espiración; PtCO2 : presión transcutánea de dióxido de carbono; RCP: reanimación cardiopulmonar; RN: recién nacido; SpO2: saturación de oxígeno; Tª: temperatura; TET: tubo endotraqueal.*
+
+## 3 Estabilización pretraslado y traslado
+
+La estabilización del RN crítico precisa la **metódica ABCDE** y ser capaces de reevaluar las acciones llevadas a cabo en el HE y durante todo el traslado (figuras 1 y 2).
+@p 84
+@deimg
+| **Paso** | **Acciones** | **Además** |
+|---|---|---|
+| **Monitorizar** | · Monitor multiparamétrico (FC, FR, ECG, SpO~2~, Tª, PAI/PANI) // · Considerar EtCO~2~ si intubado // · Tª rectal si hipotermia | · Establecer límites de alarmas // · Alarma visual preferible a acústica // · Protectores auditivos |
+| **Temperatura** | · Mantener normotermia // · Identificar riesgo de hipotermia // · Considerar hipotermia terapéutica | · Oxígeno húmedo y caliente // · Precalentar objetos en contacto con el niño // · Servo-control de temperatura |
+| **Vía aérea y respiración** | · Evaluar dificultad respiratoria y oxigenación // · Soporte ventilatorio (considerar VMNI/VMI) // · Movimiento torácico/Ventilación simétrica // · Drenar escape aéreo si compromiso // · Control del dolor y estrés | · Gasometría tras ajustar parámetros // · Comprobar TET y SOG. Rx tórax // · Fijar TET y SOG. Anotar diámetro y longitud // · Comprobar disponibilidad de gases y ajustes del respirador // · Anotar parámetros ventilatorios // · Preparar material para intubación en transporte |
+| **Glucemia** | · Monitorizar glucemia // · Calcular necesidades de glucosa ev / Identificar riesgo de hipoglucemia // · Calcular aporte de líquidos endovenosos | · Asegurar acceso vascular // · Comprobar permeabilidad y fijación // · Considerar dieta absoluta |
+| **Cardiovascular** | · Considerar shock (hipovolémico, cardiogénico, séptico) // · Evaluación del shock (valorar NIRS) // · Tratamiento del shock | Preparación de medicamentos en doble cantidad de la estimada para el transporte // Diluciones estandarizadas // Considerar vía cental: // · Necesiad de acceso ev rápido // · Dificultad para acceso periférico // · Necesidad de más de un acceso ev // · Perfusiones que precisan vía central // · Monitorización de PAI (arterial) // · Monitorización de gases arteriales |
+| **Laboratorio** | · Considerar perfil de sepsis, recoger cultivos // · Gasometría, glucosa e iones // · Muestra de sangre materna | · Considerar antibioterapia empírica |
+| **Apoyo emocional** | · Consentimiento informado // · Procurar traslado materno en postparto // · Facilitar la presencia de los padres en el traslado // · Facilitar información completa de destino, teléfonos de contacto | |
+| **Documentación** | · Revisar identificación de paciente y profilaxis del RN // · Informe neonatal, pruebas complementarias // · Hoja de registro y listas de comprobación | |
+@findeimg
+*Figura 1. Estabilización pretraslado.*
+
+*De Jordan et al. ECG: electrocardiograma; EtCO2: presión parcial del dióxido de carbono al final de la espiración; ev: intravenoso; FC: frecuencia cardíaca; FR: frecuencia respiratoria; NIRS: espectroscopía infrarroja cercana; PAI: presión arterial invasiva; PANI: presión arterial no invasiva; RN: recién nacido; Rx tórax: radiografía de tórax; SOG: sonda orogástrica; SpO2: saturación de oxígeno; Tª: temperatura; TET: tubo endotraqueal; VMI: ventilación mecánica invasiva; VMNI: ventilación no invasiva*
+! En el PDF los pasos son flechas hacia abajo, con los recuadros de acciones al lado y, unidos por una línea de puntos, recuadros discontinuos con lo que va en la columna «Además» (rótulo que he puesto yo, igual que «Paso» y «Acciones»). El recuadro que empieza por «Preparación de medicamentos» ocupa en el PDF la altura de Cardiovascular, Laboratorio y Apoyo emocional.
+
+@deimg
+| **Evaluación respiratoria esencial** | → **Ventilacion mecánica no invasiva** (criterios de selección apropiados) | → **Ventilacion mecánica invasiva** (ante dudas y con criterios más estrictos) |
+|---|---|---|
+| **Encefalopatía hipóxico-isquémica** | → **Tª objetivo (33-34º)** lo antes posible con hipotermia pasiva o activa | → **Ideal hipotermia activa servo-controlada** (minimiza riesgos sobreenfriamiento) |
+| **Patología tiempo-dependiente** | → RN que precisa **intervención y/o soporte vital avanzado urgentes** | → **No retrasar traslado** |
+@findeimg
+*Figura 2. Algunos aspectos importantes de estabilización en TN.*
+! En el PDF cada fila es una cadena de flechas. «tiempo-dependiente» aparece escrito «tiempo-depentiente» en la figura.
+@p 85
+El transporte introduce factores como el ruido, vibración, fuerzas cinéticas, y fluctuaciones de temperatura, unidos a una merma en la eficacia de atención al paciente por limitación de espacio y movimiento (figura 3). El equipo de TN debe estabilizar clínicamente al RN antes del transporte para afrontar en las mejores condiciones una situación de riesgo a la que se añade el efecto del traslado.
+@deimg
+| **RUIDO 60dB // LUZ** | **VIBRACIÓN 4-12 Hz** |
+|---|---|
+| Orejeras // Cobertores incubadora // Uso racional de sirena // Reducir intensidad alarma acústica // Cierre suave de puertas // Adecuar tono de voz // Cubrir ojos // Evitar contaminación lumínica | Colchón de vacío // Colchón de aire // Colchón de gomaespuma // Colchón de gel // Conducción cuidadosa // Mantenimiento de calzadas |
+| **ENERGÍA CINÉTICA // ALTITUD** | **TEMPERATURA** |
+| Velocidad constante // Evitar desaceleraciones bruscas // Evitar frenadas bruscas // Cabeza en el sentido de la marcha // Drenaje previo de la fuga aérea // Estabilización hemodinámica previa // Colocación en eje longitudinal | Control térmico continuo // Regulación térmica en cabina // Puerta de incubadora cerrada // Regulación Tª incubadora // No ocluir orificios de aireación |
+@findeimg
+*Figura 3. Efectos del transporte y prevención*
+! En el PDF los cuatro factores son los cuadrantes de un círculo con flechas circulares en el centro.
+
+La reevaluación continua de las acciones médicas, la anticipación de complicaciones, las habilidades técnicas y la cohesión del equipo son la clave del éxito para la correcta estabilización del paciente.
+
+Cada equipo de transporte debería llevar a cabo una recogida de datos e incidencias de traslado con el objetivo de obtener **indicadores de calidad** que permitan detectar áreas de mejora para aumentar la seguridad del paciente durante todo el proceso.
+
+## 4 La familia y el traslado
+
+El personal del equipo de TN debe informar a los padres sobre todos los aspectos relacionados con el traslado, tanto clínicos como organizativos. Es un derecho del niño y se debe favorecer el acompañamiento al menos por uno de los padres. En cualquier caso es fundamental la identificación adecuada del RN. Los cuidados centrados en el desarrollo también pueden aplicarse durante el traslado, adaptados a esta circunstancia.
+@caja
+**SE RECOMIENDA**
+- El transporte intraútero es el de elección, si las circunstancias lo permiten.
+- La formación, dotación, organización y coordinación del equipo de transporte neonatal, son indispensables para garantizar un traslado en las mejores condiciones.
+@p 86
+- La correcta estabilización pretraslado y la prevención de los efectos del transporte son esenciales para minimizar eventos adversos.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- El traslado neonatal llevado a cabo por personal sin formación específica en transporte.
+- Priorizar rapidez del traslado sin una correcta estabilización.
+- En patologías tiempo-dependiente, demorar el traslado por realizar procedimientos que retrasen el tratamiento que precisa el paciente.
+- Obviar el acompañamiento familiar en el contexto del traslado neonatal, independientemente de la situación clínica del recién nacido.
+@fin
+@bib
+1. Domínguez-Sampedro P. Hacia el pleno desarrollo del transporte pediátrico en España. An Pediatr (Barc). 2014;81:203-4.
+2. Jourdain G, Simeoni U, Schlembach D, et al. European Standards of Care for Newborn Health: Neonatal transport. 2018. https://newborn-health-standards.org.
+3. Brandstrup KB, García M, Abecasis F, et al. Transporte interhospitalario especializado neonatal y pediátrico. Gestión de recursos. Protocolo de activación de una unidad especializada. Rev Esp Pediatr 2016; 72(Supl.1):3-8.
+4. Jordán Lucas R, Boix H, Sánchez García L, et al; en representación de las Comisiones de Estándares y Transporte Neonatal, Sociedad Española de Neonatología. An Pediatr. 2021; 94:420.e1-e11.
+5. Moro M. Vento M. De Guardia en Neonatología. Capítulo Transporte Neonatal. Ed. Médica Panamericana; 3ª edición. 2015: 119-127.

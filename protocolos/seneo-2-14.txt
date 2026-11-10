@@ -1,0 +1,155 @@
+@f 14. Protocolos SENEO/2.14. Actuación en el hijo de madre con infección por VIH-1 y de virus hepatitis C
+@p 139
+# 2.14 ACTUACIÓN EN EL HIJO DE MADRE CON INFECCIÓN POR VIH-1 Y DE VIRUS HEPATITIS C
+*Luis Manuel Prieto Tato^1^, Marta Illán Ramos^2^, Concepción de Alba Romero^1^*
+*^1^Hospital Universitario 12 de Octubre, Madrid. ^2^Hospital Universitario Clínico San Carlos, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 125-131 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. Las tablas y la figura se han copiado a mano.
+
+## 1 Introducción
+Se estima que en el mundo se infectan por el virus de la inmunodeficiencia humana (VIH) cada día más de 400 nuevos niños, en su mayoría por transmisión vertical (TV), durante la gestación, parto o por la lactancia materna. La tasa de TV varía entre el 13-48% dependiendo del lugar de estudio y de si las madres infectadas amamantan o no a sus hijos. En España, la adopción de medidas de profilaxis ha disminuido la tasa de TV por debajo del 1%.
+
+La profilaxis de la TV del VIH-1 incluye actuaciones en los tres periodos: prenatal, perinatal y postnatal.
+- La serología frente al VIH se debe ofrecer a toda mujer gestante, tras una información adecuada al respecto, y ha de realizarse lo antes posible, en la primera visita de control de la gestación. En nuestro medio se debe repetir la serología de VIH al menos en el tercer trimestre cuando fue negativa previamente. Si la situación serológica con respecto al VIH es desconocida en el momento del parto, o en el postparto inmediato, se debe indicar su determinación.
+- El control precoz y mantenido de la carga viral con el tratamiento antirretroviral combinado (TAR) es la medida más eficaz para evitar la transmisión. Por todo ello, el inicio de TAR en la gestación debe ser lo más precoz posible.
+- El parto es el momento de mayor exposición al virus y es el periodo en el que se producen la mayor parte de los casos de infección perinatal. Por ello es fundamental la programación del tipo de parto en relación a cómo se ha realizado el control de la carga viral durante la gestación. Se recomienda ofrecer un parto vaginal en mujeres con TAR y carga viral < 50 copias/mL próxima al parto, si no existe una contraindicación añadida.
+- La profilaxis postnatal con fármacos antirretrovirales (ARV) -monoterapia o terapia combinada- se ha mostrado eficaz para disminuir la TV del VIH en combinación con las medidas previas. El tipo de profilaxis postnatal vendrá determinado por el riesgo materno de transmisión del VIH (situación clínica, momento de inicio de TAR y carga viral), así como otros factores, como puede ser la prematuridad (tablas 1, 2 , 3 y 4)
+
+@p 140
+**Profilaxis antirretroviral en el recién nacido expuesto (tablas 1, 2 y 3)**
+
+@deimg
+| {3} **Tabla 1. Bajo riesgo de transmisión vertical de VIH-1 en RNAT** |
+|---|---|---|
+| {3} La profilaxis postexposición durante el periodo neonatal se realiza generalmente con AZT en monoterapia |
+| **Escenarios** | **Tratamiento en el RN** | **Momento de inicio, dosis y duración** |
+| Madre con infección VIH que ha recibido TAR en gestación con buena adherencia y con control de la replicación viral (< 50 copias/ml) en últimas 4 semanas previas al parto. | • Monoterapia con AZT | • Iniciar precozmente, preferiblemente en las primeras 6 horas de vida // • Dosis: 4 mg/kg/12 h, VO, durante 4 semanas* |
+| {3} *\* Se podría reducir la profilaxis postnatal en el recién nacido a sólo 2 semanas en el caso de mujeres con evidencia de al menos 2 cargas virales plasmáticas < 50 copias/ml y que han recibido TAR un mínimo de 10 semanas en la gestación y con edad gestacional de > 36 semanas.* // *AZT: zidovudina; RNAT: recién nacido a término; TAR: tratamiento antirretroviral combinado;VO: vía oral.* |
+
+| {3} **Tabla 2. Alto riesgo de transmisión vertical de VIH-1 en RNAT** |
+|---|---|---|
+| {3} La profilaxis postexposición durante el periodo neonatal se realiza con tratamiento combinado |
+| **Escenarios** | **Profilaxis en el RN** | **Momento de inicio, dosis y duración** |
+| Gestante que no haya recibido TAR o en TAR con carga viral > 50 copias/ml en el momento del parto | • AZT + 3TC + NVP // En caso de sospecha de resistencias a ITINN se podría valorar administrar un régimen de profilaxis que incluya raltegravir (RAL): consultar con experto. | • Iniciar precozmente, preferiblemente en las primeras 6 horas de vida // • AZT: 4 mg/kg/12 h, VO, durante 4 semanas // • 3TC: 2 mg/kg/12 h, VO, durante 4 semanas // • NVP: 2 mg/kg/24 h, VO, la primera semana, 4 mg/kg/24 h en la segunda semana y suspender |
+| Madre diagnosticada de infección por VIH en el momento del parto | • AZT + 3TC + NVP | • Iniciar precozmente, preferiblemente en las primeras 6 horas de vida // • AZT: 4 mg/kg/12 h, VO, durante 4 semanas // • 3TC: 2 mg/kg/12 h, VO, durante 4 semanas // • NVP: 2 mg/kg/24 h, VO, la primera semana, 4 mg/kg/24 h en la segunda semana y suspender |
+
+@p 141
+| {3} **Tabla 3. Recién nacido pretérmino.** |
+|---|---|---|
+| {3} La profilaxis postexposición durante el periodo neonatal se realizará según el riesgo del recién nacido. |
+| **Escenarios** | **Tratamiento en el RN** | **Momento de inicio, dosis y duración** |
+| RN prematuro (32 semanas) con madre en TAR y carga viral materna < 50 copias/ml | • Monoterapia en AZT | • Iniciar precozmente, preferiblemente en las primeras 6 horas de vida // • AZT oral durante 4 semanas. Dosis según tabla 5. Si no tolerancia oral, se usará AZT IV |
+| RN prematuro (<32 semanas) con carga viral materna > 50 copias/ml* | • Monoterapia con AZT (IV) // • Madre (preparto): valorar administrar NVP, dosis única, 2 horas antes del parto. | • Iniciar precozmente, preferiblemente en las primeras 6 horas de vida. // • Cambiar a tratamiento oral (AZT) una vez que el RN consiga tolerancia oral y mantener 4 semanas. // • Se podría valorar administrar NVP dosis única de 2 mg/kg al nacimiento si no dio tiempo a administrar NVP a la madre antes del parto |
+| {3} *\*En el caso de niños pretérminos, especialmente < 34 sem, se recomienda solo el uso de AZT durante 4 semanas. En RN pretérminos de alto riesgo puede considerarse la administración de una dosis única de nevirapina a la madre en el parto o al niño en las primeras horas de vida en < 34 semanas,, o triple terapia con AZT,3TC y NVP en RN entre 34-37 semanas.* // *3TC:lamivudina; AZT:zidovudina; ITINN:inhibidores de la transcriptasa inversa no análogos de los nucleósidos; NVP: nevirapina; TAR: tratamiento antirretroviral combinado; VO. vía oral; IV:intravenoso* |
+! Así en el PDF: «RN prematuro (32 semanas)», sin signo delante de la cifra, y «Dosis según tabla 5», aunque las dosis están en la Tabla 4.
+
+@ancha
+| {3} **Tabla 4. Dosis de antirretrovirales para la profilaxis postnatal** |
+|---|---|---|
+| **Fármaco** | **Edad gestacional** | **Dosis** |
+| AZT, zidovudina (2mg/ml Inyectable), (10 mg/ml suspensión oral) | ≥ 35 semanas | ORAL: 4 mg/kg/dosis cada 12h // INTRAVENOSO: 3 mg/kg/dosis cada 12h |
+| | ≥ 30 a <35 semanas | ORAL: 2 mg/kg/dosis cada 12 horas, durante las primeras 2 semanas, luego subir a 3 mg/kg/dosis cada 12 horas hasta las 4 semanas de vida. // INTRAVENOSO: 1.5 mg/kg/dosis cada 12 horas, durante las primeras 2 semanas, luego subir a 2.3 mg/kg/dosis cada 12 horas hasta las 4 semanas de vida. |
+| | < 30 semanas | ORAL: 2 mg/kg/dosis cada 12 horas, durante 4 semanas. // INTRAVENOSO: 1.5 mg/kg/dosis cada 12 horas, durante 4 semanas |
+| 3TC, lamivudina (10 mg/ ml suspensión oral ) | ≥ 32 semanas* | ORAL: 2 mg/kg/dosis cada 12 horas, durante 4 semanas |
+| {3} *\* Las dosis en RN prematuros no han sido bien establecidas. Según las guías del DHHS la dosis en ≥ 32 semanas de EG sería: 2 mg/kg/dosis cada 12 horas vía oral.* |
+@p 142
+@pie Tabla 4. Dosis de antirretrovirales para la profilaxis postnatal (continuación) Fármaco Edad gestacional Dosis
+| NVP, nevirapina*,** (10 m g/ml suspensión oral) | ≥ 34 semanas | ORAL: 2 mg/kg/dosis cada 24 horas durante la primera semana, luego subir a 4 mg/kg/dosis cada 24 horas durante la segunda semana. |
+| | ≥ 32 a <34 semanas | ORAL: 2 mg/kg/dosis cada 24 horas durante las dos primeras semanas |
+| {3} *\* Aunque existen datos de farmacocinéticas (de Waal R, PIDJ 2014), las dosis de NVP en recién nacidos menores de 34 semanas no han sido del todo bien establecidas.* // *\*\* En recién nacidos menores de 2000 gramos, la dosis de NVP sugerida es 2 mg/kg/dosis cada 24 horas durante 2 semanas.* |
+| RAL, raltegravir | ≥ 37 semanas y más de 2000 gramos | **Día 0 a día 7 – Dosis UNA vez al día** (Peso RN: Dosis) // 2 a < 3 kg: 4 mg vía oral cada 24h // 3 a < 4 kg: 5 mg vía oral cada 24h // 4 a < 5 kg: 7 mg vía oral cada 24h // **Día 8 a día 28 – Dosis DOS veces al día** // 2 a < 3 kg: 8 mg vía oral cada 12h // 3 a < 4 kg: 10 mg vía oral cada 12h // 4 a < 5 kg: 15 mg vía oral cada 12h |
+| {3} *\* Si la madre ha recibido RAL o dolutegravir (DTG) en las 24 horas previas al parto, se recomienda retrasar la primera dosis de RAL a las 24-48h tras el nacimiento. En caso contrario, se administrará precozmente, junto al resto de fármacos, preferiblemente en las primeras 8 horas de vida.* |
+@findeimg
+! En el PDF las dosis de raltegravir son una subtabla con columnas «Peso RN» y «Dosis»; aquí cada peso va seguido de dos puntos (puestos por mí) y su dosis. En la casilla de AZT el PDF agrupa en una sola casilla de fármaco las tres edades gestacionales.
+
+**Alimentación del recién nacido**
+Aunque el riesgo de transmisión del VIH mediante la lactancia es bajo si la madre ha recibido TAR con una duración prolongada y la carga viral de VIH se mantiene indetectable, los estudios no han demostrado que el nivel de riesgo sea cero, como lo es en el caso de la transmisión sexual. Es importante que los profesionales sanitarios ayuden a las mujeres a tomar decisiones informadas basadas en la información que tenemos hoy en día. En nuestro medio se contraindica la lactancia materna en los hijos de madre con infección por VIH. En nuestro país durante el primer año de vida se garantiza el suministro gratuito de la fórmula al recién nacido.
+
+**Seguimiento y diagnóstico de la infección por VIH-1 en el niño expuesto**
+
+**Diagnóstico de infección por vih-1 en el niño**
+Se considera una infección confirmada en un niño menor de 18 meses cuando presenta al menos 2 PCR de ARN y/o ADN de VIH-1 positivas en determinaciones de sangre diferentes. Se puede descartar con bastante probabilidad la infección en menores de 18 meses si tiene al menos dos PCR de ARN y/o ADN de VIH-1 negativas en determinaciones de sangre diferentes y siendo alguna de estas obtenida ≥4 meses. En todos los casos se recomienda comprobar la desaparición de anticuerpos frente a VIH-1 y 2 a partir de los 18 meses de vida.
+
+@p 143
+PROTOCOLO DE SEGUIMIENTO EN EL HIJO DE MADRE CON INFECCIÓN VIH-1 (tabla 5)
+
+@deimg
+@ancha
+| {7} **Tabla 5. Protocolo de seguimiento del niño expuesto a infección VIH-1** |
+|---|---|---|---|---|---|---|
+| **Estudios / Edad** | **0-48 horas^1^** | **15-21 días^2^** | **6-8 semanas** | **3-4 meses** | **6 meses^2^** | **18-24 meses** |
+| Visita clínica | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Hemograma | ✓ | (✓) | ✓ | ✓ | (✓) | |
+| AST, ALT, GGT, *bilirrubina total y directa* | ✓ | (✓) | ✓ | ✓ | (✓) | |
+| PCR-ADN VIH-1, PCR-ARN VIH-1 | ✓ | (✓) | ✓ | ✓ | (✓) | |
+| Serología VIH tipo 1 y 2 | | | | | | ✓ |
+| PCR CMV en saliva/ orina | ✓ | | | | | |
+| {7} *La determinación de ARN y/o ADN viral en las primeras 48 horas de vida no debe realizarse en sangre de cordón umbilical. 2. En el niño con alto riesgo de transmisión vertical, se recomienda realizar determinaciones adicionales de ARN y/o ADN viral a los 15-21 días de vida y a los 6 meses de vida.* |
+@findeimg
+! En el PDF las marcas entre paréntesis «(✓)» son marcas en gris claro, distintas de las negras; corresponden a las columnas con la nota 2 (alto riesgo). La nota 1 no lleva su número delante en el PDF.
+
+## 2 Transmisión perinatal de VHC. Actuación en el hijo de madre con infección por virus C de la hepatitis
+La hepatitis C es una enfermedad hepática causada por el virus ARN de la hepatitis C (VHC), que puede presentarse tanto de forma aguda como crónica, con riesgo de progresión a cirrosis y hepatocarcinoma. En España la prevalencia de infección por VHC es baja, con cifras de 0,69% (0,50%-0,87%) en población general.
+
+En adultos, una vez establecida la infección crónica, entre el 15-30% evolucionarán a cirrosis hepática en el plazo de 20 años, con un riesgo de aparición de hepatocarcinoma del 2-4% por año. La progresión en niños con enfermedad crónica a cirrosis suele ser más lenta, aunque no es bien conocida. En los niños, la vía principal de transmisión del VHC es perinatal. Por ello es fundamental el adecuado seguimiento de las madres con infección por VHC y sus hijos, para poder reconocer precozmente aquellos que han adquirido la infección y realizar un seguimiento adecuado. En hijos de madres con infección crónica por VHC se estima una transmisión perinatal aproximada del 7%. Es importante reseñar que tras la adquisición por vía vertical de VHC, entre un 25% y 40% de los niños eliminarán espontáneamente el virus en los primeros 4 años de vida, quedando por tanto libres de infección.
+
+En la figura 1 se recoge el protocolo de seguimiento del hijo de madre con infección por VHC. Dado que la viremia puede ser fluctuante en el lactante, y que por otro lado existe posibilidad de aclaramiento espontáneo de la infección, el protocolo de seguimiento se basa en la determinación tanto de la PCR ARN de VHC en los primeros meses de vida, así como de la serología a partir de los 18 meses de vida.
+
+No se ha demostrado la transmisión de la enfermedad a través de la lactancia materna,
+@p 144
+por lo que la lactancia materna es segura. En el caso de que aparezcan grietas o sangrado en el pezón se recomienda que la madre deje de amamantar temporalmente. Mientras tanto, puede extraerse y desechar la leche materna hasta que las lesiones se curen.
+
+*Figura 1. Protocolo de seguimiento del hijo de madre con infección por VHC.*
+@deimg
+@flujo
+[Mujer gestante con infección por VHC (anti-VHC positivo)*]
+v
+[Solicitar PCR ARN VHC al niño a los 2-3 meses de vida**^#^]
+@cols
+[Detectable]
+v
+[Solicitar PCR ARN VHC a los 6 meses de vida]
+@cols
+[Detectable]
+v
+[Remitir a Consultas de Gastroenterología infantil]
+---
+[No detectable]
+(→ Solicitar anticuerpos frente a VHC a los 18 meses de vida)
+@fincols
+---
+[No detectable]
+v
+[Solicitar anticuerpos frente a VHC a los 18 meses de vida]
+@cols
+[Positivos]
+v
+[Remitir a Consultas de Gastroenterología infantil]
+---
+[Negativos]
+v
+[No hay evidencia de transmisión perinatal de VHC]
+@fincols
+@fincols
+@finflujo
+@findeimg
+*\* En el caso de mujeres con anticuerpos contra la hepatitis C positivos, que no han adquirido la infección en la gestación y que además son negativas de forma repetida para el ARN del VHC, es muy poco probable que transmitan el VHC al recién nacido. Algunas guías de práctica clínica no creen necesario hacer seguimiento al recién nacido en esta situación.\*\* Asegurar vacunación adecuada frente a VHB.*
+! En el PDF, de «No detectable» a los 6 meses sale una flecha discontinua hacia «Solicitar anticuerpos frente a VHC a los 18 meses de vida»; el rótulo con «→» lo he puesto yo. La marca «#» tras «2-3 meses de vida**» no tiene nota que la explique en el PDF.
+
+@caja
+**SE RECOMIENDA**
+- Se recomienda la profilaxis postnatal en los hijos de madre con infección por VIH.
+- La profilaxis postnatal con fármacos antirretrovirales (ARV) -monoterapia o terapia combinada- se ha mostrado eficaz para disminuir la TV del VIH en combinación con las medidas previas. El tipo de profilaxis postnatal vendrá determinado por el riesgo materno de transmisión del VIH (situación clínica, momento de inicio de TAR y carga viral), así como otros factores, como puede ser la prematuridad.
+@fin
+
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda la determinación aislada de PCR ARN de VHC en el hijo de madre con infección por VHC. Dado que la viremia puede ser fluctuante en el lactante, y que por otro lado existe posibilidad de aclaramiento espontáneo de la infección, el protocolo de seguimiento se basa en la determinación tanto de la PCR ARN de VHC en los primeros meses de vida, así como de la serología a partir de los 18 meses de vida.
+@fin
+
+@p 145
+@bib
+1. Gilleece Y, Tariq S, Bamford A et al. British HIV Association guidelines for the management of HIV in pregnancy and postpartum 2018. HIV Med 2019; 20 Suppl 3: s2-s85.
+2. Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. Accesed 17/Aug/2022. Available at https://clinicalinfo.hiv.gov/en/guidelines/perinatal.
+3. Grupo de expertos de la Secretaría del Plan Nacional sobre el Sida (SPNS), Grupo de Estudio de Sida (GeSIDA)/Sociedad Española de Ginecología y Obstetricia (SEGO) y Sociedad Española de Infectología Pediátrica (SEIP). Documento de consenso para el seguimiento de la Infección VIH con relación a la reproducción, el embarazo y la prevención de la transmisión vertical del niño expuesto. Enero 2018. Disponible en http://www.msc.es.
+4. NHS. UK Standards for Microbiology Investigations Vertical and perinatal transmission of hepatitis C. Accesed 17/Aug/2022. Avaliable at: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/768829/V_8i3.pdf.
+5. Indolfi G, Easterbrook P, Dusheiko G, et al. Hepatitis C virus infection in children and adolescents. Lancet Gastroenterol Hepatol 2019;4:477-487.

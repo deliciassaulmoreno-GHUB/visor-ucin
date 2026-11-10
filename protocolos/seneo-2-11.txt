@@ -1,0 +1,80 @@
+@f 14. Protocolos SENEO/2.11. Hijo de madre diabética
+@p 113
+# 2.11 HIJO DE MADRE DIABÉTICA
+
+*Natalia Mandiá Rodríguez, Ana María Baña Souto*
+
+*Hospital Clínico Universitario de Santiago de Compostela*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 99-102 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La diabetes materna puede ser
+
+- Pregestacional: Diabetes mellitus (DM) tipo 1 o DM tipo 2 diagnosticada antes del embarazo, con una tasa de prevalencia del 1,8%
+- Gestacional: Diabetes diagnosticada durante el embarazo con una tasa de aparición de 7,5%. La diabetes en el embarazo se asocia con un mayor riesgo de complicaciones fetales, neonatales, y a largo plazo. El pronóstico está relacionado generalmente con el inicio y la duración de la intolerancia a la glucosa durante el embarazo, y la severidad y el control de la diabetes de la madre.
+
+**Efectos fetales**
+En el primer trimestre, la hiperglucemia materna puede causar embriopatía diabética, lo que resulta en defectos congénitos importantes y abortos espontáneos; esto ocurre principalmente en embarazos con diabetes pregestacional. Por otra parte, en la diabetes gestacional el riesgo de malformaciones aumenta a medida que aumentan los niveles de glucosa en sangre en ayunas y el índice de masa corporal de la madre cuando esta se diagnostica en las primeras etapas del embarazo.
+
+Después de la octava semana de la concepción, el feto puede desarrollar defectos ocasionados por la diabetes, lo que comúnmente se denomina como «fetopatía diabética por hiperinsulinismo», que es ocasionada por los desajustes metabólicos y la afectación del crecimiento intrauterino.
+
+**Efectos neonatales**
+Los recién nacidos de una madre diabética tienen mayor riesgo de mortalidad y morbilidad en comparación con los neonatos nacidos de una madre no diabética. Aunque el tratamiento con insulina a la madre, y el uso intensivo de atención prenatal y neonatal han mejorado el pronóstico, las complicaciones neonatales y anomalías congénitas observadas en los embarazos de madre diabética contribuyen a un aumento de la morbimortalidad. El control estricto de glucemia pre-concepcional y durante el embarazo se asocia con una menor morbilidad y mortalidad perinatal.
+@p 114
+## 2 Clínica
+
+**2.1. Manifestaciones clínicas por el hiperinsulinismo materno (Tabla 1)**
+| {2} **Tabla 1** |
+|---|---|
+| **MANIFESTACIONES** // Síntomas y signos clínicos | **CARACTERÍSTICAS** |
+| Macrosomía | • Mayor incidencia en las diabetes maternas pregestacionales sin afectación vascular // • Aumento del peso y la longitud. El perímetro craneal se mantiene dentro de percentiles. // • Excesiva acumulación de grasa en región abdominal y escapular. |
+| Retraso del crecimiento intrauterino (RCIU) | • Madres con vasculopatía y flujo placentario disminuido. |
+| Distrés respiratorio | • Debido a déficit de surfactante. // • Secundario a miocardiopatía. // • La taquipnea transitoria es más frecuente en estos niños. |
+| Hipoglucemia | • Riesgo mayor hasta los 4 días de vida. // • Pruebas adicionales si perfusión de glucosa superior a 10 mg/kg/min a partir de los 7 días de vida. |
+| Hipocalcemia e hipomagnesemia | • Riesgo hasta los 3 días de vida. // • Clínica: Temblor, letargo, apnea, convulsiones. |
+| Policitemia | • Debido a focos extramedulares de hematopoyesis y eritroblastos abundantes secundarios al hiperinsulinismo. |
+| Hiperbilirrubinemia | • Debido a inmadurez hepática y poliglobulia |
+| Cardiomiopatía | • Cardiomiopatía hipertrófica transitoria // • Produce una obstrucción de la salida de ventrículo izquierdo // • Tratamiento: β-bloqueantes, restricción de líquidos. |
+| Prematuridad | • Debido a hipertensión materna y/o preeclampsia |
+| Lesión de nacimiento | • Distocia de hombros, lesión del plexo braquial, fracturas claviculares // • Fracturas humerales // • Asfixia perinatal // • Cefalohematoma, hemorragia subdural, parálisis facial |
+
+**2.2. Anomalías congénitas**
+Los recién nacidos de una madre diabética tienen un riesgo significativo de anomalías congénitas importantes debido a la hiperglucemia materna en el momento de la concepción y durante la gestación temprana. El riesgo total reportado para malformaciones importantes es aproximadamente de 5% a 6%, con una mayor tasa de prevalencia de 10%
+@p 115
+a 12% cuando las madres requieren tratamiento con insulina. Este riesgo puede reducirse con el control glucémico estricto durante los períodos pre y periconcepcional (primeras ocho semanas de embarazo).
+
+Anomalías principales:
+- Malformaciones cardiovasculares: Transposición de grandes arterias, Ventrículo derecho con doble salida, Defecto septal ventricular, Atresia tricúspide y Ductus arterioso permeable.
+- Neurológicas: Anencefalia y espina bífida.
+- Anomalías esqueléticas: Contracción de la flexión de las extremidades, anomalías vertebrales, paladar hendido.
+- Síndrome de colon izquierdo pequeño: puede presentar íleo meconial, con dificultad para eliminar meconio.
+
+## 3 Manejo
+@deimg
+| | |
+|---|---|
+| **PARTO** | · Atención neonatal rutinaria // · Valoración de estado clínico // · Exploración física detallada: Identificar anomalías congénitas |
+| ↓ | · Si no requiere reanimación: PIEL CON PIEL // · Determinación de glucemia en primera hora // · Controles seriados de glucemia las primeras 24 horas. Realizar ANTES de la toma. |
+| ↓ | · Si glucemia pretoma <40 mg/dL y asintomático: Asegurar administración de alimentación ORAL y comprobar adecuado ascenso de valores de glucemia. // · Si persiste hipoglucemia a pesar de adecuada tolerancia oral: Glucosa vía O/IV e INGRESO. // · Si hipoglucemia SINTOMÁTICA (letargia, convulsión): Glucosa IV e INGRESO. |
+| **SEGUIMIENTO** | · Vigilar hematocrito, bilirrubina y calcemia // · Revisión cuidadosa: Descartar MALFORMACIONES // · Descartar MIOCARDIOPATÍA HIPERTRÓFICA // · Revisar eliminación MECONIO |
+@findeimg
+! En el PDF es una columna de cuatro flechas hacia abajo (la primera rotulada PARTO y la última SEGUIMIENTO), cada una con su recuadro; las flechas «↓» las he puesto yo para las dos sin rótulo.
+
+@caja
+**SE RECOMIENDA**
+- Es importante prestar especial atención a aquellas madres con mal control glucémico durante la gestación, ya que se ha asociado a un aumento de la morbimortalidad.
+- Realizar un examen físico al nacimiento por mayor riesgo de anomalías congénitas y distrés respiratorio.
+- Realizar controles periódicos glucémicos pretoma las primeras 24 horas de vida y asegurar que la alimentación está bien establecida
+- Vigilar el hematocrito, la bilirrubina y el calcio y valorar realizar una determinación antes del alta.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Ingreso rutinario en la Unidad/Servicio de Neonatología para control de estos pacientes. Solo si presenta complicaciones: hipoglucemia, distrés respiratorio, mala tolerancia oral...
+@fin
+@bib
+1. Kallem VR, Pandita A, Pillai A. Infant of diabetic mother: what one needs to know?. J Matern Fetal Neonatal Med. 2020;33:482-492.
+2. Battarbee AN, Venkatesh KK, Aliaga S, Boggess KA. The association of pregestational and gestational diabetes with severe neonatal morbidity and mortality. J Perinatol. 2020;40:232-239.
+3. Werner EF, Romano ME, Rouse DJ, et al. Association of Gestational Diabetes Mellitus With Neonatal Respiratory Morbidity. Obstet Gynecol. 2019;133:349-353.
+4. Committee on Fetus and Newborn, Adamkin DH. Postnatal glucose homeostasis in late-preterm and term infants. Pediatrics 2011; 127:575.
+5. Nold JL, Georgieff MK. Infants of diabetic mothers. Pediatr Clin North Am 2004; 51:619.

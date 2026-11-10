@@ -1,0 +1,123 @@
+@f 14. Protocolos SENEO/2.3. Consulta prenatal
+@p 65
+# 2.3 CONSULTA PRENATAL
+
+*Roser Porta, Gemma Ginovart*
+
+*Hospital Universitari Germans Trias i Pujol, Badalona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 51-55 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Justificación y objetivos
+
+La consulta prenatal (CP) con el neonatólogo en casos de malformaciones congénitas o en situaciones de alto riesgo perinatal se ha convertido en una práctica rutinaria. Constituye una oportunidad para sentar las bases de la relación de confianza entre los padres y el equipo neonatal. De la calidad de la CP pueden depender decisiones tan trascendentes como la de interrupción o continuación del embarazo, el estado anímico de los padres tras el parto y la calidad del vínculo que establecerán con su hijo. Por ello, la CP requiere un alto nivel de habilidades comunicativas y un buen conocimiento de las expectativas de los padres.
+
+En la CP suelen intervenir diversos profesionales: obstetras, genetistas, especialistas en diagnóstico fetal, etc. Entre ellos, el neonatólogo aporta, además de una perspectiva integral sobre la patología, información más concreta sobre el escenario en el que será atendido el recién nacido (RN).
+
+Los objetivos de la CP son:
+- Ofrecer información a los padres que les ayude a tomar decisiones y a disminuir la incerteza.
+- Identificar las inquietudes de los padres y ofrecer apoyo. La prioridad es reconocer la individualidad de los padres y personalizar la visita.
+- Reforzar y preparar a los padres como cuidadores principales de su hijo.
+
+## 2 Indicaciones de la CP
+
+- Malformaciones congénitas mayores o menores
+- Anomalías genéticas
+- Situaciones de riesgo perinatal: amenaza de parto prematuro en edad gestacional (EG) periviable o en cualquier EG, embarazo múltiple, restricción del crecimiento intrauterino, o cualquier situación que suponga una probabilidad de ingreso en la unidad neonatal.
+
+__Situaciones posibles según grado de urgencia__ (Tabla 1)
+@p 66
+| {4} **Tabla 1. Tipos de Consulta prenatal** |
+|---|---|---|---|
+| **Grado de urgencia** | **Situaciones** | **Escenario** | **Prioridad** |
+| CP urgente | Límites de la viabilidad con riesgo de parto inminente | Sala de partos, habitación | Establecer **confianza con el equipo asistencial** |
+| CP semiurgente | Amenaza de parto prematuro no inminente, rotura prematura de membranas 24 semanas, malformaciones congénitas graves < 24 semanas (límite legal interrupción gestación) | Habitación, consulta ambulatoria | **Información de calidad** seguida de discusión conjunta de padres con equipo asistencial para **toma de decisiones** si es el caso (conducta activa o no activa en límites de viabilidad, interrupción legal del embarazo) |
+| CP no urgente | Riesgo de parto prematuro // Malformación congénita no grave | Consulta ambulatoria, habitación | **Información** de calidad: pronóstico y calidad de vida futura, explicar **escenario** neonatal |
+
+## 3 ¿Quién realiza la CP?
+
+Es aconsejable que **el neonatólogo** encargado de la CP sea el **más experto** disponible. A la vez, se debe promover la **formación de neonatólogos jóvenes,** puesto que muchas situaciones se darán de forma imprevista en horarios laborales de guardia.
+
+- En los casos de defectos congénitos y/o anomalías cromosómicas, el neonatólogo encargado de la CP debería **coordinarse con el resto de especialistas** (genetistas, obstetras, cirujanos) e idealmente realizar la CP de forma planificada y conjunta. La finalidad es evitar información discordante y consolidar la confianza de los padres en el equipo asistencial.
+- En los casos en que se prevea ingreso en la unidad neonatal, **incluir a personal de enfermería** en la CP,junto al neonatólogo. Enfermería representa a los profesionales que más tiempo estarán junto al RN y pueden dar una mejor respuesta a muchas de las inquietudes de los padres sobre los cuidados terapéuticos y básicos.
+
+**Enfoque y contenido de la visita**
+El **modelo de CP** que se propone en la actualidad es el **‘centrado en la familia’**. Se basa en:
+- **Individualizar la CP** para adaptarla a las particularidades de cada familia y responder a sus necesidades concretas. Se aconseja la escucha activa, los silencios y evitar hablar en exceso. De este modo, es más probable que los padres nos hablen sobre sus preferencias, miedos, valores y esperanzas, y podamos dar una información más personalizada y que dé respuesta a lo que los padres esperan.
+- **Evitar el modelo clásico de CP basado sólo en proporcionar información.** Si bien las familias están interesadas en datos pronósticosy posibilidades de supervivencia, en la mayoría de ocasiones no tienen la elección de tomar decisiones (EG igual o mayor a 24 semanas), y les preocupan otros aspectos del cuidado neonatal: escenario en el que será atendido el RN, qué aspecto tendrá cuando nazca, qué profesionales le tratarán, cuál será su rol en los cuidados, como se alimentará, si
+@p 67
+podrán tenerlo en brazos tras el parto, cuanto tiempo estará ingresado.
+
+- Usar habilidades comunicativas basadas en **compasión, sensibilidad y honestidad.**
+- **Permitir la esperanza.** Todos los estudios efectuados en este campo describen la importancia para los padres de recibir una información equilibrada, no sólo enfocada en los resultados negativos. A pesar de estar informados de lo que puede suceder, destacar que la mejor evolución siempre es posible. Evitar el ‘duelo anticipatorio’. Poner ejemplos de otros pacientes que han pasado por la misma situación y la han superado (fotos en la unidad, asociaciones de padres).
+- Si la situación que motiva la CP se produce en un centro que por nivel asistencial no atiende RN con esa patología (por ejemplo riesgo de parto prematuro en los límites de la viabilidad), se aconseja contactar con el equipo obstétrico y neonatal del centro regional de referencia para categorizar el riesgo y las posibilidades de supervivencia, y elaborar un plan de traslado si es posible. De esta forma, la información que se proporcione a la familia desde el centro emisor será probablemente menos pesimista y más completa.
+
+## 4 Guía para una CP de calidad
+
+1. Preparación
+
+a. Revisión de la historia clínica materna: datos médicos y sociales
+
+b. Revisión de la literatura, actualización sobre la patología, tasas de supervivencia en el propio centro y en el entorno
+
+c. Programar visita con todos los intervinientes (médicos y enfermera neonatal si es el caso) y concertar CP con los padres: duración de 30-60 minutos, libre de interferencias.
+
+d. Ofrecer presencia de otros familiares si lo desean.
+
+e. Buscar espacio tranquilo e íntimo: habitación de hospital, despacho de consultas. Silenciar el móvil, evitar interrupciones.
+
+2. Desarrollo
+
+a. Presentarse: nombre y cargo. Presentar a todos los intervinientes
+
+b. Sentarse a la altura visual de los pacientes
+
+c. Preguntar el nombre del futuro hijo y referirse a él por su nombre. En caso de que aún no tengan nombre, referirse en el sexo correcto *(vuestra hija/ vuestro hijo).*
+
+d. Escucha activa. Explorar situación emocional, deseos, expectativas, preocupaciones, sentimientos de culpa, creencias, valores morales y culturales. Permitir que los deseos de los padres enmarquen la conversación. Ejemplos de frases útiles: *¿Cuál es vuestro miedo principal? ¿Qué es lo más importante para vosotros como familia? ¿Tenéis alguna situación familiar o laboral complicada? ¿Qué esperáis de la visita? ¿Qué puedo hacer por vosotros?*
+
+e. Información (Tabla 2):
+@p 68
+  - Evitar el argot médico y el exceso de información, y explicar solo complicaciones que puedan ser relevantes. Ejemplos de frases útiles: ¿Preferís datos estadísticos, o conceptos generales?
+
+  - Explicar lo que sucederá en los primeros minutos tras el parto: que aspecto tendrá su hijo, que podrán verlo en sala de partos y la pareja podrá acompañar al equipo en el traslado a la unidad en caso de ingreso, o si podrán cogerlo en brazos.
+
+  - Explicarles su rol como padres, en caso de ingreso en la unidad neonatal: cuidadores principales, participación en los cuidados básicos.
+
+  - Reforzar el consejo de lactancia materna
+
+  - Fomentar la esperanza: ejemplos de pacientes con evolución positiva
+
+*En los 3 últimos aspectos es fundamental la participación de enfermería.
+
+3. Cierre:
+
+a. Verificar que se ha entendido la información. Ofrecer resumen de los aspectos comentados.
+
+b. Ofrecer una visita a la unidad neonatal, a ambos si es posible o a la pareja si la madre no puede desplazarse. En estos casos resulta muy útil disponer de un video de la unidad (entorno y profesionales).
+
+c. Ofrecer siguientes visitas prenatales en caso de que sea necesario.
+
+| **Tabla 2. Información en amenaza de parto prematuro en edad periviable** |
+|---|
+| • Ser cuidadoso con las fuentes de información sobre morbimortalidad que se escogen. Se aconseja usar datos del propio centro basados solo en prematuros tratados de forma activa. // • Ser honesto en casos de prematuros muy extremos (23 semanas); este grupo de pacientes no se ha tratado de forma proactiva en la mayoría de unidades de nuestro entorno hasta hace pocos años, con lo cual los datos pronósticos pueden ser muy inciertos. Ejemplo: *No tenemos mucha experiencia con niños de 23 semanas, hasta hace poco no los reanimábamos de forma activa. Hemos cambiado nuestro enfoque porque en otros países se ha demostrado que pueden tener una buena calidad de vida si superan el periodo neonatal sin patologías graves. Sea cual sea vuestra decisión, le cuidaremos de la mejor forma posible.* // • Si es necesario para la toma de decisiones, explicar a los padres que algunas secuelas clasificadas como moderadas o graves pueden tener un impacto en la calidad de vida menor de lo supuesto (afectaciones motoras o sensoriales susceptibles de ser corregidas) |
+@caja
+**SE RECOMIENDA**
+- Enfoque individualizado de la CP, adaptado a las necesidades de cada familia
+- Explorar inquietudes, creencias, valores, temores de los padres
+- Proporcionar información adaptada a los deseos de los padres y a la situación
+- Permitir la esperanza
+@p 69
+- Coordinar a los intervinientes en la CP. Incluir a enfermera neonatal si se anticipa ingreso
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Improvisar la CP sin preparación previa
+- Dar información excesiva. Enfocar la CP como un acto meramente informativo.
+- Usar fuentes estadísticas inadecuadas para informar sobre pronóstico
+@fin
+@bib
+1. Lantos JD. What is the Purpose of Antenatal Counseling? J Pediatr 2018; 196:8-10.
+2. Haward MF, Gaucher N, Payot A, et al. Personalized Decision Making: Practical Recommendations for Antenatal Counseling for Fragile Neonates. Clin Perinatol 2017; 44:429-445.
+3. Gaucher N, Nadeau S, Barbier A, Payot A. Antenatal consultations for preterm labour: how are future mothers reassured? Arch Dis Child Fetal Neonatal Ed. 2018;103:F36-F42.
+4. von Hauff P, Long K, Taylor B, van Manen MA. Antenatal consultation for parents whose child may require admission to neonatal intensive care: a focus group study for media design. BMC Pregnancy Childbirth. 2016;16:103.
+5. Kharrat A, Moore GP, Beckett S, et al. Antenatal Consultations at Extreme Prematurity: A Systematic Review of Parent Communication Needs. J Pediatr 2018; 196:109-115.e7.

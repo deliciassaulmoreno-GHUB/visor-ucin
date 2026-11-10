@@ -1,0 +1,70 @@
+@f 14. Protocolos SENEO/2.2. Rotura prematura de membranas. Corioamnionitis
+@p 61
+# 2.2 ROTURA PREMATURA DE MEMBRANAS. CORIOAMNIONITIS
+
+*José Luis Leante Castellanos*
+
+*Hospital General Universitario Santa Lucía, Cartagena*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 47-50 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Rotura prematura de membranas
+
+Con el término rotura prematura de membranas hacemos alusión a la pérdida de integridad de la membrana amniótica que tiene lugar antes de la semana 37 de gestación. Esta complicación ocurre en el 3-4% de los embarazos y puede tener lugar por procedimientos invasivos como la amniocentesis, o por el adelgazamiento de las capas que la componen. La mortalidad y morbilidad neonatal será mayor cuanto menor es la semana en la que se produce dicha rotura, siendo la supervivencia esporádica por debajo de la semana 20 y ascendiendo hasta el 60% en la semana 25. Cuando se produce entre las semanas 20 y 26 de embarazo, hablamos de rotura en el límite de la viabilidad (0,5% de los nacimientos).
+
+La rotura prematura de membranas precipita el nacimiento en el 80% de los casos, habiendo un periodo de latencia desde su aparición hasta que tiene lugar el parto. Este periodo es más corto cuanto más tardía es la rotura, con más de la mitad de los nacimientos teniendo lugar en la semana posterior cuando se produce por encima de la semana 29 de gestación. Periodos de latencia más largos mitigan el grado de prematuridad y las complicaciones que esta asocia, pero aumentan el riesgo de problemas inflamatorios e infecciosos sobre el feto y la madre. Además, la reducción de volumen de líquido amniótico puede favorecer otras complicaciones en la gestación.
+
+**1.1. Complicaciones neonatales relacionadas**
+**Prematuridad**
+La edad gestacional a la que se produzca el nacimiento es el mayor determinante pronóstico cuando se produce una rotura prematura de membranas. Prolongar el tiempo de latencia, por tanto, mejoraría la supervivencia, aunque algunos estudios sugieren que latencias muy largas podrían asociar un peor pronóstico motor y mental. Estudios observacionales apuntan a que la rotura prematura de membranas podría ser un factor de riesgo independiente en el desarrollo de complicaciones neonatales como la enterocolitis necrosante o la retinopatía de la prematuridad.
+
+**Inflamación – infección**
+La rotura prolongada de membranas entraña un mayor riesgo de infección intraamniótica, situación que se estima que ocurre en un 35% de los casos. El mecanismo más habitual sería por medio de una colonización ascendente que suele producirse en la semana posterior a la rotura. Por otro lado, también se postula que, en algunos casos, la infección puede ser
+@p 62
+previa a la rotura, y que es el efecto de ciertas proteasas liberadas por las bacterias el que alteraría la integridad de la membrana amniótica. La infección intraamniótica aumenta el riesgo de sepsis neonatal, así como el de otras complicaciones, tal y como se detalla en el apartado 2.
+
+**Oligoamnios**
+La reducción en el volumen de líquido amniótico que se produce ante la pérdida de integridad de la membrana amniótica va a suponer una mayor incidencia de determinados eventos obstétricos y fetales.
+
+El líquido amniótico es fundamental en el desarrollo pulmonar y su escasez en fases críticas de esta formación va a dar lugar a una arborización deficiente de los bronquiolos, una epitelización alveolar pobre con menos pneumocitos tipo II, un infradesarrollo de la red vascular y, en definitiva, unos pulmonares hipoplásicos e inmaduros al nacimiento. El oligoamnios, además, entraña un entorno restrictivo de espacio para el crecimiento del feto y esto puede favorecer contracturas articulares u otras deformidades musculoesqueléticas en éste. Además, se ve favorecida la aparición de bandas amnióticas que pueden ocasionar amputaciones de extremidades, lesiones craneofaciales, deformidades de la pared abdominal, etc. Por último, existe un aumento en la aparición de eventos como el desprendimiento de placenta o los relacionados con el cordón umbilical que suponen un riesgo de pérdida del bienestar del feto.
+
+**1.2. Actuación ante la rotura prolongada de membranas**
+**Actuaciones prenatales**
+Las actuaciones obstétricas van a ser cruciales en el pronóstico neonatal. Dentro de ellas, la tocolisis permite en muchos casos prolongar el tiempo de latencia al menos 48 horas. Este periodo es fundamental para poder trasladar a la gestante a un centro de referencia si fuera preciso, administrar la pauta de maduración con corticoides y de sulfato de magnesio como neuroprotector, así como antibióticos a la madre. Sin embargo, una tocolisis prolongada no ha demostrado conseguir un menor grado de prematuridad ni reducir la mortalidad o morbilidad neonatal.
+
+El beneficio de la maduración con corticoides para mejorar el pronóstico ante un nacimiento muy prematuro está ampliamente establecido en la actualidad. Sin embargo, ante una rotura de membranas temprana, existe controversia sobre el momento óptimo para indicarla y si es conveniente pautar dosis sucesivas. En este sentido, estudios recientes apuntan a que el efecto de los corticoides se constata en semanas tan tempranas como la 23. Por otro lado, administrar una dosis de rescate, en términos globales, podría contribuir a reducir la mortalidad. Se puede contemplar su indicación por debajo de las 34 semanas y separada 1-2 semanas del ciclo inicial. En cualquier caso, estas decisiones se deben adecuar a las prácticas y límite establecido de viabilidad de cada centro.
+
+El uso de antibióticos ha demostrado utilidad en reducir la incidencia de infección intraamniótica y con ello el riesgo de sepsis neonatal precoz. Además, los antibióticos se asocian con periodos de latencia más largos medidos a las 48 horas y a los 7 días de la rotura de membranas. Se ha sugerido una reducción en la estancia hospitalaria y las lesiones en la neuroimagen de los recién nacidos cuando se emplean ante una rotura prolongada de membranas.
+@p 63
+**Actuaciones posnatales**
+Las actuaciones posnatales irán enfocadas a las complicaciones concretas que desarrolle el recién nacido, que se han resumido en el apartado 1.1 y que no son el objetivo de este protocolo.
+
+Respecto a la hipoplasia pulmonar, una de las cuestiones que ha generado más controversia es la utilidad del óxido nítrico inhalado como medida de tratamiento de la hipertensión pulmonar que asocian estos pacientes. La evidencia más reciente disponible en la actualidad no ha conseguido demostrar beneficios de esta terapia en reducir la mortalidad ni en mejorar el pronóstico neurológico o respiratorio.
+
+## 2 CORIOAMNIONITIS
+
+La infección que tiene lugar en el interior de la cavidad amniótica se conoce por el término corioamnionitis o infección-inflamación intraamniótica. El mecanismo principal por el que se produce es la invasión ascendente de gérmenes que colonizan el tracto genital inferior, aunque también se ha descrito en el contexto de procedimientos invasivos o por diseminación hematógena. Se estima que esta complicación afecta a un 5% de las gestaciones.
+
+La definición más reciente para esta entidad es la propuesta por el *American College of Obsetricians and Gynecologists* que considera esta entidad cuando se detecta una fiebre materna de ≥39° C o una temperatura de 38,0-38,9 °C, con al menos un factor de riesgo adicional (taquicardia fetal 160 latidos/minuto, leucocitosis materna > 15.000 o líquido purulento o con citobioquímica/microbiología compatible). Una fiebre de < 39 °C, en ausencia de factores de riesgo, se considera como fiebre materna aislada y, con frecuencia, es debida a otros desencadenantes de origen no infeccioso como son la anestesia epidural, la deshidratación materna o la administración de prostaglandinas. La existencia de una corioamnionitis entraña riesgos tanto para la madre como para el recién nacido. Entre las complicaciones maternas estarían un parto distócico, la atonía uterina postparto y la endometritis con riesgo de peritonitis y sepsis.Desde el punto de vista neonatal, se ha sugerido un riesgo de sepsis vertical confirmada microbiológicamente del 1% de forma global, siendo mayor cuanto menor es la edad gestacional. También se ha descrito una mayor incidencia de displasia broncopulmonar y parálisis cerebral, debido al estado inflamatorio inherente a esta situación.
+! Así en el PDF: «taquicardia fetal 160 latidos/minuto», sin signo delante de la cifra.
+
+**2.1. Actuación ante una corioamnionitis**
+**Actuación prenatal**
+Ante una fiebre materna con criterio de corioamnionitis, la conducta apropiada es administrar antibióticos acordes a la flora local más prevalente y progresar hacia la finalización de la gestación. Esta actitud reduce el riesgo de complicaciones maternas, así como la tasa de infecciones neonatales. El manejo es, sin embargo, más controvertido en lo referente a la fiebre materna aislada. El uso de antibióticos altera el microbioma materno y fetal, por lo que deben de indicarse de forma juiciosa. No tratar con antibióticos fiebres aisladas atribuibles a otras causas no infecciosas es una postura razonable.
+@p 64
+**Actuación neonatal**
+La conducta ante el riesgo de sepsis vertical ha migrado en los últimos años de una postura más intervencionista a una más expectante basada en la valoración holística de todos los factores de riesgo, la edad gestacional y la apariencia general del recién nacido. Se proporciona una explicación más detallada de este manejo en el protocolo de riesgo infeccioso y sepsis vertical.
+@caja
+**SE RECOMIENDA**
+- Ante una rotura prematura de membranas se recomienda administrar tocolisis y antibioterapia para prolongar el tiempo de latencia. Conseguir administrar la pauta de maduración con esteroides mejora el pronóstico.
+- Se recomienda vigilar los riesgos de infección o secundarios a oligoamnios en aquellos recién nacidos con antecedente de rotura prematura de membranas.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda el uso indiscriminado de antibióticos en madres con fiebre aislada atribuible a una causa no infecciosa, ni en recién nacidos con buen aspecto y riesgo bajo de sepsis vertical.
+@fin
+@bib
+1. Gibson KS, Brackney K. Periviable premature rupture of membranes. Obstet Gynecol Clin N Am 2020;47:633-651.
+2. Committee Opinion No. 712. American College of Obstetricians and Gynecologists. Intrapartum management of intraamniotic infection.. Obstet Gynecol 2017;130:e95- 101.
+3. Barrington KJ, Finer N, Pennaforte T. Inhaled nitric oxide for respiratory failure in preterm infants. Cochrane Database Syst Rev. 2017;1:CD000509.
+4. Randis TM, Rice MM, Myatt L, et al. NICHD Maternal-Fetal Medicine Units Network. Incidence of early-onset sepsis in infants born to women with clinical chorioamnionitis. J Perinat Med 2018; 48:926-933.
+5. Puopolo KM, Benitz WE, Zaoutis TE. Management of Neonates Born at ≥ 35 0/7 Weeks' Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics 2018; 142:e20182894.

@@ -1,0 +1,107 @@
+@f 14. Protocolos SENEO/2.1. Alteraciones del crecimiento intrauterino
+@p 56
+# 2.1 ALTERACIONES DEL CRECIMIENTO INTRAUTERINO
+*Laura Martínez Rodríguez, Elena Cubells García, Agustín Molina Merino*
+*Hospital Clínico Universitario de Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 42-46 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página. Las cuatro figuras son esquemas; se han redibujado con su mismo texto.
+
+## 1 Terminología
+Un feto se define como pequeño para la edad gestacional (PEG) cuando su peso fetal estimado está por debajo de un percentil específico para su edad gestacional, para una población determinada. Es, por tanto, un concepto estadístico basado en la distribución del peso fetal estimado dentro de una población. La Organización Mundial de la Salud (OMS) ha elegido de forma arbitraria el percentil 10 como umbral para definirlo.
+
+El feto con retraso del crecimiento intrauterino (RCIU) es aquel que no consigue su potencial de crecimiento intrínseco, determinado genéticamente, debido a una o más condiciones patológicas.
+
+Es importante distinguir ambos conceptos, ya que no todos los fetos PEG tienen un patrón anormal de crecimiento; en realidad, hasta un 70% de los fetos identificados como tales son sanos y “constitucionalmente pequeños”.
+
+## 2 Fases del crecimiento fetal (Figura 1)
+@deimg
+| **HIPERPLASIA** | **HIPERPLASIA // HIPERTROFIA** | **HIPERTROFIA** |
+|---|---|---|
+| 0 – 16 semanas | 17 – 32 semanas | 33 – 40 semanas |
+@findeimg
+*Figura 1. Fases del crecimiento fetal*
+! En el PDF las tres fases son flechas encadenadas de izquierda a derecha.
+
+@p 57
+## 3 Etiología y factores de riesgo del retraso del crecimiento intrauterino (Figura 2)
+@deimg
+| **FACTORES FETALES** | **FACTORES MATERNOS** |
+|---|---|
+| • Anomalías cromosómicas // • Alteraciones estructurales // • Infecciones congénitas | • Desnutrición // • Abuso sustancias // • Condición socioeconómica // • Enfermedades: diabetes, obesidad… |
+| **FACTORES PLACENTARIOS** | **FACTORES HORMONALES** |
+| • Resistencia de la circulación úteroplacentaria // • Factores protrombóticos | • Factores de crecimiento insulin-like // • Factores angiogénicos |
+@findeimg
+*Figura 2. Factores de riesgo de RCIU*
+! En el PDF los cuatro grupos son los cuadrantes de un círculo con flechas circulares en el centro.
+
+## 4 Consecuencias del RCIU (Figura 3)
+@deimg
+| **INCREMENTO MORTALIDAD** | **INCREMENTO MORBILIDAD (corto plazo)** | **INCREMENTO MORBILIDAD (largo plazo)** |
+|---|---|---|
+| - Hipoxia prolongada // - Asfixia perinatal // - Prematuridad // - Anomalías congénitas | - Aspiración de meconio // - Hipertensión pulmonar // - Isquemia intestinal → ECN // - Policitemia → Hiperviscosidad // - Hipoglucemia | - Alteraciones en el neurodesarrollo // - Hipótesis de Barker → Origen fetal de las enfermedades del adulto |
+@findeimg
+*Figura 3. ¿Qué consecuencias puede tener el RCIU?*
+! En el PDF los tres recuadros van sobre una gran flecha hacia la derecha.
+
+@p 58
+## 5 Diagnóstico y gravedad del RCIU (Figura 4)
+@deimg
+@flujo
+[**ANAMNESIS** // - Factores de riesgo etiológicos // - Antecedentes de RCIU]
+@cols
+[**EXPLORACIÓN CLÍNICA Y ANÁLISIS** // - Altura del fondo uterino // - Triple cribado // - Marcadores angiogénicos]
+---
+[**ECOGRAFÍA**]
+v
+· Valoración ecográfica del tamaño fetal // · Medición volumen de líquido amniótico // · Velocimetría Doppler: // ▸ A. umbilical // ▸ A. cerebral media // ▸ Ductus venoso
+@fincols
+@finflujo
+@findeimg
+*Figura 4. Diagnóstico del RCIU*
+! En el PDF los tres recuadros (anamnesis, exploración y ecografía) forman un triángulo unido por flechas de doble sentido; de ecografía sale una flecha hacia abajo con la lista.
+
+El seguimiento de la *medición ecográfica del tamaño fetal* junto a la *velocimetría Doppler* permite clasificar la gravedad del RCIU y orientar el manejo terapéutico (Tabla 1)
+
+| {3} **Tabla 1. Clasificación del RCIU** |
+|---|---|---|
+| **TIPO** | **PESO FETAL ESTIMADO** | **DOPPLER** |
+| CIR tipo I | < P3 | NORMAL |
+| CIR tipo II | < P10 | Índice Pulsatilidad en A. uterina > P95 |
+| CIR tipo III | < P10 | Flujo diastólico ausente en A. uterina |
+@p 59
+@pie Tabla 1. Clasificación del RCIU (continuación) TIPO PESO FETAL ESTIMADO DOPPLER
+| CIR tipo IV | < P10 | Índice Pulsatilidad en A. cerebral media < P5 |
+| CIR tipo V | < P10 | Inversión de flujo diastólico en A. uterina o // Índice Pulsatilidad > P95 en ductus venoso |
+
+La decisión de cuándo y cómo finalizar la gestación va a depender de la etiología, la gravedad de la enfermedad materna (si existe), la edad gestacional y la gravedad del retraso del crecimiento (Tabla 2).
+
+| {3} **Tabla 2. Finalización de gestación atendiendo al tipo de CIR** |
+|---|---|---|
+| **TIPO** | **FINALIZACIÓN** | **MODO DE PARTO** |
+| CIR tipo I | 40-41semanas | VAGINAL |
+| CIR tipo II | 37 semanas | VAGINAL |
+| CIR tipo III | 34 semanas | CESÁREA |
+| CIR tipo IV | 30 semanas | CESÁREA |
+| CIR tipo V | 26 semanas | CESÁREA |
+
+@caja
+**SE RECOMIENDA**
+- Distinguir entre PEG y retraso del crecimiento intrauterino.
+- Uso de gráficas de referencia adecuadas a cada población, como las las de la OMS para los niños a término
+- Doppler cerebral y de arteria mesentérica/tronco celíaco para valorar repercusión.
+- Nutrición trófica con lactancia materna o de donante. Retrasarla 24 horas en casos de repercusión importante en el Doppler.
+- Vigilar signos sugestivos de enterocolitis necrosante.
+@fin
+
+@caja
+**NO SE RECOMIENDA**
+- Retrasar la nutrición oral de forma prolongada.
+- Uso injustificado de antibióticos.
+- Mantenimiento prolongado de catéteres umbilicales, fundamentalmente arterial.
+@fin
+
+@p 60
+@bib
+1. WHO Expert Committee on Physical Status. Physical status: the use and interpretation of anthropometry. Technical report series 854. World Health Organization,1995. Geneva.
+2. Balchin I, Peebles D. Fetal growth, intrauterine growth restriction and small for gestational age babies. Textbook of Neonatology. Rennie JM Eds. 50 Edition. 2012; 175-188.
+3. Defectos del crecimiento fetal. Protocolos del Hospital Clinic de Barcelona 2019.
+4. Mari G. Fetal growth restriction: Evaluation and management. www.uptodate.com. Mar 16 2022.

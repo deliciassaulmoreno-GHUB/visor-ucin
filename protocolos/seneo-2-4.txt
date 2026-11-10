@@ -1,0 +1,121 @@
+@f 14. Protocolos SENEO/2.4. Límites de la viabilidad. Duelo perinatal
+@p 70
+# 2.4 LÍMITES DE LA VIABILIDAD. DUELO PERINATAL
+
+*Jose Luis Fernández Trisac*
+
+*Complexo Hospitalario Universitario de A Coruña (CHUAC)*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 56-61 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Límites de la viabilidad
+
+El nacimiento anticipado de un bebé de edad gestacional extremadamente baja (<25 semanas) plantea muchas cuestiones difíciles, y continúan existiendo variaciones en la práctica. Idealmente, las decisiones sobre el cuidado de los nacidos en la periviabilidad deberían estar bien documentadas, ser éticamente sólidas, consistentes dentro de los equipos médicos y estar en consonancia con los deseos de los padres.
+
+Al hablar del límite de viabilidad, lo más sencillo sería poder poner un límite preciso, por ejemplo, el peso, pero esto no es válido, ya que sabemos que es más determinante la edad gestacional. Por cada semana que se retrasa el nacimiento de un prematuro extremo aumenta un 10% la supervivencia. Por otro lado, en ocasiones, la edad gestacional es difícil de determinar con precisión y puede haber diferencia entre el aspecto morfológico y la supuesta edad gestacional.
+
+Todo ello nos lleva a preferir hablar de **INTERVALO DE VIABILIDAD,** mejor que de límite de la misma.
+
+Por tanto, **el umbral se debe establecer de forma individualizada,** hay factores intrinsecos que pueden mejorar el pronóstico (amenaza de parto prematuro, maduración con esteroides, sexo femenino, feto único, etc). Siempre teniendo en cuenta la opinión de los padres. Hay que informar con datos reales de supervivencia global, así como, con datos de mortalidad y morbilidad del propio centro (Figura 1).
+@deimg
+| **22 Semanas** | ⟵ **Biología y capacidad Tecnológica** ⟶ // **INTERVALO DE VIABILIDAD** // ⟵ **Valores Familiares. Entorno Social** ⟶ | **26 Semanas** |
+|---|---|---|
+@findeimg
+! En el PDF son dos flechas de doble punta (de rojo a la izquierda a verde a la derecha) entre «22 Semanas» y «26 Semanas».
+
+*Figura 1. Intervalo de viabilidad en el recién nacido*
+@p 71
+**Aspectos éticos**
+La neonatología es un campo proclive a los conflictos éticos, con frecuencia se nace en el límite de la capacidad que la medicina actual tiene para acompañar la vida de estos neonatos:
+
+Unas de las cuestiones que se plantean constantemente es :¿Se debe hacer todo lo que se puede hacer?.¿Hasta dónde lo razonable y cuando empieza lo fútil?.
+
+Fútil es todo tratamiento que, razonablemente, sabemos que no conduce a la curación, ni en el contexto que se aplica es necesario para los cuidados de la terapia paliativa.
+
+A veces el grado de frustración de los padres por el malogro de un hijo deseado o la sensación de fracaso de los profesionales por no sacar adelante al niño pueden llevar aponer en marcha terapias que no conducen a la curación ni cumplen criterios de mero cuidado.
+
+La neonatología actual maneja procesos asistenciales ocasionalmente impredecibles que nunca intentarán dañar, pero que se acompañan de un potencial de consecuencias devastadoras, lo que puede generar una **injusticia benevolente.** Los padres, como agentes subrogados autónomos del bebé, deben involucrarse en el curso de las decisiones en el tratamiento y, también, promover en los médicos los valores de su familia. En la medicina moderna, los pacientes desean involucrarse en las decisiones médicas, que cada vez tienen que estar más alejadas del frecuente paternalismo del pasado. Se debe considerar el nivel de atención que se puede prestar en cada centro y en función de sus posibilidades y resultados ofertar la atención en centros con mayor experiencia y mejores resultados en casos concretos, idealmente con traslado intraútero de la gestante.
+
+**Recomendaciones prácticas**
+El grupo de RCP neonatal de la SENeo establece unas recomendaciones orientativas que siguen estando perfectamente vigentes en la actualidad en nuestro entorno:
+- < 23 semanas: No reanimación. Medidas de confort.
+- 23^0^-23^6^ semanas: Individualizar. “Zona gris”. Decisión consensuada con los padres (tener en cuenta: datación precisa, corioamnionitis, maduración pulmonar, gemelaridad, nivel de cuidados del centro, necesidad de traslado, datos estadísticos del centro).
+- 24^0^-24^6^ semanas:Decisión individualizada, atendiendo a los factores anteriormente descritos. En centros de referencia, en presencia de buenas condiciones perinatales y en consenso con la decisión de la familia, se recomienda reanimación activa.
+- > 25 semanas: Reanimación activa.
+
+## 2 Duelo perinatal
+
+La muerte de un hijo para los padres es algo absolutamente prematuro y contra natura. Es, sin duda, la experiencia más devastadora que pueden sufrir. La mayoría no van a necesitar tratamiento profesional específico, pero a todos les resulta imprescindible el acompañamiento de los miembros del equipo asistencial que cuida a su hijo.
+@p 72
+Cuando se trata de un recién nacido, con frecuencia se minimiza el duelo de los padres, y se intenta quitarle importancia a la pérdida del bebé. Tengamos presente que el dolor de los padres no depende del tiempo compartido con su hijo, ni es menor por la posibilidad de tener otros hijos. Lamentablemente, en muchos casos, no es una muerte reconocida en todo su impacto familiar.
+
+**Definición**
+El término “duelo” procede del latín “dollus”, que significa “dolor”. También se vincula a “duellum” cuyo significado es “combate” o “guerra”. Ambos sirven de marco para describir un proceso de lucha con el que poder afrontar, aceptar y sobreponerse a un gran dolor emocional.
+
+El duelo es una reacción natural, normal y necesaria para poder adaptarse a una gran pérdida. Comprende una serie de sentimientos y emociones que cada persona experimenta de forma diferente. Se trata de una vivencia y un proceso individual, único e irrepetible. La experiencia del duelo afecta íntegramente a la persona que lo sufre, es decir, afecta a todas sus dimensiones; psicológica, emocional, física, social y espiritual.
+
+Si bien el duelo no es una enfermedad, **puede convertirse en algo patológico si se inhibe.** Algunos estudios demuestran que el duelo que experimentan los padres que deciden continuar con la gestación y adoptar medidas de confort tras el nacimiento después del diagnóstico de una anomalía fetal potencialmente letal, no es más grave que el de los que optan por terminar la gestación por dicho diagnóstico.
+
+**La información a los padres / familia**
+Cuando hablamos del método a seguir en el proceso de información a los padres / familia, hay que tener presente que pueden darse 3 tipos diferentes de situaciones:
+- La muerte del niño se produce de forma natural, pero aquí pueden darse dos circunstancias muy distintas:
+
+a) La muerte acontece de forma rápida tras el nacimiento, fulminante e inesperada.
+
+b) La muerte tiene lugar tras días o semanas de ingreso en la UCIN.
+
+- La muerte del niño se produce como consecuencia de aplicar medidas de adecuación del esfuerzo terapéutico.
+
+Pero independientemente de las circunstancias del fallecimiento, y de lo que estas, sin duda, representan para el impacto en la familia, el proceso de información ha de reunir una serie de características comunes a todas ellas.La comunicación es más que dar una noticia, es un proceso de doble dirección.
+
+**Recomendaciones comunes a la hora de informar. Actitudes a fomentar**
+- Presentarse
+- Buscar un entorno físico adecuado: tranquilo, privado y sin interferencias
+- Informar lo antes posible del fallecimiento
+- Dar información clara, veraz, con lenguaje adecuado al nivel de comprensión de los padres. Evitar tecnicismos
+- Dar información escalonada, repetirla cuantas veces sea necesario
+@p 73
+- Escucha activa; permitirles hablar, ser asertivos, parafrasear lo que dicen, utilizar palabras de refuerzo o resumir
+- Responder a sus preguntas con honestidad, aclarar sus dudas.
+- Darles el tiempo que necesiten, no hay prisa
+- Mantener la calma en el caso de que nos culpen por la muerte de su hijo
+- Ser coherentes en el mensaje verbal (lo que se dice) y el no verbal (cómo se dice, es decir: gestos, mirada, tono
+
+**¿Qué no debemos hacer?**
+- Tan importante como lo que decimos es lo que no debe decirse, hay algunas expresiones a evitar:
+- Expresiones para minimizar la pérdida: “La vida continúa”, “peor sería que…”, “es ley de vida”, “la naturaleza es sabia”.
+- Presiones o exigencias a los padres para que olviden lo ocurrido: “Olvídalo ya, ya paso”, “no le deis más vueltas”
+- Presiones o exigencias a los padres para que dejen de llorar o lamentarse: “No llores mas”, “Por mucho que llores no va a cambiar”, …
+- Sentenciar sobre la duración del duelo: “Con el tiempo que paso deberías estar mejor”, “la vida lo cura todo”, “el primer año es el peor”, …
+- Comentarios sobre la posibilidad de tener más hijos, o sobre los otros que tienen: “Ya tendrás más que eres joven”, “Ya tienes otro”, “anímate, hazlo por los otros hijos”, …
+
+**¿Qué podemos hacer?**
+- Informarles tal como hemos reflejado, explicarles sus opciones y apoyarles en sus decisiones. Nuestro papel es de informar, orientar y debido a su estado de shock, darles tiempo para decidir.
+- Cuidar la terminología. Utilizar el nombre de su hijo o hija. Es muy doloroso para padres y familiares que se les niegue la existencia de su bebé. La manera en que nos expresemos es crucial en esos momentos. Podemos expresar nuestro pesar con frases como: “siento lo que ha pasado”.
+- Se recomienda siempre ofrecer la posibilidad a padres/madres de ver, tocar, abrazar a su bebé fallecido y debemos respetar su criterio ante su modo de proceder en esta parte tan importante del duelo.
+- Favorecer la despedida. Los padres necesitan tiempo para pasar en intimidad con su hijo/a. Este tiempo generalmente no es limitado y son los propios padres quienes proponen su finalización. Se facilitará permanecer en una habitación a solas con su bebé y acompañados, si lo desean, de su familia.
+- Proporcionar intimidad, idealmente en una habitación acondicionada para el duelo.
+- Se señalizará la situación para conocimiento del personal de la unidad con algún
+@p 74
+distintivo, por ejemplo una guirnalda de mariposas colocada en la entrada de la Unidad para que todo el personal de la misma sepa la situación que se está viviendo en la Unidad neonatal a su llegada y actúe en consencuencia.
+
+- Se les ofrecerá la posibilidad de vestir a su bebé y recomendar conservar recuerdos de él (cajita de recuerdos). Si lo desean les ayudaremos a hacer fotos con su bebé. Las fotografías confirman que existió y murió. Recuerdan exactamente como era el bebé y posibilitan que puedan mostrar a su familia / amigos la existencia de su hijo.
+- Hablar con la madre y su pareja equitativamente. El padre no es un mero acompañante, también sufre. Ambos son partícipes en todo el proceso. Ofrecer a los familiares (abuelos, hermanos...) ver y tocar al bebé. Tratarlo con el máximo respeto y dar respuesta a las peticiones relacionadas con sus creencias religiosas y culturales.
+- Ofrecer la posibilidad de apoyo psicológico y contactar con sus servicios de atención primaria (pediatra, matrona, enfermera pediátrica, salud mental, ...) para establecer seguimiento.
+@caja
+**SE RECOMIENDA**
+- Nacidos con < 23 semanas con signos de vida ofertar solo cuidados de confort. 23- 25 semanas consensuar reanimación si es posible con los padres, si no es posible se debe actuar y reevaluar. >25 semanas reanimación activa. Tener en cuenta los resultados del propio Hospital al establecer el umbral.
+- La Zona gris o de incertidumbre de viabilidad no es estática. Cambiará con el tiempo, recursos, evolución tecnológica y científica.
+- La familia que pasa por el proceso de pérdida y duelo perinatal/neonatal no olvidará nunca a las personas que les informen o acompañen en ese proceso, los neonatólogos tenemos que familiarizarnos y actuar con profesionalidad en estas situaciones.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Tener presente las frases o expresiones que no se recomiendan ante una situación de duelo
+@fin
+@bib
+1. Gkiougki E, Chatziioannidis I, Pouliakis A, Iacovidou N. Periviable birth: A review of ethical considerations. Hippokratia. 2021; 25:1-7.
+2. Mercer BM. Periviable Birth and the shifting limit of viability. Clin Perinatol 2017 ; 44: 238-286.
+3. Bucher HU, Klein SD, Hendriks MJ, et al. Decision-making at the limit of viability: differing perceptions and opinions between neonatal physicians and nurses. BMC Pediatr. 2018 ;18:81.
+4. Depoers-Béal C, Le Baccon FA, Le Bouar G, et al. Perinatal grief following neonatal comfort care for lethal fetal condition. J Neonatal Perinatal Med. 2019;12:457-464.
+@p 75
+5. López, AP. Duelo Perinatal; un secreto dentro de un misterio. Rev Asoc Esp Neuropsia 2011; 31: 53-70.
+6. Arnáez J, Tejedor JC, Caserío S, et al. La bioética al final de la vida en neonatología: cuestiones no resueltas. An Pediatr (Barc). 2017; 87:356.e1-356.e12.
