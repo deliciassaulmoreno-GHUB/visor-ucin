@@ -55,8 +55,8 @@ const S={
   return{t:d.t,h:`<p>${tag(d.menu.includes("Sociedad")||d.t.includes("seNeo")?"SENEO":"HOSPITAL")} <span class="tag t-grey">${esc(d.v)}</span> ${old(d.v)?'<span class="tag t-warn">Revisar vigencia</span>':""}</p>
   ${d.lote===0?'<div class="note n-danger">Versión no vigente según la propuesta. Pendiente de archivar.</div>':""}
   ${ds.map(x=>`<div class="note n-warn"><b>${esc(x.tema)}:</b> ${esc(x.prop)}</div>`).join("")}
-  ${pr.length?`${d.sinpdf?"":`<div class="note n-warn">Transcrito del PDF para la app. Pendiente de tu validación.</div>`}${pr.map(x=>`<div class="proto">${x.h}</div>`).join('<hr class="pjunta">')}
-  ${d.sinpdf?"":`<div class="src">Original: ${docFiles(d).map(f=>`<a target="_blank" rel="noopener" href="${esc(pdfUrl(f))}">${esc(f.split("/").pop())}</a>`).join("<br>")}</div>`}`:`
+  ${pr.length?`${d.sinpdf&&!d.pdf?"":`<div class="note n-warn">Transcrito del PDF para la app. Pendiente de tu validación.</div>`}${pr.map(x=>`<div class="proto">${x.h}</div>`).join('<hr class="pjunta">')}
+  ${d.pdf?`<div class="src">Original: <a target="_blank" rel="noopener" href="${esc(pdfUrl(d.pdf,d.pag))}">${esc(d.pdf.split("/").pop())}, página ${d.pag}</a></div>`:d.sinpdf?"":`<div class="src">Original: ${docFiles(d).map(f=>`<a target="_blank" rel="noopener" href="${esc(pdfUrl(f))}">${esc(f.split("/").pop())}</a>`).join("<br>")}</div>`}`:`
   ${isImg?`<img class="fig" src="${esc(pdfUrl(d.f))}" alt="${esc(d.t)}">`:`<a class="btn primary" target="_blank" rel="noopener" href="${esc(pdfUrl(d.f))}">Abrir PDF original</a>`}
   <p class="kv"><b>Lectura en esta revisión:</b> ${{c:"completa",p:"parcial",t:"solo título y fecha"}[d.l]}</p>
   ${pg.length&&!isImg?`<div class="note n-warn">Texto extraído automáticamente: puede tener tablas desordenadas y haber perdido el símbolo µ. Compruébalo siempre en el PDF.</div>${pg.map(([p,t])=>`<details><summary>Página ${p}</summary><p class="pre">${esc(t)}</p><a class="btn" target="_blank" rel="noopener" href="${esc(pdfUrl(d.f,p))}">Abrir en la página ${p}</a></details>`).join("")}`:""}

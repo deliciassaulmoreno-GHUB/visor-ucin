@@ -1,0 +1,112 @@
+@f 14. Protocolos SENEO/1.7. Vacunación en la madre y período perinatal
+@p 50
+# 1.7 VACUNACIÓN EN LA MADRE Y PERÍODO PERINATAL
+
+*Héctor Boix Alonso^1^, Javier Álvarez Aldeán^2^*
+
+*^1^Hospital Universitario Dexeus, Barcelona. ^2^Hospital Costa del Sol, Marbella*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 36-40 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página.
+
+La vacunación durante la gestación y la vacunación en el niño prematuro (RNPT) generan una preocupación en la sociedad basándose, entre otros, en el principio equivocado de que, al ser más inmaduros, sus sistemas inmunes gestionarán con dificultad la vacunación. El concepto es justo el opuesto, el hecho de ser más vulnerables hace aún más importante protegerlos con las vacunas.
+
+En la gestante, la vacunación debe contemplar las siguientes premisas:
+- Debe ser una vacuna segura para la gestante y para el feto en desarrollo.
+- La gestación conlleva una mayor vulnerabilidad a ciertas infecciones como la gripe, COVID, etc.
+- Los anticuerpos generados por la vacunación de la gestante, y su paso a través de la placenta, tienen el potencial de proteger al recién nacido durante los primeros meses de vida.
+
+## 1 Vacunación antes del embarazo
+
+En aquellas mujeres que planean quedarse embarazadas se debería evaluar el nivel de inmunización frente a sarampión, rubeola, parotiditis y hepatitis B. Puede recibir todas las vacunas que estén indicadas según calendario vacunal con la única precaución de evitar la concepción al menos durante las 4 semanas siguientes a cualquier vacuna viva atenuada (triple vírica, varicela-zoster, fiebre amarilla y fiebre tifoidea oral).
+
+## 2 Vacunación durante el embarazo
+
+- *Recomendadas:* (Gripe, tosferina y SARS-CoV-2)
+
+La vacunación materna frente a la tosferina es la estrategia más efectiva para evitar la tosferina grave en el lactante pequeño. Las recomendaciones actuales recomiendan vacunar a partir de la semana 27, pero algunos RNPT nacen antes y no quedan protegidos. Por este motivo países como el Reino Unido, inician la vacunación a partir de la semana 16, aunque preferentemente tras la ecografía de alta resolución en la semana 20. Las recomendaciones de vacunación en RNPT
+@p 51
+del Ministerio de Sanidad y del Comité Asesor de Vacunas (CAV-AEP) contemplan la vacunación a partir de la semana 20 solo en gestantes con riesgo de parto prematuro.
+
+La vacunación antigripal en este período no solo protege a la mujer embarazada (con alto riesgo de complicaciones y de hospitalización), sino también al lactante durante los primeros meses de vida (cuando la vacuna aún no puede ser indicada en el niño). Existe, así mismo, evidencia de que la vacunación de la mujer embarazada retrasa el primer episodio de gripe y disminuye su gravedad en el niño.
+
+Las infecciones por SARS-CoV-2 en las gestantes conllevan un mayor riesgo de enfermedad grave y complicaciones, por lo que se recomienda la vacunación. Las vacunas de ARNm son eficaces y seguras en cualquier momento de la gestación.
+
+- *Valoración riesgo-beneficio:*
+
+Hay un grupo de vacunas no recomendadas rutinariamente que habría que evaluar el balance riesgo beneficio según el riesgo de exposición y la susceptibilidad materna. Entre ellas están las vacunas de calendario (hepatitis B, meningococos, neumococo, poliomelitis, tétanos y difteria) y las del viajero (cólera, encefalitis centroeuropea y japonesa, fiebre tifoidea parenteral, hepatitis A y rabia).
+
+- *No recomendadas:*
+
+Las vacunas atenuadas están contraindicadas (fiebre tifoidea oral, gripe intranasal, triple vírica y varicela-zóster). No se recomienda la vacuna del virus del papiloma humano. La de la fiebre amarilla dependerá del balance riesgo beneficio.
+
+El uso de inmunoglobulinas en la profilaxis postexposición (disponibles para sarampión, varicela, tétanos, rabia, hepatitis A y B) en embarazadas no está estudiado adecuadamente y habría que valorar riesgo/beneficio en cada caso.
+
+Los recién nacidos de madres que hayan recibido tratamiento inmunosupresor con productos biológicos no deben recibir vacunas atenuadas en el primer año de vida.
+
+## 3 Vacunación después del embarazo y lactancia materna
+
+La lactancia materna NO contraindica ninguna vacuna de la madre lactante o demás convivientes ni del recién nacido. Tan solo hay que tener las siguientes precauciones:
+- Un hijo de madre portadora de HBsAg que haya recibido tras nacer la profilaxis correcta de la hepatitis B (vacuna e inmunoglobulina) puede continuar con la lactancia materna.
+- La vacunación de la madre u otro conviviente frente a varicela-zóster si genera una erupción cutánea, hay que evitar el contacto con el lactante cubriendo la zona afecta.
+@p 52
+- En caso de lactante menor de 9 meses de una madre vacunada frente a fiebre amarilla, se debe suspender temporalmente la lactancia materna, desechando la leche durante 2 semanas para después reanudar de modo normal.
+
+## 4 Vacunación del prematuro
+
+Muchos RNPT cumplen los 2 meses de edad, fecha del inicio del calendario de vacunación, estando ingresados en la unidad neonatal, lo que plantea algunas peculiaridades en sus pautas de vacunación.
+
+Como ocurre con gran parte de los tratamientos utilizados en neonatología, la evidencia científica en la vacunación del RNPT es escasa y en muchos casos extrapolada de estudios de adultos o niños mayores.
+
+- *__Aspectos prácticos de la vacunación:__*
+
+*Cronología:* los RNPT deben recibir un esquema similar al recién nacido a término (RNAT), comenzando su programa de vacunación a los 2 meses de edad cronológica (posnatal), independientemente de su edad gestacional o peso al nacimiento, incluso si están ingresados.
+
+*Lugar de administración:* debido a la cantidad reducida de tejido celular subcutáneo y masa muscular, en los primeros 6 meses de vida las vacunas de administración intramuscular deben inyectarse en el tercio medio de la cara anterolateral externa del muslo, donde existe mayor cantidad de masa muscular. Se recomienda usar agujas más cortas, siendo de elección para ellos las de 25 G (naranja), 16 mm.
+
+*Número de inyecciones:* el número de inyectables sigue creciendo en los calendarios de vacunación. La experiencia acumulada en el RNPT con las vacunas combinadas (en particular las hexavalentes), demuestra una correcta seguridad y una buena respuesta inmune, consiguiendo que la vacunación sea mejor tolerada con un menor número de pinchazos.
+
+*Dosis:* la dosis unitaria (o carga antigénica) de cada vacuna es la misma a la empleada en un RNAT. No hay fundamento para el uso de dosis reducida o fraccionada y, por el contrario, esta práctica puede terminar en una respuesta inmune inadecuada.
+
+*Intervalos:* entre una y otra dosis del mismo antígeno deben existir, igual que en el resto de los niños, entre 4 semanas y 6 meses, aunque el intervalo mínimo suele ser, en general, de 8 semanas, dado el calendario implantado en España.
+
+*Vacunación del RNPT hospitalizado:* si el niño está hospitalizado cuando cumple los 2 meses debe ser vacunado teniendo en cuenta su estabilidad clínica. La vacunación puede, aunque de manera transitoria, empeorar su curso clínico, reapareciendo o aumentando el número de apneas o incrementando las desaturaciones o bradicardias. En cualquier caso, esta situación es poco frecuente y la mayoría de RNPT que alcanzan la edad de vacunación estando aun ingresados en la unidad neonatal pueden ser vacunados sin problemas. Tras la vacunación el niño debe estar monitorizado y, si se planea el alta, no debe vacunarse el mismo día, sino 48 o 72 horas antes. Particular atención hay
+@p 53
+que hacer a los niños vacunados frente a rotavirus para extremar medidas de aislamiento y evitar la transmisión del virus a otros niños al ser una vacuna viva atenuada de excreción en heces.
+
+*Protección indirecta:* la completa inmunización de las personas que conviven en el domicilio es obligada, para proteger al RNPT frente a infecciones inmunoprevenibles como la gripe, tosferina, etc. Todos, niños y adultos, deben tener al día los calendarios de vacunación. Los padres, cuidadores y todos los hermanos de estos niños deberían recibir anualmente la vacuna antigripal. Los profesionales que están al cuidado de los recién nacidos, y particularmente los RNPT, deben tener al día sus calendarios vacunales y especialmente frente a la gripe (anual) y tosferina (cada 10 años).
+
+**Calendario recomendado**
+Aun hoy día son necesarios datos adicionales para determinar cuál es el mejor esquema de vacunación para los RNPT. Aun cuando hay pocos datos que apoyen estas recomendaciones se acepta para los RNPT el mismo calendario y con la misma cronología que en los RNAT, incluyendo por lo tanto la vacunación frente al rotavirus y al meningococo B, a las que debe añadirse la vacunación antigripal en periodos de campaña estacional, a partir de los 6 meses de edad cronológica (Figura 1).
+@caja
+**SE RECOMIENDA**
+- La vacunación contra la gripe y la tosferina durante el embarazo.
+- Prestar atención a las vacunas vivas atenuadas antes y durante el embarazo.
+- Seguir las pautas del calendario vacunal del RNAT utilizando la edad cronológica del RNPT.
+- La vacunación contra el rotavirus y la gripe en RNPT.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Administrar vacunas al RNPT si clínicamente no estable o no puede estar bien monitorizado durante 48-72 horas.
+- Dar de alta al paciente RNPT sin haber recibido sus vacunas correspondientes.
+@fin
+@p 54
+@deimg
+| {2} **DECÁLOGO DE LA VACUNACIÓN DEL LACTANTE PREMATURO** |
+|---|---|
+| **01** | **MISMAS PAUTAS QUE EL RECIEN NACIDO A TÉRMINO** // Los recién nacidos prematuros (RNP) deben recibir el mismo esquema general de vacunación que los recién nacidos a término (RNT). La pauta de vacunación con hexavalente y neumococo conjugada es 2+1 (2, 4 y 11 meses). La respuesta inmunológica a las vacunas en los RNP es, en líneas generales, muy similar a la obtenida en el RNT. En caso de madre AgHbs (+) o desconocido, actuar igual que en RNT: vacuna hepatitis B + inmunoglobulina específica anti-hepatitis B. |
+| **02** | **ROTAVIRUS** // Los RNP con edad gestacional inferior a 32 semanas (hasta 31+6), deben recibir la vacunación frente al rotavirus, aunque se encuentren ingresados en la unidad de Neonatología. |
+| **03** | **GRIPE** // Los RNP con edad gestacional inferior a 32 semanas (hasta 31+6), deben recibir la vacunación frente a la gripe a partir de los 6 meses de edad y en los 2 primeros años de vida, así como sus convivientes (excepto convivientes menores de 6 meses). |
+| **04** | **VACUNACIÓN SEGÚN EDAD CRONOLÓGICA** // Los RNP deben ser vacunados de acuerdo con su edad cronológica, independientemente de su edad gestacional (EG) y de su peso al nacimiento. |
+| **05** | **EVITAR RETRASOS** // Salvo en situaciones excepcionales, no se debe retrasar la edad de la vacunación. |
+| **06** | **VACUNAS SEGURAS** // La seguridad de las vacunas en los RNP es alta y la reactogenicidad es similar a la de los RNT. Los lactantes prematuros de EG <28 semanas y/o de peso <1500 g tienen mayor riesgo de apnea y bradicardia en las 48-72 horas después de la vacunación, pero estos fenómenos son transitorios. |
+| **07** | **VACUNACIÓN SI CLINICAMENTE ESTABLES** // Los RNP que permanecen ingresados en el momento de la vacunación deben estar clínicamente estables y libres de acontecimientos cardiorrespiratorios, en particular las apneas y bradicardias, para ser vacunados. |
+| **08** | **VACUNACIÓN EN UNIDAD NEONATAL** // Si fuese necesario, los RNP pueden ser vacunados en la Unidad Neonatal si estuviesen aun ingresados, incluida la vacunación frente a rotavirus. En este último caso, se mantendrán las precauciones habituales en el manejo de pañales y heces con guantes y lavado de manos, sobre todo en la 1ª semana tras la vacunación. |
+| **09** | **GRIPE Y EMBARAZO** // Es fundamental la vacunación de las embarazadas frente a la gripe en cualquier trimestre de la gestación. Se ha observado que, entre otros beneficios, disminuye las posibilidades de parto prematuro. |
+| **10** | **TOSFERINA Y EMBARAZO** // Los RNP deben estar protegidos frente a la tosferina, con la vacunación de la embarazada, que está recomendada en la semana 27-28 de gestación. En embarazadas con alto riesgo de parto prematuro y clínicamente estables se puede valorar la vacunación a partir de la semana 20 de gestación. // Se recuerda que el personal sanitario que trabaja con prematuros debe estar adecuadamente vacunado según las recomendaciones vigentes. |
+@findeimg
+! En el PDF el decálogo es un cartel (imagen) con una foto de fondo; es la «Figura 1» que cita el texto, aunque no lleva ese rótulo. Se ha copiado a mano. Al pie del cartel van los logotipos de la Junta de Andalucía (Consejería de Salud y Familias), Andavac y las sociedades que lo avalan (seNeo, entre otras), y tres enlaces en letra demasiado pequeña para leerse.
+
+@bib
+1. Álvarez Aldeán J, Ares Segura S, Díaz González C, et al. Recomendaciones para la vacunación frente al rotavirus de los recién nacidos prematuros (ROTAPREM). An Pediatr 2019; 91:205.e1-7.
+2. Álvarez García FJ, Cilleruelo Ortega MJ, Alvárez Aldeán J, et al, en representación del Comité Asesor de Vacunas de la Asociación Española de Pediatría (CAV-AEP). Calendario de vacunaciones de la Asociación Española de Pediatría: recomendaciones 2022. An Pediatr (Barc). 2022; 96:59.e1-10.
+3. Comité Asesor de Vacunas de la Asociación Española de Pediatría. Vacunación de niños prematuros. [Internet]. Madrid: AEP; 2022.
+4. Comité Asesor de Vacunas de la Asociación Española de Pediatría. Vacunas y embarazo. [Internet]. Madrid: AEP; 2022.

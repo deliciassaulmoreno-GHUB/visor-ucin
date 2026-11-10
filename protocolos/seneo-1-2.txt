@@ -1,0 +1,156 @@
+@f 14. Protocolos SENEO/1.2. Antropometría y exploración física del recién nacido
+@p 22
+# 1.2 ANTROPOMETRÍA Y EXPLORACIÓN FÍSICA DEL RECIÉN NACIDO
+
+*Juan A. Ruiz Moreno, Mercedes Martínez Rebollo, Sergio A. Ocaña Jaramillo*
+
+*Hospital Costa del Sol, Marbella*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 8-13 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página.
+
+## 1 Antropometría
+
+Es importante valorar y documentar las medidas básicas del recién nacido para detectar posibles patologías.
+
+- __Peso__.
+- __Longitud:__ desde la parte superior de la cabeza hasta la parte inferior de los pies, con las piernas completamente extendidas.
+- __Perímetro craneal:__ el diámetro fronto-occipital (FOC) debe medirse al máximo.
+
+**Medidas antropométricas del recién nacido a término (Tabla 1)**
+
+| {2} **Tabla 1. Medidas antropométricas del RN a término** |
+|---|---|
+| Peso | 2.500 - 4.000 g |
+| Longitud | 48 - 53 cm |
+| Perímetro craneal | 32 - 36 cm |
+
+La antropometría se debe evaluar en relación con la edad gestacional, y situarse dichas medidas en una tabla de percentiles. Se dispone de diversos métodos para estimar la edad gestacional del recién nacido, que son menos precisos que la evaluación ecográfica fetal, y muestran en general una variabilidad de ± 2 semanas respecto a la establecida en base a la fecha de la última menstruación y a la ecografía fetal precoz. El nuevo test de Ballard es una serie de procedimientos clínicos basados en indicadores de maduración física y neuromuscular con el fin de definir la edad gestacional de un recién nacido.
+
+## 2 Aspecto general
+
+Observación del recién nacido previo a la estimulación. Incluye:
+- Valorar si está tranquilo o irritable y si es consolable.
+- Coloración: la piel normal es de color sonrosado. La acrocianosis es común los
+@p 23
+primeros días tras el parto. La cianosis central sugiere hipoxemia. La palidez puede indicar anemia o shock y el aspecto pletórico policitemia (algunos asocian cianosis por la hemoglobina insaturada). Debe investigarse toda ictericia que aparece en las primeras 24 horas y las ictericias intensas que aparecen posteriormente.
+
+- Postura y movimiento: postura en flexión de las cuatro extremidades. Se despierta con los estímulos táctiles, acústicos o luminosos, tiene un buen tono pasivo y activo, una vigorosa reacción a estímulos y un llanto enérgico.
+- Detección de defectos congénitos mayores.
+- Estado de nutrición del recién nacido.
+- Esfuerzo respiratorio.
+
+## 3 Signos vitales
+
+Los signos vitales de los recién nacidos normales son:
+- Temperatura axilar: 36.5-37.5 °C.
+- Frecuencia cardíaca: 120-160 latidos por minuto. Pueden existir variaciones en estas cifras relacionadas con el llanto y según la actividad del neonato (80-180lpm).
+- Frecuencia respiratoria: 40-60 respiraciones por minuto.
+- Tensión arterial (TA): debe ser tomada con manguito neonatal en recién nacido con sospecha de enfermedad cardiovascular o malformación renal. En recién nacidos a término, la TA media es de 40-60 mmHg.
+
+## 4 Exploración física general
+
+### Piel
+
+- **Vérnix caseosa:** sustancia blanquecina grasa en la superficie cutánea presente al nacimiento.
+- **Lanugo:** vello fino de predominio en hombro y espalda.
+- **Exantema toxoalérgico:** erupción cutánea benigna autolimitada, consistente en pápulas amarillentas sobre base eritematosa. Se inicia a las 24-48 horas de vida y desaparece a los 7-10 días. La etiología es desconocida.
+- **Melanosis pustulosa:** pequeñas pústulas superficiales autolimitadas que se rompen con facilidad, dejando un collarete de escama fina y máculas hiperpigmentadas.
+- **Milia o millium:** quistes de inclusión llenos de queratina, pequeñas pápulas de color blanco perlado o amarillento de predominio en mejillas, nariz, frente y mentón.
+- **Miliaria:** dermatitis vesiculosa o pustulosa secundaria a la retención intraepidérmica
+@p 24
+de la secreción glandular. Si la vesícula se forma en el estrato córneo se denomina miliaria cristalina o sudamina. Si la obstrucción es más profunda se acompaña de inflamación, denominándose miliaria rubra.
+
+- **Acné neonatal:** comedones, pápulas inflamatorias y pústulas limitadas habitualmente a la cara. Desaparece espontáneamente en unas semanas.
+- **Ampollas de succión:** causadas por succión intensa del feto intraútero. Son ampollas flácidas, serosas, localizadas en la mano, muñeca o brazos. Cuando rompen generan erosiones superficiales lineales u ovales.
+- **Cutis marmorata fisiológico:** coloración cutánea semejante al veteado marmóreo debido a la inestabilidad vasomotora del recién nacido
+- **Manchas de color salmón (nevo simple o hemangioma macular):** malformaciones capilares frecuentes en frente, nariz, labio superior y nuca. Suelen desaparecer en el primer año.
+- **Manchas en vino de Oporto (nevus flammeus):** Máculas de color rojo, de márgenes geográficos y tamaño variable. Puede o no ser un hallazgo benigno en el recién nacido
+- **Melanocitosis dérmica congénita o mancha mongólica:** mácula pigmentada de color azul o grisáceo. La localización más frecuente en región lumbosacra y glúteos. Suele desaparecer en los primeros años de vida. Las lesiones muy extensas y de localización anormal pueden asociarse a síndromes.
+- **Máscara equimótica facial:** petequias faciales secundarias a parto traumático o compresión (circulares apretadas).
+- **Nevus melanocíticos congénitos:** Son unas lesiones pigmentadas maculares o papulares con diferentes tonos de color pardo a negro.
+
+### Cabeza
+
+- **Huesos del cráneo:** se deben palpar las suturas y fontanelas. La movilidad de las suturas descarta craneosinostosis. Si el perímetro cefálico es normal y las suturas presentan movilidad, el tamaño de las fontanelas carece de importancia.
+- **Moldeamiento craneal:** con acabalgamiento de suturas o no, asimetría del cráneo por el paso por el canal del parto.
+- **Caput succedaneum o tumor de parto:** edema o tumefacción de tejidos blandos, superficial, sobre el periostio, puede sobrepasar la línea media y las suturas.
+- **Cefalohematoma:** hemorragia subperióstica, no sobrepasa las suturas.
+- **Hematoma subgaleal:** sangrado entre el periostio y aponeurosis. Se asocia con partos muy dificultosos. Es firme, fluctuante y cruza las líneas de sutura.
+
+### Cara
+
+- Ojos: tamaño, forma, movilidad, distancia entre ambos (descartar hipertelorismo), transparencia (descartar leucocoria). Las hemorragias subconjuntivales se resuelven espontáneamente. El edema de párpados es normal en los primeros días de vida.
+@p 25
+- Orejas: tamaño, forma, posición, presencia de conducto auditivo. Los apéndices o fositas preauriculares pueden ser hallazgos benignos.
+- Nariz: descartar asimetría de narinas (luxación del tabique nasal). Valorar permeabilidad ante sospecha de atresia de coanas.
+- Boca y paladar: son frecuentes pequeños quistes de color blanco agrupados en la línea media del paladar o en la encías (perlas de Epstein y nódulos de Bohn). Visualizar integridad de paladar duro y blando. Descartar labio leporino. Tamaño y movilidad de la lengua (frenillo lingual). Pueden encontrarse dientes (incisivos inferiores) que deben ser extraídos si dificultan la succión o presentan movilidad (riesgo de aspiración). Facies asimétricas con el llanto pueden ser debidas a ausencia o hipoplasia del músculo depresor ángulo oris.
+
+### Cuello
+
+Descartar tortícolis congénita (por hematoma o fibrosis del músculo esternocleidomastoideo), higroma quístico (tumoración de consistencia blanda de origen linfático), bocio, quiste tirogloso. La piel redundante o membranosa puede estar presente en un síndrome de Down y si se trata de una niña sugiere un síndrome de Turner.
+
+### Tórax
+
+- Morfología: en el recién nacido a término es cilíndrico. Las costillas son horizontales y el apéndice xifoides se aprecia prominente en el epigastrio.
+- Clavículas: palpación para comprobar integridad de clavículas. La crepitación ósea, el dolor con la movilización del hombro y el edema local sugieren fractura. El signo de la tecla es diagnóstico.
+- Mamilas: valorar separación anómala y mamilas supernumerarias. La hipertrofia mamaria e incluso la aparición de secreción es fisiológica.
+- Respiración: buscar signos de dificultad respiratoria (retracción intercostal, aleteo nasal, ruidos añadidos, hipoventilación o asimetría en la auscultación).
+- Auscultación cardiaca: frecuencia, ritmo, presencia o ausencia de soplos.
+
+### Abdomen
+
+El abdomen es cilíndrico y habitualmente globuloso. Su pared es tensa y lisa. Es frecuente la diástasis de los músculos rectos anteriores. Palpación para valoración de hepatomegalia, esplenomegalia o masas abdominales.
+
+### Extremidades, columna
+
+- Pulsos femorales: su ausencia o manifiesta debilidad en comparación con el pulso braquial nos hará sospechar obstrucción aórtica.
+- Extremidades superiores: con relativa frecuencia presentan anomalías de los dedos de las manos (braquidactilia, aracnodactilia, camptodactilia, clinodactilia, sindactilia, polidactilia).
+- Extremidades inferiores: descartar anomalías del pie (pie equino varo congénito, pie talo valgo, astrágalo vertical congénito, metatarso varo) y rodillas (luxación congénita de la rodilla). El pie talo valgo y metatarso varo cuando son reductibles y transitorias no requieren tratamiento.
+@p 26
+- Columna vertebral: movilidad, alineación. Valorar signos sugerentes de disrafismo espinal oculto.
+- Valorar parálisis braquial por tracción del plexo braquial durante el parto. Dependiendo del nivel donde se produzca la lesión, podremos tener uno de los siguientes tipos de parálisis:
+- Parálisis braquial superior (Duchenne-Erb): la lesión se produce en C5 y C6. Es la más frecuente. El brazo está en adducción y rotación interna, el antebrazo en extensión y pronación y la mano en flexión.
+- Parálisis braquial inferior (Klumpke): la lesión se produce en C7 y C8. Es menos frecuente. La muñeca está caída y los dedos semiabiertos.
+- Parálisis total: se afectan todas las raíces nerviosas del plexo, dando como resultado una extremidad flácida e insensible.
+
+### Caderas
+
+En todos los recién nacidos hay que descartar la displasia de cadera mediante la exploración con la maniobra de Ortolani (reducción de una cadera previamente luxada) y la maniobra de Barlow (luxabilidad de una cadera reducida), si el resultado es patológico precisa estudio. Los clics o chasquidos son fisiológicos y no precisan estudio.
+
+### Genitales
+
+**Masculinos.** La fimosis es fisiológica. Hay que comprobar la localización del meato urinario para descartar hipospadias/epispadias. Si la longitud del pene es menor de 2,5 cm (micropene) hay que estudiarlo. Se debe comprobar la presencia de los testes en la bolsa escrotal. El escroto aumentado de tamaño suele ser por hidroceles no comunicantes, fenómeno transitorio, desaparece de forma espontánea en los meses siguientes.
+
+**Femeninos.** En RN a término los labios mayores suelen cubrir los menores. Las de bajo peso y las prematuras pueden tener labios menores más prominentes. La presencia de flujo vaginal o pseudomenstruación en los primeros días de vida es normal y se debe al paso transplacentario de estrógenos maternos. La hipertrofia de clítoris, principalmente cuando se acompaña de hiperpigmentación, obliga a sospechar exceso de andrógenos.
+
+### Ano
+
+Comprobar la localización y permeabilidad. Primera deposición antes de las 48 horas de vida. La imperforación anal puede ser total o acompañarse de una fístula.
+
+### Exploración neurológica
+
+- Valorar el comportamiento durante la exploración, estados de vigilia y sueño, calidad del llanto, hiperexcitabilidad, hiporreactividad o letargia.
+- Valorar la respuesta del recién nacido con el mundo exterior, audición y visión, capacidad para fijar la mirada y seguir una cara o voz.
+- Tono muscular pasivo: ángulo de aductores, ángulo poplíteo, ángulo de dorsiflexión del pie, maniobra de la "bufanda", retorno en flexión de extremidades, posición de las extremidades, tono pasivo del eje corporal.
+- Tono muscular activo: incorporación para sentarse y retorno, enderezamiento global.
+@p 27
+- Motricidad espontánea: global, manos y dedos, mímica facial.
+- Reflejos osteotendinosos y cutáneos: reflejos rotulianos y bicipitales, reflejo cutáneo plantar.
+- Respuestas primarias: Reflejo de succión, de búsqueda, de Moro, de prensión palmar y plantar, de respuesta a la tracción, de marcha automática, de extensión cruzada, tónico asimétrico del cuello.
+- Valorar movimientos anormales como el temblor (descartar hipoglucemia, hipocalcemia, síndrome de abstinencia...), clonías, convulsiones...
+@caja
+**SE RECOMIENDA**
+- El aspecto general es la parte de mayor importancia en la valoración inicial del recién nacido, así como su evaluación continuada para descartar la patología urgente.
+- Una exploración completa es clave para detectar anomalías congénitas, para ello es necesario su realización de manera sistemática y segmentaria.
+- Para la correcta interpretación de los signos vitales se requiere que el recién nacido se encuentra tranquilo, dormido o despierto.
+- Es importante conocer qué hallazgos pueden ser fisiológicos o anormales según las horas de vida del recién nacido, la situación clínica y factores de riesgo asociados.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Realizar la exploración sistemática y toma de constantes del recién nacido inmediata al nacimiento para evitar la influencia del proceso de adaptación al ambiente extrauterino.
+- Excederse con el tiempo para la exploración física con el paciente desnudo ni la separación del recién nacido de sus padres.
+@fin
+@bib
+1. Fernández Colomer B, Arias Llorente RP. Exploración y cuidados del recién nacido sano. En: Moro M, Vento M. De Guardia en Neonatología. 3ª Ed. 2016. p. 99-107.
+2. Johnson L. Valoración del recién nacido: historia y exploración física. En: Cloherty y Stark. Manual de Neonatología. 8ª Ed. 2017. p. 91-101.
+3. McKee-Garret TM. Assessment of the newborn infant. In: UpToDate, Martin R, Duryea TK (Ed), UpToDate, Waltham, MA. [Accessed on July 18,2022].
+4. Consolini DM. Examen físico del recién nacido [Internet]. En: Manuales MSD. 2021. [Consultado 18 de julio 2022].

@@ -1,0 +1,96 @@
+@f 14. Protocolos SENEO/1.6. Cribados neonatales
+@p 45
+# 1.6 CRIBADOS NEONATALES
+
+*María Luz Couce Pico, Paula Sánchez Pintos, Alejandro Pérez Muñuzuri*
+
+*Hospital Clínico Universitario de Santiago de Compostela*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 31-35 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página.
+
+## 1 ¿Qué se entiende por cribado neonatal?
+
+El cribado neonatal es un proceso para la identificación precoz en el neonato de trastornos metabólicos, endocrinos, inmunológicos,... para su diagnóstico, tratamiento y seguimiento a corto y largo plazo.
+
+Así pues el cribado neonatal no es solo un análisis, es un programa o programas que han de estar centrados en el interés del niño, y el sistema de salud debe garantizar no sólo el diagnóstico sino también el tratamiento y el seguimiento clínico de los niños diagnosticados precozmente.
+
+## 2 Tipos de cribado neonatal
+
+Los cribados neonatales son fundamentalmente de enfermedades congénitas. Los cribados de **enfermedades congénitas** que se llevan a cabo actualmente son:
+- *cribado endocrino-metabólico neonatal o de “la prueba del talón”*, este término ha quedado insuficiente pues actualmente se criban más entidades aparte de las endocrino-metabólicas. Es el más amplio y el más conocido, se inició ya hace más de 50 años en España (Granada, 1968).
+- *cribado de hipoacusia congénita,* para la detección precoz de hipoacusia. La Comisión para la detección precoz de Hipoacusia Infantil recomendó en España en 1999 el cribado de hipoacusia a todos los neonatos.
+- *cribado de cardiopatías congénitas críticas,* para detectar cardiopatías críticas previo al inicio de síntomas. Aún no está plenamente estandarizado en España, en 2018 la Sociedad Española de Neonatología (seNeo) publicó la recomendación de este cribado.
+
+## 3 Cribado endocrino-metabólico neonatal
+
+*Qué patologías abarca:* En España, aparte de la fenilcetonuria y el hipotiroidismo
+@p 46
+congénito que ya se incluían en el BOE de 31 octubre de 2014, se establece implementar el cribado ampliado en todas las Comunidades que aún no lo tengan desarrollado para cinco entidades más, que son: fibrosis quística, defecto de acil-CoA deshidrogenasa de cadena media, aciduria glutárica tipo 1, defecto de hidroxi-acilCoA de cadena larga, anemia falciforme (Tabla 1).
+
+La situación actual es que varias Comunidades Autónomas disponen de una Cartera Complementaria de cribado neonatal, a mayores de las 7 recomendadas por el Ministerio, valorando generalmente entre 20 a 30 enfermedades congénitas. Sólo 7 comunidades autónomas, cerca del 30% de los nacimientos, realizan estrictamente las 7 recomendadas, generándose una situación de desigual oportunidad.
+
+*A qué días se aconseja realizarlo:* En la actualidad se recomienda realizar este cribado a todos los recién nacidos al segundo día de vida después de 24 horas de ingesta oral para evitar alteraciones analíticas y falsos positivos o negativos. A mayores, se recomienda repetir una segunda muestra en las siguientes situaciones:
+- En prematuros < 34 semanas y/o < 1.500 g de peso y en gemelos monocigóticos: se aconseja realizar una segunda determinación entre la segunda y cuarta semana de vida.
+- En los recién nacidos con patología muy grave al nacimiento: se recomienda realizar una muestra al ingreso y repetirla a las 48-72 horas de vida.
+- En recién nacidos que estén recibiendo nutrición parenteral, se debe realizar un nuevo cribado a las 48 horas del inicio de la alimentación enteral.
+- En los pacientes que reciben transfusiones sanguíneas previas al cribado: se debe realizar una toma de muestra a las 48-72 horas de la transfusión y repetirla a los 120 días.
+
+*Cómo se realiza:* se obtiene una muestra de sangre que se recoge en un papel de filtro absorbente denominado genéricamente “tarjeta de Guthrie”, que cumpla con las normas del National Committee for Clinical Laboratory Standars (2014/07 de Munktell). La obtención de la muestra se realiza mediante la punción en el borde lateral de la superficie plantar del pie de los recién nacidos. Después de impregnar bien la tarjeta, se deja secar a temperatura ambiente evitando el contacto con la luz solar directa. En tres Comunidades en España se realiza simultáneamente la toma de muestra de orina que se recoge en el mismo papel absorbente, colocándolo en el pañal.
+
+*Qué técnica se emplea:* actualmente, la prueba es de carácter bioquímico (metabolitos, hormonas, proteínas) y permite la detección de un biomarcador en sangre y/u orina, como son los niveles de metabolitos en las enfermedades metabólicas hereditarias (mediante espectrometría de masas en tándem (MS/MS)), la tripsina inmunorreactiva en el caso de la fibrosis quística, los niveles de TSH para detectar el hipotiroidismo congénito y la determinación de HbA en la detección de la anemia falciforme.
+
+| {3} **Tabla 1: Enfermedades recomendadas para cribado a nivel nacional en el momento actual** |
+|---|---|---|
+| **Enfermedad** | **Qué puede prevenir** | **Tiempo de espera para amamantar** |
+| Hiperfenilalaninemia/ Fenilcetonuria | retraso mental, convulsiones, coma, muerte | Dieta restringida en fenilalanina // Tratamiento con BH4 en algunos casos |
+@p 47
+@pie Tabla 1: Enfermedades recomendadas para cribado a nivel nacional en el momento actual (continuación) Enfermedad Qué puede prevenir Tiempo de espera para amamantar
+| Aciduria Glutárica tipo 1 | retraso en el desarrollo, espasticidad, encefalopatía, coma, muerte | Dieta restringida en proteínas. Carnitina. |
+| Déficit de β-oxidación de ácidos grasos de cadena media | Hipoglucemia, convulsiones, coma, muerte súbita. | Tto dietético rico en hidratos de carbono y sin exceso de grasas. Evitar el ayuno. Carnitina en ocasiones |
+| Déficit de β-oxidación de ácidos grasos de cadena larga | Cardiomiopatía,coma, muerte súbita | Tto dietético restringido en grasas de cadena larga, dieta rica en hidratos de carbono de absorción lenta, evitar ayuno. Suplemento de triglicéridos de cadena media y carnitina en algunos casos |
+| Fibrosis quística | Retraso en el crecimiento, enfermedad pulmonar crónica severa, muerte prematura | Terapia según evolución |
+| Hipotiroidismo congénito | Retraso mental severo. Retraso de desarrollo | Hormona tiroidea |
+| Anemia de células falciformes | Anemia, ictericia, disnea, fatiga, episodios de dolor, infecciones severas... | Profilaxis antibiótica // Vacunación antineumocócica // Trasplante de médula si es grave |
+! La tabla sigue en la página siguiente del PDF, donde se repite su título con «(continuación)». La tercera columna se titula «Tiempo de espera para amamantar» en el PDF, aunque su contenido es el tratamiento.
+
+## 4 Cribado de hipoacusia congénita
+
+*Qué patologías abarca:* Hipoacusias neonatales, que la mayoría son neurosensoriales y un 50-60% de estas de causa genética.
+
+*A qué días se aconseja realizarlo:* Se debe realizar en el primer mes de vida. Estratégicamente es deseable que se realice durante los primeros días de vida, mientras el niño está en la maternidad, lo cual permite unificar la metodología y formar adecuadamente al personal encargado de realizar la prueba. En los recién nacidos grandes prematuros se realizará un cribado con potenciales auditivos u otoemisiones antes de los tres meses de edad corregida.
+
+*Cómo se realiza:* i. Potenciales auditivos automatizados: la prueba se realiza con el recién nacido tranquilo, colocando unos terminales de estimulación acústica (auriculares) y tres electrodos (en el hombro, parte posterior del cuello y frente). El equipo emite unos sonidos especiales denominados clics con una frecuencia e intensidad determinada a través de los auriculares y los electrodos captan la respuesta cerebral a estos estímulos. Duración media de la prueba: 3-5 min por oído. El resultado es automático y no requiere
+@p 48
+interpretación. La prueba se puede realizar a las pocas horas del nacimiento.
+
+ii. Otoemisiones acústicas, con un tapón pequeño y flexible en el oído del bebé a través del cual luego se envían sonidos. Un micrófono en su interior registra las otoemisiones acústicas (respuestas) del oído normal a los sonidos. Se suele emplear menos tiempo para realizar esta prueba, entre 1 y 3 minutos.
+
+En el caso de no superar el cribado con los potenciales auditivos automatizados no será necesaria una segunda prueba y pueden ser derivados a la confirmación diagnóstica. Si se usan las otoemisiones, especialmente si se realizan antes de las 72 h de edad del niño (en el primer y segundo día de vida el CAE suele estar ocupado por detritus), ha de repetirse al menos una vez antes de derivar a la fase diagnóstica.
+
+*Qué técnica se emplea:* Se pueden emplear 2 tipos de técnicas como hemos mencionado: a) Potenciales auditivos automatizados, con una sensibilidad del 97-100% y una especificidad del 86-96%, evalúan la actividad de la vía auditiva desde el nervio auditivo, en su extremo distal, hasta el mesencéfalo. b) Otoemisiones acústicas, es la segunda opción, no exploran toda la vía auditiva pues estudian la actividad coclear pero no la retrococlear, es decir no detecta la neuropatía auditiva. Su especificidad es del 87-99%, disminuye en las 48 primeras horas de vida, y es aconsejable realizarla más tarde.
+
+## 5 Cribado de cardiopatías congénitas críticas
+
+*Qué patologías abarca:* formas graves de cardiopatías congénitas.
+
+*A qué días se aconseja realizarlo:* en las primeras 24 horas tras el nacimiento
+
+*Cómo se realiza:* con el empleo de la pulsioximetría en dos localizaciones, en la mano derecha y en uno de los pies, siendo el valor de corte para la positividad de 89% o menos en cualquiera de las extremidades, y dudoso cuando en cualquiera de las localizaciones (mano derecha o uno de los pies) es entre el 90-94% o con una diferencia entre ambas superior al 4%
+
+*Qué técnica se emplea:* como ya mencionamos con el empleo de la pulsioximetría en las primeras horas tras el nacimiento en todos los recién nacidos asintomáticos que no precisan ingreso en los servicios de neonatología para detectar aquellas cardiopatías críticas que van a precisar de una intervención médica o quirúrgica urgente
+@caja
+**SE RECOMIENDA**
+- Los cribados neonatales de enfermedades congénitas son eficaces, eficientes y efectivos por lo que se deben realizar a todos los neonatos en que se consideran indicados.
+- Se debe actuar prontamente ante los resultados del cribado para tener el diagnóstico e iniciar el tratamiento en los primeros días de vida si se detecta alteración.
+- El neonatólogo debe conocer en profundidad los programas existentes de cribado neonatal
+@p 49
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No cumplir estrictamente los tiempos recomendados para realizar los cribados neonatales
+- No es recomendable la inequidad existente entre los diferentes tipos de programas de cribado con respecto a las enfermedades cribadas y servicios asistenciales
+@fin
+@bib
+1. Couce ML. Fifty years of neonatal screening for congenital diseases in Spain. An Pediatr 2019; 90:205-206.
+2. Sánchez-Luna M, Pérez Muñuzuri A, Couce Pico ML. Cribado de cardiopatías congénitas críticas en el periodo neonatal. Actualización de la recomendación de la Sociedad Española de Neonatología. An Pediatr 2021; 95: 492-493.
+3. Castiñeras DE, Couce ML, Marin JL, et al. Newborn screening for metabolic disorders in Spain and worldwide. An Pediatr 2019; 91:128.e1-128.e14.
+4. Núñez-Batalla F, Jáudenes-Casaubón C, Sequí-Canet JM, et al. Programas de cribado de la hipoacusia congénita en 2020: recomendaciones CODEPEH. Acta Otorrinolaringol Esp 2021; 72:312-323.

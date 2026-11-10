@@ -1,0 +1,122 @@
+@f 14. Protocolos SENEO/1.3. Cuidados generales del recién nacido
+@p 28
+# 1.3 CUIDADOS GENERALES DEL RECIÉN NACIDO
+
+*Sara Marín Urueña, María del Mar Montejo Vicente, Sonia Caserío Carbonero*
+
+*Hospital Universitario Río Hortega, Valladolid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 14-18 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página.
+
+Los recién nacidos (RN) sanos requieren determinados cuidados, cribados y profilaxis que deben ser realizadas causando la mínima interferencia en el establecimiento del vínculo madre-hijo y en la instauración de la lactancia materna. Para ello se deben enfocar los cuidados primando el bienestar del RN y velar por sus derechos, evitando la separación madre-hijo, asegurando una transmisión de la información de forma empática y clara a las familias y respetando sus deseos en relación a la crianza de su hijo.
+
+La asistencia en el paritorio y en las plantas de Maternidad debe estar centrada en el paciente y su familia.
+
+## 1 Preparto-sala partos
+
+**__1.1. Revisión antecedentes maternos__**
+- Enfermedades de interés: Hipertensión arterial, diabetes, hipertiroidismo, infección por VIH, tuberculosis, enfermedades metabólicas hereditarias, enfermedades inmunológicas…
+- Fármacos: insulina, antidepresivos, antitiroideos, sustancias de abuso, antihipertensivos…
+- Patología social: nivel socio-económico bajo, madres adolescentes, conductas de riesgo…
+
+**__1.2. Revisión antecedentes del embarazo__**
+- Edad gestacional y/o peso adecuado
+- Grupo sanguíneo materno y Coombs indirecto
+- Serología de infecciones connatales: VIH, sífilis y hepatitis B
+- Controles ecográficos prenatales
+- Cribado de portadora de Streptococo grupo B
+- Test O`Sullivan. Test sobrecarga oral de glucosa (si precisa)
+
+**__1.3. Identificación de factores de riesgo__**
+Anomalías nefro-urológicas (ver 3.48), riesgo displasia caderas (ver 3.60), riesgo infeccioso
+@p 29
+(ver 3.46), riesgo de infección congénita (ver 2.12, 2.13 y 2.14), riesgo de ictericia (ver 3.30), hijo de madre con hipertiroidismo autoinmune
+
+## 2 Nacimiento
+
+**__2.1. Humanización del parto:__** se debe procurar mantener un ambiente tranquilo, seguro y confortable para los progenitores, manejando al RN con las medidas de protección adecuadas.
+
+**__2.2. Evaluación y estabilización inicial__**
+- Asegurar una adecuada transición a la vida extrauterina, valorando la necesidad de reanimación cardiopulmonar.
+- Contacto piel con piel precoz: si la estabilidad clínica del recién nacido y las condiciones maternas lo permiten. Mantener durante al menos 50 minutos, siendo recomendable una duración de 2-3 horas para obtener su máximo beneficio, debiendo postponer la exploración del niño hasta que se cumpla este tiempo. Siempre debe ser vigilado por personal sanitario o con instrucciones adecuadas al padre. Comprobar periódicamente los signos vitales del recién nacido y confirmar que esté bien posicionado.
+- Evaluación de la primera toma al pecho: tras consentimiento materno, revisar que el agarre y la primera toma se realicen de forma correcta.
+
+**__2.3. Test de Apgar:__** puntuación asignada (0-10 puntos) al minuto y a los 5 minutos de vida. Valora la situación del recién nacido al nacimiento y su respuesta a la reanimación, si la precisara.
+
+**__2.4. Período de transición__** (primeras 4-6 horas de vida): Vigilar que la adaptación a la vida extrauterina se realice de forma correcta durante este período. Se valorará: temperatura (objetivo: 36.5-37.5°C axilar), frecuencia respiratoria (40-60 respiraciones por minutos, sin signos de dificultad respiratoria), frecuencia cardiaca (120-160 latidos por minuto, disminuyendo hasta 85-90 durante el sueño), color (descartar cianosis central) y tono muscular.
+
+**__2.5. Identificación del recién nacido:__** es un derecho y una garantía de seguridad. Existen diversos métodos. Deben ser siempre colocados, a madre e hijo, desde el momento de la ligadura del cordón y en lugar visible. Evitar la separación madre-hijo desde el nacimiento hasta el alta hospitalaria, siempre que la situación clínica de ambos lo permita.
+
+## 3 Postparto-maternidad
+
+**__3.1. Verificar identificación madre-hijo__**
+**__3.2. Evaluación y exploración física completa con antropometría__**
+Se debe realizar por un pediatra y al menos en dos ocasiones: primeras 24 horas de vida
+@p 30
+y antes del alta.
+
+**__3.3. Completar la historia clínica__** materna y del embarazo revisada previamente, junto con los antecedentes familiares trascendentes para el RN.
+
+**__3.4. Grupo sanguíneo y Coombs directo__** en hijos de madre Rh negativas. Recomendable en hijos de madre grupo 0, si alta precoz o presencia de ictericia en primer día de vida.
+
+**__3.5. Profilaxis oftalmía neonatal:__** Administración tópica de pomada o colirio de eritromicina oftálmica 0.5%/tetraciclina 1% de forma precoz tras el nacimiento (posible tras contacto piel con piel) utilizando formatos unidosis. Debemos tener en cuenta que el diagnóstico y tratamiento de las infecciones por gonococo y C. trachomatis en la gestante es la mejor prevención de la infección oftálmica neonatal.
+
+**__3.6. Profilaxis enfermedad hemorrágica del RN:__** La administración de vitamina K al nacimiento es la forma más eficaz y segura de prevenirla. En RN con peso superior a 1500 g: 1 mg vitamina K intramuscular (im) en primeras 6 horas de vida. La administración im ha demostrado mayor eficacia que la oral en la prevención de la enfermedad hemorrágica tardía (2-12 semanas de vida). En el caso de que los padres rechacen la administración im, o bien existan contraindicaciones médicas para dicha vía de administración (coagulopatías...) se pautará de forma oral asegurando que los padres entienden la importancia de completar la pauta de forma domiciliaria (tres dosis de 2 mg via oral: una al nacer, otra a la semana de vida y una última al mes de vida).
+
+**__3.7. Hijo madre con Ag HBs positivo:__** se administrará al RN en las primeras 12 horas de vida la vacuna frente al VHB im en un muslo, y una dosis (0.5 ml) de gammaglobulina anti-VHB im en el contralateral.
+
+**__3.8. Cuidados del cordón umbilical:__** en nuestro medio está recomendada la cura seca (agua y jabón con posterior secado de la zona, sin necesidad de utilizar antisépticos).
+
+**__3.9. Cribados del RN__**
+- Auditivo
+- Endocrino-metabólico ampliado
+- Cardiopatías congénitas críticas
+
+**__3.10. Higiene y cuidados de la piel del RN.__** No se recomienda sistemáticamente el baño completo tras el nacimiento ni durante su estancia en la maternidad, salvo que los progenitores lo soliciten. Pueden existir reacciones fisiológicas de la piel del RN en los primeros días de vida, que no precisan hidratación ni tratamientos específicos.
+
+**__3.11. Alimentación.__** La lactancia materna es la alimentación ideal del RN desde su nacimiento. Existen situaciones especiales que pueden contraindicarla (infección materna por VIH en países desarrollados, medicaciones maternas, abuso de drogas...). Se dispone de sucedáneos comerciales que pueden ser utilizados por deseo materno y en los casos en los que no es posible la lactancia materna. Debe quedar documentado el tipo de alimentación que recibe el RN, pautándose la cantidad y el método de preparación, en caso de utilizar fórmula artificial.
+
+**__3.12. Vigilar la pérdida de peso diaria.__** Fisiológicamente puede ascender al 10% en los primeros días de vida, debiendo recuperar el peso al nacimiento en torno a los 10-14
+@p 31
+días de vida. En caso de pérdida excesiva, tras descartar otras patologías causantes, se debe evaluar la realización de la toma, valorando la necesidad de suplementos según el estado de hidratación del RN y la disponibilidad de leche materna.
+
+**__3.13. Ictericia.__** Se debe identificar y evaluar a los RN con riesgo de hiperbilirrubinemia significativa: edad gestacional menor de 38 semanas, ictericia visible en primeras 24 horas de vida, hermano con ictericia que requirió fototerapia y deseo de la madre de lactancia materna exclusiva.
+
+**__3.14. Controles de glucemia (ver 3.35).__**
+## 4 Alta hospitalaria
+
+**4.1. RN a término**
+- Momento: tras 48 horas si nacimiento por parto vaginal o tras 72 horas si nacimiento por cesárea de acuerdo a las recomendaciones del Grupo de Estándares de la SENEO.
+- Exploración física normal realizada por un pediatra, conociendo el estado de hidratación y nutrición (sobre todo lactados exclusivos al pecho y nacidos por cesárea). Debe haber eliminado meconio y establecido diuresis.
+- Riesgo de ictericia: no necesario realizar determinación rutinaria de bilirrubina. Se recomienda si presenta ictericia significativa o recibe el alta de forma precoz.
+- Confirmar que los cribados han sido realizados
+- Reevaluación de factores de riesgo social
+- Proporcionar instrucciones respecto al seguimiento y posterior visita en atención primaria a las 72 horas del alta hospitalaria
+- Entregar informe al alta con información sobre alimentación, cuidados y pruebas solicitadas pendientes de realizar de forma ambulatoria, si fueran necesarias, asegurando adecuada transmisión de la información.
+
+**4.2. RN prematuro tardío (34^+0^-36^+6^ semanas)**
+Peculiaridades respecto al a término:
+- Momento: la duración de la hospitalización puede prolongarse por dificultades en la alimentación, alteración de la termorregulación y presencia de factores de riesgo sociales.
+- Se debe asegurar visita en atención primaria a las 24-48 horas tras el alta, manteniendo visitas semanales hasta la edad postmenstrual de 40 semanas.
+- Constatación de alimentación adecuada, sin pérdida de peso superior al 7%
+- Riesgo de ictericia: es recomendable la determinación de bilirrubina previa al alta, por su mayor riesgo de hiperbilirrubinemia grave.
+@p 32
+**4.3. Alta hospitalaria neonatal precoz**
+Es la que se produce entre las 24 y 48 horas tras el nacimiento, en RN a término de peso adecuado en ausencia de riesgo familiar, social o medioambiental. Debe existir una ausencia de riesgos añadidos y siempre que se disponga de un protocolo escrito de “alta precoz”. Se debe asegurar la posibilidad de control pediátrico en las primeras 72 horas del alta, en el hospital o centro de salud.
+@caja
+**SE RECOMIENDA**
+- Fomentar la no separación del binomio madre-hijo poniendo especial cuidado en favorecer el vínculo familiar.
+- Correcta identificación del recién nacido velando siempre por su seguridad.
+- Promocionar, fomentar y apoyar la lactancia materna exclusiva, siempre que la madre lo desee y no exista contraindicación.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Utilizar antisépticos en la cura del cordón de forma rutinaria.
+- Dar el alta domiciliaria del RN sin haberse asegurado de una correcta alimentación y una buena comprensión por parte de los padres de los signos de alarma a vigilar.
+@fin
+@bib
+1. Sánchez Luna M, Pallás Alonso CR, Botet Mussons F, et al. Comisión de Estándares de la Sociedad Española de Neonatología. Recomendaciones para el cuidado y atención del recién nacido sano en el parto y en las primeras horas después del nacimiento. An Pediatr (Barc). 2009; 71:349–361.
+2. Doménech E, González N, Rodríguez-Alarcón J. Cuidados generales del recién nacido sano. Protocolos Diagnósticos y Terapéuticos de la AEP: Neonatología.
+3. Ares Segura S, Temboury Molina C, Chueca Guindulain MJ, et al. 2011 Grupo de trabajo de tiroides de la Sociedad Española de Endocrinología Pediátrica. Recomendaciones para el diagnóstico y seguimiento del feto y del recién nacido hijo de madre con patología tiroidea autoinmune. An Pediatr (Barc). 2018;89:254.e1-e7.
+4. Leante Castellanos JL, Pérez Muñuzuri A, Ruiz Campillo CW, et al. An Pediatr (Barc). 2019; 90:401.e1-e5.
+5. Rite Gracia S, Pérez Muñuzuri A, Sanz López E et al. Criterios de alta hospitalaria del recién nacido a término sano tras el parto. An Pediatr (Barc). 2017; 86:289.e1-e6.
+6. Cuidados desde el nacimiento. Recomendaciones basadas en pruebas y buenas prácticas. Ministerio de Sanidad y Política social, 2010.

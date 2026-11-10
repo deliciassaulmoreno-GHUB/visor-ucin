@@ -1,0 +1,126 @@
+@f 14. Protocolos SENEO/1.5. Infecciones y lactancia materna. Fármacos y lactancia materna
+@p 38
+# 1.5 INFECCIONES Y LACTANCIA MATERNA. FÁRMACOS Y LACTANCIA MATERNA
+
+*Sara Ansó, Izaskun Asla*
+
+*Hospital Universitario Cruces, Bilbao*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 24-30 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página. La Tabla 1 está copiada a mano de la imagen.
+
+## 1 Infecciones y lactancia materna
+
+La leche materna es el alimento más adecuado tanto a nivel nutritivo como inmunológico para los recién nacidos (RN) y lactantes, que hacen de ésta uno de los factores de protección más importantes contra la morbilidad y mortalidad que las enfermedades infecciosas causan en los niños.
+
+Durante la lactancia, el niño puede ser infectado por patógenos de la madre (virus, bacterias, hongos y parásitos). Los diversos mecanismos de transmisión postnatal de agentes infecciosos son propagación por aire o gotitas, contacto directo con fluidos corporales, contacto directo con lesiones de la mama, o del pezón y a través de la leche materna. En caso de infección, están implicadas simultáneamente diferentes vías de transmisión.
+
+La lactancia materna (LM), en caso de infecciones maternas (en países desarrollados), rara vez está contraindicada. En la mayoría de las ocasiones, se requiere una valoración y actuación individualizada, con medidas higiénicas y de contacto, con realización de estudios y en ocasiones requerirá tratamiento. En casi todos los casos, se puede elegir un agente antimicrobiano apropiado para tratar a las madres que también sea compatible con la lactancia. En las decisiones sobre la LM en caso de infección se debe sopesar el riesgo potencial, en comparación con los innumerables beneficios de la leche materna.
+
+En la tabla 1 mostramos una serie de infecciones maternas y las recomendaciones de actuación durante la lactancia:
+| {2} **Tabla 1.Recomendaciones en infecciones de la lactancia materna** |
+|---|---|
+| {2} **Lactancia materna contraindicada** |
+| • **Infección materna por virus de la inmunodeficiencia humana** (VIH) // • **Infección Virus de la leucemia humana de células T, tipo I y II** (HTLV-1-2) | Lactancia materna **contraindicada** (en países desarrollados) |
+@p 39
+| {2} **Lactancia materna contraindicada solo en caso de mastitis tuberculosa** |
+| • **Tuberculosis (TBC) activa materna con lesiones pulmonares.** | Si TBC activa hay que __separar e interrumpir la LM directa__, extremar medidas higiénicas hasta 15 días después de iniciar tratamiento, o esputo negativo. (se puede administrar LM extraída) // El RN recibirá tto simultáneo. |
+| {2} **Lactancia materna contraindicada si lesiones en mama o pezón** |
+| • **Infección por VHS-I** // • **Infección por VHS-II** // • **Sifilis** (tto madre y niño) | Si no lesiones, extremar medidas higiénicas (lavado minucioso de manos), y de contacto, cubrir lesiones para que el lactante no entre en contacto con ellas, llevar mascarilla y evitar contacto labial si la madre tiene lesiones en boca. |
+| {2} **Lactancia materna compatible, debe tratarse a la madre y si es preciso al hijo. Extremar las medidas higiénicas (lavado manos), para evitar transmisión.** |
+| • **Infección materna por Cándida albicans** (infección de pezón, mastitis..) tto al RN // • **Brucelosis materna** (tto al niño tras estudio si precisa) // • **Listeriosis materna** // • **Enfermedad de Lyme:** Borrelia burgdorferi (tto al niño si precisa) // • **Infección materna por Chlamidia trachomatis** // • **Infección por Giardia lamblia materna** // • **Infección materna por Toxoplasma gondii** // • **Enfermedad de Chagas** (tratar a la madre si infección aguda o reciente y al lactante si está infectado)^a^ // • **Infecciones bacteriana graves con hospitalización.^b^** // • **Tuberculosis no activa** // • **Infecciones bacterianas comunes^c^** | ^a^Si fisuras con sangrado activo del pezón, en infecciones agudas o recientes, interrumpir la lactancia temporalmente. // ^b^Sólo interrumpir lactancia si la medicación o la gravedad de la madre así lo requiere. Valorar profilaxis al niño. // ^c^Aplicar tto requerido y mantener lactancia siempre que sea posible. |
+| {2} **Lactancia materna compatible. Extremar medidas higiénicas** |
+| • **Infección por VPH, Parvovirus B19, virus de Dengue, virus Epstein Barr, virus herpes humano tipo 6, 7 y 8, Zika.** (No existe evidencia de transmisión) // • **Infección por virus de la Influenza^d^** // • **Infección por CMV^e^** en madre de RNT // • **Infección por virus Varicela-Zoster materna.** // • **Si varicela aparece** desde los 5 días antes del parto hasta los 2 días después del parto.^f^ // • **Infección por herpes Zoster^g^** // • **Infección por Hepatitis A^h^** // • **Infección por Hepatitis B^i^** // • **Virus hepatitis C^j^** // • **Sarampión^k^** | ^d^Extremar medidas higiénicas de contacto, y usar mascarilla al amamantar // ^e^En RN prematuros extremos, si síntomas graves puede requerir tto (la congelación a -20 reduce, y la pasteurización elimina la carga viral, pero afecta a los factores bioactivos y nutrientes de la leche). // ^f^Inmunoglobulina antivaricela o Aciclovir oral y medidas profilácticas de evitación de contacto con las lesiones y vigilar al recién nacido. // ^g^Medidas higiénicas y evitar contacto con las lesiones. LM está contraindicada si el zoster se extiende a la zona del pecho. // ^h^Inmunoglobulina, vacuna de Hepatitis A e higiene de manos. // ^i^El bebé debe recibir gammagobulina hiperinmune específica y 1ª dosis de vacuna de hepatitis B en primeras 12 horas. // ^j^Si portadora asintomática de VHC y no coinfectada con VIH y no lesiones en mama. // ^k^Administrar al lactante Inmunoglobulina polivalente dentro de los 6 días postexposición. |
+@p 40
+| {2} **Tabla 1.Recomendaciones en infecciones de la lactancia materna (continuación)** |
+| {2} **Lactancia materna compatible. Extremar medidas higiénicas** |
+| • **Infección materna por Coronavirus 2019 (SARs-CoV 2)** | – Madre asintomática o paucisintomática: uso de mascarilla cuando esté cerca del RN y medidas higiénicas antes del contacto con el niño. // – Si la madre está muy enferma para amamantar, conviene extraer leche para evitar problemas de congestión mamaria y el RN la puede tomar. |
+| • **Infección por Viruela del mono** (Valorar tto) | – Si madre infectada y lactante no, aislar al lactante y no amamantar. Extraer leche y desecharla. // – Si madre y lactante infectados, valorar seguir juntos y mantener LM, según estado clínico. Valorar tto. |
+@pie Tabla 1.Recomendaciones en infecciones de la lactancia materna (continuación)
+
+## 2 Medicamentos y Lactancia materna
+
+Muchas madres reciben la indicación de retirar la lactancia materna o evitar, en la medida de lo posible, tomar determinadas medicaciones que precisan para su patología, por miedo al efecto que dicha medicación pueda generar en su bebé lactante. Muchas veces esta indicación no está basada en la evidencia. Para valorar el riesgo o beneficio de la lactancia materna para un bebé lactante cuando su madre toma una medicación, hay que tener en cuenta diferentes aspectos como:
+1. La **necesidad real** de dicha medicación, **dosis** (única/repetida/ascendente) y **duración** del tratamiento (agudo/crónico)
+2. Los **efectos** de la medicación **sobre la producción láctea:** existen medicaciones que pueden disminuir dicha producción por inhibición de la prolactina, entre ellas podemos destacar: alcaloides derivados del ergot, estrógenos, anticolinérgicos (antiespasmódicos o antihistamínicos de 1ª generación), uso prolongado de diuréticos (sobre todo tiazídicos), abuso de pseudoefedrina, gonadotrofinas, anti parkinsonianos precursores de dopamina y prostaglandinas en la primera semana postparto.
+3. La **cantidad de fármaco excretada a la leche materna,** teniendo en cuenta que las propiedades químicas del fármaco que facilitan su excreción a la leche materna son:
+- La falta de ionización: pKa>7 (pKa: Indice de ionización)
+- Bajo peso molecular
+- El bajo volumen de distribución del fármaco
+- La baja unión a proteínas maternas
+- La alta liposolubilidad
+
+Por tanto, para minimizar el riesgo del tratamiento materno sobre el lactante se recomienda:
+- Evitar alimentar al lactante durante la concentración máxima del fármaco
+@p 41
+- Elegir medicamentos con:
+  - la menor concentración en leche (Indice leche/plasma<1)
+  - pKa<7, alto peso molecular (>900Da) y unión a proteínas elevada (>80%)
+  - uso en el lactante
+4. **El grado de absorción oral** de la medicación, será mayor a mayor biodisponibilidad oral del fármaco. Además, debemos tener en cuenta que los fármacos con vida media más larga tenderán a acumularse, por tanto, se desaconsejarán las formas “depot”.
+5. El **potencial efecto perjudicial** del medicamento y la edad del lactante (existe mayor riesgo en menores de 2 meses); y además el efecto perjudicial del fármaco podrá ser mayor en caso de prematuridad o lactantes con patologías crónicas por enlentecimiento en el aclaramiento del fármaco, todo ello debido a una inmadurez y/o alteración en las vías metabólicas necesarias.
+
+El Vademecum, en la mayoría de los casos recomienda no amamantar sin aportar datos farmacocinéticos ni evidencia y por tanto, se desaconseja su uso como fuente de información sobre la compatibilidad con la lactancia materna. Aconsejamos la consulta específica para cada fármaco en **páginas especializadas en la revisión de la evidencia** en relación a los medicamentos y lactancia materna que podemos encontrar en Internet como:
+- **e-lactancia** (http://www.e-lactancia.org).
+- **LactMed** (http://toxnet.nlm.nih.gov).
+
+En relación a los **productos de fitoterapia,** es importante comentar que muchos de ellos carecen de datos de seguridad para la lactancia en el etiquetado, pudiendo algunos de ellos repercutir de forma negativa en el lactante. En la tabla 2 destacamos algunas sustancias a evitar durante la lactancia por su efecto perjudicial para el lactante.
+
+| {2} **Tabla 2. Hierbas/productos de herbolario que se deben evitar** |
+|---|---|
+| **Producto** | **Efecto** |
+| Anís estrellado | Neurotóxico |
+| Hinojo | Neurotóxico |
+| Salvia | Neurotóxico |
+| Alfalfa | Efecto estrogénico |
+| Fucus | Efecto en función tiroidea |
+| Eucalipto | Efecto letal si sobredosificación |
+| Regaliz | Efectos mineralocorticoideos |
+@p 42
+| {3} **Tabla 3. Tiempos de espera tras exploraciones con radiofármacos** |
+|---|---|---|
+| **Radiofármaco** | **Tipo de prueba** | **Tiempo de espera para amamantar** |
+| Cobre-64 | PET/SPECT | 5 días |
+| FDG (Fludesoxiglucosa) | PET- TAC | 12 horas. Evitar también contacto directo |
+| Galio-67 Citrato | Imagen tumores | |
+| 7Mbq (0.2mCi) | | 1 semana |
+| 50Mbq (1.3mCi) | | 2 semanas |
+| 150Mbq (4.0mCi) | | 4 semanas |
+| Indio-111, IN-111M, Satunomab Pendetido (OncoScint CR 103) | SPECT | 24 horas |
+| 20 Mbq (0.5mCi) | | 1 semana |
+| Sodio-Radiactivo | PET, … | 16 días |
+| Talio-201 | Imagen cardiaca | 72 horas - 2 semanas |
+| Tecnecio TC-99M | DMSA, DTPA, … | 4 a < de 24 horas. Evitar toma tras procedimiento |
+| Xenon-133, Xenon-127 | Imagen cardiaca, pulmonar, cerebral | Pocos minutos |
+| Iodo | Imagen tumores, tiroidea, … | |
+| I-123 | | 36 horas |
+| I-125 | | 12 días |
+| I-131 | | 14 días |
+| Iodo-Hipurato-sódico I-123, I-131 | | 24-30 horas |
+! En el PDF las filas de dosis de galio (7, 50 y 150 Mbq) y de los isótopos de yodo (I-123, I-125, I-131) van sangradas bajo su radiofármaco.
+
+En caso de tratamiento con I radiactivo se recomienda suspensión de lactancia incluso hasta 4 semanas previas al tratamiento.
+
+**Productos para radiodiagnóstico:** si es posible, demorar las pruebas con radiofármacos hasta finalizar el periodo de lactancia. Si no es posible, se interrumpirá la lactancia por un tiempo que permita disminución de niveles del radiofármaco y evitar una exposición del lactante mayor a 1 mSv (100mrem), las sustancias que se acumulan en tejido mamario precisarán evitar un contacto estrecho con el lactante y suspender la lactancia hasta que disminuya el efecto de la radiación. Es posible utilizar leche materna extraída previamente a la prueba diagnóstica (tabla 3).
+@p 43
+## 3 Drogas de abuso
+
+- El consumo de drogas de abuso: anfetaminas, cocaína, marihuana, heroína, fenciclidina hidrocloruro (polvo de ángel), LSD, contraindican la lactancia materna, tanto por el efecto de las mismas como por la posible incapacidad materna para asegurar el cuidado del lactante.
+- Las madres en programas de desintoxicación por metadona, podrán lactar con un seguimiento estrecho de su programa de deshabituación.
+- El consumo de tabaco, aunque no recomendable, no es contraindicación absoluta para la lactancia, aconsejándose disminuirlo al mínimo posible, y fuera del entorno del lactante.
+- Se recomienda no consumir alcohol durante la lactancia, o hacerlo de modo ocasional, evitando dar pecho hasta después de al menos 2,5 h por cada 12-15 gr de alcohol consumidos.
+@caja
+**SE RECOMIENDA**
+- Valorar individualmente los problemas de salud maternos y tipo de infección, así como extremar las medidas higiénicas y de contacto y prescribir el tratamiento apropiado, ya que son muy pocas las infecciones y los fármacos que contraindican la LM.
+- Consultar páginas especializadas sobre su seguridad durante la lactancia, con el fin de apoyar el mantenimiento de la LM y/o la interrupción mínima en los casos que lo requieran.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Retirar inmediatamente la lactancia materna ante infecciones maternas o necesidad de administración de medicamentos, sin revisar previamente la evidencia en páginas especializadas.
+@fin
+@bib
+1. Lawrence RM, Ruth A, Lawrence. RA. Chapter 1. Medications, herbal preparations and natural products in breast milk (326-392). Lawrence RM . Chapter 12. Transmission of Infectious Diseases through breast milk and breastfeeding (393-456). In Lawrence RM, Lawrece RA. Breastfeeding a guide for the medical profession. (Ninth Edition) 2021.
+2. Garcia-Loygorri MC, de Luis Daniel, Torreblanca Belén, et al. La leche materna como vehículo de transmisión de virus. Nutr Hosp 2015;32 (1): 4-10.
+3. Centeno-Tablante E, Medina-Rivera M, Finkelstein JL, et al. Transmission of SARS-CoV-2 through breast milk and breastfeeding: a living systematic review. Ann N Y Acad Sci. 2021; 1484:32-54.
+4. Paricio Talayero JM, Díaz-Gómez NM, Landa Rivera L, et al. Medicamentos y lactancia materna. An Pediatr Contin.2014; 12:239-43.
+@p 44
+5. Sachs HC, Committee on drugs. The transfer of drugs and Therapeutics into Human breast milk: an update on selected topics. Pediatrics 2013; 132:e796-809.
+6. Cortes-Blanco A. Especificaciones actuales de la ficha técnica de los radiofármacos compuestos de fluodesoxiglucosa autorizados para comercialización en España. Seguridad nuclear 2006;40:21-28.

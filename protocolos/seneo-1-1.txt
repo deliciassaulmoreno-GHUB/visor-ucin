@@ -1,0 +1,114 @@
+@f 14. Protocolos SENEO/1.1. Transición a la vida extrauterina
+@p 16
+# 1.1 TRANSICIÓN A LA VIDA EXTRAUTERINA
+*Celia Gómez Robles^1^, Alejandro Ávila Álvarez^2^, Eva González Colmenero^3^*
+*^1^Hospital Regional Universitario de Málaga. ^2^Complexo Hospitalario Universitario A Coruña. ^3^Hospital Álvaro Cunqueiro, Vigo*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 2-7 del libro. Transcrito del PDF escaneado con reconocimiento de texto y revisado contra la imagen de cada página.
+
+Durante la vida intrauterina, el feto se desarrolla gracias al soporte nutricional, hemodinámico y de intercambio gaseoso que le facilita la circulación materna a través de la placenta, creciendo además en un entorno líquido y térmicamente estable. Esta situación cambia drásticamente en el nacimiento, principalmente por dos fenómenos que inician una serie de cambios fisiológicos en cadena: el inicio de la respiración espontánea (que a su vez condiciona la aireación pulmonar) y el colapso de las arterias umbilicales (habitualmente por la ligadura del cordón umbilical).
+
+Esta secuencia de cambios se produce generalmente de forma natural, sin necesidad de intervención externa alguna, y debemos asumir que en la gran mayoría de las ocasiones nuestro papel como neonatólogos será el de apoyar la transición a la vida extrauterina. La mayoría de los recién nacidos respiran al nacer, esto también es así en la mayoría de los recién nacidos prematuros, sabemos que en <28 semanas hasta el 80% respiran al nacer. Sin embargo, en torno al 10% de los recién nacidos no podrán mantener un adecuado intercambio gaseoso o una adecuada estabilidad hemodinámica antes, durante o inmediatamente después del parto. En estas ocasiones de transición anómala, se puede producir repercusión sobre múltiples órganos y sistemas, y en su forma más severa, la asfixia perinatal puede condicionar la muerte del paciente o la presencia de secuelas graves.
+
+## 1 Características de la circulación fetal
+La circulación feto-placentaria se caracteriza por la presencia de los cortocircuitos fetales (ductus venoso, foramen oval y ductus arterioso) y por unos pulmones no aireados. La sangre oxigenada llega al feto proveniente de la placenta a través de la vena umbilical, atraviesa el conducto venoso y la vena cava inferior para llegar a la aurícula derecha. Aquí se encuentra con la sangre proveniente de la cava superior fetal (desoxigenada), pero no se mezcla totalmente con ella. Por un llamativo mecanismo anatómico y de presiones, la sangre más oxigenada de la cava inferior atraviesa preferentemente el foramen oval y se dirige a la aurícula izquierda, ventrículo izquierdo y de ahí a la circulación sistémica.
+
+Una pequeña parte de la sangre de la cava inferior no atraviesa el foramen oval y sí se mezcla con la de la cava superior en la aurícula derecha, dando como resultado una sangre parcialmente oxigenada. Desde aquí, se dirige al territorio pulmonar a través de la válvula tricúspide y el ventrículo derecho. Una vez en el tronco de la arteria pulmonar se
+@p 17
+encuentra con tres posibles salidas: dos de alta resistencia (las dos arterias pulmonares, recordemos que el pulmón está lleno de líquido) y una de baja resistencia (el ductus arterioso, que llega a la aorta). La sangre se dirige de forma prioritaria al territorio sistémico a través del ductus arterioso y es la responsable, junto con la proveniente de la aorta, de oxigenar el territorio sistémico postductal. El resto de la sangre (una pequeña cantidad) se dirige a los pulmones con el objetivo de mantener el trofismo de los mismos (en este momento no son responsables de aportar precarga significativa al corazón izquierdo) (Figura 1)
+
+@img seneo-1-1-fig1.png
+@pie Feto Hemicuerpo superior Corazón izquierdo Pulmones Pulmones llenos de líquido Foramen oval Corazón derecho Conducto arterioso Conducto venoso Hemicuerpo inferior Placenta
+*Figura 1. Circulación fetal (Adaptado de Stuart Hooper)*
+
+## 2 Cambios en la circulación fetal con la aireación del pulmón
+Al airearse el pulmón, el cortocircuito en el ductus arterioso se invierte porque, debido a factores mecánicos y bioquímicos, las arterias pulmonares ahora ya no son circuitos de alta resistencia. Por tanto, el pulmón comienza a recibir sangre, a oxigenarla y a devolverla por las venas pulmonares al corazón izquierdo. Es decir, la precarga del ventrículo izquierdo (y, por tanto, el gasto sistémico) depende ya de la circulación pulmonar, no de la vena umbilical. Esta aireación pulmonar consta de tres fases:
+
+**Fase 1:** el pulmón está lleno de líquido y para conseguir vaciar el agua es necesario un aumento de la presión transpulmonar que se produce durante el paso por el canal de parto y, sobretodo, al iniciar el llanto o respiración espontáneos. En ausencia de esta respiración espontánea, la aplicación de presión positiva en la vía aérea es una manera de generar el gradiente de presión necesario para vaciar el agua del pulmón.
+
+En la fase 1 en la que el alveolo está lleno de agua y nuestro objetivo es vaciarlo, podrían ser necesarios tiempos inspiratorios más largos o presiones más altas.
+
+**Fase 2:** el agua que abandona el alveolo pasa al intersticio pulmonar y permanecerá ahí durante las siguientes horas. La fase de 2 de la aireación pulmonar se caracteriza por una tendencia del agua a reentrar en el alveolo desde el intersticio, especialmente al
+@p 18
+final de la espiración. Este aspecto, unido al conocido déficit de surfactante del pulmón inmaduro, es la base de la suma importancia de la aplicación de PEEP o de la CPAP en el recién nacido prematuro para evitar el colapso pulmonar.
+
+**Fase 3:** Una vez que el agua es eliminada del intersticio, la presión intersticial es negativa (subatmosférica) y el pulmón permanece expandido también en la espiración. En esta fase se encuentra ya el equilibrio, es la fase de homeostasis respiratoria
+
+## 3 Cambios en la circulación fetal con la ligadura del cordón umbilical
+- **Ligadura de cordón umbilical con el pulmón aireado**
+
+Si pinzamos el cordón umbilical una vez iniciada las respiraciones (espontáneas o asistidas), se produce un aumento de las resistencias vasculares sistémicas que junto a la disminución de las resistencias vasculares pulmonares fruto de la aireación pulmonar, condiciona el cierre de los cortocircuitos.
+
+El corazón izquierdo recibirá la sangre proveniente de los pulmones y la bombeará a todo el organismo. (Figura 2)
+
+@img seneo-1-1-fig2.png
+@pie Aireación pulmonar Hemicuerpo superior Corazón izquierdo Pulmones Pulmones llenos de líquido Foramen oval Corazón derecho Conducto arterioso Conducto venoso Hemicuerpo inferior Placenta
+*Figura 2. Aireación pulmonar (Adaptado de Stuart Hooper).*
+
+Pinzamiento fisiológico del cordón (*Physiological Based Cord Clamping*, PBCC): el concepto de pinzamiento basado en la fisiología que recientemente se ha introducido en la literatura, no es más que pinzar el cordón tras garantizar que se ha producido la aireación pulmonar de forma espontánea o artificial. De esta forma, se intenta evitar la caída en el gasto cardiaco que tiene lugar con el pinzamiento inmediato con el pulmón no aireado. En el niño a término que no requiere reanimación, retrasar el pinzamiento de cordón se ha asociado a algunos beneficios clínicos y también en recién nacidos prematuros.
+@p 19
+
+La aireación pulmonar es el paso fundamental en la transición a la vida extrauterina.
+
+- **Ligadura de cordón umbilical con el pulmón no aireado**
+
+Como ya podemos intuir con el conocimiento de la circulación fetal, si se procede al pinzamiento del cordón umbilical antes de que se produzca la aireación pulmonar, ocurrirán dos fenómenos:
+  - Una pérdida de la contribución de la vena umbilical a la precarga del corazón izquierdo que implicará una caída del volumen/latido del ventrículo izquierdo.
+  - Un aumento de las resistencias vasculares sistémicas y de la tensión arterial en el feto, y por tanto un aumento de la postcarga del corazón izquierdo.
+
+Ambas situaciones son responsables de una caída del gasto cardiaco en los primeros minutos tras el pinzamiento del cordón umbilical si éste no se acompaña de una adecuada aireación pulmonar. (Figura 3)
+
+@img seneo-1-1-fig3.png
+@pie Clampado cordón Hemicuerpo superior Corazón izquierdo Pulmones Pulmones llenos de líquido Foramen oval Corazón derecho Conducto arterioso Conducto venoso Hemicuerpo inferior Placenta
+*Figura 3. Tras clampado del cordón(Adaptado de Stuart Hooper)*
+
+## 4 Transición térmica
+El recién nacido pasa de un medio líquido termoestable en su etapa fetal a un medio aéreo al nacer, lo cual favorece la pérdida de calor básicamente por mecanismos de evaporación y conducción.
+
+Debemos evitar tanto la pérdida de calor o hipotermia como la hipertermia, ya que ambas se han demostrado como factores que aumentan la morbimortalidad en el recién nacido.
+
+Al igual que los órganos se ajustan rápidamente al enorme cambio de la presión sanguínea y oxigenación, la termorregulación neonatal sustituye a la termoestabilidad intrauterina, con su inherente aumento de consumo de oxígeno. La mejor forma de mantener la normotermia y hacer una transición térmica adecuada es mediante el contacto piel con piel. En recién nacidos en los que esto no es posible, se recomienda
+@p 20
+el uso de cunas térmicas para mantener la temperatura corporal y el secado con toallas pre-calentadas. Además, en prematuros <32 semanas se debe mantener una temperatura ambiental adecuada (>26 °C) e introducir al bebé en bolsas de polietileno sin secarlo.
+
+## 5 Respuesta del feto / recién nacido en la transición anómala
+Existen situaciones patológicas (madre, placenta, feto) que pueden alterar la secuencia de cambios detallados previamente, comprometer la adecuada transición feto-neonatal y desencadenar la asfixia perinatal (Tabla 1).
+
+La hipoxia generada en esta situación de asfixia, condiciona el mantenimiento de la vasoconstricción del lecho vascular pulmonar y la disminución del gasto cardiaco, acidosis e hipercapnia, cuyas manifestaciones clínicas inmediatas son apneas, bradicardia e hipotensión.
+
+| {3} **Tabla 1. Factores que pueden alterar la transición neonatal** |
+|---|---|---|
+| **Factores anteparto** | **Factores intraparto** | **Factores postparto** |
+| Diabetes materna | Cesárea urgente | Hipotermia |
+| HTA (inducida por embarazo/ crónica) | Presentación anormal | Apnea |
+| Anemia o isoinmunización | Macrosomía/RCIU | Bradicardia |
+| Hemorragias del 2º o 3º trimestre | Trabajo de parto prematuro/ precipitado/prolongado | Dificultad respiratoria |
+| Infección materna / corioamnionitis | Ruptura de membranas >24 horas | Hipoperfusión |
+| Polihidramnios/Oligoamnios | Líquido amniótico meconial | Anemia |
+| Embarazo pretérmino/ postérmino/múltiple | Patrones de FC fetal anormales | Hemorragia a través del cordón |
+| Medicamentos (litio, magnesio, bloqueadores adrenérgicos) | Anestesia general | Anomalía congénita |
+| Abuso materno de drogas/ tabaquismo | Narcóticos 4 horas antes del parto | Factores de riesgo infeccioso |
+| Actividad fetal disminuida | Prolapso del cordón | Prematuridad |
+| Malformación fetal | Abruptio de placenta | Trauma obstétrico |
+| Gestación no controlada | Placenta previa | |
+| Edad materna <16 o >35 años | Parto instrumentado | |
+| Anomalía uterina o cervical | Rotura uterina | |
+
+@p 21
+@caja
+**SE RECOMIENDA**
+- La aireación pulmonar es el paso fundamental en la transición a la vida extrauterina.
+- El conocimiento de la fisiología de la transición es importante para conocer la base de las maniobras de reanimación.
+- El inicio de la aireación pulmonar podría marcar el momento óptimo para el pinzamiento del cordón umbilical.
+@fin
+
+@caja
+**NO SE RECOMIENDA**
+- El ordeño del cordón umbilical no se recomienda actualmente, y se desaconseja expresamente por debajo de las 28 semanas.
+- En neonatos que requieren reanimación se debe priorizar el inicio de la ventilación con presión positiva, no recomendándose retrasarla por el retraso en el pinzamiento de cordón umbilical.
+@fin
+
+@bib
+1. Hooper SB, Pas AB, Kitchen MJ. Respiratory transition in the newborn : a three-phase process. Arch Dis Child Fetal Neonatal Ed 2016;101: 266-71.
+2. Manual de Reanimación neonatal, Sociedad Española de Neonatología.4 edicion. Ergón, 2017;pp:1-272.
+3. Hooper SB, Kitchen MJ, Polglase GR. The physiology of neonatal resuscitation. Curr Opin Pediatr 2018; 30:187-191.
+4. Knol R, Brouwer E, van den Akker T, et al. Physiological-based cord clamping in very preterm infants. Randomised controlled trial on effectiveness of stabilisation. Resuscitation 2020;147: 26-33.
