@@ -1,0 +1,273 @@
+@f Fármacos/Antibióticos según protocolo
+# Antibióticos
+*sábado, 1 de julio de 2023*
+! Transcrito del PDF «Antibióticos» que aportaste (página de notas hecha de imágenes, sin texto). En el PDF cada tabla es una sola tabla con columnas ANTIBIÓTICO, DOSIS, INTERVALO y GERMEN; para que se lea en el móvil, cada antibiótico va en su bloque: arriba DOSIS y GERMEN, y debajo el INTERVALO con los mismos rótulos de columna que en el PDF (<=29, 30-36…). No se incluyen la foto de una prescripción con datos de una paciente, las fichas de gentamicina, amikacina, vancomicina y ampicilina, ni las capturas del curso sobre EGB.
+
+@deimg
+### AMPICILINA
+| **DOSIS** | **GERMEN** |
+|---|---|
+| 25-50 mg/kg // meningitis/sepsis grave // 100 mg/kg | EGB, Lysteria |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 1-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+### GENTAMICINA*
+^*^Valle: 0.5-1 mcg/ml
+
+^*^Pico: 5-12 mcg/ml
+
+| **DOSIS** | **GERMEN** |
+|---|---|
+| Según edad gestacional | EGB (sinergia) // BGN sensibles |
+
+| **<=29** | **30-34** | **>=35** |
+|---|---|---|
+| 0-7 5mg/48h // 8-28 4mg/36h // >=29 4mg/24h | 0-7 4.5mg/36h // >=8 4mg/24h | 4mg/24h |
+
+### PENICILINA
+| **DOSIS** | **GERMEN** |
+|---|---|
+| Meningitis // 100000 UI/kg/día // Bacteriemia // 50000 UI/kg/día | ^*^EGB: Bacteriemia 200000/Meningitis 450000 +/- aminoglicósido // ^*^Sífilis: 50000UI/kg/12x7 días + 3 dias más/8h |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 1-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7/12h // >7 /8h | /6 h |
+
+### CEFOTAXIMA
+| **DOSIS** | **GERMEN** |
+|---|---|
+| 50 mg/kg | **USO RESTRINGIDO** // E Coli R // ^*^Gonococo: 100mg/kg UNA dosis |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 1-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7/12h // >7 /8h | /6 h |
+
+### ERITROMICINA, AZITROMICINA, ACICLOVIR
+| **ANTIBIÓTICO** | **DOSIS** | **INTERVALO** | **GERMEN** |
+|---|---|---|---|
+| **ERITROMICINA** | 5-10 mg/kg/dosis // IV | /6 horas | Ureaplasma, Mycoplasma y Chlamydia |
+| **AZITROMICINA** | 20 mg/kg // x 3 días | /24 horas | Ureaplasma, Mycoplasma y Chlamydia |
+| **ACICLOVIR** | HSV: 20 mg/kg/dosis // VZV: 10 mg/kg/dosis | <30 semanas: /12 horas // 30-36 semanas: /8 horas | HSV, VVZ |
+@findeimg
+! En el PDF el intervalo del aciclovir va en dos columnas («<30 semanas» encima de «/12 horas» y «30-36 semanas» encima de «/8 horas»); los dos puntos los he añadido yo para juntarlo en una casilla. Los rótulos de los apartados (### AMPICILINA, etc.) son los nombres de la columna ANTIBIÓTICO; el de «ERITROMICINA, AZITROMICINA, ACICLOVIR» lo he puesto yo para agruparlos.
+
+# ANTIMICROBIANOS TRATAMIENTO SEPSIS NOSOCOMIAL
+@deimg
+## ANTIESTAFILOCÓCICOS
+### VANCOMICINA
+^*^Valle 5-10 mcg/ml (hasta 20 mcg/ml en SAMR)
+
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 10mg/kg // 15 mg/kg // (en 60 min) | |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-14 /18h // >14 /12h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+### CLOXACILINA
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 25-37.5 mg/kg | S Aureus |
+
+| **<=29** | **30-36** | **37-44** | **>45** |
+|---|---|---|---|
+| 0-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+### LINEZOLID
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 10 mg/kg // (en 30-120 min) // V.O. | **USO RESTRINGIDO** |
+
+| **RNT** | **RNPT<7días** |
+|---|---|
+| /8 horas | /12 horas |
+
+### CEFAZOLINA
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 25 mg/kg | |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+## ENTEROBACTERIAS
+### AMIKACINA
+^*^Valle: 2-5 mcg/ml
+
+^*^Pico: 20-30 mcg/ml
+
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 18 mg/kg // 1ª semana // 15 mg/kg // >7 días | |
+
+| **<=29** | **30-34** | **>=35** |
+|---|---|---|
+| 0-7 /48h // 8-28 /36h // >28 /24h | 0-7 /48h // >7 /24h | /24h |
+
+### MEROPENEM
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 20 mg/kg // ^*^Meningitis/ pseudomonas: 40 mg/kg | **USO RESTRINGIDO** |
+
+| **<32** | **>32** |
+|---|---|
+| 0-14 /12h // >14 /8h | 0-14 /12h // >14 /8h |
+
+### CEFTRIAXONA (iv/im)
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 50 mg/kg/24 horas // Meningitis: Una dosis 100 mg/kg, resto 80 mg/kg/24 h | **USO RESTRINGIDO** |
+
+### CEFTACIDIMA (iv/im)
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 30 mg/kg | Pseudomonas |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /8 h |
+
+### LEVOFLOXACINO, CIPROFLOXACINO, CEFIXIMA, CEFADROXILO
+| **ANTIBIÓTICO** | **DOSIS / INTERVALO** | **GERMEN/ COMENTARIO** |
+|---|---|---|
+| **LEVOFLOXACINO** | 10 mg/kg/12h | **USO RESTRINGIDO** |
+| **CIPROFLOXACINO** | <37 semanas: 10 mg/kg/12h // >37 semanas: 15 mg/kg/12h | **USO RESTRINGIDO** |
+| **CEFIXIMA** | 8 mg/kg/día/24 horas | **PASO A VÍA ORAL** |
+| **CEFADROXILO** | 15 mg/kg/dosis/12 horas | **PASO A VÍA ORAL** |
+
+### METRONIDAZOL
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| Carga: // 15 mg/kg // Mantenimiento // 7.5 mg/kg | **USO RESTRINGIDO** |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-28 /48h // >28 /24h | 0-14 /24h // >14 /12h | 0-7/24h // >7 /12h | /8 h |
+
+## ANTIFÚNGICOS
+| **ANTIBIÓTICO** | **DOSIS / INTERVALO** |
+|---|---|
+| **ANFOTERICINA B LIPOSOMAL** | 5-7 mg/kg/24 horas en 2 horas |
+| **FLUCONAZOL** | Carga: 25 mg/kg // Mantenimiento 12 mg/kg // <8 días: /48 horas // >=8 días: /24 horas |
+| **MICAFUNGINA** | 2-4 mg/kg (en caso de meningitis: 10 mg/kg )/24 horas |
+
+## ANTIVIRALES
+| **ANTIBIÓTICO** | **DOSIS / INTERVALO** |
+|---|---|
+| **ACICLOVIR** | 20 mg/kg/dosis // <30 semanas: /12 horas // 30-36 semanas: /8 horas |
+| **GANCICLOVIR (IV)** | 12 mg/kg/día/12 horas |
+| **VALGANCICLOVIR(ORAL)** | 32mg/kg/día/12 horas |
+@findeimg
+! En el PDF esta tabla tiene las columnas ANTIBIÓTICO, DOSIS, INTERVALO y GERMEN/ COMENTARIO. Los rótulos «DOSIS / INTERVALO» y los dos puntos tras «<37 semanas», «<8 días», etc. los he puesto yo al juntar casillas; los encabezados ### con varios nombres también. Levofloxacino y ciprofloxacino comparten la casilla «USO RESTRINGIDO», y cefixima y cefadroxilo la de «PASO A VÍA ORAL». En el PDF levofloxacino, ciprofloxacino, metronidazol, cefixima y cefadroxilo van tras ENTEROBACTERIAS sin rótulo de grupo propio. Antifúngicos y antivirales no tienen nada en la columna GERMEN/ COMENTARIO.
+
+# Notas
+@deimg
+**GENTAMICINA EN HIPOTERMIA ACTIVA SE PONE CADA 36H!!!**
+
+Genta y amika -> pico + valle en la 3 dosis
+
+Vanco -> valle en la 3 dosis
+@findeimg
+
+# SELLADO DE VANCO
+@deimg
+**VANCOMICINA + HEPARINA** (VANCOMICINA 2 mg/mL + HEPARINA 100UI/mL jer 3 mL sol sellado catéter)
+Vía: SELLADO CATETER
+
+Comprobar purgado del catéter. A diario sellar simultáneamente TODAS las luces del catéter con 2-3 mL por luz, idealmente durante 12-24 horas. Si una luz necesita usarse, confirmar que el sellado se haya mantenido al menos 2-3 h. Antes de utilizarla, aspirar la solución de sellado, lavar la luz y heparinizar. Esta luz se volverá a sellar al día siguiente.
+Para programar el envío de la solución, contactar con Farmacia e informar del tipo de catéter y luces a sellar. Teléfonos: Mañana 478587, y tardes y fines de semana 478768.
+@findeimg
+! Copiado de la foto de una prescripción de FARHOS. Se han quitado el nombre de la paciente, las fechas, la frecuencia y número de jeringas de esa paciente y la indicación concreta de su catéter («administrar 0,3 mL por cada luz…», catéter de 4 Fr, 3 luces y 13 cm), porque eran de ese caso y la app es pública.
+
+# Profilaxis antibiótica en cirugía
+! Este título lo he puesto yo: en el PDF es la foto de una tabla del Hospital General Universitario Gregorio Marañón sin título legible. En el original toda la fila lleva el color de la pauta; aquí solo la primera casilla. Los comentarios que en el PDF ocupan varias filas van en la primera de ellas, y una nota indica a cuáles se aplican.
+@deimg
+@ancha
+| **TIPO DE CIRUGÍA** | **PROFILAXIS** | **ANTIBIÓTICO** | **PAUTA** | **COMENTARIOS** |
+|---|---|---|---|---|
+| {5} **ORL** |
+| Fibrobroncoscopia diagnóstica | {3} NO | |
+| {fondo #CDEBD8} Fibrobroncoscopia terapéutica | NO^*^ | Cefazolina | 25 mg/kg/dosis | ^*^Según hallazgos |
+| {fondo #F4A6C8} Reconstrucción laringotraqueal | SÍ | Cefazolina | 25 mg/kg/dosis, 5-7días | |
+| {fondo #CDEBD8} Traqueostomía | SÍ | Cefazolina | 25 mg/kg/dosis, ≤24 horas | |
+| {fondo #CDEBD8} Atresia de coanas | SÍ | Cefazolina | 25 mg/kg/dosis, ≤24 horas | |
+| {5} **CIRUGÍA TORÁCICA** |
+| {fondo #CDEBD8} Lobectomía | SÍ | Cefazolina | 25 mg/kg/dosis | |
+| Secuestro pulmonar | {3} NO | |
+| {fondo #FCE4C8} Atresia de esófago | SÍ | Cefazolina | 25 mg/kg/dosis, 24-48 horas | |
+| {fondo #CDEBD8} Dilatación esofágica | SÍ | Amoxicilina clavulánico | 50 mg/kg/dosis | |
+| Plicatura diafragmática | {3} NO | |
+| {5} **CIRUGÍA ABDOMINAL** |
+| {fondo #CDEBD8} Atresia duodeno | SÍ | Cefazolina | 25 mg/kg/dosis | Valorar prolongar en caso de necrosis, contaminación fecal o signos de infección evidentes. En caso de incluir colon asociar metronidazol. |
+| {fondo #FCE4C8} Atresia intestino delgado | SÍ | Cefazolina | 25 mg/kg/dosis, 3-5 días | |
+| {fondo #CDEBD8} Vólvulo con resección intestinal | SÍ | Cefazolina | 25 mg/kg/dosis | |
+| {fondo #CDEBD8} Peritonitis meconial con obstrucción sin resección intestinal | SÍ | Cefazolina | 25 mg/kg/dosis | |
+| Malrrotación sin resección intestinal | {3} NO | Valorar antibioterapia en caso de necrosis, contaminación fecal o signos de infección evidentes. |
+| {fondo #F4A6C8} Perforación intestinal/NEC | SÍ | Amikacina y vancomicina | Amikacina 7,5 mg/kg; // vancomicina 10-15 mg/kg; Tto (7días) | |
+| {fondo #FCE4C8} Enfermedad de Hirschsprung | SÍ | Cefazolina+ metronidazol | Cefazolina 25 mg/kg; // metronidazol 10 mg/kg; 48 horas iv + una semana metronidazol oral | |
+| {fondo #CDEBD8} Malformación anorrectal. Colostomía | SÍ | Cefazolina+/- metronidazol^*^ | Cefazolina 25 mg/kg; // metronidazol 10 mg/kg | ^*^Cirugía antes/después 1ª 48 horas de vida |
+| {fondo #F4A6C8} Anorrectoplastia | SÍ | Cefazolina+/- metronidazol^*^ | Cefazolina 25 mg/kg; // metronidazol 10 mg/kg; 1-5 DÍAS | |
+| Estenosis hipertrófica del píloro | {3} NO | |
+| {fondo #CDEBD8} Gastrostomía/PEG | SÍ | Cefazolina | 25 mg/kg/dosis | |
+| {fondo #CDEBD8} Hernia diafragmática | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+| {fondo #CDEBD8} Cierre ileostomía | SÍ | Cefazolina | 25 mg/kg/dosis, ≤24 horas | |
+| {fondo #CDEBD8} Cierre colostomía | SÍ | Cefazolina+ metronidazol | Cefazolina 25 mg/kg; // metronidazol 10 mg/kg | |
+| {fondo #F4A6C8} Onfalocele | SÍ | Cefazolina | 25 mg/kg/dosis, 2-5 días | Por riesgo de enterocolitis. |
+| {fondo #F4A6C8} Gastrosquisis | SÍ | Cefazolina | 25 mg/kg/dosis, 2-5 días | |
+| {fondo #CDEBD8} Conducto onfalomesentérico | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+| {fondo #F4A6C8} Portoenterostomía Kasai | SÍ | Cefuroxima | 25-30 mg/kg, 5 días | Por riesgo de colangitis |
+| {5} **UROLOGÍA** |
+| Cirugía canal inguinal sin apertura intestino | {3} NO | |
+| Cirugía del pene o testes | {3} NO | |
+| {fondo #F7EB6B} Colocación cuerpo extraño | SÍ | Cefazolina | 25-30 mg/kg; hasta retirada | Tener en cuenta los aislamientos microbiológicos recientes. |
+| {fondo #CDEBD8} Cistoscopia | SÍ | Cefazolina | 25-30 mg/kg; 1 dosis | |
+| {fondo #CDEBD8} Cirugía con apertura intestino | SÍ | Cefazolina | 25-30 mg/kg; ≤24 horas | |
+| {fondo #CDEBD8} Ureteroscopia | SÍ | Cefazolina | 25-30 mg/kg; 1 dosis | |
+| {fondo #CDEBD8} Uropatía compleja | SÍ | Cefazolina + Gentamicina | Cefazolina 25 mg/kg; // gentamicina 2,5 mg/kg | |
+| {5} **CIRUGÍA CARDÍACA** |
+| Cateterismo diagnóstico | {3} NO | |
+| {fondo #CDEBD8} Cateterismo terapéutico | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+| {fondo #F7EB6B} Esternotomía con cierre esternal | SÍ | Cefazolina | 25 mg/kg; 24-48 horas | |
+| {fondo #F7EB6B} Esternotomía con tórax abierto piel cerrada | SÍ | Cefazolina | 25 mg/kg; 24-48 horas | |
+| {fondo #F7EB6B} Esternotomía con tórax abierto parche (>48 h) | SÍ | Cefazolina | 25 mg/kg; hasta cierre | Controles clínicos y analíticos y si sospecha de infección, iniciar antibioterapia empírica según protocolo. Tener en cuenta necesidad de reintervenciones. |
+| {fondo #CDEBD8} Cierre esternal | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+| {fondo #CDEBD8} Toracotomía | SÍ | Cefazolina | 25 mg/kg/dosis, ≤24 horas | |
+| Plicatura diafragmática | {3} NO | |
+| Toracoscopia | {3} NO | |
+| {5} **NEUROCIRUGÍA** |
+| {fondo #CDEBD8} Colocación válvulas de derivación | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+| {fondo #CDEBD8} Cierre defectos | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+| {fondo #F4A6C8} Mielomeningocele abierto | SÍ | Cefazolina | 25 mg/kg; Tratamiento (7días) | |
+| {5} **OTRAS CIRUGÍAS** |
+| {fondo #F4A6C8} Fisura palatina | SÍ | Amoxicilina clavulánico | 50 mg/kg; 5 días | |
+| Labio leporino | {3} NO | |
+| {fondo #CDEBD8} Teratomas sacrocoxígeos | SÍ | Cefazolina | 25 mg/kg/dosis, ≤24 horas | |
+| {fondo #CDEBD8} Resección tumores | SÍ | Cefazolina | 25 mg/kg/dosis, 1 dosis | |
+@findeimg
+! A qué filas se aplican los comentarios que en el PDF ocupan varias: «Valorar prolongar…» a atresia duodeno, atresia intestino delgado, vólvulo con resección y peritonitis meconial; «*Cirugía antes/después 1ª 48 horas de vida» a malformación anorrectal y anorrectoplastia; «Por riesgo de enterocolitis.» a onfalocele y gastrosquisis; «Tener en cuenta los aislamientos microbiológicos recientes.» a todas las de urología con profilaxis. El amarillo intenso (colocación cuerpo extraño y esternotomías) no aparece en el código de colores del PDF.
+
+@deimg
+| **CÓDIGO DE COLORES** | |
+|---|---|
+| Cirugía limpia, no precisa profilaxis antibiótica | |
+| Profilaxis en dosis única ó ≤24 horas | {fondo #CDEBD8} |
+| Profilaxis durante 24-72 horas | {fondo #FCE4C8} |
+| Tratamiento o profilaxis 3-5 días | {fondo #F4A6C8} |
+
+| **ANTIBIÓTICO** | **DOSIS** | **PAUTA SI TRATAMIENTO** |
+|---|---|---|
+| Cefazolina^*^ | 25 mg/kg | c/12h (primera semana)^**^ |
+| Amikacina^*^ | 7.5 mg/kg | c/24h (subir a dosis de tto) |
+| Vancomicina^*^ | 10-15 mg/kg | c/12h (primera semana) |
+| Gentamicina^*^ | 2.5 mg/kg | c/24h (subir a dosis de tto) |
+| Amoxicilina-clavulánico | 50 mg/kg | c/12h |
+| Metronidazol^*^ | 10 mg/kg (7.5 mg/kg en <1200g) | c/12-24h |
+| Cefuroxima | 50 mg/kg | c/8h |
+| {3} ^*^Consultar dosis/intervalo de administración según edad postmenstrual |
+| {3} ^**^Neonatos≤2kg: c/12h. neonatos>2kg: primeros 7 días pauta c/12h, a continuación c/8. |
+@findeimg
+Hospital General Universitario Gregorio Marañón
