@@ -1,0 +1,184 @@
+@f Fármacos/Antibióticos según protocolo/Pautas antibióticos
+# Antibióticos
+*sábado, 1 de julio de 2023*
+! Transcrito del PDF «Antibióticos» que aportaste (página de notas hecha de imágenes, sin texto). En el PDF cada tabla es una sola tabla con columnas ANTIBIÓTICO, DOSIS, INTERVALO y GERMEN; para que se lea en el móvil, cada antibiótico va en su bloque: arriba DOSIS y GERMEN, y debajo el INTERVALO con los mismos rótulos de columna que en el PDF (<=29, 30-36…). La tabla de profilaxis antibiótica en cirugía está en su propio apartado. No se incluyen la foto de una prescripción con datos de una paciente, las fichas de gentamicina, amikacina, vancomicina y ampicilina, ni las capturas del curso sobre EGB.
+
+@deimg
+### AMPICILINA
+| **DOSIS** | **GERMEN** |
+|---|---|
+| 25-50 mg/kg // meningitis/sepsis grave // 100 mg/kg | EGB, Lysteria |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 1-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+### GENTAMICINA*
+^*^Valle: 0.5-1 mcg/ml
+
+^*^Pico: 5-12 mcg/ml
+
+| **DOSIS** | **GERMEN** |
+|---|---|
+| Según edad gestacional | EGB (sinergia) // BGN sensibles |
+
+| **<=29** | **30-34** | **>=35** |
+|---|---|---|
+| 0-7 5mg/48h // 8-28 4mg/36h // >=29 4mg/24h | 0-7 4.5mg/36h // >=8 4mg/24h | 4mg/24h |
+
+### PENICILINA
+| **DOSIS** | **GERMEN** |
+|---|---|
+| Meningitis // 100000 UI/kg/día // Bacteriemia // 50000 UI/kg/día | ^*^EGB: Bacteriemia 200000/Meningitis 450000 +/- aminoglicósido // ^*^Sífilis: 50000UI/kg/12x7 días + 3 dias más/8h |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 1-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7/12h // >7 /8h | /6 h |
+
+### CEFOTAXIMA
+| **DOSIS** | **GERMEN** |
+|---|---|
+| 50 mg/kg | **USO RESTRINGIDO** // E Coli R // ^*^Gonococo: 100mg/kg UNA dosis |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 1-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7/12h // >7 /8h | /6 h |
+
+### ERITROMICINA, AZITROMICINA, ACICLOVIR
+| **ANTIBIÓTICO** | **DOSIS** | **INTERVALO** | **GERMEN** |
+|---|---|---|---|
+| **ERITROMICINA** | 5-10 mg/kg/dosis // IV | /6 horas | Ureaplasma, Mycoplasma y Chlamydia |
+| **AZITROMICINA** | 20 mg/kg // x 3 días | /24 horas | Ureaplasma, Mycoplasma y Chlamydia |
+| **ACICLOVIR** | HSV: 20 mg/kg/dosis // VZV: 10 mg/kg/dosis | <30 semanas: /12 horas // 30-36 semanas: /8 horas | HSV, VVZ |
+@findeimg
+! En el PDF el intervalo del aciclovir va en dos columnas («<30 semanas» encima de «/12 horas» y «30-36 semanas» encima de «/8 horas»); los dos puntos los he añadido yo para juntarlo en una casilla. Los rótulos de los apartados (### AMPICILINA, etc.) son los nombres de la columna ANTIBIÓTICO; el de «ERITROMICINA, AZITROMICINA, ACICLOVIR» lo he puesto yo para agruparlos.
+
+# ANTIMICROBIANOS TRATAMIENTO SEPSIS NOSOCOMIAL
+@deimg
+## ANTIESTAFILOCÓCICOS
+### VANCOMICINA
+^*^Valle 5-10 mcg/ml (hasta 20 mcg/ml en SAMR)
+
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 10mg/kg // 15 mg/kg // (en 60 min) | |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-14 /18h // >14 /12h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+### CLOXACILINA
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 25-37.5 mg/kg | S Aureus |
+
+| **<=29** | **30-36** | **37-44** | **>45** |
+|---|---|---|---|
+| 0-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+### LINEZOLID
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 10 mg/kg // (en 30-120 min) // V.O. | **USO RESTRINGIDO** |
+
+| **RNT** | **RNPT<7días** |
+|---|---|
+| /8 horas | /12 horas |
+
+### CEFAZOLINA
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 25 mg/kg | |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /6 h |
+
+## ENTEROBACTERIAS
+### AMIKACINA
+^*^Valle: 2-5 mcg/ml
+
+^*^Pico: 20-30 mcg/ml
+
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 18 mg/kg // 1ª semana // 15 mg/kg // >7 días | |
+
+| **<=29** | **30-34** | **>=35** |
+|---|---|---|
+| 0-7 /48h // 8-28 /36h // >28 /24h | 0-7 /48h // >7 /24h | /24h |
+
+### MEROPENEM
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 20 mg/kg // ^*^Meningitis/ pseudomonas: 40 mg/kg | **USO RESTRINGIDO** |
+
+| **<32** | **>32** |
+|---|---|
+| 0-14 /12h // >14 /8h | 0-14 /12h // >14 /8h |
+
+### CEFTRIAXONA (iv/im)
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 50 mg/kg/24 horas // Meningitis: Una dosis 100 mg/kg, resto 80 mg/kg/24 h | **USO RESTRINGIDO** |
+
+### CEFTACIDIMA (iv/im)
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| 30 mg/kg | Pseudomonas |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-28 /12h // >28 /8h | 0-14 /12h // >14 /8h | 0-7 /12h // >7 /8h | /8 h |
+
+### LEVOFLOXACINO, CIPROFLOXACINO, CEFIXIMA, CEFADROXILO
+| **ANTIBIÓTICO** | **DOSIS / INTERVALO** | **GERMEN/ COMENTARIO** |
+|---|---|---|
+| **LEVOFLOXACINO** | 10 mg/kg/12h | **USO RESTRINGIDO** |
+| **CIPROFLOXACINO** | <37 semanas: 10 mg/kg/12h // >37 semanas: 15 mg/kg/12h | **USO RESTRINGIDO** |
+| **CEFIXIMA** | 8 mg/kg/día/24 horas | **PASO A VÍA ORAL** |
+| **CEFADROXILO** | 15 mg/kg/dosis/12 horas | **PASO A VÍA ORAL** |
+
+### METRONIDAZOL
+| **DOSIS** | **GERMEN/ COMENTARIO** |
+|---|---|
+| Carga: // 15 mg/kg // Mantenimiento // 7.5 mg/kg | **USO RESTRINGIDO** |
+
+| **<=29** | **30-36** | **37-44** | **>=45** |
+|---|---|---|---|
+| 0-28 /48h // >28 /24h | 0-14 /24h // >14 /12h | 0-7/24h // >7 /12h | /8 h |
+
+## ANTIFÚNGICOS
+| **ANTIBIÓTICO** | **DOSIS / INTERVALO** |
+|---|---|
+| **ANFOTERICINA B LIPOSOMAL** | 5-7 mg/kg/24 horas en 2 horas |
+| **FLUCONAZOL** | Carga: 25 mg/kg // Mantenimiento 12 mg/kg // <8 días: /48 horas // >=8 días: /24 horas |
+| **MICAFUNGINA** | 2-4 mg/kg (en caso de meningitis: 10 mg/kg )/24 horas |
+
+## ANTIVIRALES
+| **ANTIBIÓTICO** | **DOSIS / INTERVALO** |
+|---|---|
+| **ACICLOVIR** | 20 mg/kg/dosis // <30 semanas: /12 horas // 30-36 semanas: /8 horas |
+| **GANCICLOVIR (IV)** | 12 mg/kg/día/12 horas |
+| **VALGANCICLOVIR(ORAL)** | 32mg/kg/día/12 horas |
+@findeimg
+! En el PDF esta tabla tiene las columnas ANTIBIÓTICO, DOSIS, INTERVALO y GERMEN/ COMENTARIO. Los rótulos «DOSIS / INTERVALO» y los dos puntos tras «<37 semanas», «<8 días», etc. los he puesto yo al juntar casillas; los encabezados ### con varios nombres también. Levofloxacino y ciprofloxacino comparten la casilla «USO RESTRINGIDO», y cefixima y cefadroxilo la de «PASO A VÍA ORAL». En el PDF levofloxacino, ciprofloxacino, metronidazol, cefixima y cefadroxilo van tras ENTEROBACTERIAS sin rótulo de grupo propio. Antifúngicos y antivirales no tienen nada en la columna GERMEN/ COMENTARIO.
+
+# Notas
+@deimg
+**GENTAMICINA EN HIPOTERMIA ACTIVA SE PONE CADA 36H!!!**
+
+Genta y amika -> pico + valle en la 3 dosis
+
+Vanco -> valle en la 3 dosis
+@findeimg
+
+# SELLADO DE VANCO
+@deimg
+**VANCOMICINA + HEPARINA** (VANCOMICINA 2 mg/mL + HEPARINA 100UI/mL jer 3 mL sol sellado catéter)
+Vía: SELLADO CATETER
+
+Comprobar purgado del catéter. A diario sellar simultáneamente TODAS las luces del catéter con 2-3 mL por luz, idealmente durante 12-24 horas. Si una luz necesita usarse, confirmar que el sellado se haya mantenido al menos 2-3 h. Antes de utilizarla, aspirar la solución de sellado, lavar la luz y heparinizar. Esta luz se volverá a sellar al día siguiente.
+Para programar el envío de la solución, contactar con Farmacia e informar del tipo de catéter y luces a sellar. Teléfonos: Mañana 478587, y tardes y fines de semana 478768.
+@findeimg
+! Copiado de la foto de una prescripción de FARHOS. Se han quitado el nombre de la paciente, las fechas, la frecuencia y número de jeringas de esa paciente y la indicación concreta de su catéter («administrar 0,3 mL por cada luz…», catéter de 4 Fr, 3 luces y 13 cm), porque eran de ese caso y la app es pública.
