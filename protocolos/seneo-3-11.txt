@@ -1,0 +1,199 @@
+@f 14. Protocolos SENEO/3.11. Convulsiones neonatales
+@p 197
+# 3.11 CONVULSIONES NEONATALES
+*Dorotea Blanco Bravo*
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 183-192 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen. Las figuras 1-4 (registros) se muestran recortadas; el algoritmo (Figura 5) y las tablas están copiados a mano.
+
+***El período neonatal es el momento de la vida de mayor vulnerabilidad para presentar crisis convulsivas.*** *Las convulsiones neonatales son el principal signo clínico de disfunción neurológica y en muchas ocasiones de enfermedad sistémica grave en el recién nacido y asocian un aumento de la mortalidad, secuelas neurológicas ( tanto déficit motor como cognitivo) y riesgo de epilepsia posterior.*
+
+*Desde un punto de vista clínico,* las convulsiones neonatales (CN) se definen como una alteración paroxística de la función neurológica motora, conductual o autonómica.
+
+*Desde un punto de vista electrográfico* las convulsiones se definen como un cambio paroxístico súbito en el EEG reconocible por ondas repetitivas monomorfas, que cambian en morfología, frecuencia y localización con una amplitud mínima de 2µV y duración de al menos 10 segundos. Tienen un inicio focal y suelen ser cortas (1,5-2 minutos) especialmente en el recién nacido pretérmino (RNPT) (Figura 1)
+
+@img seneo-3-11-fig1.png
+*Figura 1. RNPT 27 semanas. Sepsis por SGB. Progresión de HIV / infarto venoso hemorrágico. aEEG/EEG: crisis repetidas ( marcas verdes), en la 4ª crisis el EEG seriado muestra la progresión de la crisis con disminución de voltaje y cambio de morfología en 1,5 minutos de duración*
+
+El grupo neonatal de La liga internacional contra la epilepsia (ILAE), solo considera como convulsiones *probadas* las convulsiones electroclínicas o sólo electrográficas diagnosticadas mediante EEG; probables las identificadas por aEEG o las clínicas focales tónicas o clónicas si han sido observadas por un experto, siendo sólo categorizadas de *posibles* si se trata de otro tipo de convulsiones clínicas.
+
+*Su incidencia* es difícil de estimar y depende de la población estudiada, los métodos
+@p 198
+diagnósticos utilizados y el criterio diagnóstico empleado; se suele estimar del 1/1.000 en recién nacidos a término RNT siendo hasta 10 veces mayor en recién nacidos prematuros y del 10-20% de los neonatos de riesgo monitorizados con aEEG en UCIN
+
+En la práctica clínica actual, la monitorización electrográfica más utilizada en las unidades neonatales para el diagnóstico, valoración de respuesta al tratamiento y aproximación pronóstica es el aEEG/cEEG. La existencia de una actividad de base alterada, un estatus epiléptico y/o una respuesta pobre al tratamiento anticomicial, (más de dos fármacos para el cese de la actividad ictal) empeora el pronóstico (Figura 2).
+
+@img seneo-3-11-fig2.png
+*Figura 2. aEEG: registro inicial con estatus convulsivo con patrón “ en cepillo”, que finaliza con una dosis de carga de fenobarbital y continua con un patrón discontinuo. Al final del trazado DNV se aprecia el reinicio de una crisis de breve duración*
+
+***La monitorización prolongada con aEEG identifica al 80-90% de los RN con CN, teniendo correlato clínico sólo el 20%,*** lo que indica, una gran prevalencia de crisis subclínicas y la frecuente disociación electroclínica tras el tratamiento inicial anticomicial (más del 50% de las convulsiones neonatales persisten como crisis eléctricas después de la administración de un bolo de fenobarbital o fenitoína)
+
+La ausencia o desaparición del correlato clínico por el tratamiento anticomicial no mejora el pronóstico. La mejor medida de la exposición cerebral a la actividad comicial es la carga comicial (seizure burden) determinada por la frecuencia, tiempo de duración y extensión cerebral de las convulsiones (Figura 3).
+
+@img seneo-3-11-fig3.png
+@pie Full Array A B 1 2 3 4 5
+*Figura 3. Carga convulsiva témpora-espacial. La cuantificación de la extensión de las crisis, se realiza con dos montaje reducidos para 5 regiones de interés. Compartiendo el mismo electrodo en los canales seleccionados no se solapan en el contaje de las crisis eléctricas*
+
+@p 199
+La existencia de descargas breves periódicas (<10 seg), anticipa frecuentemente el inicio de las CN y se asocian con un pronóstico adverso similar a las propias CN.
+
+La disminución intermitente de la saturación regional de oxígeno cerebral (rSc02) durante las CN, se propone como un indicador de compromiso metabólico cerebral, indicando la necesidad de intensificación del tratamiento anticomicial
+
+***En la encefalopatía hipóxico-isquémica (EHI), la carga comicial se relaciona directamente con la gravedad observada en la RM cerebral, indicando el impacto directo de las crisis en el pronóstico de la EHI.*** Estos resultados avalan la necesidad de monitorizar no sólo al RN que presenta una CN clínica, sino a todo RN grave y/o con riesgo de presentar CN (Figura 4).
+
+@img seneo-3-11-fig4.png
+*Figura 4. EHI. Crisis convulsivas durante el recalentamiento del tratamiento con hipotermia. Antes del inicio del recalentamiento, la Saturación Regional cerebral de oxigeno (rScO2) se mantiene con leve variabilidad en un valor basal de 84. Al reiniciar el recalentamiento, el metabolismo cerebral aumenta y la rScO2 disminuye hasta 70. Posteriormente, se inician crisis convulsivas repetidas que se identifican en la gráfica del INVOS por ascensos y descensos sucesivos en la rScO2*
+
+Dada la importancia del control precoz de las CN, siendo escasos los ensayos clínicos que hayan valorado la eficacia y seguridad de los fármacos antiepilépticos habitualmente utilizados en el tratamiento de las CN, y la preocupación por sus posibles efectos adversos sobre el cerebro en desarrollo (especialmente en el RNPT), no es difícil comprender que nuevos fármacos antiepilépticos cada vez más avalados por ensayos clínicos de calidad y potencialmente neuroprotectores en el cerebro en desarrollo, se estén incorporado en la práctica clínica de las unidades neonatales. De todos ellos, el levetiracetam ya ha cambiado los protocolos de tratamiento en muchas unidades neonatales, utilizándose como fármaco de elección en la segunda línea de tratamiento.
+
+El siguiente algoritmo resume el diagnóstico diferencial y tratamiento de las CN (Figura 5)
+
+@p 200
+@deimg
+**ALGORITMO PARA EL TRATAMIENTO DE LAS CONVULSIONES NEONATALES (CN)**
+@flujo
+@cols 3
+[Si CN Tónica asimétrica + apnea/ desaturación +/- Clonismo uni o bilateral // Valorar: // **Oxcarbazepina (10mg/kg) o Topiramato (5mg/kg) (Sd. Epilépticos)**]
+---
+[**Sospecha de convulsión neonatal** // Confirmar convulsiones en EEG (si disponible) y continuar con MFC mediante aEEG // Descartar la existencia de causas corregibles: hipoglucemia y alteraciones electrolíticas // Comenzar con antibióticos/antiviral si el RN tiene fiebre o alto riesgo de infección del SNC // Realizar PL lo antes posible una vez estabilizadas las convulsiones]
+v
+[Si se confirma una convulsión en el aEEG sin una causa inmediatamente corregible: // **FENOBARBITAL 20mg/kg/iv y comenzar mantenimiento a 5mg/kg/día en 2 dosis**]
+---
+[**DIAGNÓSTICO DIFERENCIAL** // ***Trastorno Paroxístico NO epiléptico:*** // Provocada por estímulo externo // Irradiación + Sumación espaciotemporal // Cese con restricción (flexión pasiva) // Ausencia de cambios autonómicos // **Actividad Motora NO Comicial** // Nistagmo congénito, mirada perdida o disconjugada, temblor de alta frecuencia y baja amplitud, chupeteo del TET, mioclono benigno del sueño. // En la Hiperekplexia con mioclono nocturno el clonazepam reduce espasos tónicos y sobresaltos (0,15mg/kg)]
+@fincols
+(Hacer niveles de FB en 1-2 horas · Iniciar / continuar aEEG · Evaluzar clínica y aEEG 10’ después de dosis de carga)
+v
+**Si la convulsión persiste clínica o eléctrica**
+@cols
+[1a. Completar dosis de choque de FB 20 mg/kg (total 40 mg de carga) // En EHI+ hipotermia 10mg/kg (total 30mg/kg)]
+v
+**Si la convulsión persiste / recidiva**
+v
+[2a. Administrar carga de **LEVETIRACETAM**]
+---
+[1b. Administrar carga de **LEVETIRACETAM:** 40-60mg/kg // Opción Preferida si aEEG de base alterado o EHI // Mantenimiento: 20-40mg/kg/día en 2 dosis]
+v
+**Si la convulsión persiste / recidiva**
+v
+[2b. **Completar dosis de carga de FB:** (si es posible según niveles)]
+@fincols
+v
+**Si la crisis no cede / recidiva**
+@cols
+[A. Sin causa Probable / conocida]
+v
+[Ensayo Terapéutico con: // Piridoxina (RNT) / Piridoxal fosfato (RNPT) // Ácido folínico+Piridoxina]
+---
+[B. Con causa Probable / conocida: EHI, ECM, etc]
+v
+[Elegir un fármaco antiepiléptico en 3ª línea de tratamiento // Continuar tratamiento de mantenimiento con Levetiracetam]
+@fincols
+v
+@cols 3
+[**FENITOINA** // 20mg/kg iv. // Mantenimiento: 5mg/kg/día en 3 dosis // Niveles a la hora de la dosis de carga]
+---
+[**MIDAZOLAM** // carga: 0.15mg/kg // Mantenimiento: 1-18 ug/kg/min // Comenzar descenso a las 24 horas del control de las crisis]
+---
+[**LIDOCAINA (opción preferida si no se uso fenitoína)** // 2mg/kg/iv. + 6mg/kg/h x 6h. // ↓2mg/kg/h cada 12 h. // Duración máxima del tratamiento 36 horas]
+@fincols
+v
+**Si la crisis se mantiene como estatus convulsivo o recidiva**
+v
+[Realizar ensayo Terapéutico con Lidocaína si previamente no se utilizó Fenitoína. // Como último ensayo terapçeutico utilizar Perfusión de Pentobarbital]
+@finflujo
+@findeimg
+*Figura 5. Actitud ante las convulsiones neonatales*
+*EEG: electroencefalograma; EHI: encefalopatía hipóxico-isquémica; MFC:monitor de función cerebral*
+! Así en el PDF: en 1a, «20 mg/kg (total 40 mg de carga)», sin «/kg» tras 40. «Si la convulsión persiste / recidiva» es un único rótulo con flechas hacia 2a y 2b; las flechas de doble sentido unen 1a↔2a y 1b↔2b. Del paso B sale la flecha hacia los tres fármacos de 3ª línea.
+
+***La etiología principal de las CN es la EHI,*** seguida de la HIV/ infarto venoso hemorrágico periventricular (IVHPV) en el RNPT, y en RNT el infarto cerebral arterial perinatal y las hemorragias intracraneales. Son causas menos frecuentes, las infecciones del SNC, malformaciones cerebrales, enfermedades metabólicas congénitas (ECM) y encefalopatías epilépticas. Una vez confirmada la existencia de CN en aEEG/EEG y teniendo en cuenta el momento de inicio, el tipo, el trazado de base, la existencia o no de encefalopatía clíni-
+@p 201
+ca (presente en: EHI, hipoglucemia, meningitis/encefalitis, ECM, hemorragia intracraneal importante; y ausente en: infarto arterial cerebral neonatal (ICAN), hipocalcemia / hipomagnesemia, hemorragia subdural o epidural pequeñas, canalopatías, deprivación de drogas, disgenesia cerebral, mioclono benigno infantil y del sueño), el correlato aEEG/ EEG y la patología de base, se inicia la escalada diagnóstica y terapéutica. (Tablas 1 y 2).
+
+@deimg
+@ancha
+| {3} **Tabla 1. Clasificación, etiología características clínicas y correlato eléctrico de las convulsiones neonatales** |
+|---|---|---|
+| **Clasificación y Etiología** | **Correlato EEG** | **Caracterización clínica** |
+| **Sutiles** // Signos oculares // Orobucolinguales // Automatismos motores // Signos Autonómicos // **EHI y otras agudas graves** | **Pobre en RNT** // **Frecuente en RNPT** | Desviación ocular sostenida, parpadeo, nistagmmo, Apertura sostenida de párpados con mirada neutra Protusión rítmica de la lengua, movimientos de succión, masticación o chupeteo rítmico // Movimientos estereotipados de natación, remo, boxeo, pedaleo, marcha // Cambios bruscos de TA, Frecuencia cardíaca, ritmo respiratorio (incluyendo apnea e hipo) // Fenómeno cutáneo vasomotor, aumentos de la salivación y cambios en el tamaño pupilar |
+| **Clónicas** // EHI, ICAN // Infecciones y Hemorragia extraxial y parenquimatosa | **Bueno** | Sacudidas, rítmicas lentas (1-3 por segundo) en cara, miembros o tronco, incluso en diafrágma // Focal: Afecta a grupos musculares de cara, cuello, tronco o miembros de un lado del cuerpo // Multifocal: Incolucran de forma síncrona o asíncrona a grupos del mismo lado corporal o simultáneamente pero sin sincronía o alternando entre los dos lados del cuerpo |
+| **Tónica** // Genética: // KCNK2, KCNT1, CDKL5, STXBP1... | **Pobre** // En encefalopatías agudas graves las CN tónicas suelen ser generalizadas y sin correlato | Contracción muscular sostenida que origina un cambio postural transitorio de segundos a minutos. // Focal: Postura asimétrica sostenida de un miembro o del tronco. Desviación ocular tónica // Generalizada: Postura asimétrica sostenida de miembros (en flexión o extensión), cara, cuello y tronco con posturas inusuales que pueden ser provocadas o intensificadas por estimulación táctil |
+| **Mioclónica** // Enfermedades metabólicas congénitas (ECM) | **Pobre** // Frecuente en generalizadas // Infrecuente en focal y multifocal | Sacudidas súbitas, rápida y breves <100 mseg o contracciones musculares axiales o de miembros // Focal o multifocal: Involucran a músculos flexores de MMSS. Si multifocales :contracción asíncrona Generalizada: Sacudidas bilaterales y sincronas de flexión de miembros superiores y, a veces inferiores |
+| **Espasmos** // Esclerosis tuberosa // Malformaciones cerebrales | **Bueno** | Sacudida súbita, rápida de flexión extensión o mixta predominantemente proximal y truncal. Más lentas que un movimiento mioclónico |
+| **Secuenciales** // Genética: // KCNK2, KCNT1, CDL5, STXBP1... | **Bueno** | Eventos convulsivos con cambios en la secuencia del tipo clínico de crisis y actividad electrográfica |
+
+@p 202
+@ancha
+| {4} **Tabla 2. Estudios Diagnósticos en las Convulsiones Neonatales** |
+|---|---|---|---|
+| | **PRIMERA LÍNEA** // Guardar muestras de suero, orina y LCR para estudios de segunda línea y previos a tratamiento para ECM | **SEGUNDA LÍNEA** // Realizar muestras pareadas de LCR y plamas para glucosa y aminoácidos (déficit del transportador e LCR GLUT1 e hiperglicimenia no cetósica) | **TERCERA LÍNEA** // Evaluaciones orientadas // Individualizar |
+| **Sangre/ Plasma** | Hemograma. // Ionograma: Na, K, Cl, Mg, Fosforo // pH-gasometría. // Bioquímica: transaminasas, láctico, PCR, procalcitonina. // Amonio // Estudio microbiológico. // Serología TORCH | Aminoácidos, lactato / piruvato, CDG, Homocisteína, acilcarnitinas // **Estudio trombofilia:** mutaciones Factor V Leiden y protrombina 20210A, proteína C, y S, antitrombina III // Lipoproteína A. MTHFR | Ácido pipecólico // α aminoadípico semialdehído // AG de cadena muy larga // Mutaciones: ARX, CDKL5, SLC5A22, TXBP1, KCNQ3, KNCQ2. ALDH7A1, PNPO, COL41A, COL41B |
+| **LCR** | Citoquímico. Gram y Estudio bacteriológico // Estudio viral: **herpes. Enterovirus (EV)** (poliovirus, Echo, Coxsackie B1-B5: *encefalomiocarditis neonatal fulminante,* enterovirus y reovirus). // ***Parechovirus:*** no incluido en estudios de PCR a EV. Convulsiones y hipercogenicidad de SB. // Cultivo heces | Aminoácidos, neurotransmisores, GABA // 5-MTHFR | α aminoadípico semialdehído |
+| **Orina** | Determinación de Tóxicos // Valorar PCR a CMV | Ácidos orgánicos, pH, sulfitest // Guanidinoacetato // Sustancias reductoras | α aminoadípico semialdehído |
+| **Imagen** | Ecografía - Doppler cerebal *(seriada si sospecha de ICTUS neonatal)* | RM (T1.T2, DWI) // Espectroscopia RM: en ECM y EHI | PET con 2Deoxiglucosa (Alt transportador de glucosa GLUT1) |
+| **Otros** | | Estudio oftalmológico: Coloboma, Catarata y estudio Fondo de Ojo (Coriorretinistis, depósito, etc) | Biopsias tisulares |
+@findeimg
+
+***En la actualidad, los estudios genéticos avanzados y la RM, han permitido disminuir drásticamente el número de CN clasificadas de idiopáticas.***
+
+El pronóstico final depende de la etiología identificada, de la respuesta al tratamiento de la enfermedad de base y de la carga comicial en respuesta al tratamiento.
+
+***El tratamiento debe suspenderse lo antes posible*** según la causa y el control de la patología de base: después de 24/48 horas sin crisis en procesos agudos conocidos. EHI, ICAN, IVHPV en RNPT, precisando seguimiento clínico y electrográfico por el neurólogo infantil en los casos más complejos y/o de peor pronóstico: disgenesias corticales y encefalopatías epilépticas tempranas de presentación neonatal. La epilepsia familiar benigna y las CN no familiares benignas suelen ser auto limitadas y tener un desarrollo normal, pero mutaciones en *KCNQ2* pueden dar también lugar a encefalopatía epiléptica precoz. Ambas, responden al tratamiento con bloqueantes de canales de sodio como oxcarbaze-
+@p 203
+pina, fenitoína y topiramato. Tablas (3, 4 y 5).
+
+@deimg
+@ancha
+| {4} **Tabla 3. Síndromes con Encefalopatía Epiléptica Temprana de Presentación Neonatal** |
+|---|---|---|---|
+| | **ENCEFALOPATÍA MIOCLÓNICA TEMPRANA** | **ENCEFALOPATÍA EPILÉPTICA INFANTIL TEMPRANA (Síndrome de Ohtahara)** | **CONVULSIONES PARCIALES MIGRATORIAS MALIGNAS** |
+| **Etiología** | **ECM:** hiperglicemia no cetósica, acidurias orgánicas // Déficit cofactor del molibdeno // Epilepsia dependiente de Piridoxina/Piridoxal P // **MUTACIONES en:** ARX, CDKL5, SLC5A22, STXBP1 // **ALTERACIONES DEL DESARROLLO CEREBAL** | **ALTERACIONES DEL DESARROLLO CEREBAL** // **CITOPATÍA MITOCONDRIAL** // **MUTACIONES:** ARX, CDKL5, SLC5A22, STXBP1 | **NO** etiología metabólica // **NO** alteración del desarrollo cerebral en RM // **MUTACIONES: TBC1D24. KCTN1, SCN1A** |
+| **Convulsiones en vigilia o sueño** | Mioclonias fragmentarias y/o erráticas // Convulsiones parciales, mioclonias masivas // Espasmos tónicos | Espasmos tónicos, hemiconvulsiones // Convulsiones tónicas generalizadas // Convulsiones erráticas focales | Convulsiones parciales multifocales frecuentes incluso contínuas (motoras o autonómicas) |
+| **EEG interrictal** | **Brote - Supresión.** Más alterado con la profundización del sueño | **BS tanto en sueño como en vigilia** | Actividad epileptiforme multifocal con enlentecimiento difuso del trazado de base |
+| **EEG ictal** | El mioclono errático o fragmentario no tiene generalmente correlato eléctrico ictal | Atenuación difusa del trazado en ocasiones con actividad rápida de bajo voltaje | Inicio multifocal de la actividad epiléptica |
+| **Evolución EEG** | Persistencia del trazado BS>1 año. // Puede evolucionar a hipsarritmia atípica o paroxismos multifocales | Trazado hipsarrítmico a la edad de 2-6 meses | **EEG muy alterado** |
+| **Evolución clínica** | Grave alteración neurológica. Incluso estado vegetativo. 50% fallecen en el 1º año | 75% a Síndrome de West o Lennox-Gastaut // Alteración del desarrollo cognitivo y motor | Alteración del desarrollo cognitivo y motor // Microcefalia y atrofia cerebral |
+
+@ancha
+| {6} **Tabla 4. Errores Congénitos del Metabolismo (ECM) con convulsiones neonatales como síntoma principal** |
+|---|---|---|---|---|---|
+| | **Caracterización** | **Clínica** | **Diagnóstico** | **Pruebas Complementarias** | **Tratamiento** |
+| Epilepsia dependiente de Piridoxina | AR. // Deficiencia Antiquitina. // Pronóstico cognitivo variable. Deoendiente de mutación y Precocidad del tratamiento | Encefalopatía/ irritabilidad // Alt Tª, digestivas, Acidosis // Crisis precoces: intraútero | Prueba de tratamiento // ↑ ácido pipecólico y AASA // Mutación ALDH7A1 | EEG: BS o patrón multifocal // Normal en casos atípicos // RM: leucoencefalopatía // Hipoplasia de CC y cerebelo // Crisis sin tratamiento: HIV | Piridoxina // Existen respondedores sin el trastorno metabólico |
+@p 204
+@pie Tabla 4. Errores Congénitos del Metabolismo (ECM) con convulsiones neonatales como síntoma principal (continuación) Caracterización Clínica Diagnóstico Pruebas Complementarias Tratamiento
+| Epilepsia dependiente de Piridoxal-fosfato | Primeros casos: RNPT con EHI-like y epilepsia precoz mioclónica | Epilepsia mioclónica precoz refractaria al tratamiento con piridoxina | Respuesta a Piridoxal-P // LCR: ↓ HVA y 5-HIAA. // ↑ treonina y glicina // Mutación PNPO | EEG: BS | Pirodoxal-P // Pronóstico dependiente de la precocidad del tratamiento |
+| Epilepsia dependiente de ácido folínico | Subgrupo de epilepsias dependiente de Piridoxina: Mutaciones ALDH7A1 | Crisis intratables en RN que responden al tratamiento con ácido folínico | | | Papel coadyuvante en epilepsias dependientes de piridoxina con control solo parcial al tratamiento |
+| Alts metabolismo Biotina: // 1. Deficiencia HCLS Holocarboxilada sintetasa // 2. Déficit Biotinidasa | AR // Genes (21q22.1 / 3p25) // 1. Inicio Neonatal // 2. Neonatal / lactante | Hiperpnea/apnea // Ciclos letargia/ irritabilidad // Alts tono, Rash cutáneo/ alopecia // Olor especial orina. Hipotermia // Estridor, queratoconjuntivitis | Actividad ↓ biotinidasa // Aciduria orgánica // Episodios intermitentes de: vómitos, letargia, ↑ láctico y amonio, cetosis | EEG: BS o patrón multifocal // RM: Alteración de SB // Dilatación ventricular // ↓ Actividad HLCS / biotinidasa en Leucocitos o fibroblastos | Biotina. (especialmente útil en el déficit de biotinidasa) |
+| Deficiencia Cofactor molbdeno y Sulfito - Oxidasa | AR // Déficit conjunto o aislado de Oxidasas. // Gen SUOS(SO) o MOCS GPHN (CM) | Encefalopatía epilética precoz // Crisis mioclónicas refractarias // Microcefalia adquirida // Subluxación del cristalino // Ausencia de antecedentes de EHI | Sulfitest + (sulfituria) // Hipohomocisteinemia // Hipouricemia <1 md/dl // ↑hipoX y Xantina orina // Fenotipo característico | EEG: BS o multifocal // RM: EHI grave-Like // Leucoencefalopatía difusa grave // Determinación de Sulfito y Xantin oxidasa en Fibroblastos | No existe Tto eficaz // Exiitus en 1ª meses de vida |
+| Déficit del transportador Glucosa: GLUT 1 | Codificado por gen: SLC2A1 | Encefalopatía epiléptica refractaria con crisis de todo tipo a veces relacionadas con el ayuno | Glucosa LCR/ sangre <40 (glucosa sangre 15 min antes de LCR en ayunas) // Lactato LCR: N o ↓ | EEG: paroxismos multifocales. Evolución a complejos punta-onda 2,4-5Hz generalizados. // PET con FDG: hipometabolismo | Dieta cetogénica // Ácido alfa-lipoico // Evitar Fb y diazepam (disminuyen función GLUT-1) |
+| Sd de Alpert: Poliodistrofia infantil progresiva | | Encefalopatía rápidamente progresiva con epilepsia refractaria mioclónica y atrofia cerebral progresiva | Puede existir afectación hepática iniciarse en lactantes >2 meses | Neonatal: Sd hipocinesia fetal, microcefalia, retrognatia, CIR | |
+| Enfermedad de Menkes Triolipodistrofia Enfermedad pelo ensortijado | Recesival ligada al X // Secuenciación del gen ATP7A | Alt primaria metabolismo del Cu | ↓ Cu sérico < 11 umoles // Ceruloplasmina <210 mg/dl | EEG: paroxística multifocal // RM: Atrofia cerebral // Alt arterias cerebrales | Histidinato de Cu iv precoz |
+@p 205
+@pie Tabla 4. Errores Congénitos del Metabolismo (ECM) con convulsiones neonatales como síntoma principal (continuación) Caracterización Clínica Diagnóstico Pruebas Complementarias Tratamiento
+| Enfermedades por alteración de síntesis de neurotransmisores | 1. GABA y pterinas // 2. Serina // 3. Homocisteína y folatos | 1. Convulsiones mioclónicas precoces // 2. Microcefalia catarata, CIR.PCI // 3. Anemia megaloblástica, Encefalopatía microcefalia, apenas | 1. SSDH, GABA tmasa, GTPCH // 2. Serina en LCR <18uM/L // 3. ↑homocisteina ↓ Serina | Estudio enzimático fibroblastos // Estudio de Mutaciones | 2. L Serina +/- glicina // 3. Betaina |
+| Trastornos de las purinas Adenilosucinato liasa | Déficit ADSL // Dx: determinación enzima | Epilepsia mioclónica severa neonatal // CIR, microcefalia, Hipocinesia fetal | Test de SAICAR. Secuenciación del Gen | EEG: BS. RM: atrofia cerebelosa y Leucodistrofia | Ddf: Alt trnsportador mitocondrial del glutamato: SLC25A22. Biopsia de piel |
+| Ceroidolipofuccinosis Neonatal. CLN10 | AR. Deficiencia de Catepsina Proteasa lisosomal | Status, microcefalia, apnea. // Curso fatal en días/ semanas | Biopsia de piel // Mutación CTSD | RM: atrofia SB y gris | |
+
+| {3} **Tabla 5. Diagnóstico diferencial de las canalopatías** |
+|---|---|---|
+| **Características** | **Convulsiones neonatales familiares benignas** | **Convulsiones neonatales familiares - infantiles benignas** |
+| Inicio | Segundo o tercer día postnatal (80%). 1º sem | Entre los dos días y los 7 meses. (11.2 ± 9.2 semanas) |
+| Tipo de convulsión | Mixta: comienzan con actividad motora tónica y apnea, y progresan a convulsiones clónicas multifocales. Historia familiar. | Manifestación motora focal (desviación de la cabeza y los ojos) seguida de movimientos tónicos y clónicos. Historia familiar |
+| Duración de las convulsiones | Generalmente cortas (pocos segundos) | Generalmente largas (hasta cuatro minutos) |
+| Frecuencia | Variable (3-20 veces/día) | Variable |
+| Ceses de las convulsiones | 2/3 < 6 semanas pero pueden hasta < 6 meses | Primeros 12 m |
+| Estados entre crisis | Normal | Normal |
+| EEG ictal | Descarga punta-onda generalizada | inicio de las descargas en áreas posteriores |
+| Curso y evolución | Benigna: desarrollo normal, 30% crisis febriles y 10-16% epilepsia. | Benigna: desarrollo normal. |
+@findeimg
+
+@caja
+**SE RECOMIENDA**
+- Se debe monitorizar por aEEG no sólo al RN que presenta una convulsión clínica, sino a todo RN grave y/o con riesgo de presentar convulsiones.
+@p 206
+- Ante una convulsión neonatal sin causa corregible como hipoglucemia, alteraciones electrolíticas, el fármaco anticomicial recomendado es el fenobarbital
+@fin
+
+@bib
+1. Blanco D. Convulsiones Neonatales. Master en Neonatología de la SENeo. 1ª edición Panamericana
+2. García- Alíx A, Arnáez J. Neurología Neonatal de un vistazo. 2ª Ed. Editorial: Cabeza de chorlito 2022. p.1-244.
+3. Pressler RM, Cilio MR, Mizrahi EM et al. The ILAE classification of seizures and epilepsies: modification for seizures in the neonate. Position Paper by the ILAE Task Forcé on Neonatal Seizures. Epilepsia 2021;62:615-628

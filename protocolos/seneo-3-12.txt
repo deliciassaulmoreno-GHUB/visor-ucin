@@ -1,0 +1,214 @@
+@f 14. Protocolos SENEO/3.12. Asfixia y encefalopatía hipóxico-isquémica cerebral. Hipotermia terapéutica
+@p 207
+# 3.12 ASFIXIA Y ENCEFALOPATÍA HIPÓXICO-ISQUÉMICA CEREBRAL. HIPOTERMIA TERAPÉUTICA
+
+*Alfredo García-Alix Pérez^1^, Gemma Arca Díaz^1,2^, Juan Arnáez Solís^1,3^*
+
+*^1^Fundación NeNe, Madrid. ^2^Hospital Clinic, IDIBAPS, Barcelona. ^3^Hospital Universitario de Burgos*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 193-199 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definiciones
+
+**Asfixia perinatal.** Estado que resulta de la reducción del aporte de oxígeno y/o del flujo sanguíneo alrededor del nacimiento. Ha de ser sospechada en cualquier neonato con antecedente de estado fetal no tranquilizador, evento centinela o distocia de parto que al nacimiento precisa reanimación avanzada y presenta una prueba de Apgar ≤ 5 a los 5' y/o un pH cordón ≤ 7.00, déficit de bases (DB) > 16.
+
+**Encefalopatía hipóxico-isquémica (EHI).** Término que señala que el neonato presenta una alteración funcional del sistema nervioso central atribuida a una agresión hipóxicoisquémica. Esta es por lo general debida a asfixia perinatal intraparto.
+
+## 2 Incidencia EHI
+
+La incidencia es muy variable en el mundo y es dependiente del nivel de recursos del país o área geográfica. En nuestro país la incidencia es alrededor del 1 por mil recién nacidos vivos.
+
+**Relevancia de la EHI**
+Es la principal causa de muerte neonatal en el recién nacido (RN) a término, de morbilidad neurológica grave en el RN a término o casi término y de convulsiones neonatales.
+
+Es responsable del 20% de los casos de parálisis cerebral en la niñez, siendo tras la prematuridad, el problema neurológico neonatal más relevante a tenor de los DALYs (años de vida ajustados por discapacidad) estimados para cualquier problema neurológico en la infancia. El impacto en la salud infantil junto con sus implicaciones para la familia y la sociedad, hacen que esta entidad constituya un importante problema sociosanitario.
+
+**Atención centrada en la familia en el neonato con asfixia perinatal-EHI**
+El nacimiento y hospitalización de un RN con asfixia perinatal que desarrolla una EHI es
+@p 208
+una experiencia inesperada, estresante y traumática para madres y padres.
+
+La separación del bebé, la tecnología de las Unidades de Cuidados Intensivos Neonatales (UCIN), el miedo al fallecimiento e incertidumbre por su futuro, dificultan la interacción física con el RN, perturban el establecimiento del vínculo y rol maternal-paternal, impactando negativamente en la salud emocional familiar.
+
+La comunicación terapéutica es una herramienta fundamental para proporcionar a la familia información, soporte emocional y acompañamiento a los progenitores y construir una relación de colaboración con ella.
+
+**Cadena de neuroprotección cerebral del neonato con asfixia perinatal**
+La adherencia a este conjunto de acciones en secuencia durante las primeras 6 horas de vida es crucial para optimizar los resultados evolutivos (Figura 1).
+@deimg
+@flujo
+[**Antecedentes de riesgo** // Estado fetal no tranquilizador // Evento centinela // Distocia de parto]
+
+v
+
+[1. **Reanimación**]
+
+v
+
+[2. **Apagar calor** (monitorizar Tª Central) // Apagar lecho térmico una vez reanimado el RN]
+
+v
+
+[3. **INGRESO -Activar Código Hipotermia**]
+
+v
+
+[4. **Estabilizar signos vitales** // Monitorizar FC, FR, StO2, TA // Esfuerzo respiratorio]
+
+v
+
+[5. **Monitorizar homeostasis**]
+
+v
+
+[6. **Identificar encefalopatía mod-grave** (escala +aEEG) // [[*Sine qua non* para establecer la necesidad de HT]]]
+
+(Si posible tomar decisión mas cerca de las 3 que de las 6 horas de vida)
+
+v
+
+[7. **Iniciar Hipotermia - Traslado** (Tª Central 33ºC) // Considerar indicación compasiva en: EG 34-35sem / 6-12 hdv / <1800gr]
+@finflujo
+(Mantener en hipotermia pasiva hasta la decisión final)
+
+| **Desde la reanimación** | **Si no disponibilidad de hipotermia terapéutica** | **Controla los siguientes factores comorbidos** |
+|---|---|---|
+| Si asistolia persistente a los 10 minutos, a pesar de una reanimación adecuada, individualizar decisión de interrumpir la reanimación. Las tasas de supervivencia sin discapacidad a los 24 meses son ≈ 20,5% (normotermia) y 27% (si hipotermia terapéutica). | Contactar con centro de referencia y continuar la cadena hasta el antepenúltimo punto. Mientras se espera a equipo de transporte | ○ Temperatura corporal central (rectal). Evitar hipertermia y oscilaciones de temperatura. // ○ Esfuerzo y patrón respiratorio. // ○ PaCO~2~ -Evitar hipocarbia (PaCO~2~< 25 mmHg) // ○ PaO~2~- Evitar hipo/hiperoxia // ○ StO~2~ entre 87 y 95% // ○ pH y gases. Utilizar pH-stat (corregir pH, pCO~2~, pO~2~ por la temperatura del bebé) // ○ Glucemia. Evitar hipoglucemia (< 50 mg/dl). // ○ Tensión arterial (TAM >45 mmHg). Evitar hipotensión y oscilaciones en la TA. // ○ Ca^2+^ y Mg. Evitar hipoCa^2+^ < 1 mmol/L e hipoMg < 1,6 mg/dl. |
+
+[[Los factores comórbidos señalados pueden agravar *per se* el daño hipóxico-isquémico e impactar negativamente en la evolución de los pacientes]]
+@findeimg
+*Modificada de Arnaez J y cols. Atención integral del neonato con encefalopatía hipóxico-isquémica en España. An Pediatr 2020;92(5):286-296. Figura 1. Cadena de neuroprotección cerebral del neonato con asfixia perinatal*
+! En el PDF la cadena son siete círculos encadenados con dibujos; la numeración 1-7 y el rótulo «Desde la reanimación» los he puesto yo. Cada recuadro inferior cuelga en el original de un eslabón: el de asistolia de la reanimación, el de «no disponibilidad» del código hipotermia y el de factores comórbidos de la monitorización de la homeostasis.
+
+@p 209
+## 3 Gradación de la gravedad de la EHI
+
+**Pasos a seguir**
+1. Observa atentamente al bebé durante largos segundos. Presta atención a: estado de vigilia, apertura ocular y llanto, postura, actividad motora espontánea, sacudidas o temblores.
+2. Si no está despierto, estimular de forma progresiva y pausada para ver su capacidad para despertar y los segundos que se mantiene alerta.
+3. Utiliza una escala de gradación de la gravedad de la EHI. En la Figura 2, muestra una gradación categórica, la cual es la aproximación más común, pero otra estrategia es utilizar escalas que estratifican la gravedad de la disfunción neurológica en puntos.
+| {5} **Figura 2. Gradación de la gravedad de la Encefalopatía hipóxica isquémica** |
+|---|---|---|---|---|
+| **Gravedad** | **Dominios** | **Signos Clínicos** | **Items del aEEG** | **Registro aEEG**** |
+| **Leve** | Alerta | Normal | Trazado de fondo | Normal (CVN) o moderadamente alterado (DC) |
+| | Tono muscular | Alterado: hipotonía o hipertonía | Ciclos vigilia-sueño | Presentes o ausentes |
+| | Respuestas motoras | Normales | Convulsiones eléctricas | Ausentes |
+| | Reactividad | Normal o hiperexcitabilidad: reflejos miotáticos exagerados, temblor, sacudidas | | |
+| | Convulsiones clínicas | Ausentes | | |
+| **Moderada** | Alerta | Letargia o estupor moderado | Trazado de fondo | Alterado de forma moderada (DC) o grave (BS, CBV, I) |
+| | Tono muscular | Alterado: generalmente hipotonía | Ciclos vigilia-sueño | Ausentes |
+| | Respuestas motoras | Disminuidas, calidad normal | Convulsiones eléctricas | Presentes o ausentes |
+| | Reactividad | Reflejos miotáticos disminuidos, respuestas primitivas alteradas | | |
+| | Convulsiones clínicas | Presentes o ausentes | | |
+@p 210
+@pie Figura 2. Gradación de la gravedad de la Encefalopatía hipóxica isquémica (continuación) Gravedad Dominios Signos Clínicos Items del aEEG Registro aEEG**
+| **Grave** | Alerta | Estupor grave o coma | Trazado de fondo | Alterado de forma grave (BS, CBV, I) |
+| | Tono muscular | Hipotonía grave o flácido | Ciclos vigilia-sueño | Ausentes |
+| | Respuestas motoras | Ausentes o estereotipadas | Convulsiones eléctricas | Presentes o ausentes |
+| | Reactividad | Generalmente reflejos miotáticos y respuestas primitivas ausentes | | |
+| | Signos de disfunción del tronco encéfalo | Ausentes o presentes | | |
+| | Convulsiones clínicas | Ausentes o presentes | | |
+
+*Fuente: García-Alix A, Arnaez J. Neurología Neonatal de un Vistazo. Ed Cabeza de Chorlito 2022; pág 110. Figura 2. Gradación de la gravedad de la Encefalopatía hipóxica isquémica*
+
+## 4 Manejo y control de la EHI moderada o grave
+
+En la figura 3 se resume el control y manejo de la EHI moderada o grave
+@img seneo-3-12-fig3.png
+@deimg
+**Medicación** (de la Figura 3)
+
+- Desmedetomidina (estudios preliminaries). Carga inicial 0,4µg/Kg/h y mantenimiento 0,2-0,4 µg/Kg/h. Máximo 1-1,5 µg/Kg/h. Vigilar bradicardia
+- Fenobarbital, si convulsiones eléctricas o clínicas, dosis de choque máxima 30 mg/kg, mantenimiento 2-3 mg/kg/d
+- Fentanilo 1-3 mcg/kg/h o sulfato de morfina (dosis carga 240 µg g/kg, mantenimiento 20 µg /kg/h). Considerar administrar en bolos
+- Evitar aminoglucosidos y midazolam.
+@findeimg
+*Fuente: García-Alix A, Arnaez J. Neurología Neonatal de un Vistazo. Ed Cabeza de Chorlito 2022; pág 113. Figura 3. Manejo de la encefalopatía hipóxico-isquémica*
+
+*Ex Neuro= examen neurológico. FC = frecuencia cardiaca, FR = frecuencia respiratoria, TA = tensión arterial, FSC = flujo sanguíneo cerebral, RM = resonancia magnética*
+! La Figura 3 es un cronograma (de 6 h a 7-14 días) y se muestra recortada del PDF; el recuadro de medicación se ha copiado además como texto. Así en el PDF: «dosis carga 240 µg g/kg».
+
+@p 211
+**Disfunción multiorgánica**
+La gran mayoría de los pacientes con EHI presentan disfunción de gravedad variable en múltiples órganos y sistemas como parte del espectro de alteraciones asociadas a la agresión hipóxica-isquémica. Esta disfunción influye en el manejo terapéutico y puede gravar el daño cerebral o la disfunción neurológica.
+
+Cuanto más grave es la EHI, mayor es el número de órganos afectados y más grave es la disfunción de los órganos afectados.
+
+En la Figura 4 se señalan los principales órganos o sistemas involucrados en la disfunción multiorgánica, su expresión clínica y los estudios de control y tratamiento.
+@deimg
+@ancha
+| | **Cardiovascular** // ≈ 80% EHI grave // ≈ 30% EHI moderada | **Respiratorio** // ≈ 90% EHI grave // ≈ 35% EHI moderada | **Renal** // ≈ 50% EHI grave // ≈ 20% EHI moderada | **Gastrointestinal Hepático** | **Coagulopatía** // ≈ 30% EHI grave // ≈ 18% EHI moderada |
+|---|---|---|---|---|---|
+| **Espectro clínico** | · Hipotensión // · ↓ Contractilidad cardiaca // · ↓ Gasto cardiaco // · Bradicardia | · Insuficiencia respiratoria-necesidad de soporte respiratorio // · Hipertensión pulmonar (HTPP) | · ↓ diuresis/oliguria // · IRA aguda // · Hiponatremia // · SIADH // · Disfunción tubular | · Hipoglucemia // · ↑ transaminasas (> 100 UI/L) // · Sangrado gástrico | · Trombocitopenia // · Coagulopatía // · Sangrado activo (sobre todo pulmón y gastrointestinal) |
+| **Estudios / Control** | · Troponina-T y Troponina-I y/o CK-MB (en sangre) // · Depresión ST y cambios en la onda Q en el ECG // · TAM, StO~2~ pre y postductal // · Ecocardiografía: precarga, contractilidad, postcarga y gasto cardiaco | · Control: gases sanguíneos // · Objetivo // – pH > 7,3 // – PCO~2~ 37,5-52,5 mmHg | · Diuresis/balance hídrico // · Cistatina C* // · Creatinina // · Ecografía renal // · Orina // – Urianalisis // – Ionograma urinario // – Densidad / osmolaridad // – B2mg / NAG | · Restos gástricos sanguinolentos // · pH en estómago // · Glucemia // · ALT y AST // · LDH // · Protrombina // · Albúmina | · TTPa // · Tiempo protrombina // · INR // · Fibrinogeno // · Plaquetas // · Dimero D // *Las determinaciones en el laboratorio se hacen a temperatura > 34ºC, por lo que los tiempos reales pueden ser más largos* |
+| **Tratamiento** | · Adrenalina // · Dobutamina // · Dopamina // · Milrinona | · Si HTPP: // – Milrinona** // – Sidenafilo // – Óxido Nítrico (iNO) | · Si necesidad de terapia de reemplazo por IRA: diálisis peritoneal | · Si necesario administración vit K, infusión albúmina o plama fresco congelado | · Plasma fresco congelado si CID // · Crioprecipitado (hipofibrinogenemia) // · Plaquetas |
+@findeimg
+*Fuente: García-Alix A, Arnaez J. Neurología Neonatal de un Vistazo; Ed Cabeza de Chorlito 2022; pág 113. Figura 4. Disfunción orgánica en la EHI*
+
+**Tratamiento: hipotermia terapéutica**
+La hipotermia terapéutica (HT) es una intervención eficaz y segura cuando es realizada en UCINs de tercer nivel. La HT no aumenta ni reduce la disfunción multiorgánica asociada a la EHI
+
+Problemas específicos durante el recalentamiento: convulsiones (con frecuencia subclínicas), vasodilatación periférica que puede conducir a hipotensión, hiperkaliemia (por salida de K del interior de la célula)
+
+Es necesario tratar entre seis y nueve RN con EHI moderada o grave para evitar un caso
+@p 212
+de muerte-discapacidad mayor. Aún con HT cerca de un 25% de los neonatos tratados fallece y aproximadamente un 20% de los que sobreviven, presentarán discapacidad grave.
+
+## 5 Aproximación al pronóstico
+
+Todos los recién nacidos con EHI deben tener acceso durante el período neonatal a aquellas pruebas con capacidad diagnóstica y pronóstica comprobada.
+
+Relevancia de establecer el pronóstico
+
+- Derecho y necesidad imperiosa de los padres y una obligación del médico
+- Anticipación del curso clínico y de los problemas (magnitud) durante la infancia y la niñez
+- Planificación individualizada del seguimiento a corto y largo plazo y establecer potenciales necesidades e intervenciones rehabilitadoras
+- Crucial para considerar la reorientación del cuidado curativo al cuidado paliativo
+
+@img seneo-3-12-fig5.png
+@deimg
+| {3} **Gravedad de la EHI y riesgo de evolución adversa*** |
+|---|---|---|
+| | **Normotermia** | **Hipotermia** |
+| Moderada | 52% (45-66%) | 35% (28-41%) |
+| Grave | 77% (59-100%) | 64% (58-76&) |
+
+| {6} **Evolución neurológica adversa según la edad en horas de vida que permanece el trazado aEEG muy alterado** |
+|---|---|---|---|---|---|
+| Edad (horas) | 6 | 24 | 36 | 48 | 72 |
+| Normotermia | 88% | 98% | 98% | 98% | 94% |
+| Hipotermia | 59% | 72% | 84% | 93% | 96% |
+
+| **Concentraciones de NSE a las 48 h** | **Punto corte ng/mL** | **VPP/VPN** |
+|---|---|---|
+| Lesión moderada grave en RM | 80 | 1,0/0,78 |
+| Evolución adversa* | 108 | 1,0/0,86 |
+
+*\* Muerte o discapacidad mayor*
+@findeimg
+*Figura 5. Principales estudios para establecer el pronóstico*
+! La Figura 5 se muestra recortada del PDF; sus tres tablas numéricas se han copiado además como texto. «64% (58-76&)» está así en el PDF.
+
+@p 213
+La gravedad del daño de ganglios basales y tálamo (GBT) es un buen indicador predictivo de trastorno del desarrollo, particularmente de parálisis cerebral discinética o espástica. La alteración franca de la señal en el brazo posterior de la cápsula interna (BPCI) es uno de los mejores predictores del desarrollo motor y la capacidad para deambular a la edad de 2 años.
+
+Los trastornos de la sustancia blanca (SB), característicos del patrón de daño en territorios limítrofes, tienen consecuencias menos graves que el patrón central. La alteración grave de la SB puede impactar sobre todo en los dominios cognitivos, lenguaje y conducta.
+
+En la secuencia de difusión por RM (DWI), la observación de degeneración pre-Walleriana de los pedúnculos cerebrales se asocia casi invariablemente con un trastorno motor.
+
+**Seguimiento tras el alta**
+Las consecuencias de la EHI sobre el neurodesarrollo y la calidad de vida futura del RN justifican que estos niños sean incluidos en programas de seguimiento específicos con el fin de identificar y tratar precozmente los problemas que puedan surgir, así como para ofrecer orientación y apoyo a las familias.
+@caja
+**SE RECOMIENDA**
+- Establece la cadena de neuroprotección cerebral de forma estricta ante cualquier RN con asfixia perinatal.
+- El cuidado neuroprotector se sustenta en cuatro pilares esenciales: HT, control de factores comórbidos, neuromonitorización y atención centrada en la familia.
+- Establece el pronóstico de forma individualizada. En este proceso examina el conjunto de datos disponible y en la valoración de la RM sigue un orden sistemático y gradúa la gravedad del daño por estructuras.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Retrasar la decisión de HT ante la presencia de EHI moderada o grave.
+- Conformarse con una sola evaluación complementaria para establecer el pronóstico.
+@fin
+@bib
+1. Agut T, León M, Rebollo M, et al. Early identification of brain injury in infants with hypoxic ischemic encephalopathy at high risk for severe impairments: accuracy of MRI performed in the first days of life. BMC Pediatr 2014;14:177.
+2. Del Río R, Ochoa C, Alarcon A, et al. Amplitude Integrated Electroencephalogram as a Prognostic Tool in Neonates with Hypoxic-Ischemic Encephalopathy: A Systematic Review. PLoS One 2016; 11:e0165744.
+3. León-Lozano MZ, Arnaez J, Valls A, et al. Cerebrospinal fluid levels of neuron-specific enolase predict the severity of brain damage in newborns with neonatal hypoxicischemic encephalopathy treated with hypothermia. PLoS One 2020; 15: e0234082.
+4. Garcia-Alix A, Arnaez J, Arca G, et al. Development, Reliability, and Testing of a New. Rating Scale for Neonatal Encephalopathy. J Pediatr 2021; 235:83-91.e7.

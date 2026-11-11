@@ -1,0 +1,128 @@
+@f 14. Protocolos SENEO/3.13. Infarto cerebral
+@p 214
+# 3.13 INFARTO CEREBRAL
+
+*Juan Arnáez Solís^1,2^, Gemma Arca Díaz^2,3^, Alfredo García-Alix^2^*
+
+*^1^Hospital Universitario de Burgos. ^2^Fundación NeNe, Madrid. ^3^Hospital Clinic, IDIBAPS, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 200-206 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición
+
+El neonato es la población pediátrica con mayor tasa de infarto cerebral. Se define como aquella condición en la que existe una interrupción focal del flujo sanguíneo cerebral por trombosis arterial o venosa o por un émbolo arterial entre la semana 20 de la vida fetal y el día 28 postnatal, con confirmación en estudios de neuroimagen o neuropatológicos.
+
+Puede ser clasificado de acuerdo a: (Figura 1)
+
+- El momento del diagnóstico y presuntamente el momento en que ocurrió el infarto, en base a la neuroimagen: fetal, neonatal y presuntamente perinatal.
+- La naturaleza del evento en base a las características clínicas-anatómicas.
+- En base a la presencia de clínica en la fase aguda: sintomático o asintomático.
+@img seneo-3-13-fig1.png
+@pie ICTUS PERINATAL Sintomático Asintomático Fetal Neonatal Presuntamente perinatal Isquémico Hemorrágico Arterial Venoso Trombosis seno venoso Infarto venoso periventricular Hemorragia parenquimatosa
+*Figura 1. Infarto fetal: ocurre entre la semana 20 de la gestación y el parto; es diagnosticado antes del nacimiento mediante neuroimagen o por estudio neuropatológico. Infarto neonatal: ocurre entre el parto y el día 28. Infarto presuntamente perinatal: es diagnosticado después del día 28 de vida y se cree que ocurrió en el periodo perinatal.*
+@p 215
+**Infarto cerebral neonatal (ICAN)**
+## 2 Etiopatogenia
+
+La mayoría de ICANs probablemente resultan de tromboémbolos procedentes de la placenta. Otras fuentes potenciales incluyen el feto, el corazón y los vasos extracraneales - cervicales (carótida) o abdominales- por lo que debe realizarse una búsqueda sistemática de trombos extracerebrales mediante eco-doppler
+
+| **Factores de riesgo Maternos** | **Fetales y perinatales** | **Neonatales** |
+|---|---|---|
+| • Maternos // • Drogas (cocaína) // • Diabetes // • Preeclampsia // • Corioamnionitis // • Infertilidad // • Oligoamnios // • Vasculopatía trombótica de la placenta // • Rotura prematura de membranas // • Trombofilia // • Enfermedad autoinmune | • Trombofilia // • Transfusión gemelo-gemelo o feto materna // • Trombosis placentaria // • Abruptio de placenta // • Asfixia perinatal/EHI // • Traumatismo perinatal // • Lesión vasos cervicales // • Disección arteria carótida interna // • Malformación vascular // • Mutación COL4A1 // • Mutación JAM3 | • Policitemia // • Deshidratación // • Trombofilia congénita // • Meningitis / infección sistémica // • Hipoglucemia // • Catéteres centrales // • Cardiopatía congénita // • Shunt izquierda–derecha con hipertensión pulmonar // • ECMO/atrioseptostomía // • Hiperhomocistinemia |
+
+## 3 Aproximación diagnóstica (Figura 2)
+@deimg
+@flujo
+[**Debut clínico** // **Sospecha diagnóstica** // **Clínica sugestiva** // Convulsiones clónicas (hemicorporales) o apnea (epiléptica). Con menor frecuencia: letargia, irritabilidad, hipotonía en un lado del cuerpo // · Ecografía Doppler cerebral (repetir cada 24 hrs) // · aEEG (preferiblemente bi/multicanal) y EEG]
+
+v
+
+(**Búsqueda de trombos:** ecografía cardiaca y abdominal, ecografía-doppler vasos cervicales)
+
+v
+
+[**Confirmación y pronóstico** (2d-5d) // **RM precoz** T1W, T2W, DWI y angio-RM (TOF)]
+
+v
+
+[(7d-14d) **RM T1W y T2W** (si no hay diagnóstico con RM precoz, o hay dudas sobre la existencia del infarto arterial o venoso, o se quiere precisar aspectos de la extensión) // **EEG prealta**]
+@finflujo
+@findeimg
+*Figura 2. Aproximación diagnóstica al ICAN: Fuente: García-Alix A, Arnáez J. Neurología Neonatal de un Vistazo; Ed Cabeza de Chorlito 2022; pag 133.*
+! En el PDF la Figura 2 es una línea de tiempo (debut clínico, 2d, 5d, 7d, 14d); los intervalos entre paréntesis los he puesto yo según esa línea.
+@p 216
+*Ultrasonografía cerebral.* El rendimiento diagnóstico depende del equipo, del operador, el tamaño del infarto, la localización y el momento de la evaluación respecto al debut clínico. Oscila entre 60-80% en las primeras 24 h, entre 66-86% entre las 24-48 h y entre 82-93% después de las 48 h. La sospecha ecográfica del infarto no excluye la necesidad de confirmación mediante RM.
+
+*Resonancia magnética cerebral.* (Figura 3) La eficiencia diagnóstica para cada secuencia depende del tiempo transcurrido desde el infarto. El momento óptimo es la primera semana tras el debut clínico. El estudio de RM debe adjuntar angiografía vascular (TOF) incluyendo las arterias supraaórticas (porción intracraneal/extracraneal).
+@img seneo-3-13-fig3.png
+@pie DWI T2W T1W 24h 24-48 h 49 h-7 d 7d
+*Figura 3. Diagnóstico del ICAN mediante RM multimodal. Fuente: García-Alix A, Arnáez J. Neurología Neonatal de un Vistazo; Ed Cabeza de Chorlito 2022; pag 135.*
+@p 217
+**Distribución del infarto arterial**
+@img seneo-3-13-fig4.png
+*Figura 4. Tomado de Stephan-Otto C, et al; Stroke (2017). Imagen izquierda mostrando el área (en amarillo) en la que se ubican al menos el 50% de los ICANs. Las imágenes se han superpuesto todas en el hemisferio izquierdo. Imagen derecha: A: Axial; B: sagital; Las regiones coloreadas son donde al menos el10% de los ICAN se superponen. El color de mayor intensidad significa superposición en al menos el 40% de los sujetos. Orientación radiológica con el hemisferio izquierdo en el lado derecho.*
+
+La mayoría son unifocales (80%). Y cuando es multifocal, suelen ser bilaterales (90%). La arteria más involucrada es la arteria cerebral media (ACM) (96%), sobre todo a la izquierda (60%). Se clasifican según el territorio vascular de la ACM involucrado (Figura 5)
+@img seneo-3-13-fig5.png
+@pie M1 Prebifurcación ICAN que afecta al territorio de la ACM en su segmento inicial e incluye los ganglios de la base. M1 Postbifurcación ICAN que afecta al territorio de la ACM en su segmento inicial pero no incluye los ganglios de la base. M2 Segmento insular ICAN que afecta al territorio de la insula. Multifocal unilateral Mismo o distintos territorios en el mismo hemisferio. M3 Segmento opercular ICAN que afecta a un labio opercular respetando la insula. Multifocal bilateral Infartos en ambos hemisferios. M4 Segmento cortical, o pial ICAN en la convexidad y distal a la cisura de Silvio.
+*Figura 5. Clasificación del territorio vascular afectado. Tomada de García-Alix A, Arnáez J. Neurología Neonatal de un Vistazo; Ed Cabeza de Chorlito 2022; pag 137. Modificado de: Arca G, et al; Arch Dis Child Fetal Neonatal Ed. 2020; 105:132-137.*
+! Las figuras 1, 3, 4, 5 y 6 combinan dibujos e imágenes de RM y se muestran recortadas del PDF.
+@p 218
+## 4 Aproximación al pronóstico
+
+Examinar los siguientes puntos para estimar la potencial gravedad del ICAN (Figura 6)
+
+- Territorio arterial involucrado según las principales arterias cerebrales.
+- Si ICAN en el territorio de la ACM, establecer el segmento involucrado (M1 a M4).
+- Focal o multifocal (unilateral o bilateral).
+- Las estructuras que involucra el área de lesión. Examinar las siguientes estructuras:
+  - Corona radiada conduciendo las fibras corticoespinales hacia la cápsula interna
+  - Brazo posterior de la cápsula interna
+  - Giro supramarginal u angular
+  - Radiaciones ópticas
+  - Áreas asociativas y afectación por delante o detrás del surco central.
+- Signos de infarto masivo (desviación de la línea media, colapso ventricular, colapso del espacio extraaxial). Estos niños suelen debutar (convulsiones) más precozmente y son más duraderas, involucran al territorio tributario del segmento M1 de la ACM y conllevan alto riesgo (> 70%) de evolución adversa a los 2 años de edad.
+- Degeneración pre-walleriana en talámo, cuerpo calloso, caudado, cápsula interna, pedúnculos cerebrales. Si afectación del pedúnculo: a) porcentaje del mismo, b) longitud afectada de los tractos corticoespinales descendentes.
+- Duración temporal de la asimetría en la electroencefalografía integrada por amplitud (aEEG) y en la oximetría cerebral. A mayor duración, peor pronóstico cognitivo
+- Concentraciones de enolasa neuronal específica en líquido cefalorraquídeo. Los valores entre las 24 y 96 h tras el debut clínico se correlacionan con el volumen del infarto, el segmento arterial de la ACM involucrado y con el pronóstico. Predicen evolución adversa (S 71% y E 78%). Concentraciones > 60 ng/mL se asocian con evolución adversa moderada-grave.
+@p 219
+@img seneo-3-13-fig6.png
+@pie DWI Si degeneración pre-Wall en tracto corticospinal y pedúnculos cerebrales Muy alta probabilidad (> 80%) de trastorno motor: monoplejia o hemiplejia contralateral Se desconoce si la degeneración pre-Wall en tálamo empeora el pronóstico Resonancia magnética multimodal La probabilidad de discapacidad ulterior aumenta cuanto más grande es el infarto (> volumen) y más estructuras están involucradas en la lesión > 70% deficit moderado grave* MDI o PDI < 70 en cualquier dominio de la prueba de Bayley-III, y/o parálisis cerebral (GMFCS II-V). T1W, T2W Amplia afectación lóbulo frontal Riesgo de trastorno cognitivo Ganglios basales y cápsula interna Alta probabilidad de trastorno motor (monoplejia o hemiplejia) Epilepsia Extensa afectación cortical Giro supramarginal y angular Riesgo de trastorno del lenguaje y necesidad de logopedia Trastornos conductuales (¿?)
+*Figura 6. Utilidad de la RM multimodal parta establecer el pronóstico. Tomada de García-Alix A, Arnáez J, Neurología Neonatal de un Vistazo; Ed Cabeza de Chorlito 2022; pag 137. La degeneración pre-Walleriana (pre-Wall) es parte del proceso de degeneración anterógrada que acontece a nivel distal cuando se produce un daño en el soma neuronal o en el axón. Se caracteriza por un aumento de la intensidad de la señal en la RM- DWI en áreas remotas al infarto. Acontece en la primera semana y parece evolucionar con el tiempo, siendo más evidente en las imágenes subagudas (4-13 d) que en las agudas (< 48 h).*
+
+Las consecuencias a largo plazo son en gran medida dependientes de la localización y extensión del ICAN (Tabla 1).
+
+| {3} **Tabla 1. Consecuencias neurológicas a los 7 años del infarto cerebral neonatal** |
+|---|---|---|
+| {3} *Evolución neurológica a los 7 años* |
+| {fondo #F2A7C9} | Alteración neurodesarrollo | ≈ 40-50% |
+| {fondo #D9302B} | Alteración motora | < 35% |
+| {fondo #8DC63F} | Alteración cognitiva | < 10% |
+| {fondo #A99AD0} | Bajas habilidades académicas | < 30% |
+| {fondo #8FB1DE} | Alteración del lenguaje | 40-50% |
+| {fondo #FDDB3A} | Epilepsia | < 15% |
+
+El riesgo de recurrencia es muy bajo, estimándose que es inferior al 3% y puede ocurrir si hay factores protrombóticos o cardiopatía congénita
+@p 220
+## 5 Tratamiento
+
+El tratamiento es de soporte y anticonvulsivo. Se debe realizar destete progresivo del antiepiléptico si el neonato ha estado libre de convulsiones durante al menos 48-72h.
+
+En el momento actual no existe un tratamiento específico, y el código ictus pediátrico no incluye al ICAN. No se utilizan tratamientos utilizados en otras edades pediátricas como la trombolisis o la anticoagulación y antiagregación. Existen algunos casos aislados en los que se ha realizado endotrombectomía. Además de medidas de neuroprotección como la hipotermia, en el horizonte están tratamientos esperanzadores de reparación del tejido dañado, en concreto con células madre mesenquimales.
+@caja
+**SE RECOMIENDA**
+- Sospechar esta lesión focal cerebrovascular ante convulsiones clónicas o pausas de apnea de carácter epiléptico, especialmente en los primeros tres días de vida.
+- La RM multimodal establece el diagnostico definitivo, permitiendo definir la localización precisa del territorio arterial involucrado, la extensión del infarto y las estructuras involucradas, así como establecer el pronóstico.
+- En el presente, el tratamiento del ICAN está limitado a la terapia de soporte y al tratamiento anticonvulsivo, pero en el horizonte se hayan la endotrombectomía y la administración de células madres autólogas o heterólogas (celulas mesenquimales).
+- Establecer precozmente el tratamiento rehabilitador.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Demorar el estudio de RM en caso de manifestaciones sugestivas de ICAN.
+- Mantener el tratamiento anticonvulsivante de forma prolongada en ausencia de trazado epiléptico interictal al alta.
+@fin
+@bib
+1. Olivé G, Agut T, Echeverría-Palacio CM, et al. Usefulness of Cranial Ultrasound for Detecting Neonatal Middle Cerebral Artery Stroke. Ultrasound Med Biol. 2019;45:885-890.
+2. Stephan-Otto C, Núñez C, Arca G, et al. Three-Dimensional Map of Neonatal Arterial Ischemic Stroke Distribution From Early Multimodal Brain Imaging. Stroke 2017; 48:482-485.
+3. Arca G, Arnaez J, Agut T, et al. Neuron-specific enolase is correlated with lesion topology, relative infarct volume and outcome of symptomatic NAIS. Arch Dis Child Fetal Neonatal Ed 2020; 105:132-137.
+4. Chabrier S, Peyric E, Drutel L, et al. Neonatal Stroke Study Group. Multimodal Outcome at 7 Years of Age after Neonatal Arterial Ischemic Stroke. J Pediatr 2016;172:156-161.e3.
+5. Wagenaar N, Martinez-Biarge M, van der Aa NE, et al. Neurodevelopment After Perinatal Arterial Ischemic Stroke. Pediatrics 2018; 142:e20174164.

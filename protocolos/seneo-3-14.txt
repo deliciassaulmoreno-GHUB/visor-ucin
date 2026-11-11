@@ -1,0 +1,118 @@
+@f 14. Protocolos SENEO/3.14. Lesión de la sustancia blanca del niño prematuro
+@p 221
+# 3.14 LESIÓN DE LA SUSTANCIA BLANCA DEL NIÑO PREMATURO
+
+*Eva Valverde^1^, Ana Alarcón^2^, Thais Agut^2^*
+
+*^1^Hospital Universitario La Paz, Madrid. ^2^Hospital Universitari Sant Joan de Déu, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 206-214 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La lesión de la sustancia blanca (LSB) es la lesión cerebral más frecuente en el recién nacido prematuro (RNPT) y puede estar presente en mayor o menor grado en hasta el 50% de los recién nacidos menores de 28 semanas de gestación. Es la causa principal de las alteraciones del neurodesarrollo que presenta la población de niños prematuros, sobre todo en las áreas cognitiva, conductual y atencional. Su etiopatogenia es multifactorial y el espectro de LSB amplio; mientras la LSB quística ha disminuido en frecuencia en las últimas décadas debido a la mejora de los cuidados neonatales, la LSB difusa prevalece en la población de prematuros extremos que sobreviven actualmente.
+
+## 2 Fisiopatología de la lesión de la sustancia blanca del recién nacido prematuro
+
+La fisiopatología de la LSB es multifactorial y se explica en gran medida por factores madurativos que hacen vulnerable a la sustancia blanca (SB) del RNPT. El preoligodendrocito (Pre-OL) es la célula predominante en la SB inmadura. Forma parte de la cubierta de los axones inmaduros y se encuentra en una fase de rápida diferenciación, en preparación para la producción de mielina una vez alcanzado el estado de oligodendrocito maduro. La etiopatogenia del daño al Pre-OL está relacionada con tres factores que interactúan entre sí: 1) la hipoxia-isquemia cerebral, 2) la infección e inflamación sistémicas, y 3) la vulnerabilidad intrínseca del Pre-OL durante el periodo comprendido entre las 24 y las 32 semanas de edad gestacional.
+
+El estado de maduración de la vascularización cerebral del RNPT contribuye a la susceptibilidad de la SB a la hipoxia-isquemia. Existe un área de vascularización limítrofe en la SB periventricular entre las ramas perforantes piales profundas y las que vascularizan a los núcleos grises centrales. Dicha zona de vascularización limítrofe es muy sensible a la hipoperfusión cerebral. A esto hay que sumar que la autorregulación del flujo sanguíneo cerebral en el RNPT enfermo a menudo se encuentra alterada. Esto hace que caídas incluso mínimas en la presión arterial sistémica se acompañen de hipoperfusión cerebral e isquemia. Tanto la hipotensión sistémica como la hipocarbia (por medio de la vasoconstricción cerebral) son factores de riesgo evitables de la LSB.
+@p 222
+Los dos desencadenantes más importantes de la LSB son la hipoxia-isquemia y la infección / inflamación. Estos fenómenos activan mecanismos patogénicos responsables del daño final a la SB, de estos, los principales son la activación de la cascada de excitotoxicidad y el estrés oxidativo. Estos inducen a la LSB por dos vías en función de la gravedad del daño: una lesión crónica con disrupción en la progresión normal de la mielinización, resultado de la interrupción en la maduración del Pre-OL, que falla en su diferenciación a oligodendrocito mielinizante, en la forma menos grave, y una necrosis focal más o menos extensa con pérdida de todos los elementos celulares en los insultos más graves.
+
+**Tipos de lesión de sustancia blanca. Neuropatología de la lesión de la LSB del RNPT**
+La neuropatología es esencial para comprender la naturaleza de la enfermedad. Se han descrito tres variantes neuropatológicas a menudo superpuestas: la **LSB focal,** consistente en áreas localizadas de necrosis en la SB periventricular, dorsal y lateral al ángulo externo de los ventrículos laterales, con pérdida de todos los elementos celulares. Se distinguen dos formas: (1) LSB quística (< 5% RNPT): la necrosis evoluciona a licuefacción de la SB y formación de quistes; (2) LSB no quística: se caracteriza por áreas microscópicas de necrosis que evolucionan a cicatrices gliales; y (3) **LSB difusa:** en la que el componente neuropatológico principal no es una necrosis sino una astrogliosis difusa de la SB central con afectación del Pre-OL (Figura 1). Esta alteración tiene como resultado una hipomielinización secundaria a la muerte o fallo en la diferenciación del Pre-OL. La hipomielinización conduce a una degeneración axonal y a la pérdida de la interconectividad entre las diferentes estructuras cerebrales, con la consecuente reducción del trofismo y una disminución en el crecimiento cerebral. Esto se traduce en ventriculomegalia, reducción del volumen de la SB, ensanchamiento del espacio subaracnoideo y retraso en el plegamiento de la corteza cerebral, hallazgos de neuroimagen frecuentes a la edad equivalente a término en los RNPT con LSB.
+@img seneo-3-14-fig1.png
+@pie La LSB quística (A) consiste en lesiones necróticas focales macroscópicas que evolucionan a quistes. En la LSB no quística focal (B) las lesiones focales son microscópicas y evolucionan a cicatrices gliales. La LSB difusa (C) consiste en gliosis extensa de la sustancia blanca sin necrosis focal.
+*Figura 1. Esquema de los tipos de lesión de sustancia blanca del recién nacido prematuro Tomado de: García Alix et al. Neurología neonatal de un vistazo. 2ª Ed, 2022*
+@p 223
+## 3 Diagnóstico por imagen de la lesión de sustancia blanca
+
+Aunque en sus inicios, la LSB fue un diagnóstico histopatológico, en la actualidad es un diagnóstico por neuroimagen. La resonancia magnética (RM) es la prueba de imagen de referencia en el diagnóstico de la LSB. La ecografía cerebral es una herramienta complementaria esencial en el diagnóstico precoz y la monitorización de la evolución de la enfermedad, al ser una técnica no invasiva que permite realizar estudios a pie de cuna. La ecografía tiene una mayor resolución espacial para el diagnóstico de la LSB quística, pero su capacidad diagnóstica es inferior a la de la RM para el diagnóstico de la LSB difusa y la lesión focal no quística. La tabla 1 presenta un glosario con los diferentes términos, tanto anatomopatológicos como de neuroimagen, utilizados para describir la LSB del RNPT. La figura 2 muestra las ecogenicidades normales de la SB en la ecografía cerebral del RNPT, así como los diferentes patrones de neuroimagen de la LSB. Las lesiones punteadas de la SB constituyen una forma frecuente y en general leve de LSB. Aunque inicialmente se consideró que su origen es isquémico o inflamatorio, la secuencia de susceptibilidad (SWI) en RM, que es altamente sensible a los depósitos de hemosiderina, revela una naturaleza hemorrágica en algunos casos. Su pronóstico depende del número, el tamaño y la localización.
+
+La intensidad de señal aumentada excesiva difusa (DEHSI) en la RM de la edad de término puede verse hasta en el 75% de los recién nacidos extremadamente prematuros. Su impacto en el neurodesarrollo no está del todo claro. Se ha relacionado con dificultades de aprendizaje y trastornos del comportamiento. Por otro lado, dada su elevada frecuencia, en algunos casos puede representar un fenómeno madurativo no necesariamente asociado a evolución neurológica adversa.
+
+En la tabla 2 se muestra un calendario con la secuencia de estudios de neuroimagen recomendados.
+@ancha
+| {3} **Tabla 1. Lesión de la sustancia blanca del recién nacido prematuro, glosario de términos** |
+|---|---|---|
+| | **Término** | **Descripción** |
+| **Alteraciones neuropatológicas** | LSB periventricular | Necrosis localizada en la SB periventricular profunda con pérdida de todos los elementos celulares. Puede evolucionar en semanas a lesiones quísticas (LSB quística). Más comúnmente la necrosis focal es de tamaño microscópico y evoluciona a cicatrices gliales (LSB no quística). Ambas formas suelen coexistir con gliosis difusa. |
+| | Gliosis difusa de la sustancia blanca | Cambios difusos de la SB del RNPT caracterizados por una alteración del Pre-OL en fases tempranas de diferenciación, acompañada de astrogliosis y microgliosis. Los progenitores oligodendrogliales ven alterada su maduración, lo que interfiere con la mielinización y provoca lesiones axonales y corticales secundarias. |
+@p 224
+@pie Tabla 1. Lesión de la sustancia blanca del recién nacido prematuro, glosario de términos (continuación) Término Descripción
+| **Hallazgos en la neuroimagen** | LSB o LPV quística | LSB del RNPT caracterizada por cambios quísticos visibles, cuyo sustrato histopatológico es la necrosis macroscópica focal con evolución quística. La ecografía cerebral tiene una elevada sensibilidad para el diagnóstico de esta forma de LSB. |
+| | Lesiones punteadas de la sustancia blanca | Hallazgo de RM que consiste en áreas localizadas de la sustancia blanca con aumento de la intensidad de señal en las imágenes ponderadas en T1 o disminución de la intensidad de señal en las imágenes ponderadas en T2. En la ecografía cerebral estas lesiones pueden mostrarse como ecogenicidades heterogéneas en la SB. La presencia en la RM de lesiones punteadas de la SB a veces también se denomina “LPV no quística focal”. |
+| | Intensidad de señal aumentada excesiva difusa (DEHSI, por sus siglas en inglés) | Hallazgo cualitativo de RM visto con frecuencia en RNPT a una edad equivalente a término, que consiste en una intensidad de señal aumentada en las imágenes ponderadas en T2. Se asocia con un aumento del coeficiente de difusión aparente y una disminución de la anisotropía en la RM ponderada por difusión. Se postula que los RN con lesión difusa de la sustancia blanca representan una proporción considerable pero desconocida del gran grupo de niños prematuros que muestran signos de pérdida de volumen de la SB en la neuroimagen a la edad de término. |
+| **Términos adicionales basados en hallazgos de la ecografía cerebral neonatal** | Halo periventricular | Áreas bilaterales simétricas hiperecoicas en la SB que se observan típicamente en las exploraciones ecográficas de los primeros días de vida del RNPT. Lo más probable es que se trate de un hallazgo madurativo normal. Estas áreas de aumento de ecogenicidad se localizan típicamente alrededor o debajo del asta frontal, y en la región frontal posterior a parietal, en relación superior y lateral al ventrículo lateral (región peritrigonal). Se postula que este hallazgo corresponde a áreas de encrucijada de fibras de sustancia blanca compactadas y su vasculatura acompañante, o bien a áreas de acumulación de células microgliales. La apariencia hiperecogénica obedece a que los haces de fibras son casi perpendiculares al eje longitudinal del haz sonográfico que pasa a través de la fontanela anterior, interfiriendo con este. |
+| | Ecodensidades o hiperecogenicidades periventriculares | Áreas de aumento de ecogenicidad (similar o superior a la del plexo coroideo) en la SB periventricular. Estas áreas pueden evolucionar a quistes o resolverse después de un período de tiempo variable. Las ecogenicidades transitorias que se resuelven dentro de los primeros 7 días de vida (o 7 días después del momento del insulto) se consideran normales, y se piensa que se debe a la resolución de fenómenos de congestión venosa. La neuropatología subyacente a la hiperecogenicidad patológica no se conoce bien. Podría traducir cambios inflamatorios, isquémicos o hemorrágicos en las primeras etapas de la LSB de la prematuridad. Las ecodensidades persistentes pueden representar gliosis. |
+
+@p 225
+@img seneo-3-14-fig2.png
+*Figura 2. Ecogenicidades normales y ejemplos de lesión de la sustancia blanca del recién nacido prematuro en ecografía transfontanelar y RM cerebral.*
+
+A-E. Áreas bilaterales simétricas hiperecoicas en la sustancia blanca que se observan en condiciones normales en las exploraciones ecográficas de los primeros días de vida del RNPT. Se señalan con flechas: el halo ecogénico frontal (A y D); la ecogenicidad lineal adyacente a las astas frontales de los ventrículos laterales, probablemente correspondiente al brazo anterior de la cápsula interna (B); las áreas ecogénicas superiores y laterales a los ventrículos (C) y peritrigonales (D); así como las ecogenicidades correspondientes a las radiaciones ópticas, adyacentes a los ventrículos laterales, en la unión parieto-occipital (E).
+@p 226
+F-M. Imágenes de lesión de sustancia blanca quística en un recién nacido prematuro de 29 semanas de edad gestacional. Las imágenes de ecografía corresponden al primer día de vida (F, G), a una semana después (H,I) y al estudio realizado a la edad de término (J,K). Se muestran cortes axiales de RM ponderada en T1 (L) y T2 (M), también realizada a la edad de término. Nótese la presencia en la sustancia blanca periventricular de áreas de hiperecogenicidad densa y heterogénea. Esto se sigue de la aparición gradual de múltiples quistes a nivel parieto-occipital. Cabe destacar también en la RM a la edad de término, los signos de pérdida de volumen cerebral, con prominencia de los espacios de líquido cefalorraquídeo.
+
+N-P. Cortes axiales de RM ponderada en T1 (N), T2 (O) y por difusión (P) de un recién nacido prematuro de 32 semanas. La RM está realizada a los 10 días de vida, y muestra una combinación de alteración difusa de la intensidad de señal de la sustancia blanca (que están aumentada en T2, y disminuida en T1 y en difusión) y lesiones punteadas posteriores de naturaleza isquémica (con restricción de la difusión). (Q, R.) Cortes axiles de imágenes ponderadas en T2 (Q) y por susceptibilidad magnética (R) de la RM cerebral de la edad de término de una recién nacida ex-prematura de 30 semanas de edad gestacional con lesiones punteadas en sustancia blanca profunda. La RM por susceptibilidad magnética confirma depósito de hemosiderina, revelando que son de tipo hemorrágico.
+
+| {2} **Tabla 2. Calendario de estudios de neuroimagen para el diagnóstico de la lesión de la sustancia blanca del recién nacido prematuro.** |
+|---|---|
+| **Prematuros < 28 semanas o < 1000 g** | **Prematuros 28-32 semanas o < 1500 g** |
+| **Ecografía cerebral (días de vida)** // Día 1 (lo más precoz posible) // Día 3 // Día 7 // Día 14 // Día 21 (si inestable) // Cada dos semanas hasta la 36 s EPM // A la edad término | **Ecografía cerebral (días de vida)** // Día 1-3 // Día 7 // Día 28 // A la edad de término |
+| {2} Se recomienda realizar RM cerebral a la edad de término según criterio individualizado en RNPT con lesión diagnosticada por ecografía cerebral y/o indicación clínica. En algunos centros se hace de forma rutinaria a todos |
+
+*Adaptado de Inder T. et al. J pediatrics 2021*
+
+## 4 Prevención y manejo terapéutico de la lesión de sustancia blanca del RNPT
+
+En la primera parte de este capítulo se han expuesto los mecanismos fisiopatológicos que pueden conducir a la LSB cerebral en el RNPT. La hipoxia-isquemia y la infección / inflamación son los dos principales mecanismos implicados en la lesión. La inmadurez anatómica y fisiológica de la vascularización cerebral en el RNPT favorece la circulación cerebral presión-pasiva y la isquemia cerebral. La inestabilidad cardio-respiratoria de los
+@p 227
+RNPT más enfermos les hace propensos a la hipotensión arterial, la hipoxia y la hipocarbia, todos factores a evitar para prevenir la LSB. La infección e inflamación sistémica pueden derivar de la infección materna y la consecuente inflamación sistémica fetal y/o de la infección e inflamación neonatal (ej; sepsis, enterocolitis necrotizante). En la tabla 3 se exponen los principales escenarios clínicos asociados a la LSB del RNPT.
+
+| **Tabla 3. Escenarios clínicos asociados a la lesión de sustancia blanca** |
+|---|
+| **ESCENARIOS CLÍNICOS ASOCIADOS A LA LESIÓN DE SUSTANCIA BLANCA** |
+| *Desencadenante principal: la hipoxia-isquemia* |
+| Síndrome de distrés respiratorio del RN |
+| Insuficiencia cardiaca / hipotensión: DAP grande, pausas de apnea recurrentes, insuficiencia respiratoria grave, sepsis-shock |
+| *Desencadenante principal: la inflamación sistémica* |
+| Infección intrauterina maternal |
+| Sepsis neonatal |
+| Enterocolitis necrotizante |
+
+*Adaptado de Volpe JJ. Neurology of the Newborn. 6th ed.*
+
+La LSB es una enfermedad crónica que se produce durante la primera etapa de la vida de los RNPT. No hay que olvidar otros factores reguladores del trofismo y crecimiento cerebral como son la nutrición, reducir los procedimientos dolorosos y estresantes, y las intervenciones precoces centradas en el desarrollo para reducir el impacto final de la LSB. El manejo terapéutico va encaminado a prevenir los factores implicados en el desarrollo de esta enfermedad. En la tabla 4 se refieren algunas intervenciones que pueden potencialmente prevenir la lesión de SB y/o reparar la lesión.
+
+| **Tabla 4. Manejo clínico e intervenciones potencialmente neuroprotectoras** |
+|---|
+| **MANEJO CLINICO ANTENATAL Y POSTNATAL** |
+| 1. Prevención del parto prematuro // 2. Administración de sulfato de magnesio antenatal // 3. Administración de corticoides antenatal // 4. Manejo óptimo del parto y reanimación // 5. Reducir procesos infecciosos / inflamatorios: // – Reducir la infección nosocomial; prevenir la enterocolitis necrotizante // 6. Manejo adecuado de la ventilación: // – Evitar hipoxia e hiperoxia; hipocarbia e hipercarbia // 7. Mantener una adecuada perfusión cerebral: // – Detección de la circulación cerebral presión-pasiva; – Evitar hipotensión arterial; – Evitar hipocarbia |
+@p 228
+@pie Tabla 4. Manejo clínico e intervenciones potencialmente neuroprotectoras (conitnuación)
+| **INTERVENCIONES CLINICAS POTENCIALMENTE NEUROPROTECTORAS** |
+| 1. Factores nutricionales: calidad y composición de la leche, suplementación con ac. grasos poliinsaturados, hierro, zinc // 2. Factores ambientales: control del dolor y el stress; estimulación visual y auditiva // 3. Implementar programas de intervención precoz // 4. Educación parental / factores socioeconómicos |
+
+*Adaptado de Volpe JJ. Neurology of the newborn. 6th ed.*
+
+## 5 Pronóstico neurológico de la LSB del RNPT
+
+La LSB y la enfermedad neuroaxonal secundaria condicionan una pérdida de interconectividad entre las diferentes estructuras cerebrales y un hipocrecimiento cerebral, que son el sustrato neuropatológico del espectro de anomalías del desarrollo encontradas en la población de prematuros extremos (definido por J. Volpe como encefalopatía de la prematuridad). El amplio espectro neuropatológico de la LSB, y la diferente sensibilidad y especificidad que tienen la ecografía cerebral y la RM en el diagnóstico de la LSB del niño prematuro, hacen difícil establecer el pronóstico en las formas más leves o moderadas. El análisis conjunto del grado, la localización y la extensión de la lesión cerebral, así como el crecimiento del cerebro a la edad de término, es en el momento actual la mejor herramienta para identificar a la población de RNPT en riesgo de neurodesarrollo adverso. Mientras que la LSB quística localizada alrededor del surco central (con afectación del tracto corticoespinal) se asocia a un alto riesgo de parálisis cerebral espástica bilateral, este riesgo es mucho menor cuando los quistes se circunscriben al lóbulo frontal. Otras comorbilidades asociadas a la LSB quística clásica son la discapacidad intelectual y el déficit visual (por afectación de las radiaciones ópticas). Los signos de pérdida de volumen y pobre crecimiento cerebral a la edad de término (ventriculomegalia ex vacuo, aumento de los espacios subaracnoideos, adelgazamiento del cuerpo calloso) se asocian a puntuaciones inferiores en las evaluaciones del neurodesarrollo. Por otro lado, la LSB difusa es muy probablemente el sustrato de los problemas cognitivos y conductuales que a menudo presentan los RNPT durante el seguimiento a largo plazo. Diferentes autores han propuesto sistemas de clasificación y gradación pronóstica de la LSB del niño prematuro mediante RM y ecografía cerebral. No obstante, la neuroimagen no debe ser utilizada de forma aislada con este fin, el examen neurológico y la evaluación del neurodesarrollo de forma secuencial son claves para aproximarnos a las dificultades que puede presentar un RNPT. Factores socioeconómicos, culturales y la intervención precoz, entre otros, pueden modificar el curso evolutivo de forma individual en cada niño.
+@caja
+**SE RECOMIENDA**
+- Realizar ecografías cerebrales seriadas para evaluar la evolución completa de la LSB del RNPT.
+- Evitar la hipoxia, la hipocarbia y la hipotensión arterial para prevenir la LSB del RNPT.
+@p 229
+- Evaluar la localización y la extensión de la LSB quística (y en particular la afectación o no del haz corticoespinal) para establecer el pronóstico motor a largo plazo.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Basar la predicción del pronóstico neurológico a largo plazo del RNPT exclusivamente en los hallazgos de neuroimagen (ecografía y RM) a la edad de término.
+@fin
+@bib
+1. Back SA, Volpe JJ. Encephalopathy of prematurity. Pathophysiology. 6th eds. Neurology of the Newborn. Elsevier;2017:405-424.
+2. Khwaja O, Volpe JJ. Pathogenesis of cerebral white matter injury of prematurity. Arch Dis Child Fetal Neonatal Ed 2008; 93: F153-61.
+3. Volpe JJ. Brain injury in premature infants: a complex amalgam of destructive and developmental disturbances. Lancet Neurol 2009; 8:110-24.
+4. Back SA, Miller SP. Brain injury in premature neonates: A primary cerebral dysmaturation disorder? Ann Neurol 2014; 75:469-86.
+5. Agut T, Alarcon A, Cabañas F, et al. Preterm white matter injury: ultrasound diagnosis and classification. Pediatr Res 2020; 87, 37-49.
