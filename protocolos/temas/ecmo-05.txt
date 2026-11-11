@@ -1,0 +1,115 @@
+@f TEMAS/ECMO/5
+## Principios de fisiología para ajustar la asistencia
+
+*Protocolo neonatal.*
+- La oxigenación y el soporte hemodinámico dependen del flujo sanguíneo en ECMO y, en segundo lugar, de la capacidad de oxigenación de la sangre en la membrana.
+- El lavado de CO~2~ depende del flujo de gas de la membrana. Normalmente se trabaja con una relación 1:1-2:1 (flujo de gas : flujo de sangre).
+- La medición continua de la SvcO~2~ permite conocer la extracción periférica de oxígeno (DO~2~/VO~2~). Se debe mantener > 75 %.
+- En ECMO VV la recirculación aumenta los valores de SvcO~2~, por lo que hay que monitorizar la SpO~2~ para ajustar el soporte y evaluar el pulmón nativo. La oxigenación arterial adecuada en ECMO VV es ≥ 80 %.
+
+## Flujo de sangre
+
+*Cuidados críticos.*
+- **ECMO VA:** tras la entrada, el flujo se incrementa progresivamente hasta conseguir SaO~2~ > 95 %, SvO~2~ > 70 % y una correcta perfusión distal (lactato normal, sin acidosis metabólica). Puede requerir hasta 2,4-2,8 L/min/m^2^ (100-150 ml/kg/min en neonatos, 80 ml/kg/min en niños y 60 ml/kg/min en adultos), intentando mantener una onda de pulso diferencial mínima de 10 mmHg. Con contractilidad muy afectada puede no ser posible y requerirse una asistencia aún mayor.
+- **ECMO VV:** el soporte es adecuado con SaO~2~ > 85 % y SvO~2~ > 60 % en ventilación apneica. Suele conseguirse con 120 ml/kg/min en neonatos y 60-80 ml/kg/min en niños y adultos.
+
+## Oxigenación
+
+*Cuidados críticos.* Depende fundamentalmente del flujo de sangre por el oxigenador. Si el flujo está por debajo del máximo del oxigenador (y la SvO~2~ a la entrada es ≥ 70 %), la saturación a la salida debería ser > 95 % (generalmente 100 % con pO~2~ > 300). Si no, descartar flujo excesivo para el oxigenador, coágulos en la membrana o agua en la fase gaseosa. Si lo que falla es la oxigenación del paciente (SaO~2~ < 95 % en VA o < 85 % en VV), descartar mal funcionamiento del oxigenador, flujo de sangre insuficiente (quizá limitado por las cánulas) o anemia.
+
+## Lavado de CO~2~
+
+*Cuidados críticos.* El intercambio de CO~2~ por la membrana es mayor que el de O~2~ y se controla con el flujo de gas. Inicialmente se pauta una relación flujo de sangre : flujo de gas de 1:1, y luego se varía para conseguir la paCO~2~ deseada.
+
+*Curso ECMO 2019 (Zamorano).* Flujo de gas en l/min: VA 1:1, VV 2:1. FiO~2~ 21-100 %. Presión de entrada de gas < 50 mmHg.
+
+! El protocolo neonatal da 1:1-2:1 (gas : sangre) y en el apartado del mezclador una relación ventilación/perfusión habitual de 2:1; Cuidados críticos, 1:1 al inicio; el curso, 1:1 en VA y 2:1 en VV, y en el inicio «1-2 veces el flujo de bomba». Se recogen todas con su fuente.
+
+## Hemodinámica
+
+*Cuidados críticos.*
+- **ECMO VV:** la situación hemodinámica depende exclusivamente del propio paciente y de la medicación e infusiones que reciba.
+- **ECMO VA:** depende del flujo total (bomba + gasto cardíaco nativo) y de las resistencias vasculares. Como la onda de pulso es menor, la presión arterial media será menor de la habitual para la edad: **40-50 mmHg en neonatos y lactantes**, 50-70 mmHg en niños y adultos. Puede no haber onda de pulso si la contractilidad está muy deprimida y el VI no abre la válvula aórtica; aun así la perfusión puede ser adecuada. Si la SvO~2~ es > 70 %, la entrega de O~2~ es suficiente aunque la presión arterial esté en el límite bajo, y aumentar la postcarga puede ser contraproducente para el VI. Puede ser útil aumentar el flujo, dar dosis bajas de inotrópicos y valorar vasodilatadores si las resistencias sistémicas son elevadas.
+- **Distensión del corazón izquierdo:** el flujo de la circulación bronquial puede acumularse y dilatar el VI, aumentando su presión telediastólica, con compromiso coronario e isquemia, y dilatación de la AI con edema y hemorragia pulmonar. Si las ecocardiografías seriadas muestran dilatación de AI/VI, hay que **descomprimir el corazón izquierdo de forma urgente** (vent en la AI o atrioseptostomía por cateterismo).
+
+*Mantenimiento y enfermería (Curso 2019).*
+- Monitorizar la perfusión sistémica: láctico, diuresis, saturación venosa, PA y función de los órganos.
+- Control de la hipovolemia: PVC adecuada y control de la presión de succión.
+- Mínimo soporte inotrópico: favorece la función ventricular y evita la sobredistensión.
+- Vasodilatadores si aumentan las resistencias sistémicas.
+- Ecocardiografía para medir la función cardiaca.
+
+## Manejo ventilatorio
+
+*Cuidados críticos.*
+- **Parámetros:** de protección pulmonar, tanto en VV como en VA: FR más bajas de las correspondientes a la edad, Ti largos, PEEP 5-15 cmH~2~O, FiO~2~ 35-40 % (para la oxigenación coronaria, que depende del gasto nativo), PIP 20-25 cmH~2~O en modalidades de presión, Vt 2-4 ml/kg en modalidades de volumen. En ECMO VA por patología cardíaca con pulmón relativamente conservado, FR algo más altas y Vt 4-6 ml/kg. Si con estos parámetros no hay intercambio sistémico adecuado (SaO~2~ < 95 % en VA o < 85 % en VV, o paCO~2~ > 40), optimizar el intercambio en el circuito.
+- **Modalidad:** cualquiera, de presión o de volumen. Cuando el pulmón empieza a recuperarse, mantener al paciente lo más despierto posible y favorecer la respiración espontánea asistida. Con fuga aérea grave puede ventilarse en CPAP. En VA con función pulmonar conservada, o VV como puente a trasplante pulmonar (sobre todo adultos), puede valorarse el paciente extubado.
+- **Neumotórax:** si es pequeño y sin repercusión, conducta expectante por el alto riesgo de sangrado del drenaje, con vigilancia estrecha; drenarlo si crece o produce compromiso hemodinámico.
+- **Terapias coadyuvantes:** maniobras de reclutamiento una vez pasada la fase de inflamación aguda, vigilando que la PEEP no interfiera con los flujos del circuito. Hay publicaciones sobre la seguridad y beneficios del prono en ECMO.
+
+*Protocolo neonatal.* Parámetros de reposo en el neonato: ver «Inicio de la asistencia» (PEEP 8-10 cmH~2~O, FR 10-15 rpm, Ti 0,6 s, FiO~2~ 30 %, PIP 15-20 cmH~2~O).
+
+*Mantenimiento y enfermería (Curso 2019).* Disminuir la asistencia ventilatoria y evitar el barotrauma. Fibrobroncoscopia en atelectasias persistentes. VAFO para favorecer el reclutamiento alveolar y/o en fuga persistente. Se necesita buena función pulmonar para salir de ECMO.
+
+## Analítica durante la asistencia
+
+*Protocolo neonatal. Analítica diaria.*
+
+**Al paciente:**
+- Cada 8 h: gasometría arterial y hemograma. Si plaquetas < 75.000, transfundir mínimo 10 ml/kg.
+- Cada 12 h: bioquímica y coagulación.
+- Cada 24 h: sedimento de orina.
+- Cada 48 h: Hb libre en plasma (cada 24 horas a partir del 5.º día de ECMO) y bacteriología (hemocultivo, urocultivo, broncoaspirado).
+
+! En el original la Hb libre en plasma aparece dentro de «cada 48 h», con la aclaración «cada 24 horas a partir del 5.º día de ECMO».
+
+**Al circuito/oxigenador:**
+- Cada 12 horas: gasometría pre y postmembrana. Comprobar el lavado de CO~2~ y la oxigenación de la membrana (dif. A-aO~2~ < 150). Calibrar la SvcO~2~ si se precisa.
+- ACT-LR: mantener en rango de 180-200 segundos.
+  - ACT cada 15 minutos hasta obtener 4 en rango, y también al inicio de la asistencia, después de transfundir plaquetas o plasma fresco congelado y después de cambiar la jeringa de heparina o el ritmo de perfusión.
+  - ACT cada 4 h mientras permanezca en rango.
+  - Si el ACT está fuera de rango: aumentar o disminuir un 10 % el ritmo de heparina según necesidad.
+  - Si se transfunden plaquetas: bolo del 10 % y aumento del 10 % del ritmo de heparina (salvo ACT fuera de rango).
+
+! Rango de ACT distinto según el apartado: aquí 180-200 s; en el apartado de monitorización de la anticoagulación del mismo protocolo, 180-220 s. Ver la pestaña «Anticoagulación».
+
+*Anticoagulación (Curso 2019, Santiago).* Analítica diaria: hemograma, coagulación y bioquímica completa; anti-Xa; hemoglobina libre; antitrombina III si se sospecha déficit.
+
+## Nutrición
+
+*Cuidados críticos.* Mantener un adecuado soporte nutricional, por vía enteral o parenteral en los pacientes con bajo gasto que puedan tener comprometida la perfusión intestinal.
+
+*Mantenimiento y enfermería (Curso 2019).* En bajo gasto cardiaco, nutrición parenteral para evitar complicaciones digestivas e intestinales. Nutrición enteral por sonda transpilórica con gasto cardiaco adecuado. Control del tránsito intestinal: evitar el estreñimiento con ayuda farmacológica, no con enemas.
+
+## Soporte renal y hemofiltración
+
+*Cuidados críticos.* Es importante un balance de fluidos adecuado, que muchas veces se consigue solo con diuréticos. Aun así, hasta un 50 % necesita depuración extrarrenal, por una vía venosa del paciente o, lo más habitual y seguro, conectando la hemofiltración directamente al circuito.
+
+*Protocolo neonatal (sistema Prismaflex®).* Para el cebado se utiliza SSF con heparina.
+- Línea aferente (ROJA): lleva la sangre del circuito de ECMO al filtro. Se conecta a la llave de 3 pasos de la parte venosa de la membrana.
+- Línea eferente (AZUL): devuelve la sangre del filtro al circuito. Se conecta directamente a la llave de presión de succión (sin tapón valvulado).
+- Anticoagulación con Prismaflex: no dar bolo de heparina, porque la sangre que llega al filtro ya está heparinizada. Perfusión estándar: 20 UI/ml a un ritmo mínimo de 2 ml/h. La dosis de heparina del circuito de ECMO se ajusta al rango de ACT, considerando la «dosis total de heparinización» = heparina del circuito + heparina del hemofiltro.
+
+*Mantenimiento y enfermería (Curso 2019).* Objetivos: control de la sobrecarga de volumen y de la fuga capilar, optimizar presiones, mantener el gasto cardiaco, adecuada perfusión, diuresis y normalidad electrolítica. Es frecuente necesitar depuración extrarrenal. Si precisa HDVVC:
+- El hemofiltro se intercala en el circuito de ECMO. La línea de entrada al filtro (ROJA) se coloca después de la bomba centrífuga y antes del oxigenador (donde está la perfusión continua de heparina). En el siguiente puerto, donde se mide la presión premembrana, va la línea de retorno (AZUL).
+- No usar tapones antirreflujo: aumentan las presiones.
+- Tras el purgado con SSF heparinizado se receba con albúmina al 5 %.
+- La técnica se inicia abriendo las llaves al mismo tiempo.
+- Bomba de heparina del hemofiltro a 5 U/kg/h, que se suma a la heparina de la ECMO.
+- Para retirar la hemofiltración se cierran las llaves. **Nunca se retorna la sangre del filtro.**
+
+! Las conexiones del hemofiltro no coinciden entre documentos. Según el protocolo neonatal (Prismaflex), la línea roja va a la llave de 3 pasos de la parte venosa de la membrana y la azul a la llave de presión de succión. Según las diapositivas de enfermería, la roja va después de la bomba y antes del oxigenador, y la azul al puerto de presión premembrana. Probablemente se refieren a circuitos distintos (neonatal y pediátrico); confírmalo con tu unidad.
+
+## Sedoanalgesia y monitorización neurológica
+
+*Cuidados críticos.* Se ha demostrado que ajustar los sedantes para permitir cierta movilidad y un mayor grado de alerta reduce la morbimortalidad. Si no es posible, se recomiendan ventanas diarias de sedación. El efecto óptimo es difícil: el volumen de distribución está aumentado y el circuito secuestra algunos fármacos, lo que disminuye su biodisponibilidad. La infradosificación puede perpetuar el dolor, la agitación y la asincronía con el ventilador, y causar extubación o decanulación accidental. El sobretratamiento prolonga la ventilación mecánica y aumenta las infecciones nosocomiales, el delirio, la estancia y la abstinencia. Los relajantes musculares se usan durante la canulación, pero deben evitarse después.
+
+La monitorización neurológica se basa en la evaluación clínica periódica (pupilas y exploración completa en las ventanas de sedación). Algunos centros usan oximetría tisular cerebral e índice biespectral. Con fontanela abierta, ecografía transfontanelar periódica. Si aparece focalidad, valorar TC craneal.
+
+*Mantenimiento y enfermería (Curso 2019).* Riesgo neurológico: antes de la ECMO por hipoxia e hipoperfusión; durante la ECMO por isquemia, hemorragia y embolia. Monitorización con BIS e INVOS. Valoración neurológica (pupilas, respuesta a estímulos) y ventana de sedación. Imagen: ecografía transfontanelar; TAC (preparar el traslado del paciente).
+
+## Temperatura
+
+*Mantenimiento y enfermería (Curso 2019).* Normotermia, salvo hipotermia indicada por causas determinadas (neuroprotección tras PCR, arritmias). Monitorizar la temperatura periférica y central. Regularla con el intercambiador de calor conectado al oxigenador.
+
+*Protocolo neonatal.* El calentamiento de la sangre de retorno es imprescindible en el neonato (ver «Circuito y canulación»).

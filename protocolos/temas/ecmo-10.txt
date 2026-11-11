@@ -1,0 +1,77 @@
+@f TEMAS/ECMO/10
+*Cuidados críticos.* El descenso de la asistencia se hace cuando hay resolución o clara mejoría del proceso que motivó la indicación.
+
+*Mantenimiento y enfermería (Curso 2019).* Salida de ECMO: con clara mejoría del proceso que la indicó. Antes de la retirada, asegurar una precarga adecuada, soporte inotrópico y asistencia ventilatoria completa. El paciente se prepara igual que para la canulación. La decanulación se hace cuando el paciente ha estado con soporte muy bajo o fuera de ECMO, estable hemodinámicamente y con buen intercambio gaseoso.
+
+## ECMO respiratoria (VV y VA) en el neonato
+
+*Protocolo neonatal.* La retirada se decide según criterios de mejoría:
+- Mejoría radiológica, pasado el periodo de opacificación de ambos campos pulmonares.
+- Aumento de la complianza dinámica pulmonar > 0,8 ml/cmH~2~O/kg.
+- Ausencia de hipertensión pulmonar en la ecocardiografía.
+- Espacio muerto fisiológico (Vd/Vt) < 0,6 medido con el CO~2~ espirado. Refleja la perfusión pulmonar y cuantifica de forma indirecta el parénquima eficaz para el intercambio.
+
+**Tras confirmar la mejoría:**
+- Bajar el flujo de sangre 10-20 ml/kg cada hora, con descenso gradual del flujo de gas de la membrana para evitar hipocapnia. Hay que abrir el puente para bajar el flujo al paciente, manteniendo un flujo de seguridad por el oxigenador no inferior a 250-300 ml/min para que no se coagule.
+- Aumentar el rango de ACT a 250-300 s, según el riesgo de sangrado.
+- Con un flujo de ECMO de 30-50 ml/kg, subir los parámetros respiratorios y bajar la FiO~2~ de la membrana. Primera valoración: subir la FiO~2~ del respirador al 60 %; si la PaO~2~ es > 150-200 mmHg, el paciente estaría preparado para retirar las cánulas.
+
+! El protocolo neonatal sube el ACT a 250-300 s durante el descenso. Cuidados críticos también indica aumentar la anticoagulación al bajar el flujo, sin dar cifra.
+
+### Retirada de la asistencia (*trialing off*) antes de retirar las cánulas
+
+*Protocolo neonatal.* Parámetros respiratorios aceptables según el paciente: PSV + VG; Ti límite 0,6 s; VG para una ventilación adecuada sin superar una PIP de 25 cmH~2~O; FR 40 rpm o menos si está en retirada de sedoanalgesia; PEEP óptima para un buen reclutamiento; FiO~2~ 40-60 %.
+
+**En ECMO VV:**
+- Retirar el flujo de gas de la membrana, conectando en circuito cerrado la entrada y la salida.
+- Gasometría cada 15 minutos durante la primera hora.
+- Si lo tolera, programar la retirada de cánulas.
+
+**En ECMO VA:**
+- Pasar al paciente cualquier medicación del circuito, salvo la perfusión de heparina.
+- Salida de ECMO:
+  - Clampar el lado arterial próximo a la cánula.
+  - Clampar el lado venoso próximo a la cánula.
+  - Abrir el puente si no lo estaba.
+  - Conexión 1/4-1/4 entre la rama arterial y la venosa si se quiere recircular un tiempo.
+- Si el circuito queda **recirculando en espera**, comprobar:
+  - Gas del oxigenador al mínimo (valorar cambiarlo por carbógeno si la espera será larga).
+  - Rpm ajustadas para un flujo por la membrana > 300 ml/min, para evitar trombos.
+  - Gasometría y ACT previos si se requiere reentrada, y nuevo cebado si es necesario.
+  - Si hay hemofiltro conectado, suspender sus parámetros de tratamiento (extracción, diálisis…) hasta pasarlo al paciente.
+- pH arterial al paciente cada 15 minutos durante la primera hora para evaluar la respuesta.
+- Si esta fase dura más de 20-30 minutos, pasar la infusión de heparina al paciente, ajustando el ritmo al ACT.
+- Lavar las cánulas cada 5-10 minutos para asegurar su permeabilidad.
+- Si se dejan **cánulas en espera:**
+  - Preparar llaves amarillas para la conexión de los lavados.
+  - 2 lavados con SSF heparinizado: simple para la cánula venosa y doble para la arterial, a 3-5 ml/h (deben quedar limpias lo más rápidamente posible).
+  - Mantener la perfusión de heparina para un ACT del paciente no menor de 160.
+
+Si, una vez retirada la asistencia, la PaO~2~ se mantiene > 80 mmHg con FiO~2~ 40 % en el respirador, se programa la decanulación lo antes posible.
+
+## ECMO cardiaca
+
+*Protocolo neonatal.* La recuperación de la función ventricular en el postoperatorio de cardiopatía congénita suele ocurrir en las 48-72 h tras el inicio de la ECMO; después se pensará en estudios de lesión residual. Para un descenso con éxito hay que tener en cuenta:
+- Balance hídrico adecuado, con diuréticos y/o hemofiltración si hace falta.
+- Frecuencia y ritmo normales, con antiarrítmicos y/o marcapasos.
+- Manejo de la resistencia vascular pulmonar con vasodilatadores pulmonares si fuera necesario.
+- Retirar la cánula de drenaje de la aurícula izquierda, si la hubo, para asegurar la precarga del VI.
+- Pretratamiento con levosimendán, que puede favorecer la retirada según algún estudio en adultos.
+
+Si no se consigue retirar la ECMO en el plazo habitual de recuperación cardiaca, descartada lesión residual tratable en hemodinámica, se valorará una asistencia ventricular de larga duración. El manejo del circuito y las cánulas es el descrito para la retirada de la ECMO VA respiratoria.
+
+*Cuidados críticos.*
+- **ECMO VA:** el descenso empieza con signos de recuperación ventricular: más pulsatilidad en la onda de presión arterial y aumento del CO~2~ espirado. La función se monitoriza con ecocardiografía. Se bajan progresivamente el flujo de sangre y el de gas, optimizando el soporte ventilatorio. Algunos centros indican milrinona o levosimendán al iniciar el descenso, y adrenalina en perfusión antes de la retirada definitiva. Al bajar el flujo hay que aumentar la anticoagulación por el riesgo de trombosis del circuito. Antes de la retirada definitiva se hace una prueba clampando las cánulas arterial y venosa, vigilando oxigenación, frecuencia cardíaca, tensión arterial, presiones de llenado y función cardíaca por ecocardiografía. Las cánulas se lavan cada 5-10 minutos durante la prueba. Si es favorable, retirada definitiva y decanulación.
+- **ECMO VV:** se bajan el flujo de gas y la FiO~2~ del oxigenador, adecuando el soporte ventilatorio; si las condiciones son favorables se llega a cerrar el flujo de gas.
+- Si no es posible retirar una ECMO VA y la situación respiratoria lo permite, valorar una asistencia ventricular de medio o largo plazo, como puente a la recuperación o al trasplante.
+- Si hay dudas de que tolere la desconexión definitiva, pueden dejarse las cánulas con un flujo de suero heparinizado durante un máximo de 12-24 horas.
+
+## ECMO prolongada: ¿cuándo parar?
+
+*Cuidados críticos.* El soporte prolongado está justificado en el fallo respiratorio aislado: puede mantenerse largos periodos (> 6 semanas) como puente a la recuperación o al trasplante pulmonar, siempre que no aparezcan complicaciones que comprometan la calidad de vida o la supervivencia. En el fallo cardíaco es distinto: en la disfunción miocárdica primaria se recomienda pasar a una asistencia ventricular externa si no hay mejoría o posibilidad de retirar la ECMO tras 2 semanas. Tras cirugía cardíaca, la recuperación miocárdica debería verse en 5-10 días. No se recomienda una segunda ECMO en el mismo paciente, salvo que el soporte se retirara prematuramente o se planee una nueva intervención.
+
+## Vasos al decanular
+
+*Cuidados críticos.* Al retirar las cánulas pueden reconstruirse los vasos sin necesidad de ligarlos. Los vasos cervicales pueden repararse en la decanulación.
+
+*Curso ECMO 2019 (de Agustín).* Si se reconstruye el vaso: hemorragia, estenosis y trombosis (72 %). Si se liga: isquemia y congestión venosa. En el RN no hay diferencia neurológica a largo plazo.

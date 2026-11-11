@@ -1,0 +1,42 @@
+@f TEMAS/ECMO/11
+## Pronóstico y resultados
+
+*Protocolo neonatal.* Las indicaciones y los resultados han cambiado con los nuevos tratamientos convencionales. La ventilación de alta frecuencia oscilatoria, el surfactante y el óxido nítrico inhalado han reducido en un 40 % la necesidad de ECMO por patología respiratoria en recién nacidos. La población que hoy la precisa es más grave y accede a la ECMO más tarde. Algunos autores proponen simplificar los criterios en los pacientes sin una mejora rápida y evidente con los nuevos tratamientos.
+
+Los resultados dependen de la patología y de la situación previa y el deterioro del paciente.
+- **ECMO respiratoria neonatal:** el síndrome de aspiración meconial tiene el mejor pronóstico (supervivencia > 90 %) y la hernia diafragmática congénita el peor (cerca del 50 %). Ver también la tabla 2 en «Indicaciones y contraindicaciones».
+- **ECMO cardiaca:** supervivencia inferior (45 %) en la mayoría de las series, variable según la indicación (fallo de destete de CEC o disfunción ventricular postoperatoria). Ver la tabla 4.
+
+*Cuidados críticos (registro ELSO, julio 2016).* 23.874 pacientes con ECMO por causa cardíaca: 6.475 neonatos, 8.374 pediátricos y 9.025 adultos. Supervivencia al alta del 41 % en neonatos y adultos y del 51 % en niños, lejos de la ECMO respiratoria (58 % en niños y adultos, 74 % en neonatos). Por diagnósticos, la supervivencia es mayor en miocarditis y miocardiopatías (50-70 %) que en cardiopatías congénitas o paro cardíaco (30-45 %). En corazón univentricular, peores resultados; en Glenn y Fontan, 41 % y 36 %.
+
+*Protocolo neonatal (ventrículo único).* Pocos pacientes con SVIH tras Norwood sobreviven más de 9 días tras el inicio del soporte.
+
+## Seguimiento a largo plazo
+
+*Protocolo neonatal.* El aumento de la supervivencia obliga a seguir a estos pacientes a largo plazo. La mayoría, salvo los de hernia diafragmática congénita, tienen función pulmonar y crecimiento normales, aunque hay más alteraciones funcionales obstructivas aun con volúmenes pulmonares normales. Los de HDC tienen menor capacidad de ejercicio. En neurodesarrollo no hay diferencias significativas en los primeros años, pero sí más alteraciones cognitivas y de aprendizaje en la edad escolar.
+
+*Tabla 8 del protocolo neonatal. Resultados publicados sobre seguimiento a largo plazo tras ECMO neonatal.*
+
+@ancha
+| | < 2 años | 2-5 años | 6-12 años | > 12 años |
+|---|---|---|---|---|
+| {5} **Resultados médicos** |
+| Función pulmonar | Enf. pulmonar obstructiva, volumen pulmonar normal, hiperinsuflación en HDC | - | Enf. pulmonar obstructiva, atrapamiento aéreo, principalmente en HDC | Enf. pulmonar obstructiva y atrapamiento aéreo |
+| Capacidad de ejercicio | - | Disminuida | Disminuida a normal | Normal |
+| Crecimiento | Normal o < peso en HDC | Normal | Normal, menor peso y altura en HDC | - |
+| Problemas auditivos | {4} Prevalencia general entre 3-25 % en diferentes estudios |
+| Enf. renal crónica | {4} Alteración en filtración glomerular estimada en el 11 % |
+| {5} **Neurodesarrollo** |
+| Función motora | Normal en 84 % | Normal en 64 % | Normal en 43 % y en 71 % de HDC | - |
+| Desarrollo cognitivo | Normal en 92 % | Scores normales | Normal en 68 % y scores normales | - |
+| Test neurofisiológicos | - | < scores en compresión verbal y espacial | < scores en habilidades espaciales en 26 %, integración visual y motora menor a la media en 20 %, problemas de memoria 26-48 % | Problemas de memoria en 46-57 % |
+| Rendimiento escolar | - | - | Educación especial en 9-20 %, apoyo escolar 20-39 % | - |
+| Alteraciones del comportamiento | - | Normal en 48,5-65 %, > TDAH que la media | Problemas sociales 5 %, problemas de atención 6 % | Problemas sociales detectados en 6 % |
+
+*HDC: hernia diafragmática congénita; TDAH: trastorno por déficit de atención o hiperactividad. Datos recogidos de: «Long-term outcome of children treated with neonatal extracorporeal membrane oxygenation: increasing problems with increasing age», Seminars in Perinatology 38 (2014): 114-121.*
+
+! «Compresión verbal» aparece así en el original (probablemente «comprensión»).
+
+Los niños dados de alta tras ECMO neonatal necesitan un seguimiento multidisciplinar a largo plazo para detectar precozmente los problemas y ofrecer una intervención adecuada. Se hará desde la consulta de Neonatología con las especialidades necesarias durante los primeros años de vida.
+
+*Cuidados críticos.* El aumento de la supervivencia implica más morbilidad, por la patología de base y por la técnica. La ELSO publica recomendaciones de seguimiento para pediatras de cabecera y especialistas responsables de cualquier paciente tratado con soporte extracorpóreo.

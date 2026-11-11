@@ -1,0 +1,92 @@
+@f TEMAS/ECMO/8
+*Mantenimiento y enfermería (Curso 2019).* Objetivo: adecuada perfusión tisular, oxigenación y perfusión de los órganos, manteniendo al paciente en las mejores condiciones posibles a la espera de la recuperación de sus funciones. Los cuidados se dividen en previos a la canulación, durante el tratamiento y en la decanulación. Los cuidados previos están en la pestaña «Inicio de la asistencia».
+
+Áreas de cuidado del paciente en ECMO: hemodinámica, soporte respiratorio, renal y eliminación, nutrición, monitorización neurológica, movilización e higiene, temperatura, seguridad y vigilancia, y comunicación. Las cinco primeras y la temperatura están en «Manejo durante la asistencia».
+
+## Control de la coagulación
+
+- Anticoagular para evitar eventos trombóticos y hemorrágicos. Control con analíticas y ACT.
+- ACT: 1.º basal antes de la ECMO; 2.º al inicio, cada 15 minutos; 3.º estabilizado, cada hora. Tras un hemoderivado, a los 30 minutos. Si un ACT no es congruente, repetirlo.
+- Para mantener el rango se modifica el flujo de heparina en la bomba de ECMO.
+
+## Cuidado de las cánulas
+
+- Minimizar al máximo la manipulación y movilización de las cánulas.
+- Observar signos de sangrado.
+- Mantener los apósitos secos y bien fijados.
+
+## Riesgo de sangrado
+
+- Control del parche torácico (esternotomías).
+- Fijar y estabilizar los accesos vasculares con apósitos transparentes.
+- Evitar punciones.
+- Ordeño frecuente de drenajes.
+- Evitar el traumatismo de tejidos en el cuidado de la boca y la succión.
+- Vigilar el riesgo de sangrado cerebral.
+- Registrar los componentes sanguíneos y la pérdida de sangre.
+
+## Movilización e higiene
+
+Evitar úlceras por presión (UPP):
+- Cambios posturales, con precaución con las cánulas.
+- Colchón antiescaras y almohadas viscoelásticas.
+- Ácidos grasos hiperoxigenados.
+
+## Control del circuito
+
+*Mantenimiento y enfermería (Curso 2019).*
+
+**Cada hora:**
+- Punto de inserción de las cánulas (apósito).
+- Integridad del circuito.
+- Flujo de sangre/rpm y SatvO~2~.
+- Flujo de gas/FiO~2~.
+- Dosis de heparina.
+- Temperatura.
+- Presiones.
+
+**Cada turno, verificación del sistema:**
+- Revisión del circuito: cánulas, línea venosa, cono de la bomba, oxigenador, línea arterial y consola.
+- Comprobar las alarmas.
+- Comprobar el nivel de agua del intercambiador de calor.
+- Revisar la batería y la conexión a red. Kit de emergencia (con clamps sin dientes).
+
+**Cada 24 h:**
+- Gases del oxigenador (pre y postmembrana).
+- Cambiar la perfusión de heparina.
+
+*Complicaciones (Curso 2019, Santiago y Sánchez Galindo).* Cada hora: vigilar burbujas y coágulos en el oxigenador y el circuito.
+
+*Inicio y monitorización (Curso 2019, Zamorano).* Check list de ACT antes de entrar en ECMO, cada hora, cada turno y cada día.
+
+## Vigilancia
+
+Anotar y valorar:
+- Variaciones del flujo de sangre o de gas.
+- Cambios bruscos de presiones.
+- Desviaciones del ACT.
+- Coágulos (oxigenador, tubuladuras, conexiones).
+
+## Presiones del circuito
+
+*Inicio y monitorización (Curso 2019, Zamorano).*
+- **Presión de succión:** 0 a −20 mmHg (adultos 0 a −80 mmHg). Valorar la tendencia.
+- **Presiones pre y postmembrana:** 250-300 mmHg; máximo 200-250 mmHg.
+- **Gradiente de presión (premembrana − postmembrana):** normal ≤ 20; alarma si > 50.
+
+La interpretación de los cambios de presión está en la pestaña «Complicaciones».
+
+## Saturación venosa en línea
+
+*Inicio y monitorización (Curso 2019, Zamorano).* Se correlaciona con la SvO~2~. Objetivo 70-80 %. Evalúa la DO~2~ y la relación DO~2~-VO~2~, junto con la evaluación clínica. Se artefacta con la canulación de la aurícula izquierda y la mezcla, y en la VV por la recirculación.
+
+## Comunicación con la familia
+
+Dar soporte emocional a los padres mediante:
+- Escucha activa.
+- Intentar disminuir sus temores.
+- Información que pueda reconfortarles.
+- Posibilidad de ayuda psicológica.
+- Ayuda para afrontar la nueva situación de su hijo.
+
+Los pacientes en ECMO requieren un equipo multidisciplinar, con conocimiento y entrenamiento en la técnica, sin caer en una falsa seguridad.

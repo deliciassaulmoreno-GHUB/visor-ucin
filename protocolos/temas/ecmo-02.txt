@@ -1,0 +1,197 @@
+@f TEMAS/ECMO/2
+## Principio general
+
+*Protocolo neonatal.* En nuestro medio las indicaciones más frecuentes de ECMO en recién nacidos se basan en un riesgo o probabilidad de fallecer superior al 80 %. Es una técnica con alto riesgo de complicaciones y coste elevado, que se deben sopesar frente a los beneficios potenciales. Cada paciente debe seleccionarlo el centro donde se va a iniciar el soporte, tras agotarse los tratamientos convencionales disponibles y una vez descartadas las contraindicaciones. Se diferencian dos grandes grupos según la patología de base: respiratoria o cardiaca.
+
+*Curso ECMO 2019 (Rodríguez Corrales).* Indicaciones:
+- Insuficiencia respiratoria y/o cardíaca.
+- Alta morbimortalidad.
+- Falta de respuesta al tratamiento máximo convencional.
+- Reversibilidad.
+
+*Cuidados críticos.* La ECMO está indicada en el fallo cardíaco y/o respiratorio agudo potencialmente reversible pero con elevada mortalidad a pesar de una máxima optimización de la terapia convencional. De manera muy teórica se aconseja considerarla si la mortalidad esperada es del 50 % e indicarla si es del 80 %. También puede indicarse como puente a trasplante o a otro soporte mecánico de larga duración. La «máxima optimización» incluye volemia y hemoglobina adecuadas, soporte inotrópico y vasoactivo, y optimización ventilatoria (si procede, maniobras de reclutamiento, ventilación de alta frecuencia, óxido nítrico inhalado y prono). En el fallo cardíaco la ecocardiografía es esencial. Una utilización precoz del soporte puede revertir la progresión del fallo, acortar la asistencia e incrementar la supervivencia.
+
+## ECMO neonatal en patología respiratoria
+
+*Protocolo neonatal.* Patologías respiratorias más frecuentes con indicación de ECMO:
+- Síndrome de aspiración meconial (SAM).
+- Hernia diafragmática congénita (HDC).
+- Hipertensión pulmonar persistente neonatal (HPPN).
+- Sepsis.
+- Síndrome de distrés respiratorio (SDR) neonatal y otros.
+
+La supervivencia global de la ECMO respiratoria en recién nacidos es del 85 %, y al alta hospitalaria del 75 %, aunque depende de la etiología (tabla 2).
+
+*Tabla 2 del protocolo neonatal. ECMO respiratorio neonatal por diagnósticos.*
+
+| Diagnóstico | N.º casos | Duración ECMO (h) | Supervivencia (%) |
+|---|---|---|---|
+| Hernia diafragmática congénita | 7.889 | 259 | 51 |
+| Síndrome de aspiración meconial | 9.076 | 133 | 93 |
+| Hipertensión pulmonar persistente del RN | 5.138 | 155 | 74 |
+| Síndrome de distrés respiratorio | 1.560 | 136 | 77 |
+| Sepsis | 2.915 | 144 | 48 |
+| Neumonía | 377 | 246 | 59 |
+| Fuga aérea | 134 | 169 | 90 |
+
+*Según registro Extracorporeal Life Support (ELSO) de julio 2018 (1989-2016).*
+
+Los neonatos con HDC son una población especial: debería emplearse un criterio de índice de oxigenación (IO) más bajo del estándar por el daño de la ventilación agresiva en pulmones hipoplásicos, aunque no hay homogeneidad. En la mayoría de centros se acepta que el recién nacido que, tras nacer y ventilarse adecuadamente con FiO~2~ del 100 %, no alcanza en ningún momento una SaO~2~ preductal superior al 85 % no es candidato a ECMO, pues implica una hipoplasia pulmonar severa.
+
+Cada vez se tiende a criterios individualizados por paciente y por centro según los recursos convencionales disponibles. El cálculo clásico es el de la tabla 3.
+
+*Tabla 3 del protocolo neonatal. Criterios fisiológicos para entrada en ECMO por patología respiratoria.*
+
+@caja
+**Evidencia de insuficiencia respiratoria refractaria al tratamiento convencional**
+- Índice de oxigenación postductal > 40 [IO = PMA × FiO~2~ × 100 / PaO~2~]. Con IO = 20 considerar ECMO en situaciones que requieran traslado del paciente.
+- Gradiente alveolo-arterial de O~2~ (AaDO~2~): 605-620 torr [AaDO~2~ = (FiO~2~ × presión barométrica − 47 − PaCO~2~) − PaO~2~].
+- PaO~2~ < 35-50 mmHg en varias determinaciones durante > 6 h.
+- Deterioro agudo y mantenido: PaO~2~ < 30-40 mmHg.
+
+IO: índice de oxigenación; PMA: presión media en la vía aérea; PaO~2~: presión parcial de oxígeno postductal.
+@fin
+
+### Traslado a un centro con ECMO
+
+*Protocolo neonatal.* Gran parte de la eficacia de la ECMO se basa en la experiencia de los equipos, que solo se alcanza con entrenamiento continuado y concentrando los pacientes. La consulta con un centro con ECMO debe hacerse siempre **antes** de que el niño alcance criterios de insuficiencia respiratoria grave y, por tanto, antes de que esté indicada la ECMO.
+
+La ventilación de alta frecuencia oscilatoria (VAFO) puede limitar el transporte, porque no está disponible durante el traslado. Debe valorarse el traslado cuando todavía es posible cambiar a ventilación convencional y garantizar la estabilidad. Se recomienda óxido nítrico inhalado para disminuir la hipoxemia tras pasar de VAFO a convencional durante el traslado.
+
+### Criterios de inclusión a nivel respiratorio
+
+*Curso ECMO 2019 (Rodríguez Corrales).* Neonatos con fracaso respiratorio grave, con alta probabilidad de mortalidad, etiología potencialmente reversible y sin respuesta al tratamiento convencional:
+- Aporte inadecuado de oxígeno a los tejidos a pesar de la terapia máxima: aumento de lactato, empeoramiento de la acidosis metabólica, signos de disfunción de órganos diana.
+- Insuficiencia respiratoria hipóxica grave con descompensación aguda (PaO~2~ < 40).
+- Índice de oxigenación elevado de forma mantenida y sin mejoría.
+- Hipertensión pulmonar grave con evidencia de disfunción del ventrículo derecho y/o del izquierdo.
+- Patologías: síndrome de aspiración meconial, malformaciones congénitas (hernia diafragmática congénita, malformaciones de vía aérea, tumores torácicos…), hipertensión pulmonar persistente neonatal, neumonía, sepsis, puente a trasplante pulmonar, ahogamientos, etc.
+- Individualizar.
+
+*Curso ECMO 2019 (de Agustín), recomendaciones citadas en la diapositiva:*
+- **Hipertensión pulmonar persistente:** la ECMO está indicada en neonatos a término o pretérmino con hipertensión pulmonar grave o con hipoxemia refractaria a iNO, y para optimización de la función cardiaca y respiratoria (clase I; nivel de evidencia A).
+- **Hernia diafragmática:** la ECMO está recomendada en pacientes con HDC con hipertensión pulmonar grave que no responde al tratamiento médico (clase I; nivel B). Se recomienda un manejo planificado en un programa interdisciplinar de hipertensión pulmonar para RN y lactantes con HDC que tienen HP o riesgo de HP tardía (clase I; nivel B).
+
+## ECMO neonatal en patología cardiaca
+
+*Protocolo neonatal.* La ECMO cardiaca neonatal representa el 9,2 % del total de casos registrados en la ELSO en 2017, con una supervivencia de hasta el 45 %; son en general pacientes más graves que en la ECMO respiratoria. La principal indicación es un gasto cardiaco insuficiente que no responde al tratamiento médico óptimo. Las indicaciones varían de centro a centro, pero debería considerarse en:
+- Estabilización preoperatoria en cardiopatías congénitas no intervenidas.
+- Fracaso en la retirada de circulación extracorpórea tras la corrección quirúrgica de una cardiopatía congénita. Una vez descartada lesión residual anatómica, la asistencia puede mejorar la perfusión sistémica y facilitar la recuperación miocárdica. Es importante evitar la distensión ventricular durante esta fase, mediante atrioseptostomía quirúrgica o una cánula de derivación en la aurícula izquierda.
+- Bajo gasto cardiaco post-cardiotomía.
+- Arritmia refractaria.
+- Miocardiopatías y miocarditis: son las causas más frecuentes de bajo gasto sin lesión estructural, con los mejores datos de supervivencia publicados.
+- Rescate en neonatos con parada cardiaca refractaria.
+- Puente a una asistencia ventricular de larga duración.
+- Puente al trasplante, si no es posible implantar una asistencia ventricular de larga duración.
+
+*Tabla 4 del protocolo neonatal. ECMO cardiaco neonatal por diagnósticos.*
+
+| Diagnóstico | N.º casos | Duración ECMO (h) | Supervivencia (%) |
+|---|---|---|---|
+| Defecto congénito | 5.908 | 144 | 39 |
+| Parada cardiaca | 93 | 133 | 32 |
+| Shock cardiogénico | 114 | 149 | 42 |
+| Miocardiopatía | 143 | 214 | 60 |
+| Miocarditis | 88 | 256 | 50 |
+| Otros | 714 | 175 | 47 |
+
+*Según registro ELSO de julio 2018 (1989-2016).*
+
+*Curso ECMO 2019 (Rodríguez Corrales).* Criterios de inclusión a nivel cardíaco: neonato con shock cardiogénico que no responde al tratamiento médico estándar optimizado.
+1. Estabilización preoperatoria de cardiopatías congénitas.
+2. Soporte perioperatorio.
+3. Indicaciones no quirúrgicas (miocardiopatías o miocarditis, arritmias intratables).
+4. Rescate en neonatos con parada cardiaca refractaria.
+
+Cuatro estrategias principales: puente a recuperación, puente a puente, puente a trasplante de órganos y puente a decisión. El pronóstico varía según la patología de base.
+
+*Curso ECMO 2019 (Pérez-Caballero).* Indicaciones de ECMO VA: post-CEC, PCR, HTP, procedimientos complejos en hemodinámica, arritmias refractarias y sepsis refractaria (con interrogación en la diapositiva).
+
+### Situaciones en el paciente con cardiopatía
+
+*Cuidados críticos.*
+- **Estabilización preoperatoria:** neonatos o lactantes pequeños con cianosis grave o shock cardiogénico, como algunos drenajes venosos anómalos totales obstructivos o D-TGA con HTP refractaria al tratamiento convencional.
+- **Soporte tras cirugía cardiovascular:** imposibilidad de desconectar de la CEC (se aprovecha la canulación transtorácica) o síndrome de bajo gasto progresivo por disfunción ventricular, hipertensión pulmonar o arritmia refractaria (canulación transtorácica o cervical). Es imprescindible descartar lesiones anatómicas residuales corregibles mediante ecocardiograma y/o cateterismo.
+- **E-CPR (*Extracorporeal Cardiopulmonary Resuscitation*):** ECMO iniciada durante un paro cardíaco cuando la RCP avanzada convencional no es efectiva. No está definida la duración máxima de RCP por encima de la cual la ECMO estaría contraindicada. La calidad de la RCP determina el pronóstico.
+- **Miocarditis y cardiomiopatía:** con arritmias potencialmente letales a pesar del tratamiento antiarrítmico, o bajo gasto a pesar de aumentar el soporte inotrópico, la ECMO es el soporte mecánico de elección por su rápida instauración, como puente a la recuperación, al trasplante o a la asistencia ventricular. También en disfunción miocárdica irreversible (cardiomiopatías dilatadas o restrictivas, estadios finales de cardiopatías congénitas, disfunción crónica del injerto) y tras el trasplante cardíaco (imposibilidad de salir de CEC, bajo gasto postoperatorio, shock cardiogénico por rechazo agudo o vasculopatía del injerto).
+- **Hipertensión pulmonar refractaria a tratamiento médico:** retorno venoso pulmonar anómalo total obstructivo en situación extrema (estabilización preoperatoria) y postoperatorio con resistencias pulmonares transitoriamente elevadas (descartadas lesiones residuales). En HTP irreversible es controvertido, porque la probabilidad de sobrevivir como puente a trasplante pulmonar o cardiopulmonar es muy baja.
+- **Arritmias graves con compromiso hemodinámico:** para evitar el shock o el paro mientras se optimiza el tratamiento antiarrítmico o se valora un estudio electrofisiológico (miocarditis, cardiomiopatía, postoperatorio).
+- **Fallo respiratorio:** en niños con cardiopatía e infección pulmonar vírica o bacteriana puede valorarse ECMO VV si están estables hemodinámicamente. También soporte a corto plazo en estenosis traqueales sin intercambio adecuado con ventilación mecánica, en espera de cirugía.
+
+### Ventrículo único
+
+*Protocolo neonatal.* El síndrome de ventrículo izquierdo hipoplásico (SVIH) tras cirugía de Norwood es la cardiopatía congénita que con más frecuencia necesita ECMO. Los que la requieren en el postoperatorio tienen más riesgo de muerte en los años siguientes. Factores de riesgo de necesitar ECMO tras Norwood: peso al nacer < 2,5 kg y mayor tiempo de circulación extracorpórea. Factores de riesgo de muerte una vez iniciada: duración de la asistencia y complicaciones (daño neurológico, fallo renal). Pocos pacientes sobreviven más de 9 días tras el inicio del soporte.
+
+El Norwood modificado o técnica de Sano (reconstrucción del arco + shunt VD-arteria pulmonar) es la técnica paliativa de elección por su mayor supervivencia frente al Norwood clásico (reconstrucción del arco + shunt aortopulmonar). A veces se elige un abordaje híbrido (banding bilateral de ramas pulmonares + stent ductal, con apertura del septo interauricular si es necesario).
+- **Norwood clásico:** por el riesgo de hiperaflujo pulmonar por la fístula sistémico-pulmonar, habrá que aumentar el flujo de ECMO hasta compensar el robo, o puede ser necesario ocluir la fístula total o parcialmente.
+- **Norwood modificado (Sano):** riesgo de coagulación del conducto. Mantener algo de flujo por la aorta y del VD a la arteria pulmonar reduce esta complicación.
+- **Procedimiento híbrido:** opciones de canulación arterial: arteria pulmonar principal/ductus y carótida. La compresión del arco transverso distal por el stent es una complicación reconocida que hay que tener en cuenta. La canulación carotídea puede ser insuficiente para perfundir el territorio sistémico y la ductal puede ser insuficiente para perfundir miocardio y cerebro.
+
+*Cuidados críticos.* La ECMO es el soporte mecánico más utilizado en todo tipo de corazón univentricular y en todo estadio de paliación, con las mismas indicaciones que otras cardiopatías (bajo gasto, hipoxemia persistente, arritmias refractarias, PCR o imposibilidad de salir de CEC). Los pacientes con shunt sistémico-pulmonar requieren aumento de flujo; a veces hay que limitar el flujo del shunt para disminuir el edema pulmonar y optimizar el gasto sistémico. Los resultados son peores que en los biventriculares; la indicación más favorable es la trombosis del shunt en estadio I. En conexión cavopulmonar (Glenn y Fontan) la supervivencia es peor (41 % y 36 %), por lo que hay que decidir si es posible volver a la situación previa o, si la disfunción ventricular obliga a trasplante, buscar electivamente la mejor canulación y asistencia.
+
+## Contraindicaciones
+
+*Protocolo neonatal. Selección de pacientes:*
+- **Edad gestacional < 34 semanas:** la alta incidencia de sangrado intracraneal en prematuros limita la ECMO. Hay relación importante entre edad gestacional y morbimortalidad en ECMO.
+- **Peso < 2 kg:** por dificultades técnicas de canulación. No es contraindicación absoluta.
+- **Hemorragia intraventricular grado III o mayor:** por riesgo de extensión con la anticoagulación. Puede aplicarse ECMO cuando la mortalidad esperada es alta en niños con HIV grado II, usando con cautela menores niveles de anticoagulación.
+- **Más de 7 a 10 días de ventilación mecánica:** actualmente no es criterio absoluto, salvo que se sospeche que la enfermedad pulmonar no será reversible.
+- **Coagulopatía o sangrado:** contraindicaciones relativas; es deseable corregirlas antes de iniciar la asistencia.
+- **Situaciones incompatibles con la vida después de la ECMO:** daño cerebral grave o irreversible, metabolopatías confirmadas o cromosomopatías letales como la trisomía 13 y 18.
+
+*Curso ECMO 2019 (Rodríguez Corrales):*
+- **Contraindicaciones:** enfermedad cromosómica letal (incluye trisomía 13 y 18, pero no la 21) u otra anomalía letal; daño cerebral irreversible; sangrado incontrolable; hemorragia intraventricular importante; tamaño del vaso muy pequeño para la canulación.
+- **Relativas:** peso menor de 2 kg; menos de 34 semanas de edad gestacional; daño orgánico irreversible (salvo que se considere trasplante del órgano).
+
+*Cuidados críticos.* Cada centro debe consensuar las contraindicaciones y limitaciones e individualizarlas.
+
+*Tabla I de Cuidados críticos. Contraindicaciones para el soporte ECMO.*
+
+| Contraindicaciones absolutas | Contraindicaciones relativas* |
+|---|---|
+| 1. Alteraciones cromosómicas o genéticas graves (se excluye la trisomía 21).// 2. Alteración neurológica que condicione incapacidad grave.// 3. Accidente cerebrovascular, traumatismo cerebral y cirugía cerebral reciente (potencial exclusión por el riesgo de hemorragia intracraneal).// 4. Hemorragia severa de cualquier localización que comprometa la vida (excluida la hemorragia pulmonar y en el postoperatorio inmediato de cirugía cardíaca).// 5. Coagulopatía grave que sea incontrolable con el uso de heparina.// 6. Pesos límites (< 2 kg y > 140 kg).// 7. Prematuridad < 34 semanas de gestación.// 8. Pacientes con enfermedad metabólica u oncológica que condicione mal pronóstico.// 9. Parada cardíaca en curso, a menos que exista un programa de ECPR con criterios establecidos para la selección de pacientes y personal entrenado para el inicio rápido de la ECMO. | 1. Ventilación mecánica agresiva (PEEP > 15 cmH~2~O, MAP > 25 cmH~2~O, PIP > 45 cmH~2~O) prolongada (> 10-15 días).// 2. Enfermedad pulmonar crónica grave, excepto puente a trasplante pulmonar o pacientes con DBP con bronquiolitis.// 3. Neoplasias (a valorar con el equipo médico habitual y la familia).// 4. Disfunción orgánica severa y crónica (pulmonar, renal y hepática).// 5. Insuficiencia cardíaca crónica (excepto puente al trasplante o asistencia ventricular).// 6. Los casos de shock séptico refractario deben individualizarse, aunque en la edad pediátrica en general sí tienen indicación de ECMO.// 7. Disfunción multiorgánica avanzada (cuando no sea atribuible exclusivamente al fallo cardio-respiratorio).// 8. Para ECMO VV son contraindicación la presencia de fallo cardíaco grave e HTP grave (PAPm > 50 mmHg) que no se considere reversible mejorando la oxigenación.// 9. Para ECMO VA son contraindicación la presencia de insuficiencia aórtica grave y disección de aorta. |
+
+*\*A evaluar individualmente como posibles limitaciones para el inicio de la ECMO. DBP: displasia broncopulmonar; HTP: hipertensión pulmonar; PAPm: presión arterial pulmonar media.*
+
+## Criterios de entrada: marcadores de gravedad
+
+*Cuidados críticos.* No existen criterios estrictos para indicar ECMO en el fallo respiratorio o cardíaco en pediatría, y ningún marcador ha demostrado predecir de manera fidedigna la evolución. Cada centro debe consensuar las indicaciones y establecer un algoritmo con evaluación seriada de alguno de estos parámetros para identificar precozmente a los candidatos.
+
+*Tabla II de Cuidados críticos. Marcadores de gravedad clínica para pacientes con fallo respiratorio y cardíaco.*
+
+| Fallo respiratorio | Fallo cardíaco* |
+|---|---|
+| **Clásicamente utilizados en neonatología y pediatría:**// 1. AaDO~2~ > 610 en neonatos y > 470 en niños durante > 8 horas.// 2. IO > 40 durante > 6 horas.// 3. Hipercarbia con pH < 7,20 de manera persistente a pesar de «parámetros ventilatorios elevados», como presión meseta > 35 cmH~2~O.// **Utilizados en adultos:**// 4. Complianza < 0,5 ml/cmH~2~O.// 5. Shunt intrapulmonar > 30-50 % con FiO~2~ > 0,6.// 6. Score Murray (ensayo CESAR) > 3.// 7. PaO~2~/FiO~2~ < 100. | 1. Hipotensión arterial progresiva (< 2 DS para la edad).// 2. Aumento de la presión en AD o AI > 20 mmHg durante > 6 horas.// 3. SvO~2~ < 60 % (excluyendo cardiopatías cianosantes).// 4. IC < 2,0 L/min/m^2^.// 5. Evidencia ecocardiográfica de disfunción ventricular severa con FE < 30 %, si existen signos de inadecuada perfusión tisular (pH < 7,15 o hiperlactacidemia persistente, oligoanuria). |
+
+*AaDO~2~: diferencia alveolo-arterial de oxígeno; IO: índice de oxigenación; Score Murray: incluye PaO~2~/FiO~2~, PEEP, complianza y cuadrantes implicados en la radiografía de tórax, valor de 0 a 4; AD/AI: aurícula derecha/izquierda; IC: índice cardíaco; FE: fracción de eyección. \*Descompensación cardiovascular aguda que amenaza la vida pero potencialmente reversible, y que no responde a optimización de manejo médico habitual (dosis habituales de drogas inotrópicas/vasoactivas, antiarrítmicos, marcapasos).*
+
+## Hernia diafragmática congénita
+
+*Curso ECMO 2019 (Rodríguez Corrales).*
+
+Elevada morbimortalidad: hipertensión pulmonar, hipoplasia pulmonar y disfunción cardíaca. Manejo multidisciplinar: estabilización inicial y reparación quirúrgica, buscando una adecuada oxigenación y estabilidad hemodinámica.
+
+**Objetivos a nivel respiratorio:**
+- Saturación preductal entre 80 y 95 %.
+- Saturación postductal por encima del 70 %.
+- PaCO~2~ entre 50 y 70 mmHg.
+
+**Manejo:** la ventilación mecánica convencional es la primera estrategia: PEEP 3-5 cmH~2~O, PIP limitada a 25 cmH~2~O y FR 40-60 rpm. Si no es suficiente y se requiere PIP > 28 cmH~2~O, se debería cambiar a VAFO.
+
+**Óxido nítrico:**
+- Indicación: índice de oxigenación ≥ 20; diferencia de saturación pre y postductal de al menos un 10 %; saturación preductal < 85 %; signos de hipoperfusión sistémica.
+- Respuesta: disminución del 10-20 % en la diferencia de saturación pre y postductal, aumento del 10-20 % en la PaO~2~, o mejoría hemodinámica (aumento del 10 % de la TAM o descenso del lactato).
+
+**ECMO en la HDC:** hipertensión pulmonar grave, refractaria al tratamiento vasodilatador:
+- Incapacidad para mantener saturaciones preductales > 85 % o postductales > 70 %.
+- Índice de oxigenación ≥ 40 de forma persistente durante al menos 3 horas.
+- Acidosis respiratoria (pH < 7,15) a pesar de optimizar el respirador.
+- Necesidad de PIP > 28 cmH~2~O o presión media en vía aérea > 17 cmH~2~O para alcanzar saturación > 85 %.
+- Hipoperfusión sistémica por aporte inadecuado de oxígeno: acidosis metabólica (pH < 7,15), lactato ≥ 5 mmol/l, hipotensión resistente a líquidos y soporte inotrópico adecuado, con diuresis < 0,5 ml/kg/h durante al menos 12-24 horas.
+
+ECMO VA o VV. Duración del tratamiento: «¿2 semanas?» (con interrogación en la diapositiva).
+
+**Cirugía en pacientes con HDC.** Hay controversia sobre el momento exacto. Reparación quirúrgica diferida, tras la estabilización fisiológica: TAM normal para la edad gestacional sin o con poco soporte inotrópico, saturación preductal 85-95 % (FiO~2~ < 50 %), láctico < 3 y diuresis > 1 ml/kg/h. Si el paciente está en ECMO, tres enfoques:
+- Reparación temprana, en las primeras 72 horas: sin perfusión de heparina, sin más complicaciones.
+- Reparación en ECMO pero más aplazada, en el paciente que no puede salir de ECMO: peores resultados.
+- Reparación después de la decanulación: disminuye la mortalidad.

@@ -1,0 +1,141 @@
+@f TEMAS/ECMO/3
+## Componentes del circuito
+
+*Protocolo neonatal.* El sistema consta básicamente de:
+- Cánulas del tamaño adecuado para el acceso vascular neonatal.
+- Circuito de tubuladuras de policloruro de vinilo, con diferentes calibres según el flujo a mantener.
+- Una bomba que impulsa la sangre.
+- Un intercambiador de gases o membrana oxigenadora.
+- Un sistema de calentamiento de la sangre (esencial en el recién nacido).
+
+### Membrana oxigenadora
+
+*Protocolo neonatal.* En la unidad se utiliza el oxigenador QUADROX-iD de Maquet®, con un volumen de cebado de 81 ml y un rango de flujo entre 0,2 y 2,8 L/min. Estos límites condicionan la configuración del circuito neonatal y hacen imprescindible un **puente venoarterial** para asegurar el flujo mínimo por el oxigenador durante el descenso de la asistencia.
+
+*Tabla 6 del protocolo neonatal. Características del oxigenador QUADROX-iD Ped (Maquet®).*
+
+| Característica | Valor |
+|---|---|
+| Material MB | Polimetilpenteno |
+| Área de superficie | 0,8 m^2^ |
+| Cebado | 81 ml |
+| Flujo (L/min) | 0,2-2,8 |
+| Max flujo gas | - |
+| Conexiones sangre | 3/8" |
+| Conexión gas | 1/4" |
+| Extracciones | Luer-Lock |
+
+### Mezclador de oxígeno y aire
+
+*Protocolo neonatal.* Regula la proporción de oxígeno/aire (FiO~2~) que entra en el oxigenador, con una relación habitual entre ventilación y perfusión de 2:1. Hay 2 columnas; en recién nacidos se usa la de «ml».
+
+### Bombas
+
+*Protocolo neonatal.* Las bombas son de dos tipos: de rodillo (oclusivas o no oclusivas) y centrífugas. El programa de ECMO neonatal empezó en 1997 con una bomba de rodillo no oclusiva (Rhone-Poulenc), sustituida en 2012 por la bomba centrífuga Rotaflow (RF-32) de Maquet®. El sistema Cardiohelp (Maquet®) todavía no permite usar oxigenadores adecuados para la asistencia neonatal.
+
+### Calentador
+
+*Protocolo neonatal.* El calentamiento de la sangre de retorno es imprescindible en el neonato. Se hace con el sistema incorporado al oxigenador con la unidad HU-35 (Maquet®). Este sistema **no tiene batería**: en traslados intra o interhospitalarios prolongados hay que proporcionar otro sistema de calentamiento externo.
+
+### Otros componentes
+
+*Protocolo neonatal.*
+- **Tubuladuras:** de PVC, calibre 1/4" y 3/8" en las conexiones a la bomba, con varias conexiones luer para medicación y para la perfusión de heparina premembrana con válvula antirreflujo.
+- **Puente:** conexión entre la rama arterial y la venosa en su parte más próxima al paciente. Se mantiene purgado solo con cristaloide y cerrado durante la asistencia. Se abre para recircular la sangre del circuito cuando hay que retirar el soporte temporalmente, y para bajar el flujo al paciente durante la retirada sin descender en exceso el flujo por la membrana.
+- **Monitorización del circuito:**
+  - Sensores de flujo: los de la bomba centrífuga y un sensor tipo «Flowmeter» en la rama arterial, tras el puente, que mide el flujo real al paciente cuando se trabaja con el puente abierto.
+  - Presiones en tres puntos: succión previa a la bomba (evalúa la precarga del paciente), entrada y salida del oxigenador.
+  - Monitorización gasométrica continua con sensores arterial y venoso en línea (sistema BMU-40): PaO~2~, SvcO~2~, hemoglobina, hematocrito y temperatura.
+- **Depuración extrarrenal:** puede incorporarse el sistema de hemofiltración (Prismaflex®). Ver la pestaña «Manejo durante la asistencia».
+
+! Las figuras del capítulo (sistema completo, cánulas cervicales, canulación central, oxigenador, esquema del circuito del HGUGM, puente, Flowmeter y BMU-40) son fotografías de poca calidad y no se han copiado. Están en las páginas 291-298 del original.
+
+## Canulación
+
+### Principios
+
+*Cuidados críticos.* La estrategia de canulación debe individualizarse según el escenario clínico. La cánula venosa debe permitir un flujo adecuado: su diámetro interno limita el flujo máximo (con volemia adecuada), por lo que se coloca la de mayor grosor posible; a veces hace falta una segunda cánula de drenaje. El tamaño de la cánula arterial determina la resistencia del circuito.
+
+*Protocolo neonatal.* Cuanto mayor sea el diámetro interno y menor la longitud de la cánula, menor será la resistencia al flujo y más óptima la asistencia. El tamaño depende de la anatomía del paciente y lo decide el cirujano que canula.
+
+*Curso ECMO 2019 (Pérez-Caballero).* Tamaño de las cánulas: lo más grandes posible. El objetivo es el mayor flujo posible con las menores rpm, menos hemólisis, permitir hemofiltración y revertir mejor la situación que llevó al paciente a la ECMO.
+
+### ECMO VA en el recién nacido
+
+*Protocolo neonatal.* Preferentemente cervical. En postoperatorios cardiacos o emergencias puede ser central, por esternotomía con cierre torácico diferido, pasando a cervical tan pronto como sea posible.
+- **Cervical:** la realiza el cirujano pediátrico o cardiovascular por disección, en la UCIN o en quirófano. La cánula venosa va por la yugular interna derecha hasta la aurícula derecha; la punta debe quedar en la parte más inferior de la AD para un retorno venoso óptimo. La cánula arterial va al arco aórtico por la carótida derecha. Se comprueba la colocación con radiografía y/o ecocardiografía y su capacidad de dar flujo suficiente.
+- **Central:** la realiza el cirujano cardiaco en quirófano. La cánula venosa va directamente a la AD y la arterial al arco aórtico, directa o por fístula de goretex. Por el mayor riesgo de decanulación accidental e infección con tórax abierto, se pasan al cuello en cuanto la situación lo permita.
+
+*Tabla 5 del protocolo neonatal. Guía para la selección del tamaño de cánulas según peso (VA, cánulas Biomedicus®).*
+
+| Peso (kg) | A (Fr) | V (Fr) |
+|---|---|---|
+| 2-3 | 8 | 8 / 10 |
+| 3-6 | 10 | 10 / 12 / 14 |
+| 6-11 | 12 | 14 |
+| 11-14 | 12 | 14 / 15 |
+| 14-20 | 14 | 15 / 17 |
+
+Las cánulas de distintos fabricantes tienen distintas características de flujo y presión con el mismo tamaño en French. En el servicio se usan las de Bio-Medicus (Medtronic Inc®), que ofrecen menor resistencia al flujo para el mismo diámetro externo.
+
+### Cánulas de doble luz para ECMO VV
+
+*Protocolo neonatal.* Las dos principales son la Avalon Elite Bicaval dual-lumen (MAQUET Inc®) y la de OriGen Biomedical®.
+- **Avalon:** necesita colocarse bajo control ecocardiográfico; hay poca experiencia en neonatos. La más pequeña es de 13 Fr y 11 cm, y se usa hasta los 5 kg.
+- **OriGen:** puede colocarse solo con control radiológico. Para pacientes de hasta 5 kg se recomienda 13-14 Fr y 8,2 cm.
+
+*Curso ECMO 2019 (Pérez-Caballero).* Avalon Elite: cánula bicava de doble lumen; VYI percutánea; una sola punción; menos recirculación; precisa control radiológico para el implante; de 13 a 31 Fr.
+
+### Tamaños por peso en pediatría
+
+*Tabla III de Cuidados críticos. Tamaño de cánulas para ECMO VA y VV en función del peso.*
+
+| Peso | Drenaje venoso | Retorno arterial* | Cánula VV doble lumen |
+|---|---|---|---|
+| 2-3 kg | 10-12 Fr | 8-10 Fr | 13 Fr |
+| 3-7 kg | 12-14 Fr | 10-12 Fr | 13-16 Fr |
+| 7-12 kg | 15-17 Fr | 14 Fr | 16-19 Fr |
+| 12-15 kg | 17-19 Fr | 15 Fr | 19 Fr |
+| 15-20 kg | 19-21 Fr | 15-17 Fr | 23 Fr |
+| 20-30 kg | 21-23 Fr | 17-19 Fr | 23 Fr |
+| 30-60 kg | 23-25 Fr | 19-21 Fr | 28-32 Fr |
+| > 60 kg | 25-27 Fr | 21-23 Fr | 32 Fr |
+
+*\*«Arterial» se refiere al catéter de retorno al paciente, que puede ser una vena en la ECMO VV o una arteria en la ECMO VA.*
+
+! Las dos tablas de tamaños no coinciden del todo: la tabla 5 del protocolo neonatal da 8 Fr arterial y 8/10 Fr venosa para 2-3 kg; la tabla III de Cuidados críticos, 8-10 Fr y 10-12 Fr. Se mantienen las dos con su fuente.
+
+### Lugares de canulación
+
+*Cuidados críticos.* La canulación VA puede ser central o periférica, quirúrgica o percutánea.
+- **Central o transtorácica:** por esternotomía, por cirujanos cardiovasculares. Es la óptima si la ECMO se plantea a la salida de CEC o en el postoperatorio inmediato (venosa en AD, arterial en aorta ascendente). Más riesgo de sangrado y mediastinitis, pero permite cánulas mayores y mejores flujos.
+- **Periférica:** fuera del postoperatorio cardíaco, cervical o femoral, habitualmente por disección quirúrgica. Venosa por yugular derecha hasta la AD y arterial por carótida hasta el arco aórtico. La canulación arterial, sobre todo cervical, tiene más riesgo de accidente cerebrovascular. Los vasos cervicales pueden repararse en la decanulación sin necesidad de ligarlos. En niños > 10-15 kg pueden usarse los femorales, pero a veces se necesitan cánulas adicionales de drenaje y de perfusión distal del miembro. En niños mayores puede ser percutánea.
+- **ECMO VV:** cánula de doble luz por yugular derecha, con orificios de drenaje en ambas cavas y retorno dirigido a la tricúspide, lo que disminuye la recirculación. Se inserta guiada por ecocardiografía; su complicación más grave es la perforación auricular. Con dos venas (yugular derecha y femoral) es preferible drenar por la femoral y retornar por la yugular, pero en niños < 10-15 kg puede no conseguirse drenaje suficiente y hay que invertirlas, con más recirculación.
+- En todos los casos hay que comprobar la posición con radiografía y ecocardiografía.
+
+*Curso ECMO 2019 (Pérez-Caballero).*
+
+| Canulación | A favor | En contra |
+|---|---|---|
+| **Central** (aorta ascendente y AD, a menudo con cánula en AI) | Muy buenos flujos// Flujo arterial anterógrado// Posibilidad de cánula en AI// Solución de otros problemas (derrames pleurales, pericárdicos) | Mucho más riesgo de sangrado// No masaje durante RCP// Más riesgo de infección |
+| **Cervical** | De elección en neonatos y lactantes pequeños// Permite el masaje cardiaco durante el implante// Menos riesgo de infección y sangrado | Flujos algo menores y revoluciones mayores// Flujo arterial dirigido a la válvula aórtica (IAo, postcarga aumentada)// No drena el lado izquierdo (opciones: Rashkind, cánula en el ápex, cánula transeptal) |
+| **Femoral** | En pacientes mayores// Permite el masaje cardiaco durante el implante | Flujo arterial retrógrado// Alteraciones del flujo distal de la extremidad// Problemas locales: linforragia, hematomas, infecciones |
+| **Axilar** | Sin aterosclerosis// Zona más limpia// Libre de colaterales | Técnicamente más demandante// Canulación venosa femoral// Lesión del plexo braquial |
+
+- **Central, cuándo usarla:** ausencia de accesos periféricos factibles; niños de más de 20 kg o 3 años; necesidad inmediata de drenar la aurícula izquierda. No usar cánulas de Pacífico para ECMO central (riesgo de sangrado por lesión cardiaca).
+- **Cervical, cánula arterial:** poco progresada, justo pasando la bifurcación de la subclavia. Referencia externa: yugulum esternal. Habitualmente de 8 a 12 Fr.
+- **Cervical, cánula venosa:** muy progresada. Referencia externa: areola mamaria. Habitualmente de 10 a 15 Fr.
+- **Cánula en aurícula izquierda:** en disfunción VI severa. Evita el edema agudo de pulmón y descarga la pared del VI. Riesgos: sangrado, embolismo aéreo y trombosis de la cánula.
+- **ECMO VV:** patología respiratoria (SDRA, trasplante pulmonar, traumatismos pulmonares, gripe A…), canulación percutánea, larga duración. El problema es la recirculación.
+- **Fijación de cánulas:** nunca suturar a la piel, por fatiga de materiales, desgarro del punto y riesgo de salida accidental de las cánulas.
+
+### Procedimiento de canulación en el neonato
+
+*Protocolo neonatal.*
+- Cambiar de posición al paciente en la cuna térmica para facilitar el acceso cervical, con rodillo bajo los hombros (hiperextensión y giro de la cabeza a la izquierda) y asegurando la vía aérea. Tras iniciar la asistencia, comprobar el flujo al retirar el rodillo.
+- Campo estéril con el personal habitual de quirófano, accesos vasculares necesarios y comprobación de disponibilidad de hemoderivados.
+- Sedoanalgesia habitual para acto quirúrgico.
+- Tras comprobar coagulación y ACT, bolo de heparina de 50-100 UI/kg cuando el cirujano ha expuesto los vasos cervicales y va a insertar las cánulas.
+- Profilaxis antibiótica: habitualmente se continúa la antibioterapia pautada por la patología de base, o vancomicina + amikacina si hay cierre de tórax diferido tras cirugía.
+
+*Mantenimiento y enfermería (Curso 2019).* El acceso lo indica el cirujano cardíaco. En el paciente no postquirúrgico se usan los vasos del cuello: disección cervical de la YID hasta la aurícula derecha para la cánula venosa y de la carótida hasta el arco aórtico para la arterial. Acceso percutáneo (Seldinger) en la canulación femoral; en la ECMO venovenosa pediátrica, control con escopia para aumentar el flujo venoso.

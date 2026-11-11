@@ -1,0 +1,59 @@
+@f TEMAS/ECMO/1
+! Apartado elaborado para el visor reuniendo el material de la carpeta «4. Hemodinámica/ECMO». No es un protocolo del servicio: cada bloque indica de qué documento sale, con su texto casi literal. Cuando dos documentos dan cifras distintas se ponen las dos, cada una con su fuente.
+
+## Documentos de origen
+
+- **Protocolo neonatal:** «Protocolo de ECMO neonatal», capítulo 11. A.B. Bernardo Atienza, M.L. Franco Fernández, D. Blanco Bravo, S. Caballero Martín, S. López Torres (Servicio de Cuidados Intensivos Neonatales). Fotografías del libro, archivo «ECMO NEONATAL.pdf».
+- **Cuidados críticos:** S. Segura Matute, F.J. Cambra Lasaosa, A.C. Sánchez Galindo, M.J. Santiago Lozano. «ECMO en el paciente con patología cardíaca», capítulo 43 de *Cuidados críticos del niño con patología cardíaca*, páginas 409-417 del libro (423-431 del PDF).
+- **Curso ECMO 2019:** diapositivas del Curso teórico-práctico de ECMO pediátrico y neonatal del HGUGM:
+  - E. Rodríguez Corrales, «ECMO neonatal».
+  - J.A. Zamorano Serrano, «Inicio de la asistencia, vigilancia y monitorización».
+  - R. Pérez-Caballero, «ECMO. Canulación quirúrgica».
+  - J.C. de Agustín, «ECMO RN: complicaciones de la canulación».
+  - M.J. Santiago, «Manejo de la anticoagulación y de los hemoderivados en ECMO».
+  - M.J. Santiago y A.C. Sánchez Galindo, «Complicaciones del ECMO».
+  - «Mantenimiento del paciente en ECMO y cuidados especiales de enfermería» (sin autor en las diapositivas).
+- **Artículo de infecciones:** Santiago-Lozano MJ et al. Complicaciones infecciosas en niños tratados con oxigenación por membrana extracorpórea. *Enferm Infecc Microbiol Clin*. 2018;36(9):563-567.
+
+! Los protocolos del hospital sobre ECMO (41.A Indicaciones, 41.B Entrada y salida, 41.C Checklist) están en Protocolos › Hemodinámico, y el capítulo 6.14 del libro SENEO en Protocolos › Sociedad Española.
+
+## Qué es la ECMO
+
+*Protocolo neonatal.* La oxigenación por membrana extracorpórea (ECMO) en el recién nacido se utiliza con el objetivo de sustituir la función pulmonar y/o cardiaca hasta que el proceso desencadenante del fracaso cardiorrespiratorio desaparezca y se restablezcan las funciones propias del paciente. Este soporte sistémico puede ser total o parcial y su uso es transitorio, normalmente días o pocas semanas.
+
+En 1976 Bartlett et al. comunicaron el primer superviviente neonatal, una niña con un fallo respiratorio severo secundario a aspiración meconial. En los últimos años, según el registro de la ELSO, la proporción de pacientes neonatales ha ido disminuyendo y la ECMO respiratoria neonatal ha ido perdiendo protagonismo, en probable relación con las mejoras en las técnicas de ventilación neonatal; la ECMO cardiaca es una indicación más frecuente.
+
+El tratamiento con ECMO es complejo y solo debería realizarse en unidades que dispongan de la posibilidad de mantener un grado suficiente de adiestramiento y experiencia para solventar las complicaciones que puedan surgir.
+
+*Cuidados críticos.* En el ámbito pediátrico existen dos tipos de soporte circulatorio mecánico: los dispositivos de asistencia ventricular externa (VAD), que ofrecen exclusivamente soporte hemodinámico, y la ECMO, que puede además ofrecer soporte respiratorio. La experiencia con balón de contrapulsación intraaórtica en la edad pediátrica es muy limitada.
+
+## Objetivos
+
+*Curso ECMO 2019 (Rodríguez Corrales):*
+- Mantener un adecuado transporte de oxígeno.
+- Tiempo de espera o reposo.
+- Reducir la intensidad del tratamiento convencional.
+
+*Cuidados críticos:*
+- **Asegurar un flujo sanguíneo adecuado** para suplir las necesidades del metabolismo celular en pacientes con gasto cardíaco inadecuado: ECMO venoarterial (VA). El flujo variará de 60 a 100 ml/kg/min (en ocasiones hasta 150 ml/kg/min) según se consiga o no una adecuada perfusión, valorada por signos clínicos (tiempo de recapilarización, diuresis, frecuencia cardíaca) y analíticos (saturación venosa mixta, lactato, equilibrio ácido-base).
+- **Asegurar una adecuada oxigenación y lavado de CO~2~** en pacientes con disfunción pulmonar. Si el paciente mantiene un gasto cardíaco adecuado puede instaurarse una ECMO venovenosa (VV). La oxigenación correcta, con gasto cardíaco y hematocrito adecuados, se conseguirá habitualmente con una saturación arterial de O~2~ entre 80-90 %, aunque dependerá del diagnóstico y de la configuración del circuito, y se monitoriza con el equilibrio ácido-base arterial y el lactato. Si el paciente lo requiere es posible reconvertir la asistencia VV en VA.
+- **Prevenir las complicaciones de otras terapias:** el daño pulmonar de una ventilación mecánica agresiva, los efectos hemodinámicos de la presión intratorácica elevada y el estrés miocárdico y daño en órganos diana de las altas dosis de inotrópicos y vasoconstrictores. También se usa para facilitar cateterismos complejos, intervenciones sobre la vía aérea o el mantenimiento de órganos en donantes.
+
+## Modalidades: venovenosa (VV) y venoarterial (VA)
+
+*Protocolo neonatal.* En el recién nacido la elección del tipo de soporte se hará en función de la patología principal, con algunas peculiaridades por la canulación y la fisiología cardiorrespiratoria del neonato.
+- **ECMO VA:** cortocircuito cardiopulmonar completo. La cánula de drenaje se coloca en la aurícula derecha a través de la vena yugular interna derecha. La sangre desoxigenada se bombea por el circuito y se devuelve al territorio arterial sistémico por una cánula en la arteria carótida derecha.
+- **ECMO VV:** una sola cánula de doble luz localizada siempre en aurícula derecha, donde la sangre oxigenada retorna y se mezcla con el retorno venoso del paciente.
+
+En el recién nacido sigue predominando en la mayoría de centros la modalidad VA, porque la VV no proporciona soporte cardiaco directo y el aporte de oxígeno puede ser inadecuado por la «recirculación», que obliga a flujos tan altos que son mal tolerados hemodinámicamente en el recién nacido hipoxémico. Una de las principales ventajas de la VV es que evita la canulación y ligadura de la arteria carótida.
+
+*Tabla 1 del protocolo neonatal. Comparación de ECMO venovenoso frente a venoarterial.*
+
+| | Venoarterial | Venovenoso |
+|---|---|---|
+| **Ventajas** | Soporte cardiaco directo// Excelente aporte de oxígeno// Estabilización rápida | Se evita la canulación de arteria carótida// Flujo pulsátil// Flujo sanguíneo pulmonar normal// Perfusión miocárdica con sangre oxigenada |
+| **Desventajas** | Ligadura de la arteria carótida// Flujo sanguíneo no pulsátil// Riesgo potencial de hiperoxia cerebral// Menor aporte de oxígeno al miocardio// Embolismo a la circulación sistémica | Menor riesgo de embolismo// No soporte cardiaco directo// Recirculación// Menor aporte de oxígeno// Compromiso de retorno venoso sistémico |
+
+! «Menor riesgo de embolismo» aparece así en el original, en la fila de desventajas del venovenoso, aunque por su sentido parece una ventaja.
+
+En la ECMO VA se reducen la precarga del VD y el flujo pulmonar, mientras que la postcarga del VI puede aumentar; es su principal inconveniente en el soporte hemodinámico del recién nacido. Precisa ajuste de flujos y de resistencias periféricas, evitando el bypass completo, que condicionaría una pobre perfusión coronaria con sangre desaturada procedente del VI y puede dar lugar al «stunt» cardiaco.

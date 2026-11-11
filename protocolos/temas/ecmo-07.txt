@@ -1,0 +1,40 @@
+@f TEMAS/ECMO/7
+## Profilaxis antibiótica
+
+*Protocolo neonatal.* En la canulación, habitualmente se continúa la antibioterapia pautada por la patología de base, o vancomicina + amikacina si hay cierre de tórax diferido tras cirugía.
+
+*Cuidados críticos.* La profilaxis parece lógica, aunque hay pocos datos que la apoyen. Se recomienda optimizar el antimicrobiano, su dosis y su duración para evitar colonizaciones por multirresistentes. Para la canulación, además de la técnica estéril, una dosis única de una cefalosporina de primera generación (como cefazolina) 30 minutos antes de la incisión. La profilaxis frente a grampositivos de la piel disminuye el riesgo de mediastinitis con tórax abierto. Los pacientes con ECMO > 2 semanas, con fallo cardíaco o con tórax abierto tienen más riesgo de infección fúngica, y algunos centros dan profilaxis antifúngica.
+
+*Artículo de infecciones (Santiago-Lozano 2018).* En la UCIP del HGUGM, los pacientes con canulación cervical en el postoperatorio de cirugía cardiaca recibieron profilaxis con cefazolina 30 mg/kg/8 h durante 48 h, y los de canulación transtorácica con tórax abierto, piperacilina-tazobactam y teicoplanina. La profilaxis en ECMO es controvertida: según la ELSO, solo se ha visto beneficio con tórax abierto (más riesgo de mediastinitis). No debe ser de amplio espectro ni prolongada, porque dificulta el diagnóstico precoz y favorece los multirresistentes.
+
+## Diagnóstico de infección
+
+*Cuidados críticos.* Reconocer una infección o un SRIS es difícil: hipotermia o fiebre, leucocitosis o leucopenia, trombocitopenia, aumento de las necesidades de flujo de sangre, flujo de gas o vasopresores y cambios en la hemostasia pueden deberse a la exposición de la sangre al circuito. Aunque es práctica habitual en muchos centros, la ELSO no recomienda cultivos seriados del paciente y del circuito por falta de evidencia.
+
+*Protocolo neonatal.* Bacteriología (hemocultivo, urocultivo, broncoaspirado) cada 48 h.
+
+*Mantenimiento y enfermería (Curso 2019).* Extremar la asepsia; control analítico diario; cultivos seriados cada 48 horas. Riesgo de infección más elevado con canulación torácica por esternotomía. Aplicar los protocolos Bacteriemia, Neumonía y Resistencia Zero.
+
+! El protocolo neonatal y las diapositivas de enfermería indican cultivos cada 48 h; Cuidados críticos recoge que la ELSO no recomienda cultivos seriados. Se mantienen las dos posturas.
+
+*Artículo de infecciones (Santiago-Lozano 2018).* PCR y PCT aumentan por la enfermedad de base, la cirugía y la propia ECMO, y los signos clínicos (taquicardia, hipotensión, más vasoactivos) tampoco son específicos. No todo cultivo positivo es infección: muchos pacientes críticos están colonizados (por ejemplo, la mayoría de los broncoaspirados positivos para Candida). Solo debe considerarse infección si el cultivo se acompaña de clínica y analítica compatibles.
+
+## Tratamiento
+
+*Cuidados críticos.* Mismos principios que en el resto de pacientes de UCI. Si lleva > 1-2 semanas en ECMO, cubrir *Staphylococcus*, *Pseudomonas* y *Candida*. Los cambios del volumen de distribución y el material del circuito y de la membrana pueden alterar los niveles de algunos antibióticos.
+
+*Mantenimiento y enfermería (Curso 2019).* Es recomendable monitorizar los niveles plasmáticos de los antibióticos por las alteraciones farmacocinéticas de la ECMO.
+
+*Artículo de infecciones (Santiago-Lozano 2018).* En la unidad se usan actualmente piperacilina-tazobactam y teicoplanina como antibióticos iniciales, y el meropenem se reserva para gérmenes productores de betalactamasas de espectro extendido o resistentes a los otros fármacos.
+
+## Datos de la UCIP del HGUGM
+
+*Artículo de infecciones (Santiago-Lozano 2018).* Estudio de 100 niños tratados con ECMO entre 2006 y 2015 (mediana 11 meses; 94 % cardiopatía; 64 % postoperatorio de cirugía cardiaca; mediana de ECMO 5,5 días).
+- Se sospechó infección en el 51 %, confirmada microbiológicamente en 22 casos (43,1 % de las sospechas).
+- Tipos: sepsis 49 %, respiratoria 35,3 %, urinaria 9,8 %, intraabdominal 3,9 %, herida quirúrgica 2 %. Se diagnosticó a los 4,8 días de media del inicio de la ECMO.
+- Tasas de infección confirmada por 1.000 días de ECMO: sepsis 40, respiratoria 34, urinaria 10, herida quirúrgica 4,5, intraabdominal 3.
+- Leucocitos y PCR no distinguieron a los infectados (salvo leucocitos a las 24 h y PCR basal); la PCR subió de 3,3 a 10,6 mg/dl el día del diagnóstico.
+- Hongos: hemocultivo, Candida 1; broncoaspirados, Candida 13 y Aspergillus 1; urocultivo, Candida 5.
+- Solo la duración de la ECMO > 7 días se asoció a más infección (64,1 % frente a 42,6 %; p = 0,042).
+- Mortalidad con sospecha de infección durante la ECMO, 60,4 %, frente a 42,3 % sin infección (p = 0,076, no significativo). La infección durante la ECMO tuvo más mortalidad que la infección posterior (60,4 % frente a 24 %; p = 0,017).
+- Tras la ECMO, 25 pacientes tuvieron infección en los 15 días siguientes: neumonía asociada a ventilación 40 %, sepsis 32 %, herida quirúrgica 16 %, urinaria 12 %.

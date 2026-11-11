@@ -1,0 +1,90 @@
+@f TEMAS/ECMO/4
+## Preparación antes de la canulación
+
+*Protocolo neonatal.* Ante un paciente con criterios de ECMO, antes del inicio:
+- Información a la familia o representante legal, con firma del consentimiento informado.
+- Ecografía cerebral previa siempre que sea posible; considerar monitorización de función cerebral (CMF-Olimpus®) e INVOS.
+- Analítica: hemograma, bioquímica y coagulación.
+- Hemoderivados:
+  - 2 unidades de concentrado de hematíes: 1 entera para el cebado del circuito y 1 fraccionada para el paciente.
+  - 1 unidad de plasma fresco congelado (50 ml para el cebado del circuito).
+  - 1 unidad de plaquetas, para pasar al paciente al inicio de la asistencia.
+- Bala de carbógeno, si no se prevé la entrada inmediata tras el purgado, para normalizar el pH y la gasometría de la sangre del circuito antes de la entrada.
+- Medicación para la canulación: sedación/analgesia ± relajante muscular. Heparina: tras comprobar coagulación y ACT, bolo de HNF de 50-100 UI/kg cuando el cirujano ha expuesto los vasos cervicales.
+- Montaje y purgado del circuito con hemoderivados por la enfermería de la UCIN según el check-list (anexo III del protocolo).
+
+! El anexo III (check-list de montaje) no está entre las fotografías del archivo. Está el protocolo 41.C «Checklist ECMO» en Protocolos › Hemodinámico.
+
+*Mantenimiento y enfermería (Curso 2019).*
+- Organización del equipo sanitario, espacio físico y distribución, y documentación necesaria (gráfica y protocolo de ECMO).
+- Medicación: sedación y relajación para la canulación (perfusiones y bolos); expansores de volumen según las necesidades del paciente, con jeringas preparadas si hay que administrarlos de urgencia; medicación de RCP; perfusión de heparina para la ECMO; antibioterapia previa.
+- Analítica completa y pruebas cruzadas. Avisar al banco de la entrada de un paciente en ECMO. Reservar hemoderivados: siempre concentrado de hematíes, según el peso (al menos 2 unidades, porque una se usa para purgar el circuito). Si hay coagulopatía previa y/o plaquetopenia, plasma fresco congelado y plaquetas.
+- Parches autoadhesivos de desfibrilación. Monitorización de paciente crítico, BIS y oximetría cerebral no invasiva (INVOS).
+- Alargadera en la línea venosa para expansiones y bolos, y en la arteria para extraer gases durante el procedimiento.
+- El paciente debe estar bajo sedación profunda y relajación muscular.
+- ACT pre-ECMO y analítica completa con coagulación. Preparar el bolo de heparina de 50-100 UI/kg según el ACT, para cuando el cirujano inserte la cánula arterial.
+
+*Anticoagulación (Curso 2019, Santiago).* Previo al inicio: extraer analítica; corregir trombopenia y coagulopatía; ATIII; ACT basal; anti-Xa (postquirúrgicos).
+
+## Comprobaciones con el circuito purgado
+
+*Protocolo neonatal.*
+- Conectar la línea de gas (tubo verde) a la membrana y abrir el flujo de gas (o carbógeno) al mínimo, con FiO~2~ 40 %.
+- Administrar HNF al circuito (1 UI/ml = 260 UI) por la llave de medicación.
+- *Priming* del circuito según pH e indicación médica:
+  - Bicarbonato sódico 1 M (2 cc por cada 100 cc de sangre): 5 cc.
+  - Gluconato cálcico 10 % (2,6 cc por cada 100 cc de sangre): 6,5 cc.
+- Jeringa de heparina (1:20) conectada al circuito, con la bomba en espera. La perfusión se inicia según el ACT del paciente e indicación médica.
+- Regleta con las 3 cápsulas de presión a la altura de la membrana: hacer cero y comprobar la monitorización de presiones antes de la entrada.
+
+## Entrada en ECMO
+
+*Protocolo neonatal.*
+- Conectar el circuito a las cánulas venosa y arterial del paciente, clampadas.
+- Entrada:
+  - Abrir y ajustar el flujo de gas del oxigenador (retirar el carbógeno si se estaba usando).
+  - Desclampar el lado venoso.
+  - Programar 1500 rpm.
+  - Desclampar el lado arterial y ajustar las rpm según la necesidad de flujo.
+- Comprobar la colocación de las cánulas con radiografía de tórax y ecografía.
+- Transfundir plaquetas.
+
+## Flujo de inicio
+
+*Protocolo neonatal.* El gasto cardiaco de los recién nacidos en ECMO se calcula conceptualmente como:
+- 200 ml/kg/m para peso (así, sin cifra, en el original).
+- 150 ml/kg/m para peso > 3000 g o después de la primera semana de vida.
+
+! En la fotografía la primera línea dice solo «200 ml/kg/m para peso», sin cifra de peso. Lo más probable es que falte «< 3000 g», pero no se ha añadido porque no está escrito. Compruébalo en la página 301 del original.
+
+Se empieza con un flujo de 20 ml/kg/min y se aumenta lentamente, en 20-30 minutos, hasta un flujo máximo calculado de 120 ml/kg/min en ECMO VA. En ECMO VV será mayor para compensar la recirculación (150 ml/kg/min).
+
+*Curso ECMO 2019 (Zamorano).* Objetivo: adecuado aporte de oxígeno a los tejidos.
+- **Flujo VA:** 2,2-2,4 L/m^2^/min; 60-80-100 ml/kg/min; 80 % del GC; Hb 9-10-12 g/dl; SatvO~2~ > 70-80 %; sin acidosis.
+- **Flujo VV:** SatO~2~ 85-92 %, GC óptimo y Hb > 10-12 g/dl. Adultos y pediatría 60-80 ml/kg/min; neonatos 120 ml/kg/min. Evitar la recirculación.
+- **Gas:** flujo de gas 1-2 veces el flujo de bomba, FiO~2~ 0,8-1.
+- DO~2~ = CaO~2~ × GC; CaO~2~ = (SatO~2~ × Hb × 1,36) + (PaO~2~ × 0,003). Influyen el GC y la función pulmonar nativos, los factores limitantes del circuito y los del paciente (volemia y RVP).
+- Para incrementar la DO~2~: oxigenación, optimizar el gasto cardiaco, aumentar la capacidad de transporte de O~2~ (Hb). Para disminuir el VO~2~: reducir las demandas metabólicas y el metabolismo tisular.
+- Aumentar las rpm progresivamente, valorando flujo y presiones; en el paciente, onda de TA, PAI, PVC y temperatura.
+- A menudo hay que expandir con volumen para compensar el aumento de la capacidad vascular y alcanzar el flujo óptimo.
+- Al estabilizar el flujo, disminuir el soporte cardiorrespiratorio.
+- Confirmar la posición de las cánulas con ETE y radiografía.
+
+*Mantenimiento y enfermería (Curso 2019).* Instauración paulatina de la asistencia para una adecuada perfusión tisular: flujo inicial alto, 60-120 ml/kg/min. Tendencia a mantener una asistencia del 80 % del GC. PAM óptimas: neonatos 40-45 mmHg; pediátricos 50-60 mmHg.
+
+## Parámetros de reposo tras la entrada
+
+*Protocolo neonatal.* Una vez en ECMO se programan parámetros respiratorios de reposo pulmonar para minimizar el daño en curso:
+- Se incrementa progresivamente la PEEP a 8-10 cmH~2~O; FR 10-15 rpm; Ti 0,6 s; FiO~2~ 30 %; PIP 15-20 cmH~2~O.
+- Si estaba en VAFO: bajar la PMA a < 10 cmH~2~O y subir a 12-15 Hz, bajando la ΔP o el % de amplitud para un Vt de alta frecuencia < 1 ml/kg.
+
+Se desciende el soporte inotrópico y se fijan los objetivos hemodinámicos (TA media, SvcO~2~, SpO~2~) y gasométricos.
+
+## Primera evaluación
+
+*Curso ECMO 2019 (Zamorano).*
+- ¿Flujo adecuado? Cánulas adecuadas y bien posicionadas; presiones óptimas.
+- ¿Perfusión sistémica adecuada? Flujo óptimo, drogas vasoactivas, postcarga, RVP.
+- ¿Oxigenación y ventilación adecuadas? Parámetros de reposo del ventilador.
+- ¿Hemostasia adecuada? ¿Sangra? Inicio de heparina según ACT/TEG.
+- ¿Temperatura adecuada? La hipertermia aumenta el consumo de O~2~.

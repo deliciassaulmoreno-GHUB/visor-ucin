@@ -1,0 +1,119 @@
+@f TEMAS/ECMO/9
+*Protocolo neonatal.* La ECMO es una técnica agresiva, con riesgos derivados de la canulación de vías centrales, la anticoagulación sistémica y los problemas mecánicos. Al analizar las secuelas hay que tener en cuenta la enfermedad de base y las complicaciones del tratamiento convencional previo.
+
+*Cuidados críticos.* Más tiempo en ECMO supone más probabilidad de complicaciones, en el circuito y en el paciente. Para minimizarlas son clave la monitorización continua y la formación del personal.
+
+*Complicaciones (Curso 2019, Santiago y Sánchez Galindo).* Para reducirlas: conocerlas para identificarlas precozmente, entrenarse en su resolución, conocer el circuito y monitorizar, vigilar y registrar presiones, flujos, trombos y alarmas.
+- **Mecánicas:** cánulas, bomba, oxigenador, intercambiador de calor, rotura del circuito, embolismo aéreo, trombosis.
+- **Del paciente:** fallo renal, hemólisis, hemorragia, trombocitopenia, coagulopatía, aturdimiento miocárdico, hipertensión pulmonar, alteraciones metabólicas y gastrointestinales, alteraciones neurológicas.
+
+## Diagnóstico por las presiones del circuito
+
+*Complicaciones (Curso 2019, Santiago y Sánchez Galindo).* Una disminución del flujo de la bomba obliga a revisar inmediatamente las presiones.
+- P1, succión: −20 en niños / −40 en adultos.
+- P2, premembrana: < 250 (< 250-300 en una de las diapositivas).
+- P3, postmembrana: < 200 (< 200-250 en una de las diapositivas).
+- ΔP (P2 − P3): < 50.
+
+| P1 succión | P2 premembrana | P3 postmembrana | ΔP | Diagnóstico |
+|---|---|---|---|---|
+| Se hace más negativa (−20, −40, −50) | ↓ | ↓ | = | Hipovolemia// Obstrucción o acodamiento de cánula o línea (VA: venosa; VV: extracción)// Taponamiento// Neumotórax |
+| ↓ = | ↑ | ↑ | = | Resistencia a la eyección: HTA// Cánula arterial o venosa de retorno acodada u obstruida// Flujo elevado para el tamaño de cánula |
+| ↓ = | ↑ | ↓ = | ↑ | Fallo del oxigenador (inicialmente sin disminución del flujo de la bomba) |
+| + | ↓ | ↓ | ↓ | Fallo de la bomba// Trombo intrabomba// Embolismo de la bomba |
+
+*Inicio y monitorización (Curso 2019, Zamorano).* Tabla equivalente con flechas en todas las columnas:
+
+| P1 succión (> −20 −80) | P2 premembrana (< 250) | P3 postmembrana (< 200) | ΔP | Diagnóstico |
+|---|---|---|---|---|
+| ↑ | ↓ | ↓ | ↓ | Hipovolemia// Obstrucción o acodamiento de cánula o línea venosa |
+| ↓ | ↓ | ↓ | ↓ | Fallo de la bomba// Trombo intrabomba |
+| ↓ | ↓ | ↓ | ↑ | Fallo del oxigenador |
+| ↓ | ↑ | ↑ | ↓ | Resistencia a la eyección// Cánula arterial acodada// Obstrucción de cánula// Flujo elevado para el tamaño de cánula |
+
+! Las dos tablas no usan las flechas igual. En la de Zamorano, «↑» en la succión de la hipovolemia equivale a «se hace más negativa» de la otra. Además, la de Zamorano da ΔP ↓ en hipovolemia y en resistencia a la eyección, P2 ↓ en el fallo del oxigenador y P1 ↓ en el fallo de bomba; la de Santiago y Sánchez Galindo da ΔP =, P2 ↑ y P1 «+». Se copian las dos tal como aparecen.
+
+## Complicaciones del circuito
+
+*Cuidados críticos.*
+- **Trombosis:** la complicación mecánica más frecuente. Si los trombos son pequeños y del lado venoso, el riesgo es poco. Suelen aparecer en zonas de estasis del oxigenador; si no alteran su función, observar. Ante coágulos o fibrina en tubos y conectores, aumentar la anticoagulación y vigilar la hemólisis. Si causan mal funcionamiento, hemólisis o riesgo alto de embolismo, cambiar el circuito (completo o solo el oxigenador).
+- **Embolismo aéreo:** 4 % en el registro ELSO, pero puede ser grave. La zona de más riesgo es la de presión negativa, del drenaje venoso a la bomba. También por cavitación de las cánulas venosas por hipovolemia o porque hagan pared. Valorar un detector de burbujas que alerte y pueda parar la bomba. Si hay aire significativo, parar la asistencia, buscar el origen y, una vez resuelto, reiniciar.
+- **Fallo del oxigenador:** la formación de coágulos, con mala difusión de gases y hemólisis, es la causa más frecuente de cambio. Los de polimetilpenteno tienen menos complicaciones que los de silicona.
+- **Problemas con las cánulas y decanulación accidental:** en la canulación, desgarro venoso o disección arterial; durante la asistencia, obstrucción por trombosis o acodamiento. La decanulación accidental es muy grave y habitualmente prevenible: produce hemorragia y embolismo aéreo que pueden ser mortales. Fijar las cánulas y marcar la profundidad en el sitio de inserción; a veces hay que aumentar la sedación y limitar la movilidad.
+- **Fallo de bomba:** los equipos deben tener sistemas manuales para mantener la asistencia hasta cambiar la bomba.
+- **Intercambiador de calor:** la monitorización frecuente de la temperatura del paciente y del circuito minimiza los problemas por mal funcionamiento o desconexión.
+
+*Complicaciones (Curso 2019, Santiago y Sánchez Galindo).*
+- **Trombosis, la complicación más frecuente:** vigilar conexiones y zonas declives. Los «coágulos normales» del oxigenador, en el lado venoso, aparecen con el tiempo y no cambian presiones ni funcionamiento: registrarlos. Los «coágulos peligrosos», del lado arterial, producen mal funcionamiento: cambio de circuito.
+- **Mal funcionamiento del oxigenador (6 %):** aumento del gradiente transmembrana; mal intercambio de gases (mal lavado de CO~2~; paO~2~/FiO~2~ < 150); consumo de plaquetas; hemólisis. Membrana húmeda por condensación de agua, que puede alterar el intercambio: se controla con barrido de gases. Nunca ocluir la salida de gas del oxigenador.
+- **Fallo del intercambiador de calor:** comprobar que no pierde agua.
+- **Fallo de la bomba centrífuga:** desconexión entre bomba y cabezal, fallo eléctrico del motor, fallo de la batería (chequeo). En VV produce hipoxia-hipercapnia; en VA, colapso circulatorio. Actuación: clampar el circuito e insertar el cabezal en la centrífuga manual.
+- **Embolismo aéreo (4 %):** causas: cánulas; manipulación en la zona de presión de succión; cavitación por falta de volemia o problemas de la cánula venosa; sobresaturación del oxigenador por flujos de gas altos (adecuar flujo y FiO~2~, no ocluir la salida de gas); rotura del circuito o de un conector. Prevención: filtros en la línea arterial (poco usados); no usar alcohol ni disolventes orgánicos. El detector de burbujas, a la salida del cono y/o después del oxigenador, detecta el aire pero no para la bomba. Poca cantidad en el lado venoso: extraer y buscar la entrada. Si es en el lado arterial o en la cánula de retorno, es grave: salir de la asistencia.
+- **Extraer el aire del circuito:** en el lado venoso, sin aire en el retorno del oxigenador, detectar el problema y solucionarlo; poner la salida de la bomba hacia arriba (el aire sube) y aspirar el aire del oxigenador. En el lado arterial, sacar el aire por el conector luer postoxigenador y reiniciar lentamente la asistencia.
+
+## Emergencias
+
+*Complicaciones (Curso 2019, Santiago y Sánchez Galindo).*
+
+@caja
+**Kit de emergencia para la salida de ECMO** (con los teléfonos apuntados en la ECMO): pinzas tipo clamp (4), conexiones (1/4-1/4, 1/4-3/8) y jeringas de 50 con abbocath.
+
+**Cese de la asistencia:** clampar la línea arterial, clampar la línea venosa y parar la bomba.
+
+**Manejo del paciente en el embolismo aéreo:** posición de Trendelenburg; RCP; aspirar el aire de la aurícula derecha por otra vía central; hipotermia, barbitúricos, esteroides.
+@fin
+
+- **Decanulación accidental:** compresión; Trendelenburg si se sospecha embolismo aéreo; expansión; aumentar el soporte cardiorrespiratorio; revertir la heparina; aviso urgente a cirugía y perfusión.
+- **Parada cardiaca en ECMO venoarterial:** flujo continuo, sin onda de pulso. Causas: aturdimiento miocárdico, hiperpotasemia, arritmia grave. Desfibrilar y tratar las arritmias graves.
+- **Parada cardiaca en ECMO venovenoso:** colapso circulatorio, sin retorno venoso al circuito. Clampar el circuito e iniciar RCP. Si el masaje es efectivo, abrir el circuito a flujo bajo para oxigenar, vigilando la succión.
+- **Hemólisis:** causas: contacto con superficie extraña, flujo turbulento, trombos del circuito o anticoagulación inadecuada, aumento excesivo de revoluciones. Se sospecha por el color de la orina (tira, sedimento), empeoramiento de creatinina, urea o cistatina C, aumento de bilirrubina y potasio y descenso de haptoglobina. Hb libre > 50 mg/dl: hemólisis excesiva.
+- **Cambio programado de circuito:** por trombosis o mal funcionamiento del oxigenador, o hemólisis excesiva. La salida de la asistencia es momentánea (cambio en 2-3 minutos). Aumentar el apoyo inotrópico y el volumen.
+
+*Cuidados críticos.* La hemólisis es frecuente; leve no tiene consecuencias importantes, pero grave se asocia a fallo multiorgánico y más mortalidad. Se previene evitando coágulos en el circuito y manteniendo un buen drenaje venoso. Con Hb libre > 50 mg/dl mantenida, se recomienda cambiar el circuito.
+
+## Complicaciones del paciente
+
+*Cuidados críticos.*
+- **Sangrado:** ver la pestaña «Anticoagulación y hemoderivados».
+- **Neurológicas:** el 20 % de los pacientes tiene alguna alteración neurológica según la ELSO. La hemorragia y el infarto cerebral son complicaciones mayores. Disminuyen previniendo el tromboembolismo y el exceso de anticoagulación. Dependen también de la situación previa: en hipotensión refractaria, hipoxemia o parada, acelerar la entrada en ECMO puede disminuir el riesgo neurológico.
+
+## Complicaciones de la canulación
+
+*Curso ECMO 2019 (de Agustín).* Son muy frecuentes, por la propia enfermedad, por la ECMO (manejo del sistema) y quirúrgicas (canulación, intervención en ECMO, decanulación). Proporción de complicaciones: pulmonar < cardiorrespiratoria; venovenosa < venoarterial; niños < adultos.
+- **Quirúrgicas en la canulación:** perforación del vaso, disección arterial, entrada de aire, posición incorrecta (vena-arteria, extremo distal venoso o arterial), isquemia distal, isquemia cerebral o coronaria (femoral).
+- **Cánulas bicava reforzadas (Avalon):** casos publicados de avulsión de la yugular y de perforación de la cava intrapericárdica por la guía, con taponamiento y muerte. Se recomienda inserción guiada por imagen (ecografía o radioscopia, sobre guía de 0,038") y ecocardiografía tras la inserción. En la ELSO (1985-2010), perforación por la cánula en el 3,6 % con cánula metálica reforzada frente al 0,1 % con cánula auricular. En una serie de 72 neonatos con Avalon (2008-2012), complicaciones en el 26,4 %: 8,3 % sangrado por la entrada, 6,9 % perforación auricular y 4,2 % reposicionamiento.
+- **Decanulación:** si se reconstruye el vaso, hemorragia, estenosis y trombosis (72 %); si se liga, isquemia y congestión venosa. En el RN no hay diferencia neurológica a largo plazo.
+
+*Complicaciones (Curso 2019, Santiago y Sánchez Galindo).*
+- **Intratorácica:** procedimiento quirúrgico con visión directa, canulación más rápida y cánulas más grandes. Después: más cuidado en las movilizaciones (decanulación accidental), más sangrado de la zona quirúrgica y tórax abierto, con más infecciones.
+- **Cervical:** pacientes más pequeños; disección de los vasos cervicales, daño endotelial, aneurismas. Al retirar la ECMO se intentan reconstruir, con más éxito en la carótida.
+- **Percutánea:** cánula de Avalon y cánulas femorales; complicaciones de la técnica de Seldinger. En adultos, ampliación de Dacron en la arteria para la perfusión distal del miembro (cánula venosa de drenaje, arterial de retorno y de perfusión distal del miembro).
+
+## Frecuencia en el registro ELSO
+
+*Tabla 7 del protocolo neonatal. Complicaciones en ECMO neonatal según registro ELSO 2017 (2009-2015). Porcentaje de complicaciones registradas y, entre paréntesis, % de supervivencia.*
+
+| Complicación | ECMO respiratorio | ECMO cardiaco |
+|---|---|---|
+| {3} **Mecánicas** |
+| Fallo del oxigenador | 5,9 (53) | 7,1 (25) |
+| Rotura del circuito | 0,6 (71) | 0,5 (32) |
+| Fallo de la bomba | 1,7 (66) | 1,6 (30) |
+| Problemas con canulación | 11,5 (66) | 6 (33) |
+| Hemólisis (HBLP > 50 mg/dl) | 10,9 (64) | 10,9 (28) |
+| Trombosis | 7,3 (56) | 13,3 (31) |
+| {3} **Relacionadas con el paciente** |
+| Hemorragia cerebral | 7,1 (44) | 11,2 (23) |
+| Sangrado en punto de canulación | 7,4 (64) | 10,5 (31) |
+| Sangrado quirúrgico | 6,3 (43) | 31,3 (31) |
+| Taponamiento cardiaco | 0,6 (43) | 6 (28) |
+| Convulsiones | 9,1 (61) | 7,1 (31) |
+| Necesidad de hemofiltración | 14,9 (53) | 26 (26) |
+| «Stun» miocárdico | 4,9 (58) | 6,7 (24) |
+| Infecciones | 5,9 (53) | 7,6 (21) |
+
+*HBLP: hemoglobina libre en plasma.*
+
+! En la fotografía de la tabla 7 las cifras están desplazadas hacia abajo respecto a los nombres de las filas. Se han asignado por orden (la primera cifra a la primera fila y así sucesivamente), pero conviene comprobarlo en la página 310 del original.
+
+*Cuidados críticos (registro ELSO cardíaco).* Entre las complicaciones más frecuentes: necesidad de inotrópicos, sangrado en la zona quirúrgica y necesidad de hemofiltración.

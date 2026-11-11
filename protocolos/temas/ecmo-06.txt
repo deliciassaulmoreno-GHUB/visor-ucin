@@ -1,0 +1,156 @@
+@f TEMAS/ECMO/6
+*Anticoagulación (Curso 2019, Santiago).* En la ECMO la sangre se expone a superficies artificiales. El equilibrio es difícil: sangrado y trombosis son las principales causas de morbimortalidad.
+
+## Heparina no fraccionada (HNF)
+
+*Protocolo neonatal.* La anticoagulación del neonato se hace con HNF. Su efecto depende de la antitrombina III, y el recién nacido tiene niveles de AT III fisiológicamente más bajos que el adulto, por lo que puede haber cierta resistencia a la heparina; hay que cuantificarla y reponerla si se confirma.
+
+*Anticoagulación (Curso 2019, Santiago).* La HNF tiene alta afinidad por la antitrombina, no tiene acción fibrinolítica y se une a proteínas plasmáticas. Actividad: 30 minutos a 6 horas. El 50 % se excreta sin metabolizar por los riñones. Rango de dosis: 20-50 U/kg/h.
+
+### Evaluación antes de la ECMO
+
+*Protocolo neonatal.*
+- Hemograma con recuento de plaquetas.
+- Coagulación básica: INR, AT III, TTPA, fibrinógeno.
+- ACT.
+- Tromboelastografía (TEG) si está disponible y hay riesgo de sangrado postquirúrgico.
+- Reserva permanente de 2 unidades de concentrado de hematíes en el banco de sangre.
+
+### Preparación del circuito y del paciente
+
+*Protocolo neonatal.*
+- Tras el cebado con concentrado de hematíes y plasma fresco congelado, heparinizar el circuito con HNF 1 UI/ml según su volumen de cebado.
+- Corregir la coagulopatía previa con plaquetas, plasma fresco congelado, fibrinógeno o vitamina K.
+- Durante la canulación, bolo de HNF de 50-100 UI/kg antes de conectar el circuito, ajustado al riesgo de sangrado de cada paciente.
+
+### Inicio de la perfusión y rango de dosis
+
+*Protocolo neonatal.* Tras conectar al paciente se determina el ACT y se inicia la perfusión continua de heparina cuando baja de 300 s, por la conexión con válvula antirreflujo premembrana. Dosis inicial 7,5-20 UI/kg/h; los neonatos suelen requerir el rango más alto. Tras cirugía cardiaca con sangrado activo puede posponerse o dejarse en el mínimo hasta controlar el sangrado.
+
+Las plaquetas, el aumento de la diuresis o la hemofiltración pueden aumentar las necesidades de heparina, y el ACT puede no estimar bien su efecto. Si no hay sangrado activo se mantiene un rango de seguridad con un mínimo de 10-20 UI/kg/h y un máximo de 40-50 UI/kg/h, valorando otros estudios para averiguar la causa.
+
+*Anticoagulación (Curso 2019, Santiago).* Bolo de 50-100 UI/kg (ACT inicial de 250-300 s). Perfusión inicial de 15-20 UI/kg/h. En el postoperatorio, vigilar el sangrado. Se administra antes del oxigenador (premembrana).
+
+*Cuidados críticos (recomendaciones ELSO).* Bolo de HNF de 50-100 UI/kg en la canulación. Cuando el ACT baja de 300 s, infusión de 10-20 UI/kg/h, salvo sangrado excesivo o cirugía cardíaca reciente, en los que se demora. Los rangos habituales de ACT suelen conseguirse con 20-50 UI/kg/h.
+
+## Monitorización de la anticoagulación
+
+*Anticoagulación (Curso 2019, Santiago).* Exploración del paciente y revisión del circuito. Ningún test es perfecto; son complementarios porque no miden lo mismo: ACT, TTPA, anti-Xa y tromboelastograma.
+
+| Test | Rango objetivo | Fuente |
+|---|---|---|
+| ACT-LR | 180-220 s (sangrado activo 160-180 s; flujos bajos o trombos en el circuito sin riesgo de sangrado, 200-220 s) | Protocolo neonatal (monitorización) |
+| ACT-LR | 180-200 s | Protocolo neonatal (analítica diaria) |
+| ACT-LR (Hemochron Jr) | 180-250 s. Paciente que no sangra, bajo flujo: 200-250. Sangrado: 180-200. Sangrado que compromete la vida: 160-180 | Curso 2019 (Santiago) |
+| ACT | 180-220 s (riesgo de sangrado o sangrado activo: 150-180 s) | Cuidados críticos |
+| Anti-Xa | 0,3-0,7 | Protocolo neonatal («UI/L» en el original); Curso 2019 («U/mL») |
+| Anti-Xa | 0,3-0,6 UI/ml | Cuidados críticos |
+| TTPA | 50-100 s | Protocolo neonatal |
+| TTPa | 60-80 s (anticoagulación estándar sin sangrado) | Cuidados críticos |
+
+! El protocolo neonatal escribe el anti-Xa como «0,3-0,7 UI/L»; las otras dos fuentes usan U/ml. Se ha dejado la unidad de cada fuente tal como aparece.
+
+*Protocolo neonatal.*
+- **ACT-LR:** método principal en la mayoría de unidades, por su disponibilidad a pie de cama y el poco volumen de muestra. Ritmos de heparina entre 20 y 50 UI/kg/h.
+- **Anti-Xa:** suele hacerse una vez al día por el mayor volumen de muestra. Los resultados deben estandarizarse en cada laboratorio. Si es bajo de forma persistente, cuantificar la antitrombina III.
+- **TTPA:** una vez al día. Los niños tienen de base TTPA prolongados, por lo que puede ser menos útil para guiar la HNF.
+- **TEG y ROTEM:** especialmente útiles en el sangrado postquirúrgico abundante, para ajustar la reposición de hemoderivados.
+
+*Cuidados críticos.* El anti-Xa es el método de referencia. No se correlaciona bien con el ACT, porque el ACT depende además de trombocitopenia, anemia, hipotermia, hemodilución, hipofibrinogenemia y otros factores. El TEG da información sobre función plaquetaria, fibrinólisis y cascada de la coagulación, aunque su uso no se ha generalizado. Los inhibidores directos de la trombina (argatrobán, bivalirudina, lepirudina) quedan para la trombopenia inducida por heparina, muy poco frecuente en pediatría. Hay experiencia limitada con bivalirudina en resistencia a la heparina, con precaución por su vida media muy corta y el riesgo de trombosis en zonas de estancamiento.
+
+*Anticoagulación (Curso 2019, Santiago).*
+- **Controles de ACT:** basal antes de la ECMO; al inicio cada 15-30 minutos hasta estabilizar; después cada hora. Las plaquetas, el aumento de la diuresis y la hemofiltración disminuyen el ACT. Si un ACT no es congruente, repetirlo.
+- **Hemochron Jr:** 15 microlitros de sangre total. ACT-LR (activador celite, por su sensibilidad a la heparina) para concentraciones de heparina de hasta 2,5 U/ml; ACT+ (sílice, caolín y fosfolípidos) para 1,0-6,0 U/ml.
+- **Comparación de tests:**
+
+| | ACT | TTPA | Anti-Xa |
+|---|---|---|---|
+| Cantidad de sangre | 0,15 ml | 10 ml | 2,7 ml |
+| Muestra | Sangre total | Plasma | Plasma |
+| Método | Tiempo de coagulación global + acelerador; forma mecánica | Plasma + acelerador; densidad óptica | Ensayo cromogénico; complejos AT-heparina |
+| Tiempo | Máximo 300 s | Enviar al laboratorio ¿cubetas? | Enviar al laboratorio |
+| Días | L-D | L-D | L-S |
+| Validez | Diseñado para «pie de cama»; baja correlación con anti-Xa | Prueba convencional, superada por anti-Xa | Prueba de referencia |
+
+! En la diapositiva de la comparación de tests la fila «Cantidad de sangre» del TTPA figura como «10 ml» y la casilla de tiempo del TTPA lleva «¿cubetas?». Se ha copiado tal cual.
+
+### Interpretación conjunta de ACT y anti-Xa
+
+*Anticoagulación (Curso 2019, Santiago).*
+
+| ACT | Anti-Xa | Respuesta |
+|---|---|---|
+| ↑ > 220 | ↑ > 0,7 | Bajar heparina |
+| ↓ < 180 | ↓ < 0,3 | Subir heparina. Medir antitrombina |
+| ↑ > 220 | ↓ < 0,3 | Plasma, ¿plaquetas?, y subir heparina |
+| ↓ < 180 | 0,3-0,7 | ¿CID, sepsis? Plasmaféresis |
+
+## Antitrombina III
+
+*Protocolo neonatal.* Es característica la baja actividad en neonatos (30 %). Dosis de HNF > 35-40 UI/kg/h deben hacer sospechar resistencia a la heparina por baja actividad de AT. Hay concentrados plasmáticos o recombinantes (Anbinex®) para alcanzar niveles > 50-80 %. Puede empezarse con 50 UI/kg o, si se conoce el nivel, ajustar: **Dosis = (100 − % actividad) × peso (kg)**. Tras administrarla puede ser necesario bajar la heparina para no aumentar el riesgo de sangrado; reevaluar la anticoagulación.
+
+*Anticoagulación (Curso 2019, Santiago).* Deficiencia adquirida de AT; neonatos en ECMO: AT 27 %. El PFC no basta para restaurar un déficit. Dosis: (100 − actividad) × peso. Dosis empírica: 30-50 UI/kg. Objetivo: actividad > 70 %. Vida media de 48 horas. Al administrarla, bajar la heparina.
+
+*Cuidados críticos.* Concentrado de AT III (generalmente 50 unidades/kg) si la actividad es < 60 % en un neonato o < 80 % en niños mayores y adultos. El PFC solo aporta 1 unidad de AT III por cada ml transfundido.
+
+## Objetivos hematológicos y hemoderivados
+
+*Anticoagulación (Curso 2019, Santiago).* Objetivos:
+- Hematocrito 30-40 %; hemoglobina 9-11 g/dl.
+- Plaquetas > 100.000/mm^3^ (> 70.000 si no hay sangrado).
+- Fibrinógeno > 100.
+- AT III > 70 % de actividad.
+
+En el resumen final de la misma presentación: hematocrito 30-45 % (Hb 11-12 g/dl); plaquetas > 100.000/mm^3^ (> 80.000 si no hay sangrado); INR < 1,5; fibrinógeno > 100.
+
+! La misma presentación da dos juegos de objetivos (diapositivas 20 y 33) que no coinciden en hematocrito, hemoglobina y plaquetas sin sangrado. Se copian los dos.
+
+El riesgo de sangrado por la anticoagulación disminuye si se optimizan el fibrinógeno y las plaquetas. Las transfusiones tienen morbilidad (inmunomodulación y aumento de la respuesta inflamatoria).
+
+| Producto | Protocolo neonatal | Curso 2019 (Santiago) | Cuidados críticos |
+|---|---|---|---|
+| Concentrado de hematíes | Hematocrito > 35 % para asegurar DO~2~ adecuado; hoy se tiende a umbrales más bajos, porque las transfusiones se han relacionado con más mortalidad en ECMO | Optimizar el transporte de O~2~: saturación venosa > 60 % e índice de extracción < 0,35. Hb 9-11; hematocrito 25-40 %. Un hematocrito > 45 % aumenta la viscosidad y el riesgo de trombos | — |
+| Plasma fresco congelado | 10 ml/kg si INR 1,5-2,0 con sangrado activo. También si se sospecha resistencia a HNF por déficit de AT III, aunque en ese caso se prefieren concentrados de AT (el PFC aporta poca: 1 U/ml) | Aporta factores de la coagulación y AT III. Si transfusión masiva (> 70 ml/kg): plasma y plaquetas (1:1:1). Si INR > 1,3: vitamina K (sin sangrado; respuesta en 6 horas) y/o plasma | Si fibrinógeno < 150 mg/dl o INR > 1,5 |
+| Plaquetas | 10 ml/kg si < 100.000/mm^3^; umbral de < 75.000/mm^3^ si estabilidad sin sospecha de sangrado | Habitualmente, y sobre todo al inicio, > 100.000/mm^3^ (> 70.000 si no hay sangrado). Hay disfunción plaquetaria. Administrar siempre postoxigenador (habitualmente en el paciente). Hacer un ACT tras la transfusión | > 80.000/mm^3^ sin sangrado; > 100.000/mm^3^ si sangra y en neonatos |
+| Fibrinógeno | Si < 100-150 mg/dl | > 100 mg/dl; > 150 mg/dl si procedimiento invasivo. Dosis: 50 × kg. Fórmula: (100 − nivel del paciente) × peso | Si solo hay déficit de fibrinógeno, concentrado |
+
+! En el protocolo neonatal la línea del plasma dice «INR 1,5-2 0»; se ha leído como 1,5-2,0.
+
+## Sangrado
+
+*Protocolo neonatal.* Un sangrado requiere evaluación si:
+- La Hb baja > 2 g/dl en < 12 h.
+- Sangrado > 20 ml/kg en 24 h.
+- Necesidad de > 2 transfusiones de > 10 ml/kg.
+- Sangrado pulmonar, retroperitoneal, del sistema nervioso central o que requiera intervención quirúrgica.
+
+### Actuación secuencial
+
+*Anticoagulación (Curso 2019, Santiago).*
+1. **Primer nivel:** normotermia. Ajustar heparina para ACT de 180 s (160 s si es grave). Plaquetas si < 100.000/mm^3^. Plasma si INR > 1,5 o fibrinógeno < 1,5 g/l.
+2. **Segundo nivel:** ¿exceso de heparina? Protamina.
+3. **Tercer nivel:** revisión quirúrgica. El hematoma estimula la fibrinólisis; *packing* (taponamiento). Diagnóstico con ecocardiografía. Preparar cánulas por si hay decanulación accidental.
+4. **Cuarto nivel:** ácido tranexámico o factor VII activado (en la unidad solo tras la revisión quirúrgica).
+
+*Dosis de protamina según el tiempo desde la última dosis de heparina (mg por cada 100 UI de heparina administradas en las últimas 4 horas):*
+
+| Minutos desde la última heparina | Protamina (mg/100 UI) |
+|---|---|
+| 30-60 | 0,5 |
+| 60-120 | 0,375 |
+| > 120 | 0,25 |
+
+En los primeros 100 pacientes de ECMO de la UCIP del HGUGM: 64 postoperatorios, con un 67,2 % de sangrado y 39 revisiones quirúrgicas; no postoperatorios, 25 % de sangrado. En los primeros circuitos no se revertía la heparinización con protamina; actualmente se revierte y se usa un bolo pequeño de heparina al inicio.
+
+*Curso ECMO 2019 (de Agustín).* Hemorragia en el 10-30 %. Control quirúrgico: VV 17 %, VA 34 %. Localizaciones: herida, vaso, zonas intervenidas, tórax, abdomen y retroperitoneo, intracraneal. Tratamiento del problema de coagulación: parar la heparina, transfundir plaquetas, concentrado de factor VII, broncoscopia (hemorragia pulmonar).
+
+### Fármacos para el sangrado refractario
+
+*Protocolo neonatal.*
+- **Factor VII recombinante activado (rFVIIa):** en el sangrado refractario, 40-90 mcg/kg. Se ha usado con éxito, pero hay casos documentados de trombosis fatal en ECMO, por lo que puede empezarse con dosis más bajas (25-50 mcg/kg) y tener preparado un circuito de recambio.
+- **Sangre total:** en el sangrado masivo con compromiso vital.
+- **Antifibrinolíticos:** el TEG ayuda a ver si hay aumento de la fibrinólisis. Ácido aminocaproico (AMICAR) y ácido tranexámico (TXA), solo para el sangrado postquirúrgico, a 10 mg/kg cada 6 h. Se han usado con éxito en cirugía cardiaca y de hernia diafragmática en ECMO, pero con alto riesgo de trombosis del circuito: estar preparados para recambiarlo de forma urgente.
+
+*Anticoagulación (Curso 2019, Santiago).* Antifibrinolíticos: usados con éxito en el sangrado excesivo tras extracorpórea; diagnóstico con dímeros D y TEG; tratamiento arriesgado, con casos de trombosis masiva. Factor VII activado: bolos de 90 microgramos/kg con buenos resultados en series de casos, sin más trombos en el circuito, aunque con algún caso aislado de trombosis fatal.
+
+*Cuidados críticos.* El sangrado menor es frecuente (heparina, disfunción plaquetaria, fibrinólisis), sobre todo en la zona quirúrgica o de inserción de cánulas y catéteres. Se controla con medidas locales, hemoderivados, menos heparina y revisión quirúrgica si procede. Si es muy abundante o generalizado, valorar antifibrinolíticos y, excepcionalmente (por el riesgo de coagulación del circuito) y **nunca simultáneamente**, factor VII activado.
