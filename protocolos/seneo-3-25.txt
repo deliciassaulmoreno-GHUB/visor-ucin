@@ -1,0 +1,93 @@
+@f 14. Protocolos SENEO/3.25. Malformaciones pulmonares y hernia diafragmática
+@p 288
+# 3.25 MALFORMACIONES PULMONARES Y HERNIA DIAFRAGMÁTICA
+
+*África Pertierra Cortada, Jordi Clotet Caba*
+
+*Hospital Sant Joan de Déu, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 274-280 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+Las malformaciones pulmonares congénitas (MPC) representan una amplia variedad de anormalidades del desarrollo del tracto respiratorio y suponen entre un 5-18% de todas las malformaciones congénitas. Son una patología compleja que requiere un manejo multidisciplinar especializado.
+
+## 2 Generalidades sobre las malformaciones pulmonares
+
+- Etapa postnatal.
+  - El conocimiento del diagnóstico prenatal es de gran ayuda para actuar de forma adecuada en la transición cardiopulmonar y en los primeros meses de vida.
+  - Muchas MPC no presentan sintomatología al nacimiento. Cuando presentan insuficiencia respiratoria hay que ajustar el tratamiento a su gravedad de la forma menos agresiva posible (ventilación no invasiva (VNI), ventilación mecánica (VMC), ventilación por alta frecuencia, (VAFO), oxigenación por membrana extracorpórea (ECMO)).
+  - La prueba de imagen gold estándar para confirmar las MPC es la tomografía computerizada (TC) pulmonar con contraste que nos ayuda en el diagnóstico y planificación del acto quirúrgico. La resonancia (RM) postnatal puede tener su utilidad sobre todo en el secuestro pulmonar (SP) extralobar pero tiene limitaciones para valorar lesiones parenquimatosas. La radiología simple (Rx) tiene una utilidad limitada, con un 50% de sensibilidad (las lesiones suelen verse o bien como zonas hiperlucentes oscuras o bien como zonas radiopacas blanquecinas). La ecografía pulmonar puede ayudarnos en la detección de complicaciones y puede tener su papel en el diagnóstico.
+  - La indicación quirúrgica es un tema de controversia y se actuará según cada patología, sintomatología y riesgos que pueda ocasionar mantener una conducta expectante.
+@p 289
+## 3 Tipos de malformaciones pulmonares (Tabla 1)
+@ancha
+| {4} **Tabla 1. Tipos de malformaciones pulmonares** |
+|---|---|---|---|
+| | **HIPODESARROLLO PULMONAR: Agenesia pulmonar** | **HIPODESARROLLO PULMONAR: Hipoplasia pulmonar** | **QUISTE BRONCOGÉNICO** |
+| **Características** | Ausencia completa de uno o ambos pulmones, incluido bronquio y vasos | Desarrollo incompleto del tejido pulmonar (vía aérea, alvéolos y vasos), que provoca reducción del volumen pulmonar. Puede ser primaria (infrecuente) o secundaria por alteraciones neuromusculares, esqueléticas, metabólicas... | Formación quística pulmonar o mediastínica unilocular, redonda, con un tamaño entre 2-10 cm, de contenido líquido o mucoso y habitualmente no comunicada con la vía aérea |
+| **Clínica** | **Variable** // Desde cuadro muy grave (bilateral) con dificultad respiratoria precoz y muerte, hasta asintomáticos (unilateral) | **Variable** // Desde cuadro muy grave con dificultad respiratoria precoz e hipertensión pulmonar y muerte, hasta casos asintomáticos | Suelen ser **asintomáticos** // A veces, presentan clínica infecciosa o secundaria a compresión de la vía aérea si se comunican con la misma |
+| **RX de tórax** | Desviación mediastínica hacia el lado afecto // Opacificación hemitórax afecto e hiperinsuflación contralateral | Reducción volumen pulmonar // Cúpulas diafragmáticas por encima de la séptima costilla // A veces, tórax acampanado y costillas inclinadas hacia abajo | Varía según la localización |
+| **Otras pruebas diagnósticas** | Angiotomografía torácica // Broncoscopia | Ecografía // Angiotomografía torácica // Estudio ventilación/ perfusión // RM | TC torácico // Esofagograma (valora compresión extrínseca por el quiste) |
+| **Diagnóstico diferencial** | • atelectasia // • postneumonectomía // • fibrotórax // • hipoplasia pulmonar // • agenesia hemidiafragma | | • absceso pulmonar // • quiste hidatídico // • duplicación esofágica // • quiste neuroentérico // • adenopatía // • MCAP |
+| **Tratamiento** | | En general, conservador. Si es una hipoplasia pulmonar secundaria, es importante la corrección quirúrgica de la causa primaria | Exéresis del quiste o lobectomía si es intrapulmonar |
+@p 290
+@pie Tabla 1. Tipos de malformaciones pulmonares (continuación)
+| | **MALFORMACIÓN CONGÉNITA DE LA VÍA AÉREA PULMONAR (MCAP)** | **SECUESTRO PULMONAR (SP)** | **ENFISEMA LOBAR CONGÉNITO** |
+| **Características** | Presencia de múltiples quistes en el parénquima pulmonar, por proliferación excesiva y dilatación de los bronquiolos terminales con ausencia de alvéolos normales. Conectados al sistema bronquial normal. Puede afectar un segmento, un lóbulo o todo el pulmón | Segmento de pulmón no funcional, no comunicado con la vía aérea y con vascularización desde la circulación sistémica (aorta torácica o abdominal). // Puede ser intralobar (integrado en el pulmón normal, compartiendo pleura visceral) o extralobar (separado del pulmón por un revestimiento pleural propio) | Mayor insuflación de uno o más lóbulos pulmonares (más frecuente lóbulo superior izquierdo). // Se ha relacionado con una anomalía del cartílago bronquial (25% de los pacientes). Esto provoca la obstrucción bronquial o debilidad de su pared (broncomalacia) contribuyendo a la hiperinsuflación |
+| **Clínica** | **Variable** // Desde insuficiencia respiratoria grave a casos asintomáticos | **Variable e inespecífica.** // Generalmente asintomática aunque se puede sospechar ante neumonías de repetición o tos productiva | Dx neonatal o en el lactante, desde asintomático a distrés respiratorio grave por compromiso de estructuras subyacentes por gran insuflación |
+| **RX de tórax** | Puede ser normal // Imágenes según el tipo de MCAP (múltiples quistes, masa sólida) // Desplazamiento mediastínico // Efecto de la masa | Condensación triangular persistente | Insuflación del lóbulo afecto con herniación hacia mediastino |
+| **Otras pruebas diagnósticas** | TC: realizar tras estabilización respiratoria en los pacientes sintomáticos al nacimiento y entre el 1º y 6º mes en los asintomáticos | Ecografía doppler // Angiotomografía | TC torácica // Broncoscopia |
+| **Diagnóstico diferencial** | • neumatoceles // • abscesos // • quiste broncogénico // • secuestro pulmonar // • enfisema lobar congénito // • masas mediastínicas | | Neumotórax, neumatoceles y enfisema adquirido |
+| **Tratamiento** | Cirugía en sintomáticos // Controversia en asintomáticos | Quirúrgico, incluso en los casos asintomáticos | Actitud expectante en asintomáticos // Quirúrgico en sintomáticos o herniación grave |
+@p 291
+@pie Tabla 1. Tipos de malformaciones pulmonares (continuación)
+| | **LINFANGIECTASIA PULMONAR CONGÉNITA** | **ATRESIA BRONQUIAL** | **DISPLASIA ALVEOLOCAPILARO** |
+| **Características** | Dilatación linfática pulmonar de localización subpleural, interlobular, perivascular y peribronquial. // Implicación de diversos genes (FOXC2,VEGFR3,..). // Puede ser primaria o secundaria (infecciosa, cardiovascular, asociado a síndromes [Noonan, Turner, Down]) | Interrupción intraútero de un bronquio lobar, segmentario (la más frecuente) o subsegmentario. Asociado a impactación periférica de moco (broncocele o mucocele) e hiperinsuflación. // Posible etiología por injuria vascular durante el desarrollo bronquial. // Se asocia frecuentemente a MCAP (70%) o a SP | Reducción en el número de vasos capilares alveolares y engrosamiento de la pared alveolar. Puede asociarse a // 1) anomalías en la posición de las venas pulmonares que con frecuencia discurren al lado de las arterias pulmonares compartiendo una misma vaina adventicia; // 2) hipertrofia de la capa muscular media de las pequeñas arteriolas con extensión de la muscularización hasta arterias intra-acinares y 3) dilatación de vasos linfáticos. // Es frecuente (75%) la asociación a otras malformaciones (gastrointestinales, genitourinarias y cardiovasculares). // Relacionado con microdelecciones gen FOXF1 con delección de FOXF2 y FOXL1 |
+| **Clínica** | **Prenatal:** hidrotórax, ascitis, derrame pericárdico, edema generalizado e hidrops // **Postnatal:** inestabilidad hemodinámica e insuficiencia respiratoria grave | Suele ser asintomático, con diagnóstico en niños mayores o edad adulta // En neonatos, la zona distal al segmento atrésico puede atelectasiarse por éstasis mucoso | Evolución rápida a insuficiencia respiratoria aguda con hipoxemia e hipertensión pulmonar grave en la 1ª semana de vida |
+| **RX de tórax** | Infiltrados perihiliares, derrame pleural, hiperinsuflación | Masa hiliar correspondiente al broncocele, y un área de hiperlucidez pulmonar distal | Inespecífica |
+| **Otras pruebas diagnósticas** | TC /RM / ecografía torácica // Linfoescintigrafía // Biopsia pulmonar | TC torácica | Biopsia pulmonar. En un 15% no es diagnóstica por afectación parcheada |
+| **Diagnóstico diferencial** | Descartar otras causas de hidrops fetal en periodo prenatal | | Otras causas de hipertensión pulmonar |
+| **Tratamiento** | **Prenatal:** puede requerir toracocentesis o shunts toracoamnióticos // **Postnatal:** soporte cardio-respiratorio y nutricional | Resección quirúrgica en sintomáticos y en asintomáticos, de forma electiva, por riesgo de infecciones y la alta asociación a MCAP. | No tiene tratamiento. Medidas de confort y cuidados paliativos |
+
+@p 292
+## 4 Hernia diafragmática congénita
+
+La hernia diafragmática congénita (HDC) es una anomalía en el desarrollo del diafragma que da lugar a un defecto que permite el paso total o parcial de las vísceras abdominales a la cavidad torácica. Aproximadamente el 80% se hallan en el lado izquierdo. Hasta un 50% de pacientes presentan otras anomalías asociadas. La HDC se caracteriza por la existencia de hipoplasia parenquimatosa (que ocasiona insuficiencia respiratoria al nacimiento) y vascular (que determina hipertensión pulmonar (HTP) postnatal) siendo estos los mayores determinantes de la supervivencia en el periodo neonatal y de la morbilidad a largo plazo. La mayoría de los casos se diagnostican prenatalmente, pudiéndose medir el grado de hipoplasia pulmonar mediante el lung-to-head ratio observado/esperado (LHR O/E) medido por ecografía 2D, que compara el área pulmonar observada con la esperada por edad gestacional y que, junto con la presencia intratorácica del hígado, se correlaciona con la supervivencia. En los casos de HDC grave, se puede indicar terapia fetal mediante oclusión traqueal con balón para favorecer el crecimiento pulmonar. El parto de estos pacientes se debe planificar cercano al término en centros de referencia; en caso de parto < 34 SG, administrar corticoides para maduración pulmonar. La exploración física al nacimiento en estos pacientes se caracteriza por: distrés respiratorio precoz, cianosis, abdomen excavado, disminución de la entrada de aire en hemitórax afecto y desplazamiento de los tonos cardíacos a hemitórax contralateral.
+
+**Manejo en sala de partos**
+- Intubación electiva. No ventilar con bolsa y mascarilla para intentar evitar la distensión del estómago y las asas intestinales que puede comprometer la función pulmonar por compresión.
+- Sonda orogástrica lo más gruesa posible según peso e introducir con cuidado; valorar aspiración intermitente.
+- Ventilación con parámetros mínimos para una adecuada expansión torácica (intentar PIP < 25 y frecuencias respiratorias altas; volumen tidal objetivo inicial 4ml/kg). FiO2 mínima para SatO2 ≥ 85% preductal (FiO2 inicial de 30%).
+@p 293
+**Manejo en la unidad de cuidados intensivos neonatales**
+
+@ancha
+| {5} **Tabla 2. Manejo en la unidad de cuidados intensivos neonatales** |
+|---|---|---|---|---|
+| **MONITORIZACION** | **RESPIRATORIO** | **HEMODINAMIA** | **DIGESTIVO** | **NEUROLOGICO** |
+| • Canalización arteria y vena central // • TA invasiva // • Sondaje vesical // • SatO~2~ pre y post-ductales // • Antibioterapia^‡^ // • Estudio de extensión* // • Rx de tórax/ abdomen^§^ | • VMC: PIP bajo, Vt bajo, FR 40-60 rpm // • Si SatO~2~ ≤ 90% pre-ductal y/o pH ≤ 7.20 con PCO~2~ ≥ 65 mmHg, iniciar VAFO // • Intentar mantener respiración espontánea Evitar hipoxia, acidosis, dolor, estrés e hipotermia // • Si HTP, iniciar ONi. Si persiste, valorar estado del ductus. // • ECMO: mismos criterios que resto de patol. respiratorias | • Ecocardiografía primeras 24 horas y posteriormente según evolución. // • Objetivo: TA adecuada. Si sospecha de hipovolemia, SSF 10-20 ml/ Kg, si no mejora la TA, iniciar inotrópicos. // • Si HTP suprasistémica con disfunción ventricular derecha con ductus cerrado: PGE1. // \* Si se dispone de ecocardiografía funcional, guiar el manejo hemodinámico según la misma. | • Dieta absoluta // • SOG en aspiración continua (-3 cm H2O) o aspiración cada 2 horas // • Tratamiento antirreflujo // • Nutrición parenteral precoz // • Enemas precirugía para vaciar intestino. // • La nutrición enteral se iniciará tras la cirugía, consenso con equipo quirúrgico | • Sedoanalgesia según confort y estado cardio-respiratorio // • Relajación muscular solo en HTP grave inestable |
+| {5} *TA: tensión arterial; SatO~2~: saturación oxígeno; VMC: ventilación mecánica convencional; PIP: presión pico inspiratoria; Vt: volumen tidal; FR: frecuencia respiratoria; VAFO: Ventilación alta frecuencia; HTP: hipertensión pulmonar; ONi: óxido nítrico inhalado; PGE1: prostaglandinas; SOG: sonda orogástrica. ^‡^ Si riesgo de infección perinatal y como profilaxis quirúrgica tras cirugía. \*Ecocardiografía (malformaciones y valoración de la HTP), ecografía transfontanelar y abdominal así como estudio genético (cariotipo y array CGH) si no se dispone de uno prenatal. ^§^ Para confirmación diagnóstica, valoración del volumen pulmonar, comprobación de la colocación de los dispositivos).* |
+
+La cirugía se realizará cuando el paciente esté estabilizado, con gasometría correcta y controlada la HTP (cortocircuito ductal izquierda-derecha o bidireccional). Es aconsejable realizar la cirugía con el soporte del neonatólogo y enfermera neonatal.
+
+Si no se consigue estabilidad y el paciente entra en ECMO, se puede valorar realizar la cirugía estando en ECMO o bien se puede esperar a la decanulación, si esta se consigue.
+@caja
+**SE RECOMIENDA**
+- La implicación de un equipo multidisciplinar es de vital importancia en el manejo de estos pacientes. En caso de sospecha de malformación pulmonar fetal, se recomienda la derivación a un centro especializado para un óptimo manejo, así como un consejo médico adecuado a la familia.
+- En términos de diagnóstico, aunque la ecografía prenatal y la tomografía computarizada posnatal se consideran actualmente el "gold standard", la
+@p 294
+resonancia magnética se usa cada vez más para diagnosticar las MPC tanto antes como después del nacimiento. También la ecografía pulmonar en las primeras horas después del nacimiento parece que puede tener valora en las primeras horas de vida en algunas MPC.
+
+- Aunque es común la regresión de determinadas lesiones después de la semana 30 de embarazo, siempre se recomienda una evaluación posnatal completa.
+- El manejo de estas lesiones depende del tipo de malformación y del desarrollo de los síntomas, por lo que se debe de individualizar para cada caso y tipo de malformación. La mayoría de los autores recomiendan la resección de la lesión, pero actualmente no hay consenso sobre el abordaje quirúrgico, especialmente en pacientes asintomáticos.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- En muchos centros se realiza una radiografía de tórax poco después del nacimiento. En muchos casos es normal. La radiografía torácica no es una buena herramienta de confirmación de diagnóstico posnatal ya que tiene una baja sensibilidad para detectar MPC.
+@fin
+@bib
+1. Puligandla PS, Laberge J-M. Congenital lung lesions. Clin Perinatol 2012; 39:331-347.
+2. Snoek KG, Reiss IK, Greenough A, et al., CDH EURO Consortium. Standardized Postnatal Management of Infants with Congenital Diaphragmatic Hernia in Europe: The CDH EURO Consortium Consensus - 2015 Update. Neonatology, 2016; 110:66-74.
+3. Giubergia V. Malformaciones pulmonares congénitas.Neumol Pediatr 2014;9:88-94.
+4. Criss CN, Musili N, Matusko N, et al. Asymptomatic congenital lung malformations: is nonoperative management a viable alternative? J Pediatr Surg 2018;53:1092-1097.
+5. Greig CJ, Keiser AM, Cleary MA, et al. Routine postnatal chest X-ray and intensive care admission are unnecessary for a majority of infants with congenital lung malformations. J Pediatr Surg 2019; 54:670-674.

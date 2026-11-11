@@ -1,0 +1,110 @@
+@f 14. Protocolos SENEO/3.26. Displasia broncopulmonar
+@p 295
+# 3.26 DISPLASIA BRONCOPULMONAR
+
+*Cristina Ramos Navarro, Manuel Sánchez Luna*
+
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 281-286 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición y prevención
+
+La Displasia broncopulmonar (DBP) es una patología pulmonar crónica que se caracteriza por una interrupción en el desarrollo alveolar y vascular asociando un daño variable de la vía aérea. El factor principal de riesgo es el **parto prematuro**, asociado a la acción de factores tanto prenatales como postnatales que condicionan una alteración en el desarrollo pulmonar normal.
+
+La prevención del daño pulmonar es la estrategia más eficaz para la reducción, tanto de la incidencia de esta patología, como de la severidad de la afectación pulmonar a largo plazo (Tabla 1).
+
+| {2} **Tabla 1. Estrategias preventivas recomendadas y no recomendadas para prevención del daño pulmonar** |
+|---|---|
+| {2} **Estrategias Preventivas** |
+| Administración de corticoides prenatales (<34 semanas) | Reduce la incidencia del síndrome de distres respiratorio (SDR) y la necesidad de Ventilación mecánica (VM), ambos factores de riesgo para el desarrollo de DBP. |
+| Administración precoz de surfactante precoz (si FiO~2~ >30 % / guiada por el patrón ecográfico pulmonar) | Como tratamiento del SDR reduciendo la necesidad de VM y oxigeno suplementario. Administración mediante técnicas menos invasivas (LISA/MIST) y tras estabilización de la vía aérea con presión continua de distensión de la vía aérea o ventilación no invasiva |
+| Restricción hídrica | Restricción del aporte total de líquidos a 130-140 mL/kg día. |
+| Estrategias ventilatorias encaminadas a reducir el daño pulmonar. | Uso de soporte respiratorio no invasivo (VMNI/CPAPn) con el objetivo de reducir la exposición a VM. // En caso de requerir VM: // • Modalidades sincronizadas. // • Volumen tidal (Vt) ajustado y controlado (4-5ml/kg). // • Adecuado reclutamiento (ajuste del nivel de PEEP 5-7cmH2O). // • Ventilación de alta frecuencia de rescate precoz. |
+| Objetivos de oxigenación/ ventilación | Objetivo de oxigenación: Saturación de oxígeno: 90-95% // Objetivo de ventilación: // • En las primeras semanas de vida: pCO2 entre 40 and 65 mmHg. // • Pasadas las primeras semanas en prematuros con DBP en desarrollo, es razonable utilizar rangos de pCO2 más permisivos, mientras el pH se mantenga > 7,25 para reducir el daño inducido por la VM. |
+| Cafeína precoz | Medicación con demostrada eficacia en reducir la incidencia de DBP y efectos beneficiosos a largo plazo. |
+@p 296
+@pie Tabla 1. Estrategias preventivas recomendadas y no recomendadas para prevención del daño pulmonar (continuación)
+| {2} **Estrategias Preventivas** |
+| Vitamina A IM | Reducción límite en la incidencia de DBP sin claro beneficio a largo plazo. Podría estar indicada en caso de que la incidencia local de DBP sea alta. Hay que tener en cuenta su coste y la necesidad de inyecciones intramusculares. En los centros en los que se utiliza está reservada a pacientes que requieren VM. |
+| Alimentación con LM | Reduce la incidencia de DBP aunque la calidad de la evidencia es baja por la imposibilidad de realizar ensayos controlados. |
+| Corticoides postnatales | Uso restringido a pacientes dependientes de VM invasiva entre la 2º-4ª semana de vida con necesidades de oxigeno > 50% con el objetivo de retirar la VM. La pauta más extendida es la administración de una dosis baja y ciclo corto de dexametasona. Valorar suspender el tratamiento si no se objetiva mejoría respiratoria al tercer día de su inicio.Las calculadoras de riesgo de DBP pueden ayudar en la toma de decisiones de iniciar el tratamiento |
+| {2} **Estrategias preventivas no recomendadas** |
+| Administración de óxido nítrico inhalado (ON) | La evidencia actual no apoya el uso de ON como estrategia preventiva. |
+| Administración tardía de surfactante | No ha demostrado reducir la incidencia de DBP. |
+| Surfactante combinado con budesonida | Datos limitados. Este tratamiento no puede recomendarse hasta que no exista evidencia que avale su seguridad y eficacia. |
+| Insuflaciones sostenidas | Su aplicación durante la reanimación puede ser perjudicial por lo que no debe realizarse. |
+
+## 2 Criterios diagnósticos
+
+Para el diagnóstico de DBP se utilizan criterios clínicos, basados en la necesidad de soporte respiratorio. No existe actualmente un claro consenso sobre la definición más adecuada. La propuesta establecida por el Grupo Español de Investigación en Displasia Broncopulmonar basada en la definición de consenso del NIH del 2001 se refleja en la tabla 2.
+
+| {3} **Tabla 2. Diagnóstico de Displasia broncopulmonar** |
+|---|---|---|
+| | {2} **EDAD GESTACIONAL** |
+| | **< 32 semanas** | **≥ 32 semanas** |
+| **Momento de valoración** | 36 semanas de edad postmenstrual o al alta, lo que suceda primero. | > 28 días pero < 56 dias de edad postnatal o momento del alta lo que suceda primero. |
+| | {2} **Tratamiento con Oxigeno> 21% durante > de 28 días^1^** |
+| **DBP leve (grado1)** | Respirando aire ambiente. | Respirando aire ambiente. |
+@p 297
+@pie Tabla 2. Diagnóstico de Displasia broncopulmonar (continuación)
+| | {2} **Tratamiento con Oxigeno> 21% durante > de 28 días^1^** |
+| **DBP moderada (grado2)** | Necesidad^2^ de oxigeno menor del 30%. | Necesidad^2^ de oxigeno menor del 30%. |
+| **DBP grave (grado3)** | Necesidad de oxigeno ≥ 30% y/o Presión positiva: VM; CPAPn; gafas nasales alto flujo (>2l/min).^3^ | Necesidad de oxigeno ≥ 30% y/o Presión positiva: VM; CPAPn; gafas nasales alto flujo (>2l/min).^3^ |
+| {3} ^1^Pacientes tratados con oxigeno > 21% y/o presión positiva o alto flujo por patología no respiratoria (ej. apneas centrales o parálisis diafragmática) no se considera DBP a no ser que desarrollen enfermedad pulmonar parenquimatosa y muestren signos clínicos de distes respiratorio. Se considera un día de tratamiento con oxigeno > 21% si lo recibe durante más de 12 horas al día. // ^2^Se precisa test fisiológico confirmando la necesidad de oxigeno: Test de reducción de oxígeno. El diagnóstico de DBP moderada queda establecido si falla el test de reducción de oxígeno al no poder mantener una saturación ≥90% respirando aire ambiente. // ^3^El tratamiento con oxigeno FiO~2~> 30% y/o presión positiva con cualquier sistema de ventilación no invasiva o Gafas nasales con más de 2l/min (independientemente de la FiO~2~) sin el cual no se pueda mantener una saturación de oxígeno ≥ 90% a las 36 semanas de edad postmenstrual o 56 días de edad postnatal debe reflejar la terapia habitual del paciente en los días previos o posteriores a esa fecha, no un hecho puntual. En estos casos se considera DBP grave (grado 3) y no es preciso la realización de test de reducción de oxígeno. |
+
+*Prueba de retirada de oxígeno para la definición fisiológica de la DBP:* Indicada en RN con DBP que necesitan una FiO~2~ ≤ 30% para mantener una SaO~2~ > 90% o que reciben una FiO~2~ > 30% y su SaO~2~ es > 96%; No habría que realizar esta prueba a los RN con una FiO~2~ > 30% o ventilación con presión positiva para mantener saturaciones entre 90 y 96%, ya que estos presentan por definición DBP grave. Se coloca al niño en posición supina durante 30 min tras la toma y con sus necesidades de O~2~ habituales, midiendo FC, FR y SaO~2~, apneas y bradicardias durante 15 min. Se comienza a disminuir cada 5 min la FiO~2~ un 2% si respira en cámara abierta, o a disminuir el flujo 0,1-0,5 lpm si respira con cánulas nasales, hasta su retirada (fase de reducción). En ese momento se observa la respuesta durante 60 min, para volver posteriormente a la situación basal. No se tienen en cuenta las necesidades de O~2~ durante la alimentación. Se considera fracaso de la reducción si: SaO~2~ 80-89% durante > 5 min o SaO~2~ < 80% durante > 15 s
+
+## 3 Manejo del paciente con Displasia Broncopulmonar
+
+El principal objetivo es favorecer la reparación y crecimiento pulmonar y limitar el daño añadido (Tabla 3).
+
+| {3} **Tabla 3. Manejo de la displasia broncopulmonar** |
+|---|---|---|
+| {3} **Tratamiento pacientes con Displasia Broncopulmonar** |
+| Nutrición | {2} Optimización del aporte calórico (140-150 kcal/kg) y proteico 3,5-4 gr/kg/d: De elección **LM fresca fortificada** / LMD fortificada / Fórmula de prematuro. // Se debe priorizar una adecuada nutrición y crecimiento por encima de la restricción hídrica (140-150 ml/Kg/dia) |
+@p 298
+@pie Tabla 3. Manejo de la displasia broncopulmonar (continuación)
+| {3} **Tratamiento pacientes con Displasia Broncopulmonar** |
+| Manejo respiratorio | {2} Pacientes con DBP dependientes de Ventilación mecánica: // • Requieren Vt más alto por aumento de espacio muerto (pueden requerir > 7ml/kg para una adecuada ventilación) // • PEEP alta para garantizar un adecuado reclutamiento y limitar el colapso espiratorio por malacia de la vía aérea. // • Pueden requerir Tiempos inspiratorios (Ti) más largos (0,4-0,5 seg) para favorecer una distribución homogénea del gas. El empleo de ventilación en modalidad PSV (ciclada por flujo)+VG (ajuste del Vt), adapta el Ti al necesario en cada caso y favorece el destete. // • Utilización de frecuencia respiratoria baja para evitar el atrapamiento (constante de tiempo alta). |
+| | {2} Soporte no invasivo: Se deben promover extubaciones precoces a soporte respiratorio no invasivo: VMNI como primera opción y destete a soporte con CPAPn y posteriormente cánulas nasales de alto o bajo flujo cuando mejore se objetive estabilidad respiratoria. |
+| | {2} Aporte de oxígeno manteniendo rango de Sat de 90-95%. Por encima de 92% en caso de hipertensión pulmonar asociada. Objetivo de ventilación PCO2 55-65 con pH normal. En pacientes con DBP severa se pueden tolerar niveles más altos de pCO2 para evitar tener que aumentar excesivamente la asistencia respiratoria y provocar más daño pulmonar. |
+| Tratamientos farmacológicos | Diuréticos | Reservados para pacientes con dependencia de presión positiva con evidencia de edema pulmonar a pesar de restricción hídrica. Preferiblemente tiazidas (hidroclorotiazida 3-4mgr/kg día en 2 dosis) asociado o no a espironolactona (1-3mgr/kg cada 24 horas), reservando los diuréticos de asa para las exacerbaciones atribuibles a edema pulmonar o para administraciones puntuales tras trasfusiones (furosemida 1mgr/kg). La ecografía pulmonar es una herramienta que puede guiar la necesidad de terapia diurética. |
+| | Corticoides sistémicos | Reservados para pacientes con DBP grave dependientes de ventilación mecánica con necesidades altas de asistencia respiratoria o como tratamiento de rescate en exacerbaciones respiratorias tras descartar procesos infecciosos, hipertensión pulmonar, o broncomalacia. |
+| {3} **Terapias no recomendadas** |
+| Corticoides inhalados | {2} No está recomendado su uso rutinario en pacientes con DBP |
+| Broncodilatadores inhalados | {2} No han demostrado efectos beneficiosos en pacientes con DBP y no están exentos de efectos secundarios. |
+| Uso rutinario de corticoides sistémicos | {2} No recomendado dado sus numerosos efectos secundarios |
+
+@p 299
+**Descompensaciones**
+Los pacientes con DBP desarrollan con frecuencia descompensaciones respiratorias asociadas a infecciones, aumento del edema pulmonar, fuga aérea, malposición del tubo endotraqueal o empeoramiento de su sintomatología secundaria a traqueobroncomalacia. Debemos estar atentos a su aparición y tratarlas de forma precoz para minimizar daño añadido. En el caso de pacientes con traqueobroncomalacia grave con episodios frecuentes de obstrucción de flujo de la vía aérea o que requieren uso de PEEP muy altas (9-10 cmH~2~O) puede ser necesaria la realización de traqueostomía.
+
+## 4 Complicaciones
+
+**Hipertensión arterial:** Es una complicación frecuente en los pacientes con DBP por lo que debe monitorizarse de forma semanal durante su ingreso y en cada visita médica tras el alta.
+
+**Hipertensión pulmonar:** Es una complicación grave que se produce en el 20-40% de los pacientes con DBP. Se deben realizar ecocardiografías seriadas para detectar su aparición y tratar en caso necesario con vasodilatadores pulmonares. El óxido nítrico se utiliza para el tratamiento agudo. El fármaco más utilizado es el sildenafilo (1mgr/kg/dosis cada 6-8hs, inicio con dosis de 0,3-0,5mgr/kg y aumento progresivo). Otros fármacos utilizados son el bosentán, prostaciclinas inhaladas, epoprostenol iv y teprostinil.
+
+**Desarrollo de sintomatología "tipo asma":** Es frecuente los episodios de sibilancias en los pacientes con DBP, aunque no suelen responder al tratamiento broncodilatador e incluso en los pacientes con patología de la vía aérea pueden empeorar la sintomatología. En caso de no evidenciarse mejoría tras su administración se debe suspender el tratamiento.
+
+**Colapso de la vía aérea:** Secundario a traqueobroncomalacia debido a intubaciones muy prolongadas. Es actualmente una complicación menos frecuente en pacientes con DBP debido a la extensión del soporte no invasivo y la reducción en la exposición a VM. Se caracteriza por obstrucción y colapso de la vía aérea, asociando apnea refleja que condicionan episodios cianosis y bradicardia que pueden llegar a ser amenazantes para vida. Se asocian a la irritabilidad y llanto. Pueden requerir la realización de traqueostomía,
+
+**Enfermedad por reflujo gastroesofágico y dificultades con la alimentación por boca:** Como consecuencia de la intubación prolongada, la taquipnea, los episodios de hipoxemia son muy frecuentes los problemas relacionados con la alimentación por boca, junto con una mayor incidencia de reflujo gastroesofágico que puede empeorar la sintomatología respiratoria. Dado el posible riesgo asociado al uso de los fármacos antiácidos en prematuros, su uso debe reservarse a los casos en los se objetive una impedanciometría patológica. Estos pacientes se benefician de una terapia rehabilitadora precoz de foniatría/logopedia para mejorar los problemas alimentarios.
+
+**Al alta:** El paciente debe estar en una situación de estabilidad respiratoria, para ello son útiles los sistemas de monitorización con desarrollo de histogramas (menos del 5% del tiempo < 90%) con requerimientos de oxígeno < 0,5lpm, no pausas en los 7 días anteriores, adecuada ganancia ponderal (20g/dia), Mantener sat >80% sin oxígeno suplementario durante al menos 30 minutos. Es muy importante la educación sanitaria a los padres sobre la prevención de las infecciones respiratorias, evitar la exposición a humo de tabaco, entrenamiento en detectar signos de alarma y maniobras de reanimación básica. Se
+@p 300
+deben programar las revisiones en las distintas especialidades, así como contactar previo al alta con el centro de salud. Deben seguir un programa de estimulación y fisioterapia con revisiones frecuentes por Neuropediatría y Rehabilitación debido al alto riesgo de alteraciones en el neurodesarrollo asociado a la Displasia broncopulmonar en pacientes prematuros. Guía padres con DBP: https://geidis.es/docs/manual_padres/Guia_Displasia_Broncopulmonar.pdf
+@caja
+**SE RECOMIENDA**
+- El tratamiento del paciente con Displasia Broncopulmonar debe ser individualizado, atendiendo a la fisiopatología de cada paciente, al fenotipo predominante y a las complicaciones asociadas. Es necesario un abordaje multidisciplinar, en unidades con experiencia, con buena coordinación entre los distintos especialistas tanto a nivel hospitalario como posteriormente con los equipos de atención primaria.
+- Es muy importante la prevención del daño pulmonar añadido durante la infancia y adolescencia, así como promover estilos de vida saludable que favorezcan el crecimiento pulmonar.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda el uso rutinario de corticoides tanto sistémicos como inhalados, broncodilatadores ni diuréticos.
+@fin
+@bib
+1. Sweet D, G, Carnielli V, Greisen G, et al., European Consensus Guidelines on the Management of Respiratory Distress Syndrome - 2019 Update. Neonatology 2019; 115:432-450.
+2. Sánchez Luna M, Moreno Hernando J, Botet Mussons F, et al.; Comisión de Estándares de la Sociedad Española de Neonatología. Displasia broncopulmonar: definiciones y clasificación. An Pediatr (Barc) 2013; 79:262.e1-6.
+3. Eichenwald EC, Stark AR. Bronchopulmonary dysplasia: Definition, pathogenesis, and clinical features. Uptodate last updated: Jul 28, 2021. Consultado Julio 2022.
+4. Stark AR, Eichenwald EC. Bronchopulmonary dysplasia: Management. Uptodate topic last updated: May 02, 2022. Consultado Julio 2022.

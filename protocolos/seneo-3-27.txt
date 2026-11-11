@@ -1,0 +1,104 @@
+@f 14. Protocolos SENEO/3.27. Enfermedades cardiovasculares. Cardiopatías congénitas
+@p 301
+# 3.27 ENFERMEDADES CARDIOVASCULARES. CARDIOPATÍAS CONGÉNITAS
+
+*Ana Rodríguez Sánchez de la Blanca, Alejandro Rodríguez Ogando*
+
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 287-292 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+Los defectos cardíacos son las malformaciones congénitas más frecuentes, con una incidencia que se estima en 8-10 por cada 1000 recién nacidos vivos, de los que aproximadamente la mitad presentarán síntomas durante el período neonatal.
+
+Debe tenerse en cuenta que muchas de las manifestaciones clínicas que presentarán los recién nacidos vienen condicionadas por los cambios hemodinámicos de transición entre la circulación fetal y la adulta. Del mismo modo que la existencia de patología extracardíaca puede afectar al sistema cardiovascular, llegando a simular una cardiopatía congénita en algunas ocasiones.
+
+Dado que el debut en este período suele ir asociado al hecho de tratarse de una cardiopatía compleja o bien de una forma simple pero con manifestaciones clínicas de inestabilidad y gravedad, es fundamental mantener un alto índice de sospecha para instaurar de la forma más precoz posible tratamiento médico y derivación a un centro de alto nivel para plantear tratamiento quirúrgico precoz.
+
+Las manifestaciones clínicas de las cardiopatías congénitas en el período neonatal derivan principalmente del tipo y gravedad de la lesión cardíaca, así como de los cambios hemodinámicos derivados de la circulación transicional, fundamentalmente la caída de las resistencias pulmonares y el cierre del conducto arterioso.
+
+**Cardiopatías congénitas y circulación transicional**
+Inicialmente, la circulación transicional atenúa las manifestaciones clínicas de algunas cardiopatías, como es el caso de los cortocircuitos izquierda-derecha, que son menos significativos mientras persiste la elevación de la presión pulmonar, y es a medida que transcurren los días y disminuyen de manera progresiva las resistencias pulmonares cuando comienzan a aparecer los signos de insuficiencia cardíaca.
+
+Lo mismo ocurre con las denominadas cardiopatías ductus-dependientes que pueden inicialmente encontrarse en cierta medida compensadas en las primeras horas tras el nacimiento. Sin embargo, a medida que pasen las horas y el flujo ductal comience a restringirse aparecerá la clínica de shock y bajo sistémico en el caso de las cardiopatías con obstrucción al flujo sistémico, y de hipoxemia severa y shock en aquellas con obstrucción al flujo pulmonar o con la presencia de circulación en paralelo.
+@p 302
+Es por esto último, que ante cualquier sospecha de la existencia de cardiopatía congénita está justificado el inicio precoz de la administración de prostaglandinas E1 (PGE1) para la estabilización y traslado a un centro que permita el diagnóstico definitivo.
+
+Por otro lado, la alteración del desarrollo normal de la circulación transicional constituye en sí misma una enfermedad propiamente neonatal, definida como hipertensión pulmonar persistente del recién nacido, y que puede simular la clínica de una cardiopatía congénita con hipoxemia e inestabilidad hemodinámica. De la misma forma, cualquier condición que no permita el descenso fisiológico de las presiones pulmonares en el período neonatal inmediato (ejemplo: asfixia, síndrome de aspiración meconial, neumonía neonatal) favorece la presencia de un cortocircuito derecha-izquierda, fundamentalmente a través del conducto arterioso, que deriva en la presencia de hipoxemia y grados variables de disfunción miocárdica secundarios a isquemia subendocárdica.
+
+En estos casos, el test de hiperoxia (administración de oxígeno a altas concentraciones) puede resultar de utilidad para el diagnóstico diferencial con una cardiopatía congénita estructural, puesto que en ésta última la respuesta a dicho test será negativa, no apreciándose mejoría de la oxigenación en el paciente a pesar del incremento en el aporte de la fracción inspirada de oxígeno (aumento en PaO~2~ <20-30 mmHg o de la SatHb <10%, tras oxígeno al 100%). No obstante, debe tenerse en cuenta que en ocasiones la patología pulmonar grave con hipertensión pulmonar severa puede igualmente tener una respuesta negativa a este test.
+
+## 2 Cribado de cardiopatías congénitas
+
+El objetivo del cribado de cardiopatías críticas es la detección de aquellos casos en los que el recién nacido, estando asintomático, puede desarrollar de forma inesperada un cuadro clínico grave derivado de la existencia de una cardiopatía congénita.
+
+El empleo de la pulsioximetría en las primeras 24 horas tras el nacimiento en todos los recién nacidos asintomáticos ha demostrado ser un método eficaz, no invasivo y de bajo coste para cumplir este objetivo (ver figura 1).
+@p 303
+@img seneo-3-27-fig1.png
+*Figura 1. Cribado cardiopatías congénitas mediante pulsioximetría. Tomado del documento de consenso del comité de estándares de la sociedad española de Neonatología (An Pediatr 2018; 88(2):112.e1-112.e6)*
+
+## 3 Medidas generales ante la sospecha de cardiopatía congénita
+
+Ante la sospecha de cardiopatía congénita y, hasta su confirmación mediante evaluación por ecocardiografía, debemos mantener una serie de medidas de soporte generales:
+- Ambiente térmico adecuado
+- Monitorización de constantes: frecuencia cardíaca, tensión arterial, saturación transcutánea de oxígeno, frecuencia respiratoria.
+- Canalización de vía central (vena umbilical, catéter venoso central de acceso periférico)
+- Realización de gasometría y determinación de iones. Corregir la presencia de acidosis y mantener niveles adecuados de glucemia y calcemia.
+- Asegurar correcta ventilación y oxigenación, siendo necesaria en ocasiones y según la situación clínica del paciente la intubación e inicio de ventilación mecánica invasiva junto con un adecuado nivel de sedación.
+- Dieta absoluta hasta demostrar adecuada perfusión tisular.
+@p 304
+- Inicio de perfusión continua de prostaglandinas, habitualmente a dosis de 0,03 mcg/kg/min.
+- Reducir la fracción inspirada de oxígeno a la menor necesaria para mantener rango de saturación adecuado, salvo la existencia de patología pulmonar concomitante.
+
+## 4 Formas de presentación de las cardiopatías congénitas
+
+La forma de clasificación más práctica de las cardiopatías con debut neonatal es aquella basada en la relación de dependencia del flujo a través del ductus (tabla 1):
+1. Cardiopatías con flujo sistémico ductus dependiente
+2. Cardiopatías con flujo pulmonar ductus dependiente
+3. Circulación en paralelo
+4. Cardiopatías no ductus dependiente con flujo pulmonar aumentado
+
+| **Tabla 1. Clasificación de las Cardiopatías Congénitas** |
+|---|
+| **Cardiopatías con flujo sistémico ductus dependiente** |
+| Coartación de Aorta // Interrupción del arco aórtico // Estenosis Aórtica crítica // Síndrome de hipoplasia de cavidades izquierdas |
+| **Cardiopatías con flujo pulmonar ductus dependiente** |
+| Atresia tricuspídea con comunicación interventricular (CIV) restrictiva o con estenosis pulmonar // Atresia pulmonar con septo interventricular íntegro // Atresia pulmonar con comunicación interventricular // Estenosis pulmonar crítica // Ventrículo derecho de doble salida (VDDS) con estenosis pulmonar // Ventrículo único con estenosis pulmonar // Anomalía de Ebstein grave // Tetralogía de Fallot |
+| **Circulación en paralelo** |
+| Trasposición de grandes arterias (TGA) |
+| **Cardiopatías no ductus dependiente con flujo pulmonar aumentado** |
+| Ductus arterioso persistente (DAP) // Comunicación interventricular (CIV) // Canal auriculoventricular // Ventana aortopulmonar // Drenaje venoso pulmonar anómalo total no obstruido |
+
+@p 305
+### 1. Cardiopatías con flujo sistémico ductus dependiente
+
+El inicio de la clínica suele ser brusco con clínica de bajo gasto (mala perfusión periférica, hipotensión, oligoanuria y acidosis metabólica y láctica) coincidente con el cierre ductal. Existe una obstrucción importante en el tracto de entrada o salida del ventrículo izquierdo y el flujo sistémico depende de la existencia de un cortocircuito derecha-izquierda a nivel del ductus.
+
+Es importante recordar que ante un paciente con síntomas de shock de aparición brusca y acidosis metabólica en las primeras 72 horas de vida siempre se debe sospechar la existencia de una cardiopatía de este grupo.
+
+### 2. Cardiopatías con flujo pulmonar ductus dependiente
+
+En este grupo la cianosis es el síntoma fundamental sin presentar inicialmente trabajo respiratorio significativo. El flujo pulmonar está disminuido y depende de la existencia de un cortocircuito izquierda-derecha a nivel del ductus. El test de hiperoxia es negativo en estos pacientes y la situación mantenida de hipoxemia dará lugar a acidosis metabólica y disfunción ventricular.
+
+### 3. Circulación en paralelo
+
+En este grupo la cianosis es inicialmente el síntoma predominante y, a diferencia del grupo anterior, el flujo pulmonar es normal o está aumentado. El problema fundamental es la existencia de un circuito en paralelo en lugar de en serie entre la circulación pulmonar y sistémica. Es obligatoria la existencia de una comunicación entre ambos circuitos, ya sea a nivel auricular (CIA), ventricular (CIV grande) o del ductus, para asegurar una correcta mezcla de sangre.
+
+### 4. Cardiopatías no ductus dependiente con flujo pulmonar aumentado
+
+El debut clínico suele ser más tardío en estos pacientes, generalmente a partir de las dos semanas del nacimiento y coincide con la caída de las resistencias pulmonares. Se trata de cardiopatías en la que existe un cortocircuito de sangre que favorece el aumento de flujo a nivel pulmonar y que debutan con clínica menos grave que las anteriores y más insidiosa (taquipnea, sudoración, rechazo de tomas, fallo de medro) y que si se mantiene en el tiempo dan lugar a una situación de insuficiencia cardíaca descompensada con taquicardia, taquipnea, edema pulmonar y hepatomegalia.
+@caja
+**SE RECOMIENDA**
+- Se recomienda la realización del cribado de cardiopatías congénitas mediante pulsioximetría en todo recién nacido asintomático en las primeras 24 horas tras el nacimiento.
+- Ante cualquier sospecha de la existencia de cardiopatía congénita esta justificado el inicio precoz de la administración de prostaglandinas E1.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Demorar el inicio de prostaglandinas E1 ante la sospecha de cardiopatía congénita a la espera de confirmación diagnóstica mediante ecocardiografía en un centro de mayor nivel asistencial.
+@p 306
+@fin
+@bib
+1. Park MK. Cardiología pediátrica. Sexta edición. Elsevier, 2015.
+2. Maroto Monedero C, Camino López M, Girona Comas JM, et al. Guidelines of the Spanish Society of Cardiology for the Evaluation and Management of Congenital Heart Diseases in Newborns. Rev Esp Cardiol 2001; 54: 49-66
+3. Sánchez Luna M, Pérez Muñuzuri A, Sanz López E, et al. Pulse oximetry screening of critical congenital heart defects in the neonatal period. The Spanish National Neonatal Society Recommendation. An Pediatr 2018; 88:112.e1-112.e6
+4. Taksande A, Jameel PZ. Critical Congenital Heart Disease in Neonates: A Review Article. Curr Pediatr Rev 2021;17:120-126.

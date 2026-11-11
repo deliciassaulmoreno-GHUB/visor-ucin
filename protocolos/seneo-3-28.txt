@@ -1,0 +1,143 @@
+@f 14. Protocolos SENEO/3.28. Persistencia del conducto arterioso en el prematuro
+@p 307
+# 3.28 PERSISTENCIA DEL CONDUCTO ARTERIOSO EN EL PREMATURO
+
+*Silvia Rodríguez Blanco, Ignacio Oulego Erroz, Paula Alonso Quintela*
+
+*Hospital Universitario de León*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 293-300 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El ductus arterioso (DA) es una estructura vascular que en la vida fetal dirige la sangre oxigenada desde la arteria pulmonar principal a la aorta descendente (AoD). Su persistencia en recién nacidos prematuros (RNPT) se asocia a aumento de la morbimortalidad (Figura 1). Mientras datos clínicos y estudios en animales sugieren un efecto beneficioso de su cierre en el desarrollo pulmonar y cerebral, los ensayos clínicos en humanos no han conseguido demostrar mejoría pronóstica asociada a una estrategia terapéutica determinada.
+
+Ante este escenario, la actitud más correcta parece la de establecer la necesidad de tratamiento individualmente en base a edad gestacional (EG), probabilidad de cierre espontáneo y repercusión hemodinámica, conceptos claves en el presente protocolo.
+@img seneo-3-28-fig1.png
+*Figura 1. Fisiopatología del cortocircuito ductal. RVP: resistencias vasculares pulmonares; ONi: óxido nítrico inhalado; RVS: resistencias vasculares sistémicas;
+@p 308
+DR: distrés respiratorio; DBP: displasia bronco-pulmonar; ECN: enterocolitis necrotizante; HIV: hemorragia intraventricular; LMPV: leucomalacia periventricular; VI: ventrículo izquierdo.*
+
+## 2 Repercusión hemodinámica y probabilidad de cierre espontáneo
+
+Al no existir una definición universalmente aceptada de DA hemodinámicamente significativo (DAhs), dicha valoración se basa en datos clínicos, ecocardiográficos y biomarcadores, combinados de distintas maneras en los llamados "scores de estadiaje ductal", que intentan estimar dicha repercusión de la forma más objetiva posible. En todo caso, **la ecocardiografía es la base de la valoración** y permite clasificar el cortocircuito (tabla 1).
+
+**El NT-proBNP es el biomarcador más utilizado.** Se trata de una determinación ya introducida en la mayoría de centros, idónea en RN por precisar muestras muy pequeñas, que ha demostrado clara asociación con la repercusión hemodinámica y respuesta al tratamiento, pero con puntos de corte variables entre 10000-20000 ng/mL, según los distintos trabajos.
+
+| {4} **Tabla 1. Clasificación ecocardiográfica del cortocircuito ductal (adaptado del GT-EcografíaSENeo)** |
+|---|---|---|---|
+| | **SHUNT LEVE** | **SHUNT MODERADO** | **SHUNT GRAVE** |
+| Tamaño ductal* | <1.4 mm/kg // <1.5 mm // Ductus/API <0.5 | 1.4-2 mm/kg // 1.5-3 mm // Ductus/API 0.5-1 | ≥2 mmkg // ≥3 mm // Ductus/API >1 |
+| Relación AI/Ao | <1.4 | 1.4-1.8 | ≥1.8 |
+| Vmáx shunt (m/seg) | >2 m/s + Patrón continuo | <1.5 m/s o Patrón pulsátil | ≤1.5 m/S + Patrón pulsátil |
+| API Vtd (m/seg) // API Vmedia (m/seg) | <0.3 // <0.42 | 0.3-0.5 // ≥0.42 | ≥0.5 |
+| Ratio E/A | <1 | =1 | ≥1 |
+| TRIV (mseg) | >45 | 35-45 | <35 |
+| Flujo Ao descendente | Flujo diastólico | Reverso parcial | †Reverso holodiástole |
+| Flujo ACA/ACM | Flujo diastólico anterógrado | Diastole llega a 0 | †Reverso |
+| GVI (ml(kg/min) | <200 | 200-250 | >250 |
+| Flujo VCS/GVI | <2.4 | 2.5-4 | >4 |
+| {4} *\*El paciente será clasificado en la categoría que más items cumpla. En caso de empate desempata el tamaño. †Clasifican el ductus en dicha categoría de forma directa independientemente de otros items. API: arteria pulmonar izquierda; AI: aurícula izquierda; Ao: Aorta; Vtd: velocidad telediastólica; TRIV: tiempo de relajación isovolumétrica; ACA: arteria cerebral anterior; ACM: arteria cerebral media; GVI: gasto de ventrículo izquierdo; VCS: vena cava superior.* |
+
+@p 309
+La probabilidad de cierre ductal espontáneo (CDE) es también esencial. Dicha probabilidad es alta en caso de EG> 28 semanas, peso >1000 g, DA pequeños (<1.4 mm/ Kg en 2D, 2 mm/Kg en color) y flujo continuo a alta velocidad (>2.5 m/seg). Un NT-proBNP "bajo" (<5000 ng/mL) o en descenso sugiere CDE, respuesta al tratamiento y escasa repercusión hemodinámica.
+
+## 3 TRATAMIENTO DEL DUCTUS ARTERIOSO DEL PREMATURO
+
+**Tratamiento conservador:** consiste en una serie de medidas de bajo coste y escasos efectos secundarios, de razonable administración en todo RNPT con un DAPhs:
+- Ambiente térmico neutro que minimice la demanda ventricular izquierda.
+- Soporte respiratorio para garantizar oxigenación adecuada (SatO~2~ objetivo 90-95%), con hipercapnia permisiva si se precisa (PaCO~2~ de 50-55 mmHg con pH normal). En paciente con ventilación mecánica (VM) se recomiendan volúmenes tidal pequeños, tiempos inspiratorios cortos y aumento de presión media en vía aérea con PEEP entre 5-7 cmH2O.
+- Hematocrito superior al 35-40%, para aumentar la resistencia vascular pulmonar y reducir el cortocircuito izquierda-derecha.
+- Limitar la administración de fluidos en "bolos" a situaciones de hipovolemia constatada. Restricción hídrica moderada adaptada a la EG y los días de vida (orientativamente entre 120-130 ml/kg/día, que proporcionen al menos 120 kcal/ kg/día).
+- Valorar diuréticos en pacientes con datos de sobrecarga hídrica o que precisan alto soporte respiratorio pese a la restricción hídrica moderada. Los diuréticos tiazídicos son de elección, evitando la furosemida u otros diuréticos de asa en los primeros 15 ddv, por favorecer la persistencia ductal.
+
+**Tratamiento farmacológico:** Está dirigido a inhibir la prostaglandina sintetasa: los inhibidores no selectivos de la ciclooxigenasa (COX; ibuprofeno e indometacina) inhiben el sitio de la COX y el paracetamol afecta el segmento de peroxidasa.
+
+En nuestro medio, el ibuprofeno es el fármaco de elección, administrado en bolo lento intravenoso (IV en 15'), a una dosis inicial de 10 mg/Kg, seguida cada 24 horas de otras dos dosis a 5 mg/Kg, preferiblemente realizando ecografía previa a cada una, para evitar su uso innecesario en DA cerrados. En países en vías de desarrollo se utilizan preparados comerciales orales con la misma posología y eficacia similar, aunque precisa mayor vigilancia intestinal. La nutrición trófica no debe suspenderse sistemáticamente, pero se recomienda no administrar la tomas previa y posterior a la dosis. Si se inicia tratamiento más allá de la 2ª semana de vida, existe intolerancia digestiva o compromiso de circulación mesentérica/AoD, algunos expertos consideran prudente mantener en dieta absoluta e iniciar dopamina a 2-3 mcg/kg/min IV, si se cuenta con vía central.
+@p 310
+| **Tabla 2. Contraindicaciones habituales para la administración de ibuprofeno** |
+|---|
+| Sepsis probada o sospechada sin tratamiento. |
+| Sangrado activo no controlado o reciente (<24 horas), trombocitopenia (<25000) o coagulopatía (se puede corregir con hemoderivados previamente). |
+| Hiperbilirrubinemia en rango de exanguinotrasfusión. |
+| Existencia o sospecha de enterocolitis. |
+| Daño renal significativo: oliguria (<0'5 cc/K/h, 8 horas previas) o creatinina >2'5 mg/dL. |
+
+**El paracetamol sigue siendo una medicación de uso compasivo,** de similar eficacia, valorable si el ibuprofeno se encuentra contraindicado (Tabla 2), ha fallado o se inicia tratamiento con más de 15 ddv. La pauta es de 10-15 mg/Kg, VO ó IV, cada 6-8 horas, durante 2-3 días. De no constatarse el cierre, pueden completarse hasta 7 días con ecografías seriadas. La contraindicación específica del paracetamol es la enfermedad hepática. Evidentemente, **ningún tratamiento farmacológico orientado al cierre del DAP puede administrarse ante la sospecha de una cardiopatía congénita ductus dependiente.**
+El fracaso farmacológico ocurre en al menos un 30% de los casos; estando los siguientes factores asociados a mala respuesta: EG más baja, ausencia de maduración pulmonar antenatal, distrés respiratorio grave, exposición a situaciones de inflamación intrauterina (como amniorrexis prolongada o corioamnionitis) y mayor edad al inicio del tratamiento (baja efectividad a partir de 33 semanas postconcepcionales o 3 semanas de vida). Un 2º ciclo tiene una tasa de éxito del 40%, por lo que es razonable si persiste la indicación de tratamiento. Si fallan 2 ciclos, la respuesta a un tercero es poco probable y, por tanto, no se recomienda.
+
+**Tratamiento quirúrgico: Se reserva a pacientes con fallo cardiorrespiratorio y fracaso o contraindicación del tratamiento farmacológico con imposibilidad de retirar el soporte respiratorio.** Sus complicaciones vienen resumidas en la Tabla 3. **El cierre percutáneo se está posicionando como opción quirúrgica de elección,** con menor morbilidad, factible incluso en RNPT <1000 gr en centros con experiencia.
+
+| {3} **Tabla 3. Complicaciones de la ligadura del DAP** |
+|---|---|---|
+| Obstrucción del flujo de API o Ao | Hipo/hipertensión | Sangrado |
+| Infección de la herida | Inestabilidad respiratoria | Neumotórax y otras fugas aéreas |
+| Quilotórax | Edema pulmonar | Escoliosis |
+| Parálisis del nervio frénico | Desgarro ductal | Parálisis de cuerdas vocales |
+| Recanalización del DAP | Sepsis | Atelectasia |
+| {3} *API: arteria pulmonar izquierda; Ao: aorta* |
+
+La mortalidad perioperatoria es inferior al 5%, pero llega al 33% en pacientes con **síndrome post-ligadura (SPL).** Éste viene definido por un empeoramiento respiratorio
+@p 311
+y/o hemodinámico en las horas siguientes al cierre, cuya fisiopatología se resume en la figura 2. Para su diagnóstico se precisa hipotensión (PAS<p3), necesidad de más de un fármaco vasoactivo o empeoramiento de la oxigenación y/o ventilación >20% respecto al basal. La presencia de bajo gasto cardíaco (<200 ml/kg/min) una hora tras el cierre predice su desarrollo, por lo que algunos autores proponen el inicio de milrinona en estos casos, precedido o no de una carga de volumen. Dado que la insuficiencia suprarrenal relativa aumenta el riesgo y gravedad del SPL, se puede valorar realizar un test de ACTH previo al cierre. En todo caso, si la inestabilidad hemodinámica es importante debe considerarse precozmente el uso de hidrocortisona. La figura 3 muestra un resumen del manejo clínico.
+
+@img seneo-3-28-fig2.png
+*Figura 2. Fisiopatología del Síndrome post-ligadura. GC: gasto cardíaco; Ao: Aorta; VI: ventrículo izquierdo; RVS: resistencias vasculares sistémicas; Ai: aurícula izquierda.*
+
+@img seneo-3-28-fig3.png
+*Figura 3. Esquema del manejo del Síndrome post-ligadura. A/S: analítica sanguínea; LVO: left ventricular output*
+
+@p 312
+## 4 PROPUESTA DIAGNÓSTICO-TERAPÉUTICA
+
+Pese a que la variabilidad de estrategias de manejo es enorme, la terapia profiláctica y la ligadura quirúrgica como tratamiento de primera elección parecen descartadas con el grado de evidencia actual. Proponemos 2 alternativas que deben ser valoradas en cada centro según las características de sus pacientes, experiencia, preferencias, posibilidad de tratamiento quirúrgico en caso de fracaso e incluso características individuales de cada paciente:
+
+**Manejo expectante generalizado:** Ciertos expertos abogan por el manejo conservador del DAP en base a altas tasas de cierre espontáneo y a los efectos adversos del tratamiento farmacológico y quirúrgico, sin una evidencia definitiva de mejora en la mobi-mortalidad a largo plazo.
+
+Si se opta por una estrategia de este tipo, independientemente de las características del paciente, **se buscará el DA sólo ante clínica sugestiva:** soplo clásico, hipotensión diastólica, "pulsos saltones", precordio hiperdinámico, imposibilidad de retirar soporte respiratorio, acidosis metabólica persistente, etc.
+
+**Se trata de una estrategia de manejo gradual** que, ante el diagnóstico de DAPhs, aplica las medidas conservadoras ya explicadas y reserva la terapia farmacológica para RNPT con DAPhs que siguen dependiendo de ventilación mecánica después de una semana de vida. También se considerará tratamiento activo en pacientes de más de 1 semana que no estén intubados pero presenten shunts graves con necesidad de inotrópicos, insuficiencia cardíaca o altos requerimientos respiratorios.
+
+**Terapia dirigida temprana en RNPT de alto riesgo:** Quienes abogan por estrategias de este tipo consideran que existen subgrupos pacientes con necesidades diagnósticas y terapéuticas distintas. De modo que **diferencian 2 grupos de pacientes:** los RNPT de <28 SEG (o <32 SEG si no han recibido maduración pulmonar o han estado sometidos a estados de inflamación intrauterina) y el resto de pacientes más maduros. En estos últimos, se opta por un manejo expectante, buscando y tratando el DAP en base a síntomas como se ha explicado con anterioridad
+
+**En los pacientes más inmaduros, se realiza una búsqueda activa de DAPhs** mediante cribado ecográfico sistemático a las 48-72 hdv para: clasificar la gravedad del cortocircuito, valorar objetivamente la afectación hemodinámica y respiratoria y estimar la probabilidad de CDE. De esta manera existirían unas indicaciones de tratamiento precoz (<7 ddv) y otras tardías (>7 ddv). Además, se reevaluarán periódicamente los pacientes sin indicación inicial de cierre con cambios significativos en su estado clínico (en especial sepsis), para adaptar las indicaciones de tratamiento a las circunstancias.
+
+**Indicaciones de tratamiento farmacológico "precoz" (<7 días de vida):** buscan tratar DAPhs con riesgo de complicaciones y baja probabilidad de CDE (Tabla 4).
+
+| {2} **Tabla 4. Indicaciones de tratamiento farmacológico del DAP** |
+|---|---|
+| **Indicado tratamiento** | • DAP de cualquier tamaño con repercusión moderada/grave y afectación sistémica/respiratoria importante*. |
+| **Considerar tratamiento** | • DAP con repercusión grave independientemente de otros datos. // • DAP con repercusión moderada sin afectación sistémica y/o respiratoria importante pero baja probabilidad de CDE. |
+@p 313
+@pie Tabla 4. Indicaciones de tratamiento farmacológico del DAP (continuación)
+| **No indicado tratamiento** | • DAP sin repercusión o repercusión leve independientemente del tamaño. // • DAP con repercusión moderada, buena evolución y alta probabilidad de CDE. |
+| {2} *\*FiO~2~ >0'35-0'4, PMVA >12 cmH~2~0 o VAFO, soporte vasoactivo con más de 1 droga o acidosis metabólica (EB >-10) sin otra causa aparente.* |
+
+**Indicaciones de tratamiento farmacológico "tardío" (>7 días de vida):** El objetivo es evitar los efectos de cortocircuito persistentes (Tabla 5).
+
+| {2} **Tabla 5. Indicaciones de tratamiento farmacológico tardío del DAP** |
+|---|---|
+| **Indicado tratamiento** | • DAP con cortocircuito grave independientemente de otros datos. // • DAP con cortocircuito moderado y, al menos uno de: // ◦ Persistencia o reintroducción de VNI/intubación, aumento de necesidades de oxígeno o trabajo respiratorio. // ◦ Intolerancia digestiva persistente, tras descartar ECN. // ◦ Inestabilidad HD con necesidad de tratamiento sin otra causa. // ◦ Acidosis metabólica persistente sin otra causa. |
+| **Indicado tratamiento** | • DAP asintomático con cortocircuito moderado y probabilidad de CDE baja. // • DAP moderado y clínica que podría relacionarse al ductus (falta de mejoría respiratoria, mala tolerancia, incremento de apneas, estancamiento ponderal, ...) |
+| **Considerar tratamiento** | • DAP con cortocircuito leve. // • DAP con cortocircuito moderado asintomático y con CDE probable. |
+! En el PDF las dos primeras filas de la Tabla 5 llevan el mismo rótulo «Indicado tratamiento».
+
+@caja
+**SE RECOMIENDA**
+- La ecocardiografía es la base de la valoración y estratificación del DAP. Es útil su combinación con datos clínicos y biomarcadores como el NT-proBNP.
+- En nuestro medio, el ibuprofeno es el fármaco de elección. El paracetamol sigue siendo una medicación de uso compasivo. El tratamiento quirúrgico (abierto o percutáneo) se reserva a pacientes con fallo cardiorrespiratorio y fracaso o contraindicación del tratamiento farmacológico.
+- Debe proporcionarse tratamiento conservador a todo RNPT con DAPhs. En cuanto a medidas de cierre activo, las 2 estrategias más utilizadas actualmente, y que proponemos como alternativas en este protocolo, son el manejo expectante generalizado y la terapia dirigida temprana en RNPT de alto riesgo.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- El cierre activo generalizado del DAP en RNPT sin establecer la necesidad de tratamiento individualmente en base a edad gestacional, probabilidad de cierre espontáneo y repercusión hemodinámica.
+@p 314
+- La terapia profiláctica y la ligadura quirúrgica como tratamiento de primera elección parecen descartadas con el grado de evidencia actual.
+- La nutrición trófica no debe suspenderse sistemáticamente durante el tratamiento del DAPhs.
+@fin
+@bib
+1. Rodríguez Blanco, S. Tesis doctoral: Utilidad de la determinación del NT-proBNP entre las 48-96 horas de vida como marcador diagnóstico y pronóstico del ductus arterioso persistente en grandes prematuros. Programa de doctorado en investigación clínica en medicina. Universidad de Santiago de Compostela, diciembre de 2017.
+2. Mitra S, Scrivens A, Von Kursell AM, et al. Early treatment versus expectant management of hemodynamically significant patent ductus arteriosus for preterm infants. Cochrane Database Syst Rev 2020;12:CD013278.
+3. Isayama T, Kusuda S, Reichman B, et al. Neonatal Intensive Care Unit-Level Patent Ductus Arteriosus Treatment Rates and Outcomes in Infants Born Extremely Preterm. J Pediatr 2020; 220:34.
+4. Ohlsson A, Shah PS. Paracetamol (acetaminophen) for patent ductus arteriosus in preterm or low birth weight infants. Cochrane Database Syst Rev 2020; 1:CD010061.
+5. Philip R, Waller BR, Chilakala S, et al. Hemodynamic and clinical consequences of early versus delayed closure of patent ductus arteriosus in extremely low birth weight infants. J Perinatol 2021; 41:100.
+6. El-Khuffash A, Rios DR, McNamara PJ. Toward a Rational Approach to Patent Ductus Arteriosus Trials: Selecting the Population of Interest. J Pediatr 2021; 233:11.
