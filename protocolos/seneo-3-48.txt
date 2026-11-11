@@ -1,0 +1,147 @@
+@f 14. Protocolos SENEO/3.48. Infecciones urinarias. Reflujo vésico-ureteral. Hidronefrosis. Válvulas de uretra posterior. Displasia renal y poliquistosis neonatal
+@p 430
+# 3.48 INFECCIONES URINARIAS. REFLUJO VÉSICO-URETERAL. HIDRONEFROSIS. VÁLVULAS DE URETRA POSTERIOR. DISPLASIA RENAL Y POLIQUISTOSIS NEONATAL
+
+*Marta Padín Fontán, Mª Luisa González Durán, Ana Concheiro Guisán.*
+
+*Hospital Álvaro Cunqueiro, Vigo*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 416-422 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Infección del tracto urinario (ITU)
+
+La ITU es la infección bacteriana más frecuente en el neonato con fiebre. Su prevalencia es difícil de definir (1%) ya que su clínica es inespecífica y los métodos de recogida de orina pueden sobreestimar estos resultados. La prevalencia es mayor en varones, en recién nacidos pretérmino (3%) y en aquellos con malformaciones congénitas del riñón y el tracto urinario *(CAKUT)*.
+
+En neonatos a término el *E. Coli* es el germen más frecuente (80%) mientras que en los hospitalizados especialmente pretérmino el género Klebsiella cobra mayor relevancia. La clínica es inespecífica e incluyen fiebre, rechazo de la ingesta, vómitos, estancamiento ponderal e hiperbilirrubinemia (de predominio conjugado).
+
+El diagnóstico se basa en el resultado del urocultivo. Si es obtenido por sondaje vesical se considera positivo >50000 Unidades Formadoras de Colonias (UFC) de un germen patógeno o 10000-50000 UFC si asocia alteraciones en el uroanálisis (>5 leucocitos/campo) o cualquier crecimiento de un germen patógeno por punción suprapúbica. En el neonato con ITU, la existencia de un uroanálisis normal no es despreciable. La realización de una tinción de Gram puede ser de utilidad.
+
+Debido al riesgo de bacteriemia, se debe realizar un hemograma, con PCR y procalcitonina y un hemocultivo en aquellos neonatos con sospecha y/o ITU confirmada. La realización de punción lumbar puede limitarse a aquellos pacientes con aspecto séptico y/o hallazgos neurológicos en la exploración.
+
+El tratamiento inicial con ampicilina y gentamicina endovenosa debe establecerse ante la sospecha clínica. Las cefalosporinas de 3ª generación deben reservarse para pacientes seleccionados (insuficiencia renal, sospecha de afectación meníngea). La duración del tratamiento oscila entre 10-14 días. Neonatos a término que reciben el tratamiento intravenoso durante 4-5 días, completando la pauta oral, no presentan mayor riesgo de ITU recurrente o reingreso.
+
+Se debe realizar ecografía renal en los neonatos con ITU debido a la elevada prevalencia de CAKUT. La gammagrafía (DMSA) tardía se debe reservar para ITU graves. En caso
+@p 431
+de alteraciones ecográficas (salvo ectasia aislada), alteraciones gammagráficas, ITU recurrente o aquellas ITU causadas por un germen distinto de *E. Coli* se recomienda realizar cistografía para descartar reflujo vesicoureteral.
+
+## 2 Reflujo vesicoureteral (RVU)
+
+Se define como el flujo retrogrado no fisiológico de la orina desde la vejiga al uréter en probable relación con una disfunción de la unión ureterovesical. Su prevalencia no está definida, pero se estima en un 16% entre aquellos con hidronefrosis prenatal. Se establecen 5 grados (I-II leve, III moderado y IV-V grave) pudiendo asociarse en varones a displasia renal u otras anomalías como las válvulas de uretra posterior (Figura 1).
+@img seneo-3-48-fig1.png
+*Figura 1. Clasificación internacional de RVU (International Reflux Study Committee).*
+
+Su diagnóstico se realiza mediante cistouretrografía miccional seriada (CUMS), siendo la cistografía isotópica y la ecocistografía miccional con contraste alternativas en el seguimiento y en el diagnóstico inicial en el sexo femenino.
+
+El tratamiento del RVU difiere según el grado y la evolución reservándose la profilaxis antibiótica para casos moderados/graves (IV-V en varones y III-V en mujeres) especialmente si asocian ITUs de repetición, antes de su corrección quirúrgica. El régimen antibiótico de elección es la amoxicilina en asociación o no con clavulánico (10-15 mg/kg dosis única). El uso de cefalosporinas de primera generación (cefadroxilo o cefalexina) es una alternativa adecuada.
+
+## 3 Hidronefrosis
+
+Las dilataciones del tracto urinario (DTU) se detectan mediante la ecografía prenatal generalmente a partir del 2º trimestre. La hidronefrosis consiste en la dilatación de la pelvis renal con o sin dilatación de los cálices renales, la mayoría son transitorias y fisiológicas, aunque pueden ser causadas por malformaciones congénitas del riñón y del tracto urinario (CAKUT). Para su diagnóstico y clasificación de gravedad se utilizan tres
+@p 432
+sistemas:
+
+**La clasificación de la Sociedad de Urología Fetal (SFU),** menos utilizada en la actualidad, establece 5 grados (Grado 0: no hallazgos patológicos, al grado IV: dilatación de la pelvis y cálices con atrofia parenquimatosa).
+
+**Diámetro antero-posterior de la pelvis renal (DAP o RPD).** Define la hidronefrosis fetal como DAP ≥4 mm, entre la semana 18-27 de gestación y DAP ≥ 7 mm a partir de la semana 28 de gestación.
+
+**La clasificación UTD (Urinary Tract Dilation Classification System),** basada en un documento de consenso multidisciplinar, recomienda utilizar el término de dilatación del tracto urinario (DTU) en lugar de hidronefrosis o ectasia. Utiliza 6 datos ecográficos que permiten valorar las dilataciones del tracto urinario antenatal (DTU A) y postnatal (DTU P) y relaciona cada estadío con el riesgo de uropatía, siendo el 1 (bajo riesgo), 2 (riesgo intermedio) y 3 (alto riesgo). Tabla 1 y 2.
+
+| {4} **Tabla 1. Dilatación del tracto urinario antenatal (DTU A)** |
+|---|---|---|---|
+| | **Normal** | **DTU A1** | **DTU A2-A3** |
+| **DAP 16-27 SG** | <4 mm | 4-7 mm | >7 mm |
+| **DAP ≥ 28 SG** | <7 mm | 7-10 mm | ≥10 mm |
+| **Dilatación calicial** | No | Ninguna o central | Periférica |
+| **Grosor parénquima** | Normal | Normal | Anormal |
+| **Apariencia parénquima** | Normal | Normal | Anormal |
+| **Uréteres** | Normal | Normal | Anormal |
+| **Vejiga** | Normal | Normal | Anormal |
+| **Oligoamnios** | No | No | Sí |
+| {4} *SG: semanas de gestación* |
+
+| {5} **Tabla 2. Dilatación del tracto urinario postnatal (DTU P)** |
+|---|---|---|---|---|
+| | **Normal** | **DTU P1** | **DTU P2** | **DTU P3** |
+| **DAP (>48 h)** | <10 mm | 10-15 mm | ≥15 mm | ≥15 mm |
+| **Dilatación calicial** | No | Central | Periférica | Periférica |
+| **Grosor parénquima** | Normal | Normal | Normal | Anormal |
+| **Apariencia parénquim** | Normal | Normal | Normal | Anormal |
+| **Uréteres** | Normal | Normal | Anormal | Anormal |
+| **Vejiga** | Normal | Normal | Normal | Anormal |
+
+@p 433
+El **manejo posnatal** de las DTU prenatales debe incluir:
+
+**Anamnesis:** detallar los antecedentes obstétricos maternos y familiares.
+
+**Exploración física:** valoración pulmonar, sobre todo si asocia oligoamnios severo, descartar masas abdominales, vejiga urinaria palpable o malformaciones asociadas (arteria umbilical única, mamelones preauriculares, criptorquidia).
+
+**Pruebas de imagen:** la ecografía es la prueba de imagen de elección para el diagnóstico y seguimiento de las DTU. Indicada en todas las dilataciones con DAP ≥7 mm a partir de las 32 semanas de gestación. Se debe realizar al menos una primera ecografía entre las 48 horas-1 mes de vida. En las dilataciones bilaterales severas (DAP ≥15 mm), distensión vesical, pared vesical engrosada o riñón único con dilatación grave (DAP≥ 15 mm) se debería realizar en las primeras 48 horas de vida y en dilataciones unilaterales, con apariencia normal del riñón contralateral, se podría realizar entre las 2º-4º semana de vida. Idealmente se recomienda realizar una segunda ecografía, en todos los casos de DTU prenatal, entre 1-6 meses de vida aunque el primer estudio sea normal.
+
+La cistografía (CUMS) y/o ecocistografía están indicadas en dilataciones uni o bilaterales severas y sospecha de obstrucción del tracto urinario inferior, en las dilataciones moderadas (DAP 10-15 mm) no hay consenso. El renograma se realiza en casos de dilatación grave, para descartar obstrucción y valorar la función renal. No debe realizarse antes del mes de vida y preferiblemente a partir de los 2-3 meses.
+
+**Profilaxis antibiótica:** indicada en dilataciones graves (DAP ≥ 15 mm), asociación con RVU de alto grado o infecciones urinarias de repetición durante el seguimiento. En las dilataciones moderadas existe controversia y se deja a criterio médico. El antibiótico de elección es la amoxicilina con o sin clavulánico (10-15 mg/kg, dosis única oral). Las cefalosporinas de primera generación (cefadroxilo o cefalexina) son una alternativa válida.
+
+## 4 Válvulas de uretra posterior (VUP)
+
+Se deben a la aparición de unos pliegues membranosos en la uretra posterior que obstruyen la salida del flujo urinario desde la vejiga.
+
+Es una patología únicamente de varones y es la causa más común de obstrucción del tracto urinario, su incidencia es 1/4000-8000 gestaciones. La gran mayoría se diagnostican con la ecografía prenatal, la imagen típica es una vejiga dilatada, hipertrofia de la pared vesical, uretra posterior dilatada y una hidronefrosis bilateral. Los casos graves se asocian a oligoamnios e hipoplasia pulmonar. Otros hallazgos ecográficos son el aumento de ecogenicidad renal y quistes corticales sugestivos de displasia renal. El diagnóstico antes de la semana 24 de gestación se asocia a una elevada mortalidad perinatal y evolución a enfermedad renal crónica. El pronóstico se relaciona con el grado de displasia renal y el desarrollo de hipoplasia pulmonar. En centros especializados es posible la intervención quirúrgica fetal, que tiene como objetivo disminuir la afectación renal y la hipoplasia pulmonar, los resultados todavía no son concluyentes. En período neonatal el tratamiento endoscópico es el de elección para la ablación de las VUP. La derivación urinaria puede estar indicada en caso de fracaso del tratamiento endoscópico o en situaciones específicas.
+@p 434
+## 5 Displasia renal multiquística (DRMQ)
+
+Anomalía congénita más frecuente del desarrollo renal y principal causa de riñón único funcional. Más frecuente en varones y en el lado izquierdo. La forma bilateral (frecuentemente letal) es excepcional. Habitualmente asintomática y con función renal preservada. Tras una obstrucción congénita de la vía renal se desarrollan una serie de quistes no comunicados entre sí rodeados de fibrosis (Figura 2).
+@img seneo-3-48-fig2.png
+*Figura 2: Displasia renal multiquística. Izquierda: imagen ecográfica al nacimiento (quistes en racimo de uvas), algunos de gran tamaño (35 mm).*
+
+Puede asociar anomalías génito-urinarias en el riñón contralateral sano, como RVU (19%) o con menor frecuencia estenosis pieloureteral u obstrucción ureterovesical. Las anomalías de los genitales internos ipsilaterales (15%) como quistes seminales, atresia vaginal o útero doble pueden relacionarse con los síndromes de Mayer-Rokintansky o Bardet-Biedl o con la nefropatía HNF1B (historia familiar de Diabetes MODY).
+
+La ecografía renal (Tabla 1) a partir del 3º-5º día de vida confirma el diagnóstico y evalúa dilataciones contralaterales. En ocasiones, será precisa una gammagrafía isotópica (DMSA-Tc99), a partir de la 3ª semana, para confirmar la ausencia de actividad funcional si existen dudas. La cistografía miccional se reservará a los casos con dilatación de la vía urinaria y/o ITU. En ciertos casos podría estar indicado un renograma isotópico. La ecografía pélvica/ testicular se realizará en edades posteriores. Otras exploraciones y estudios genéticos estarían indicados ante la sospecha de un cuadro sindrómico asociado.
+
+La historia natural es la involución total o parcial de los quistes en el 60-90 % de los casos, siendo la máxima involución en los 2 primeros años. Tamaños renales < 62 mm asocian mayor tasa de involución. En caso de no producirse pueden existir complicaciones a largo plazo como hipertensión arterial y/o hiperfunción del riñón contralateral. La degeneración maligna es excepcional, excepto en el síndrome de Beckwith-Wiedemann, donde estaría indicado un seguimiento ecográfico más estrecho.
+
+La actitud inicial será conservadora. La nefrectomía neonatal es excepcional, solo ante
+@p 435
+masas de gran tamaño con compromiso respiratorio.
+
+El diagnóstico diferencial incluye otras formas de displasia renal quística, divertículos caliciales o quistes renales; así como síndromes que asocian quistes renales y displasia (Meckel Gruber, VACTERL, entre otros ya citados).
+
+## 6 Poliquistosis renal (PQR)
+
+Alteraciones hereditarias del cilio primario caracterizadas por la aparición de múltiples quistes renales bilaterales sin displasia asociada. Existen dos formas de herencia (tabla 3). En el período neonatal la forma recesiva (PQRAR) es la más habitual. La dominante (PQRAD) es excepcional (<2%) que debute en los primeros años de vida.
+
+En la PQRAR se presenta insuficiencia renal (70-80%) e hipertensión arterial de difícil control. Las formas más graves asocian oligoamnios que condiciona la **secuencia Potter** (orejas de implantación baja, nariz plana, epicantus, retrognatia, pie zambo, hipoplasia pulmonar e insuficiencia respiratoria). La mortalidad se aproxima al 30%. En ocasiones es necesaria la diálisis peritoneal. Formas leves pueden cursar con hiponatremia y/o alteraciones de la concentración renal.
+
+El 50% de los neonatos supervivientes evolucionarán a enfermedad renal crónica avanzada en los primeros 10 años de vida con eventual necesidad de trasplante combinado hepato-renal por la asociación de PQRAR con disgenesia biliar y/o fibrosis portal. En la PQRAD pueden aparecer quistes hepáticos, pancreáticos, aneurismas cerebrales y anomalías cardíacas, rara vez presentes al nacimiento.
+
+El diagnóstico diferencial de la hiperecogenicidad hepato-renal incluye la nefronoptisis infantil (NPH2), el síndrome de Zellweger, la infección congénita por citomegalovirus o la displasia renal-hepática-pancreática entre otros.
+
+| {4} **Tabla 3. Características diferenciales entre las principales enfermedades renales quísticas** |
+|---|---|---|---|
+| | **DRMQ** | **PQRAR** | **PQRAD** |
+| Incidencia | 1:2.500 RN vivos. | 1:20.000 RN vivos. | 1:1.000 (excepcional debut neonatal). |
+| Herencia | Esporádica (la mayoría) // Alteraciones genéticas (del. 22q11, trisomías) en formas bilaterales. | AR. Mutaciones en cistogenes fibrocistina/ poliductina (PKHD1) y policistina (DZIP1L). | AD. Mutaciones en cistogenes policistina 1-2, PKD1 (forma precoz) |
+| Diagnóstico ecográfico | A partir semana 15-20 de gestación. Riñón grande con quistes de tamaño variable (10-30 mm). Formas hidronefróticas. Dilatación vía urinaria contralateral. | Posible a partir semana 30. Riñones hiperecogénicos grandes, con mala diferenciación cortico-medular, microquistes (3-7 mm) en túbulos colectores. Oligoamnios, vejiga vacía e hipoplasia pulmonar. Ecogenicidad hepática | Habitualmente normal. En las formas neonatales los hallazgos son similares a los de PQRAR, pudiendo identificarse quistes de mayor tamaño. |
+| {4} *DRMQ Displasia renal multiquística;PQRAR Poliquistosis renal autosómica recesiva; PQRAD Poliquistosis renal autosómica dominante* |
+
+@p 436
+@caja
+**SE RECOMIENDA**
+- Recoger urocultivo mediante técnica estéril en los neonatos con sospecha de ITU.
+- Realizar ecografía renal en neonato con ITU para descartar CAKUT.
+- Realizar ecografía posnatal, a partir de las 48-72 horas de vida, a todas las dilataciones con DAP ≥7 mm que persistan a las ≥ 32 semanas de gestación.
+- En un neonato varón con vejiga dilatada e hidronefrosis bilateral en la ecografía se debe descartar VUP.
+- Identificar correctamente las patologías que cursan con quistes renales pues su pronóstico y manejo puede ser completamente diferente.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- El envío de urocultivos obtenidos mediante bolsa colectora.
+- La administración sistemática de profilaxis antibiótica en pacientes con RVU.
+- Realizar la ecografía en las primeras 48 horas de vida de manera rutinaria en las dilataciones prenatales, excepto en casos de dilatación grave.
+- La nefrectomía en la DRMQ, salvo casos excepcionales. Tampoco realizar sistemáticamente una cistografía en ausencia de dilatación renal contralateral y/o ITU.
+@fin
+@bib
+1. Lai A, Rove K, Amin S, et al. Diagnosis and management of urinary tract infections in premature and term infants. NeoReviews 2018; 19: e337-e348.
+2. Walawender L, Hains DS, Schwaderer AL. Diagnosis and imaging of neonatal UTIs. Pediatr Neonatol. 2020; 61:195-200.
+3. Nguyen HT, Benson CB, Bromley B, et al. Multidisciplinary consensus on the classification of prenatal and postanatal urinary tract dilation (UTD classification system). J Pediatr Urol 2014; 10: 982-98.
+4. Khare A, Krishnappa V, Kumar D, Raina R. Neonatal renal cystic diseases. J Matern Fetal Neonatal Med. 2018; 31:2923-29.
+5. Raina R, DeCoy M, Chakraborty R, et al. Renal cystic diseases during the perinatal and neonatal period. J Neonatal Perinatal Med. 2021; 14:163-176.

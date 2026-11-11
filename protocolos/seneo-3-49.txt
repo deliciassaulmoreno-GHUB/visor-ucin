@@ -1,0 +1,146 @@
+@f 14. Protocolos SENEO/3.49. Valoración de la función renal. Insuficiencia renal aguda. Síndrome nefrótico congénito
+@p 437
+# 3.49 VALORACIÓN DE LA FUNCIÓN RENAL. INSUFICIENCIA RENAL AGUDA. SÍNDROME NEFRÓTICO CONGÉNITO
+
+*Cèsar W. Ruiz Campillo, Alejandro Cruz Gual, Marc Gómez Grau*
+
+*Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 423-428 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Valoración de la función renal neonatal
+
+La función renal neonatal es difícil de valorar de manera precisa, especialmente en el recién nacido prematuro. Los riñones requieren un complejo proceso de adaptación a la vida posnatal y los resultados de las diferentes exploraciones deben valorarse teniendo en cuenta la historia prenatal, las incidencias durante el parto (incluyendo el tipo y la cantidad de fluidos administrados a la madre), la edad gestacional y la edad posnatal.
+
+Los parámetros principales para valorar la función renal en el neonato son:
+- **Diuresis:** contabilizada en mL/kg/h, se define oliguria si es inferior a 1, se considera normal entre 3 - 4, y poliuria si es >4. La primera micción debe realizarse en las primeras 24 horas de vida, aunque en un 7% de neonatos sanos se demora hasta las 48 horas.
+- **Balance de fluidos:** en los pacientes graves es fundamental. Se deben contabilizar todas las entradas, por pequeñas que sean, y todas las salidas, incluyendo las pérdidas insensibles. Se expresa en % respecto al peso del neonato.
+- **Creatina sérica (Cr~s~):** es el parámetro analítico clave para valorar la función renal, dada su buena correspondencia con la tasa de filtrado glomerular (Filtrado glomerular=0,413xlongitud/Cr~s~), que es mucho más difícil de calcular de forma precisa. El valor normal varía según la edad gestacional y los días de vida (Tabla 1). Se estima que hasta el tercer día de vida el valor de Cr~s~ es equivalente al materno. En los neonatos a término disminuye rápidamente durante las primeras 1-2 semanas de edad hasta llegar a un nadir de 0,2-0,4 mg/dL. En los prematuros este descenso es más lento y el nadir se obtiene a los 1-2 meses. Y en los muy prematuros, la Cr~s~ aumenta tras el nacimiento por la disminución del filtrado glomerular y la reabsorción tubular de creatinina y posteriormente disminuye hasta los 2 meses de edad.
+@p 438
+| {4} **Tabla 1: Percentil 95 de creatinina sérica (mg/dL) en prematuros** |
+|---|---|---|---|
+| | **25-27 semanas** | **28-29 semanas** | **30-33 semanas** |
+| **7 días** | 1,23 | 1,10 | 0,72 |
+| **14 días** | 1,18 | 1,02 | 0,64 |
+| **30 días** | 0,95 | 0,84 | 0,57 |
+
+- Uremia: muy influenciada por el aporte de proteínas, tiene un papel más secundario en la valoración de la función renal, y en determinadas patologías (trastornos del ciclo de la urea, por ejemplo) no es valorable ya que raramente aumenta.
+- Osmolalidad urinaria: la capacidad de concentrar la orina es mucho más limitada que en niños más mayores y no suele ser >700 mOsm/kg en los neonatos a término (y mucho menor en prematuros, factor que incrementa el riesgo de deshidratación).
+- Fracción de excreción de sodio (FENa): definida por la siguiente fórmula:
+  - FENa (%) = (Na orina x Cr plasma) / (Na plasma x Cr orina) x 100
+
+  Su valor normal no está claro, pero es superior al del niño mayor por la menor capacidad de reabsorción del Na (que además suele predominar en el túbulo distal en lugar del proximal).
+
+- **Estudio de orina mediante tira reactiva:** aunque es una determinación semicuantitativa, puede resultar útil para descartar hematuria, proteinuria o glucosuria, que indiquen enfermedad glomerular o tubular (aunque la proteinuria glomerular no se detecta con este método), y a partir de aquí ampliar el estudio.
+- **Natremia, kaliemia y equilibrio ácido-base:** son parámetros adyuvantes a tener en cuenta especialmente ante la alteración de la función renal.
+- **Ecografía renal con valoración Doppler:** es la prueba de imagen de referencia, ya que valora muy bien las características de todas las estructuras del sistema urinario, incluida la vascularización.
+
+## 2 Insuficiencia renal aguda
+
+### 2.1. Definición y clasificación según la gravedad
+
+La insuficiencia renal aguda (IRA) es un indicador independiente de morbilidad y mortalidad neonatal. Se define como la lesión renal aguda que conlleva una reducción marcada del filtrado glomerular, que repercute en la función de filtración y excreción de los riñones. Desde el punto de vista práctico, se habla de IRA cuando la Cr~s~ es mayor a 1,5 mg/dL (133 µmol/L) o experimenta un incremento de 0,2-0,3 mg/dL (17-27 µmol/L) al día. La clasificación más usada es la establecida por KDIGO (Kidney
+@p 439
+Disease: Improving Global Outcomes), que tiene en cuenta la Crs y la diuresis (Tabla 2)
+
+| {3} **Tabla 2. Clasificación de la insuficiencia renal aguda según KDIGO** |
+|---|---|---|
+| **Estadio** | **Crs** | **Diuresis** |
+| **0** | Sin cambio en el valor basal o incremento <0,3 mg/dL | ≥0,5 mL/kg/h |
+| **1** | Incremento ≥ 0,3 mg/dL en 48 h o aumento de 1,5-1,9 veces el valor basal en 7 días | <0,5 mL/kg/h durante 6-12 h |
+| **2** | Aumento de 2-2,9 veces el valor basal en 7 días | <0,5 mL/kg/h durante ≥12 h |
+| **3** | Aumento de ≥3 veces el valor basal en 7 días o Cr~s~ >2,5 mg/dL o necesidad de técnica de reemplazo renal | <0,3 mL/kg/h durante ≥24 h o anuria durante ≥12 h |
+
+### 2.2. Incidencia y factores de riesgo
+
+La tasa de IRA varía según la definición, pero globalmente afecta hasta el 20-40% de los recién nacidos ingresados en las Unidades de Cuidados Intensivos Neonatales. Los principales factores de riesgo son la prematuridad (especialmente los menores de 28 semanas), la asfixia perinatal, las cardiopatías congénitas que requieren cirugía y la oxigenación por membrana extracorpórea (ECMO).
+
+### 2.3. Causas
+
+La IRA puede tener un origen pre-renal (por hipoperfusión renal, un 85% de los casos), renal (lesión parenquimatosa directa o necrosis tubular aguda, un 11% de los casos) o postrenal (por obstrucción a la eliminación de la orina, un 3% casos). (Tabla 3).
+
+| {2} **Tabla 3. Causas de insuficiencia renal aguda (IRA)** |
+|---|---|
+| | **Patologías/situaciones** |
+| **IRA pre-renal** | Hipovolemia, hipotensión arterial sistémica, antiinflamatorios no esteroides, inhibidores de la enzima conversora de la angiotensina, indometacina, policitemia |
+| **IRA renal** | Trombosis venosa/arterial renal, pielonefritis aguda, nefropatía tóxica (aminoglucósidos, vancomicina, anfotericina B, aciclovir, contrastes radiológicos), hemoglobinuria masiva, coagulación intravascular diseminada |
+| **IRA postrenal** | Válvulas de uretra posterior, uropatía obstructiva bilateral, vejiga neurógena |
+
+### 2.4. Manejo
+
+Se basa en solucionar la causa de la IRA y compensar las alteraciones relacionadas con la disfunción renal:
+- *Balance de líquidos estricto:* debe ajustarse a la causa de la IRA y a la situación del
+@p 440
+paciente, que muy frecuentemente presenta edemas generalizados. En caso de oliguria intensa o anuria, las entradas de líquidos no deben superar las pérdidas insensibles + la diuresis. En caso de uropatía obstructiva, puede producirse poliuria intensa tras la resolución de la obstrucción que debe compensarse aumentando las entradas para evitar un daño renal pre-renal añadido.
+
+- *Diuréticos:* uso controvertido. Si hay edema e hipervolemia, se puede probar a administrar furosemida a 1-2 mg/kg y valorar la respuesta. La falta de respuesta es un signo de mal pronóstico.
+- *Ajustar las dosis de las medicaciones:* muchos fármacos son de eliminación renal y la dosis debe reducirse o suspenderse en caso de IRA.
+- *Manejo de las alteraciones electrolíticas:* especialmente importante son la hiponatremia, que se debe tratar principalmente con restricción de agua libre, y la hiperkaliemia. El tratamiento de la hiperkaliemia con repercusión electrocardiográfica se basa en la administración de gluconato cálcico 10% 0,5-1 mL/kg ± insulina y glucosa en infusión endovenosas ± bicarbonato 1M 0,5-1 mEq/kg endovenoso ± furosemida 1-2 mg/kg ± salbutamol nebulizado. Si no se resuelve, se debe plantear iniciar medidas de reemplazo renal.
+- *Manejo de la acidosis metabólica:* el uso de bicarbonato es muy controvertido y actualmente no está recomendado por la falta de evidencia de mejoría incluso de la acidosis. Si la acidosis metabólica es grave y persistente, se debe plantear iniciar una técnica de reemplazo renal.
+- *Hipertensión arterial:* dispone de un protocolo específico.
+
+### 2.5. Pronóstico
+
+Es un proceso grave cuya evolución a largo plazo depende de la gravedad y de la causa. Todos los pacientes afectos de IRA deben recibir un seguimiento por parte de especialistas en Nefrología pediátrica.
+
+## 3 Síndrome nefrótico congénito (SNefC)
+
+Es un conjunto de patologías de origen principalmente genético que se caracterizan por proteinuria masiva, hipoalbuminemia grave y edema y que se presenta dentro de los 3 primeros meses de edad. Existe una gran variabilidad genética, pero el más frecuente y el más grave es el SNefC tipo finlandés, producido por mutaciones recesivas en el gen *NPHS1*. Otras alteraciones genéticas en *NPHS2, WT1, LAMB2 y PLCE1* dan lugar a cuadros de SNefC con características particulares. Las variantes en *NPHS1 y NPHS2* conllevan un síndrome nefrótico aislado y el resto puede ser aislado o asociado a otras malformaciones. Un pequeño porcentaje de casos puede ser producido por infecciones congénitas (toxoplasma, rubeola, citomegalovirus), por lo que es imprescindible descartarlas para poder realizar un tratamiento específico.
+
+### 3.1. Fisiopatología
+
+Se produce por una alteración de la arquitectura de los podocitos, que son células epiteliales glomerulares que forman una de las tres capas de la barrera de filtración glomerular. Ello provoca una proteinuria grave por aumento de la permeabilidad a moléculas mayores.
+@p 441
+### 3.2. Manifestaciones clínicas, analíticas y ecográficas (tabla 4)
+
+| {3} **Tabla 4. Manifestaciones del síndrome nefrótico congénito tipo finlandés** |
+|---|---|---|
+| **Manifestaciones clínicas** | **Datos analíticos** | **Hallazgos ecográficos** |
+| Prematuridad (habitualmente >32 semanas posmenstruales) | Hipoalbuminemia grave (<1 g/dL) | Riñones grandes, hiperecogénicos y con mala diferenciación corticomedular |
+| Placenta grande (>25% del peso del recién nacido) | Hipogammaglobulinemia | |
+| Fontanelas amplias | Hipotiroidismo | |
+| Nariz pequeña y orejas de implantación baja | Urea y creatinina séricas normales | |
+| Deformidades en flexión de extremidades | Aumento de la bilirrubina libre (alto riesgo de kernicterus) | |
+| Edema al nacimiento o los primeros días de vida | | |
+| Ascitis | | |
+| Complicaciones trombóticas | | |
+
+### 3.3. Manejo
+
+El SNefC tipo finlandés siempre es resistente a corticoides y a inmunosupresores, ya que no tiene un origen ni inflamatorio ni inmunológico. El tratamiento definitivo es el trasplante renal, pero hasta ese momento se deben corregir, aunque sea parcialmente, las alteraciones que produce. La tabla 5 resume las diferentes medidas que pueden aplicarse.
+
+| {2} **Tabla 5. Manejo del Síndrome Nefrótico Congénito** |
+|---|---|
+| **Medida** | **Explicación** |
+| Restricción de fluidos | Especialmente en caso de edema. Además, restricción de Na |
+| Nutrición hipercalórica e hiperproteica | Unas 130 kcal/kg/día y al menos 3-4 g/kg/día de proteínas |
+| Infusión de albúmina | 1-4 g/kg/día de albúmina al 20% endovenosa. Se puede administrar domiciliariamente |
+| Furosemida | Útil si hipervolemia y tras la infusión de albúmina (0,5-2 mg/kg). Puede combinarse con tiacidas y espironolactona |
+| Captopril | Para reducir la proteinuria, iniciar a 0,01-0,5 mg/kg/8 h y se puede incrementar hasta 2 mg/kg/8 h |
+| Antitrombóticos | Controvertidos. Puede valorarse antitrombina-III en algunos casos (sepsis grave o procedimientos quirúrgicos) |
+| Profilaxis infecciosa | Antibióticos profilácticos no indicados. Infusión de gammaglobulina reservada para casos con infecciones graves. Deben administrarse todas las vacunas |
+@p 442
+@pie Tabla 5. Manejo del Síndrome Nefrótico Congénito (continuación)
+| Otros fármacos | Levotiroxina según valor de TSH. Suplementos de vitamina D y de calcio frecuentemente necesarios |
+| Otras medidas | Reducir al mínimo el uso de accesos vasculares, especialmente de vías centrales por el riesgo de trombosis |
+| Nefrectomía uni o bilateral | Para casos de proteinuria incontrolable |
+| Heparina/ Anticoagulantes | Si antecedentes de trombosis o portador de catéter central |
+| Antibioticoterapia | Importante iniciar precozmente si sospecha de infección. La primera causa de muerte en el 1º año de vida son las infecciones. |
+
+@caja
+**SE RECOMIENDA**
+- Para valorar la función renal neonatal, tener en cuenta el grado de desarrollo de los riñones.
+- En caso de insuficiencia renal aguda neonatal, realizar un manejo escrupuloso del balance de líquidos, ya que el 85% de los casos son de origen pre-renal y suelen acompañarse de oliguria o anuria.
+- Considerar el diagnóstico de síndrome nefrótico congénito en caso de hipoalbuminemia grave y edemas generalizados.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Utilizar altas dosis de diuréticos en caso de oligoanuria con insuficiencia renal por la poca respuesta esperable y los efectos adversos asociados.
+- Tratar la acidosis metabólica con bicarbonato en caso de insuficiencia renal.
+- Administrar antibióticos profilácticos en caso de síndrome nefrótico congénito, pese a la hipogammaglobulinemia asociada.
+@fin
+@bib
+1. Starr MC, Charlton JR, Guillet R, et al.; Neonatal Kidney Collaborative Board. Advances in Neonatal Acute Kidney Injury. Pediatrics 2021;148:e2021051220.
+2. Nada A, Bonachea EM, Askenazi DJ. Acute kidney injury in the fetus and neonate. Semin Fetal Neonatal Med. 2017;22:90-97.
+3. Mattoo TK. Neonatal acute kidney injury: Pathogenesis, etiology, clinical presentation, and diagnosis. UpToDate. Feb 2022.
+4. AbuMaziad AS, Abusaleh R, Bhati S. Congenital nephrotic syndrome. J Perinatol 2021;41:2704-2712.
+5. Boyer O, Schaefer F, Haffner D, et al. Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN Working Group. Nat Rev Nephrol 2021; 17:277-289.
