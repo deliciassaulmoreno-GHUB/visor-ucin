@@ -1,0 +1,112 @@
+@f 14. Protocolos SENEO/3.40. Nutrición enteral y oral en el neonato enfermo. Suplementos nutricionales
+@p 385
+# 3.40 NUTRICIÓN ENTERAL Y ORAL EN EL NEONATO ENFERMO. SUPLEMENTOS NUTRICIONALES
+
+*Ana María Campos Martínez, Elisabeth Fernández Marín, José Uberos Fernández.*
+
+*Hospital Universitario San Cecilio, Granada*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 371-375 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Entendemos por recién nacido (RN) críticamente enfermo a todo RN con cualquier afección potencialmente mortal, que puede ser inducida por sepsis, cirugía mayor o cualquier agresión asociada con lesión tisular o enfermedad aguda que requiera tratamiento intensivo.
+
+El gasto energético en pacientes críticamente enfermos es inferior al gasto energético de RN sanos en crecimiento. En el caso de prematuros enfermos, se recomienda durante la fase aguda inicial cubrir las necesidades basales de energía y macronutrientes.
+
+Las necesidades teóricas de energía y macronutrientes en neonatos críticamente enfermos aparecen en la siguiente tabla.
+
+@ancha
+| {7} **Tabla 1. Necesidades teóricas de energía y macronutrientes durante las fases de una enfermedad crítica del recién nacido** |
+|---|---|---|---|---|---|---|
+| | {3} **Recién nacidos prematuros** | {3} **Recién nacidos a término (<28 d)** |
+| | **Fase precoz** | **Fase tardía** | **Recuperación** | **Fase precoz** | **Fase tardía** | **Recuperación** |
+| Energía (Kcal/Kg/d) // N. enteral // N. Parenteral | // 40-55 // 40-55 | // 70-95 // 60-80 | // 110-160 // 90-120 | // 35-50 // 15-40 | // 55-80 // 45-70 | // 90-120 // 75-85 |
+| Glucosa (g/Kg/d) // N. enteral // N. parenteral | // 5-8 // 5-8 (10) | // 7-11 // 7-10 (12) | // 11-15 (18 // 11-14 (17) | // 4-6 // 4-7 (10) | // 6-10 // 6-10 | // 9-15 // 8-14 |
+| Glucosa (mg/Kg/min) // N. enteral // N. parenteral | // 3.5-5,5 // 3.5-5,5 | // 5-7.5 // 5-7 | // 3.5-4.5 // 2.5-3.5 | // 3.5 // 3.5 | // 4-7 // 4-7 | // 6-10.5 // 5.5-10 |
+| Proteínas (g/Kg/d) // N. enteral // N. parenteral | // 1.0-2.0 // 1.0-2.0 | // 2.0-3.0 // 2.0-3.0 | // 3.5-4.5 // 2.5-3.5 | // <1.5 // 0 (-1.0) | // 1.5-2.5 // 1.5-2.5 | // 2.0-3.5 // 2.0-3.0 |
+@p 386
+@pie Tabla 1. Necesidades teóricas de energía y macronutrientes durante las fases de una enfermedad crítica del recién nacido (continuación)
+| | **Fase precoz** | **Fase tardía** | **Recuperación** | **Fase precoz** | **Fase tardía** | **Recuperación** |
+| Grasas (g/Kg/ día) // N. enteral // N. parenteral | // 2.0-3.0 // 1.0-2.0 | // 3.0-6.0 // 2.0-3.0 | // 5.0-8.0 // 3.0-4.0 | // <3.0 // 0 (-1.5) | // 3.0-4.5 // 1.5-2.5 | // 4.0-6.0 // 3.0-4.0 |
+| {7} *Cuando se suplementa, los aportes de NE deben restarse del total de aportes* |
+
+## 1 Nutrición enteral
+
+Según la European Society of Pediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN), la nutrición enteral mínima podría iniciarse dentro de las primeras 48h de vida cuando sea posible.
+
+La vía recomendada para administrar soporte nutricional durante la enfermedad crítica es la enteral (nutrición enteral (NE)) si es posible. Muchos prematuros y RN críticamente enfermos reciben apoyo nutricional por vía parenteral debido a la inmadurez del sistema gastrointestinal o a que no se ha establecido una alimentación enteral completa. Sin embargo, la nutrición enteral mínima (NEM), generalmente definida como la administración de volúmenes de leche nutricionalmente insignificantes de 12–24 ml/kg/día se recomienda SIEMPRE que sea posible para mantener la integridad intestinal.
+
+Se recomienda aumentar gradualmente la ingesta de nutrientes (1,3 - 1,5 veces el gasto energético en reposo) cuando el estado clínico y la respuesta inflamatoria se estén resolviendo. La transición de la fase catabólica a la anabólica parece comenzar entre 3 y 7 días después de la lesión, pero puede ocurrir antes (24 a 48 horas) en prematuros o RN con enfermedad menos grave o retrasarse en RN con lesiones graves.
+
+Durante la fase de recuperación, hay que considerar aumentar el objetivo por encima de las necesidades estimadas para cubrir los déficits acumulados y promover el crecimiento compensatorio.
+
+El uso de nutrición enteral con respecto a la nutrición parenteral disminuye las complicaciones infecciosas y la duración de la estancia en la UCIN, muy probablemente causada por la reducción de la ingesta de macronutrientes con la NE.
+
+En la figura 1 se recogen las recomendaciones para el manejo nutricional en recién nacidos críticamente enfermos, según la ESPGHAN.
+@p 387
+@img seneo-3-40-fig1.png
+*Figura 1. Recomendaciones para el manejo nutricional en recién nacidos críticamente enfermos (1) según la ESPGHAN*
+
+En 2020, la European Society of Pediatric and Neonatal Intensive Care (ESPNIC) estableció una serie de recomendaciones sobre nutrición enteral en el neonato críticamente enfermo, que son las siguientes.
+
+- Se recomienda aumentar la nutrición enteral de forma escalonada hasta que se logre la meta establecida, utilizando un protocolo o guía de alimentación (grado de recomendación D).
+- La nutrición enteral temprana se recomienda en recién nacidos a término que están estables en soporte vital extracorpóreo (grado de recomendación D), también en aquellos que se encuentren estables con soporte hemodinámico farmacológico (guías de práctica clínica) y en niños tras cirugía cardíaca (grado de recomendación C)
+- Se debe considerar la nutrición enteral en recién nacidos a término críticamente enfermos con catéteres arteriales umbilicales (grado de recomendación D) y también en aquellos que reciben infusión de PGE1 si se manejan en una unidad de cuidados intensivos con observación y monitorización adecuados (grado de recomendación D).
+- Se puede considerar una ingesta mínima de proteínas enterales de 1,5 g/kg/día para evitar un balance proteico negativo (grado de recomendación B). No hay suficiente evidencia disponible para apoyar el uso de la ingesta adicional de proteínas/aminoácidos durante la fase aguda de la enfermedad (grado de recomendación D).
+@p 388
+- No hay evidencia que sugiera que la alimentación enteral continua o intermitente/ en bolo obtenga mejores resultados (grado de recomendación B).
+- No se recomienda la medición de rutina de volumen gástrico residual (VGR) en niños críticamente enfermos (grado de recomendación D).
+
+## 2 Suplementos nutricionales
+
+| {4} **Tabla 2. Composición fortificantes de LM y suplementos proteinicos** |
+|---|---|---|---|
+| **Composición** | **PreNAN Human Milk Fortifier (por 100 gr)** | **PreNAN Protein Fortifier (por 100 gr)** | **Resource Instant Protein (por 100 gr)** |
+| Proteínas (gr) | 35,5 | 72,4 | 90 |
+| Hidratos de carbono (g) | 32,4 | 13 | 0,5 |
+| Grasas (g) | 18,1 | 0,6 | 1 |
+| Na (mg) | 65 | 850 | <40 |
+| K (mg) | 1210 | 2400 | <40 |
+| Ca (mg) | 1890 | 1300 | 1400 |
+| P (mg) | 1095 | <110 | 740 |
+| Mg (mg) | 100 | <30 | |
+| Cl (mg) | 803 | 530 | |
+| I (ug) | 423 | | |
+| Zn (mg) | 23,5 | | |
+| Cu (mg) | 1,3 | | |
+| Fe (mg) | 45 | | |
+| Energía (kcal) | 435 | 347 | 371 |
+| Osm (mOsm/L) | 339 | | |
+| Dosificación habitual | 4 gr/100 ml de LM | Según necesidad | 10-15 gr/150ml |
+
+@ancha
+| {5} **Tabla 3. Composición suplementos vitaminicos** |
+|---|---|---|---|---|
+| **Composición** | **Hidropolivit gotas (1 ml=28 gotas) Por 1 ml** | **Protovit (1 ml=25 gotas) Por 9 gotas** | **Glutaferro (1 ml=170 mg ferroglicina sulfato (=30 mg hierro)) Por 1 ml** | **FerVit gotas (1 ml) Por 1 ml** |
+| Fe (mg) | | | 30 | 7 |
+| Retinol (vit A) | 1500 UI | 667 UI | | |
+| Colecalciferol (vit D) | 600 UI | 200 UI | | 30 UI |
+@p 389
+@pie Tabla 3. Composición suplementos vitaminicos (continuación)
+| Alfa tocofenol (vit E) | 10 mg | 3,75 mg | | |
+| Tiamina (vit B1) | | 0,50 mg | | |
+| Riboflavina (vit B2) | 2 mg | 0,38 mg | | |
+| Piridoxina (vit B6) | 1,6 mg | 0,50 mg | | |
+| Ac ascórbico (vit C) | 50 mg | 20 mg | | |
+| Biotina | 0,125 mg | | | |
+| Nicotinamida | 12,5 mg | | | |
+| Dosificación habitual | 10 gotas/12h | 6 gotas/12h | Según necesidad | Según necesidad |
+
+@caja
+**SE RECOMIENDA**
+- Iniciar la nutrición enteral trófica dentro de las primeras 48 horas de vida siempre que sea posible (incluídos pacientes con soporte hemodinámico, perfusion de PG, cateterización arteria umbilical, etc).
+- Aumentar gradualmente la ingesta de nutrientes (1,3 - 1,5 veces el gasto energético en reposo) cuando el estado clínico y la respuesta inflamatoria se estén resolviendo.
+- El uso de una nutrición enteral mínima se recomienda SIEMPRE que sea posible para mantener la integridad intestinal.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No hay suficiente evidencia para recomendar la nutrición enteral continua vs intermitente (en bolo) ni viceversa.
+- No se recomienda medir volumen gástrico residual en neonatos enfermos.
+@fin
+@bib
+1. Moltu SJ, Bronsky J, Embleton N, et al. Nutritional Management of the Critically ill Neonate: A Position Paper of the ESPGHAN Committee on Nutrition. J Pediatr Gastroenterol Nutr 2021; 73:274-289.
+2. Tume LN, Valla FV, Joosten K, et al. Nutritional support for children during critical illness: European Society of Pediatric and Neonatal Intensive Care (ESPNIC) metabolism, endocrine and nutrition section position statement and clinical recommendations. Intensive Care Med 2020 ;46:411-425.
+3. Torres Martínez E, García Robles AA, Gormaz Moreno M, et al. Efecto de la adición de fortificantes y de módulo de proteínas en la osmolalidad de la leche materna donada An Pediatr 2020;93:297-304.

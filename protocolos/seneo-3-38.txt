@@ -1,0 +1,162 @@
+@f 14. Protocolos SENEO/3.38. Inmunodeficiencias primarias y secundarias
+@p 371
+# 3.38 INMUNODEFICIENCIAS PRIMARIAS Y SECUNDARIAS
+
+*Carmen Carreras Gil de Santivañes^1^, Francisco M. Marco De la Calle^2^, Héctor D. Rodríguez Vega^3^*
+
+*^1^Hospital Universitari i Politècnic La Fe, Valencia; ^2^Hospital General Alicante; ^3^Centro de Atención Primaria Burjasot, Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 357-363 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Las inmunodeficiencias (ID) son un grupo amplio y heterogéneo de enfermedades caracterizados por una respuesta inmunológica cuantitativa y/o cualitativamente anómala. Según su origen se clasifican en Primarias (IDP) cuando derivan de una alteración genética, o en Secundarias (IDS) cuando son generadas a partir de otra patología o influencia de medicación inmunosupresora.
+
+Las principales consecuencias de las ID son el aumento del riesgo de padecer infecciones graves y/o recurrentes, desregulación inmunológica con autoinmunidad y/o hiperinflamación o linfoproloferación / cáncer.
+
+Actualmente hay descritas más de 400 entidades agrupadas según el defecto inmunológico predominante subyacente. De todas ellas, solo una minoría debutan en el periodo neonatal, pero por la gravedad que conllevan, es vital su reconocimiento y tratamiento precoz del que depende la supervivencia del paciente y el consejo genético en el caso de las primarias.
+
+## 1 Dificultades diagnósticas
+
+- Características rápidamente cambiantes del sistema inmunológico del recién nacido (RN) reflejo de la adaptación al paso a la vida extrauterina que dificultan la interpretación de los estudios inmunológicos
+- Superposición de las manifestaciones características de las IDP con la propia de algunas patologías del RN crítico, especialmente del prematuro (ej: displasia broncopulmonar, enterocolitis necrosante)
+- Tipo de pruebas diagnósticas requeridas para el diagnóstico muy específicas, uso infrecuente, difícil interpretación, volumen requerido, valores referencia poco claros ...
+
+El trabajo conjunto entre neonatólogos y pediatras habituados al manejo de las ID desde el primer momento de la sospecha clínica es la mejor forma alcanzar un diagnóstico y tratamiento precoz
+@p 372
+## 2 Signos/síntomas de alarma
+
+Existen muchos signos/síntomas de alerta sobre la presencia de una IDP: la historia clínica detallada es imprescindible.
+
+- ***Antecedentes familiares:***
+  - Historia familiar de IDP o sugestiva → Estudio inmediato dirigido si se trata de formas graves.
+  - Consanguinidad
+  - Fallecimientos tempranos sin causa clara
+  - Hidrops no inmune o muertes fetales recurrentes
+  - Infecciones graves o recurrentes o por un mismo germen. El sexo de miembros afectados puede ayudar a establecer el patrón de herencia.
+- ***Infecciones***
+
+La predisposición a infecciones graves, recurrentes, atípicas ya sea por la forma, germen y/o evolución (necesidad de prolongar/intensificar el tratamiento antimicrobiano, soporte ventilatorio avanzado.....) son los síntomas alerta más reconocidos de IDP clásicas.
+
+El tipo de infección y germen responsable están muy ligados al defecto subyacente y es de gran ayuda para orientar el estudio. Es importante el estudio bacteriológico exhaustivo con búsqueda intencionada de patógenos no habituales en las infecciones que no evolucionen adecuadamente.
+
+La necesidad de ingreso por infección no se considera por sí mismo factor riesgo en esta edad pues por protocolo los RN con sospecha de infección ingresan independientemente de su gravedad.
+
+Desde la instauración de medidas sistemáticas para evitar de trasmisión perinatal por herpes simple (VHS), las infecciones neonatales por este agente han disminuido notablemente. Su aparición sin factores perinatales de riesgo se considera un signo de alarma de IDP.
+
+- ***Linfopenia***
+
+La linfopenia persistente siempre es motivo de alarma de una posible inmunodeficiencia T. Solo un 10-20% de IDC graves tienen un recuento linfocitario normal. En la mayoría de los neonatos con inmunodeficiencia combinada grave (SCID) muestran linfocitos inferiores a 3000/ml, pero pueden llegar a recuentos < 0'5 x10^9^/L en las formas T-B- como el déficit de adenosina desaminasa (ADA).
+
+- ***Retraso en la caída del cordón umbilical***
+
+EL retraso en la caída del cordón más allá del mes de vida es un signo de alarma de IDP por déficit de moléculas de adhesión leucocitaria. Asocia onfalitis y leucocitosis importante (>50.000/mm3). Un recuento leucocitario normal hace muy improbable este diagnóstico. Una neutropenia severa también puede producir el retraso en la caída del cordón.
+@p 373
+- ***Eritrodermia/eccema o exantemas extensos***
+
+Cualquier afectación cutánea extensa (eritrodermia, eccema, urticaria, ...) en el RN es signo de alarma por su asociación con IDP potencialmente muy graves como Síndrome Omenn o enfermedad injerto contra receptor mediada por linfocitos maternos en niños con SCID.
+
+Existen otras muchas IDP graves con afectación dermatológica prominente (Inmunodisregulacion-Poliendocrinopatia- Enteropatía ligado X= IPEX, Wiscoott Aldrich, DOCK 8...) pero suelen ser más tardías y asociadas a otras patologías que ayudan a su identificación.
+
+- ***Autoinmunidad***
+
+Los fenómenos autoinmunes NO secundarios al paso transplacentario de auto-anticuerpos maternos son raros en el periodo neonatal. Su aparición fuera de este contexto debe alertarnos de una posible IDP por desregulación. La patología autoinmune más frecuente son las endocrinopatías especialmente la diabetes mellitus o hipotiroidismo.
+
+- ***Manifestaciones Digestivas / Desmedro***
+
+Las manifestaciones digestivas son uno de los síntomas más frecuentes en los niños con IDP. Una mala curva de peso con desnutrición progresiva en los primeres meses de vida con o sin diarrea crónica, es un signo de alarma característico de las IDP Combinadas.
+
+Otras IDP pueden ser causa Enfermedad inflamatoria intestinal de inicio muy precoz asociadas especialmente a defectos en la vía IL10 o con la Enfermedad Granulomatosa Crónica. Aunque el manejo del problema digestivo sea similar, conocer si subyace una IDP es necesario para considerar tratamientos dirigidos o curativos como el trasplante de progenitores hematopoyéticos (TPH).
+
+- ***Asma asma/alergia/Urticaria***
+
+La presencia de asma y alergia son preocupantes cuando son múltiples y graves. Es raro su aparición antes del mes de vida por la poca exposición y por requerir un periodo previo de sensibilización. Las entidades más asociadas a los fenómenos alérgicos son los síndromes Hiper IgE o algunas auto inflamatorias en forma de urticaria.
+
+- ***Linfoproliferación benigna/ Hepato-esplenomegalia***
+
+La presencia de hepatoesplenomegalia (HEM) no es un hallazgo raro en el recién nacido con infecciones perinatales y puede ser difícil distinguir si hay una ID subyacente.
+
+Su aparición con citopenia puede signo de debut neonatal de una Linfohistiocitosis Hemofagocítica Familiar o asociada a otras IDP que requiere de actuación inmediata. Monitorizar niveles de triglicéridos, IL6, IL2s, ferritina y fibrinógeno puede ayudar al diagnóstico y a la toma de decisiones terapéuticas.
+@p 374
+## 3 Principales IDP de inicio neonatal
+
+Las principales IDP de debut neonatal se encuentran dentro del grupo de las combinadas, defectos de la inmunidad innata o por desregulación inmunológica. Las ID predominantemente humorales tienen poca representación por el efecto protector del paso transplacentario de la IgG materna.
+
+- ***Inmunodeficiencias combinadas***
+
+Estas ID afectan a la inmunidad humoral y adaptativa. Suelen ser RN sanos con infecciones precoces por bacterias, hogos y/o virus. El desmedro, diarrea prolongada, muguet persistente y neumonías bilaterales son las formas de presentación más frecuente de las formas graves.
+
+*1. Inmunodeficiencia combinada severa (IDCS) y las IDC Incompletas o "Lacky"*, Las IDCS son las formas más graves de este grupo con mortalidad del 100% antes del año de vida si no se hace un TPH. Existe una superposición genética entre ambos fenotipos (IDCS/IDC) con mutaciones que pueden causar ambos fenotipos. Los principales criterios analíticos para su diagnóstico diagnósticos se muestran en la tabla 1.
+
+Todos los pacientes con alta sospecha de IDCS deben permanecer lo más aislados posible, recibir profilaxis antimicrobiana y hemoderivados filtrados e irradiados. El cribado neonatal mediante la determinación de TRECS (T-Cell Receptor Excision Circles) permite la detección y tratamiento precoz de esos pacientes de lo que depende su supervivencia.
+
+La determinación de subpoblaciones linfocitarias básicas no debe demorarse, el estudio de linfocitos T vírgenes y de los recientes emigrantes tímicos son pruebas accesibles, rápidas y muy útiles para detectar estos pacientes. Es imprescindible el estudio funcional de proliferación linfocitaria para asentar el diagnóstico y el genético para adecuar el tratamiento y dar consejo genético familiar.
+
+*2. IDC sindrómicas:* Se trata de enfermedades que asocian múltiples alteraciones fuera del sistema inmunológico (rasgos dismórfico, displasia ósea, cardiopatía, microcefalia, hipocalcemia, trombopenia ....) que suelen ser las manifestaciones predominantes que permiten su reconocimiento precoz.
+
+| **Tabla 1. Criterios diagnósticos de las Inmunodeficiencias Combinadas** |
+|---|
+| ***Criterios Diagnósticos IDCS*** // • CD3 < 200 /mm3 + proliferación con PHA <10% límite inferior normal o Injerto células maternas // ***Criterios Diagnósticos IDC "leacky" o incompleta (2 de 3)*** // • CD3 < 2 a <1000/mm3 , 2-4 años < 800/mm3 , > 4 años <600/m3 + PHA < 30 % // • Ausencia linfocitos maternos // ***Síndrome Omenn*** // • Exantema difuso, HEM, linfadenopatía, hiper IgE, Eosinofilia // • Ausencia de injerto materno // • CD 3 > 300/mm3 /PHA <30%/TCR oligoclonal /Predominio (>80% ) CD3 o CD4 isoforma RO |
+| *HEM: hepatoesplenomegalia; PHA: Phytohemmaglutinina; TCR: receptor de los linfocitos T* |
+
+@p 375
+La ID subyacente en estos pacientes suele ser menos grave que en el grupo anterior, pero puede ser muy profunda por lo que es obligado su estudio precoz. La colaboración de especialistas en dismorfología y genética es de gran ayuda.
+
+- ***Defectos en número y función neutrófilos:***
+
+*1. Neutropenias congénitas.* Pueden ir o no asociadas a asociadas a fallo medular (suelen ser más tardías). Infecciones bacterianas gram negativas, gingivitis, aftas orales recurrentes son las manifestaciones más frecuentes. Su tratamiento se basa en antibioticoterapia de amplio espectro en las infecciones, factor estimulante de colonias de granulocitos (GCSF), y TPH en algunas ocasiones
+
+*2. Defecto función neutrófilos.* Cursan predominantemente con infecciones bacterianas y hongos. Se distinguen dos grupos con morbimortalidad diferente:
+  - *2A. Defecto motilidad* en las que las que son características infecciones fulminantes con ausencia de pus.
+
+Su diagnóstico se puede hacer con la medición en neutrófilos de la expresión CD18 (LADI) o CD 15 (LADII).
+
+  - *2B. Defecto oxidación (Enfermedad Granulomatosa Crónica)* Puede debutar en el RN como Aspergilosis pulmonar, abscesos viscerales o síndrome Hemofagocítico. Su diagnóstico habitual se hace mediante test oxidación como el de DHR. Hay que iniciar profilaxis antimicrobiana con cotrimoxazol e itraconazol en cuanto la edad lo permita.
+- ***Déficit Inmunidad Innata.***
+
+Agrupan un gran número de enfermedades muy heterogéneas caracterizadas por infecciones graves limitadas a un grupo determinado de gérmenes que determina su clasificación y orientación diagnóstica. Los principales grupos son los defectos con susceptibilidad a Infecciones piogénicas (Neumococo, Estaphilococo Aureus y Pseudomona), cándida; Mycobacterias o Encefalitis herpética. El diagnostico de laboratorio es difícil con pruebas muy específicas.
+
+- ***Defectos por desregulación inmunológica***
+
+*1. Síndromes Hemofagocíticos familiares o asociados a otras IDP:* El 45% debutan de neonato, se producen por defecto funcional en la citoxicidad o degranulación de los NK. Existen formas fetales y asociados a insuficiencia hepática aguda con alta mortalidad. Es fundamental diferenciar los primarios de los desencadenados por una infección, lo que puede ser difícil.
+
+La presencia de un germen como desencadenante de un cuadro de activación macrofágica NO excluye una IDP subyacente. El estudio genético y funcional (citoxicidad y degranulación NK fundamentalmente) son complementarios y es recomendable hacer los dos.
+
+*2. IPEX:* se debe a defectos de los linfocitos T Reguladores (perdida CD4+ CD25 + con expansión incontrolada de CD4 efectores. Inicio muy precoz, incluso intraútero con pérdidas fetales, hidrops... Cursa con infiltración linfocitaria multisistémica y autoinmunidad múltiple (enteropatía, diabetes, hiper-hipotiroidismo, dermatitis, especialmente).
+@p 376
+*3. ALPS:* Defecto en la apoptosis. Se puede presentar en el RN hasta en un 10% de los casos con visceromegalias. Los fenómenos autoinmunes son más tardíos y variables. Es característico el aumento de los linfocitos T CD3- CD4-
+
+- ***Autoinflamatorias***
+
+Se caracterizan por activación de las vías de señalización inflamatoria produciendo fiebre, inflamación estéril multisistémica (cutánea, ósea, meningitis aséptica... ) de aparición intraútero o muy precoz. El diagnóstico se hace fundamentalmente por estudio genético. Las principales entidades son:
+1. Enfermedad Inflamatoria Multisistémica de inicio neonatal (CINCA/NOMID). Se engloba dentro de las fiebres periódicas. Cursa con infiltración neutrofílica multisistémica con fiebre recurrente, afectación cutánea, cocleitis e inflamación estéril ósea.
+2. Déficit antagonista del Receptor IL1R (DIRA). Clínica de dificultad respiratoria, pustulosis, inflamación articular, osteomielitis multifocal y periostitis. Puede ser mortal si no se instaura precozmente tratamiento con Anakinra.
+3. Interferonopatías: La enfermedad de Aiccardi-Goutieres es el prototipo. Cursa con encefalopatía precoz, calcificación de los ganglios basales y meningitis aséptica que puede simular una infección TORCH.
+
+La aparición de inflamación multisistémica + elevación mantenida de reactantes de fase aguda sin evidencia de infección es sugestivo de trastorno autoinflamatorio.
+
+## 4 Inmunodeficiencias secundarias
+
+Existen muchas causas de IDS con repercusión clínica variable. Destaca la ingesta de corticoides y/o inmunosupresores maternos que pueden incluso dar un falso positivo en el cribado neonatal. También hay que considerar enfermedades caracterizadas por la pérdida de proteínas por orina o tubo digestivo. En estas ocasiones se puede producir una hipogamaglobulinemis G severa (<200 mg/dl) susceptible de tratamiento de reemplazo si asocia infecciones frecuentes/graves.
+
+La presencia de anticuerpos anti-granulocitarios en la madre puede producir neutropenia severa en el recién nacido.
+@caja
+**SE RECOMIENDA**
+- La posibilidad de una IDP debe estar presente de forma prioritaria en el diagnóstico diferencial de cualquier afectación cutánea extensa del recién nacido.
+- El desmedro con /sin diarrea es un síntoma característico de las IDP potencialmente muy grave. Al igual que las afectaciones cutáneas extensas, se deben incluir en los primeros escalones del diagnóstico diferencial especialmente cuando el curso es desfavorable y no hay causa.
+- El diagnóstico de una IDCS es una urgencia. Su cribado neonatal mediante determinación de TRECS permite un diagnóstico y tratamiento precoz.
+@p 377
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Infravalorar la presencia de una linfopenia persistente.
+- Subestimar o demorar el diagnostico de un paciente con clínica de posible IDP por considerar que son trastornos raros o que se confundan con clínica propia del RN.
+- No se debe considera una mutación de significado incierto como causa de la enfermedad si no se apoya con un estudio funcional de la vía afecta y siempre según recomendaciones de genética.
+- No se debe dar por concluido el estudio de un paciente con clínica sugestiva de IDP aunque las exploraciones complementarias realizadas incluidas las genéticas sean negativas. Se debe mantener cuanto menos el seguimiento clínico y/o consultar con unidades de más experiencia.
+- No considera la presencia/ausencia de cosanguinidad: es un dato clave en la orientación del paciente.
+- No es necesario iniciar tratamiento de reemplazo con inmunoglobulinas a todo paciente con hipogamaglobunemia G solo cuando este es severo y/o hay clínica asociada.
+@fin
+@bib
+1. E. O'Connell. Primary Immunodeficiency in the NICU. Neoreviews 2019; 20: e67-e78.
+2. Carneiro-Sampaio M, de Jesus AA, Bando SY, et al. Inborn Errors of Immunity With Fetal or Perinatal Clinical Manifestations. Front Pediatr 2022;10:891343.
+3. Bousfiha A, Jeddane L, Picard C, et al. Human Inborn Errors of Immunity: 2019 Update of the IUIS Phenotypical Classification. J Clin Immunol. 2020;40:66-81.
+4. Gordon SM, O'Connell AE. Inborn Errors of Immunity in the Premature Infant: Challenges in Recognition and Diagnosis. Front Immunol. 2021; 12:758373.
+5. Ozdemir O. Primary immunodeficiency diseases in the newborn. North Clin Istanb 2021;8:405-413.
+6. Tangye SG, Al-Herz W, Bousfiha A, et al. Human Inborn Errors of Immunity: 2019 Update on the Classification from the International Union of Immunological Societies Expert Committee. J Clin Immunol. 2020; 40:24-64.
