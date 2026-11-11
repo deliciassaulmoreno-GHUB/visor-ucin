@@ -1,0 +1,144 @@
+@f 14. Protocolos SENEO/3.51. Hipertensión arterial neonatal
+@p 449
+# 3.51 HIPERTENSIÓN ARTERIAL NEONATAL
+
+*María de Brugada Montaner, Ana Ledo García*
+
+*Hospital Universitari i Politècnic La Fe, Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 435-441 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La hipertensión (HTA) neonatal tiene una incidencia entre el 0.2 y el 3%, siendo mayor en el grupo de recién nacidos (RN) pretérmino. Su importancia radica en la morbilidad asociada y en su posible repercusión en el riesgo cardiovascular en la edad adulta.
+
+## 1 Definición- Valores de Normalidad
+
+Se define **HTA neonatal** como una presión arterial sistólica (PAS) o diastólica (PAD) superior al p95 (+ 2 DE), en 3 tomas realizadas en momentos distintos, según los valores de referencia para su edad gestacional y postnatal.
+
+En el RN a término, en el primer día de vida, las cifras normales de presión arterial (PA) son 70/40 (media 55) mmHg. Durante los primeros 14 días de vida, se produce un aumento fisiológico de 1-2 mmHg cada día, para finalmente alcanzar el valor medio de 90/55, cifras que se mantendrán hasta los 12 meses de edad aproximadamente. A efectos prácticos una PA > 90/60 mmHg en un RN a término debe ser evaluada.
+
+En el RN pretérmino la presión arterial el primer día de vida tiene fuerte correlación con la edad gestacional y el peso al nacimiento, los valores también sufren un aumento progresivo a lo largo de los primeros 14 días de vida, y de modo general se considera HTA:
+- Recién nacido pretérmino < 28 semanas: valores > 70/50 mmHg.
+- Recién nacido pretérmino > 28 semanas: valores > 80/50 mmHg.
+- A partir de los 14 días de vida consideraremos igual que en el RNT, cifras > a 90/60. En las tablas 1 a 4 se exponen los valores de normalidad de PAS/PAD en el RN pretérmino y a término, desde las primeras horas de vida hasta las cifras esperadas a partir de las 2 semanas de vida.
+@img seneo-3-51-t1.png
+*Tabla 1. Valores de presión arterial en el recién nacido de 23 a 25 semanas de edad gestacional. RNPT: recién nacido prematuro; SG: semanas de gestación: S: sistólica; D: diastólica; M: media.*
+
+@p 450
+@img seneo-3-51-t2.png
+*Tabla 2. Valores de presión arterial en el recién nacido de 28 a 36semanas de edad gestacional. EG: edad de gestación: S: sistólica; D: diastólica; M: media*
+
+@img seneo-3-51-t3.png
+*Tabla 3. Valores de presión arterial en el recién nacido de 37 a 42 semanas de edad gestacional. SG: semanas de gestación: S: sistólica; D: diastólica; M: media*
+
+@img seneo-3-51-t4a.png
+@p 451
+@img seneo-3-51-t4b.png
+*Tabla 4. Valores de referencia de presión arterial a partir de las 2 semanas de vida. PAS: presión arterial sistólica; PAD: presión arterial diastólicas; PAM: presión arterial media.*
+! Las Tablas 1 a 4 se muestran como imagen recortada del PDF por la densidad de cifras. En la Tabla 4, a las 26 semanas, la PAM figura con p95 (37) menor que p50 (38); así está impreso.
+
+## 2 Etiología de HTA
+
+Las causas más frecuentes de HTA son la enfermedad renovascular y las anomalías del parénquima renal (anomalías congénitas del riñón y del tracto urinario, displasia renal, uropatía obstructiva, poliquistosis renal o enfermedad renal parenquimatosa adquirida)
+
+Dentro de la enfermedad renovascular cabe destacar la HTA secundaria a la canalización de la arteria umbilical. El catéter lesiona el endotelio vascular dando lugar a la formación de trombos que pueden no ser detectados mediante ecografía, se produce una disminución del flujo y una elevación de la producción de renina exacerbando la HTA. Otras causas menos frecuentes con origen renovascular son la trombosis de la vena renal, la estenosis de la arteria renal (se asocia a Síndrome de Williams, neurofibromatosis...) y la coartación de aorta
+
+La displasia broncopulmonar (DBP) es la causa no renal más frecuente en el recién nacido
+@p 452
+pretérmino con una incidencia del 13 al 43% en aquellos con DBP, parece relacionarse con el aumento en la actividad simpática y de la angiotensina II y se correlaciona con la gravedad de la enfermedad, además aquellos pacientes que reciben tratamiento con corticoides en el periodo postnatal presentan un aumento en el riesgo de presentar HTA.
+
+Otras causas de HTA neonatal son las anomalías endocrinas, causas neurológicas, así como la secundaria a fármacos. Hay que tener en cuenta el dolor como posible desencadenante de un aumento de PA en el recién nacido.
+
+## 3 Clínica
+
+La presentación es muy variable y la mayoría de los síntomas inespecíficos, sin que exista buena relación entre la gravedad de los síntomas y las cifras de PA.
+
+Los síntomas más habituales los podemos agrupar en:
+- Cardiorrespiratorio: taquipnea, taquicardia, cianosis, insuficiencia cardíaca, shock.
+- Neurológicos: irritabilidad, letargia, hipo o hipertonía, convulsiones, retinopatía hipertensiva.
+- Renales: aumento de la natriuresis, hematuria y proteinuria.
+- Otros: apneas, fallo de medro.
+
+En muchos casos el diagnóstico de HTA es incidental.
+
+## 4 Diagnóstico
+
+**4.1. Medición de la presión arterial:** Aunque el método más exacto para medir la PA es la monitorización directa intraarterial, el más extendido es el oscilométrico no invasivo. Para su determinación es básico seguir un protocolo apropiado y confirmar las cifras en determinaciones seriadas durante 6-12 horas si la situación clínica lo permite.
+
+- Posición en decúbito supino o prono
+- Método oscilométrico.
+- Tamaño del manguito adecuado (Hay que medir la circunferencia de la extremidad del paciente y la anchura del manguito por la zona que se infla, la relación entre ambas medidas debe ser 0,4-0,5 cm. Los manguitos neonatales van de 2 a 4 cm)
+- Miembro superior derecho.
+- Dormido o si está despierto, tranquilo.
+- Primero se coloca el manguito, se deja tranquilo y se toma la PA 15 minutos después.
+- Preferentemente 1,5 horas tras la toma o la intervención médica.
+@p 453
+- Realizar al menos 3 determinaciones cada 2 minutos.
+
+Ante sospecha de HTA:
+- Primero, revisar posibles errores en la medición, valorando la situación de analgesia o de disconfort del neonato. Y confirmar el diagnóstico mediante determinaciones seriadas cada 6-12 horas.
+- Debe identificarse la causa mediante una adecuada anamnesis y exploración física. Se deben palpar los pulsos en los cuatro miembros, incluyendo la medición de PA en las 4 extremidades, identificar rasgos dismórficos, fístulas cervicales, masas abdominales, o genitales ambiguos.
+- Estudios de primer nivel:
+  - Hemograma, urea, creatinina, Na, K, Cl, Ca, gasometría.
+  - Sedimento, iones en orina
+  - Ecografía Doppler renal
+- En función de la sospecha etiológica pueden ser necesarios más estudios a individualizar según el paciente:
+  - Ecocardiografía
+  - Fondo de ojo
+  - Estudio hormonal
+  - Otras pruebas de Imagen según sospecha clínica.
+
+## 5 Tratamiento
+
+Actualmente, no existen unos criterios unificados para indicar el tratamiento farmacológico de la HTA en neonatos. Se aconseja iniciar tratamiento ante una HTA sintomática, si existe repercusión ecocardiográfica o si las cifras de PA se mantienen por encima del p99.
+
+En caso de presentar HTA grave, sintomática debemos iniciar tratamiento inmediato siendo de elección el nicardipino en perfusión continua (0,5 µg/kg/min y se ajusta progresivamente según la respuesta). Debemos monitorizar de manera continua la PA durante la administración de fármacos hipotensores, bien mediante catéter intraarterial (únicamente si está indicado por criterio clínico) o mediante método oscilométrico no invasivo cada 10-15 minutos.
+
+El objetivo es reducir las cifras de PA un 25% las primeras 6 horas y posteriormente hasta el nivel deseado (p95) en las siguientes 72 horas (recomendable un 25% el 2º día y un 50% el 3º día). Se debe evitar el descenso brusco de las cifras de PA, ya que aumenta la incidencia de isquemia y/o hemorragia cerebral, sobre todo en pretérminos. Sería recomendable la monitorización cerebral no invasiva mediante NIRS durante la perfusión intravenosa. Una vez alcanzado el control de la PA se sustituirá la perfusión intravenosa por tratamiento oral, iniciando por la dosis mínima y aumentando progresivamente.
+
+En el resto de casos el tratamiento antihipertensivo se inicia vía oral (Tabla 6). Actualmente no se suele recomendar iniciar tratamiento con IECAs hasta una edad postmenstrual
+@p 454
+mayor a 44 semanas de gestación por el riesgo teórico de hipoperfusión renal y posible alteración de la maduración renal. Una buena opción sería iniciar amlodipino o hidralazina en solución oral. Debemos ser cautos con el uso de betabloqueantes por el riesgo de broncoespasmo.
+
+| {4} **Tabla 5. Fármacos para el tratamiento iv de la HTA neonatal** |
+|---|---|---|---|
+| **Grupo Farmacológico** | **Fármaco** | **Dosis** | **Precauciones** |
+| **Calcioantagonistas** | Nicardipino | 0,5-3 µg/kg/min | Taquicardia, edema |
+| **Alfa-beta-bloqueantes** | Labetalol | 0,25-3 mg/kg/hora (0,1-1 mg/kg/dosis iv cada 4-6h) | Precaución en ICC y DBP |
+| **Betabloqueantes** | Propranolol | 0.01mg/kg/dosis cada 6-8 horas (máx 0.15mg/kg/dosis) | Bradicardia |
+| **Vasodilatadores** | Hidralazina | 0,75-5 µg/kg/min (0,1-0,5 mg/kg/dosis cada 6-8horas) máx 2 mg/kg/dosis | Taquicardia, edema |
+| | Nitroprusiato sódico | 0,2-10 µg/kg/min | Precaución en uso prolongado, metabolización a cianato |
+| **Diuréticos** | Furosemida | 1-2 mg/kg/día dosis) | Depleción de volumen, monitorizar iones |
+| {4} *ICC: insuficiencia cardíaca congestiva. DBP displasia broncopulmonar.* |
+
+| {4} **Tabla 6. Tratamiento de la HTA neonatal: fármacos orales** |
+|---|---|---|---|
+| **Grupo Farmacológico** | **Fármaco** | **Dosis** | **Precauciones** |
+| **Antagonistas del calcio** | Amlodipino | 0,05-0,6 mg/kg/24 h | Taquicardia y edema |
+| **IECA** | Captopril | RNT0-7ddv: 0,01mg/kg/dosis cada 8-12h // RNT>7ddv:0,05-0,1mg/kg/dosis 8-12h (dosis máxima 2 mg/kg/día) | Monitorizar Cr y K+ Evitar en RNPT Evitar si FGe < 30 ml/min/1.73m^2^ |
+| | Enalapril | 0,08-0,1mg/kg/dosis cada 12-24h (máx 0,6 mg/kg/día) | Monitorizar Cr, Na y K |
+| **Betabloqueantes** | Propranolol | 0,25-1 mg/kg/dosis (6-8 h) Máx 5 mg/kg/día | Monitorizar K Bradicardia Precaución en DBP, Broncoespasmo |
+| **Alfa-beta bloqueantes** | Labetalol | 0,5-1 mg/kg/dosis(12h) Max 10 mg/kg/día | Broncoespasmo ICC |
+@p 455
+| **Diuréticos** | Hidroclorotiazida | 1-2mg/kg/dosis (12- 24h) | Monitorizar Ca, K, Na, Mg, alcalosis hipoclorémica |
+| | Espironolactona | 0,5-1,5 mg/kg/dosis (12-24h) | Monitorizar K, precaución en insuficiencia renal |
+| **Alfa central agonista** | Clonidina | 3-10 µg/kg/día (cada 8 horas) (máx 25 µg/kg/día) | Bradicardia y depresión SNC |
+| **Vasodilatadores** | Hidralazina | 0,25-1 mg/kg/dosis (cada 6-8h) máx 7,5 mg/kg/día | Taquicardia y edema |
+| {4} *ddv: días de vida, FGe: filtrado glomerular estimado, RNPT recién nacido pretérmino, ICC insuficiencia cardíaca congestiva, DBP: displasia broncopulmonar, SNC: sistema nervioso central* |
+! En la Tabla 6 del PDF la unidad de clonidina aparece como un símbolo ilegible («3-10 □g/kg/día»); se ha transcrito como µg por coherencia con el resto del capítulo.
+
+@caja
+**SE RECOMIENDA**
+- Realizar la determinación de PA con métodos adecuados y estandarizados.
+- Iniciar tratamiento de la hipertensión si existe repercusión cardiológica o bien se mantiene de forma persistente por encima del p99.
+- Se recomienda el tratamiento oral salvo HTA grave sintomática.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda el tratamiento con IECA.
+- Evitar descensos brucos de las cifras de PA para evitar el riesgo de isquemia o hemorragia cerebral.
+@fin
+@bib
+1. Batton B, Li L, Newman NS, et al. Evolving blood pressure dynamics for extremely preterm infants. J Perinatol 2014; 34:301-5.
+2. Kent AL, Chaudhari T. Determinants of neonatal blood pressure. Curr Hypertens Rep 2013;15:426-32.
+3. Harer MW, Kent AL. Neonatal hypertension: an educational review. Pediatr Nephrol 2019; 34: 1009-18;
+4. Mistry K, Gupta C. Neonatal Hypertension. NeoReviews 2017;18;e357-369.
+5. Giri P, Roth P. Neonatal hypertension. Pediatrics in review 2020; 41: 307.

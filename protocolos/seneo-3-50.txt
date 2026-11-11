@@ -1,0 +1,134 @@
+@f 14. Protocolos SENEO/3.50. Acidosis tubular renal
+@p 443
+# 3.50 ACIDOSIS TUBULAR RENAL
+
+*Gema Ariceta*
+
+*Hospital Universitari Vall d'Hebron, Barcelona; Universitat Autonoma Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 429-434 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La dieta occidental genera aproximadamente 1 mEq de ácido por Kg de peso y día en el adulto y 1.5-2 mEq de ácido por Kg de peso y día en el niño. El riñón regula el equilibrio ácido-base mediante la reabsorción tubular del bicarbonato filtrado, y la eliminación por orina del exceso de ácido mediante iones hidrógeno (H^+^), en forma de amonio (2/3 del total) o fosfato u otros ácidos débiles (1/3 del total o "acidez titulable"). Cuando los mecanismos de acidificación renal son defectuosos se produce acidosis metabólica (AM).
+
+## 2 Definiciones
+
+La *acidosis metabólica* (AM) se define por el acúmulo de ácidos no volátiles por aumento de H^+^, o por la pérdida de sustancias alcalinas. Se manifiesta por el descenso del bicarbonato (HCO~3~^-^) que es el principal buffer extracelular y del pH plasmático por debajo de los valores de referencia (pH 7.38-7.42). El límite inferior de la normalidad del HCO~3~^-^ en sangre varía con la edad (neonato <17; lactante-niño <20; y adolescente-adulto <22 mmol/L).
+
+La *acidosis tubular renal* (ATR) es un síndrome caracterizado por AM e hipercloremia causado por un defecto en la acidificación renal, en ausencia de un descenso significativo del filtrado glomerular.
+
+## 3 Mecanismos de acidificación renal
+
+El proceso de acidificación urinaria es complejo y está formado por 2 componentes principales:
+1. la reabsorción del HCO~3~^-^ filtrado. Acontece en un 80-90% en el túbulo proximal, y el resto en el asa ascendente de Henle. Cuando se reabsorbe todo el bicarbonato, el pH en orina disminuye hasta 6.
+2. la secreción de H^+^ en el túbulo colector cortical (TCC). En un individuo sano, este mecanismo permite reducir el pH en orina hasta 4.5-5.5. La incapacidad de disminuir el pH en orina <5.5 indica un defecto en la acidificación distal.
+
+El acúmulo de H^+^ se compensa con HCO~3~^-^. Simultáneamente el déficit de secreción de
+@p 444
+H^+^ conduce a una disminución del gradiente eléctrico en el TCC que a su vez reduce la reabsorción de sodio. El efecto es la pérdida de sodio y bicarbonato, con depleción de volumen y la estimulación en la absorción de sodio y cloro, que resulta en niveles séricos de sodio normales, niveles de bicarbonato disminuidos e hipercloremia
+
+La descripción detallada de los mecanismos de acidificación tubular excede el objetivo de este capítulo, si bien pueden consultarse en las referencias bibliográficas.
+
+## 4 Clasificación
+
+### 1. ATR Proximal (o tipo 2)
+
+El mecanismo subyacente es el descenso del umbral renal para la excreción de bicarbonato lo que condiciona su pérdida en orina. Característicamente el pH urinario se torna alcalino tras la corrección de la acidosis y la elevación del bicarbonato plasmático por encima del umbral de excreción, por lo que la excreción fraccional de bicarbonato en orina está elevada (5-15%). Se distinguen varios subtipos
+
+**1.1. ATR proximal primaria aislada:**
+- a. Hereditaria: puede ser autosómico dominante o autosómico recesiva (asocia retraso mental y anomalías oculares, y está causada por mutaciones del gen SLC4A4, que codifica el simporter Na^+^/HCO~3~^-^)
+- b. ATR proximal esporádica (transitoria en lactantes). Algunos lactantes se manifiestan con retraso de crecimiento que se resuelve con tratamiento alcalino. Suele ser una ATR transitoria y se atribuye a inmadurez tubular.
+
+**1.2. ATR proximal secundaria:**
+- a. Síndrome de Fanconi (cistinosis, galactosemia, fructosemia, tirosinemia, Síndrome de Lowe, enfermedad de Wilson, leucodistrofia metacromática, enfermedad mitocondrial, mieloma múltiple ).
+- b. Fármacos: acetazolamida, tetraciclinas caducadas, ifosfamida, foscarnet, estreptozocina, valproato, 6-mercaptopurina, intoxicación por metales pesados (plomo, cadmio, mercurio)
+- c. Asociada a otras entidades: hiperparatiroidismo, déficit de vitamina D, enfermedad quística medular, síndrome nefrótico, trasplante renal, amiloidosis, cardiopatía congénita cianosante, Síndrome de Leigh)
+
+### 2. ATR Distal (o tipo 1)
+
+El mecanismo subyacente es la disminución en la secreción de H^+^ en el TCC
+
+**2.1. Primaria o Hereditaria:**
+
+La ATR Distal primaria o hereditaria es más frecuente en el niño, y se han descrito 5 genes asociados, cuyas mutaciones alteran la función de la ATPasa de H^+^, o de la anhidrasa carbónica (Tabla 1). Un 60-80% de los casos se explican por las mutaciones de del gen SLC4A1, el más frecuente, y de los genes ATP6V1B1 o ATP6V0A4.
+
+@p 445
+| {4} **Tabla 1. Genes asociados con acidosis tubular renal distal primaria** |
+|---|---|---|---|
+| **Gen** | **Función** | **Herencia** | **Manifestaciones extra-renales** |
+| *SLC4A1* | Intercambiador aniónico (Anion exchanger (AE1) | Autosómico dominante // Autosómico recesiva | Puede asociarse con anemia hemolítica por ovalocitosis, estomatocitosis o esferocitosis |
+| *ATP6V1B1* | Subunidad B1 de la ATPasa de H+ tipo V | Autosómico recesiva | Hipoacusia neurosensorial precoz en la mayoría de pacientes |
+| *ATP6V0A4* | Subunidad A4 de la ATPasa de H+ tipo V | Autosómico recesiva | +/- Hipoacusia neurosensorial (40%) de inicio tardío |
+| *FOXI1* | Factor de transcripción FOXI1con acción sobre la ATPasa de H+ | Autosómico recesiva | Hipoacusia neurosensorial de inicio precoz |
+| *WDR72* | WD proteína 72 repetida | Autosómico recesiva | Amelogénesis imperfecta |
+
+**2.2. Secundaria:**
+- a. entidades que cursan con hipercalciuria y nefrocalcinosis
+- b. enfermedades hereditarias; anemia de células falciformes, Síndrome de Ehler-Danlos, oxalosis, hiperplasia suprarrenal congénita
+- c. enfermedades autoinmunes: lupus eritematoso, Síndrome de Sjögren hepatitis crónica activa, cirrosis biliar, alveolitis fibrosante artritis reumatoide
+- d. disproteinemias: hipergammaglobulinemia, crioglobulinemia, amiloidosis
+- e. nefropatía intersticial crónica: trasplante renal, riñón quístico medular, uropatía obstructiva, nefropatía de reflujo, nefropatía por analgésicos
+- f. fármacos y tóxicos: anfotericina B, litio, tolueno, intoxicación por analgésicos, amiloride, trimetropin, pentamidina
+
+### 3. ATR mixta:
+
+La ATR mixta o tipo 3 es una entidad rara causada por las mutaciones del gen que codifica la anhidrasa carbónica II (CAII) que se expresa tanto en las células tubulares proximales como las distales. Se observan alteraciones tanto en la reabsorción proximal de bicarbonato como en la excreción distal de H^+^. El cuadro clínico es similar al de la ATR distal si bien los pacientes suelen cursar con osteopetrosis y presentan calcificaciones intracraneales.
+
+### 4. ATR Hiperkaliémica (o Tipo 4):
+
+El defecto de acidificación es resultado de un estado de hipoaldosteronismo, de resistencia a la aldosterona o por una alteración en la reabsorción tubular distal de sodio. Se caracteriza por hiperpotasemia
+
+@p 446
+## 5 Clínica
+
+El fallo de medro de inicio precoz constituye el síntoma principal de la ATR proximal aislada. En la ATR proximal asociada con Síndrome de Fanconi, habitualmente secundario, predominan las manifestaciones de la enfermedad primaria. El cuadro clínico de la ATR distal primaria se caracteriza por vómitos, poliuria, deshidratación, hipopotasemia, fallo de medro, hipercalciuria y nefrocalcinosis precoz. En algunos pacientes se observa hipoacusia neurosensorial de severidad variable, y raramente amelogénesis imperfecta o anemia hemolítica. En las formas secundarias, la sintomatología se combina con la de la patología de base.
+
+## 6 Diagnóstico
+
+Se fundamenta en la asociación de AM con anion-gap (AG) normal, pH en orina inapropiadamente elevado (>5.5) para el grado de acidosis y ausencia de fallo renal significativo. El algoritmo de la Figura 1 describe la secuencia inicial de diagnóstico clínico y diagnóstico diferencial, que incluye el cálculo del AG urinario y la comprobación de la presencia de sodio urinario >10 mEq/L , ya que la acidificación renal distal es un proceso sodio-dependiente.
+
+@img seneo-3-50-fig1.png
+*Figura 1. Algoritmo diagnóstico de la acidosis metabólica (modificado ref 5)*
+
+@p 447
+Algunos de los siguientes conceptos son de utilidad para el diagnóstico de la AM:
+- en la práctica clínica, los niveles de bicarbonato en sangre o CO~2~ total medido en plasma o suero, o indirectamente mediante la gasometría son equivalentes.
+- el AG plasmático refleja la diferencia en plasma entre el catión principal (Sodio) y los aniones (Cloro y Bicarbonato) y permite estimar los aniones que no se determinan habitualmente:
+  - AG en plasma = Na^+^ - [Cl^-^] – [HCO~3~^-^], valor normal 8-16.
+  - En general la AM con AG normal es un índice de perdida de bicarbonato de etiología digestiva o renal.
+- en situación de AM el pH en orina debe reflejar una acidificación máxima de la orina, <5.5. Los H^+^ en la orina son tamponados por la formación de amonio.
+- el AG en orina es un indicador indirecto de la excreción de amonio. En orina los principales cationes son el Na^+^, K^+^ y amonio (NH~4~^+^), en equilibrio con el principal anión que es el Cl^-^.
+- AG en orina = [Na^+^] + [K^+^] + [NH~4~^+^] - [Cl^-^]. En situación de AM la eliminación de amonio por orina debe aumentar lo que explica un AG inferior a 0.
+- En la AM de causa digestiva y en la ATR proximal, la capacidad de acidificación y de excreción de amonio están preservadas y el AG en orina es <0, mientras que en la ATR distal, la disminución de secreción de H^+^ explica la imposibilidad de excretar amonio y que el AG urinario sea >0.
+- La ATR primaria o hereditaria es más frecuente en el niño, siendo las formas secundarias las más frecuentes en adultos. Los tests de fisiología tubular permiten orientar el diagnóstico, si bien en la actualidad el diagnóstico definitivo de la ATR primaria se establece mediante el estudio genético
+
+## 7 Tratamiento
+
+El tratamiento estándar se basa en los suplementos alcalinos en forma de bicarbonato o citrato sódico hasta conseguir normalizar los niveles séricos de bicarbonato. Los niños requieren dosis muy elevadas (4-8 mEq/kg/día) mientras que los adultos suelen precisar dosis mucho menores (1-2 mEq/kg/día). En pacientes con hipokalemia suele ser necesario suplementar potasio, en general en forma de citrato potásico, cuya dosis depende de la severidad de la hipokalemia.
+
+@caja
+**SE RECOMIENDA**
+- Sospechar ATR ante la presencia de:
+  - acidosis metabólica con AG plasmático normal
+  - acidosis metabólica con hipercloremia ± hipokalemia
+  - pH urinario en orina fresca inapropiadamente elevado (>5.5) en situación de acidosis
+  - ausencia de fallo renal significativo
+  - ausencia de pérdida urinaria de glucosa, fosfato, ác. úrico, aminoácidos o proteínas de bajo peso molecular
+- Analizar la orina en condiciones adecuadas
+  - antes de iniciar el tratamiento con bicarbonato o citrato
+  - determinar el pH urinario en orina fresca de modo inmediato evitando la exposición al aire (para impedir la difusión de CO~2~ y con ello la disminución de HCO~3~^-^ e H^+^ que conducen a un pH alcalino).
+  - evitar la contaminación bacteriana de la muestra: la presencia de bacterias portadoras de ureasas puede aumentar la concentración de amoniaco en orina y elevar el pH
+- Ante una descompensación aguda significativa el tratamiento deberá contemplar en primer lugar la reposición de volumen con suero salino fisiológico ya que los pacientes se presentan deshidratados. Posteriormente se asociará tratamiento con ClK y se iniciará la corrección de la acidosis.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- iniciar tratamiento alkalino antes de recoger una muestra de orina para el diagnóstico
+- en descompensaciones graves, indicar una corrección agresiva con bicarbonato sódico endovenoso en presencia de un potasio sérico disminuido, para evitar el desarrollo de hipokalemia severa.
+@fin
+@p 448
+@bib
+1. Rodriguez Soriano J. Renal tubular acidosis: the clinical entity. J Am Soc Nephrol, 2002; 13:2160-2170.
+2. Santos F, Ordóñez FA, Claramunt-Taberner D, Gil-Peña H. Clinical and laboratory approaches in the diagnosis of renal tubular acidosis. Pediatr Nephrol, 2015;30 (12):2099-107.
+3. Lacobelli S, Guignard JP. Renal aspects of metabolic acid-base disorders in neonates. Pediatr Nephrol, 2020; 2:221-228.
+4. Gómez-Conde S, García-Castaño A, Aguirre M, et al. Molecular aspects and long-term outcome of patients with primary distal renal tubular acidosis. Pediatr Nephrol, 2021; 36 (10): 3133-3142.
+5. Trepiccione F, Walsh SB, Ariceta G, et al. Distal renal tubular acidosis: ERKNet/ESPN clinical practice points. Nephrol Dial Transplant, 2021; 36(9):1585-1596.
