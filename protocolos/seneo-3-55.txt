@@ -1,0 +1,78 @@
+@f 14. Protocolos SENEO/3.55. Atresia de esófago
+@p 474
+# 3.55 ATRESIA DE ESÓFAGO
+
+*Mercedes Martínez Rebollo^1^, Enrique Salguero García^2^*
+
+*^1^Hospital Costa del Sol, Marbella; ^2^Hospital Regional Universitario Málaga*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 460-464 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La atresia de esófago (AE) se produce por una separación incompleta del tracto endodérmico aerodigestivo en la 3ª-4ª semana postconcepcional, que lleva a una interrupción anatómica del desarrollo del esófago. Se manifiesta al nacimiento y suele tener comunicación con el árbol respiratorio en forma de fístula traqueoesofágica (FTE). La falta o ausencia de un segmento esofágico da lugar a dos porciones (superior e inferior), siendo la forma más frecuente de AE la de bolsón ciego superior con FTE en el bolsón inferior.
+
+## 1 Etiología y epidemiología
+
+La AE no tiene etiología conocida. Su incidencia es variable pero se estima en 1 caso por cada 3.000-4.500 recién nacidos (RN), con un leve predominio en varones. En un 50% de los casos se asocia a otras anomalías congénitas. También se asocia a retraso del crecimiento intrauterino y prematuridad. Parece que la edad avanzada del padre, las gestaciones obtenidas por técnicas de reproducción asistida y la gemelaridad, son factores epidemiológicos que pueden favorecer su aparición.
+
+## 2 Clasificación
+
+La AE se puede clasificar atendiendo a dos criterios:
+- Por su definición anatómica: A, B, C, D, E (Figura 1).
+- Por su asociación o no con otras anomalías congénitas: AE aislada o AE compleja si está asociada a otras malformaciones.
+@img seneo-3-55-fig1.png
+*Figura 1. Clasificación por tipo anatómico (Gross 1953)*
+
+@p 475
+## 3 Clínica
+
+La sintomatología del RN con AE depende de la obstrucción a nivel del esófago y de las complicaciones respiratorias que son secundarias al paso del contenido gástrico al sistema respiratorio por aspiración de las secreciones o por paso a través de la fístula.
+
+Debemos sospechar AE ante un RN que presenta al nacimiento sialorrea, atragantamiento, distrés respiratorio, tos o cianosis, dependiendo del tipo y su comunicación o no a través de FTE.
+
+El 50% de los RN asocian otras malformaciones congénitas. Entre ellas, destacan malformaciones cardiológicas, malformaciones digestivas (atresia duodenal, atresia anal, estenosis pilórica), malformaciones genitourinarias, anomalías vertebrales y anomalías neurológicas. También están asociadas a cromosomopatías como las trisomías 18, 21 o 13, microdelecciones (2q37, 4q35, 6q13 y 22q11) o microduplicaciones (3p25-qter y 5q34-qter). En otras ocasiones, puede estar asociadas a síndrome monogénicos (AEG, Feingold, CHARGE) o a la asociación VACTERL (malformaciones vertebrales, ano-rectales, cardiacas, traqueoesofágicas, renales, extremidades).
+
+## 4 Diagnóstico
+
+En cuanto al diagnóstico prenatal, no existen marcadores específicos de AE, pero son muy típicos signos indirectos como la presencia de polihidramnios (poca sensibilidad), una pequeña o ausente burbuja gástrica en la ecografía de la semana 20 y a veces un fondo de saco dilatado a nivel del cuello fetal (pouch sign) en la ecografía del 3er trimestre de gestación. Si existe FTE en bolsón inferior, el estómago fetal puede observarse relleno de aire. También puede estar asociada la presencia de otras malformaciones. Parece que la alfafetoproteína, la gammaglutamiltranspeptidasa en líquido amniótico y la RM maternofetal, pueden contribuir al diagnóstico prenatal. Al nacimiento ante la sospecha de AE, el diagnóstico se realizará introduciendo una sonda nasogástrica, maniobra en la que notaremos un stop en su progresión y posteriormente realizando una radiografía de tórax con la sonda introducida, en la que observaremos el bucle que hace la misma en el bolsón superior ciego (Figura 2). En caso de duda, excepcionalmente y con precaución, se puede introducir por la sonda una pequeña cantidad de contraste hidrosoluble para definir el bolsón superior ciego.
+
+@img seneo-3-55-fig2.png
+*Figura 2. Radiografía atresia esófago tipo C.*
+
+@p 476
+Una vez establecido el diagnóstico de AE, es necesario realizar un estudio de extensión en busca de otras malformaciones. Es necesaria una exploración completa del RN con especial interés en comprobar la presencia y permeabilidad anal, la permeabilidad de las coanas, la presencia de soplos cardiacos, los genitales externos y el fenotipo propio de algunas cromosomopatías. El estudio radiológico de extensión se realizará con radiología simple para descartar alteraciones vertebrales y/o de extremidades (mapa óseo) y con ecografía (cardiaca, renal, cerebral, abdominal) para descartar otras anomalías asociadas. (Figura 3)
+@img seneo-3-55-fig3.png
+*Figura 3. Algoritmo diagnóstico y terapéutico atresia de esófago*
+
+## 5 Tratamiento
+
+El tratamiento de la AE es siempre quirúrgico, junto con medidas de soporte respiratorio, nutritivas y generales, tanto pre como postoperatorias. La técnica y el timing de la cirugía están determinados por el tipo de atresia y la presencia o no de FTE. En su forma más frecuente, consiste en la ligadura y sección de la fístula junto con la anastomosis de los cabos (bolsones superior e inferior). En este punto puede ser útil la fibrobroncoscopia para identificar la FTE. El timing de la cirugía también está determinado por la edad gestacional, el peso y la proximidad de los cabos del esófago (gap) para realizar una anastomosis término-terminal en un primer y único tiempo quirúrgico. La cirugía dependerá de la distancia entre los bolsones superior e inferior del esófago, que debería permitir la anastomosis de ambos sin tensión para no poner en riesgo la misma y producir una dehiscencia de la sutura. Cuando la distancia entre cabos no permite la unión (long gap), se debe posponer la intervención quirúrgica, iniciar nutrición parenteral y en algunas ocasiones realizar gastrostomía.
+
+Desde el año 2017, se establece con actualizaciones periódicas, un consenso de expertos
+@p 477
+sobre el diagnóstico, manejo tanto pre como postoperatorio, seguimiento y sus complicaciones por parte del ERNICA (European Reference Network for Rare Inherited Congenital Anomalies)
+
+## 6 Complicaciones y pronóstico
+
+Las complicaciones y el pronóstico dependerán del tipo anatómico, de la cirugía y de la asociación a otras malformaciones o síndromes genéticos. Pueden presentar complicaciones a corto, medio o largo plazo, como la dehiscencia de la anastomosis, estenosis esofágica, trastornos de la motilidad, reflujo gastroesofágico y traqueomalacia, entre otras.
+
+El resultado en Centros de Referencia donde tanto el equipo quirúrgico como el de Neonatología tienen experiencia en estos casos, es muy positivo con porcentajes muy altos de supervivencia y escasas complicaciones.
+
+Si la corrección quirúrgica es factible y se puede realizar anastomosis de los cabos en un primer tiempo, el pronóstico de la AE aislada es bueno, con un alto porcentaje de supervivencia (>90%) y poca morbilidad evolutiva. En los casos de AE en los que los cabos del esófago están muy alejados (long gap) y no se puede realizar una anastomosis en un único tiempo quirúrgico, empeora el pronóstico y aumenta considerablemente las complicaciones.
+@caja
+**SE RECOMIENDA**
+- La AE se debe sospechar en un RN con sialorrea, dificultad respiratoria, tos o cianosis. La forma más frecuente asocia bolsón superior ciego con FTE en el segmento inferior.
+- En más de la mitad de los casos, la AE se asocia a otras malformaciones en distintos órganos, a cromosomopatías, otras alteraciones genéticas o a asociaciones como VACTERL, por lo que se deben realizar estudios complementarios.
+- Ante el diagnóstico prenatal, la gestante debe ser trasladada para el nacimiento a un centro de referencia donde se disponga de Cuidados Intensivos Neonatales y Cirugía Infantil, para la estabilización y tratamiento adecuado del RN.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- la administración rutinaria de contraste para el diagnóstico de la AE.
+- el intento de corrección quirúrgica en un primer tiempo quirúrgico en AE long GAP, como sería el caso de AE sin FTE.
+@fin
+@bib
+1. Oermann CM. Uptodate. Congenital anomalies of the intrathoracic airways and tracheoesophageal fistula. Jun 20, 2022.
+2. Martin Reina P, Pérez Aytes A. Atresia de esófago: breve revisión y propuesta de algoritmo clínico y genético. Genética Médica y Genómica. 2019; 3:11-18
+@p 478
+3. Baldwin D, Yadav D. Esophageal Atresia. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan.
+4. Has R, Günay S. Upper neck pouch sign in prenatal diagnosis of esophageal atresia. Arch Gynecol Obstet 2004; 270:56-58
+5. Pardy C, D'Antonio F, Khalil A, et al. Prenatal detection of esophageal atresia: A systematic review and meta-analysis. Acta Obstet Gynecol Scand. 2019; 98:689-699
+6. Dingemann C, Eaton S, Aksnes G et al. ERNICA Consensus Conference on the Management of Patients with Long-Gap Esophageal Atresia: Perioperative, Surgical, and Long-Term Management. Eur J Pediatr Surg 2021; 31:214-225.

@@ -1,0 +1,62 @@
+@f 14. Protocolos SENEO/3.56. Gastrosquisis y onfalocele
+@p 479
+# 3.56 GASTROSQUISIS Y ONFALOCELE
+
+*Cristina Fernández García, Cèsar W. Ruiz Campillo, José Andrés Molino Gahete*
+
+*Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 465-468 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+Los defectos más comunes de la pared abdominal en el neonato son el onfalocele y la gastrosquisis, que ocurren en aproximadamente 4:10.000 recién nacidos. Son defectos en el desarrollo de la pared abdominal anterior, pero su distinta anatomía y la diferente coexistencia de otras anomalías condicionan que ambas patologías presenten un manejo pre y postnatal y un pronóstico distinto.
+
+## 2 Gastrosquisis
+
+Consiste en la evisceración intestinal a través de un defecto completo de la pared abdominal, generalmente a la derecha del cordón umbilical y sin que se objetive un saco de recubrimiento. El defecto no involucra al cordón umbilical, que queda en su situación normal (generalmente a la izquierda de la malformación) y es infrecuente que emerja ni hígado ni otras vísceras (Figural). Es rara la asociación con malformaciones extraintestinales o alteraciones cromosómicas, pero es frecuente la asociación con afectaciones intestinales. La malrotación intestinal es casi constante y en un 10% se presentan otras alteraciones (atresia, estenosis, perforación, necrosis segmentaria, vólvulo, etc.). Se conoce como gastrosquisis compleja aquella que asocia alteraciones intestinales y por tanto mayor morbilidad y mortalidad.
+
+*Figura 1: Gastrosquisis*
+! Las Figuras 1 y 2 del PDF son fotografías clínicas; no se reproducen aquí (pueden verse en la página del PDF).
+@p 480
+### Manejo prenatal
+
+Se recomienda un seguimiento prenatal estricto, sobre todo a partir de las 30 semanas de gestación. La exposición prolongada al líquido amniótico podría dañar las asas intestinales, dando lugar a asas edematosas, rígidas, adelgazadas, adheridas a menudo entre sí y cubiertas por una capa gelatinosa fibrosa. Las ecografías prenatales permiten conocer el estado de estas asas, pudiendo ser necesario adelantar el parto en caso de signos de sufrimiento. Por otro lado, conforme avanza la gestación, es más posible un cierre del defecto de la pared abdominal alrededor del intestino herniado dando lugar a una necrosis devastadora. Para minimizar las muertes fetales y la morbilidad neonatal, algunos equipos abogan por finalizar la gestación a una edad gestacional de prematuro tardío, asumiendo los riesgos potenciales del parto prematuro relacionados con la inmadurez fisiológica. No se contraindica la realización de parto vaginal aunque es frecuente la indicación de cesárea.
+
+### Manejo postnatal
+
+Al nacimiento se necesitan medidas de soporte habituales según la edad gestacional y proteger el paquete intestinal eviscerado para minimizar la pérdida de líquidos y calor asociada a la eventración de las asas intestinales. Lo más eficaz es cubrir inmediatamente las asas con una bolsa de plástico estéril sin ejercer presión sobre las mismas que pueda comprometer su perfusión o generar una volvulación. Una buena opción práctica es utilizar una funda estéril para sondas ecográficas. Si precisa asistencia respiratoria, el umbral para la intubación es inferior que en otros recién nacidos, ya que el paso de aire al tracto digestivo si se ventila con presión positiva o se aplica presión positiva continua de las vías respiratorias (CPAP) puede dilatar las asas intestinales y comprometer su perfusión y/o dificultar su introducción posterior. Por la misma razón es útil colocar una sonda orogástrica y aspirar periódicamente para reducir la entrada de aire. Es posible el uso de la vena umbilical. Se recomienda la corrección quirúrgica en las primeras horas de vida (reintroducción de las asas intestinales en la cavidad abdominal y cierre de la pared). Si el tamaño de las vísceras herniadas y del orificio de la pared impide el cierre primario, se opta por un cierre en etapas (generalmente colocación de un silo y luego cierre diferido). Además de los cuidados habituales postoperatorios, es importante vigilar un posible síndrome compartimental como consecuencia de una excesiva presión intrabdominal (tensión en la pared abdominal, disminución de la perfusión en miembros inferiores, acidosis metabólica, disminución de la diuresis y presión intravesical > 15-20 mmHg). También puede existir un mayor compromiso respiratorio tras la reducción de las asas abdominales. Posteriormente, la introducción de la alimentación puede ser lenta por hipomotilidad intestinal, necesitando nutrición parenteral prolongada, pero el pronóstico suele ser bueno con supervivencia alta y buena calidad de vida, si no hay asociada lesión intestinal subyacente importante.
+
+## 3 Onfalocele
+
+Consiste en la herniación de las vísceras abdominales a través del ombligo, formando un saco compuesto por peritoneo, gelatina de Wharton y membrana amniótica. A diferencia de la gastrosquisis, el defecto ocurre en la línea media abdominal y el contenido está cubierto (Figura 2).
+@p 481
+*Figura 2: Onfalocele*
+
+El tamaño del onfalocele varía desde una pequeña herniación del cordón umbilical hasta la eventración de todo el contenido intestinal incluso hígado. Se utiliza el término de onfalocele gigante para los defectos mayores de 5-10 cm, que suelen contener hígado y que tienen una cavidad abdominal muy subdesarrollada, dificultando su tratamiento quirúrgico. También pueden tener hipoplasia pulmonar e hipertensión pulmonar subyacente por impedir una buena formación de la caja torácica. Independientemente del tamaño, el onfalocele se asocia frecuentemente a otras malformaciones o alteraciones genéticas (80% de los casos). Las alteraciones cromosómicas más asociadas son trisomía del 13, 18 o 21, síndrome de Beckwith-Wiedemann y síndrome de Turner. Si el onfalocele aparece en la parte superior abdominal puede formar parte de la pentalogía de Cantrell (onfalocele, malformaciones en el esternón y cardiacas y hernia diafragmática) y cuando el defecto es en la parte inferior abdominal puede concurrir con extrofia vesical.
+
+### Manejo prenatal
+
+Es importante el seguimiento y consejo prenatal, dependiendo el pronóstico de las anomalías mayores y las alteraciones genéticas asociadas. Dada la presencia del saco de cobertura, que protege el intestino eviscerado de los defectos deletéreos del líquido amniótico, no parece existir ninguna ventaja en adelantar el parto antes de llegar a término. Puede ser necesario indicar cesárea en los casos de onfaloceles gigantes con riesgo de rotura o traumatismo hepático por el parto vaginal.
+
+### Manejo postnatal
+
+Al nacimiento se necesitan las medidas de soporte habituales y proteger el onfalocele con plástico estéril. Se recomienda realizarlo de manera similar a lo explicado en la gastrosquisis, aunque en este caso la pérdida de líquidos y calor es menos relevante dado que el defecto de pared ya está cubierto anatómicamente. El uso de gasas húmedas puede ser contraproducente y aumentar las pérdidas de calor. Es importante evitar pinzar las asas intestinales en el momento de pinzar el cordón. Esta complicación grave es más frecuente cuando el defecto es pequeño, por lo que se recomienda colocar la pinza más distalmente a lo habitual. Lo expuesto para la gastrosquisis respecto a la asistencia respiratoria y la sonda orogástrica también aplica en caso de un onfalocele. El uso de la vena umbilical es teóricamente posible pero no es recomendable, especialmente en los
+@p 482
+casos de onfaloceles grandes, necesitando accesos vasculares alternativos. Puede existir insuficiencia respiratoria si el onfalocele asocia hipoplasia pulmonar o hipoglucemias en el caso del síndrome Beckwith-Wiedemann. Se recomienda completar el estudio de las posibles malformaciones asociadas (ecografías cardiacas y renales, estudios genéticos etc.). El tratamiento en todos los casos, incluso en los onfaloceles más leves es quirúrgico. Existe multitud de técnicas para reparar el onfalocele, tanto en el periodo neonatal como de manera diferida tras secar el saco con diferentes sustancias (yodo, plata etc). Cuando se realiza el cierre en el periodo neonatal, en los pacientes estables con adecuada proporción entre el continente intraabdominal y el contenido extraabdominal es de elección un cierre primario. En los casos con inestabilidad o en los defectos grandes se prefiere otras técnicas de introducción progresiva y cierres secundarios. Las complicaciones del postoperatorio son similares a las comentadas en las gastrosquisis (síndrome compartimental abdominal, compromiso respiratorio tras la introducción del paquete intestinal, íleo paralítico con nutrición parenteral prolongada, etc.), pero, además, la evolución y el pronóstico están altamente influenciados por las malformaciones extraintestinales y las alteraciones genéticas asociadas al onfalocele.
+@caja
+**SE RECOMIENDA**
+- Tanto la gastrosquisis como el onfalocele se benefician de una atención multidisciplinar tanto prenatal como postnatal en centros terciarios especializados.
+- Se necesita una estabilización tras el nacimiento teniendo en cuenta las peculiaridades de la malformación (control estricto de temperatura y líquidos, evitar la distensión de las asas y proteger el defecto con plástico estéril).
+- Su tratamiento es quirúrgico con distintas opciones según el defecto, la estabilidad clínica y las malformaciones asociadas.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda tapar los defectos de la pared con gasas húmedas, ya que pueden ser contraproducente al aumentar las pérdidas de calor.
+- No se recomienda la colocación de un catéter venoso umbilical en los casos de onfalocele gigante. Se recomienda utilizar preferentemente otros accesos venosos.
+@fin
+@bib
+1. Bence CM, Wagner AJ. Abdominal wall defects. Transl Pediatr 2021;10:1461-1469.
+2. Slater BJ, Pimpalwar A. Abdominal Wall Defects. Neoreviews. 2020;21:e383-e391.
+3. Christison-Lagay ER, Kelleher CM, Langer JC. Neonatal abdominal wall defects. Semin Fetal Neonatal Med 2011;16:164-72.
+4. Landisch RM, Yin Z, Christensen M, et al. Outcomes of gastroschisis early delivery: A systematic review and meta-analysis. J Pediatr Surg 2017;52:1962-1971.
+5. Bauman B, Stephens D, Gershone H, et al. Management of giant omphaloceles: A systematic review of methods of staged surgical vs. nonoperative delayed closure. J Pediatr Surg 2016;51:1725-30.

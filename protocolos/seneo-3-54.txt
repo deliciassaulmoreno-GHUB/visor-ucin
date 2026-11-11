@@ -1,0 +1,90 @@
+@f 14. Protocolos SENEO/3.54. Cuidados posoperatorios neonatales
+@p 468
+# 3.54 CUIDADOS POSOPERATORIOS NEONATALES
+
+*Dra. Laia Vega Puyal*
+
+*Hospital Universitario Dexeus, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 454-459 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El periodo posoperatorio es un tiempo crítico y determinante en la recuperación del recién nacido. Viene condicionado por diversos factores, algunos intrínsecos del paciente y otros dependientes de nuestra actuación: compromisos del recién nacido en el preoperatorio, por sus defectos congénitos o por otras afecciones adquiridas que requieren intervención quirúrgica, edad gestacional, peso, estado nutricional, comorbilidades, accesos vasculares disponibles, etc.
+
+La recuperación en el posoperatorio es un desafío que requiere de un equipo bien entrenado en la evaluación y en la previsión de los problemas que pueden surgir en este período. La preparación y anticipación del equipo y de la unidad, mediante el uso de "check-lists" específicos, la atención estructurada y coordinada del recién nacido con especial énfasis en las particularidades del posoperatorio y la implicación de la familia en los cuidados resultan herramientas indispensables para una buena asistencia al recién nacido durante este periodo.
+
+## 2 Definiciones
+
+El posoperatorio es el periodo de tiempo que transcurre desde el final de la cirugía hasta que el paciente se recupera por completo. El periodo posoperatorio (Figura 1) se divide en tres fases:
+- Posoperatorio inmediato: primeras 24 horas tras la cirugía (en algunos procedimientos este periodo se prolonga hasta las 72 horas). Es el más crítico tras la cirugía; en éste se combinan los cambios fisiológicos esperados tras la cirugía con la respuesta del organismo del recién nacido al estrés quirúrgico (aumento del cortisol y otras hormonas de estrés, aumento de catecolaminas, activación de cascadas proinflamatorias, coagulantes y fibrinolíticas). Es la fase de mayor riesgo de aparición de complicaciones agudas relacionadas con la cirugía (efectos de los defectos residuales graves y sangrados).
+- Posoperatorio intermedio o mediato: del segundo hasta el séptimo día tras la cirugía. Es un periodo de vigilancia activa en el cual se requiere especial atención a las complicaciones infecciosas, la activación del sistema digestivo y a las consecuencias de alteraciones en el balance hidroelectrolítico sucedidas en la fase más aguda. Pueden aparecer las complicaciones relacionadas con la falta de cambios posturales durante la fase más crítica.
+@p 469
+- Posoperatorio tardío: desde el séptimo día hasta completar la recuperación de la cirugía o cumplir un mes después de la cirugía. En esta fase aparecen las complicaciones tardías de la cirugía, se debe completar el proceso de enseñanza de los cuidados a la familia y completar la cicatrización de las heridas.
+
+## 3 Componentes de los cuidados posoperatorios
+
+Los cuidados periquirúrgicos comprenden el periodo preoperatorio, el periodo quirúrgico y el periodo posoperatorio; no deben considerarse como tres etapas independientes sino componentes de un mismo proceso, con acciones que sucedan de manera secuencial y simultáneas.
+@img seneo-3-54-fig1.png
+*Figura 1. Componentes de los cuidados periquirúrgicos*
+
+La atención adecuada al periodo postoperatorio es un reto para todas las unidades neonatales; para su correcto desarrollo se destacan diversos puntos clave que revisamos a continuación:
+- Establecer una **buena comunicación perioperatoria** del equipo multidisciplinario implicado en los cuidados del recién nacido que requiere cirugía mediante un proceso y protocolo estructurados ("reunión pre y posoperatoria").
+- Garantizar la **continuidad de los cuidados,** trabajando de manera coordinada entre los distintos profesionales implicados: enfermeras y auxiliares de enfermería de las diversas unidades, anestesiólogos, cirujanos, subespecialistas, servicio de radiología, neonatólogos y familia.
+- **Minimizar los momentos de potencial inestabilidad** en los periodos más vulnerables del posoperatorio: unificar la preparación de medicaciones, perfusiones en infusión continua, tipos de perfusiones; consensuar modos de ventilación y evitar cambios de bombas de perfusión, contribuye a disminuir cambios bruscos en la condición del recién nacido, minimizando la inestabilidad súbita.
+@p 470
+- **Definir el equipo** de atención al recién nacido y las tareas de cada uno. Para ello, son útiles las listas de verificación establecidas o check-list. Facilitan la realización de actuaciones homogéneas y el trabajo en equipo, y mejoran la seguridad de nuestros pacientes.
+- **Promover una transferencia física y comunicativa del paciente segura, reglada y sistemática.** El periodo postoperatorio implica, en la mayoría de los casos, un cambio de ubicación del paciente y de equipo responsable.
+
+## 4 Descripción de los componentes de los cuidados posoperatorios
+
+- **Preparación de la unidad y del personal para la recepción del paciente posoperado en la unidad neonatal (Tabla 1)**
+  - **Preparación del box del paciente:** preparación del espacio físico donde regresará el paciente tras la cirugía y del equipamiento que previsiblemente requerirá, tanto el material y fungible básico para cualquier ingreso de paciente de cuidados intensivos (cuna térmica, incubadora, monitor multiparamétrico, electrodos, etc) como el específico para el posoperatorio concreto del paciente (respiradores, monitores, hipotermia activa, etc). Comprobación del buen funcionamiento de los aparatos y dispositivos.
+  - **Preparación de medicación de reanimación y sedación-analgesia:** es de especial utilidad en los posoperatorios complejos anticipar la necesidad de medicación de reanimación y de sedación-analgesia y tenerla preparada de manera sistemática. Mejora los tiempos de respuesta en caso de empeoramiento o de complicaciones súbitas, disminuye la sensación de no control de la situación y por consiguiente el estrés del equipo y mejora la seguridad del paciente. En este listado de medicación se pueden incluir medicaciones concretas para cada posoperatorio, consensuando con el equipo previamente (por ejemplo antiepilépticos en determinados posoperatorios neuroquirúrgicos).
+  - **Preparación del equipo neonatal para la atención del recién nacido posoperatorio:** revisar la cirugía prevista, los cuidados, controles específicos y posibles complicaciones para la cirugía y posoperatorio concretos. Ampliar con la información que se reciba tras la anestesia y el acto quirúrgico. Acordar la composición del equipo de recepción del recién nacido posoperado, así como la enfermera y médico responsables una vez instalado el paciente.
+- **Recepción del paciente:** transferencia del recién nacido posoperado a la unidad neonatal.
+  - **Comunicativo:** idealmente la transferencia comunicativa se iniciará telefónicamente, mediante un contacto entre anestesiología y cirugía con la unidad neonatal; debe incluir el aviso del fin de la cirugía y la solicitud de ingreso en la unidad neonatal así como, a grandes rasgos, en que ha consistido la cirugía y los principales eventos si los han habido. Ya en la unidad, de manera ordenada, el equipo quirúrgico-anestésico realizará una exposición de la cirugía, la anestesia, los dispositivos, medicaciones y equipamientos requeridos y de los
+@p 471
+que es portador actualmente el recién nacido, así como la situación actual del paciente y las alertas o preocupaciones si existieran. Idealmente, el recién nacido estará acompañado por sus padres en el momento del traslado y de la transferencia a la unidad, con un profesional del equipo encargado de su soporte.
+
+  - **Físico:** situación física del paciente en su ubicación definitiva en la unidad, cambio a la monitorización y al equipamiento fijo de la unidad, así como inicio de los primeros cuidados, controles y exploraciones complementarias requeridas. Es importante chequear todos los dispositivos (su situación y su fijación) y registrarlos en este momento para detectar desplazamientos de manera precoz y prevenir las perdidas accidentales de los mismos.
+- Atención al paciente: una vez el recién nacido este situado en su box y asegurada la continuidad del tratamiento iniciado ya en quirófano, se debe poner en marcha los cuidados generales para el recién nacido junto el protocolo de cuidados y controles específicos para paciente posoperado:
+  - **Cuidados generales sobre el paciente posoperado neonatal:** establecer los controles y cuidados necesarios para alcanzar y mantener estabilidad térmica, ventilatoria, metabólica, hidroelectrolítica y hemodinámica, todo bajo medidas de asepsia. Esto corresponde a los mismos objetivos que en cualquier recién nacido ingresado en la unidad.
+  - **Controles y cuidados específicos del posoperatorio:** para este periodo crítico debemos poner especial esfuerzo en los siguientes aspectos:
+    - *Control de la temperatura:* monitorizar la temperatura y adoptar medidas preventivas para prevenir la hipotermia (<36,5 °C) y la hipertermia (>37,8°C) buscando la normotermia durante todo el posoperatorio. Ajustar la temperatura y humedad de incubadoras según edad gestacional y situación del paciente (temperatura en caso de cuna térmica).
+    - *Control del dolor y de la agitación:* uso reglado y sistemático de escalas de valoración; disminuir el uso de opiáceos con estrategias multimodales (incluyendo la anestesia regional también en la unidad neonatal). Analgesia pautada en el posoperatorio inmediato. Implementar las medidas no farmacológicas de manera estándar (ruido, luz, contención, agrupar manipulaciones, contacto con la familia, etc).
+    - *Manejo estricto de líquidos, electrolitos y glucosa:* para mantener la perfusión tisular y prevenir la hipovolemia, la sobrecarga de líquidos, la hiponatremia y la hiperglucemia.
+    - *Aporte calórico y nutrición:* iniciar precozmente siempre que no esté contraindicado, con un cálculo individualizado de las necesidades calóricas del paciente, utilizando herramientas estandarizadas para ese fin.
+    - *Prevención de complicaciones y tratamiento en caso de aparición de las mismas:* revisión sistemática de la situación del paciente y realización de ajustes y modificaciones requeridas en el tratamiento para anticipar problemas o complicaciones esperables.
+    - *Profilaxis antibiótica y vigilancia de la herida quirúrgica:* durante 24 horas, a menos que se requiera un tratamiento continuado que se habrá establecido
+@p 472
+en el plan periquirúrgico o secundario a eventos intraquirúrgicos concretos y debe ser individualizado.
+
+    - *Control del sangrado y control hematológico:* valoración completa del hemograma y de la coagulación en el posoperatorio inmediato crítico. Utilizar protocolos de transfusión.
+    - *Cuidados de la piel – prevención de las úlceras, cambios de postura y plan de movilización precoz:* vigilancia de las interfases respiratorias, la fijación de dispositivos y aparición de úlceras de decúbito con cambios de postura adaptados al tipo de posoperatorio y a la situación clínica del paciente.
+- Atención a la familia: Facilitarles una información adecuada; asegurar un espacio para responder sus dudas e incluir sus preferencias y sugerencias respecto a los cuidados del recién nacido. Reforzar la importancia de la familia y los cuidados centrados en el desarrollo como intervención que por sí misma mejora el desarrollo de estos pacientes.
+| {2} **Tabla 1. Propuestas de check-list para el posoperatorio neonatal** |
+|---|---|
+| **Check-list** | **Contenido** |
+| PREPARACIÓN | Preparación del box del recién nacido posoperado / crítico |
+| MEDICACIÓN | Medicación de reanimación y sedoanalgesia (calculadora de fármacos) |
+| TRANSFER | Transferencia comunicativa y física entre quirófano y unidad neonatal |
+| INGRESO Y CONTROLES | Recepción del paciente posoperatorio neonatal y controles específicos |
+
+@caja
+**SE RECOMIENDA**
+- Planificación y coordinación multidisciplinar: prequirúrgico, cirugía y postoperatorio, asegurando actuaciones reproducibles y continuidad asistencial.
+- Utilización de listados de verificación o check-list.
+- Implicación de las familias en los cuidados.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Ausencia de continuidad asistencial entre quirófano y la unidad neonatal.
+- Actuaciones sin plan específico, sin prevención de complicaciones y dependientes de la persona.
+- Obviar o minimizar los cuidados rutinarios por la situación posoperatoria.
+@fin
+@bib
+1. Manual de cuidados intensivos en cirugía neonatal. Anne R. Hansen Mark Puder (eds). 2º edición. 2012. Ed Médica Panamericana.pp:1-664.
+@p 473
+2. Martínez Ferro M, Cannizzaro C, Rodríguez S, Rabasa C. Neonatología Quirúrgica, Buenos Aires, Grupo Guía, 2004; pp:1-882.
+3. Cuidados críticos del niño con patología cardíaca. 1ª Edición.Redondo S, Segura S, Sánchez A, González JM (eds). 2018. Ed Ergon. Madrid. pp: 1-465.
+4. Baño Rodrigo A, Domínguez F, Farnández L et al. Guías de práctica clínica de la Sociedad Española de Cardiología en el postoperado de cardiopatía congénita. Rev Esp Cardiol 2000; 53:1496-1526.
