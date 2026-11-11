@@ -1,0 +1,176 @@
+@f 14. Protocolos SENEO/3.42. Manejo nutricional en el gran prematuro: nutrición parenteral y enteral trófica
+@p 393
+# 3.42 MANEJO NUTRICIONAL EN EL GRAN PREMATURO: NUTRICIÓN PARENTERAL Y ENTERAL TRÓFICA
+
+*Tomás Sánchez Tamayo, María Gracia Espinos, María del Mar Serrano Martín, Mercedes Chaffanel*
+
+*Hospital Regional Universitario de Málaga*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 379-386 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El periodo de máximo crecimiento del feto en edad del prematuro y, en particular, de su sistema nervioso central, y las evidencias cada vez mayores del efecto a largo plazo de una malnutrición en este periodo (tanto por una restricción de crecimiento fetal como postnatal) hace que sea necesario optimizar los aportes nutricionales desde el mismo momento de su nacimiento.
+
+El insuficiente desarrollo de su aparato digestivo y sistemas metabólicos dificultan la administración de los aportes nutricionales recomendados tanto a nivel parenteral como enteral. El riesgo de infecciones asociadas al catéter iv y parenteral, y el de enterocolitis asociada a la alimentación, suponen una dificultad añadida.
+
+La filosofía actual es la de aplicar una nutrición parenteral (NP) precoz y con aportes suficientemente elevados de los tres macronutrientes, e implementar una alimentación de una forma segura, que permita retirar la primera a la mayor brevedad.
+
+## 2 Nutrición parenteral
+
+### 2.1. Indicación e inicio de la NP en el gran prematuro
+
+La NP está indicada en los recién nacidos de muy bajo peso (RNMBP): <1500g y/o < 32 sem desde el momento del nacimiento, ya que sabemos que la demora de la nutrición parenteral asocia complicaciones evitables por déficit de principios inmediatos y aumento del catabolismo, como hiperpotasemia o hiperfosforemia.
+
+Se debe disponer en la unidad de NP estandarizadas o preparadas con antelación para el día 0, con un aporte adecuado de los tres principios inmediatos o al menos hidratos de carbono y proteínas para asegurar un adecuado anabolismo y aporte de nutrientes.
+
+### 2.2. Administración
+
+Se recomienda administrarla a través de una vía venosa central para permitir soluciones con una osmolaridad alta, vía que se dedicará, si es posible, en exclusiva a la NP.
+@p 394
+### 2.3. Requerimientos energéticos
+
+El aporte energético recomendado así como los aportes de macronutrientes quedan reflejados en la tabla 1.
+
+### 2.4. Componentes de la NP
+
+**2.4.1. Aminoácidos:** La cantidad óptima de proteínas a administrar en el primer día es difícil de determinar, pero sabemos que el transporte transplacentario de aminoácidos es alto y que un adecuado aporte de proteínas de al menos 1,5-2 g/k/día desde las primeras horas de vida mejora el crecimiento a corto plazo, disminuye la duración de la NP y estimula la secreción de insulina y factores de crecimiento insulin-like.
+
+A partir de las evidencias actuales se recomienda iniciar aportes en primeras horas de vida con 1,5-2,5 g/k/día, y seguir con aumentos progresivos hasta 3,5-4 g/k/día (Tabla 1).
+
+**2.4.2. Hidratos de carbono:** La D-glucosa es la principal responsable del aporte de calorías no proteicas (60-70%) y de la alta osmolaridad de la NP. Debemos asegurar un aporte mínimo en 1ºs días de 4-8 mg/k/min e ir aumentando progresivamente. Es recomendable evitar aportes superiores a 17-18 g/k/día para prevenir complicaciones metabólicas, hepáticas e hipercapnia.
+
+**2.4.3. Lípidos:** Aportan densidad calórica y escasa osmolaridad. Constituyen el 25-50% de las calorías no proteicas y permiten asimismo la administración de vitaminas liposolubles. Las soluciones recomendadas actualmente son las basadas en mezclas de aceite oliva, soja, pescado y ácidos grasos de cadena media por presentar menores complicaciones y daño oxidativo. Deben iniciarse en primeros días de vida para asegurar el aporte de ácidos grasos esenciales, fundamentales para el neurodesarrollo, pudiendo hacerlo desde el primer día, sin inconveniente, a dosis de 1-2 g/k/día. El aumento debe ser progresivo y monitorizando su tolerancia, especialmente en pacientes extremadamente prematuros por la menor actividad de la lipoproteinlipasa. La infusión debe ser continua en 24h.
+
+**2.4.4. Electrolitos y minerales (Tabla 2):** Los electrolitos deben ser administrados en los primeros días de vida. Los iones intracelulares como P y K son especialmente necesarios en situaciones de alto aporte proteico para evitar el síndrome de realimentación placentaria. Esta entidad cursa con hipopotasemia e hipofosforemia si no hay un aporte adecuado de estos iones en situación de anabolismo, y ocurre sobre todo en los recién nacidos más pequeños y con crecimiento intrauterino retardado.
+
+El aporte de Ca y P asimismo es fundamental en el recién nacido prematuro para asegurar una adecuada formación de tejidos y mineralización ósea. El aporte de sales minerales está limitado por la solubilidad de la mezcla; el uso de sales orgánicas como el glicerofosfato sódico permite alcanzar los aportes recomendados minimizando los problemas de precipitación de la mezcla, aunque ello conlleve la adicción de 1,8 mEq de Na por cada mmol de P (Tabla 2). La relación molar Ca/P en el RN prematuro podrá oscilar entre 0,8 y 1,3 por sus peculiaridades metabólicas.
+
+Es por ello que es recomendable iniciar electrolitos en primer día de vida siempre que exista un aporte adecuado de proteínas y energía y diuresis establecida y nunca demorarlo más allá de 24-48h.
+
+**2.4.5. Otros componentes de la nutrición parenteral:** Se deben adicionar oligoelementos y vitaminas de forma diaria y, estas últimas, fotoprotegidas. La heparina no está
+@p 395
+recomendada de forma rutinaria, aunque algunas guías indican que podría prolongar la vida útil de la vía central; por ello se debe plantear en pacientes de alto riesgo de trombosis valorando la posibilidad de precipitación de la emulsión que aumenta con el uso de la misma.
+
+### 2.5. Prescripción y estandarización
+
+Es importante una homogeneidad de criterios a la hora de prescribir la nutrición parenteral. Posiblemente la política más adecuada sea la prescripción de forma individualizada por parte de un neonatólogo y/o farmacéutico experto. El uso de soluciones estandarizadas puede ser una alternativa.
+
+### 2.6. Monitorización
+
+El control de peso, balance hídrico, glucemia, iones y equilibrio ácido base, son necesarios para el ajuste diario de la NP. Además, debemos vigilar calcio, fósforo, magnesio, urea, creatinina y triglicéridos de forma semanal o bisemanal.
+
+### 2.7. Complicaciones
+
+La NP puede asociar complicaciones metabólicas a corto plazo (alteraciones iónicas, de glucemia, del metabolismo calcio-fósforo, hipertrigliceridemia), complicaciones infecciosas asociadas al catéter iv, y enfermedad hepática.
+
+Para reducir el riesgo de infección se recomienda utilizar una vía exclusiva para la NP con un cambio diario de la bolsa de NP bajo máximas condiciones de asepsia. Para reducir la toxicidad hepática, elegir soluciones lipídicas que no deriven exclusivamente de la soja, iniciar pronto alimentación enteral y reducir el tiempo de NP.
+
+### 2.8. Cómo reducir y cuándo retirar la NP
+
+Partiendo de una situación alimentación enteral trófica + NP total (130 ml/kg/día), se puede ir reduciendo el volumen de NP administrado en la misma medida que se incrementa la alimentación. La NP se retiraría al alcanzar un aporte enteral de 110-120 ml/kg/día de leche materna fortificada que en dos días más alcanzaría el volumen final completo.
+
+| {4} **Tabla 1. Requerimientos energéticos y de macronutrientes recomendados en RN < 1500 g** |
+|---|---|---|---|
+| | **Aportes primer día** | **Incremento diario** | **Objetivo día** |
+| **Energía** | 40-55 Kcal/kg/d | | 90-120 kcal/kg/d |
+| **Aminoácidos** // 4 Kcal/g | 1,5-2,5 g/kg/día | + 0'5-1 g/kg/día | 3,5-4 g/k en <1500g |
+| **Hidratos de carbono** // 3,4 Kcal/g | 8-9 g/kg/día | + 1-2 g/kg/día // (según glucemias) | 16-18 g/kg |
+| **Lípidos** // 9 Kcal/g | 1-2 g/kg/d | + 1 g/kg/día | 3-4 g/kg |
+
+@p 396
+| {3} **Tabla 2. Aportes iniciales, incrementos y aportes objetivo de electrolitos en la NP en < 1500 g.** |
+|---|---|---|
+| | **Aportes 1º día** | **Aportes siguientes días\*\*** |
+| **Sodio** | 1,8 mEq/kg/día* | 3-5 mEq/kg/día según necesidades |
+| **Potasio** | 1mEq/kg/día (si diuresis adecuada) | 2-3 mEq /kg/día |
+| **Calcio** | 2 mEq/k/día | 2-4 mEq/kg/día |
+| **Fósforo** | 1 mmol/kg/día | 2-2,5 mmol/kg/día |
+| {3} *\*Será el aporte necesario para poder aportar 1 mmol de P si usamos sales orgánicas // \*\*Dependerá de los controles analíticos y tolerancia de cada paciente* |
+
+## 3 Nutrición enteral
+
+**Alimentación trófica:** En prematuros hemodinámicamente estables la administración de volúmenes pequeños de leche (<24 ml/kg/día) es tan seguro como dejarlos inicialmente en ayunas, y tiene la ventaja de favorecer la introducción de la alimentación y retirar antes la nutrición parenteral. En la práctica se debería iniciar alimentación trófica en todo prematuro que se muestra hemodinámicamente estable y con buena perfusión periférica durante un periodo de al menos seis horas.
+
+La administración de gotas de **calostro en la mucosa yugal** tiene por objeto favorecer una colonización bacteriana más favorable, y podría indicarse incluso en pacientes en los que no hemos iniciado la alimentación.
+
+**Tipo de leche:** la alimentación con fórmula incrementa el riesgo de ECN más del doble. Es importante incidir en que el inicio de la alimentación sea con leche materna y, en la medida de lo posible, de su madre. Con una buena orientación son muchas las madres que pueden aportar cantidades suficientes de calostro incluso en el primer día. En caso de no disponer de leche de su madre indicaremos leche donada.
+
+**Fase de incrementos de leche.** Tras una fase de alimentación trófica variable (en función del riesgo de ECN y de la tolerancia digestiva) pasaremos a otra en la que cada día aumentaremos los aportes de leche en una cantidad de 30 ml/kg/día si la **tolerancia digestiva** es buena (no vómitos, no distensión, sí deposiciones). El estudio SIFT demostró que esta cantidad era tan segura como aportes de 20 ml/kg/día, también en < 1000 g o CIR. Fraccionar los incrementos para hacerlos dos veces al día (15 en la mañana, 15 en la noche) puede ser una forma de obligarnos a reevaluar la tolerancia.
+
+**Retraso en la eliminación de meconio:** las series de casos con tasas más bajas de ECN incluyen entre sus prácticas la administración de glicerina rectal o enemas de suero en caso de no deposiciones.
+
+**Vigilancia:** Se debe estar atento a signos que sugieran ECN y, en caso de sospecha, detener la alimentación y realizar un estudio de imagen. La ecografía es más sensible que la radiografía para detectar neumatosis intestinal, lo cual permite diagnosticarla en fases más precoces e iniciar el tratamiento con reposo intestinal y antibioterapia, antes. La visualización de asas intestinales morfológicamente normales, sin gas intramural y con buena motilidad ayuda en la decisión de mantener la alimentación.
+@p 397
+**Fortificación:** A partir de los 80 ml/kg/día de leche se debe iniciar la fortificación de forma progresiva pero rápida. Al alcanzar 110-120 ml de LM fortificada podremos retirar la NP manteniendo unos aportes nutricionales aceptables. Al alcanzar los 160 ml/kg/d de LM con fortificación estándar, cubriremos las necesidades de la mayor parte de los prematuros. Si la situación clínica lo precisa (ej: cardiopatías con shunt I-D o DBP) se puede reducir el volumen de líquidos e incrementar el aporte calórico.
+
+Si el crecimiento no es adecuado, la valoración del BUN nos permitirá ajustar la fortificación adicionando si es preciso módulos específicos de proteína o calóricos. Es conveniente utilizar gráficas que corrijan la pérdida de peso fisiológica postnatal y que equivale de media a -0,8 DS.
+
+**Estandarización:** La homogeneidad en alimentar al prematuro, siguiendo prácticas basadas en la evidencia, ha demostrado reducir la tasa de ECN (Tabla 3). En general, el volumen de inicio será menor y la duración del periodo de trófica mayor, en las situaciones de alto riesgo de ECN (< 750 g o < 25 s; asfixia; CIR con doppler patológico, en especial los estadios más avanzados) y se ajustarán en función de la tolerancia individual de cada paciente.
+
+**Otras consideraciones:** ante un ductus hemodinámicamente significativo se mantiene la alimentación puesto que mejora la perfusión intestinal y no incrementa el riesgo de ECN. La antibioterapia, así como los fármacos anti-H2 y el omeprazol se relacionan con una mayor tasa de ECN, por lo que su uso debería ser muy restringido. La presencia de catéteres umbilicales no contraindica el inicio de la alimentación.
+
+| {2} **Tabla 3: Propuesta resumen sobre prácticas de alimentación en < 1500 g** |
+|---|---|
+| {2} Guía Alimentación Enteral RN < 1500 g/32 sem |
+| **Objetivos** | Reducir NEC. Reducir restricción postnatal |
+| **Cuando empezar** | Hemodinámicamente bien, sin asfixia. Buena perfusión cutánea durante 6 horas. |
+| **Método** | Válido tanto en bolus como continua. Usar bolus durante trófica y en IPPVn |
+| **Tipo leche** | Calostro en mucosa yugal. Leche materna/Banco |
+| **Volumen inicial** | **Alto Riesgo NEC →** < 750 g o < 25 s; Asfixia; CIR + doppler pat: 0,3 -0,5 ml/kg/h // **Riesgo intermedio 750-1000 g:** 0,5-1 ml/kg/h // **Riesgo Bajo 1000-1500 g:** 1 ml/kg/h |
+| **Duración trófica** | 3-7 días. Acortarlo si: buena tolerancia + deposiciones espontáneas + Leche materna/banco |
+| **Fase Incrementos** | 30 ml/kg/día. Reevaluar cada doce horas, y siempre antes de cada incremento |
+| **Volumen máximo** | 160 ml/kg/día; *Si DBP o cardiopatías con shunt I-D restringir a 130-150* |
+| **Definición intolerancia** | Árbol decisión Residuo + examen clínico |
+| **Fortificante** | Desde 80 ml/kg. Añadirlo cada toma. Ir ↑hasta 4,4 %. Individualizar por crecimiento y BUN. // *Retirar N Parenteral tras comprobar que tolera 110-20 ml de LM fortificada.* // *Si líquidos restringidos: Fortificar al 4 % +/- módulo prot 0,5 g/100 ml +/- duocal 2,5 g/100 ml* |
+@p 398
+@pie Tabla 3: Propuesta resumen sobre prácticas de alimentación en < 1500 g. (continuación)
+| **Estreñimiento** | Estimulación rectal / glicerina / Enema suero fisiológico si no deposiciones en 24 h |
+| **PDA y su Tto** | Mantener protocolo de enteral salvo hipotensión o mala perfusión cutánea. No omeprazol salvo sangrado activo. |
+| **Controles** | Gráfica crecimiento con ajuste pérdida postnatal (Fenton). > 15 g/kg/d en peso; ≈ 1cm/sem en PC y longitud. |
+| {2} *BUN= urea (mg/dl)/2,14 (para ser válido, la relación urea/creatinina debe ser de 10:1).PDA: ductus arterioso persistente: DBP: displasia broncopulmonar* |
+! En la Tabla 3 del PDF la fila «Volumen inicial» reparte los tres grupos de riesgo en columnas; aquí van en líneas.
+
+@img seneo-3-42-alg1.png
+*Algoritmo 1.Árbol de decisión ante sospecha de intolerancia digestiva (adaptado de: Nutrition Best Practices for Infants <1500 g / Hanson et al 2011). Nota: la evaluación del residuo digestivo no está indicada de forma sistemática sino como parte de la evaluación global de la alimentación cuando la tolerancia no es adecuada.*
+
+@p 399
+@caja
+**SE RECOMIENDA**
+*Parenteral*
+
+- Iniciar Nutrición Parenteral desde el momento cero, con aportes proteicos 1,5-2,5g/kg/d y a ser posible, lípidos 1-2/kg/d.
+- Comprobar que los aportes de nutrientes y volumen prescritos realmente entran al paciente y no se restan de otras medicaciones.
+- Utilizar emulsiones lipídicas con mezclas que incluyan aceites de pescado y MCT por su menor efecto oxidativo.
+
+*Enteral*
+
+- Calostro en mucosa yugal.
+- Iniciar enteral trófica si hemodinamia estable con leche materna o en su defecto, de banco.
+- Evaluar la tolerancia digestiva en cada paciente (vómitos, distensión, deposiciones).
+- Implementar la ecografía abdominal ante sospecha de ECN (más sensible que la Rx).
+@fin
+@caja
+**NO SE RECOMIENDA**
+*Parenteral*
+
+- Postponer el inicio de la Nutrición Parenteral.
+- No aportar iones (Na ,K, P en las primeras 48h si hay estabilidad hemodinámica y aporte proteico adecuado evitando así el síndrome de realimentación placentaria).
+- Prolongar la nutrición parenteral si ya tenemos un aporte enteral de >110 ml/kg/día.
+
+*Enteral*
+
+- Iniciar alimentación con fórmula.
+- Extender la recomendación de alimentación a las poblaciones clásicamente excluidas (hemodinámicamente inestables, hipóxicos..).
+- Obligar incrementos de alimentación sin considerar la tolerancia individual.
+- Anti H2/y omeprazol.
+@fin
+@bib
+1. Griffin IJ. Uptodate:Parenteral nutrition in premature infants. Updated: Apr 04, 2022.
+2. Mizumoto H, Mikami M, Oda H, et al. Refeeding syndrome in a small-for-dates micropreemie receiving early parenteral nutrition. Pediatr Int 2012; 54: 715-717.
+3. Carnielli VP et al. Practice of parenteral nutrition in preterm infants. en: Nutritional care of preterm infants: Scientific basis and practical guidelines. 2nd edition. Kolezko B, Cheah, FC, Domellöf M, Poindexter B, Vain N Van Goudoever JB. Ed Karger, Basil
+@p 400
+(Switzerland). 2021;122, pp212-224.
+
+4. Morgan J, Bombell S, McGuire W. Early trophic feeding versus enteral fasting for very preterm or very low birth weight infants. Cochrane Database Syst Rev 2013;3: CD000504.
+5. Dorling J, Abbott J, Berrington J, et al. Controlled Trial of Two Incremental Milk-Feeding Rates in Preterm Infants. N Engl J Med 2019; 381:1434-1443.
+6. Jasani B, Patole S. Standardized feeding regimen for reducing necrotizing enterocolitis in preterm infants: an updated systematic review. J Perinatol 2017; 37:827-833.
