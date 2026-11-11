@@ -1,0 +1,144 @@
+@f 14. Protocolos SENEO/3.30. Ictericia. Colestasis
+@p 323
+# 3.30 ICTERICIA. COLESTASIS
+
+*Itziar Serrano Viñuales, Zenaida Galve Pradel, Segundo Rite Gracia*
+
+*Hospital Universitario Miguel Servet, Zaragoza*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 309-315 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La **ictericia** se define como el signo clínico de la elevación de bilirrubina en sangre siendo un **motivo de consulta frecuente** (60% en recién nacidos a término (RNT) y 80% en recién nacidos prematuros (RNPT); 10% precisarán monitorización y tratamiento)
+
+## 2 Etiología (Tabla 1):
+
+Aunque la **ictericia fisiológica es la situación clínica más frecuente,** es fundamental identificar y estudiar situaciones que puedan poner de manifiesto una ictericia patológica. **La ictericia patológica se caracteriza por:** *Inicio precoz <24 horas de vida, clínica acompañante (vómitos, letargia, apnea, problemas de alimentación...), ↑ bilirrubina sérica >5 mg/dl día, bilirrubina directa >2 mg/dl, ictericia que persiste >8 días en el RNT (excepto si recibe lactancia materna, en cuyo caso puede durar ≥3 semanas) o de 14 días en RNPT.*
+
+| {3} **Tabla 1. Etiología ictericia patológica** |
+|---|---|---|
+| | **Más frecuentes** | **Menos frecuentes** |
+| Hemólisis | Isoinmunización ABO/Rh // Hemorragia, extravasación sanguínea (cefalohematoma) | Enzimopatías, membranopatías, hemoglobinopatías, infección, déficit de vit E |
+| Disminución conjugación hepática de la bilirrubina | Sd Gilbert, hipotiroidismo congénito | Alteraciones de la glucuroniltransferasa // Hipopituitarismo congénito |
+| Disminución excreción de la bilirrubina: | Lactancia materna, fibrosis quística, alteración vía biliar... | Alteraciones conductos biliares: atresia vías biliares, quiste colédoco... // Aumento circulación enterohepática: obstrucciones intestinales, ileo meconial... |
+@p 324
+@pie Tabla 1. Etiología ictericia patológica (continuación)
+| Citotoxicidad hepática | | Infecciones congénitas: citomegalovirus, herpes, toxoplasma, rubeola, sífilis // Errores innatos del metabolismo |
+| {3} *Aparición precoz 1ºdía: Isoinmunicación ABO/Rh o las infecciones intrauterinas // Aparición >8 días: atresia vías biliares, hepatitis neonatal, otras causas pseudoobstructivas, hepatopatías connatales, endocrinometabólicas, tóxicas.* |
+
+## 2 Diagnóstico (Figura 1, Tablas 1, 2 y 3)
+! En el PDF este apartado lleva también el número 2.
+
+**Figura 1. Diagnóstico hiperbilirrubinemia**
+@img seneo-3-30-fig1.png
+
+| {3} **Estudios complementarios** |
+|---|---|---|
+| {3} Hemograma, grupo sanguíneo y Rh, Coombs directo e indirecto. // Revisar resultado cribado metabólico // *Según sospecha diagnóstica: morfología serie roja, reticulosis, ETCO~c~, enzimas hepáticas, bioquímica con iones y albúmina, despistaje infeccioso (incluir cultivos), ecografía abdominal, actividad G-6-PD, estudio metabólico...* |
+| Coombs directo + | Bilirrubina directa elevada | Alteración morfología serie roja |
+| Identificar anticuerpos // Tratamiento ictericia hemolítica isoinmune | Considerar sepsis, galactosemia, hepatitis, infección intrauterina, fibrosis quística, atresia vías biliares | Esferocitosis, alteraciones enzimáticas, alfa talasameia, coagulación intravascular diseminada... |
+
+*\* Incluir bilirrubina directa en 1ª derminación*
+
+@p 325
+@flujo
+[**COLESTASIS NEONATAL** // Bil D > 1mg/dl]
+
+v
+@finflujo
+
+| {2} **Evaluación inicial** |
+|---|---|
+| Hª Clínica // Examen físico | AF, tiempo de evolución, síntomas asociados // Apariencia, características orina y heces, hepatoesplenomegalia, fallo de medro |
+| Pruebas Laboratorio | Hemograma, perfil hepático, proteínas totales y albúmina, bioquímica general, gasometría, hemostasia, screening metabóico (incluir perfil tiroideo), alfa 1 antitripsina, perfil tiroideo, despistaje infeccioso. |
+| Pruebas de Imagen | Ecografía abdominal *HIDA, biopsia hepática, colangiografía... |
+| {2} Primer estudio dirigido a descartar causas más frecuentes y tratables. En función de sospecha/ resultado se ampliará estudio |
+
+*ETCOc: dióxido de carbono al final de la espiración, G-6-PD: glucosa 6 fosfato deshidrogenasa, HIDA: gammagrafía con ácido iminodiacético hepatobiliar.*
+
+| **Tabla 2. Factores de riesgo de hiperbilirrubinemia y de neurotoxicidad** |
+|---|
+| **FACTORES DE RIESGO DE HIPERBILIRRUBINEMIA SIGNIFICATIVA** |
+| • Bilirrubina pre-alta cercana al umbral de FT (cifras<3-5mg/dl del rango de tratamiento) o necesidad de fototerapia antes del alta. // • Ictericia en las primeras 24 horas // • Incompatibilidad de grupo/Rh con Coombs directo positivo o sospecha de hemólisis o enfermedad hemolítica conocida o historia familiar de enfermedad hemolítica. Sospechar también si madres del sudeste asiático, mediterráneas, oriente medio, africanas, // • Edad gestacional <40EG (sobretodo <36EG) // • Antecedente de padre/hermano que recibió FT o ET // • Cefalohematoma o hematomas significativos. // • Lactancia materna exclusiva subóptima, asociada a pérdida excesiva de peso (>10%) // • Macrosoma, hijo de madre diabética. // • Otros: Policitemia,-Sexo varón;-Edad materna≥25 años, -Síndrome de Down |
+| **FACTORES DE RIESGO PARA EL DESARROLLO DE NEUROTOXICIDAD** |
+| Isoinmunización, déficit de G6PD u otras alteraciones hemolíticas // Sepsis o inestabilidad clínica significativa en las 24h previas o hipoalbuminemia <3g/dl. // Edad gestacional <38 // Bilirrubina>20-25mg/dl RNT o Aumento rápido de valores >0,5mg/dl/h // Signos clínicos de encefalopatía hiperbilirrubinémica aguda (letargia, rechazo de tomas, vómitos, llanto agudo, crisis, hipotonía seguido de hipertonía, opistótonos) |
+
+@p 326
+| {2} **Tabla 3. Métodos diagnósticos** |
+|---|---|
+| **Bilirrubina transcutánea (método de cribado)** | **Bilirrubina sérica (Gold standard)** |
+| Contraindicaciones: RN en tratamiento con FT, condiciones clínicas con aumento rápido (ej. Hemólisis activa) ya que puede infraestimar, 24h tras retirada de fototerapia // *Sobreestima en piel oscura* | Método de elección si: RN en tratamiento con FT o ET, ictericia en primeras 24h de vida, Bil Tc> 15mg/dl o Bil Tc a 3 puntos de ET. // *\*Se recomienda un primer análisis de bilirrubina total y fraccionada. Éste último no es necesario repetirlo en los siguientes controles si valor normal* |
+| {2} **Tras obtener el valor éste será evaluado en normograma/gráfica** // **Puntos CLAVE** // • Si >12h y bilirrubina sérica 0,5-3.4mg/dl por debajo del rango, repetir en 6-24h. // • Si RN bajo FT: medir cada 4-6h hasta tener controlado los niveles, posteriormente espaciar cada 12-24h. |
+
+## 3 Tratamiento
+
+Los pilares son: la alimentación, fototerapia (FT) y la exanguinotransfusión (ET). El manejo terapéutico se basará en la interpretación del valor de bilirrubina transcutánea (BbTc) o sérica en la gráfica basada en la edad gestacional, horas de vida, peso y factores de riesgo de neurotoxicidad (Figura 2)
+
+**Figura 2. Gráfica para indicar fototerapia/exanguinotransfusión en la ictericia neonatal aplicable a diferentes edades gestacionales y factores de riesgo.**
+@img seneo-3-30-fig2a.png
+@p 327
+@img seneo-3-30-fig2b.png
+*Adaptado de: Kemper AR, Newman TB, Slaughter JL, et al. Clinical. Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859*
+
+**Nutrición:** La lactancia materna siempre será de elección: insistir en tomas frecuentes
+
+La fluidoterapia intravenosa no se requiere de rutina: *Sólo si clínicamente lo precisa o en aquellos recién nacidos con valores cercanos/superiores al rango de ET.*
+
+**Fototerapia:** ***Tratamiento de elección.***
+- Fototerapia intensiva: Indicado si: ↑ rápido (>0,5mg/dl/h), no descenso en 6h, bilirrubina <3mg/dl del punto de corte para realización de ET, durante la ET.
+- Contraindicaciones: Porfiria eritropoyética congénita, hiperbilirrubinemia de predominio directo producida por hepatopatía o ictericia obstructiva.
+
+**Exanguinotransfusión**
+
+Indicación: Hemólisis grave + FT poco eficaz/Hemólisis grave con rápida progresión del cuadro/Hidrops + anemia hemolítica/Encefalopatia hiperbilirrubinémica aguda/Valores superiores a la curva que limita la necesidad de ET tras no respuesta a 6h de FT intensiva.
+
+¿Cómo realizarlo?: Uso de sangre completa, reconstituida, irradiada y fresca con el doble del volumen sanguíneo (160ml/kg)
+
+*Continuar con FT intensiva y control de bilirrubina a las 2h de finalizar.*
+
+Controles: Frecuencia cardíaca, Tensión arterial, cuidados respiratorios, temperatura, monitorizar niveles de calcio.
+
+**Otros tratamientos:**
+
+*Inmunoglobulinas:*
+@p 328
+- Indicaciones: Isoinmunización. Valorar si aumento rápido de bilirrubina (>0,5mg/dl/h) a pesar de FT, bilirrubina 2-3mg/dl dentro del rango de ET.
+- Dosis: 500mg/kg en 4h. Se puede repetir dosis a las 12h. Dieta durante la infusión
+
+*Seroalbúmina 5%:*
+
+- Indicaciones: En <31 semanas con hipoalbuminemia o si bilirrubina 2 puntos cercanos a ET.
+- Dosis: 1 g/kg ev.
+
+*Fenobarbital:*
+
+- Indicaciones: En prematuro, ictericia hemolítica o Criggler-Najar.
+- Dosis: 5 mg/kg c/12 horas, im o ev, 3 días.
+
+*Otros: Metaloporfirinas, Agar, Ácido ursodeoxicólico indicado en colestasis.*
+
+**Colestasis:** Se define por un aumento de la bilirrubina conjugada>1mg/dl debido a una alteración en formación o excreción biliar.
+
+Las causas pueden ser variables (obstrucción, hepatitis, infección sistémica, ITU, enfermedad hemolítica, enfermedad metabólica, tóxicos, hepatitis aloinmune); *siendo las más frecuentes: atresia biliar y hepatitis neonatal en RNT y la nutrición parenteral o sepsis en el RNPT.* Además de éstas, es importante descartar otras causas que requieren tratamiento precoz como la ITU, enfermedad hemolítica isoinmune, sepsis o metabolopatías como la tirosinemia o galactosemia.
+
+@caja
+**SE RECOMIENDA**
+- La ictericia deberá haber sido valorada en todo recién nacido previo al alta. En aquellos casos de alta precoz o valores cercanos al rango de fototerapia, deberán ser citados en las siguientes 24-48h para control.
+- En recién nacidos con > 24h o >35EG que presenten ictericia se podrá utilizar el bilirrubinómetro transcutáneo. Si valores >15mg/dl o superiores a la línea de rango de fototerapia, será necesario la determinación de bilirrubina sérica.
+- La medición de concentración de dióxido de carbono espirado (ETCO2) permite la identificación de hemólisis en casos de ictericia precoz.
+- Valorar seguimiento en consulta de Neonatología si hiperbilirrubinemia severa o necesidad de ET. Además, se recomienda hacer potenciales evocados auditivos de tronco en hiperbilirrubinemia severa y casos que hayan precisado ET.
+- Si colestasis, es importante descartar la atresia de vías biliares puesto que un tratamiento quirúrgico precoz antes de los 60 días de vida se relaciona con un mejor pronóstico, así como otras causas que requieren tratamiento precoz (ej. enfermedad hemolítica autoinmune, sepsis, infección urinaria, errores innatos del metabolismo).
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda el uso de bilirrubinómetro transcutáneo en casos de ictericia prolongada, hiperbilirrubinemia conjugada, recién nacido en tratamiento o que acaba de finalizar tratamiento con fototerapia o que ha recibido exanguinotransfusión.
+@p 329
+- No es necesario prolongar el ingreso para comprobar rebote de bilirrubina tras finalizar el tratamiento.
+- No se necesita repetir de manera rutinaria el control de bilirrubina en aquellos recién nacidos >24h y > 38EG con exploración física normal y cifras separadas >3mg/dl del rango de FT.
+- No se recomienda lactancia mixta de manera rutinaria a pesar de estar en fototerapia.
+@fin
+@bib
+1. Kemper AR, Newman TB, Slaughter JL, et al. Clinical. Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150:e2022058859.
+2. Bahr TM, Henry E, Christensen RD, et al. A New Hour-Specific Serum Bilirubin Nomogram for Neonates ≥35 Weeks of Gestation. J Pediatr. 2021 Sep;236:28-33.e1.
+3. Zhang M, Tang J, He Y, et al. Systematic review of global clinical practice guidelines for neonatal hyperbilirubinemia. BMJ Open 2021;11:e040182.
+4. Feldman AG, Sokol RJ. Recent developments in diagnostics and treatment of neonatal cholestasis. Semin Pediatr Surg. 2020; 29:150945.

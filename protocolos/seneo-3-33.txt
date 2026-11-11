@@ -1,0 +1,125 @@
+@f 14. Protocolos SENEO/3.33. Alteraciones del equilibrio ácido-base
+@p 340
+# 3.33 ALTERACIONES DEL EQUILIBRIO ÁCIDO-BASE
+
+*Abdón Castro Quiroga, Ilargi Urriza Ripa, Neus Jorda Sirera*
+
+*Hospital Universitario de Navarra*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 326-330 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción y conceptos fisiopatológicos
+
+Los trastornos del equilibrio ácido-base están relacionados con variaciones en las concentraciones de [H^+^] o bases en el líquido extracelular, consecuencia de la disfunción de los sistemas de regulación.
+
+El principal producto potencialmente ácido del metabolismo celular es el CO~2~ (ácido volátil). Además, dicho metabolismo genera ácidos no volátiles, cuya principal fuente es el catabolismo oxidativo proteico. Variaciones en la concentración de [H^+^] comprometen sistemas enzimáticos relacionados con funciones cardiopulmonares y neurológicas. Para mantener el equilibrio, existen sistemas de regulación que actúan de forma secuencial:
+- Amortiguadores fisiológicos extracelulares (CO~2~+H~2~O ↔ H~2~CO~3~↔H^+^+HCO~3~^-^) e intracelulares (PO^-^4 y las proteínas)
+- Compensación respiratoria (eliminación de CO~2~): ocurre de manera rápida. El aumento de H^+^ plasmático estimula quimiorreceptores carotídeos y bulbares provocando un aumento de la frecuencia respiratoria incrementando así la ventilación alveolar.
+- Respuesta renal (más lenta): elimina la carga ácida manteniendo la concentración plasmática de bicarbonato mediante la reabsorción a nivel del túbulo colector cortical y contorneado proximal excretando, por otro lado, H^+^ a la luz tubular.
+
+## 2 Gasometría y su interpretación
+
+Como la concentración de [ H^+^] plasmática es muy baja se emplea el pH (logaritmo negativo de [ H^+^]) para su valoración. La gasometría aporta una serie de parámetros esenciales para la interpretación de los desequilibrios ácido-base:
+- pH: indica la acidez o alcalinidad de una muestra.
+- pCO~2~: cantidad de CO~2~ disuelto en sangre. Reflejo de la capacidad ventilatoria.
+- CO~2~ total: CO~2~ transportado por la sangre, "reserva alcalina".
+- pO~2~: En muestra arterial evalúa la oxigenación.
+- HCO~3~^-^ real: [HCO~3~^-^] en el plasma.
+@p 341
+- HCO~3~^-^ estándar: [HCO~3~^-^] esperable si la pCO~2~ tuviera un valor de 40 mmHg.
+- HCO~3~^-^ estándar sigue alterado en trastornos metabólicos (simples o mixtos) y está dentro de la normalidad en la compensación de trastornos respiratorios.
+- Exceso de base (EB): Evalúa el componente metabólico de un desequilibrio. Valores positivos indican alcalosis metabólica. Valores negativos, acidosis metabólica.
+- Lactato: producto derivado del metabolismo celular ante escaso suministro de oxígeno. Evidencia el desequilibrio entre suministro y consumo de oxígeno tisular.
+
+La *muestra arterial es el gold standard* pero no siempre es posible acceder a la misma y se recurre a muestras venosas o capilares, válidas con diferencias en los valores de referencia (tabla 1).
+
+| {4} **Tabla 1. Valores de referencia en función del tipo de muestra** |
+|---|---|---|---|
+| Tipo de muestra | Arterial | Venosa | Capilar |
+| **pH** | 7,35-7,45 | 7,32-7,42 | 7,35-7,45 |
+| **pCO~2~ (mmHg)** | 35-45 | 38-52 | 35-45 |
+| **pO~2~ (mmHg)** | 80-100 | 24-48 | 60-80 |
+| **HCO~3~^-^ real (mEq/L)** | 19-25 | 19-25 | 19-25 |
+| **EB (mEq/L)** | -3 a +3 | -3 a +3 | -3 a +3 |
+
+@img seneo-3-33-fig1.png
+*Figura 1. Orientación diagnóstica del trastorno primario y su compensación*
+
+@p 342
+## 3 Trastornos primarios del equilibrio ácido-base y causas frecuentes en el recién nacido
+
+### Acidosis metabólica
+
+Desequilibrio causado por la generación excesiva de ácido, la inadaptación renal a la producción de ácido o la pérdida excesiva de base.
+
+Su estudio precisa de la valoración del hiato aniónico (anión gap o diferencia entre cationes y aniones plasmáticos) (Figura 2).
+
+***Anión gap = Na^+^ + K^+^ – (Cl^-^ + HCO~3~-) → 10 ± 2 mEq/L***
+
+\*\*Situaciones de hipoalbuminemia infraestiman el anión gap por lo que se debe recurrir al anión gap normalizado.
+
+***Anión gap normalizado = anión gap observado + 2,5 × (alb. normal – alb. observada)***
+
+@img seneo-3-33-fig2.png
+*Figura 2. Algoritmo diagnóstico de acidosis metabólica*
+
+@p 343
+**Causas de trastornos primarios en el recién nacido:**
+
+**3.1. Acidosis metabólica:**
+- Hipoxia celular. metabolismo anaerobio con aumento del lactato. Tratamiento dirigido a optimizar el aporte de oxígeno a los tejidos (cifras de hemoglobina, asegurar perfusión tisular y tratamiento etiológico).
+- Prematuridad: pérdida de bicarbonato (inmadurez renal).
+- Errores congénitos del metabolismo (ver figura 2)
+
+**3.2. Alcalosis metabólica:**
+- Uso de diuréticos (furosemida): ajuste de dosis y corrección de la hipopotasemia.
+- Vómitos persistentes.
+
+**3.3. Acidosis/alcalosis respiratoria:**
+- La insuficiencia respiratoria asocia hipercapnia y acidosis.
+- La alcalosis respiratoria secundaria a hiperventilación.
+- La alcalosis respiratoria en un recién nacido con disfunción neurológica e hiperamoniemia orienta a un trastorno en el ciclo de la urea
+- Los cambios en la pCO~2~ tienen efecto en el flujo sanguíneo cerebral, siendo la hipercapnia vasodilatadora y la hipocapnia vasoconstrictora cerebral.
+
+## 4 Uso del bicarbonato sódico
+
+Existen riesgos potenciales asociados a su administración:
+- Acidosis intracelular paradójica: su rápida administración conduce al aumento del pH extracelular. [CO~2~] extra e intracelular aumenta, pero, el aumento de HCO~3~^-^ intracelular es más lento implicando una disminución del pH intracelular. Esta circunstancia, a nivel miocárdico altera la contractilidad. Por otro lado, en contexto de asfixia perinatal, la injuria hipóxica junto con la rápida disminución de pH intracelular puede suponer un empeoramiento de la viabilidad de estas.
+
+Los efectos descritos se acentúan si la administración del bicarbonato sódico se realiza mediante dosis de carga al no dar tiempo a las células a iniciar mecanismos compensatorios.
+
+- Disminución del tono simpático.
+- Variaciones del flujo sanguíneo cerebral y en la osmolaridad plasmática: aumentan el riesgo de hemorragia intraventricular en prematuros.
+- Hipernatremia e hipocalcemia iónica (aumentos bruscos del pH provocan la unión del calcio iónico a la albúmina).
+- Aumento de la afinidad de la hemoglobina por el oxígeno.
+- Riesgo de daño tisular si extravasación (vías periféricas).
+@p 344
+- Vasodilatación e hipotensión transitorias con una infusión rápida.
+- Hipercapnia.
+
+No se recomienda su uso rutinario. Una excepción podría ser el tratamiento de las pérdidas de bicarbonato renales o extrarrenales excesivas.
+
+Se debe tener precaución a la hora administrarlo, especialmente en recién nacidos prematuros.
+
+La dosificación por vía intravenosa debe basarse en fórmulas que proporcionen una dosis de reemplazo estimada:
+- HCO~3~^-^ (mEq) = 0,3 x peso (kg) x déficit de base (mEq/L) o
+- HCO~3~^-^ (mEq) = 0,5 x peso (kg) x [24 - HCO~3~^-^ sérico (mEq/L)]
+
+Dosis habitual: 1 a 2 mEq/kg/dosis.
+
+La mitad del déficit HCO~3~^-^ estimado se infunde en 2-4 horas y la mitad restante durante 6-24 horas siguientes. Ritmo de infusión más lento a mayor déficit de HCO~3~^-^ (>3 mEq/kg).
+
+@caja
+**SE RECOMIENDA**
+- Es importante la valoración sistemática ante una alteración del equilibrio ácido-base: Contexto clínico → pH → pCO~2~ → HCO~3~^-^ y compensación.
+- El hiato aniónico es útil en el diagnóstico diferencial de la acidosis metabólica.
+@fin
+@caja
+**NO SE RECOMIENDA**
+No se recomienda su uso rutinario en el tratamiento de la acidosis, incluso en situaciones críticas, su posible efecto beneficioso no está respaldado por la evidencia al no haberse demostrado un aumento en la supervivencia o en los resultados neurológicos a corto plazo.
+@fin
+@bib
+1. Adrogue HJ, Madias NE. Secondary responses to altered acid-base status: the rules of engagement. J Am Soc Nephrol. 2010; 21:920-3.
+2. Al-Jaghbeer M, Kellum JA. Acid-base disturbances in intensive care patients: etiology, pathophysiology and treatment. Nephrol Dial Transplant. 2015;30:1104-11.
+3. Berend K, de Vries APJ, Gans ORJ. Physiological approach to assessment of acid–base disturbances. N Engl J Med 2014;371:1434-45.
+4. Carmody JB, Norwood VF. A clinical approach to paediatric acid-base disorders. Postgrad Med J 2012; 88:143-51.
+5. Berg CS, Barnette AR, Myers BJ, et al. Sodium bicarbonate administration and outcome in preterm infants. J Pediatr 2010; 157:684-7.

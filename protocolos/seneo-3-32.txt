@@ -1,0 +1,121 @@
+@f 14. Protocolos SENEO/3.32. Tumores en el período neonatal: neuroblastoma, leucemias
+@p 336
+# 3.32 TUMORES EN EL PERÍODO NEONATAL: NEUROBLASTOMA, LEUCEMIAS
+
+*Blanca Herrero Velasco, Sara Vinagre Enríquez, Beatriz Vergara Muñoz*
+
+*Hospital Infantil Universitario Niño Jesús, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 322-325 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Neuroblastoma
+
+Es un tumor que deriva del sistema nervioso simpático, de la cresta neural. Es el tumor sólido extracraneal más frecuente en niños (10% de los tumores infantiles). Es la neoplasia maligna más común en el periodo de lactancia. La media de edad de presentación son los 18 meses.
+
+La localización más frecuente del tumor primario es la glándula suprarrenal (40%), seguido la localización abdominal (25%), torácica (15%), cervical (5%) y ganglios pélvicos (5%). Las metástasis suelen ser óseas, en médula ósea, en ganglios o hígado. Existe un estadio Ms "special" típico de niños menores de 18 meses que se caracterizan por la posibilidad de presentar metástasis en hígado, médula ósea y piel.
+
+### Manifestaciones clínicas
+
+La clínica más habitual es una masa abdominal que suele cruzar la línea media, ya que dos tercios de los neuroblastomas se localizan en la región abdominal.
+
+En neonatos el neuroblastoma puede ser asintomático y ser diagnosticado por una prueba de imagen rutinaria (ecografía abdominal) realizada por otros motivos.
+
+### Diagnóstico
+
+- Anamnesis y Exploración Física
+- Cuantificación de catecolaminas en orina (adrenalina, noradrenalina, ácido vanilmandélico y ácido homovalínico), excretadas por el tumor en un 80-90%.
+- Analítica en sangre: hemograma, enolasa neuronal específica y ferritina.
+- Pruebas de imagen:
+  - Ecografía: prueba inicial. Ante una masa suprarrenal neonatal hay que hacer diagnóstico diferencial con hemorragia suprarrenal, secuestro pulmonar extralobar subdiafragmático, quiste de duplicación entérico, citomegalia suprarrenal y tumores adrenocorticales.
+  - Resonancia Magnética (RM) de la región del tumor primario: información para estadiaje.
+@p 337
+  - Meta-yodo-bencil-guanidina (MIBG): prueba para confirmar la presencia del tumor primario y de posibles metástasis. El MIBG es un radiotrazador que se concentra en las células del sistema nervioso simpático y esta prueba es positiva en la mayoría de los pacientes con un neuroblastoma (90%)
+- Aspirado y biopsia bilateral de médula ósea: para descartar infiltración.
+- Biopsia: diagnóstico histológico de confirmación.
+
+En el caso de neonatos con masas suprarrenales no se realiza biopsia de la lesión para confirmar el diagnóstico de inicio y no se realiza tampoco aspirado ni biopsia de médula ósea (ya que son técnicas invasivas y difíciles en neonatos).
+
+### Pronóstico y estratificación
+
+El neuroblastoma tiene un espectro de agresividad muy diferente. Son factores de buen pronóstico: la edad al diagnóstico menor de 18 meses, la histología favorable, que no tenga amplificación de N-MYC y que sea un neuroblastoma localizado. El subtipo Ms también cursa con un pronóstico favorable.
+
+Un porcentaje muy alto de pacientes con neuroblastomas neonatales localizados presentarán regresión tumoral.
+
+### Tratamiento
+
+Según los factores pronósticos se establece el riesgo del neuroblastoma para adecuar la intensidad del tratamiento:
+- Bajo riesgo:
+  - L1: Cirugía.
+  - Ms: Remisión espontánea. Supervivencia 97.6%. Actitud expectante. La necesidad de tratamiento depende de la presencia de síntomas amenazante para la vida.
+- Alto riesgo: Tratamiento muy intensivo y multimodal (quimioterapia, cirugía, trasplante autólogo de progenitores hematopoyéticos, radioterapia, inmunoterapia).
+
+En neonatos con neuroblastomas localizados asintomáticos se mantiene actitud expectante con seguimiento estrecho con pruebas de imagen (habitualmente ecografías) para confirmar regresión. Si el tumor no regresa tras un año de seguimiento o si durante el seguimiento aumenta de tamaño se indicaría resección quirúrgica del tumor.
+
+## 2 Leucemia congénita
+
+Se denomina así a la leucemia que se diagnostica en el recién nacido en el primer mes de vida. Constituye menos del 1% de las leucemias en la edad pediátrica y afecta a 1-5/1.000.000 recién nacidos.
+
+Es más frecuente que se trate de una Leucemia Mieloblástica Aguda (56-64%) que una Leucemia Linfoblástica Aguda (21-28%)
+@p 338
+### Características típicas al diagnóstico
+
+Los neonatos suelen tener aspecto de enfermos.
+
+- Afectación cutánea (>30%) → Leucemia Cutis.
+- Hepatoesplenomegalia
+- Hiperleucocitosis
+
+La confirmación se realiza por el aspirado de médula ósea.
+
+### Clasificación
+
+- Morfológicamente según la clasificación FAB suele corresponderse con M4 (mielomonocítica) o M5 (monocítica).
+- Alteraciones citogenéticas: se asocian las que afectan a la región 11q23 (reordenamiento del gen MLL, actualmente denominado KMT2A).
+
+### Tratamiento y pronóstico:
+
+Pronóstico desfavorable. El tratamiento se basa en quimioterapia intensiva y de soporte adecuado. Las leucemias congénitas suelen ser más resistentes al tratamiento y los pacientes presentan mayores tasas de recaídas. Además, estos pacientes tienen mayor toxicidad por el tratamiento agudo, así como complicaciones a largo plazo.
+
+Es importante derivar a estos pacientes de forma precoz a unidades de oncología pediátrica especializadas.
+
+## 3 Síndrome mieloproliferativo transitorio
+
+El síndrome mieloproliferativo transitorio ocurre por una proliferación de mieloblastos en sangre periférica y médula ósea. Afecta a recién nacidos y de forma específica a aquellos con síndrome de Down. Hallazgos clínicos y analíticos indistinguibles de la leucemia mieloide aguda
+
+### Manifestaciones clínicas
+
+- Lesiones cutáneas vesiculopustulosas: agrupadas de aparición cefalocaudal más frecuentes en región de roce o presión. Es necesario diagnóstico diferencial con otras erupciones del recién nacido similares (infecciosas -candidiasis, impétigo, herpes-, miliaria, melanosis pustulosa neonatal transitoria, E. ampollosas autoinmunes, etc).
+- Hepatoesplenomegalia, ictericia, ascitis.
+- Dificultad respiratoria, hemorragia y derrames pericárdicos o pleurales.
+
+### Diagnóstico
+
+- Anamnesis y exploración física. Sospechar este cuadro en pacientes con S. de Down.
+- Analítica de sangre: Leucocitosis, Blastos en sangre periférica (megacarioblastos).
+@p 339
+Otras alteraciones analíticas: poliglobulia, trombopenia, coagulopatía.
+
+### Alteraciones genéticas
+
+- Variantes en gen GATA-1
+
+### Pronóstico y tratamiento
+
+- La mayoría remisión espontánea en primeros tres meses de vida. En ocasiones pueden desarrollar complicaciones hepáticas renales o cardiacas potencialmente mortales.
+- Actitud expectante.
+- De soporte.
+- En formas graves: quimioterapia (arabinósido de citosina), rasburicasa.
+
+Se debe realizar seguimiento por mayor riesgo de desarrollar leucemia aguda en los primeros años de vida.
+@caja
+**SE RECOMIENDA**
+- Ante un neonato asintomático con un hallazgo de una lesión suprarrenal es obligado descartar un neuroblastoma neonatal. Realizar estudio de catecolaminas en orina, analítica con enolasa y si se confirma la sospecha plantear un MIBG. Son tumores de buen pronóstico que muchos casos regresan espontáneamente sin necesidad de tratamiento.
+- La leucemia congénita se da en neonatos de hasta 28 días de vida. Son leucemias muy agresivas y con mal pronóstico. Clínicamente cursan con hiperleucocitosis, hepatoesplenomegalia y afectación cutánea.
+- En un neonato con síndrome de Down con leucocitosis y presencia de blastos en sangre periférica hay que pensar en un Síndrome Mieloproliferativo Transitorio. Es un cuadro que suele remitir de forma espontánea. Estos pacientes tendrán un riesgo aumentado de desarrollar leucemia aguda los primeros años de vida.
+@fin
+@bib
+1. Park J, Hogarty M, Bagatell R, et al. Neuroblastoma. In: Pizzo P, Poplack D, editors. Principles and Practice of Pediatric Oncology. 8th ed. Philadelphia, PA, EE.UU.: Wolters Kluwer; 2020. p. 647-72.
+2. Minakova E, Lang J. Congenital Neuroblastoma. Neoreviews. 2020; 21:e716-e727.
+3. Roberts I, Fordham NJ, Rao A, et al. Neonatal leukaemia. Br J Haematol. 2018; 182:170-184.
+4. Brown PA. Neonatal Leukemia. Clin Perinatol. 2021; 48:15-33.
+5. Watanabe K. Recent advances in the understanding of transient abnormal myelopoiesis in Down syndrome. Pediatr Int 2019; 61:222-229.
+6. Gamis AS, Smith FO. Transient myeloproliferative disorder in children with Down syndrome: clarity to this enigmatic disorder. Br J Haematol. 2012;159:277-87.

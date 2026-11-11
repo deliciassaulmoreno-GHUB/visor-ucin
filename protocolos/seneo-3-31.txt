@@ -1,0 +1,112 @@
+@f 14. Protocolos SENEO/3.31. Neutropenia. Trombopenia. Alteraciones de la coagulación, trombosis y tratamiento
+@p 330
+# 3.31 NEUTROPENIA. TROMBOPENIA. ALTERACIONES DE LA COAGULACIÓN, TROMBOSIS Y TRATAMIENTO
+
+*Rosaura Picáns Leis, Cristina Durán Fernández-Feijoo, María Luz Couce Pico*
+
+*Hospital Clínico Universitario de Santiago de Compostela*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 316-321 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Neutropenia neonatal
+
+La neutropenia se define como un recuento absoluto de neutrófilos en el hemograma inferior a dos desviaciones estándar del valor medio para su edad o, en su defecto, un recuento inferior al percentil 5 para su edad. Se define de forma general como neutropenia leve cifras entre 1000-1500/µL; moderada 500-1000/µL; y grave < 500/µL. Es una entidad más prevalente en prematuros y en recién nacidos de bajo peso al nacimiento (3% en > 2500 g; 13% en < 2000 g; 38% en < 1000 g).
+
+### Etiopatogenia
+
+Sus principales causas son: una disminución en la producción de neutrófilos, un aumento de su consumo, una excesiva marginación de los neutrófilos en el endotelio vascular y/o una combinación de los anteriores mecanismos. Existe un porcentaje de neutropenias de tipo inmune por paso de anticuerpos maternos: aloinmune (menos frecuente, más grave) y autoinmune (más frecuente). La neutropenia puede relacionarse con hipertensión arterial materna durante la gestación, retraso de crecimiento intrauterino, sepsis, transfusión feto-fetal, inmunización o enfermedad hemolítica. El momento de aparición de la neutropenia también resulta útil para su enfoque diagnóstico.
+
+### Laboratorio
+
+Hemograma para recuento de absoluto de neutrófilos. Evaluar si se trata de neutropenia aislada o, si en su defecto, asocia anemia y trombopenia, datos sugestivos de fallo medular. Si la neutropenia persiste más de 2 semanas, debería valorarse la realización de una biopsia de médula ósea. En sospecha de cuadros autoinmunes, se debe realizar un hemograma en sangre materna y si el recuento de neutrófilos es normal, realizar una tipificación de antígenos de neutrófilos maternos; así como un estudio en el recién nacido de anticuerpos anti-neutrófilo. antígenos de neutrófilos maternos; así como un estudio en el recién nacido de anticuerpos anti-neutrófilo.
+! En el PDF el final de este párrafo aparece repetido; se ha copiado tal cual.
+@p 331
+### Diagnóstico Diferencial (Figura 1)
+@img seneo-3-31-fig1.png
+*Figura 1. Diagnóstico diferencial de la neutropenia neonatal.*
+
+### Tratamiento
+
+En la mayor parte de los casos, actitud expectante por tendencia a la resolución espontánea. Si persistente y significativa, valorar factor estimulante de colonias de granulocitos subcutáneo (G-CSF) a dosis entre 3-10 ug/kg/día.
+
+## 2 Trombopenia neonatal
+
+Se define como un valor de plaquetas inferior a 150.000/µL. El recuento plaquetario aumenta con la edad gestacional, pudiendo considerarse normales cifras mayores a 100.000/µL en < 32 semanas. Prevalencia entre el 1-5% de recién nacidos sanos, aumentando dicho porcentaje a menor edad gestacional y en pacientes con retraso de crecimiento intrauterino. Se define, de forma general, trombopenia leve entre 100.000-150.000/µL; moderada entre 50.000-100.000/µL y grave < 50.000/µL.
+@p 332
+### Etiopatogenia
+
+Sus principales causas son una disminución en la producción; un incremento del consumo intravascular de las mismas; un aumento de pérdidas extravasculares y/o una
+
+combinación de los mecanismos anteriores. Generalmente en la etapa neonatal, la trombopenia suele ser secundaria a un sumatorio de factores.
+
+### Laboratorio
+
+Recuento de plaquetas en hemograma. No se debe basar el diagnóstico en una determinación aislada por la alta tasa de errores preanalíticos y/o analíticos.
+
+### Tratamiento
+
+Individualizar transfusión de plaquetas, para ello valorar el riesgo de sangrado en cada paciente, considerando conjuntamente estado clínico y analítico. Dosis entre 10-15 mL/kg en 20-30 minutos.
+
+*Valorarla transfusión si:* < 20.000/µL en recién nacido estable; < 30.000/µL en prematuro estable < 32 semanas; < 50.000/µL si sangrado mayor previo, sangrado menor activo, presencia de coagulopatía, sepsis, enterocolitis y/o shock, previo a procedimientos invasivos o cirugía menor o, en posoperatorio inmediato (primeras 72 horas); < 100.000/µL si sangrado mayor activo, cirugía mayor, neurocirugía y/o soporte con ECMO.
+
+### Diagnóstico diferencial (Figuras 2 y 3)
+@img seneo-3-31-fig2.png
+*Figura 2. Diagnóstico diferencial trombopenia neonatal en función de tiempo de presentación.*
+
+@p 333
+@img seneo-3-31-fig3.png
+*Figura 3. Diagnóstico diferencial trombopenia neonatal inmune.*
+
+## 3 Alteraciones de la coagulación. Trombosis y tratamiento.
+
+La hemostasia es un sistema dinámico dependiente de la edad. Los factores de coagulación no atraviesan la barrera placentaria, sintetizándose, por tanto, en las primeras fases del periodo fetal. Al nacimiento, los factores dependientes de la vitamina K (factor II, VII, IX, X), factores de contacto (XI, XII), proteínas C y S y plasminógeno alcanzan el 50% de los valores normales de la edad adulta, siendo inferiores a dicho porcentaje en el recién nacido prematuro.
+
+### Etiopatogenia
+
+Las alteraciones de la coagulación pueden deberse a causas genéticas o adquiridas, siendo estas últimas las más significativas en número (generalmente procesos con consumo aumentado de factores tales con sepsis y/o CID).
+
+### Laboratorio
+
+Tiempo de protrombina (TP) o de Quick, valora la vía extrínseca (factores dependientes de vitamina K, fibrinógeno, factor V). Tiempo de tromboplastina parcial activada (TTPa) o de cefalina, valora la vía intrínseca (déficit de cualquier factor menos el VII, interferido por heparina, procesos con consumo aumentado de factores tales con sepsis y/o CID). Los valores normales de TP, TTPa o fibrinógeno varían en función de la edad gestacional y días de vida.
+@p 334
+### Diagnóstico diferencial (Figura 4)
+@img seneo-3-31-fig4.png
+*Figura 4. Diagnóstico diferencial alteraciones de la coagulación.*
+
+### Tratamiento
+
+Indicaciones para la administración de plasma fresco congelado: pacientes con coagulopatía y sangrado activo, CID y déficits de factor en el que se carezca de tratamiento con factor específico.
+
+## 3 Trombosis
+! En el PDF este apartado lleva también el número 3.
+
+El riesgo de trombosis en el neonato aumenta de forma significativa en aquellos pacientes que se ven sometidos a procedimientos invasivos y/o ingresos en unidades de cuidados intensivos.
+
+El principal factor de riesgo, es la cateterización umbilical, representando la causa principal de trombosis en este rango de edad (80-90% de los casos). Existen otros factores que pueden actuar como coadyuvantes a la misma, como la deshidratación, sepsis, prematuridad y/o diferentes estados procoagulantes.
+
+### Diagnóstico
+
+El diagnóstico se realiza mediante ecografía Doppler del vaso con sospecha de trombosis.
+@p 335
+### Tratamiento
+
+La mayoría de los eventos trombóticos en el neonato se asocian a catéter por lo que el manejo incluye la retirada del mismo cuando sea posible. La decisión de tratamiento conservador versus anticoagulación dependerá del territorio afectado, tamaño del trombo y repercusión clínica del mismo. Debe tratarse todo trombo que condicione oclusión de un territorio o que se encuentre en posición central. De elección, se anticoagulará con heparina de bajo peso molecular, enoxaparina, a dosis de 1.5-2 mg/kg/dosis cada 12 horas por vía subcutánea.
+
+La monitorización de dicha anticoagulación se realizará mediante determinaciones seriadas de factor antiXa, a las 4 horas de la administración/corrección de la dosis (durante las primeras 48 horas) y si cifras estables, evaluación semanal posteriormente.
+
+La duración aproximada de tratamiento suele estar en 3-6 meses. No existe un claro consenso, pero de forma general, se recomienda monitorizar la lesión y mantener el tratamiento hasta objetivar resolución o práctica resolución del trombo. Tasa de recurrencia no significativa tras suspensión de tratamiento si ha sido retirado el agente causal.
+
+*Rango terapéutico de antiXa 0.5-1 U/mL. Si niveles inferiores a 0.35, aumentar un 25% la dosis; si niveles 0.35-0.49 UI/mL, aumentar un 10% la dosis; si entre 1-1.5 UI/mL, disminuir la dosis un 10%.
+@caja
+**SE RECOMIENDA**
+- Individualización de tratamientos en función de recuentos absolutos, repercusión clínica y/o evolución del cuadro.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Estudio de médula ósea en neutropenias salvo que sea prolongada de más de dos semanas o grave refractaria a tratamiento con G-CSF.
+@fin
+@bib
+1. Resch E, Hinkas O, Urlesbereger B, Resch B. Neonatal thrombocytopenia - causes and outcomes following plaquelet transfusions. Eur J Pediatr 2018;177:1045-1052.
+2. Boix H, Sánchez-Redondo MD, Cernada M, et al. Recommendations for transfusión of blood products in neonatology. An Pediatr 2022;97:60.e1-60.e8.
+3. Escribá A, Gil R, Del Río R. Trastornos hemorrágicos en el recién nacido. An Pediatr Contin 2010;8(2):64-72.
+4. Nittala S, Subbarao GC, Maheshwari A. Evaluation of Neutropenia and Neutrophilia in. Preterm Infants. J Matern Fetal Neonatal Med 2012;25:100-103.
+5. Veldman A, Nold MF, Michel-Behnke I. Thrombosis in the critically ill neonate: incidence, diagnosis, and management. Vasc Health Risk Manag 2008;4:1337-48.
