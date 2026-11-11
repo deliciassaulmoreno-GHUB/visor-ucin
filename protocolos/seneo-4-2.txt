@@ -1,0 +1,78 @@
+@f 14. Protocolos SENEO/4.2. Alimentación al alta del recién nacido pretérmino
+@p 518
+# 4.2 ALIMENTACIÓN AL ALTA DEL RECIÉN NACIDO PRETÉRMINO
+
+*M. Carmen Sánchez Gómez de Orgaz, Sylvia Marina Caballero Martín, Manuel Sánchez Luna*
+
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 504-507 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+### Objetivo nutrición en < 1500 g
+
+"Crecer como en útero con la menor morbilidad posible"
+
+- Evitar la **restricción del crecimiento extrauterino:** percentil < 10 en datos antropométricos (peso, perímetro cefálico (PC) y longitud) ***al alta hospitalaria.*** Causa: inadecuada ingesta calórica y proteica
+- Evitar **alteración en la composición corporal:** excesivo depósito de grasa corporal evidenciable ya ***previo al alta,*** a partir de 1 mes de edad postmenstrual (EPM). Causa: inadecuada relación del aporte proteínas/calorías totales (Figura 1)
+
+| {2} **Figura 1. Factores que influyen en la nutrición óptima en el recién nacido prematuro** |
+|---|---|
+| **Factores de riesgo** | **Factores determinantes** |
+| Sexo varón // VM en 1º día de vida (ddv) // Necesidad soporte respiratorio O~2~ a los 28 ddv | Retraso inicio nutrición enteral // Retraso en alcanzar enteral exclusiva // Retraso en recuperar peso al nacimiento |
+
+## 1 Preparando el alta desde el hospital (Figura 2)
+@img seneo-4-2-fig2a.png
+@p 519
+@img seneo-4-2-fig2b.png
+*Figura 2. De la fase de transición a la estabilización nutricional*
+
+@p 520
+### Controles analíticos nutricionales
+
+A los 14 días de alcanzar enteral exclusiva:
+
+Calcio, Fósforo, Fosfatasa Alcalina, índice Calcio/Creatinina orina, niveles OH vitamina D3, ferritina, Triglicéridos
+
+Valorar controles cada 15-20 días
+
+### Actuación en el pretérmino de bajo peso al nacimiento
+
+- Iniciar nutrición precoz: 12-24 cc/kg/día con LM
+- Fortificar LM hasta los 6 meses/ Fórmula de Prematuro al Alta (FPA) hasta los 2 meses de EPM
+
+### Curvas crecimiento
+
+- Tablas de FENTON hasta 40-44 semanas EPM y continuar con tablas OMS ajustando a EPM hasta los 2 años (3 años en < 1000 g)
+- Intergrowth 21 hasta los 6 meses EPM y continuar con tablas OMS ajustando a EPM hasta los 2 años (3 años en < 1000 g)
+
+## 2 Alimentación al alta domiciliaria
+
+Siempre que sea posible lactancia materna
+
+| | |
+|---|---|
+| **< 1000 g // < 30 semanas con Retraso del Crecimiento Extrauterino (RCE) al alta** | **LM fortificada** hasta las 40 semanas de EMP (se puede prolongar hasta los 2 meses de EPM /52 semanas EPM (hasta alcanzar p25 curvas crecimiento) |
+| | *Fortificar: 50% tomas al pecho y 50% LM extraída fortificada o FPA // < P10 sólo LM: NO ÉXITO* |
+| **Resto prematuros** | **Fórmula de prematuro** hasta las 40 semanas de EPM (se puede prolongar hasta los 2 meses de EPM /52 semanas EPM (hasta alcanzar p25 en curvas |
+| | **Fórmula Adaptada (FA) de inicio** suplementada con LC-PUFAs |
+| {2} **Suplementos** // • Vitamina D (seguir protocolo osteopenia) // • Hierro oral: 2-4 mg/kg/día (tener en cuenta transfusiones de sangre) // ◦ Inicio a partir de 15 ddv según control analítico // ◦ Hasta mínimo los 3 meses EPM |
+
+@p 521
+@caja
+**SE RECOMIENDA**
+- Información detallada de las alternativas nutricionales al alta.
+- Plan de nutrición individualizado y labor educativa a las familias.
+- Valoración del estado nutricional y seguimiento ambulatorio.
+- LACTANCIA MATERNA con un patrón de referencia adaptado a cada prematuro más suplementación.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No tener en cuenta la EPM.
+- No tener en cuenta los patrones de crecimiento al alta hospitalaria.
+- Nutrición agresiva.
+@fin
+@bib
+1. Villar J, Giuliani F, Barros F, et al. Monitoring the postnatal growth of preterm infants: a paradigm change. Pediatrics 2018;141: e20172467.
+2. Dutta S, Singh B, Chessell L, et al. Guidelines for feeding very low birth weight infants. Nutrients 2015;7:423-42.
+3. Mol N. Kwinta P. How to determine the nutritional status of preterm babies? Review of the literature. Dev Period Med 2015; 19: 324-329.
+4. Goldberg DL, Becker PJ, Brigham K, et al. Identifying Malnutrition in Preterm and Neonatal Populations: Recommended Indicators. J Acad Nutr Diet. 2018; 118:1571-1582.
+5. Thoene MK, Lyden E, Anderson-Berry A. Improving Nutrition Outcomes for Infants < 1500 Grams With a Progressive, Evidenced-Based Enteral Feeding Protocol. Nutr Clin Pract. 2018; 33:647-655.

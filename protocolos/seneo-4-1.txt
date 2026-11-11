@@ -1,0 +1,121 @@
+@f 14. Protocolos SENEO/4.1. Alta precoz del recién nacido que ha sido prematuro
+@p 513
+# 4.1 ALTA PRECOZ DEL RECIÉN NACIDO QUE HA SIDO PREMATURO
+
+*Pilar Sáenz González*
+
+*Hospital Universitari i Politècnic La Fe, Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 499-503 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Origen del alta precoz neonatal
+
+El origen del alta precoz neonatal surge en los países en vías de desarrollo ante la elevada presión demográfica, la necesidad de fomentar la lactancia materna y de recursos sanitarios y la elevada incidencia de infecciones nosocomiales en las unidades neonatales. En Colombia surge el método "madre canguro" como alternativa a la hospitalización estándar y demuestra sus beneficios tanto para la madre, como para los niños y las instituciones.
+
+Paralelamente, en los países desarrollados, los avances médicos y técnicos aumentan la supervivencia de prematuros cada vez más inmaduros, prolongando las estancias hospitalarias y las consecuencias de las mismas. Los Cuidados Neonatales Centrados en el Desarrollo y la Familia intentan paliar los efectos negativos de la experiencia hospitalaria de los prematuros y sus familias, siendo el alta temprana uno de sus pilares.
+
+Por otro lado, las estancias hospitalarias de los prematuros presentan significativas variaciones entre diferentes países e incluso entre centros de un mismo país, lo que traduce diferentes filosofías de cuidados y diferentes criterios de alta hospitalaria.
+
+## 2 Alta neonatal
+
+El alta del recién nacido prematuro debería ser lo más precoz posible con el fin de integrarle lo antes posible en la vida familiar normal. Pero los niños prematuros deben alcanzar una madurez que garantice la resolución de su inestabilidad fisiológica. La maduración fisiológica está determinada por el grado de prematuridad al nacer y por la edad postconcepcional. Así, cuanto más inmaduro, más se prolonga la maduración extrauterina de su inestabilidad fisiológica y más posibilidades de morbilidades que prolonguen su estancia hospitalaria. Una evolución sin especiales complicaciones resulta en los grandes prematuros en un alta hospitalaria cercana a la edad corregida a término. Por lo que prematuros por debajo de los 1000 gramos alcanzan estancias medias de 2 y 3 meses.
+
+Pero en la maduración postnatal también intervienen otros factores como la precocidad de la alimentación enteral, la estimulación de la succión y la implementación de la participación de los padres en los cuidados. Así, alrededor del 50% de los prematuros con
+@p 514
+menos de 1500 gramos al nacimiento serían candidatos a un programa de alta precoz si durante el ingreso del niño se fomenta el cuidado y el manejo por los padres y no existe patología crónica residual que prolongue sus estancias. La participación de los padres en los cuidados en fundamental pues el alta hospitalaria supone la transferencia de responsabilidades y de cuidados, perdiéndose el apoyo hospitalario; siendo entonces cuando puede aflorar la vulnerabilidad psicológica de los padres.
+
+## 3 Alta precoz neonatal
+
+**Definición:** Alta neonatal de un niño prematuro con un peso y edad postconcepcionales inferiores a los estándares de la época, una vez superados los problemas que precisan tratamiento o monitorización hospitalaria.
+
+La edad gestacional corregida al alta y el peso de las altas neonatales precoces se han ido reduciendo progresivamente hasta alcanzar hoy una edad gestacional corregida de unas 34-35 semanas y un peso al alta inferior a 1800g.
+
+### 3.1. Bases del alta precoz
+
+- Selección de candidatos libres de riesgos médicos y psicosociales.
+- Libre entrada de los padres en la Unidad Neonatal para acelerar su adiestramiento.
+- Fomentar la lactancia materna.
+- Programa de seguimiento.
+- Facilitar el reingreso en el Servicio de Neonatología en caso de complicación.
+
+El alta debe estar bien planificada y acordada por ambas partes, con un bebé médicamente estable y un plan de seguimiento en vigor.
+
+### 3.2. Criterios de inclusión
+
+- Consentimiento informado de los padres.
+- Curva ponderal adecuada.
+- Alimentación completa por succión /sonda en caso de hospitalización a domicilio.
+- Estabilidad clínica y ausencia o resolución del síndrome apneico-bradicárdico (ausencia de apneas sin tratamiento 5 días previos al alta y pulsoximetría continua estable).
+- Buen control de la temperatura corporal en cuna.
+- No precisar tratamiento por vía parenteral (salvo hospitalización a domicilio)
+- Padres entrenados en el manejo del recién nacido.
+- Seguimiento extrahospitalario garantizado y reserva de punto de asistencia en el Servicio de Neonatología si precisara reingreso.
+@p 515
+### 3.3. Tabla 1
+
+| {3} **Tabla 1. Ventajas del alta precoz neonatal** |
+|---|---|---|
+| **Médicas** | **Psicoafectivas** | **Económicas** |
+| • Entorno ambiental más adecuado // • Disminución infecciones nosocomiales // • Fomento lactancia materna | • Mejora vínculo afectivo familiar // • Prevención desgaste emocional familiar // • Atenúa las consecuencias negativas de la hospitalización prolongada | • Reducción costes hospitalarios // • Optimización recursos sanitarios |
+
+### 3.4. Seguimiento dentro de los programas de alta precoz neonatal
+
+El seguimiento cercano e individualizado es la pieza clave de los programas de alta precoz neonatales. Los diseños de seguimiento recogidos en la literatura son muy heterogéneos.
+
+**Seguimiento en Atención Primaria.** En España la atención de la mayoría de los niños por pediatras de Atención Primara conocedores de la patología de la prematuridad y de las peculiaridades de su seguimiento permite una derivación directa tras ser informado del caso. Previo al alta del paciente se le debe asignar fecha y hora de consulta de atención primaria en las siguientes 48 horas del alta. Desgraciadamente, no disponemos de pediatras en todos los centros de Atención Primaria.
+
+**Seguimiento hospitalario.** En caso de seguimiento hospitalario el paciente se citará a las 24-48 horas de alta. Sin embargo, los grandes hospitales terciarios que reciben pacientes remitidos desde otros centros no pueden abarcar el seguimiento de todos sus pacientes o bien supone un considerable desplazamiento para la familia.
+
+**Hospitalización domiciliaria.** En caso de programa de hospitalización domiciliaria se incluirá el paciente en dicho programa previo al alta. Esta alternativa permite altas más precoces y una transición en la responsabilidad de los cuidados más gradual. Requiere que se cumplan los criterios de cada programa de hospitalización domiciliaria, siendo pieza clave en la mayoría de los mismos la distancia del domicilio al hospital. Esto resulta problemático en los grandes hospitales terciarios que reciben pacientes remitidos desde otros centros. Cabe la posibilidad de remitir a estos pacientes a sus centros previo al alta, para que su hospital de referencia pueda programar el seguimiento.
+
+**Rooming-in.** Habitaciones hospitalarias donde pediatría puede ingresar al niño junto con sus padres, como transición al alta hospitalaria definitiva. Este puente sirve para terminar de adiestrar a los padres en los cuidados especiales que su hijo prematuro pueda necesitar y afianzar la confianza de los padres como cuidadores válidos.
+
+**Habitaciones individuales.** Habitaciones donde los padres pueden permanecer junto a sus hijos las 24 horas desde su nacimiento o como transición al alta hospitalaria. Han demostrado la mejoría del vínculo, de la lactancia, de la autoconfianza de los padres, la reducción de infecciones y tasas de displasia..; por lo que se van ampliando el número de unidades con habitaciones individuales.
+
+### 3.5. Recomendaciones de cuidados tras el alta precoz
+
+- Práctica del método canguro
+@p 516
+- Mantenimiento de la lactancia materna, liberalización de horarios y dobles pesadas
+- Respeto del sueño
+- Aislamiento de contactos durante temporada epidémica
+
+## 4 Riesgos inherentes al alta precoz
+
+Acortar la hospitalización del recién nacido conlleva una serie de riesgos que hay que controlar mediante el estrecho seguimiento del recién nacido tras el alta.
+
+### 4.1. Problemas médicos
+
+Los programas de alta precoz no se relacionan con aumento de reingresos o de utilización de las urgencias hospitalarias. No obstante, el porcentaje de reingreso neonatal es bajo para el tamaño de las muestras estudiadas. Posibles problemas médicos:
+- Alimentación (sobrealimentación, pérdida de la lactancia materna, ganancia ponderal escasa)
+- Infecciones de la comunidad o la familia
+- Deshidrataciones
+- Ictericia (sobre todo en prematuros moderados dados de alta desde las maternidades)
+
+### 4.2. Problemas familiares
+
+Tras el alta, pueden surgir problemas en el seno familiar de ansiedad ante los cuidados especiales que su hijo requiere con el consiguiente exceso de utilización de recursos sanitarios urgentes.
+
+La entrada de los padres en la Unidad Neonatal y el fomento de los cuidados especiales por parte de los padres hace que el traspaso de responsabilidad sea más paulatino y llevadero para los padres.
+
+## 5 Conclusiones
+
+El éxito de los programas de alta precoz neonatales se basa en la capacidad de seleccionar los pacientes candidatos a un alta precoz, en incrementar el adiestramiento de los padres y en seleccionar a las familias que tengan más probabilidades de cumplir las expectativas con éxito.
+
+La integración plena del pediatra responsable del seguimiento en el programa es imperativa para garantizar el cuidado del prematuro post-alta.
+@caja
+**SE RECOMIENDA**
+- Considerar la madurez de cada prematuro de forma individualizada, independientemente de su peso.
+@p 517
+- Identificar a los candidatos a alta precoz y a su familia.
+- Planificar y consensuar alta y seguimiento.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Demorar el alta de un niño/familia estable por problemas burocráticos.
+- Transferencia de responsabilidades a padres no preparados.
+@fin
+@bib
+1. Eichenwald EC, Blackwell M, Lloyd JS, et al. Inter-Neonatal Intensive Care Unit Variation in Discharge Timing: influence of apnea and feeding management. Pediatrics.2001;108:928-33.
+2. Shahheidari M, Homer C. Impact of the design of neonatal intensive care units on neonates, staff, and families: a systematic literature review. J Perinat Neonatal Nurs.2012;26:260-6.
+3. Sáenz P, Cerdá M, Díaz JL, et al. Psychological stress of parents of preterm infants enrolled in an early discharge programme from the neonatal intensive care unit: a prospective randomised trial. Arch Dis Child Fetal Neonatal Ed.2009;94:F98-F104.
+4. Moody C, Callahan TJ, Aldrich H, et al. Early initiation of newborn individualized development care and assessment program (NIDCAP) reduces length of stay: A quality improvement Project. J Pediatr Nurs.2017;32:59-63.

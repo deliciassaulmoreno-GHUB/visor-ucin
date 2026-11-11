@@ -1,0 +1,97 @@
+@f 14. Protocolos SENEO/4.3. Recomendaciones al alta hospitalaria
+@p 522
+# 4.3 RECOMENDACIONES AL ALTA HOSPITALARIA
+
+*Elisabeth Fernández Marín^1^, Ana Campos-Martínez^1^, José Uberos^1,2^*
+
+*^1^Hospital Universitario San Cecilio de Granada; ^2^Facultad de Medicina – Universidad de Granada*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 508-512 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+A continuación se recogen las recomendaciones generales que deben ofrecerse al alta de los recién nacidos sanos, precisando modificaciones individuales en aquellos niños que presenten situaciones clínicas especiales y ajustándolas a las características de cada Centro y Comunidad Autónoma.
+
+Deben ser explicadas en el momento del alta y entregarse por escrito a los padres, con la finalidad de que estos puedan consultarlas en cualquier momento.
+
+## 1 Cuidados del cordón umbilical
+
+El cordón debe limpiarse con agua tibia y jabón neutro durante el aseo del niño o cuando esté sucio, y después mantenerlo bien seco. Es fundamental mantener el cordón seco y limpio.
+
+No es necesario el uso de una gasa que lo envuelva, en el caso de utilizarla, cambiarla con frecuencia y evitar que esté húmeda. Tampoco es necesario añadir ningún antiséptico o antibiótico tópico; sólo estaría indicado en aquellas situaciones en las que la atención neonatal y las medidas higiénicas sean deficitarias.
+
+La caída del cordón ocurre en torno a los 7 días de vida, pudiendo aparecer un pequeño sangrado acompañante. En el caso de que aparezca enrojecimiento, secreción amarillenta, mal olor, sangrado o retraso en la caída más allá de los 15 días, deberá ser valorado por el pediatra.
+
+## 2 Prueba del talón o cribado neonatal en sangre
+
+Esta prueba tiene como objetivo la detección precoz de un grupo de enfermedades en las que existe una intervención eficaz que permite modificar favorablemente su pronóstico, reduciendo así la morbimortalidad y las posibles discapacidades asociadas a esas enfermedades. Debe hacerse el 2º día de vida del recién nacido, después de 24 horas de alimento.
+
+Es aconsejado realizarlo previo al alta, pero si no se ha realizado, deberán acudir para su realización al Centro de Salud en días laborables o a los Dispositivos de Urgencias en días festivos. En determinadas circunstancias especiales reflejadas en el capítulo 1.6. es
+@p 523
+necesario repetir una segunda prueba. El procedimiento se debe registrar en la historia de salud y entregar a los padres el resguardo de la misma.
+
+## 3 Prevención del síndrome de muerte súbita del lactante
+
+El síndrome de muerte súbita del lactante (SMSL) es la muerte repentina e inexplicable de un niño menor de un año de edad mientras duerme. Se recomiendan los siguientes consejos preventivos a los padres que deben mantenerse hasta los 12 meses:
+1. Evitar la posición de prono ("boca-abajo") durante el sueño en los lactantes. El decúbito supino ("boca-arriba") es la postura más segura y se prefiere al decúbito lateral. Cuando esté despierto y vigilado, es recomendable realizar cambios posturales de forma frecuente (boca abajo y de ambos lados), para facilitar el desarrollo motor y evitar deformidades craneales.
+2. Recomendar la lactancia materna a demanda, ya que es un factor protector.
+3. Desaconsejar el tabaquismo de los padres, especialmente de la madre, durante la gestación y tras el nacimiento. No permitir que nadie fume delante del bebé.
+4. Ambiente del dormitorio durante el sueño:
+  - La cuna en la habitación de los padres constituye el lugar más seguro. El colchón del bebé debe ser firme, evitarse el uso de sábanas o edredones sueltos, almohadas o juguetes blandos en la cuna. Se desaconseja el uso rutinario de los sistemas de retención infantil para dormir fuera del automóvil.
+  - No rechazar el uso del chupete para el sueño durante el primer año de vida... No hay que forzar su uso si el niño no lo quiere. No untarlo en soluciones dulces. Para los niños con lactancia materna no se debe aconsejar su uso hasta que esta esté bien establecida.
+  - No abrigar excesivamente: El exceso de ropa o el calentamiento de la habitación aumentan el riesgo (se aconseja una temperatura entre 20 a 22ºC)
+5. Aconsejar control adecuado de la gestación y periodo perinatal.
+6. Evitar el consumo prenatal y postnatal de alcohol y drogas.
+7. La realización de colecho aumenta el éxito en el establecimiento y mantenimiento de la lactancia materna, aunque existen estudios que hablan de un aumento en el riesgo de SMSL cuando éste se asocia a otros factores de riesgo. La decisión de practicarlo debe ser tomada por los padres siempre que estén adecuadamente informados de los beneficios y riesgos en cada caso. No se debe recomendar:
+  - Si el padre o la madre son fumadores, han consumido alcohol, medicamentos ansiolíticos, antidepresivos o hipnóticos.
+  - En situaciones de cansancio extremo, cómo puede ser el postparto inmediato.
+  - Evitar el colecho en sofás o sillones o en cualquier otro sitio que no sea la cama. Tampoco se debe compartir la cama con otros niños o con múltiples personas.
+  - No se aconseja en casos de prematuridad y bajo peso.
+@p 524
+  - En los casos de lactancia materna se informará de que no existe evidencia suficiente para desaconsejar el colecho, ya que no hay pruebas suficientes de que esté asociado a un aumento en el riesgo de SMSL cuando la madre amamanta y no hay otros factores de riesgo.
+8. El SMSL no está asociado con la vacunación contra la difteria, el tétanos y la tos ferina (DTP) ni con otras vacunas; de hecho, la inmunización puede reducir el riesgo.
+9. Es recomendable compartir esta información con todas las personas que cuiden del bebé.
+
+## 4 Prevención de accidentes
+
+- ***Seguridad en el automóvil***
+
+Recomendar el uso de sistemas de retención infantil homologados grupo 0 ó 0+ para los desplazamientos en coche:
+  - Capazo rígido: en los asientos posteriores, en posición transversal a la marcha y con la cabeza en la parte central del vehículo, si bien no son recomendables salvo excepciones.
+  - Silla-cesta o silla de seguridad colocada en el sentido contrario a la marcha, en la parte trasera del vehículo, sujetos a la silla mediante un arnés de 5 puntos. Esta sería la forma más segura, utilizando preferentemente la plaza central (si dispone de tres puntos).
+- ***Accidentes domésticos***
+
+Para evitar accidentes debemos usar productos homologados y que cumplan las normas de seguridad; tanto en cuna, silla de paseo, silla del coche, biberones, chupete, juguetes, etc. No dejar al niño solo en superficies altas sin protección (cambiadores, cama, sofá) para reducir el riesgo de caídas, desde la etapa neonatal.
+
+Se debe comprobar la temperatura del agua de baño (agua tíbia 36-37ºC) y la del biberón antes de administrarlo.
+
+## 5 Signos de alerta
+
+1. **Síntomas de sepsis/infección:** fiebre, respiración dificultosa o más rápida, piel amarillenta o azulada, rechazo de la toma, letargia o vómitos. Se debe evitar el contacto con personas que estén cursando una enfermedad infecto-contagiosa; en el caso de ser los cuidadores principales, se extremarán las medidas con higiene de manos y uso de mascarilla.
+2. **Síntomas de ictericia:** coloración amarillenta de la piel que se inicia en la cabeza (incluidas escleras) y avanza hacia los pies, aumentando de intensidad conforme progresa. Se puede comprobar la coloración presionando con el dedo en zonas prominentes (nariz, cadera,..) comprobándose que deja una coloración amarillenta
+@p 525
+tras su retirada. Si la ictericia llega hasta miembros inferiores o es muy intensa, precisa valoración.
+
+3. **Alimentación deficiente:** se considerarán signos de alerta la eliminación escasa de orina y deposiciones, la persistencia de meconio más allá del 4º día de vida, una pérdida de peso mayor del 7% o una ausencia de recuperación postnatal y una actitud inquieta o adormilada.
+
+## 6 Enlaces de interés
+
+Se deben ofertar páginas que contengan información para padres sobre los cuidados del recién nacido, así como la forma de contactar con los grupos de apoyo a la lactancia de su zona o las asociaciones de padres.
+
+Antes del alta se debe comprobar si se ha realizado la profilaxis frente a la enfermedad hemorrágica del recién nacido con vitamina K intramuscular o se va a administrar oral (adjuntar pauta) y la profilaxis ocular, así como que se ha llevado a cabo el cribado auditivo con otoemisiones o potenciales auditivos y el cribado neonatal en sangre. Se deberá solicitar cita para valoración por su pediatra de atención primaria para así ser incluido en el programa de salud infantil e iniciar el calendario vacunal. Se prescribirá vitamina D3, 400 UI al día vía oral, que se administrará una vez la alimentación esté bien establecida y tolerada. Evitar la exposición solar directa usando medidas de protección físicas.
+@caja
+**SE RECOMIENDA**
+- Las recomendaciones al alta deben ser explicadas y entregarse por escrito a los padres.
+- El cordón debe limpiarse con agua tibia y jabón neutro, es fundamental mantenerlo seco y limpio.
+- Para prevenir el SMSL la posición para dormir debe ser "boca-arriba", se debe aconsejar la lactancia materna y evitar el hábito tabáquico de los padres y cuidadores.
+- Se debe recomendar el uso de productos homologados (sistemas de retención, juguetes,..), no dejar a los niños solos en zonas altas y comprobar temperatura del agua.
+- Comprobar previo al alta que se han realizado las distintas medidas preventivas, informar de aquellas que deben realizarse, signos de alerta y prescribir vitamina D.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No es necesario el uso rutinario de antisépticos/antibióticos tópicos para el cuidado del cordón
+- Rechazar el uso del chupete para el sueño durante el primer año de vida. Para los niños con lactancia materna no se debe aconsejar su uso hasta que esta esté bien establecida.
+@p 526
+- La posición prono para dormir y la realización de colecho si existen factores de riesgo, por el aumento del riesgo de SMSL
+@fin
+@bib
+1. McKee-Garrett TM. Overview of the routine management of the heathy newborn infant. UptoDate. 2022; May:1-29.
+2. Grupo Previnfad/ PAPPS Infancia y Adolescencia. Guía de actividades preventivas por grupos de edad. Actualizado mayo de 2014 [consultado 25/05/2022]. Disponible en http://www.aepap.org/previnfad/actividades.htm.
+3. Corwin MJ. Sudden infant death síndrome: Risk factors and risk reduction strategies. UptoDate. 2022; May.
