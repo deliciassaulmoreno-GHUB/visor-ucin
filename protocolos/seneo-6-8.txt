@@ -1,0 +1,62 @@
+@f 14. Protocolos SENEO/6.8. Ecocardiografía funcional
+@p 625
+# 6.8 ECOCARDIOGRAFÍA FUNCIONAL
+
+*María Carmen Bravo*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 611-616 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición
+
+La ecocardiografía funcional neonatal se define como el uso de esta técnica a pie de incubadora para evaluar el flujo sistémico y pulmonar, la función cardíaca y los cortocircuitos intra y extracardíacos. Se realiza habitualmente por médicos neonatólogos que pretenden resolver preguntas clínicas específicas sobre un determinado paciente con un problema concreto hemodinámico. A diferencia de la ecocardiografía POCUS (cardiac point of care ultrasound), entendida como el uso de la ecocardiografía en una situación de emergencia para la localización de la punta de catéteres intravasculares, descartar el taponamiento cardíaco y evaluar de forma subjetiva tanto de la función cardíaca como la precarga, la ecocardiografía funcional es una exploración que requiere una formación técnica y fisiopatológica más avanzada, proporcionando información que permite dirigir las estrategias terapéuticas de forma individualizada y evaluar la respuesta hemodinámica del paciente a las mismas (Tabla l).
+@img seneo-6-8-t1a.png
+@p 626
+@img seneo-6-8-t1b.png
+! Las tres tablas de este capítulo son muy densas en abreviaturas y cifras; se muestran como imágenes recortadas del PDF.
+
+## 2 Escenarios fisiopatológicos neonatales donde es de utilidad la ecocardiografía funcional
+
+### 1. Circulación transicional en el recién nacido muy prematuro
+
+Después de cortar el cordón umbilical se produce un aumento de las resistencias vasculares sistémicas, descenso de resistencias vasculares pulmonares, la circulación pulmonar y sistémica comienza a fluir en serie y se inicia el cierre de los cortocircuitos fetales (circulación transicional). El miocardio del recién nacido, debido a su inmadurez, tiene más dificultad para mantener el flujo sistémico y cumplir con la demanda metabólica, por ser incapaz de vencer este aumento de postcarga, con una precarga potencialmente comprometida por la insuflación pulmonar (30% de los niños <28 semanas de edad gestacional presentarán insuficiencia circulatoria precoz). La estimación del flujo en vena cava superior por ecocardiografía en el recién nacido muy prematuro es un biomarcador
+@p 627
+diagnóstico (identifica bajo flujo sistémico, independientemente de si están o no presentes los cortocircuitos intra y extracardíacos) y pronóstico (riesgo de desarrollar hemorragia intraventricular grave tardía).
+
+### 2. Ductus arterioso persistente en el recién nacido prematuro
+
+El tratamiento del ductus arterioso persistente es controvertido. Los pacientes que pueden beneficiarse del cierre terapéutico del ductus son aquellos que tienen más probabilidades de morbilidad relacionada con el ductus y que tienen bajas probabilidades de cierre espontáneo precoz. Existen distintas escalas para clasificar la probabilidad de cierre precoz y el grado de repercusión hemodinámica basadas en la información procedente de la ecocardiografía. Se ha publicado un modelo predictivo de cierre espontáneo precoz basado en la edad gestacional y en el sistema de puntuación del ductus evaluado por ecocardiografía funcional (Tabla 2).
+@img seneo-6-8-t2.png
+
+### 3. Sospecha de compromiso circulatorio
+
+La variable hemodinámica más comúnmente utilizada en las unidades de neonatología para el diagnóstico de la insuficiencia circulatoria es la presión arterial. Se sabe que la hipotensión arterial no es sinónimo de bajo flujo sistémico y, además, una cifra de presión arterial dentro de los rangos establecidos como "normalidad", tampoco implica normalidad en el flujo sistémico. El abordaje terapéutico del compromiso circulatorio debería variar según la situación fisiopatológica que lo haya condicionado. La ecocardiografía funcional ofrece información relevante para realizar un tratamiento fisiopatológicamente guiado.
+
+### 4. Fallo hipoxémico. Sospecha de hipertensión pulmonar.
+
+Los recién nacidos con sospecha de hipertensión pulmonar deberían ser evaluados inicialmente y de forma precoz por un cardiólogo pediátrico para descartar cardiopatía estructural. Los recién nacidos con fallo hipoxémico e hipertensión pulmonar tienen más probabilidades de mostrar disfunción ventricular derecha o biventricular. El tratamiento
+@p 628
+de esta entidad puede requerir el uso de vasodilatadores pulmonares y/o soporte cardiovascular específico. En la tabla 3 se recogen las variables ecocardiográficas más frecuentemente utilizadas para la evaluación del recién nacido con fallo hipoxémico con sospecha de hipertensión pulmonar.
+@img seneo-6-8-t3a.png
+@p 629
+@img seneo-6-8-t3b.png
+
+## 3 Dificultades y riesgos de la ecocardiografía funcional
+
+La finalidad principal de la ecocardiografía funcional no es descartar la presencia de cardiopatía congénita estructural, sino obtener información sobre la situación hemodinámica del recién nacido críticamente enfermo. Para evitar que el médico neonatólogo no diagnostique una cardiopatía estructural realizando una ecocardiografía funcional, es necesario que se trabaje de forma coordinada con el departamento de cardiología pediátrica. Además, antes de utilizar esta herramienta diagnóstica, se debe realizar un entrenamiento meticuloso y específico en ecocardiografía funcional siguiendo las recomendaciones de la Sociedad Europea de Investigación Pediátrica que también se han recogido por el grupo de trabajo de ecografía de la SENeo, sección ecocardiografía (https://www.seneo.es/images/site/publicaciones/ecocardio/Documento_de_consenso_ formaci%C3%B3n_ecocardiograf%C3%ADa_final.pdf).
+@caja
+**SE RECOMIENDA**
+- Trabajar en colaboración con los servicios de Cardiología Pediátrica
+- Realizar un entrenamiento específico que incluya, no sólo la formación técnica ecocardiográfica, sino el abordaje fisiopatológico del recién nacido con fallo circulatorio.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se debe confundir la ecocardiografía funcional con la ecocardiografía POCUS, ya que no son equivalentes.
+@p 630
+@fin
+@bib
+1. Singh Y, Bhombal S, Katheria A, et al. The evolution of cardiac point of care ultrasound for the neonatologist. Eur J Pediatr. 2021;180:3565-75.
+2. Burns ML, Stensvold HJ, Risnes K, et al. Inotropic Therapy in Newborns, A Population-Based National Registry Study. Pediatr Crit Care Med. 2016;17:948-56.
+3. Osborn DA, Evans N, Kluckow M. Hemodynamic and antecedent risk factors of early and late periventricular/intraventricular hemorrhage in premature infants. Pediatrics. 2003; 112:33-9.
+4. Bravo MC, Sánchez R, Blanco AI, et al. Predictive Model of Early Spontaneous Ductus Arteriosus Closure Based on Neonatologist Performed Echocardiography in Preterm Infants. Front Pediatr. 2021;9: 644519.
+5. de Boode WP, Singh Y, Gupta S, et al. Recommendations for neonatologist performed echocardiography in Europe: Consensus Statement endorsed by European Society for Paediatric Research (ESPR) and European Society for Neonatology (ESN). Pediatr Res. 2016; 80:465-71.

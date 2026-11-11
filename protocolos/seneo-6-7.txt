@@ -1,0 +1,129 @@
+@f 14. Protocolos SENEO/6.7. Ecografía pulmonar, abdominal y de vías
+@p 617
+# 6.7 ECOGRAFÍA PULMONAR, ABDOMINAL Y DE VÍAS
+
+*Lorena Rodeño Fernández, Jon Montero Gato*
+
+*Hospital Universitario Basurto, Bilbao*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 603-610 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La ecografía a pie de cuna (POCUS, point of care ultrasound) es segura, reproductible y rápida; facilita el diagnóstico y una intervención precoz, permite valorar la respuesta al tratamiento, así como mejorar la seguridad y eficiencia de los procedimientos. El uso del POCUS ha aumentado en los últimos años en las unidades de cuidados intensivos neonatales (UCIN) debido a los beneficios aplicables a esta población; además, reduce la exposición a radiaciones ionizantes. La evidencia emergente respalda la utilización de POCUS en la UCIN en las distintas aplicaciones diagnósticas y procedimientos.
+
+## 2 Definición
+
+El POCUS se define como la ecografía realizada e interpretada por el clínico, en tiempo real, con el objetivo de responder a una cuestión clínica dirigida o para conseguir un procedimiento específico. Al ser una herramienta clínica, permite su repetición en distintas ocasiones con el objetivo de monitorizar la evolución de distintas patologías, evaluar la respuesta terapéutica o en el caso de los procedimientos, valorar su efectividad o las complicaciones derivadas de los mismos. En este capítulo nos centraremos en las aplicaciones de la ecografía pulmonar, abdominal y de accesos vasculares (Tabla 1).
+
+@img seneo-6-7-t1a.png
+@p 618
+@img seneo-6-7-t1b.png
+! Las tablas y figuras de este capítulo se muestran como imágenes recortadas del PDF; las figuras incluyen imágenes ecográficas.
+
+## 3 Ecografía pulmonar
+
+La ecografía pulmonar (EP) ha demostrado sus ventajas frente a otras técnicas como la radiografía de tórax, con una mayor sensibilidad, especificidad y mejor concordancia interobservador; convirtiéndola en la técnica de elección en la evaluación respiratoria del recién nacido (RN). Sistemática de exploración
+
+- Transductor lineal de alta resolución (12-14 MHz) o, en su defecto, transductor convex de alta frecuencia (≥ 8 MHz). Definición de un preset y establezimiento de una profundidad acorde a la longitud del transductor (4-5 cm).
+- **Sistemática de exploración.** Los planos de exploración recomendados son: anterior transversal medio (intermamilar), anterior paraesternal, lateral (entre línea axilar anterior y posterior) y posterior (se puede explorar en decúbito lateral o prono), colocando el transductor en sentido longitudinal y puntualmente transversal; perpendicular al tórax, con la muesca en dirección craneal.
+
+### Semiología ecográfica y principales patrones ecográficos pulmonares:
+
+Las imágenes no se corresponden con ninguna estructura, sino que se producen por la reflexión y reverberación de los ecos sobre las diferentes interfaces de los tejidos, formando artefactos. Los principales artefactos y signos ecográficos junto con los distintos patrones ecográficos pueden ser utilizados para identificar las enfermedades pulmonares neonatales. Tabla 2 y 3.
+@img seneo-6-7-t2a.png
+@p 619
+@img seneo-6-7-t2b.png
+
+### Principales aplicaciones clínicas de la ecografía pulmonar en Neonatología:
+- **Área de Partos:** conocer la expresión ecográfica de la aireación pulmonar al nacimiento o transición pulmonar hacen de la ecografía pulmonar una herramienta muy útil en área de partos para guiar la reanimación y para valorar la necesidad de ingreso, dada su elevada especificidad y valor predictivo positivo.
+
+**Ingreso UCIN:**
+- *Diagnóstico diferencial de la patología respiratoria neonatal:* reconocer los patrones ecográficos característicos en cada patología, junto con la historia clínica y la exploración física, será de utilidad tanto para el diagnóstico como para valoración de la evolución de la enfermedad o detección de complicaciones.
+- *Aplicación en el SDRN:* existen diferentes sistemas de valoración semicuantitativa que valoran cada campo pulmonar según el grado de aireación y que obtienen una excelente capacidad predictiva de necesidad de surfactante en ‹ 34 ssemanas, permitiendo así un tratamiento más precoz. Por ello, se debería incorporar actualmente la ecografía pulmonar a estos orotocolos diagnóstico-terapéuticos.
+- *Herramienta pronóstica:* ha demostrado ser útil para predecir el desarrollo de DBP siendo el momento óptimo para esta valoración en RNP < 32 ssemanas la primera semana de vida. Para ello, se debe conocer la evolución pulmonar ecográfica del RNP y cómo varía en función de la edad gestacional (EG) al nacimiento.
+@p 620
+## 4 Ecografía abdominal
+
+### Técnica
+
+Transductor convex o microconvex de baja frecuencia (5-8 MHz) con el paciente en decúbito supino. Planos estándar: longitudinales, transversales y subcostales.
+
+### Principales aplicaciones
+
+La ecografía abdominal realizada por el clínico puede ser de utilidad como complemento a la historia clínica, exploración física y otras pruebas complementarias. En muchas ocasiones para un diagnóstico definitivo será necesaria la valoración de un radiólogo pediátrico.
+
+Es extremadamente útil en la valoración de líquido libre intraabdominal, estudio de anuria, detección de hidronefrosis o de cambios en el parénquima de órganos sólidos.
+
+Los signos ecográficos típicos de enterocolitis necrosante (ECN) son la neumatosis intestinal, gas en vena porta y el aire libre. A diferencia de la radiografía, la ecografía abdominal puede valorar el líquido intraabdominal y la perfusión de la pared intestinal. Permite la detección de cambios precoces compatibles con ECN incluso cuando la radiografía no es concluyente; sin embargo, se necesita más experiencia para determinar su utilidad y reproductibilidad para el diagnóstico y monitorización ecográfica a pie de cuna de la ECN (Figura 1).
+@img seneo-6-7-fig1.png
+*Figura 1. Ecografía abdominal. A) Transductor lineal: imagen de líquido libre (anecoica) perihepática y entre asas por extravasación de catéter venoso umbilical. B. Transductor convex: Ascitis (Asc) en RN con shock. C)) Gas venoso portal masivo en paciente conECN, imágenes hiperecogénicas puntiformes, arbóreas a nivel. hepático (flecha), V: vesícula biliar.*
+
+@img seneo-6-7-fig2a.png
+@p 621
+@img seneo-6-7-fig2b.png
+*Figura 2. Principales patrones ecográficos pulmonares*
+
+## 5 Ecografía vascular
+
+### Indicaciones
+
+1. Acceso vascular percutáneo ecoguiado.
+2. Comprobación de la localización de la punta del catéter venoso central (CVC) o arterial.
+3. Detección de complicaciones: trombo, migración del CVC, malposición y extravasación.
+
+### Material
+
+La sonda de elección es la hockey-stick lineal; permite visualizar con gran definición los planos superficiales. En su defecto, se puede recurrir a sondas lineales de huella pequeña (< 6 cm). Profundidad 1-3 cm (dependiendo del peso del RN). Escala de color y doppler: venoso < 20-30 cm/sg y arterial 40-60 cm/sg.
+
+### Técnica
+
+1. Diferenciación arteria-vena (figura 3)
+2. Medición del vaso: preferible el diámetro transversal. Por norma general el diámetro de la vena en mm debe ser igual o mayor al tamaño del CVC en French.
+3. Planos para visualizar el vaso:
+  - Transversal: corta el vaso en sentido perpendicular al eje mayor. Se obtiene imagen
+@p 622
+de una sección circular del vaso. Permite mejor orientación respecto a estructuras adyacentes.
+
+  - Longitudinal: corta el vaso en sentido paralelo al eje mayor. Se obtiene imagen cilíndrica del vaso. Permite control del avance de la aguja.
+
+### Consideraciones
+
+- Acceso vascular ecoguiado:
+  - Es recomendable hacer una exploración vascular pre-procedimiento para elegir el vaso más accesible y de mayor calibre (método RaCeVa: rapid central vein assissment).
+  - Abordaje "fuera de plano" visualizando el vaso en corte transversal.
+  - Abordaje "en plano" visualizando el vaso en corte longitudinal.
+- Localización de la punta de catéter central: elegir el plano capaz de visualizar el trayecto del catéter en su máximo recorrido hasta la posición central. Para catéteres en hemicuerpo superiores es especialmente útil un plano paraesternal medio izquierdo, angulando ligeramente hacia la derecha para visualizar la vena cava superior entrando en la aurícula derecha.
+  - La punta de catéter suele aparecer hiperrefringente.
+  - Es útil la instilación de suero para generar un flujo turbulento que confirma su localización.
+- Detección de complicaciones.
+1. Malposición: cuando el CVC no se encuentra en vena cava superior (VCS) o vena cava inferior (VCI). Para lo cual debemos descartar su localización en lugares inadecuados.
+  - Revisar el corazón para descartar una localización del catéter a nivel intracardiaco (figura 3).
+  - En catéteres umbilicales, revisar el ductus venoso mediante un plano a nivel inferior sobre el hígado.
+  - En un CVC en hemicuerpo superior, revisar yugulares y tronco braquiocefálico (TBC).
+2. Trombosis:
+  - Trombo asociado a catéter: imagen hiperecoica, pediculada, móvil (figura 3).
+  - Trombosis vascular: pérdida de colapsabilidad venosa a la compresión con el transductor, y ausencia de flujo en el doppler.
+3. Extravasación:
+  - CVC en hemicuerpo superior: derrame pleural.
+  - CVC en hemicuerpo inferior: ascitis.
+@p 623
+@img seneo-6-7-fig3.png
+*Figura 3. A) Diferenciación arteria-vena. Vena: forma ovalada e irregular, variabilidad del tamaño con la respiración. Puede parecer pulsátil por proximidad de la arteria. Compresibilidad al aplicar ligera presión con el transductor. Arteria: forma cirunferencial, difícilmente compresible. Pulsátil. B) Doppler venoso: onda bifásica con baja velocidad (< 30 cm/sg). Doppler arterial: Onda pulsátil de alta velocidad (> 40-60 cm/sg). C)) Trombo asociado a catéter vascular en AD (flecha). D) Catéter venoso umbilical que atraviesa el conducto de Arancio. Punta en aurícula derecha.*
+
+@caja
+**SE RECOMIENDA**
+- Cualquier ecógrafo es válido, preferiblemente sencillo y ligero, de encendido rápido y con doppler.
+- Debe ser dinámica y dirigida, lo que permite una mejor aproximación fisiopatológica y guiar el tratamiento de forma individualizada.
+- Aunque la curva de aprendizaje puede ser relativamente corta en alguna técnica, es recomendable una formación específica.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Pensar que la ecografía es una prueba complementaría más y no añade información a la práctica clínica.
+- No integrar los hallazgos ecográficos con la situación global del paciente. Es conveniente la utilización de guías diagnóstico-terapéuticas.
+@p 624
+@fin
+@bib
+1. Singh Y, Tissot C, Fraga MV, et al. International evidence-based guidelines on Point of Care Ultrasound (POCUS) for critically ill neonates and children issued by the POCUS Working Group of the European Society of Paediatric and Neonatal Intensive Care (ESPNIC). Crit Care. 2020; 24:65.
+2. Miller LE, Stoller JZ, Fraga MV. Point-of-Care ultrasound in the neonatal ICU. Curr Opin Pediatr. 2020;32:216-27.
+3. Rodeño-Fernández L, Gregorio-Hernández R, Serna-Guerediaga I, et al; en representación de la sección de ecografía Pulmonar del Grupo de Ecografía Neonatal de la Sociedad Española de Neonatología. Utilidad de la ecografía pulmonar en el diagnóstico y seguimiento de la patología respiratoria neonatal". An Pediatr. 2022;96:252.e1-252.e13.
+4. Oulego Erroz I, Alonso Ojembarrena A, Aldecoa Bilbao V, et al. Acceso Vascular ecoguiado en Neonatología. Canalización venosa central, canalización arterial. Sección Vascular. Documento de Consenso del Grupo de Trabajo de Ecografía de la Sociedad. Española de Neonatología. 2021.
