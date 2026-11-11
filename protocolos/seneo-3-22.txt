@@ -1,0 +1,146 @@
+@f 14. Protocolos SENEO/3.22. Apnea de la prematuridad
+@p 270
+# 3.22 APNEA DE LA PREMATURIDAD
+
+*Cristina Perera Hernández, Marta Siguero Onrubia, Fermín García-Muñoz Rodrigo*
+
+*Hospital Universitario Materno-Infantil de Canarias, Las Palmas de Gran Canaria*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 256-262 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición
+
+La apnea de la prematuridad se define como el cese de la respiración durante ≥ 20 segundos o durante un tiempo inferior pero asociado a desaturación o bradicardia, con cianosis, palidez o hipotonía marcada, en niños menores de 37 semanas de edad gestacional (EG).
+! En el PDF el signo delante de «20 segundos» sale como un recuadro (carácter que no se imprimió); por el contexto se ha puesto «≥».
+
+**Clasificación**
+- *Central (10 - 25%):* Ausencia de estímulo desde el sistema nervioso central (SNC), sin esfuerzo inspiratorio.
+- *Obstructiva (10 - 25%):* Presencia de esfuerzo inspiratorio inefectivo debido a la obstrucción de las vías aéreas superiores.
+- *Mixta (50 - 75%):* Obstrucción de la vía aérea superior con esfuerzos inspiratorios, que precede o sigue a una apnea central.
+
+La mayoría de las pausas de apnea en el recién nacido prematuro son centrales o mixtas. Por regla general las apneas centrales son más breves, mientras que los episodios más prolongados suelen corresponder a apneas mixtas.
+
+Las respiraciones periódicas, frecuentes en el prematuro, son ciclos repetidos de respiraciones seguidos de pausas de entre 5 y 10 segundos de duración, que pueden acompañarse de leves desaturaciones o bradicardias que habitualmente no requieren intervención.
+
+**Incidencia**
+La incidencia de apneas de la prematuridad es inversamente proporcional a la EG. En los RN > 28 semanas de EG se resuelven por regla general antes de las 37 semanas de EPM. Sin embargo, en los más inmaduros pueden persistir hasta la edad corregida de término. La tabla 1 resume la incidencia y algunas características de las pausas de apnea en función de la EG. Las cifras son variables debido a las diferentes definiciones de apnea en los estudios.
+@p 271
+| {3} **Tabla 1. Características de la apnea de la prematuridad** |
+|---|---|---|
+| **Edad Gestacional** | **Frecuencia** | **Comentario** |
+| < 29 semanas | ~ 100% | La resolución suele ser más tardía en los niños que desarrollan displasia broncopulmonar |
+| 30 - 31 semanas | ~ 54-85% | |
+| 32 – 34 semanas | ~ 15 – 50% | |
+| 35 - 36 semanas | ~ 7%. | Pueden presentar inestabilidad del control respiratorio, sobre todo en posición semiincorporada |
+| RN a término | Rara | Descartar siempre patología subyacente (hipoglucemia, infección, hemorragia o infarto cerebral, trastorno convulsivo, micrognatia) |
+
+*EPM: Edad Postmenstrual.*
+
+## 2 Fisiopatología
+
+La apnea de la prematuridad deriva fundamentalmente de la inmadurez fisiológica del recién nacido prematuro. Los receptores neurales y químicos detectan los cambios en la PaCO~2~, PaO~2~ y pH y los envían a los centros respiratorios del SNC, quienes producen el estímulo neural que se transmite a la musculatura respiratoria. En el feto la actividad respiratoria está reducida por inhibición descendente desde estructuras encefálicas superiores al tronco cerebral y por la PaO~2~ fetal baja. Estos mecanismos van desapareciendo en el prematuro a medida que éste madura. Asimismo, la estructura del SNC madura progresivamente con aumento de la arborización dendrítica, las sinapsis y la mielinización. Es posible que también exista un componente genético, vista la concordancia en la tasa de apneas entre gemelos. En el prematuro la vía aérea superior es más colapsable debido al menor tono de la musculatura hipofaríngea, sobre todo en la fase REM del sueño. Las posiciones extremas del cuello, sobre todo de flexión, también facilitan el colapso de la vía aérea. Los quimiorreflejos de irritación laríngeos pueden producir apnea y bradicardia en el prematuro. Con la maduración, este reflejo evoluciona a tos protectora y coordinación con la deglución. La infecciones virales también pueden desencadenar este reflejo y/o producir edema y obstrucción de vías altas.
+@p 272
+## 3 Clínica
+
+Las pausas de apnea aparecen en los primeros días en niños en ventilación espontánea o no invasiva y se acompañan de bradicardia y desaturación. Pueden aumentar su frecuencia a las 2 o 3 semanas. En los casos de aparición tardía o recurrencia tras varias semanas sin apneas es preciso descartar patología subyacente, como sepsis. Por regla general suelen resolverse hacia las 37 semanas de edad postmenstrual (EPM), aunque en los más inmaduros pueden persistir hasta las 43 - 44 semanas de EPM. Si bien no existen datos definitivos, se estima que la frecuencia e intensidad de los episodios pueden tener repercusión en la evolución de otras patologías como la enterocolitis necrosante (NEC), retinopatía de la prematuridad y en el neurodesarrollo.
+
+## 4 Diagnóstico
+
+El diagnóstico de apnea de la prematuridad se lleva a cabo en recién nacidos menores de 37 semanas de EG mediante monitorización cardiorrespiratoria y pulsioximetría cuando se detecta un cese de la respiración mayor de 20 segundos, o de inferior duración acompañado de desaturación o bradicardia, tras haber descartado patología causal subyacente.
+
+Los límites de las alarmas deben individualizarse. Como recomendación general:
+- Pausa de apnea: 15 – 20 segundos.
+- Frecuencia cardiaca: < 70 – 80 lpm.
+- SatO~2~: < 88 %
+
+**Diagnóstico diferencial**
+- Anemia.
+- Sepsis.
+- Trastorno metabólico. Hipoglucemia.
+- Ambiente térmico inestable; hipertermia.
+- Persistencia ductal.
+- Fármacos: sulfato de magnesio, opiáceos, anestesia.
+- Trastornos neurológicos (hemorragia intracraneal, encefalopatía, convulsiones).
+- NEC.
+- Anomalías congénitas de la vía aérea superior.
+- Dificultades en la alimentación, trastornos de la deglución.
+
+**Evaluación clínica. Pruebas complementarias**
+- Historia materna y neonatal.
+@p 273
+- Exploración física orientada a posibles causas: hipoglucemia, sepsis, hemorragia cerebral, NEC, etc.
+- Alimentación oral. Algunos niños, sobre todo < 34 semanas de EPM, pueden presentar hipoxemia y cianosis durante las tomas por alteraciones en la coordinación succión-deglución y respiración que pueden persistir hasta las 38 semanas de EPM.
+- Analítica en función de los hallazgos clínicos y la exploración física (Hemograma, Hemocultivo, Glucemia, Iones, Gasometría, Ecografía cerebral, Lactato, Amonio, etc.).
+
+## 5 Manejo clínico y tratamiento
+
+**Monitorización**
+Se deben monitorizar todos los niños < 35 semanas de EG por el alto riesgo de desarrollo de apneas de la prematuridad.
+
+**Indicaciones de tratamiento**
+- Profiláctico en < 28 semanas de EG.
+- En cualquier EG si apneas frecuentes, prolongadas, con desaturaciones < 85% o que requieren estimulación o ventilación con presión positiva (mascarilla y ambú).
+- En pacientes intubados que evolucionan favorablemente para reducir el tiempo de ventilación mecánica y reducir el riesgo de fracaso de la extubación. No está demostrada la seguridad y la eficacia de la cafeína en prematuros extremos totalmente dependientes de la ventilación mecánica en los primeros días de vida.
+
+**Medidas generales**
+- Temperatura ambiental controlada y estable.
+- Evitar ruidos y luces excesivas, así como manipulaciones innecesarias y molestas.
+- Posición de la cabeza: Evitar flexión o extensión extremas.
+- Algunos estudios han mostrado que la posición en prono mejora la sincronía toracoabdominal y estabiliza la pared torácica, reduciendo las apneas del prematuro. Sin embargo, a partir de las 36 semanas de EPM y al alta debe recomendarse decúbito supino como prevención del síndrome de muerte súbita del lactante.
+- Valorar elevación de la cabecera de la cuna 15º.
+- No realizar aspiraciones nasales frecuentes y/o vigorosas para evitar obstrucción nasal.
+- Utilizar preferentemente sondas orogástricas en lugar de nasogástricas.
+- Oxigenoterapia para SatO~2~ 90 - 95%. Evitar cambios bruscos de FiO~2~.
+@p 274
+**Soporte respiratorio**
+A valorar en función de la patología de base del paciente y de su tolerancia al dispositivo. Ver protocolos específicos para cada una de las modalidades.
+
+- Presión positiva continua nasal (nCPAP) de 4 - 6 cm H2O.
+- Gafas nasales de alto flujo con humidificación (HHFNC).
+- Ventilación con Presión Positiva Nasal Intermitente (NIPPV).
+- NIPPV sincronizada por flujo (sNIPPV) o por estímulo neural (NIV-NAVA).
+- Ventilación Mecánica, si fracasa la ventilación no invasiva y la cafeína.
+
+**Cafeína**
+Las metilxantinas han sido el tratamiento farmacológico fundamental de las apneas de la prematuridad durante décadas. La cafeína es preferible a la teofilina debido a su mayor vida media, mejor absorción enteral, mayor margen de seguridad y menores efectos secundarios. Su administración precoz, en los primeros 3 días, se ha asociado a menor tiempo de ventilación mecánica, menos necesidad de tratamiento farmacológico o ligadura del ductus arterioso, menor incidencia de displasia broncopulmonar, menor incidencia de retinopatía de la prematuridad y mejores resultados en el neurodesarrollo a los 18 meses, que parecen menos evidentes en el seguimiento a los 5 años. Además, una actualización reciente del ensayo CAP encontró que a los 11 años, los pacientes en el grupo de tratamiento habían mejorado las habilidades visomotoras, visoespaciales y visuoperceptuales sin ninguna diferencia en la inteligencia o el comportamiento. Sin embargo, el efecto directo de la cafeína sobre la maduración de la sustancia blanca cerebral y la neuroprotección no han sido confirmados, por lo que no se recomienda su utilización de forma profiláctica con esta indicación.
+
+Los pacientes tratados también presentan mejor función pulmonar a los 11 años.
+
+**Dosificación:**
+- Dosis de carga: 20 mg/kg de citrato de cafeína (10 mg/kg de cafeína base) IV o VO.
+- Dosis de mantenimiento: 5 - 10 mg/kg/día de citrato de cafeína (2,5 - 5 mg/kg/día de cafeína base) IV o VO, iniciado 24 horas después de la dosis de carga. *Nota:* Algunos estudios han mostrado mayor eficacia en algunos efectos a corto plazo con dosis mayores de cafeína, pero su seguridad no ha sido establecida por lo que no son recomendables.
+
+No es necesaria la medición rutinaria de niveles. Si se sospecha intoxicación, medir antes de la siguiente dosis. Concentración terapéutica: 5 - 25 mg/L. Efectos secundarios: taquicardia, intolerancia digestiva, hiperactividad y aumento de la tasa metabólica con aumento del consumo de oxígeno y gasto energético.
+
+Valorar retirada de cafeína cuando el paciente alcance una EPM de 32 - 34 semanas y lleve 5 a 7 días sin apneas y sin soporte respiratorio.
+
+**Transfusión**
+Valorar transfusión de concentrado de hematíes cuando se sospeche que la anemia
+@p 275
+(hematocrito < 25 - 30%) es la causante del inicio o empeoramiento de las pausas de apnea. Ver protocolo específico.
+
+**Programación del alta**
+La monitorización cardiorrespiratoria rutinaria no es necesaria si el niño lleva de 5 a 7 días sin episodios de apnea, desaturaciones o bradicardias. Dado que la vida media de la cafeína es de 50 - 100 h., este periodo debe empezar a contarse desde 3 o 4 días después de su suspensión. Los episodios de desaturación o bradicardia leve en relación con las tomas, que se recuperan espontáneamente o interrumpiendo la toma no deben retrasar el alta. En general, cuanto más inmaduro fue el niño, más prudente se debe ser respecto al periodo de observación previo al alta. Considerar la monitorización domiciliaria de forma individualizada para aquellos pacientes con una duración inusualmente prolongada de apneas extremas y recurrentes. Si se utiliza y no se registran eventos, valorar retirar a las 43 - 44 semanas de EPM. Los padres deben conocer el manejo del monitor y las maniobras de estimulación. También deben estar familiarizados con las medidas básicas de reanimación cardiopulmonar y disponer del teléfono del equipo profesional para necesidad de contacto urgente.
+@caja
+**SE RECOMIENDA**
+- Monitorizar a todos los niños < 35 semanas de EG por el alto riesgo de apneas.
+- Optimizar los cuidados centrados en el desarrollo y las medidas generales relacionadas con el ambiente, control de la temperatura, posición del paciente, mínima manipulación, etc.
+- Tanto para el tratamiento preventivo como terapéutico, dar preferencia a la administración de citrato cafeína a las dosis recomendadas, por su menor toxicidad y mayor margen terapéutico.
+- Asimismo, dar preferencia a las modalidades de ventilación no invasiva, así como a las modalidades sincronizadas cuando sea necesario.
+- Planificación anticipada del alta e información y entrenamiento apropiado a los padres para detectar eventos, iniciar medidas encaminadas a resolverlos y solicitar la ayuda necesaria.
+
+@fin
+@caja
+**NO SE RECOMIENDA**
+
+- Utilización de dosis de cafeína mayores a las recomendadas, así como otros fármacos (doxapram) fuera de protocolos experimentales adecuadamente diseñados para evaluar su eficacia y seguridad.
+- Inicio precoz, en las primeras horas de vida, de citrato de cafeína en pacientes muy inmaduros, altamente dependientes de ventilación invasiva, en los que no se prevea una extubación a corto plazo.
+@fin
+@bib
+1. Schmidt B, Roberts RS, Davis P, et al; Caffeine for Apnea of Prematurity Trial Group. Caffeine therapy for apnea of prematurity. N Engl J Med. 2006; 354:2112-2121.
+2. Eichenwald EC and AAP Committee on fetus and newborn. Apnea of Prematurity.
+@p 276
+Pediatrics 2016; 137: e20153757.
+
+3. Erickson G, Dobson NR, Hunt CE. Immature control of breathing and apnea of prematurity: the known and unknown. J Perinatol 2021; 41:2111-2123.
+4. Martin R. Pathogenesis, clinical manifestations, and diagnosis of apnea of prematurity. UpToDate, 2022. Literature review current through: Jul 2022. Last updated: May 01, 2020.
+5. Martin R. Management of apnea of prematurity. UpToDate, 2022. Literature review current through: Jul 2022. Last updated: May 21, 2020.

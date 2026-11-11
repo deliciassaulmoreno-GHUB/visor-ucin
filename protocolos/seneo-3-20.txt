@@ -1,0 +1,111 @@
+@f 14. Protocolos SENEO/3.20. Distrés respiratorio neonatal en el recién nacido a término
+@p 259
+# 3.20 DISTRÉS RESPIRATORIO NEONATAL EN EL RECIÉN NACIDO A TÉRMINO
+
+*Marta Bautista Barea, Mª Dolores Elorza Fernández*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 245-250 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La dificultad respiratoria del recién nacido a término es sin duda una de las patologías más frecuentes en el periodo neonatal y su evaluación y manejo iniciales, pueden provocar cierta ansiedad a muchos médicos (en particular, a los más jóvenes en formación). Su evaluación y tratamiento plantea dificultades especiales y aunque algunas de las características fisiopatológicas de los problemas respiratorios en el recién nacido a término son similares a las de los recién nacidos prematuros, hay trastornos que son más frecuentes en el primer grupo (aspiración de meconio) y a menudo, resultan más difíciles de evaluar y tratar, debido a la posible presencia de anomalías cardíacas y vasculares pulmonares que complican la evolución clínica. El listado de causas es amplio, pero nos vamos a centrar es las que más frecuentemente se presentan en las primeras horas tras el nacimiento. La identificación de la existencia de un problema nos lo va a dar la clínica de dificultad respiratoria, acompañada de cianosis en mayor o menor grado. Una evaluación diagnóstica para establecer una sospecha etiológica, nos permitirá realizar las medidas terapéuticas adecuadas, algunas específicas para el proceso de base (antibioterapia, cirugía...) y otras (soporte respiratorio, oxigenoterapia), para el manejo de la acidosis respiratoria con hipercapnia y/o hipoxemia secundaria a dicha insuficiencia respiratoria.
+
+## 2 Evaluación diagnóstica
+
+La valoración diagnóstica del distrés respiratorio neonatal en el recién nacido a término, incluye una anamnesis detallada, una exploración física completa y una serie de pruebas complementarias que pueden ayudar a filiar el origen del cuadro.
+
+**Anamnesis**
+La base inicial de la aproximación diagnóstica en recién nacidos con distrés respiratorio y/o hipoxemia es una buena anamnesis de los datos más relevantes de la historia clínica. Deben incluirse tanto factores de riesgo prenatales (alteraciones ecográficas, cantidad de líquido amniótico, factores de riesgo infeccioso, diabetes mellitus materna) como factores perinatales (edad gestacional, vía de parto, aspecto de líquido amniótico, necesidad de presión positiva intermitente en la reanimación) (Tabla 1).
+@p 260
+| {2} **Tabla 1. Evaluación diagnóstica – Anamnesis** |
+|---|---|
+| {2} EVALUACIÓN DIAGNÓSTICA – ANAMNESIS |
+| **FACTORES PRENATALES** | **FACTORES PERINATALES** |
+| Ecografías prenatales // Antecedentes maternos (DM) // Líquido amniótico (cantidad) // Factores de riesgo infeccioso // Riesgo de pérdida de bienestar fetal | Edad gestacional // Vía de parto // Líquido amniótico (claro) // Necesidad de PPI // Puntuación de Apgar |
+| {2} *DM: Diabetes Mellitus; PPI: Presión Positiva Intermitente* |
+
+**Exploración física**
+La exploración física proporciona información relevante sobre la posible etiología del cuadro (valorar malformaciones) y sobre la severidad de la insuficiencia respiratoria. La dificultad respiratoria moderada-severa evaluada con test de Silverman, orienta a patología pulmonar. Sin embargo, el distrés respiratorio también puede aparecer en obstrucciones de vía aérea superior (atresia de coanas, mejoría con el llanto) o como compensación de acidosis metabólica. La cianosis sin trabajo respiratorio sugiere cardiopatía congénita, debiendo descartarse también la hipertensión pulmonar persistente del recién nacido (Tabla 2). La medición de la frecuencia cardiaca, la tensión arterial, la frecuencia respiratoria y la saturación de oxígeno (SatO2) por pulsioximetría (valorando gradiente pre-postductal), deben formar parte de la evaluación inicial.
+
+| {2} **Tabla 2. Evaluación diagnóstica – Exploración física** |
+|---|---|
+| {2} EVALUACIÓN DIAGNÓSTICA - EXPLORACIÓN FÍSICA // +/- Cianosis/hipoxemia |
+| **TRABAJO RESPIRATORIO** | **AUSENCIA DE TRABAJO RESPIRATORIO** |
+| Patología parénquima pulmonar // Patología vía aérea superior // Acidosis metabólica // Neumonía/Sepsis precoz | Cardiopatía congénita |
+
+El test de Silverman está basado en cinco criterios clínicos que se puntúan de 0 a 2 de manera independiente y cuya suma total establece el grado de dificultad respiratoria (Tabla 3).
+@p 261
+| {4} **Tabla 3. Evaluación diagnóstica - Test de Silverman** |
+|---|---|---|---|
+| {4} EVALUACIÓN DIAGNÓSTICA - TEST DE SILVERMAN |
+| **SIGNOS CLÍNICOS** | **0 PUNTOS** | **1 PUNTO** | **2 PUNTOS** |
+| Aleteo nasal | Ausente | Mínimo | Marcado |
+| Quejido espiratorio | Ausente | Audible con fonendoscopio | Audible sin fonendoscopio |
+| Tiraje intercostal | Ausente | Mínimo | Marcado |
+| Retracción esternal | Ausente | Mínima | Marcada |
+| Disociación toracoabdominal | Sincronizado | Retraso inspiración | Bamboleo |
+| **PUNTUACIÓN TOTAL** | **GRAVEDAD** | **ACTITUD** | **TRATAMIENTO** |
+| Neonato con 1 a 3 puntos | Leve | Ingreso planta | No precisa/GN |
+| Neonato con 4 a 6 puntos | Moderado | Ingreso UCIN | CPAP/VNI |
+| Neonato con 7 a 10 puntos | Severo | Ingreso UCIN | Ventilación Invasiva |
+| {4} *CPAP: Presión de distensión continua de la avía aérea; GN: Gafas Nasales; UCIN: Unidad de Cuidados Intensivos Neonatales; VNI: Ventilación No Invasiva* |
+
+**Pulsioximetría. Respuesta al suplemento de O2**
+La cianosis suele ser uno de los motivos de consulta. La suplementación con oxígeno ayuda al diagnóstico etiológico, ya que si con aumento significativos de FiO2 (mascarilla o cámara) aumenta la SatO2 con respecto a la basal, posiblemente se trate de patología de parénquima pulmonar, mientras que un no incremento o mínima subida de la saturación, sugiere cardiopatía congénita o hipertensión pulmonar persistente del recién nacido (Tabla 4).
+
+| {2} **Tabla 4. Evaluación diagnóstica - Respuesta al suplemento de oxígeno** |
+|---|---|
+| {2} RESPUESTA AL SUPLEMENTO DE OXIGENO |
+| **TEST DE HIPEROXIA POSITIVO** | **TEST DE HIPEROXIA NEGATIVO** |
+| Enfermedad parenquimatosa pulmonar | Cianosis cardiaca |
+
+**Exámenes complementarios**
+La gasometría permite establecer hipoxemia/hipercapnia, así como existencia de acidosis metabólica (eventos intraparto, shock o sepsis). Una analítica sanguínea completa ayuda a descartar etiología infecciosa y anemia aguda. La radiografía de tórax, la ecografía pulmonar
+@p 262
+y el ecocardiograma son pruebas relevantes en el diagnóstico diferencial (Tabla 5).
+@ancha
+| {5} **Tabla 5. Diagnóstico diferencial - Exploraciones complementarias** |
+|---|---|---|---|---|
+| | **TTRN** | **EMH/SDR** | **SAM** | **NEUMO TÓRAX** |
+| **RADIOGRAFÍA TÓRAX** | Infiltrados perihiliares // Líquido cisuras | Patrón RN // Poco volumen | Infiltrados algodonosos | Aire ectópico |
+| **ECOGRAFÍA PULMONAR** | Patrón N // Patrón I // Patrón AI // Engrosamiento P | Patrón AI // Engrosamiento P // Atelectasias // Consolidación SP | Patrón AI // Consolidación BL // Derrame pleural | Líneas A retroesternales // Ausencia de deslizamiento P |
+| **ECOCARDIO** | Normal | Normal | Signos directos o indirectos de HTP | - |
+| **GRADIENTE PRE-POSTDUCTAL** | No | No | Sí/No | No |
+| {5} *AI: Alveolo-Intersticial; BL: Bilaterales; HTP: Hipertensión Pulmonar; I: Intersticial; N: Normal; P: Pleural; RN: Reticulo-Nodular; SP: Subpleurales* |
+
+## 3 Diagnóstico diferencial
+
+Además de las causas pulmonares de dificultad respiratoria que son las que más frecuentes, se plantean en el diagnóstico diferencial (Tablas 5 y 6), otras causas menos frecuentes, cuyo diagnóstico se habrá sospechado mediante la anamnesis y las exploraciones comentadas previamente (infección, cardiopatía, hipoplasia pulmonar, hernia diafragmática congénita, malformaciones de vía aérea) que, en algún caso, precisan exámenes más específicos (estudios genéticos en enfermedades intersticiales). La infección neonatal puede manifestarse como dificultad respiratoria del recién nacido y la sospecharemos ante presencia de factores de riesgo de infección y datos analíticos compatibles. La presencia de acidosis metabólica inmediatamente después del parto sugiere acidosis perinatal y habrá que investigar la causa de la misma (isquemia/ hipovolemia por patología de cordón, patología placentaria).
+@ancha
+| {5} **Tabla 6. Diagnóstico diferencial - Anamnesis/Clínica** |
+|---|---|---|---|---|
+| | **TTRN** | **EMH/SDR** | **SAM** | **NEUMO TÓRAX** |
+| **ETIOLOGÍA** | Mal aclaramiento líquido pulmonar | Déficit de surfactante | Inhalación de meconio | Sobredistensión alveolar |
+| **FISIOLOGÍA** | Patrón N // Patrón I // Patrón AI // Engrosamiento P | Patrón AI // Engrosamiento P // Atelectasias // Consolidación SP | Patrón AI // Consolidación BL // Derrame pleural | Líneas A retroesternales // Ausencia de deslizamiento P |
+| **HISTORIA CLÍNICA** | Normal | Normal | Signos directos o indirectos de HTP | - |
+| **INICIO SÍNTOMAS** | No | No | Sí/No | No |
+| {5} *DM: Diabetes Mellitus; EMH/SDR: Enfermedad de Membrana Hialina/ Síndrome de Distrés Respiratorio; PPI: Presión Positiva Intermitente; SAM: Síndrome de Aspiración de Meconio; TTRN: Taquipnea Transitoria del Recién Nacido; V/Q: Ventilación/Perfusión.* |
+! Así en el PDF: en la continuación de la Tabla 6, las filas «FISIOLOGÍA», «HISTORIA CLÍNICA» e «INICIO SÍNTOMAS» repiten el contenido de las filas de ecografía, ecocardio y gradiente de la Tabla 5.
+
+## 4 Medidas terapéuticas
+
+Las primeras medidas a tomar tendrán que ver con la estabilización del paciente, aportando oxigenoterapia y soporte respiratorio adecuado a la severidad del proceso, para intentar evitar acidosis respiratoria (hipercapnia) e hipoxemia. La identificación de la causa de la dificultad respiratoria, nos permitirá establecer no solo la evaluación probable del proceso (recortado y leve en la TTRN), sino también la necesidad de otros tratamientos como surfactante en el síndrome de distrés respiratorio, punción evacuadora o colocación de drenaje en neumotórax, mayor necesidad de soporte respiratorio o incluso óxido nítrico inhalado en síndrome de aspiración de meconio con hipertensión pulmonar. Si la causa del distrés es una acidosis metabólica secundaria a hipovolemia durante el parto, será preciso la administración de volumen /sangre para la corrección de la misma.
+@caja
+**SE RECOMIENDA**
+- En la insuficiencia respiratoria del recién nacido a término con o sin hipoxemia, el desarrollo del parto y primeros minutos postnatales, así como la respuesta al suplemento de oxígeno y a la administración no invasiva de presión positiva continua en la vía respiratoria, pueden aportar indicios importantes sobre la fisiopatología de la insuficiencia respiratoria y su etiología.
+- La taquipnea transitoria del recién nacido es una de las causas más frecuentes de dificultad respiratoria en el recién nacido a término. La ecografía pulmonar permite orientar su diagnóstico.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Hacer radiografía simple de tórax de forma rutinaria si buena evolución clínica y existe la sospecha de que la causa del distrés es una taquipnea transitoria del recién nacido. La ecografía pulmonar puede ser una alternativa diagnóstica.
+@p 264
+- Iniciar antibioterapia empírica si no existen factores de riesgo infeccioso perinatales, ni otros datos de infección, salvo el distrés.
+- Drenar neumotórax de forma electiva si la cantidad de aire ectópico no es significativa y el paciente se encuentra asintomático y hemodinámicamente estable.
+- Intubación orotraqueal para aspiración de meconio al nacimiento en caso de líquido meconial espeso.
+@fin
+@bib
+1. Martin R. Overview of neonatal respiratory distress and disorders of transition. UpToDate. García-Prats JA(ed); Marzo 2022 [revisado Mayo 2022]. Disponible en: https://www.uptodate.com/contents/search.
+2. Martin R. Pathophysiology, clinical manifestations, and diagnosis of respiratory distress syndrome in the newborn. UpToDate. Garcia-Prats JA (ed). Marzo 2022 [revisado Julio 2022]. Disponible en: https://www.uptodate.com/contents/search.
+3. Parker TA, Kinsella JP. Trastornos respiratorios del recién nacido a término. Avery. Enfermedades del recién nacido. Gleason CA, Juul SE. 10ª Edición. 2018. p668-p677.
+4. Jensen EA, Mong DA, Biko DM, et al. Imaging: Radiography, Lung Ultrasound, and Other Imaging Modalities. Goldsmith J (ed). Assited ventilation of the neonate. An evidence-based approach to newborn respiratory care. 7th Edition. 2022. Elsevier. p67-79.

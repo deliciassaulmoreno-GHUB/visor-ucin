@@ -1,0 +1,99 @@
+@f 14. Protocolos SENEO/3.21. Distrés respiratorio del prematuro
+@p 265
+# 3.21 DISTRÉS RESPIRATORIO DEL PREMATURO
+
+*Ana Remesal Escalero*
+
+*Hospital Universitario de Salamanca*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 251-255 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+A pesar de los avances en los cuidados perinatales, el síndrome de distrés respiratorio constituye una de las principales causas de mortalidad y morbilidad en recién nacidos (RN) prematuros, sobre todo menores de 32 semanas de edad gestacional (EG), persistiendo tasas altas de desarrollo de displasia broncopulmonar.
+
+Es una enfermedad del desarrollo pulmonar, los pulmones de estos niños ven interrumpido su desarrollo intrauterino presentando una inmadurez morfológica y funcional, con déficit de surfactante pulmonar, que da lugar a clínica de dificultad respiratoria e hipoxia de inicio muy próximo al nacimiento.
+
+Debido a la administración muy temprana de presión positiva continua de las vías respiratorias (CPAP) y al tratamiento precoz con surfactante pulmonar, la evolución clínica del síndrome de distrés respiratorio (SDR) del prematuro ha cambiado y es raro ver la imagen radiológica clásica de pulmones en vidrio esmerilado con broncograma aéreo.
+
+Múltiples estudios han demostrado la precisión de puntuaciones por ecografía pulmonar (LUS= lung ultrasound score) en predecir las necesidades de tratamiento con surfactante pulmonar, constituyendo una herramienta destacada en el manejo del distrés respiratorio del prematuro, permitiendo optimizar los tiempos de administración del surfactante pulmonar.
+
+Este protocolo basado en guías internacionales y en estudios que predicen por ecografía pulmonar la necesidad de administración de surfactante, pretende ser de utilidad para el manejo del distrés respiratorio en los recién nacidos prematuros.
+
+## 1 Cuidados prenatales
+
+- **Traslado intraútero.** Trasladar a gestantes con riesgo de parto prematuro < 32 semanas a Unidades Neonatales nivel III.
+- **Corticoesteroides prenatales.** Administrar 1 ciclo de corticoesteroides antes del parto a todas las gestantes con riesgo de parto pretérmino < 34 semanas de gestación. Valorar repetición de una nueva dosis de corticoesteroides si el 1er ciclo fue administrado al menos 1- 2 semanas antes y la gestación es < 32 semanas. Considerar el uso de tocolíticos para permitir completar el ciclo de corticoesteroides antenatales y/o trasladar a la madre a un centro especializado.
+- Administrar sulfato de magnesio a mujeres con parto inminente antes de las 32 semanas de gestación.
+@p 266
+## 2 Estabilización en sala de partos
+
+- Retrasar si es posible el pinzamiento del cordón umbilical al menos 60 seg.
+- En RN <28 semanas o incluso <32semanas uso de bolsas o sábanas de polietileno para prevención de hipotermia.
+- En RN < 30 semanas con frecuencia cardiaca > 100 latidos por minuto y que respiran espontáneamente, presenten o no distrés, estabilizar con CPAP de 5-7 cmH2O en cánulas nasales o máscara.
+- En RN ≥ 30 semanas con frecuencia cardiaca > 100 latidos por minuto, que respiran espontáneamente y que presenten distrés estabilizar con CPAP de 5-7 cmH2O en cánulas nasales o máscara.
+- Debe realizarse ventilación con presión positiva en pacientes con apnea o bradicardia, usando pico de presión inspiratoria (PIP) de 20-25 cmH2O y presión positiva al final de la espiración (PEEP) de 5 cmH2O.
+- No usar insuflación sostenida.
+- La administración de O2 debe realizarse con mezclador de gases. Una FiO2 inicial de 0,21-0,30 es apropiada en RN< 30 semanas y de 0,21 en los RN ≥ 30 semanas. Debe ajustarse la FiO2 guiada por pulsioximetría.
+- La intubación debe reservarse para los recién nacidos que no responden a ventilación con presión positiva a través de máscara. A los recién nacidos que requieran intubación para su estabilización se podría administrar surfactante.
+
+## 3 Tratamiento
+
+- La estrategia habitual es el tratamiento precoz con surfactante natural, siendo más eficaz cuanto más precozmente se administre, se puede utilizar profiláctico como en los recién nacidos que requieren intubación para su estabilización en sala de partos o en las primeras horas al ingreso en las Unidades de Cuidados Intensivos Neonatales, fundamentalmente en los RN de menos EG (< 30 semanas).
+- Un protocolo sugerido podría ser tratar a los RN con necesidades de FiO2 > 0,30 en CPAP a una presión de al menos 6 cm H2O.
+- Cada vez tiene más peso tratar con surfactante pulmonar según las puntuaciones obtenidas por ecografía pulmonar, en protocolos como el ESTHER (*Echography-guided Surfactant THERapy*) se mejoraron los tiempos de administración de surfactante tomando como el umbral de LUS valores superiores a 8, este hecho se ha reproducido en otros estudios.
+- La administración de surfactante mediante LISA (less invasive surfactant administration) es la técnica preferente para la administración de surfactante en recién nacidos que respiran espontáneamente con CPAP, siempre que el equipo tenga experiencia.
+- Si se administra intubado valorar si la respuesta y situación clínica permite
+@p 267
+extubación a ventilación no invasiva inmediatamente o lo más precozmente posible.
+
+- Se pueden repetir una segunda y a veces una tercera dosis de surfactante si hay evidencia que el SDR persiste, como requerimientos elevados de FiO2, y se han descartado otros problemas que puedan causarlo (Tabla 1).
+@ancha
+| {6} **Tabla 1. Formulaciones de surfactante de uso más frecuente en España.** |
+|---|---|---|---|---|---|
+| **Nombre genérico** | **Nombre comercial** | **Origen** | **Vía** | **1ª Dosis** | **Dosis adicionales si indicadas** |
+| Beractant | Survanta^®^ | Bovino | endotraqueal | 100 mg/Kg/ dosis | 100 mg/kg/ dosis en intervalos > 6 horas |
+| Poractant alfa | Curosurf^®^ | Porcino | endotraqueal | 200 mg/Kg/ dosis | 100 mg/Kg/ dosis a intervalos de 12 horas |
+
+**Suplementación de oxígeno**
+- Los objetivos de SatO2 en prematuros que necesitan O2 deben estar entre 90-94%.
+
+**Soporte respiratorio no invasivo**
+- La CPAP debe iniciarse desde el momento del nacimiento en todos los niños en riesgo de SDR, como en aquellos con <30 semanas de gestación que no necesitan intubación para su estabilización.
+- Se recomienda el uso de cánulas cortas binasales o mascarilla y a una presión inicial de entre 6-8 cmH2O. El nivel de CPAP se individualizará después dependiendo del estado clínico, oxigenación y perfusión.
+- El uso de CPAP con rescate precoz con surfactante es considerado el tratamiento óptimo en prematuros con SDR.
+- El uso de ventilación con presión positiva intermitente nasal (NIPPV) sincronizada puede reducir el fracaso en la extubación respecto a no sincronizada.
+- Las cánulas nasales de alto flujo (HFNC) no deben emplearse como método inicial de soporte respiratorio no invasivo en prematuros con SDR. Podrían usarse como alternativa a CPAP para algunos recién nacidos durante la fase de destete con la ventaja de producir menos traumatismo nasal.
+
+**Ventilación mecánica (VM). Estrategias**
+- La VM debe usarse en prematuros con SDR cuando otros métodos de soporte respiratorio han fracasado.
+- Se debe mantener la VM el menor tiempo posible y evitar hiperoxia, hipocapnia y volutrauma. Es preferible elegir modos de ventilación controlados por volumen.
+@p 268
+- La cafeína debería usarse para facilitar la desconexión de la VM. La administración temprana de cafeína debería considerarse en todos los prematuros con alto riesgo de necesitar VM, como aquellos que se mantienen con soporte respiratorio no invasivo.
+- Considerar realizar un ciclo corto con dosis decrecientes de dexametasona a dosis bajas para facilitar la extubación en niños que siguen con VM después de 1-2 semanas.
+- Se debe monitorizar el dolor y valorar la necesidad de analgesia no farmacológica. El uso rutinario de morfina o midazolam en prematuros con VM no se recomienda. Los opioides deberían usarse de forma selectiva bajo criterio médico y evaluando los indicadores de dolor.
+
+**Cuidados de soporte**
+- Mantener temperatura corporal entre 36,5-37,5°C. Realizar método canguro.
+- Iniciar de forma precoz la nutrición parenteral con aminoácidos y lípidos.
+- La leche materna o en su defecto la leche donada de banco es la mejor opción para la nutrición enteral de estos niños, iniciar el primer día si el recién nacido está hemodinámicamente estable.
+- No utilizar antibióticos de rutina. Valorar muy bien criterios de riesgo infeccioso y clínica de sepsis. Si se inician suspender en cuanto se descarte que haya sepsis.
+- Mantener una adecuada perfusión tisular utilizando inotrópicos si fuese necesario.
+- Mantener niveles aceptables de hemoglobina, evitar extracciones innecesarias y utilizar micrométodos.
+@caja
+**SE RECOMIENDA**
+- El uso de CPAP con rescate precoz con surfactante es considerado el tratamiento óptimo en prematuros con SDR.
+- La técnica LISA es la preferente para la administración de surfactante en recién nacidos que respiran espontáneamente con CPAP.
+- Se debe mantener la VM el menor tiempo posible y evitar hiperoxia, hipocapnia y volutrauma.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Emplear cánulas nasales de alto flujo (HFNC) como método inicial de soporte respiratorio no invasivo en prematuros con SDR.
+- El uso rutinario de morfina o midazolam en prematuros con VM.
+- Utilizar antibióticos de rutina.
+@fin
+@bib
+1. Abdel-Latif ME, Davis PG, Wheeler KI, et al. Surfactant therapy via thin catheter in preterm infants with or at risk of respiratory distress syndrome. Cochrane Database
+@p 269
+Syst Rev. 2021;5:CD011672.
+
+2. Aldecoa-Bilbao V, Balcells-Esponera C, Herranz Barbero A, et al. Lung ultrasound for early surfactant treatment: Development and validation of a predictive model. Pediatric Pulmonology. 2021; 56:433-441.
+3. Raschetti R, Yousef N, Vigo G, et al. Echography-guided surfactant therapy to improve timeliness of surfactant replacement: a quality improvement project. J Pediatr 2019; 212:137-143.
+4. Sweet DG, Carnielli V, Greisen G, et al. European consensus guidelines on the management of respiratory distress syndrome-2019 update. Neonatology, 2019; 115:432-450.
