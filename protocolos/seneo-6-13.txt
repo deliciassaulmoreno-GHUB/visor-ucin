@@ -103,7 +103,7 @@ bastar ultrafiltración lenta o hemofiltración. En el fallo renal agudo o en la
 3. Programar dosificación. No existe evidencia en el recién nacido para determinar la correcta, por lo que generalmente se extrapola del adulto. Se deben fijar en el monitor:
   - Flujo de sangre. Inicio 3-5 ml/Kg/min para incrementar hasta 8-12 ml/Kg/min si lo permite el acceso venoso. A mayor flujo más eficiencia en el ultrafiltrado y aclaramiento de solutos, y menor riesgo de coagulación del filtro.
   - Flujo de extracción o efluente. Según el balance negativo horario deseado. No superar la fracción de filtración del 20% (Riesgo de coagulación del filtro).
-  - Flujo del líquido de reposición. Generalmente entre 20-40 ml/Kg/h. Se puede realizar tanto prefiltro como postfiltro. La composición estándar del líquido se adaptará en función del nivel de potasio plasmático deseado (Tabla 2)|
+  - Flujo del líquido de reposición. Generalmente entre 20-40 ml/Kg/h. Se puede realizar tanto prefiltro como postfiltro. La composición estándar del líquido se adaptará en función del nivel de potasio plasmático deseado (Tabla 2)
   - Flujo de líquido de diálisis. Se utiliza el mismo que para la reposición. El flujo estándar: 2-4L/1,73 m^2^/hora (75-150 ml/Kg/hora). En hiperamoniemia grave se recomienda incluso llegar a 1000 ml/hora.
   - Si anticoagulación con citrato fijar dosis (1,5-3 mmol/L de flujo de sangre, según Ca^2+^ postfiltro 0,25-0,5 mmol/L) y compensación del calcio (100%).
 
