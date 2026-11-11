@@ -1,0 +1,81 @@
+@f 14. Protocolos SENEO/3.59. Hernia inguinal y torsión testicular neonatal
+@p 496
+# 3.59 HERNIA INGUINAL Y TORSIÓN TESTICULAR NEONATAL
+
+*Carmen Cebrián Muíños, Agnes Molnár, Belén Pontón Martino*
+
+*Hospital Universitario de Salamanca*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 482-486 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Hernia inguinal neonatal
+
+La hernia inguinal es una patología malformativa frecuente, que aparece en un 1-5% de todos los recién nacidos (RN), porcentaje que aumenta hasta 9-11% de los RN prematuros, especialmente en los de bajo peso, en los que la incidencia puede alcanzar el 30 % en el rango entre 500 y 1000 g al nacimiento. El término hernia inguinal incluye hernias directas, femorales e indirectas. Las hernias indirectas suponen la práctica totalidad (98%) de las hernias inguinales neonatales (HIN), y embriológicamente se relacionan con la formación de los genitales (descenso testicular en niños y formación de genitales externos en las niñas). La hernia inguinal es mucho más frecuente en varones (5-10 veces más que en mujeres) y debuta en ellos de manera más precoz (primer año de vida) que en las niñas.
+
+A partir de la semana 8ª de gestación el teste comienza su migración con la fase abdominal, y se acompaña en su descenso de una prolongación peritoneal en forma de dedo de guante denominado conducto peritoneo-vaginal (CPV). Entre las semanas 25ª-35ª tiene lugar la segunda fase del descenso testicular (fase inguino-escrotal), en la que los testes cruzan hacia el escroto a través del canal inguinal gracias a una compleja interacción de mecanismos hormonales y mecánicos. Una vez que el teste ha alcanzado el escroto, la parte más distal del CPV envuelve al teste dando lugar a las capas visceral y parietal de la túnica vaginal, y justo por encima del teste, el CPV debe obliterarse por completo. Si eso no ocurre adecuadamente, dará lugar a alguna forma del espectro de fallo de cierre de CPV, del que la hernia inguino-escrotal supone la máxima expresión (fallo total del cierre) (Figura 1).
+
+@img seneo-3-59-fig1.png
+*Figura 1. Esquema de espectro de defectos de cierre del CPV*
+
+@p 497
+Otras formas clínicas del fallo del cierre del CPV son hidrocele comunicante o no comunicante y el hidrocele o quiste funicular, que puede suponer un diagnóstico diferencial complicado con la HIN al presentarse como una masa tensa en la región inguinal o inguino-escrotal.
+
+En las niñas, el análogo al CPV se denomina conducto de Nuck. Es una estructura que conduce hacia los labios mayores y se cierra en torno a los 7 meses de vida intrauterina, mientras que la migración ovárica se detiene en la pelvis.
+
+Están descritas diferentes situaciones clínicas que incrementan el riesgo de HIN, de entre ellas la más frecuente es la prematuridad (Tabla 1).
+
+| **Tabla 1. Patologías asociadas a Hernia inguinal neonatal** |
+|---|
+| PATOLOGÍAS ASOCIADAS A MAYOR RIESGO DE HIN |
+| Prematuridad |
+| Fibrosis quística y peritonitis meconial |
+| Válvula de derivación ventrículo-peritoneal |
+| Diálisis peritoneal |
+| Ascitis |
+| Anomalías genito-urinarias |
+| Anomalías del tejido conectivo |
+| Mucopolisacaridosis |
+| Defectos congénitos de la pared abdominal |
+| Enfermedad pulmonar crónica |
+
+*El diagnóstico* es eminentemente clínico y se fundamenta en la historia clínica y la exploración física, en la que encontraremos una masa inguinal o inguino-escrotal reductible que suele reaparecer con maniobras que incrementen la presión intraabdominal como el llanto o la tos. Como la masa es intermitente, es posible que en el momento de la exploración se encuentre la región inguino-escrotal normal o únicamente un mínimo engrosamiento de las estructuras del cordón espermático a la palpación, pero una anamnesis clara y consistente con bulto inguinal intermitente es suficiente para hacer el diagnóstico, especialmente si se puede aportar iconografía del episodio de abultamiento por parte de la familia. En las niñas puede encontrarse una pequeña masa difícilmente reductible que supone el ovario en el interior del saco herniario.
+
+Los *episodios de incarceración* (atrapamiento de vísceras en el interior del saco herniario) son más frecuentes en el primer año de vida y en especial durante los primeros meses y el período neonatal. Suelen dar síntomas como dolor (irritabilidad), vómitos y cuadros de obstrucción intestinal. No existe más riesgo de incarceración en prematuros con respecto a RN a término ni en varones o mujeres. El tratamiento de la incarceración en la reducción manual o taxis que es posible en 95-98% de los casos, bajo sedación en caso de dificultades en la reducción. En caso de no ser factible la reducción ni siquiera con sedación, se indica la reducción quirúrgica y herniotomía inguinal, abierta o
+@p 498
+laparoscópica. En otras circunstancias no se recomienda la reparación quirúrgica de la hernia inguinal en el momento de la incarceración, ya que el edema de las estructuras dificulta considerablemente la técnica quirúrgica e incrementa el riesgo de lesión funicular y recidiva de la hernia.
+
+*El diagnóstico diferencial* se establece con masas inguinales e inguinoescrotales como linfadenitis, torsión de un teste criptorquídico inguinal y con otras variantes del fallo de cierre del CPV, en especial con el hidrocele funicular (masa tensa inguinal o inguinoescrotal irreductible) que puede ser muy difícil de distinguir de una hernia inguinal incarcerada. El hidrocele funicular es totalmente asintomático y en la exploración física su transiluminación es traslúcida, mientras que la hernia inguinal incarcerada se presenta con vómitos, irritabilidad y transiluminación opaca. En estos casos puede ser necesaria una ecografía inguinal urgente para esclarecer el diagnóstico ya que el manejo de ambos cuadros es muy diferente.
+
+El manejo de los hidroceles es conservador hasta los 18-24 meses aproximadamente, ya que la mayoría de los hidroceles neonatales serán de tipo no comunicante y se resolverán de manera espontánea en los primeros meses de vida, y por otro lado aquellos que son de tipo comunicante (por fallo de cierre del CPV) no producen síntomas ni condicionan el futuro de la gónada, de modo que permiten una actitud conservadora hasta una edad en que la intervención es técnicamente más sencilla y el riesgo anestésico menor. El tratamiento de la HIN será siempre quirúrgico, y consiste en el cierre por ligadura del CPV anormalmente permeable, mediante herniotomía inguinal abierta o herniorrafía inguinal por abordaje laparoscópico. El momento de llevar a cabo la reparación de la hernia es objeto de controversia y la decisión debe personalizarse en cada caso. La reparación inmediata en el período neonatal (durante el ingreso) minimiza el riesgo de episodios de incarceración posteriores, pero implica mayor riesgo anestésico, actualmente parcialmente minimizado con técnicas de anestesia regional, y según algunos estudios puede prolongar el ingreso neonatal y las necesidades de ventilación mecánica y tiene mayor riesgo de daño de las estructuras funiculares y lesión vascular testicular y recidiva de la hernia. En hernias grandes y bilaterales en pacientes de muy bajo peso, la reducción y reparación herniaria bilateral simultánea puede implicar un incremento de la presión intraabdominal que dificulte la mecánica ventilatoria. Se recomienda una valoración individualizada multidisciplinar con neonatología, anestesiología y cirugía pediátrica considerando la situación respiratoria y sistémica del neonato y la repercusión clínica de la hernia en su alimentación y calidad de vida para decidir el momento óptimo de la reparación.
+
+## 2 Torsión testicular perinatal
+
+La torsión testicular perinatal (TTP) es una entidad rara (aproximadamente 1:16.000 RN vivos) e incluye la torsión testicular prenatal y la que sucede en los primeros 30 días de vida. La torsión consiste en el giro sobre su propio eje del cordón espermático que compromete la perfusión testicular y conduce a infarto. Parece existir una ventana de 4-8 horas desde la instauración de los síntomas antes de que comience el daño irreversible del parénquima testicular. Existen dos picos de incidencia de torsión testicular en la edad pediátrica: uno neonatal y otro en la adolescencia. Se describen dos tipos de torsión atendiendo a la localización del giro del cordón, intravaginal y extravaginal, esta última es más frecuente en neonatos por lo que se recomienda un abordaje quirúrgico por
+@p 499
+inguinotomía, ya que el giro del cordón no se sitúa en su tramo intra-escrotal.
+
+El estudio de la TTP comprende la torsión testicular prenatal y neonatal ya que a menudo es imposible distinguir la torsión prenatal de la inmediatamente postnatal. En ambos casos, el pronóstico de viabilidad testicular es sombrío, entre otros factores porque suelen ser diagnósticos tardíos ya que a menudo es difícil establecer claramente el inicio del cuadro. Suele aparecer como masa indolora con o sin oscurecimiento de la piel del hemiescroto afecto. Es menos frecuente la aparición de flogosis (dolor, rubor, calor), posiblemente atribuible a inmadurez del sistema inmunitario del neonato, lo que puede dificultar y retrasar el diagnóstico, que se basa en la exploración física y la confirmación ecográfica de ausencia de flujo testicular o datos de sufrimiento o necrosis del parénquima testicular.
+
+Se ha descrito en los pacientes con TTP la presencia de deformidad en badajo de campana, que se define como una inserción muy alta de la túnica vaginal dejando un meso largo y un teste horizontalizado más propenso a los episodios de torsión con los movimientos de la pierna o la contracción del reflejo cremastérico. Se considera que la presencia de esta disposición tiende a ser bilateral.
+
+La necesidad y la prioridad del abordaje quirúrgico es motivo de controversia. Aunque la posibilidad de preservar el órgano afecto es ínfima (tasa de necrosis testicular en TTP en torno al 95%), se recomienda exploración quirúrgica bilateral para exploración u orquiectomía del teste afecto así como pexia del teste contralateral a fin de evitar torsión testicular contralateral síncrona o asíncrona.
+
+La TTP no se relaciona con tumores testiculares o paratesticulares subyacentes.
+@caja
+**SE RECOMIENDA**
+- El diagnóstico diferencial con el quiste o hidrocele funicular puede ser dificultoso y requerir evaluación ecográfica.
+- El tratamiento definitivo de la HIN es la herniotomía o ligadura del conducto peritoneo-vaginal persistente, abierta, o bien la herniorrafía laparoscópica del mismo.
+- Los signos de flogosis escrotal pueden estar ausentes por la menor capacidad inflamatoria del neonato.
+- Se recomienda realizar exploración testicular quirúrgica urgente bilateral y orquidopexia contralateral en casos de torsión testicular perinatal.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No existe consenso para el momento de la reparación de la HIN, por lo que no debe ser algo general sino individualizado valorando de forma pormenorizada cada paciente considerando el riesgo anestésico y la repercusión clínica de su HIN.
+@fin
+@bib
+1. Beytullah Y, Sertaç H, Ozlem B. Management of perinatal testicular torsion. Ped Surg Int 2020; 36: 959-63
+2. Monteilh C, Calixte R, Burjonrappa S. Controversies in the management of neonatal testicular torsión. J Pediatr Surg 2019; 54: 815-819
+@p 500
+3. Abdulhai S, Glenn IC, Ponsky TA. Inguinal Hernia. Clin Perinatol 2017; 44:865-877.
+4. Ferrantella A, Sola JE, Parreco J, et al. Complications while awaiting elective inguinal hernia repair in infants: Not as common as you thought. Surgery, 2021;169: 1480-1485.
+5. Ramachandran V, Edwards CF, Bichianu DC. Inguinal Hernia in Premature Infants. Neoreviews. 2020;21:e392-e403.
+6. Holcomb GW, Murphy PJ, Ostlie DJ. Ashcraft's Pediatric Surgery. 7ª Edición Saunders-Elsevier 2019. p.784-800.

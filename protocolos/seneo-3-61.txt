@@ -1,0 +1,102 @@
+@f 14. Protocolos SENEO/3.61. Retinopatía de la prematuridad
+@p 507
+# 3.61 RETINOPATÍA DE LA PREMATURIDAD
+
+*Alejandro Pérez-Muñuzuri, Olalla López-Suárez, María Luz Couce*
+
+*Hospital Clínico Universitario de Santiago de Compostela*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 493-497 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La retinopatía de la prematuridad (ROP) es una enfermedad vascular de la retina en desarrollo debida a la interrupción en la progresión normal de los vasos retinianos.
+
+## 1 Fisiopatología
+
+La vascularización completa de la retina se alcanza en torno a la semana 36-40 de la gestación y es mediada por la hipoxia fisiológica de la retina en crecimiento con altas necesidades metabólicas, pero no vascularizada, que provoca el incremento local del factor de crecimiento del endotelio vascular (VEGF) que junto a niveles normales del factor de crecimiento similar a la insulina (IGF1) promueven el normal desarrollo de la vascularización.
+
+El nacimiento prematuro provoca la pérdida de la principal fuente de IGF1, la placenta y el líquido amniótico, produciéndose un descenso en los niveles de IGF1, lo que sería determinante en la aparición de ROP, siendo el momento crítico para que esto se produzca, la tercera semana de vida.
+
+## 2 Etiología
+
+Múltiples son los factores que se han relacionado con la aparición de ROP.
+
+- *Prematuridad y peso:* a menor edad gestacional y menor peso se incrementa el riesgo de desarrollar ROP.
+- *Oxígeno:* la retina se desarrolla normalmente en el feto en un estado de hipoxia relativa. El nacimiento prematuro provoca la necesidad de suplementar con O~2~. La hiperoxia, así como la fluctuación en los niveles de O~2~ en sangre, son factores claramente favorecedores de la ROP. Un nivel óptimo de saturación de O~2~ (90-95%), estable, favorecerá el desarrollo vascular de la retina sin enfermedad.
+- *Sepsis:* la infección en las primeras 3 semanas de vida, así como la infección fúngica, parece relacionarse con una mayor gravedad de la enfermedad.
+- *Transfusiones:* el incremento de hemoglobina (Hb) tipo adulto provoca un desplazamiento de la curva de disociación de la Hb favoreciendo la disponibilidad tisular de O~2~ con el incremento de toxicidad mediado por el oxígeno.
+@p 508
+- *Eritropoyetina:* probablemente mediado por su papel angiogénico. Se relaciona con ROP la administración precoz de EPO (< 8 días).
+- *Otros factores asociados:* displasia broncopulmonar, hemorragia intracraneal, luz ambiental, etc.
+
+## 3 Clasificación
+
+Clásicamente la retina se divide en tres zonas: la zona I o central que incluye la papila (nervio óptico) y la mácula; la zona II, área intermedia que se subdivide en una zona central y otra periférica; y la zona III o área más periférica de la retina. Asimismo, la retina se subdivide en sectores horarios de O a 12 para identificar las regiones afectadas por la ROP.
+
+- Fases no proliferativas:
+  - ROP grado 1: presencia de línea de demarcación entre la retina vascular y la avascular.
+  - ROP grado 2: la línea de demarcación crece en altura hasta formar una cresta.
+- Fases proliferativas:
+  - ROP grado 3: los vasos retinianos invaden vítreo.
+  - ROP grado 4: desprendimiento parcial de la retina.
+  - ROP grado 5: desprendimiento total de la retina.
+- Enfermedad plus: indica actividad. Se observa dilatación y tortuosidad de los vasos retinianos, ingurgitación de iris o turbidez del vítreo.
+
+## 4 Cribado de ROP
+
+Las actuales recomendaciones de cribado de ROP se basan en las publicaciones de la Academia Americana de Pediatría (AAP). En la última revisión del año 2018 se indica el cribado universal en todo recién nacido con peso inferior o igual a 1500g, edad gestacional] ≤ 30 semanas y en aquéllos con peso entre 1500 y 2000g al nacimiento o edad gestacional superior a 30 semanas que tengan riesgo de desarrollar la enfermedad (pacientes con hipotensión e inotrópicos; pacientes que requieren suplementación con 02 durante varios días; pacientes que requieren O, sin monitorización adecuada de la saturación). El inicio del cribado es variable según la edad gestacional del prematuro, de manera que la primera exploración oftalmológica se retrasará más cuanto más inmaduro sea. En general, se acepta el inicio del cribado entre la cuarta y sexta semana de vida.
+
+Las exploraciones sucesivas deben ser indicadas por el oftalmólogo en función de los hallazgos exploratorios, basándose en exploraciones más frecuentes cuanto mayor sea el riesgo de desprendimiento de la retina.
+
+Si bien éstas son las recomendaciones más conocidas y seguidas, existe disparidad de seguimiento entre diferentes países adaptándose la edad gestacional o el peso
+@p 509
+al nacimiento como criterio de cribado universal. Además, aunque el seguimiento de las recomendaciones de la AAP pueda incluir a la mayoría de prematuros de riesgo de desarrollar ROP en los países occidentales, esto no es así en países en vías de desarrollo, donde un elevado número de recién nacidos no tan prematuros están en riesgo de desarrollar ROP, en parte debido al incremento en la incidencia de esta enfermedad que existe en esos países, ocasionado por condicionantes sociales o la capacidad de acceso a los recursos sanitarios necesarios.
+
+Es por ello por lo que en los últimos años se han popularizado diversos métodos de cribado individualizado para la selección de pacientes de alto riesgo sobre los que realizar el estudio oftalmológico. Entre ellos figuran el WINROP, el CHOP-ROP o el G-ROP basados fundamentalmente en la ganancia ponderal en las primeras semanas de vida, o en nuestro país, el basado en la determinación de IGF1 y la presencia de sepsis.
+
+## 5 Indicaciones de tratamiento
+
+Las indicaciones terapéuticas han ido variando en función de los estudios CRYO-ROP (1988) y ETROP (2001) estableciéndose aquellos estadíos de ROP con alta probabilidad de producir desprendimiento de retina y que eran necesarios tratarse. En el CRYO-ROP se definió la enfermedad umbral (riesgo superior al 50% de desprendimiento de retina) y en el ETROP la enfermedad preumbral (detección más precoz de lesiones potencialmente inductoras de desprendimiento sobre las que actuar antes de que aparezca la enfermedad umbral). Finalmente, en el 2003 se revisaron los criterios establecidos en el ETROP con el fin de no sobretratar casos que podrían revertir espontáneamente, definiéndose dos tipos de ROP:
+- ROP tipo 1 (indicación de tratamiento):
+  - Cualquier grado de ROP en zona I con enfermedad plus.
+  - ROP grado 3 en zona I sin enfermedad plus.
+  - ROP grado 2 ó 3 en zona II con enfermedad plus.
+- ROP tipo 2 (indicación de seguimiento estrecho):
+  - ROP grado 1 ó 2 en zona I sin enfermedad plus.
+  - ROP grado 3 en zona II sin enfermedad plus.
+
+## 6 Tratamiento
+
+- **Tratamiento quirúrgico:** tradicionalmente se empleó la crioterapia sobre la zona de retina avascular para acabar con el riesgo de desprendimiento. Su uso se ha restringido cada vez más al provocar lesiones cicatriciales retinianas amplias y poco precisas.
+
+Actualmente se prefiere el tratamiento con láser para inducir cicatrices retinianas más precisas que acaben con el riesgo de desprendimiento. Su uso requiere tiempo para ser aplicado por lo que el paciente requiere sedación y con frecuencia
+@p 510
+intubación. Asimismo, tiene un mayor riesgo de desarrollar miopía y otros defectos de refracción en el tiempo.
+
+- **Tratamiento farmacológico (fármacos anti-VEGF):** la administración local intraocular de anticuerpos monoclonales contra el VEGF provoca el bloqueo de la acción de este factor rompiendo la cascada fisiopatológica de la ROP. Su aplicación es mucho más rápida que el tratamiento con láser por lo que no requiere sedación profunda ni intubación. Asimismo, genera menos incidencia de miopía y de otros defectos de refracción.
+
+Su uso es preferido en ROP localizada en zona I y II central. Sin embargo, para la ROP en zona II periférica es más efectiva la terapia con láser.
+
+El uso de fármacos anti-VEGF, aunque efectivos a corto plazo, tienen un mayor riesgo de recurrencia tardía, lo que obliga a seguimiento prolongado y a veces requieren tratamiento con láser sobre la retina avascular.
+
+Aunque la administración es local intraocular, parte de la medicación puede absorberse y tener efectos sistémicos sobre otros órganos en cuya formación también interviene el VEGF, como el pulmón donde inhibiría la alveologénesis con un posible papel favorecedor sobre la displasia broncopulmonar.
+@caja
+**SE RECOMIENDA**
+- Todo aquello que conlleve estabilidad disminuirá el riesgo de ROP, para ello, debe primar la mínima invasividad y manipulación.
+- Es preciso optimizar los rangos de saturación de O~2~ en 90-95%. La hiperoxia favorece la ROP y aunque las saturaciones más bajas pueden prevenirla, aumentan el riesgo de alteraciones en el desarrollo neurológico.
+- La mejora en la nutrición permitirá un incremento gradual de los niveles de IGF1 que favorecerán el desarrollo vascular correcto de la retina. Es necesario disponer de parenteral precoz, favorecer la lactancia materna y fortificarla de manera adecuada para conseguir un aporte calórico apropiado.
+- Se deben disminuir los factores de riesgo asociados a ROP: control de infecciones, control de luminosidad, protocolo de uso de eritropoyetina y de transfusión de hemoderivados, etc.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Se deben evitar las fluctuaciones de O~2~ o los estados de hiperoxia. Es preciso la monitorización adecuada de la saturación con rangos de alarma apropiados (88-95%).
+- No se debe ignorar el problema de la ROP. Sigue siendo una de las principales causas de ceguera infantil en el mundo y es reflejo del estado mórbido del prematuro. Cada Unidad debe conocer su realidad y adaptar los sistemas de cribado para localizar los grupos de riesgo de ROP.
+@fin
+@bib
+1. Hellstrom A, Perruzzi C, Ju M, et al. Low IGF-I suppresses VEGF-survival signaling in retinal endothelial cells: direct correlation with clinical retinopathy of prematurity.
+@p 511
+Proc Natl Acad Sci 2001; 98: 5804-8.
+
+2. Pérez-Muñuzuri A, Fernández-Lorenzo JR, Couce-Pico ML, et al. Serum levels of IGF1 are a useful predictor of retinopathy of prematurity. Acta Paediatr 2010; 99: 519-25.
+3. Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics 2018; 142: e20183061.
+4. Binenbaum G, Tomlinson LA, de Alba Campomanes AG, et al. Postnatal Growth and Retinopathy of Prematurity (G-ROP) Study Group. Validation of the Postnatal Growth and Retinopathy of Prematurity Screening Criteria. JAMA Ophthalmol 2020; 138: 31-37.
+5. Pérez-Muñuzuri A, Couce-Pico ML, Baña-Souto A, et al. Preclinical screening for retinopathy of prematurity risk using IGF1 levels at 3 weeks post-partum. PLos One. 2014; 9: e88781.
+6. Early Treatment For Retinopathy Of Prematurity Cooperative Group. Revised indications for the treatment of retinopathy of prematurity: results of the early treatment for retinopathy of prematurity randomized trial. Arch Ophthalmol. 2003; 121(12): 1684-94.

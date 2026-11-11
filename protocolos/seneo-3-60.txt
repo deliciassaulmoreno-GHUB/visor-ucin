@@ -1,0 +1,110 @@
+@f 14. Protocolos SENEO/3.60. Displasia del desarrollo de la cadera. Pie zambo. Tortícolis muscular congénita
+@p 501
+# 3.60 DISPLASIA DEL DESARROLLO DE LA CADERA. PIE ZAMBO. TORTÍCOLIS MUSCULAR CONGÉNITA
+
+*Nerea Sarmiento Carrera^1^, Daniel Fernández Fernández^2^, Marcelino Pumarada Prieto^2^*
+
+*^1^Complejo Hospitalario Universitario de Ourense; ^2^Hospital Álvaro Cunqueiro, Vigo*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 487-492 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Displasia del desarrollo de la cadera
+
+### Concepto
+
+La displasia del desarrollo de la cadera (DDC) engloba un conjunto de anomalías (displasia, subluxación y luxación) en las que se altera la relación anatómica entre la cabeza femoral y el acetábulo.
+
+### Factores de riesgo
+
+- Presentación podálica durante el último trimestre de la gestación: se postula como el principal factor de riesgo aislado. A partir de las 36 semanas de gestación, la presentación podálica puede ser modificada mediante la versión cefálica externa. Esta maniobra reduce el tiempo que el feto pasa en podálica, pero los conocimientos científicos actuales no encuentran una reducción significativa del riesgo de DDC entre los pacientes versionados con éxito al compararlos con los que nacen en podálica.
+- Sexo femenino: el incremento de riesgo asociado a este factor es difícil de separar del vinculado a la presentación podálica, más frecuente entre las niñas.
+- Antecedentes familiares de DDC.
+
+### Exploración física
+
+***En neonatos y lactantes < 3-4 meses de edad***
+- Maniobra de Barlow: se aduce la pierna y, al mismo tiempo, se ejerce sobre las rodillas una presión en dirección posterior. La maniobra es positiva si notamos un clunk: cadera reducida pero luxable. En <4-6 semanas existe una hiperlaxitud articular fisiológica.
+- Maniobra de Ortolani: se abduce la cadera colocando el dedo índice y medio sobre el trocánter mayor y el pulgar sobre la parte interna del muslo. La maniobra es positiva si notamos un clunk: cadera luxada que se reduce. Este signo es siempre patológico.
+
+Las maniobras deben realizarse en cada una de las caderas por separado, con el recién
+@p 502
+nacido en decúbito supino sobre una superficie dura y con la cadera flexionada 90º. El clic de cadera y la asimetría de pliegues no se relacionan con la DDC.
+
+***Lactantes > 3-4 meses de edad***
+- Limitación de la flexo-abducción (<60º): signo que más se correlaciona con la DDC.
+- Signo de Galeazzi: acortamiento del muslo, no valorable si la afectación es bilateral.
+- Marcha en Trendelenburg: claudicación de la cadera con DDC.
+
+### Tratamiento
+
+Inicialmente es conservador, el arnés de Pavlik es la férula de abducción más empleada. La cirugía está indicada si falla el manejo conservador o el diagnóstico es tardío.
+
+### Manejo práctico (Figura 1)
+@img seneo-3-60-fig1.png
+*Figura 1.Actitud ante sospecha de displasia del desarrollo de cadera. 1.En periodo neonatal se recomienda solicitar valoración por parte de ortopedia infantil sin demorar 15 días la reevaluación. VCE: versión cefálica externa; AF: antecedentes familiares.*
+
+## 2 Talipes equinovaro congénito - pie zambo
+
+La deformidad conocida como pie zambo es probablemente la patología ortopédica congénita más frecuente (entre 1 y 2/1000 recién nacidos vivos) que requiere tratamiento ortopédico intensivo. Representa una displasia congénita de todos los tejidos del sistema
+@p 503
+musculoesquelético distales a la rodilla (musculotendinoso, ligamentoso, osteoarticular y neurovascular).
+
+### Etiología
+
+- Pie zambo asociado a trastornos neuromusculares y otros síndromes. Algunos de los más frecuentemente asociados: Artrogriposis, displasia distrófica, displasia de Streeter, síndrome de Freeman-Sheldon, síndrome de Möbius y otras entidades secundarias a delecciones cromosómicas.
+- Pie zambo idiopático: Siembre ha de descartarse trastorno subyacente. Secundario a deformidad musculoesquelética en un niño sin otras patologías. Representa una displasia primaria y local en todos los tejidos de la extremidad afectada distales a la rodilla.
+
+### Exploración
+
+La apariencia clásica del pie zambo muestra un marcado equino del talón con una inversión del pie distal a la tibia, varo del retropié y aducto del antepié. La incapacidad para la corrección completa de la deformidad en la exploración, la presencia de contracturas irreductibles y los pliegues cutáneos profundos suelen diferenciar al pie zambo real de las deformidades posicionales intrauterinas (suelen reducir de forma completa o casi completa tras manipulación).
+
+### Diagnóstico diferencial
+
+- **Metatarso aducto:** Desviación medial relativa al retropié. Diferentes grados: puede ser leve y flexible con resolución espontánea, moderadamente rígida y persistir hasta la edad de comienzo de la deambulación, o rígida y asociada a valgo de retropié. Las deformidades leves solo precisan educación a los padres; las moderadas suelen responder bien a manipulación y tratamiento con yesos.
+- **Talipes calcáneo-valgo:** Pie talo. Posición caracterizada por dorsiflexión forzada del pie, llegando a contactar con la cara anterior de la tibia. Suele asociarse a limitación plantar debido a la contractura de estructuras anteriores de tobillo y pie. Secundaria a un posicionamiento anormal intraútero, el pronóstico, sin alteraciones anatómicas asociadas, es bueno y generalmente la deformidad se resuelve espontáneamente en la mayoría de los casos.
+- **Pie plano-valgo:** Discutida su definición como entidad patológica. Aproximadamente alrededor del 23% de adultos presentan depresión del arco plantar. El pie plano flexible se caracteriza por un descenso del arco plantar, valgo de retropié, hipermovilidad del tobillo y complejo subtalar. Puede asociar contractura del tríceps sural.
+- **Skewfoot (metatarso varo):** Similar a metatarso aducto, presentando aducto de antepié y valgo de retropié. En este caso las deformidades son más severas y rígidas. El signo radiográfico específico es la subluxación lateral del escafoides. Se denomina también pie en Z, pie en S o pie en serpentina.
+- **Astrágalo vertical:** También conocido como pie en mecedora, se define como una luxación rígida dorsal de la articulación talonavicular. Se asocia hasta en un 60% con anomalías congénitas, tales como mielomeningocele o artrogriposis. La apariencia clásica es un pie plano rígido, con superficie plantar convexa, en cuyo ápex podemos encontrar la cabeza del escafoides. Suele precisar tratamiento
+@p 504
+quirúrgico para su corrección.
+
+- **Coalición tarsal:** Conexión anormal entre dos o más huesos del pie que pueden producir dolor y limitación en la movilidad. El hallazgo exploratorio predominante es una restricción de la movilidad de la articulación subastragalina en un paciente con pie plano.
+- **Pie hendido:** Anomalía congénita caracterizada por ausencia de los radios centrales del pie. La mayor parte de los casos son bilaterales y puede asociarse a la misma deformidad en las manos o pulgar trifalángico.
+
+### Manejo práctico (Figura 2)
+@img seneo-3-60-fig2.png
+*Figura 2. Manejo práctico de las deformidades del pie en el neonato*
+
+## 3 Tortícolis muscular congénita
+
+La tortículis muscular congénita (TMC) se caracteriza por la inclinación lateral de la cabeza acompañada de la rotación cervical contralateral, secundaria al acortamiento del músculo esternocleidomastoideo (ECM) del mismo lado.
+
+La etiología no está clara y probablemente no sea única, asociándose a restricciones de la
+@p 505
+movilidad intrauterina, traumas en el momento del parto, factores genéticos y afectación en el desarrollo y formación del ECM. En último caso, se llega a diferentes grados de fibrosis del ECM que clínicamente produce deformidad postural del cuello y limitación en la movilidad del mismo.
+
+Los recién nacidos (RN) diagnosticados de TMC no se espera que tengan una resolución espontanea, por lo que el inicio rápido del tratamiento es el factor más importante para obtener una resolución completa en el menor tiempo posible.
+
+Las técnicas de fisioterapia constituyen el procedimiento terapéutico principal. Las más utilizadas con los estiramientos y el control postural. Si se inician antes del primer mes de vida, el 98% de los pacientes conseguirán normalización de la movilidad cervical en 1.5 meses. Si se inician después de primer-segundo mes, se necesitarán cerca de 6 meses de tratamiento y si se instaura pasados los 6 meses se podrían requerir hasta 9-10 meses de intervención. La electroterapia con microcorrientes asociada a la fisioterapia, produce mejores y más rápidos resultados que esta última sola, especialmente en niños mayores de 3 meses.
+
+El inicio a partir de los 10 o 12 meses de vida, se asocia con mayores tasas de cirugía y/o utilización de toxina botulínica.
+
+El diagnóstico puede ya establecerse en los primeros días de vida durante la exploración del RN en la maternidad o en la primera revisión del recién nacido sano. El despistaje de movilidad cervical debe estar incluido en este examen inicial. Habitualmente nos encontraremos con un RN que en la inspección en supino presenta una inclinación lateral de la cabeza, con una discreta rotación cervical y habitualmente sin masas en el ECM. La asimetría en la mandíbula respecto a la contralateral también suele ser un signo precoz característico. Ese es el momento ideal para realizar una interconsulta a Fisioterapia o Rehabilitación Infantil dependiendo de la práctica de cada centro, para de esta forma iniciar un tratamiento precoz antes del alta hospitalaria.
+
+La necesidad de hacer pruebas complementarias radiológicas no suele ser necesario en la mayoría de los casos, salvo que presente una masa en el ECM o que se sospechen causas no musculares de tortículis congénita (como presencia de otras malformaciones asociadas, alteraciones en la exploración neurológica, parálisis braquial obstétrica, sospecha de hemivértebra, fracturas, sospecha de Sd. Klippel-Feil, alteraciones oftalmológicas o persistencia de las asimetrías una vez iniciado el tratamiento).
+@caja
+**SE RECOMIENDA**
+- La exploración física periódica desde el periodo neonatal hasta la consecución de la marcha y el cribado ecográfico selectivo, a las 4-6 semanas de vida, ayudan al diagnóstico precoz de la DDC.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Radiografía de caderas en menores de 4 meses de edad ante sospecha de displasia de desarrollo de caderas.
+@fin
+@bib
+1. American Academy of Pediatrics. Committee on Quality Improvement, Subcommittee on Developmental Dysplasia of the Hip. Clinical practice guideline: early detection of
+@p 506
+developmental dysplasia of the hip. Pediatrics 2000; 105:896-90.
+
+2. Sarmiento N, González E, Vázquez JL, et al. Riesgo de displasia del desarrollo de la cadera en pacientes sometidos a versión cefálica externa. An Pediatr. 2018; 83:136-39
+3. Ponseti I. Pie zambo: el método de Ponseti. Seatle: Global Helth Publication 2004: 1-29.
+4. Tachdjian MO. Pediatric Orthopedics: from the Texas Scottish Rite Hospital for Children. Philadelphia;: Elsevier Inc (2020);6ª ed.: 770-834.
+5. Sargent B, Kaplan SL, Coulter C, et al. Congenital Muscular Torticollis: Bridging the Gap Between Research and Clinical Practice. Pediatrics. 2019;144:e20190582.
