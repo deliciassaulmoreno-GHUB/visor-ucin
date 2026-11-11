@@ -1,0 +1,177 @@
+@f 14. Protocolos SENEO/3.17. Malformaciones del sistema nervioso central
+@p 243
+# 3.17 MALFORMACIONES DEL SISTEMA NERVIOSO CENTRAL
+
+*Simón Lubián López, Isabel Benavente Fernández*
+
+*Hospital Universitario Puerta del Mar, Cádiz*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 229-234 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Las malformaciones congénitas del sistema nervioso central (SNC) son, tras las cardiacas, las segundas malformaciones más frecuentes.
+
+Tras la gastrulación podemos distinguir dos etapas en la formación del SNC: la neurulación y la formación de las vesículas primarias y secundarias (figura 1)
+@img seneo-3-17-fig1.png
+@pie Telencéfalo Prosencéfalo Cerebro Neuroporo anterior Diencéfalo Mesencéfalo Tálamo, hipotálamo, epitálamo Somita Metencéfalo Mesencéfalo Rombencéfalo Protuberancia Mielencéfalo Cerebelo Neuroporo posterior Bulbo raquídeo Ojo
+*Figura 1. Etapas en la formación del sistema nervioso central*
+
+El desarrollo cortical se divide en distintas etapas: proliferación celular, migración neuronal y organización cortical postmigracional.
+
+**Causas de las malformaciones del SNC:** factores ambientales (infecciosos, metabólicos, tóxicos, ...) o mutaciones genéticas heredadas o de novo.
+
+Revisaremos resumidamente las malformaciones más frecuentes del SNC según la etapa embriológica en la que se originan.
+
+## 1 Trastornos de la neurulación
+
+Un fallo en la fusión rostral del tubo neural da lugar a anencefalia o encefalocele. La fusión caudal incompleta provoca la aparición de un disrafismo espinal (espina bífida meningocele, mielomeningocele).
+
+**Mielomeningocele**
+Trastorno viable más común de la neurulación (0,2 a 0,4/1.000 nacidos vivos). Con
+@p 244
+frecuencia asocia malformación de Arnold-Chiari tipo II y, por tanto, hidrocefalia (90% en lesiones lumbares).
+
+Diagnóstico prenatal posible mediante ecografía y/o resonancia magnética. Cirugía prenatal se asocia con menores tasas de derivaciones ventriculoperitoneales y mejor desarrollo mental y motor. Precisa abordaje pre y postnatal multidisciplinar (neonatólogos, neurocirujanos, neuropediatras, ortopedas, urólogos, nefrólogos, rehabilitadores). Tras nacimiento se debe cubrir la lesión con gasas estériles humedecidas con suero fisiológico. Antes de las 48 horas se realiza cirugía para cierre del defecto y tratamiento de la hidrocefalia. Posible la prevención primaria de los defectos del tubo neural mediante el consumo materno de ácido fólico.
+
+## 2 Trastornos del desarrollo prosencefálico
+
+El desarrollo del prosencéfalo puede dividirse en tres etapas: formación, división y desarrollo de la línea media.
+
+__A. Alteraciones de la formación prosencefálica__ (aprosencefalia, atelencefalia).No son viables y son muy poco frecuentes.
+
+__B. Trastornos de la división prosencefálica.__ El extremo rostral del tubo neural se expande para crear el cerebro anterior y el prosencéfalo. Éste se divide por su línea media y origina los hemisferios cerebrales.
+
+**Holoprosencefalia**
+Etiología: heterogénea. Genéticas (trisomías 13 y 18, mutaciones gen SHH, SIX3, ZIC2) y ambientales (diabetes mellitus gestacional,...)
+
+- Holoprosencefalia alobar: forma más grave: El cerebro es una única estructura esférica con un ventrículo común y un manto cortical malformado. Tálamos fusionados, nervios ópticos displásicos y tractos olfatorios ausentes. Posible hipopituitarismo. Anomalías faciales: desde la ciclopía hasta un incisivo central único.
+- Holoprosencefalia semilobar: astas frontales presentes, tercer ventrículo y cuerpo calloso posterior (incluido el esplenio) formados.
+- Holoprosencefalia lobar: Forma más leve. Ausencia de septum pellucidum.
+
+__C. Alteraciones del desarrollo de la línea media prosencefálica__
+
+**Agenesia de cuerpo calloso**
+Etiología: Mayoría de los casos causa genética. Otras metabólicas (déficit de piruvato deshidrogenasa, aciduria glutárica tipo II, déficit fumarasa, hiperglicinemia no cetósica, ...) o medioambientales (alcohol, infecciones, fenilcetonuria materna o agresiones hipóxicas/ vasculares). Puede ser parcial o completa, y aislada o compleja en función de la ausencia/ presencia de malformaciones del SNC asociadas.
+
+Pronóstico muy difícil de establecer. Si agenesia aislada de diagnóstico prenatal 70% neurodesarrollo normal, 15% alteración leve o moderada, y 15% discapacidad cognitiva
+@p 245
+grave.
+
+**Displasia septoóptica**
+Hipoplasia del nervio óptico en combinación con disfunción hipofisaria y ausencia del septum pellucidum. Causas muy heterogéneas, tanto ambientales como genéticas (HESX1, OTX2, PROKR2, SOX2 y SOX3. HESX1, OTX2, SOX2 y SOX3). Clínicamente se presenta con déficit visual, hipopituitarismo, o ambos.
+
+## 3 Trastornos de la proliferación neuronal
+
+__A. Disminución de la proliferación neuronal o apoptosis aumentada__
+
+**Microcefalia**
+1. Microcefalia primaria: perímetro craneal al nacer tres o más desviaciones estándar por debajo de la media. Causas: procesos destructivos (hipoxia-isquemia, infecciones intrauterinas) o disminución de la proliferación neuronal determinada genéticamente (MCPH1, CENPJ, CDK5RAP2, NDE1, ASPM, STIL, WDR62, PNKP, PCNT). Patrón de giros simplificado.
+2. Microcefalia secundaria: desarrollo postnatal consecuencia de eventos disruptivos en el período postneurogénico. Perímetro cefálico es normal o ligeramente disminuido al nacer (hasta 2 desviaciones estándar por debajo de la media).
+
+__B. Proliferación desordenada__
+
+**Hemimegalencefalia**
+Aumento de tamaño de un hemisferio cerebral. Al igual que la displasia cortical focal, se relaciona con mutaciones que provocan una disfunción de la vía de la señalización PI3K- AKT-mTOR (mammaliam target of rapamycin), cuya función principal es la regulación del crecimiento y proliferación celular.
+
+En ocasiones se asocia al complejo de esclerosis tuberosa, la hipomelanosis de Ito, y el síndrome del nevus sebáceo lineal. Todos los pacientes presentan epilepsia que puede requerir hemisferectomía.
+
+__C. Diferenciación o maduración neuronal anormal__
+
+**Displasia cortical focal (DFC)**
+Espectro de malformaciones cerebrales focales caracterizadas por una laminación cortical desordenada con o sin tipos de células anormales.
+
+Los tubérculos del complejo de esclerosis tuberosa deben considerarse un subtipo de DCF tipo IIb con implicación de los genes de la vía mTOR TSC1 y TSC2. En la resonancia magnética (RM): cambios focales del grosor cortical, patrón giral anómalo, y lesiones hiperintensas en T2 orientadas radialmente en forma de embudo con sus bases orientadas hacia la superficie pial y la punta hacia la sustancia blanca.
+@p 246
+Se asocia a la epilepsia médicamente refractaria por lo que con frecuencia requiere cirugía para controlar las crisis.
+
+## 4 Trastornos de la migración neuronal
+
+**Heterotopia**
+Conjuntos de neuronas ectópicas de morfología normal localizadas fuera de la corteza cerebral.
+
+1. Heterotopía nodular periventricular: grupos de neuronas ectópicas que forman nódulos en la región periventricular. Suele ser el resultado de una mutación del gen de la filamina A (FLNA), u otros (ARFGEF2, ERMARD, FAT4, DCHST y LRP2). Pueden desarrollar epilepsia.
+2. Heterotopía subcortical en banda: banda lisa y mal organizada de neuronas en la sustancia blanca que han detenido su migración hacia la corteza.
+
+**Lisencefalia**
+Espectro de malformaciones del desarrollo cortical asociadas a circunvoluciones cerebrales o giros amplios o ausentes, corteza anormalmente gruesa y evidencia histopatológica de una estructura cortical anormal. Relacionada con numerosos genes (LIS1, DCX, ARX, TUBAIA, TUBB2B, TUBB3, ACTB, ACTG1, CIT y CRADD). Clínicamente presentan hipotonía, dificultades para la alimentación, retraso global del desarrollo y epilepsia con frecuencia farmacoresistente. RM: superficie cerebral lisa y borde liso entre la sustancia gris y la sustancia blanca.
+
+El diagnóstico prenatal no suele ser posible antes de las 27 semanas de gestación.
+
+**Malformación cortical en “empedrado” (cobblestone)**
+Previamente denominada lisencefalia tipo II. Causada por una migración aumentada de neuronas a través de “orificios” en la membrana pial limitante. RM: superficie cerebral irregular y límite poco definido entre la sustancia gris y la blanca con estriaciones verticales.
+
+Con frecuencia se asocia a otras malformaciones cerebrales, oculares y musculares formando parte del espectro de las alfa-distroglicanopatías.
+
+## 5 Trastornos del desarrollo postmigracional
+
+**Polimicrogiria**
+Número excesivo de giros cerebrales anormalmente pequeños con aumento del plegamiento y superficie cortical irregular. Causas genéticas (COL4A1/COL4A2, OCLN, RTTN y GRIN1) o no genéticas (citomegalovirus o virus del Zika, traumatismos, exposición a teratógenos, infartos arteriales, síndrome de transfusión entre gemelos,...).
+@p 247
+Polimicrogiria frontoparietal bilateral: ventriculomegalia e hipoplasia de protuberancia y del vermis cerebeloso. Discapacidad motora, convulsiones y retraso global del desarrollo.
+
+Polimicrogiria perisilviana bilateral: síndrome clínico caracterizado por deterioro cognitivo, epilepsia y parálisis pseudobulbar.
+
+**Esquizencefalia**
+Hendidura en la materia gris que se extiende desde el epéndimo del ventrículo hasta la superficie pial de la corteza. Puede ser unilaterales (60%) o bilaterales (40%), y de labio abierto o cerrado. Un tercio de todos los casos tendrá una malformación fuera del sistema nervioso central.
+
+RM: materia gris que se extiende desde la corteza hasta el ventrículo con LCR dentro de la hendidura en los casos de labio abierto. Con frecuencia la hendidura está recubierta por polimicrogiria.
+
+## 6 Malformaciones de estructuras de la fosa posterior (Figura 2)
+
+**Síndrome de Joubert**
+Trastorno autosómico recesivo. En el periodo neonatal presentan taquipnea y apnea, mientras que los pacientes mayores presentan hipotonía, ataxia cerebelosa, apraxia oculomotora y retraso cognitivo.
+
+RM: signo del diente molar que describe unos pedúnculos cerebelosos superiores engrosados. Alteraciones del tronco cerebral y afectación supratentorial (malrotación del hipocampo, trastornos de la migración y ventriculomegalia). En DTI ausencia de decusación de los tractos corticoespinales.
+
+**Malformación de Dandy-Walker**
+Fosa posterior amplia con elevación del tentorio, hipoplasia del vermis cerebeloso y cuarto ventrículo quístico. Los hemisferios cerebelosos suelen ser pequeños, asocian hidrocefalia (80%) y malformaciones del cuerpo calloso (20%). Un tercio de los casos presentan retraso cognitivo.
+
+**Malformación de Chiari**
+El desplazamiento caudal de al menos una de las amígdalas cerebelosas a través del foramen magnum en Chiari I, II, y III.
+
+Malformación de Chiari II: mielomeningocele lumbar combinado con el desplazamiento inferior de las amígdalas cerebelosas a través del foramen magnum y alargamiento y adelgazamiento de la médula superior y la protuberancia. Estas malformaciones del tronco cerebral pueden producir disfunción del mismo (apnea, estridor, episodios cianóticos, disfagia o nistagmo).
+@p 248
+@deimg
+@flujo
+[**Malformaciones congénitas de la fosa posterior**]
+@cols 3
+[**Agenesia, aplasia o hipoplasia cerebelar o vermiana**]
+
+v
+
+· Agenesia cerebelar // · Romboencefalosinapsis // · Hipoplasia cerebelar, vermiana // · Enfermedad de Lhermitte-Duclos // · Síndrome de Walker-Warburg // · Síndrome de Joubert
+
+---
+
+[**Malformaciones quísticas de fosas posterior**]
+
+v
+
+· Malformación de Dandy Walker // · Quiste aracnoideo // · Quiste de la bolsa de Blake // · Megacisterna maga
+
+---
+
+[**Malformaciones craneales**]
+
+v
+
+· Malformación Chiari I // · Malformación Chiari II // · Malformación Chiari III
+@fincols
+@finflujo
+@findeimg
+*Figura 2. Malformaciones de estructuras de la fosa posterior*
+@caja
+**SE RECOMIENDA**
+- Las malformaciones del SNC se relacionan con factores genéticos y ambientales.
+- La neuroimagen pre y postnatal es fundamental para una adecuada caracterización diagnóstica-pronóstica.
+- La mayoría se asocian a un neurodesarrollo adverso y precisan un seguimiento multidisciplinar.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Retrasar la cirugía del mielomeningocele más allá de las 48 horas tras el nacimiento.
+- Realizar RM antes de las 27 semanas de gestación para al diagnóstico prenatal de la lisencefalia.
+- Realizar estudio genético en casos de microcefalia con perímetro craneal al nacer por encima de dos desviaciones estándar por debajo de la media.
+@fin
+@bib
+1. Cotes C, Bonfante E, Lazor J, et al. Congenital basis of posterior fossa anomalies. Neuroradiol J 2015; 28:238-53.
+2. Koenig M, Dobyns WB, Di Donato N. Lissencephaly: Update on diagnostics and clinical management. Eur J Paediatr Neurol 2021; 35: 147-e152.
+3. McVige JW. Imaging of Congenital Malformations. Continuum (Minneap Minn) 2016; 22:1480-1498.
+4. Severino M, Geraldo AF, Utz N et al.: Definitions and classification of malformations of cortical development: practical guidelines. Brain 2020;143: 2874-2894.

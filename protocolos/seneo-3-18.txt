@@ -1,0 +1,130 @@
+@f 14. Protocolos SENEO/3.18. Hipotonía y enfermedades neuromusculares neonatales
+@p 249
+# 3.18 HIPOTONÍA Y ENFERMEDADES NEUROMUSCULARES NEONATALES
+
+*Verónica Fernández Puentes*
+
+*Hospital Universitario Puerta del Mar, Cádiz*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 235-239 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La hipotonía es el signo de disfunción neurológica más frecuente, es altamente inespecífico y puede ser reflejo de multitud de enfermedades del sistema nervioso central, periférico, unión neuromuscular o muscular siendo la etiopatogenia muy variada. El mecanismo de regulación del tono muscular es complejo e implica la coordinación de múltiples circuitos periféricos y centrales:
+
+a. *Centrales:* neuronas motoras superiores, los tractos de fibras descendentes, los ganglios basales y el cerebelo.
+
+b. *Periféricos:* neuronas motoras inferiores en la médula espinal, nervios y músculos.
+
+Es fundamental definir y evaluar de forma correcta el tono muscular y la fuerza junto con una exhaustiva historia obstétrica, antecedentes familiares y perinatales para establecer la orientación inicial.
+
+**Tono muscular:** definido como la resistencia del músculo a la distensión pasiva. Es involuntaria e inconsciente y determina la postura en reposo y la resistencia a la movilidad articular. El tono muscular debe evaluarse atendiendo a la edad gestacional. La exploración del tono muscular se basa la evaluación de la postura en reposo, las maniobras de distensión articular y la respuesta al zarandeo rápido de las porciones distales de las extremidades.
+
+**Fuerza muscular:** es la capacidad para generar un movimiento o vencer una resistencia que resulta de la contracción muscular activa. La evaluación de la fuerza muscular es el elemento determinante en la evaluación del recién nacido hipotónico y se realiza mediante la escala de graduación de la fuerza muscular (Figura 1). Permite la distinción en 2 grandes grupos:
+1. Fuerza normal/casi normal: generalmente corresponden a trastornos de 1ª motoneurona: Origen Central.
+2. Fuerza disminuida/ debilidad: generalmente traduce un trastorno de 2ª motoneurona: Enfermedad Neuromuscular.
+@p 250
+@deimg
+| {3} **Graduación de la fuerza** |
+|---|---|---|
+| **Score** | {2} **Movimiento** |
+| + | no | - |
+| ++ | si | no vence resistencia |
+| +++ | si | vence resistencia moderada |
+| ++++ | si | difícil de restringir |
+@findeimg
+*Figura 1. Graduación de la fuerza muscular*
+! En el PDF la tabla lleva al lado el dibujo de la maniobra (una mano sujetando el pie del bebé), con el rótulo «Maniobra».
+
+Atendiendo al nivel de la lesión distinguiremos hipotonía neonatal:
+1. Origen Central.
+2. Origen periférico neuromuscular
+3. Origen mixto: combinación de ambos.
+| {2} **Tabla 1. Diagnóstico diferencia de la hipotonía neonatal** |
+|---|---|
+| **HIPOTONÍA CENTRAL** | **HIPOTONÍA PERIFÉRICA NEUROMUSCULAR** |
+| Hipotonía de predominio axial // Postura en libro abierto // Fuerza normal o ligeramente disminuida | Hipotonía generalizada significativa // Postura en libro abierto // Fuerza disminuida: hipo/ acinesia |
+| Movimientos antigravitatorios normales // Reflejos osteotendinosos normales o exaltados | Reducción o ausencia de movimientos antigravitatorios espontáneos // Reflejos disminuidos o ausentes |
+| No signos de atrofia muscular | Atrofia muscular (inicialmente puede no estar presente). Disminución de relieves musculares, fasciculaciones linguales. // Contracturas articulares. |
+| Signos de disfunción del SNC, alteración del nivel de conciencia, convulsiones, pobre habituación a reacciones motoras o reflejos primitivos exagerados | No signos de disfunción del SNC |
+| Rasgos dismórficos | No rasgos dismórficos. // Diplejía facial. Disfagia. |
+| Malformaciones mayores | Secuencia de acinesia fetal: // Pequeño para la edad gestacional, restricción crecimiento intrauterino, hipoplasia pulmonar, polihidramnios, paladar ojival, microrretrognatia, orejas rotadas, telecantus, camptodactilia, cifoescoliosis, criptorquidia, contracturas, cordón corto, huesos esbeltos, osteopenia, fracturas. |
+
+@p 251
+La debilidad es el mejor indicador clínico para sospechar enfermedad neuromuscular. La presencia de signos de secuencia de acinesia fetal señala un inicio intraútero de la enfermedad neuromuscular con debilidad significativa en el feto. La gravedad de las manifestaciones está relacionada con el momento de inicio del trastorno siendo por ejemplo la hipoplasia pulmonar y el pterigion signos de inicio temprano.
+
+## 2 Algoritmo diagnóstico de la hipotonía de origen central (Figura 2)
+@deimg
+@flujo
+[**HIPOTONÍA SIN DEBILIDAD**]
+
+(Considerar ecografía cerebral +/- RMN)
+
+v
+
+| **Pregunta** | **Actuación** |
+|---|---|
+| ¿Convulsiones? // ¿Alteración del nivel de conciencia? | **ESTUDIO METABÓLICO BÁSICO** // Plasma: aa, acilcarnitinas, lactato/piruvato, amonio // Orina: ácidos orgánicos, sulfitest, guanidinoacetato // LCR: neurotransmisores, aa, lactato |
+| ¿Rasgos dismórficos? // ¿Fenotipo característico? | **PRUEBAS DIAGNÓSTICAS DIRIGIDAS:** // Metilación DNA: S.PW/S.A. // AGCML: E. Peroxisomal // Enfoque isoeléctrico: CDG // 7 DHC: S. SLO // Cariotipo alta resolución, arrays-CGH: S. Sotos, S. waver, S. Pearlman, S. Williams, S. Down, S. Kabuki, 22q11... |
+| Antecedentes perinatales | EHI // Daño cerebral traumático |
+| Hiperlaxitud // *(\*Formas graves de hiperlaxitud asocian debilidad)* | **ESTUDIOS DIRIGIDOS** (mutaciones colágeno...) // S. Ehlers Danlos // S. de hipermovilidad // Aracnodactilia contractural benigna // S. Marfan // ... |
+| Otros | Trastornos del desarrollo cerebral (S. Joubert y otros): // Cariotipo alta resolución // Arrays - CGH |
+@finflujo
+@findeimg
+*Figura 2. Diagnóstico de la hipotonía central. AGCML: ácidos grasos de cadena muy larga; CDG: trastorno congénito de la glicosilación; CGH: hibridación genómica comparativa; 7-DHC: 7-dehidrocolesterol; EHI:
+@p 252
+encefalopatía hipóxico-isquémica; S: syndrome; EHI: encefalopatía hipóxico-isquémica; LCR: líquido cefalorraquídeo; RM: resonancia magnética cerebral;S. A: síndrome Angelman; S. PW: síndrome Prader-Willi; S. SLO: Smith-Lemli-Opitz*
+! Figura 2 redibujada: en el PDF es un árbol que sale de «HIPOTONÍA SIN DEBILIDAD» hacia cinco preguntas, cada una con su recuadro de actuación.
+
+## 3 Algoritmo diagnóstico de la hipotonía de origen periférico (Figura 3)
+@deimg
+@flujo
+[**HIPOTONÍA CON DEBILIDAD** // +/- Contracturas // +/- Reflejos disminuidos // +/- Otros hallazgos de hipocinesia fetal]
+
+v
+
+? ¿Exploración física y/o historia clínica sugiere entidad concreta?
+@cols
+Sí
+
+v
+
+[Estudio genético orientado sin biopsia muscular previa (salvo LET)*]
+
+---
+
+No
+
+v
+
+| **Prueba** | **Orienta a** |
+|---|---|
+| Determinación CK: Elevación | Estudio de distrofias musculares // RM+ Genética |
+| ELECTROMIOGRAMA (Puede ser normal en RN en M y DM) | AME 0/1 // POMPE // ENP // SM, MG |
+| VELOCIDAD CONDUCCIÓN NERVIOSA | Lesión medular // ENP // Distrofia muscular M(-) |
+| BIOPSIA MUSCULAR Y/O NERVIO | Miopatía Congénita (M) // Distrofia muscular // Miopatía mitocondrial // AME |
+| POTENCIALES EVOCADOS SOMATOSENSORIALES | Distrofia muscular (M-) // Lesión medular |
+@fincols
+@finflujo
+@findeimg
+*Figura 3. Diagnóstico de la hipotonía de origen periférico. AME: atrofia muscular espinal; DMC: distrofia miotónica congénita; DM: distrofias musculares; ENP: enfermedad del nervio periférico; M: miopatía
+@p 253
+congénita; MG: miastenia grave; SM: síndrome miasteniforme E: enfermedad; DM: distrofia muscular; E M-E-B: enfermedad músculo-ojo-cerebro; DM M (+): DM con deficiencia de merosina; DM M (-): DM sin deficiencia de merosina; MM: miopatía mitocondrial. \*LET: limitación del esfuerzo terapéutico.*
+
+## 4 Tratamiento
+
+El tratamiento será individualizado en función del diagnóstico etiológico y gravedad. El tratamiento fisioterapéutico será común a todas las entidades clínicas. La identificación temprana de tales trastornos es importante, ya que esto permite una intervención temprana con estándares de atención específicos de la enfermedad y lo que es más importante, debido a la posibilidad de tratar algunos de ellos, como la atrofia muscular espinal, con enfoques terapéuticos disponibles.
+@caja
+**SE RECOMIENDA**
+- La debilidad es el mejor indicador clínico para sospechar enfermedad neuromuscular.
+- En un neonato con hipotonía congénita la primera actuación es evaluar la fuerza y determinar así el nivel de la lesión: central, periférico o componente mixto.
+- La hiperlaxitud grave puede dar lugar a hipotonía.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Realizar pruebas diagnósticas invasivas innecesarias, por ello cuando tras la evaluación clínica inicial se sospecha una entidad concreta, los estudios genéticos deben ser dirigidos y precoces.
+@fin
+@bib
+1. García-Alix A, Arnáez J. Hipotonía Congénita. En: García-Alix A, Arnáez J. Neurología Neonatal de un vistazo, 1ªed. Madrid. Editorial Cabeza de Chorlito; 2022; p.209-2012.
+2. Mercuri E, Pera MC, Brogna C. Neonatal hypotonia and neuromuscular conditions. Handb Clin Neurol 2019; 162:435-448.
+3. Sparks SE. Neonatal hypotonia. Clin Perinatol. 2015; 42:363-71.
+4. Morton SU, Christodoulou J, Costain G, et al. Multicenter Consensus Approach to Evaluation of Neonatal Hypotonia in the Genomic Era: A Review. JAMA neurology. 2022; 79:405-13.

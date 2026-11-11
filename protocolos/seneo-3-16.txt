@@ -1,0 +1,127 @@
+@f 14. Protocolos SENEO/3.16. Alteraciones de la forma y del tamaño del cráneo
+@p 237
+# 3.16 ALTERACIONES DE LA FORMA Y DEL TAMAÑO DEL CRÁNEO
+
+*Victoria Ramos Ramos*
+
+*Hospital Universitario de Jerez*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 223-228 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Alteraciones de la forma del cráneo
+
+**1.A. Plagiocefalia posicional**
+Deformidad craneal más frecuente (1/300 RN). Se produce por compresión mantenida sobre un lado del cráneo. Puede asociarse a hipotonía y tortícolis; más rara vez a patología oculomotora o malformaciones de la columna cervical. Por sí sola, no se relaciona con disfunción neurológica. La más habitual es la occipital, que incluye dos tipos:
+- Asimétrica (izquierda o derecha). No confundir con la sinostosis lambdoidea unilateral, muy rara (fig 1). Se clasifica en:
+  - Leve: sólo asimetría occipital
+  - Moderada: asocia asimetría frontal
+  - Grave: lo anterior más asimetría malar, del reborde orbitario o mastoidea
+- Simétrica: (bilateral, braquicefalia). Grave si diámetro biparietal/occipitofrontal >90%.
+@img seneo-3-16-fig1.png
+*Figura 1. Visión desde arriba. (a) Forma craneal normal (b) Plagiocefalia occipital bilateral (c) Plagiocefalia unilateral derecha ("paralelogramo", aplanamiento occipital derecho, abombamiento frontal ipsilateral, oreja ipsilateral adelantada) (d) Sinostosis lambdoidea derecha ("trapezoide" aplanamiento occipital derecho, protrusión frontal contralateral, oreja ipsilateral centrada o retrasada).*
+
+*Tratamiento:* medidas posturales; si hay tortícolis asociar ejercicios de rehabilitación. Los casos moderados o graves que a los 4-5 meses no han mejorado con estas medidas pueden ser candidatos a ortesis (casco). La cirugía es excepcional.
+@p 238
+**1. B. Craneosinostosis**
+Cierre prematuro de una o más suturas craneales. (1/1.000 RN).
+@img seneo-3-16-fig2.png
+@pie Sutura metópica Sutura coronal Fontanela anterior Sutura sagital Fontanela posterior Sutura lambdoidea Dolicocefalia Trigonocefalia Braquicefalia Plagiocefalia Oxicefalia
+*Figura 2. Principales formas del cráneo por craneosinostosis de una sutura. Del libro Evaluación Neurológica del Recién Nacido. Cortesía Dr. García-Alix.*
+
+| {4} **Tabla 1. Edad aproximada de cierre** |
+|---|---|---|---|
+| {2} **FONTANELAS** | {2} **SUTURAS** |
+| Posterior | 2-3 meses | Metópica | 2 meses |
+| Anterolateral | 3-6 meses | Sagital | 22 meses |
+| Posterolateral | 6-12 meses | Coronal | 24 meses |
+| Anterior | 12-24 meses | Lambdoidea | 26 meses |
+
+| {3} **Tabla 2. Tipos de craneosinostosis** |
+|---|---|---|
+| **PRIMARIA** | **SINDRÓMICA** | **SECUNDARIA** |
+| La más frecuente (85%) // Generalmente una sola sutura // • Sagital: 40-60% // • Coronal: 20-30% // • Metópica: 10% // • Lambdoidea: <2% // Crecimiento craneal paralelo a la sutura afectada (Figura 2) // No otras anomalías asociadas // Por compresión, factores bioquímicos, a veces mutaciones genéticas. | Menos frecuente (10-20%) // Generalmente varias suturas, afectando a bóveda, base del cráneo y esqueleto facial. // Otras anomalías asociadas. // Más de 100 síndromes descritos (Crouzon, Apert, Carpenter...). // 85% por mutaciones genéticas (genes FGFR, TWIST y MSX2). // 15% cromosomopatías | Poco frecuente. Puede resultar de: // • Microencefalia (el cráneo puede ser simétrico y sin crestas óseas) // • Enfermedades (talasemia, anemia de células falciformes, hipertiroidismo, osteodistrofia renal, hipofosfatemia, hipercalcemia, déficit vitamina D. // • Teratógenos (warfarina o ácido valproico) |
+
+@p 239
+*Diagnóstico clínico* basado en la exploración:
+- Alteración de la forma del cráneo y de la cara (Figura 2) o falta de alguna fontanela
+- Reborde óseo palpable a lo largo de la sutura
+- Ausencia de desplazamiento de los huesos a nivel de la sutura al presionarlos
+
+*Diagnóstico de confirmación:* mediante pruebas de imagen (Figura 3).
+
+- Ecografía: muy sensible y específica. Sonda lineal de alta frecuencia (mínimo 12,5 MHz). Un espacio hipoecoico entre las dos placas óseas hiperecoicas descarta sinostosis.
+- Radiografía (en desuso): ausencia línea de sutura o esclerosis perisutura (más precoz).
+- TC con reconstrucción 3D (de elección). En desarrollo la RM con reconstrucción 3D.
+@img seneo-3-16-fig3.png
+*Figura 3. Arriba TAC tridimensional. Abajo ecografía. a) Sutura coronal permeable. b) Sinostosis de sutura sagital. Cortesía Dra. Marino S, Ruggieri M.*
+
+*Tratamiento:* corrección quirúrgica antes de los 3-4 meses. Recomendación: derivar precozmente a Neurocirugía, Genética y Atención Temprana (incluso la forma aislada se ha relacionado con alteraciones del neurodesarrollo, sin que esté claro el efecto que la corrección quirúrgica puede tener al respecto).
+
+## 2 Alteraciones del tamaño de la cabeza
+
+El Perímetro Craneal (PC) refleja el volumen cerebral y predice neurodesarrollo. Mediciones seriadas aumentan el valor pronóstico. En general, los niños sanos tienen un PC que se sitúa entre los percentiles del padre y la madre.
+
+**2.A. Microcefalia:** PC ≤ 2DE (o inferior al P3) para edad, gestación y sexo.
+@p 240
+| {2} **Tabla 3. Causas de microcefalia** |
+|---|---|
+| **AISLADA, PRIMARIA O VERA** | __Microcefalia Familiar No Sindrómica AR:__ Causa más frecuente. Connatal. Antecedentes familiares. Arquitectura cerebral normal (a veces patrón de circunvoluciones simplificado y alteraciones sutiles). Sin signos neurológicos (a veces espasticidad y convulsiones). Retraso mental moderado. Gran heterogeneidad genética y fenotípica. // __Microcefalia Familiar No Sindrómica AD:__ Menos frecuente y menos grave. La mayoría por mutación en el gen KIF11 |
+| **SINDRÓMICA** | Cromosomopatías y síndromes de base genética (Base OMIM) |
+| **ALTERACIONES NEUROANATÓMICAS** | Holoprosencefalia, lisencefalia, esquizencefalia, polimicrogiria, paquigiria... (asocian microcefalia) |
+| **ENFERMEDADES METABÓLICAS** | Aminoacidurias (fenilcetonuria, acidurias orgánicas...). Trastornos del ciclo de la urea // Enfermedades de almacenamiento (lipofuscinosis neuronal ceroidea..) |
+| **AGENTES EXTERNOS** | Enfermedad materna (fenilcetonuria, diabetes) // Infección intrauterina (TORCH, Varicela, VIH, Zika...). // Teratógenos (radiaciones, alcohol, tabaco, marihuana, cocaína, antiepilépticos...) // Incidente disruptivo (ACV, muerte de gemelo intraútero...) // Hipoxia-isquemia // Menigoencefalitis |
+
+*AR = autosómica recesiva; AD= autosómica dominante*
+
+*Diagnóstico:*
+
+- Anamnesis: gestación, curva de PC, desarrollo psicomotor, PC de los padres y hermanos.
+- Exploración física, peso y talla (correlación con PC), rasgos dismórficos, examen neurológico.
+- Exámenes complementarios:
+  - Primer escalón: ecografía y resonancia cerebral (patrón oro; añadir espectroscopia si sospecha de metabolopatía).
+  - Segundo escalón: test genéticos (más de la mitad de las microcefalias congénitas tienen causa genética). Cariotipo y Arrary CGH y, si estos no son informativos, exoma clínico.
+  - Si sospecha de enfermedad metabólica: cribado orientado (sólo el 1-5% de las microcefalias).
+  - Añadir evaluación oftalmológica y auditiva por mayor prevalencia de alteraciones sensoriales.
+@p 241
+**2.B. Macrocefalia:** PC ≥ 2 DE (o ≥ P97) para su edad, gestación y sexo.
+@ancha
+| {4} **Tabla 4. Causas de macrocefalia** |
+|---|---|---|---|
+| {3} **AUMENTO DE TAMAÑO DEL CEREBRO (MEGALENCEFALIA)** | **AUMENTO OTROS COMPONENTES INTRACRANEALES** |
+| **SINDRÓMICA** // • Síndromes neurocutáneos: neurofibromatosis, esclerosis tuberosa… // • Síndromes con sobrecrecimiento: Sotos, Weaver, Simpson-Golabi-Costello… // • Síndromes sin sobrecrecimiento: Greig, acrocalloso… // • Mutaciones PTEN/ P13K-AKT-MTOR. | **METABÓLICA** // 3 grandes grupos: // • Leucodistrofias // • Enfermedades de depósito lisosomal // • Acidurias orgánicas // • (La neuroimagen de la aciduria glutárica tipo I recuerda a la subaracnomegalia pero se debe a atrofia frontotemporal; si dudas, pedir ácidos orgánicos). | **BENIGNA O IDIOPÁTICA** // Seguimiento a largo plazo y búsqueda exhaustiva de sobrecrecimiento focal o mosaicismo cutáneo (mutación somática PIK3CA). | **LCR** // • SUBARACNOMEGALIA (antes hidrocefalia benigna externa). Aumento del espacio subaracnoideo frontal o frontoparietal e interhemisférico. Buen pronóstico. // • otras: hidrocefalia, hidranencefalia, quiste de plexo coroideo) // SANGRE (hemorragias, malformaciones arteriovenosas) // HUESO (displasias, talasemia...) // MASA (tumor) |
+
+**Diagnóstico:**
+- Historia clínica y exploración.
+- PC de familiares (el antecedente familiar es predictor de benignidad)
+- Neuroimagen: ecografía cerebral. Si no resolutiva, resonancia magnética.
+- ¿Rasgos dismórficos? ¿Estigmas neurocutáneos? ¿Sobrecrecimiento? Dismorfólogo / CGH Array / panel / exoma.
+- ¿Involución del desarrollo? ¿Episodios de descompensación metabólica? ¿Hepatoesplenomegalia, espasticidad, ataxia?... Estudio metabólico dirigido.
+- ¿Signos de hipertensión intracraneal? EVALUACIÓN URGENTE.
+
+## 3 Hidrocefalia
+
+Es un exceso de LCR que generalmente provoca ventriculomegalia y aumento de la presión intracraneal. Las principales causas de hidrocefalia congénita son:
+1. Sindrómicas: trisomías 13 y 18, Walker-Warburg, Smith-Lemli-Optiz, Hurler, Hunter, mutaciones del gen *L1CAM* (hidrocefalia + conjunto de fenotipos que incluyen retraso mental, afasia, espasticidad, pulgares aductos y alteraciones del cuerpo calloso).
+@p 242
+2. No sindrómicas.
+- Malformaciones del SNC (disrafismo espinal, estenosis del acueducto de Silvio, Arnold-Chiari, Dandy-Walker...)
+- Alteración en la reabsorción del LCR u obstrucción de la circulación del LCR (hemorragia o infecciones).
+
+*Sospecha clínica:* irritabilidad, letargia, náuseas y vómitos, alteraciones de la motilidad ocular, macrocefalia, retraso del desarrollo...
+
+*Diagnóstico de Confirmación:* ecografía cerebral o resonancia. Las anomalías cerebrales asociadas ayudan a orientar la etiología.
+
+*Tratamiento:* derivación urgente a neurocirugía. El retraso en su tratamiento se relaciona con muerte y daño cerebral.
+@caja
+**SE RECOMIENDA**
+- Explorar cuidadosamente la cabeza del recién nacido y valorar el PC.
+- La ecografía cerebral como primera prueba de imagen en las alteraciones de la forma o el tamaño del cráneo.
+- Prevenir la plagiocefalia postural recomendando alternar la posición de la cabeza del recién nacido al dormir desde los primeros días de vida.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- El TAC craneal sin utilizar protocolos de baja dosis de irradiación.
+@fin
+@bib
+1. Alfredo García-Alix, José Quero. La Cabeza. En: Evaluación neurológica del recién nacido. Ed. Díaz de Santos. Madrid 2010: 211-280.
+2. Alfredo García-Alix, Juan Arnáez. Neurología neonatal de un vistazo. Ed. Cabeza de Chrolito, Madrid: 217-222.
+3. Marino S, Ruggieri M, Marino L, Falsaperla R. Sutures ultrasound: useful diagnostic screening for posterior plagiocephaly. Childs Nerv Syst. 2021; 37:3715-3720.

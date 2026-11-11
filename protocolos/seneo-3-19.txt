@@ -1,0 +1,110 @@
+@f 14. Protocolos SENEO/3.19. Parálisis braquial
+@p 254
+# 3.19 PARÁLISIS BRAQUIAL
+
+*Pedro J. Jiménez Parrilla*
+
+*Hospital Universitario Virgen Macarena, Sevilla*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 240-244 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La parálisis braquial neonatal (PBN) se presenta como una extremidad débil o sin movimiento con un balance articular pasivo mayor que el activo. Muestra una asimetría con el miembro contralateral en el reflejo palmar y el de Moro durante las primeras semanas de vida.
+
+En la mayoría de los casos se produce por neuroapraxia, cuando el nervio se ha estirado debido a la tensión en el cuello y el hombro y suele resolverse sin secuelas. Con menor frecuencia se produce la ruptura de las fibras nerviosas o la avulsión a nivel de médula espinal, siendo peor el pronóstico.
+
+Afecta de 0,1 a 4 de 1000 recién nacidos vivos. El principal factor de riesgo para esta alteración es la distocia de hombros. Otros factores asociados son el parto instrumentado con fórceps, recién nacidos macrosomicos, diabetes gestacional, anomalías uterinas, presentación pelviana, desproporción cefalopélvica, y multiparidad. Sin embargo, estos factores de riesgo no siempre están presentes, por lo que en la actualidad se recomienda cambiar la clásica denominación de parálisis braquial obstétrica a PBN.
+
+## 2 Presentación clínica y clasificación.
+
+Podemos encontrarnos desde una debilidad transitoria hasta la paresia/parálisis global.
+
+La clasificación más utilizada es la de Narakas, que diferencia cuatro grupos, dependiendo de la afectación anatómica del plexo braquial, así como su severidad, como se describe en la Figura 1.
+@p 255
+@deimg
+| {3} **Clasificación de Narakas** |
+|---|---|---|
+| **GRUPO I, PARÁLISIS DE ERB** (Parálisis superior) | • Raíces afectas: C5-C6. // • Características:Parálisis del deltoides, bíceps y supinador. // • Clínica: Postura de “propina de mesero”, con aducción y rotación interna del hombro, codo extendido y antebrazo pronado. // • Recuperación espontánea:90%. | 60% |
+| **GRUPO II** (Parálisis superior) | • Raíces afectas: C5-C7. // • Características: Parálisis del deltoides, bíceps, supinador y extensión de muñeca. // • Clínica: similar a la tipo I, sumándose la parestesia-parálisis del tríceps y limitación en la extensión de la muñeca // • Recuperación espontánea: 65%. | 20% |
+| **GRUPO III, PARÁLISIS COMPLETA** | • Raíces afectas: C5-T1. // • Características: Flacidez del miembro torácico. // • Clínica: Extremidad totalmente flácida, déficit motor y sensitivo en toda la extremidad. // • Recuperación espontánea: ≤50%. | 15% |
+| **GRUPO IV, PARÁLISIS COMPLETA + SÍNDROME DE HORNER** | • Raíces afectas: C5-T1. // • Características: Flacidez del miembro torácico y síndrome de Horner. // • Clínica: extremidad totalmente flácida, miosis, anhidrosis y ptosis palpebral. // • Recuperación espontánea: no. | 5% |
+| **Síndrome de Klumpke** | • Raíces afectas: C8-T1. // • Clínica: mano en garra, sin afectación de la musculatura proximal. Frecuentemente asocia Sd. de Horner. // • Mal pronóstico. | 1% |
+@findeimg
+! En el PDF la clasificación va junto a dos dibujos (un bebé con parálisis superior y otro con síndrome de Klumpke); el rótulo «(Parálisis superior)» de los grupos I y II está tomado de ese dibujo.
+
+*Figura 1. Tipos de parálisis braquial*
+
+## 3 Abordaje inicial
+
+Ante la sospecha de una PBN el recién nacido debe ser valorado por un especialista en Rehabilitación Infantil. En líneas generales la primera valoración debe realizarse en la primera semana de vida, preferiblemente entre las 24-72 horas de vida.
+
+El diagnóstico será clínico, mediante la exploración física de la extremidad afecta, sin necesidad de realizar ninguna prueba complementaria inicial.
+
+Aunque el electromiograma no es del todo sensible y específico durante los 3 primeros meses, de forma más tardía, junto con la resonancia magnética, puede ser de utilidad para valorar la extensión de lesiones del plexo braquial con mala evolución o para plantear un tratamiento quirúrgico precoz
+
+Debemos tener presente que puede asociar otras patologías, como son el cefalohematoma, la fractura de clavícula, la fractura humeral, la tortícolis congénita y con mucha menor frecuencia la presencia de lesión medular, directamente relacionadas con el parto distócico. También debemos estar alerta ante una posible parálisis facial, síndrome de Horner o parálisis frénica asociados.
+@p 256
+## 4 Tratamiento y seguimiento por equipo multidisciplinar
+
+El abordaje eficaz de la PBN implica una atención precoz, así como el conocimiento de la evolución natural del cuadro con unas adecuadas recomendaciones terapéuticas, ya sean conservadoras y/o quirúrgicas, ajustadas a la patología y su evolución. El tratamiento rehabilitador debe iniciarse en los primeros días de vida siempre y cuando no existan lesiones óseas asociadas. Los objetivos que se persiguen son preservar la movilidad articular, estimular la musculatura parética, normalizar el desarrollo psicomotor y la integración del miembro afecto.
+
+El cronograma de realización de las distintas evaluaciones puede variar de unos centros a otros, pero en líneas generales se acepta realizar una primera valoración en las primeras 48 horas de vida. Tras la evaluación inicial y la tipificación según Clasificación de Narakas, se coloca la extremidad afecta en reposo durante 2 semanas y se instruye a los padres para que no realicen lateralización de la cabeza del bebé hacia el lado contrario (para prevenir un incremento de la lesión inicial). Controles sucesivos cada 2-3 semanas y posteriormente mensuales, con especial interés en los momentos de probable indicación e intervención quirúrgica (3º, 6º, 9º y 12º mes de vida). Los pacientes en los que no se produce una recuperación completa durante las primeras semanas de vida deben realizar tratamiento que combine diferentes técnicas de tratamiento conservador, siendo necesario en los casos más graves añadir cirugía reparadora del plexo. Por todo ello se aconseja que estos pacientes sean derivados a centros específicos donde exista un equipo multidisciplinar, constituido por médicos rehabilitadores, fisioterapeutas, terapeutas ocupacionales, neuropediatras y una unidad especializada en cirugía del plexo braquial
+
+El abordaje terapéutico incluye:
+- **Fisioterapia:**
+
+El inicio del tratamiento activo fisioterapéutico debe ser precoz, en la tercera semana de vida. Siempre se indica una inmovilización inicial del miembro afecto, en aducción y rotación interna, durante las dos o tres primeras semanas de vida. Existen diferentes terapias dependiendo del momento, la evolución de la lesión y el desarrollo del niño con PBN y deben tener continuidad durante el primer año de vida, con revisiones mensuales, para la valoración del progreso funcional y replanteamiento de futuros objetivos. El tratamiento de fisioterapia no tiene efecto directo sobre la reinervación, pero sí sobre la prevención de las deformidades y la mejora de la función.
+
+Durante el primer año se debe educar en el cuidado, posicionamiento y actividades de la vida diaria. Para ello debemos mantener la movilidad articular completa y fortalecer la musculatura sana, evitar deformidades músculotendinosas y osteoarticulares secundarias, estimular la contracción de los músculos paréticos y prevenir la aparición de movimientos compensatorios, con el objetivo de evitar o disminuir la discapacidad secundaria y mantener unos patrones motores de desarrollo cortical adecuados.
+
+- **Abordaje biopsicosocial.**
+@p 257
+Es importante potenciar el papel de la familia como pilar fundamental en la aplicación de los distintos tratamientos domiciliarios. La Clasificación Internacional de Funcionamiento, Discapacidad y Salud (CIF- IA) de la OMS aconseja realizar una evaluación clínica y funcional global del niño con PBN, lo que implica la medición, no sólo de las alteraciones funcionales de las estructuras corporales, sino de las limitaciones en las actividades diarias (comer, pintar, escribir,), errores en praxias finas, así como restricciones en la participación en el entorno familiar, escolar y social. Fomentar la actividad deportiva debe tener un papel importante en el programa de tratamiento.
+
+- **Electroestimulación.**
+
+En la actualidad, aunque en la literatura se recogen terapias experimentales a partir del mes de vida con estimulación sensitiva en lesiones con pérdida de sensibilidad total, esta terapia no se usa en PBN y es muy cuestionable en la PB traumática del adulto
+
+- **Toxina botulínica.**
+
+La toxina botulínica se utiliza tanto para tratar las contracciones como para tratar de equilibrar el disbalance muscular entre los rotadores internos y externos o entre los flexores y extensores de codo, cuando la terapia rehabilitadora inicial no es suficiente. Terapia también de uso experimental, cuestionable porque debilita la musculatura sana y no está claro que favorezca la recuperación de la parética
+
+- **Uso de ortesis.**
+
+Las ortesis (WHO en seaflex reforzado con termoplástico o material almohadillado) durante la primera etapa de tratamiento se utilizan para evitar la deformidad de la muñeca - mano en desviación cubital por debilidad de flexores dorsales de muñeca, de uso preferentemente en reposo en PBN severas. Se utiliza hasta que los músculos extensores del carpo y los dedos realicen movimientos contra la gravedad (balance muscular manual de 3). En etapas más tardías, en niños de evolución desfavorable, se utilizan también ortesis para mejorar la función en supinación o la pinza realizadas en material ligero y de uso durante las actividades.(se usan muy poco) También se utilizan yesos seriados o bien ortesis nocturnas para mejorar la extensión en casos de flexos de codos.
+
+- **Terapia de movimiento inducido por restricción (CIMT en inglés)**
+
+Se trata de un tratamiento que se administra por parte de los terapeutas ocupacionales. Consiste en limitar el uso de la mano sana para forzar el uso de la parética.
+
+Es de las terapias con mayor soporte bibliográfico y por tanto más recomendadas en la actualidad
+
+- **Cirugía del plexo braquial.**
+
+La cirugía está indicada de forma selectiva, intentando actuar sobre músculos concretos para tratar de mejorar patrones de movimiento y así evitar la aparición de deformidades óseas.
+
+Se recomienda en lactantes de 3-6 meses cuando no hay flexión de codo (cirugía
+@p 258
+reparadora precoz). La cirugía paliativa (transferencias tendinosas, osteotomías,...) se indican cada vez menos y se evitan con un tratamiento rehabilitación bien dirigido
+
+## 5 Pronóstico
+
+La PBN es una patología compleja ya que se unen por un lado una fuerte carga emocional en los padres debido al sentimiento de daño, junto a la incertidumbre y miedos sobre las posibles secuelas motoras, sensitivas y estéticas. A pesar de que muchos niños se recuperan espontáneamente, las secuelas son variables y se estiman entre un 10 y un 20% de los pacientes. En la práctica, la resolución completa no es tan frecuente, debemos tener en cuenta que la bibliografía no es concluyente en este aspecto al no definir con claridad en que consiste la recuperación sin secuelas a medio y largo plazo.
+
+Los datos clínicos más sensibles y específicos para predecir si nos encontramos con una lesión grave respecto de una leve se consiguen con la evaluación de la flexión del codo y la ausencia de potenciales motores en el electromiograma del bíceps al mes, y mejor aún a los 3 meses de edad.
+@caja
+**SE RECOMIENDA**
+- Valoración precoz del Recién Nacido con sospecha de parálisis braquial por un especialista en Rehabilitación Infantil.
+- El tratamiento conservador precoz por un equipo multidisciplinar es la mejor opción en la rehabilitación del neonato con parálisis braquial.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No indicar reposo absoluto y conducta expectante sin valoración por especialistas.
+@fin
+@bib
+1. Shah V, Coroneos CJ, Ng E. The evaluation and management of neonatal brachial plexus palsy. Paediatr Child Health 2021; 26:493-497.
+2. Frade F, Gómez Salgado J, Jacobsohn L, et al. Rehabilitation of Neonatal Brachial Plexus Palsy: Integrative Literature Review. J Clin Med 2019; 8: 980.
+3. Van der Looven R, Coupe AM. Constraint-induced movement therapy for children with neonatal brachial plexus palsy. Dev Med Child Neurol 2021; 63:495.
+4. Fraind-Maya G, Loyo LE, Migoya A. Parálisis obstétrica del plexo braquial. Acta Pediatr Mex 2021; 42: 85-88.
+5. Buterbaugh KL, Shah AS. The natural history and management of brachial plexus birth palsy. Curr Rev Musculoskelet Med 2016; 9 (4): 418-426.
+6. Schmieg S, Nguyen JC, Pehnke M, Yum SW, Shah AS. Team approach: management of brachial plexus birth injury. JBJS Reviews 2020; 8: e19.00200.
