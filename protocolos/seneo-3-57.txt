@@ -1,0 +1,127 @@
+@f 14. Protocolos SENEO/3.57. Obstrucción intestinal: atresias intestinales, enfermedad de Hirschsprung, malrotación y vólvulo e íleo meconial
+@p 483
+# 3.57 OBSTRUCCIÓN INTESTINAL: ATRESIAS INTESTINALES, ENFERMEDAD DE HIRSCHSPRUNG, MALROTACIÓN Y VÓLVULO E ÍLEO MECONIAL
+
+*Teresa Esclapés Giménez, Alicia Montaner Ramón, José Andrés Molino Gahete*
+
+*Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 469-476 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Los cuadros obstructivos de la vía digestiva son una de las causas más frecuentes de ingreso en la Unidad de Cuidados Intensivos Neonatales (UCIN) y originan la mayoría de las urgencias quirúrgicas neonatales. Las causas principales en el periodo neonatal:
+- Atresia y estenosis del tubo digestivo
+- Enfermedad de Hirschsprung
+- Malrotación y vólvulo
+- Íleo meconial
+- Otras: tapón meconial, hernia inguinal estrangulada, divertículo de Meckel, etc....
+
+Cada una de las patologías previas tienen características diagnóstico-terapéuticas propias, sin embargo, tenemos que tener en cuenta unos signos guía que nos pueden hacer sospechar que existe un cuadro obstructivo y actuar en consecuencia:
+1. Diagnóstico prenatal de polihidramnios. Se produce por una disminución de la reabsorción intestinal de líquido amniótico y, por tanto, suele ser más evidente cuanto más proximal se encuentre la malformación del tracto digestivo.
+2. Vómitos biliosos, también más frecuente en obstrucciones proximales.
+3. Retraso en la emisión del primer meconio (>24 horas).
+4. Distensión abdominal, más común en obstrucción distal.
+
+El manejo inicial de todo cuadro obstructivo es similar sea cual sea la causa y consistirá en suspender la nutrición enteral, colocación de sonda nasogástrica para descompresión intestinal e inicio de sueroterapia.
+
+## 1 Atresias intestinales
+
+Las atresias intestinales son la causa más frecuente de obstrucción intestinal neonatal, afectando a 1/4000 recién nacidos vivos.
+
+### 1. Atresia duodenal
+@p 484
+Es la atresia intestinal más común (60%). Se asocia frecuentemente a otras anomalías congénitas: trisomía 21 (30%), cardiopatías congénitas (30%), otras anomalías gastrointestinales (25%) y malrotación (30%).
+
+En un 30% la estenosis se produce por un **páncreas anular.** Se debe a la falta de regresión de la porción ventral del páncreas que envuelve la segunda porción del duodeno y provoca una estenosis de su luz. Este hallazgo suele ser intraoperatorio.
+
+*Clínica:* La mayoría de obstrucciones se producen en 2ª porción del duodeno, distal a la ampolla de Vater, por lo que los vómitos suelen ser biliosos. También se puede manifestar como vómitos gástricos, ya que en un 10-15% el defecto es pre-ampular. El epigastrio puede estar abombado.
+
+*Diagnóstico:* En la ecografía prenatal, además de polihidramnios, se puede observar dilatación gástrica y de parte del marco duodenal. Este mismo hallazgo se puede observar postnatalmente en la radiografía simple de abdomen donde la imagen característica en doble burbuja confirmaría el diagnóstico (Figura 1). En caso de que haya paso de algo de gas al intestino distal habría que pensar en una estenosis duodenal. En algunos casos se requiere una prueba con contraste para confirmar el diagnóstico y realizar el diagnóstico diferencial con un vólvulo intestinal.
+@img seneo-3-57-fig1.png
+*Figura 1. Radiografía de abdomen con imagen de doble burbuja por atresia dudodenal*
+
+*Tratamiento:* duodenoduodenostomía laparoscópica o abierta.
+
+### 2. Atresia yeyunoileal
+@p 485
+Representa aproximadamente un 20% de las atresias intestinales. Suele ser una malformación esporádica y que no se asocia a otras anomalías extra-intestinales ni alteraciones genéticas. Las patologías asociadas más frecuentes son: malrotación (10-15%), gastrosquisis (10-15%) y fibrosis quística (10%). Un 45% de los pacientes son prematuros. Clínica: variará según la localización anatómica de la lesión. En las lesiones proximales predominarán los vómitos biliosos y en las distales la distensión abdominal. Un cuarto de los pacientes presenta polihidramnios. Es común la ausencia de realización de meconio, aunque puede haber paso de pequeñas cantidades de este.
+
+*Diagnóstico:* En la radiografía simple de abdomen se observa dilatación de asas intestinales con escaso aire distal (Figura 2). Según el número de niveles hidroaéreos presentes en la radiografía lateral con rayo horizontal se puede deducir la localización de la lesión. El tránsito gastrointestinal (TGI) no suele ser necesario, pero puede ser útil ante sospecha de malrotación con vólvulo asociado. Se recomienda realizar un enema opaco con el objetivo de identificar el sitio de la lesión y realizar el diagnóstico diferencial con otras patologías (como enfermedad de Hirschsprung o íleo meconial), un hallazgo habitual es la presencia de microcolon por desuso.
+@img seneo-3-57-fig2.png
+*Figura 2. Radiografía de abdomen con dilatación de asas y no aire distal*
+
+*Tratamiento:* cirugía con resección del segmento atrésico y anastomosis terminoterminal. El segmento proximal suele estar muy dilatado y el distal muy hipoplásico por lo que hay una gran desproporción entre ambos.
+
+### 3. Atresia colónica
+
+Es una causa rara de obstrucción intestinal, comprendiendo un 1.8%-15% de todas las atresias intestinales. Suele ser un defecto aislado, su asociación con otras anomalías es rara. Se ha observado una asociación con la enfermedad de Hirschsprung, por lo que se recomienda descartar esta enfermedad con una biopsia rectal.
+
+La clínica consiste en distensión abdominal, vómitos biliosos y falta de emisión de meconio. No es usual que se acompañe de polihidramnios por lo distal que es el defecto. El diagnóstico y tratamiento son similares a la atresia yeyuno-ileal.
+@p 486
+## 2 Enfermedad de Hirschsprung (EH)
+
+Es la segunda causa de obstrucción intestinal neonatal. Afecta más a los varones con una ratio 4:1. La incidencia de otros familiares afectos es del 3.5-8%, aunque ésta aumenta en casos de afectaciones extensas.
+
+El 80% de los casos son esporádicos, aunque se han identificado múltiples anomalías asociadas a esta enfermedad:
+- Genéticas (el gen afectado más frecuentemente es el proto-oncogen RET)
+- Cromosómicas (12%), la más frecuente es la trisomía 21 (T21)
+- Síndromes hereditarios: MEN tipo II, hipoventilación central, Mowat-Wilson, Smith-Waardenberg
+- Otras malformaciones (20%), asociadas o no a los síndromes previamente descritos: Gastrointestinales, SNC, cardiacas, músculo-esqueléticas, déficit visual o auditivo
+
+La EH se produce por la ausencia de células ganglionares del plexo nervioso autónomo en el segmento distal intestinal, lo que provoca una alteración de su motilidad con interrupción de las ondas peristálticas que llegan al mismo. Esto provoca una obstrucción funcional con la dilatación progresiva del intestino desde la zona de transición hasta la sana. El segmento más comúnmente afectado es rectosigma (80%), afectándose otras porciones del colon en un 15% y todo el colon en un 5%.
+
+*Clínica:* La gran mayoría de casos se identifican en el periodo neonatal con los síntomas típicos de obstrucción intestinal. El 40-90% de los pacientes con EH no realizan meconio en las primeras 48 horas de vida, sin embargo, la emisión de este no excluye el diagnóstico. El estreñimiento en pacientes con T21 o algunos de los síndromes asociados obligará a descartar la enfermedad. Algunos pacientes debutan con un cuadro de enterocolitis fulminante o megacolon tóxico con gran afectación del estado general, distensión abdominal, vómitos y diarrea sanguinolenta. Es la complicación más grave y tiene una mortalidad del 50%.
+
+*Diagnóstico:* En la radiografía de abdomen se observa dilatación de asas con ausencia de aire distal. El enema opaco nos permitirá realizar el diagnóstico diferencial con otras entidades como atresia intestinal, íleo meconial, síndrome de tapón meconial o el síndrome del colon izquierdo hipoplásico. Esta prueba permite detectar la zona de transición entre el recto de calibre normal o estrecho (segmento agangliónico) y el colon proximal dilatado (Figura 3). Hay que evitar los enemas de descarga previos que pueden descomprimir el intestino y enmascarar la zona de transición. El diagnóstico definitivo se realiza con una biopsia rectal en la que se demuestra la ausencia de células ganglionares en los plexos submucoso y mientérico. En la actualidad se puede obtener la muestra rectal mediante succión sin necesidad de anestesia general.
+@p 487
+@img seneo-3-57-fig3.png
+*Figura 3. Enema opaco con un segmento estrecho y el colon proximal dilatado*
+
+*Tratamiento:* inicialmente consiste en la descompresión y evacuación intestinal con enemas de limpieza. Si éstos no son efectivos, o el tramo afectado es muy largo, se valorará realizar una colostomía de descarga. El tratamiento definitivo consiste en la extirpación del segmento afecto y el descenso y la anastomosis del colon sano con el ano.
+
+## 3 Malrotación y vólvulo
+
+Las anomalías de posición del intestino, por un defecto en el proceso de rotación y fijación intestinal, y sus complicaciones (vólvulo y obstrucción duodenal por bandas de Ladd) causan el 6% de las obstrucciones digestivas. Se asocian frecuentemente a otras anomalías extraintestinales (sobre todo cardiopatías congénitas) o intestinales (atresias intestinales, malformación anorrectal, EH o defectos de pared abdominal)
+
+*Clínica:* puede variar desde pacientes asintomáticos hasta clínica aguda de obstrucción intestinal dependiendo de las complicaciones que presente:
+- Obstrucción duodenal por bandas de Ladd: son adherencias fibrosas que provocan un cuadro de obstrucción intestinal alta por compresión extrínseca. Sus manifestaciones clínicas son las descritas en la atresia duodenal.
+- Vólvulo: se produce cuando no hay fijación intestinal en la pared abdominal, permitiendo que el paquete intestinal rote alrededor de su pedículo vascular y produciendo una obstrucción del flujo venoso y linfático y posteriormente arterial. Se caracteriza por un cuadro agudo con mal estado general, vómitos biliosos, diarrea sanguinolenta, distensión y defensa abdominal, acompañado de acidosis metabólica y alteraciones analíticas (leucocitosis o leucopenia, trombopenia, hiperpotasemia). Es una complicación aguda con alta mortalidad.
+@p 488
+*Diagnóstico:* en la malrotación, la radiografía simple puede mostrar una distribución aérea anormal y el TGI confirma el diagnóstico con la ausencia del ángulo de Treitz. En la ecografía se puede observar la posición anómala de la arteria y vena mesentéricas.
+
+En el vólvulo, la radiografía de abdomen puede mostrar ausencia de gas intestinal o la imagen típica de "grano de café" (presencia de una o dos asas dilatadas y edematosas en el centro del abdomen). En la ecografía se puede observar el signo del "remolino" causada por los vasos girando alrededor de la base del pedículo mesentérico. El TGI puede mostrar una imagen de sacacorchos al paso del contraste por el marco duodenal, siendo la prueba de imagen más precisa y por tanto la de elección. No obstante, un alto grado de sospecha en la ecografía debe ser suficiente para indicar la intervención quirúrgica y no retrasarla por la realización del TGl.
+@img seneo-3-57-fig4.png
+*Figura 4. Prueba de Imagen con Vólvulo intestinal*
+
+*Tratamiento:* el vólvulo intestinal es una urgencia quirúrgica por lo que, ante su alta sospecha clínica, la realización de pruebas diagnósticas no debe retrasar su tratamiento. Se realiza una laparotomía urgente para desrotar y comprobar la viabilidad del intestino. En ocasiones es necesario realizar una segunda revisión a las 24-48 horas para permitir la reperfusión de algunas asas y resecar las que estén necróticas.
+
+Cuando se diagnóstica de malrotación intestinal a un recién nacido asintomático, se debe considerar la fijación quirúrgica del intestino dadas las consecuencias devastadoras de un vólvulo; sin embargo, el tratamiento en estas situaciones es controvertido.
+
+## 4 Íleo meconial
+
+Se caracteriza por una oclusión de la luz del íleon distal por un meconio espeso y viscoso
+@p 489
+que origina una obstrucción funcional de éste. Se estima que es la causa de obstrucción intestinal neonatal en un 10-30% de los casos. Es la primera manifestación en el 10-20% de los pacientes con fibrosis quística (FQ). Se puede clasificar en simple o complejo en función de si va acompañado de perforación:
+- Simple: la clínica suele ser de distensión abdominal, ausencia de realización de meconio y vómitos. En la radiografía de abdomen no se suelen observar niveles hidroaéreos por el gran espesamiento del meconio, que se ve en ocasiones como una imagen granular o "en vidrio esmerilado" en hemiabdomen derecho.
+- Complejo: la clínica puede variar desde pacientes asintomáticos, donde la perforación se ha producido prenatalmente, hasta una peritonitis franca. En la radiografía de abdomen se pueden observar calcificaciones que indican una perforación prenatal o la presencia de aire extraluminal.
+
+*Diagnóstico:* El enema opaco puede ser diagnóstico, observándose una imagen de bolas arrosariadas al paso del contraste entre el meconio espeso y un microcolon por desuso (Figura 5), y terapéutico. Todos los pacientes con íleo meconial deberían ser estudiados para descartar FQ con un estudio genético o test del sudor
+@img seneo-3-57-fig5.png
+*Figura 5. Enema opaco de un íleo meconial*
+
+*Tratamiento:* inicialmente consiste en la evacuación intestinal mediante enemas hipertónicos (p ej. gastrografín). En caso de que enemas repetidos no sean efectivos o estén contraindicados (en caso de perforación intestinal) se realizará la evacuación del meconio mediante cirugía.
+@p 490
+@caja
+**SE RECOMIENDA**
+- Los signos guía ante cualquier cuadro de obstrucción intestinal son: presencia prenatal de polihidramnios, vómitos, distensión abdominal y retraso en la eliminación de meconio.
+- Ante cualquier sospecha de obstrucción intestinal el tratamiento inicial consistirá en suspender la nutrición enteral, administración de sueroterapia y colocación de sonda nasogástrica para descompresión intestinal.
+- Las pruebas con contraste ayudan al diagnóstico y localización de la lesión e incluso, en algunas situaciones, son terapéuticas.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- El vólvulo intestinal es una urgencia quirúrgica con alta mortalidad, por lo que ante una alta sospecha clínica, no está recomendado retrasar su tratamiento por la realización de pruebas de imagen.
+@fin
+@bib
+1. Maldonado J, Royo Y, Pueyo C et al. Urgencias quirúrgicas en la vía digestiva. Protocolos de Neonatología. AEPED 2008.
+2. Juang D, Snyder CL. Neonatal bowel obstruction. Surg Clin North Am 2012; 92:685-711.
+3. Rich BS, Bornstein E, Dolgin SE. Intestinal Atresia. Pediatr Rev 2022; 43:266-274.
+4. Intestinal atresia, Alice King, Uptodate, Mar 2022.
+5. Congenital aganglionic megacolon (Hirschsprung disease), Monica Esperanza López, Uptodate, Oct 2021.
