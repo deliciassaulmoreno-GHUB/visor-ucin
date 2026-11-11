@@ -1,0 +1,103 @@
+@f 14. Protocolos SENEO/3.45. Enterocolitis necrosante
+@p 409
+# 3.45 ENTEROCOLITIS NECROSANTE
+
+*Carlos Zozaya*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 395-400 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La enterocolitis necrosante es una enfermedad inflamatoria intestinal del recién nacido. El principal factor de riesgo es la prematuridad, existiendo una relación inversa entre la edad gestacional y el riesgo de enterocolitis. La incidencia en España es del 16.5, 9 y 4% en recién nacidos de <26, 26-27+6 y 28-31+6 semanas respectivamente.
+
+El desarrollo anómalo de la microbiota intestinal desencadena una cascada inflamatoria local, con la subsecuente afectación de la microcirculación intestinal (isquemia) y posterior evolución a necrosis de la pared, inflamación sistémica (SIRS), riesgo de translocación bacteriana, de choque circulatorio y de fallo multiorgánico. En la mayoría de los pacientes hay una evolución progresiva, mientras que una minoría tiene un curso más agresivo con una mortalidad cercana al 100% (enterocolitis fulminante). Los hallazgos anatomopatológicos que definen la enfermedad son:
+1. Inflamación intestinal.
+2. Invasión bacteriana de la pared intestinal.
+3. Formación de burbujas de gas intramurales (neumatosis).
+4. Necrosis coagulativa, que afecta a todas las capas de la pared intestinal (necrosis transmural) en fases avanzadas.
+
+La enterocolitis necrosante afecta de forma parcheada tanto al intestino delgado como al colon.
+
+## 1 Prevención
+
+- Los corticoides prenatales, además de reducir la mortalidad y la morbilidad respiratoria al nacimiento, reducen el riesgo de enterocolitis.
+- El pinzamiento tardío de cordón también se asocia a una disminución de la incidencia de enterocolitis entre otras muchas ventajas.
+- La lactancia materna es el factor protector más importante. Existe una relación dosis-respuesta (a mayor porcentaje de leche materna, menor riesgo). La leche humana donada también se asocia a un menor riesgo de enterocolitis cuando se compara con el uso de fórmula artificial como alternativa (el uso de fórmula aumenta entre dos y cinco veces el riesgo de enterocolitis).
+- La introducción precoz de la nutrición enteral (<72 horas desde el nacimiento) no aumenta el riesgo de enterocolitis y se asocia a una menor mortalidad. El avance
+@p 410
+de la nutrición enteral a 30 ml/kg/día no se ha asociado a un aumento de la incidencia de enterocolitis en prematuros extremos, muy prematuros, pacientes pequeños para la edad gestacional o expuestos a flujo umbilical reverso o ausente. La implementación de un protocolo de nutrición enteral que contemple el momento óptimo de iniciarla, el ritmo de avance y reglas claras sobre cuándo y cómo interrumpirla temporalmente en caso de ser necesario, se ha asociado a reducciones significativas de la incidencia de enterocolitis.
+
+- Los probióticos han demostrado disminuir la incidencia de enterocolitis necrosante y sepsis neonatal tardía. La cepa más eficaz es aún motivo de estudio, pero los productos que incluyen lactobacillus y al menos un bifidobacterium, parecen ser preferibles. Un reciente metaanálisis en red determinó que Lactobacillus rhamnosus GGATCC53103 y la combinación Bifidobacterium infantis Bb-02, Bifidobacterium lactis Bb-12 y Streptococcus thermophilus TH-4 podrían ser los más útiles para reducir la incidencia de enterocolitis. También está por determinar la pauta óptima, pero en general se introducen junto con la nutrición enteral preferiblemente antes de la primera semana de vida y se mantienen al menos hasta las 35 semanas de edad corregida.
+- La prolongación de la antibioterapia inicial más allá de las 72 horas de vida, en ausencia de sepsis precoz confirmada o no recibir tratamiento antibiótico al nacimiento, se ha asociado a un mayor riesgo de enterocolitis.
+- El uso de antiácidos (anti-H2, inhibidores de la bomba de protones) interfiere con el desarrollo de la microbiota y también se asocia a mayor riesgo de enterocolitis y sepsis. Además, estos fármacos no han demostrado reducir la sintomatología clásicamente achacada al reflujo gastro-esofágico en esta población, por lo que es muy recomendable evitar su uso en el recién nacido prematuro.
+
+## 2 Diagnóstico
+
+**Presentación clínica:** la mayoría de los casos se dan entre las 29 y 31 semanas de edad postmenstrual. La presentación puede ser inicialmente inespecífica e incluye tanto clínica sistémica (inestabilidad cardiorrespiratoria, desregulación térmica, letargia e hipotonía muscular) como digestiva (distensión abdominal, intolerancia digestiva, emesis, sangre oculta en heces o macroscópica, siendo esto último poco frecuente en el prematuro extremo). En la exploración física destaca la distensión abdominal, con cambios en el aspecto de la piel abdominal (brillo, eritema o incluso cianosis en caso de perforación). A la auscultación los ruidos intestinales desaparecen. Los signos de irritación intestinal pueden estar presentes en los casos avanzados pero su ausencia no descarta el diagnóstico. Es importante destacar que el diagnóstico inicial y precoz requiere un alto índice de sospecha, especialmente en el recién nacido prematuro extremo.
+
+Durante el episodio de enterocolitis es frecuente la sepsis que ocurre hasta en 40-60% de los casos, especialmente secundaria a Gram negativos, por lo que se debe obtener un hemocultivo antes de iniciar antibióticos. El fallo renal agudo oligo-anúrico (seguido de una fase de recuperación poliúrica) también es común. A nivel abdominal las complicaciones más habituales son:
+1. La infección de la herida quirúrgica.
+@p 411
+2. La estenosis, especialmente en pacientes no intervenidos, que se presenta como intolerancia digestiva y distensión abdominal (una vez se alcanza un cierto volumen de nutrición enteral en la recuperación), a veces con translocación bacteriana y sepsis asociada.
+3. Síndrome de intestino corto con malabsorción, riesgo de malnutrición, dependencia de nutrición parenteral y de hepatopatía secundaria.
+
+**Pruebas de imagen:** en la radiografía simple de abdomen se puede apreciar:
+1. Distribución anómala del patrón de aire intestinal: distensión de asas intestinales, distribución central (sugerente de ascitis), presencia de un asa fija en radiografías sucesivas (sugestiva de necrosis intestinal) o ausencia de aire intestinal.
+2. Engrosamiento de la pared intestinal.
+3. Neumatosis intestinal (gas intramural) que, aunque se considera patognómica no está presente en todos los casos, ni tiene valor pronostico.
+4. Aire portal, que ocurre por drenaje y migración del gas intramural al sistema venoso portal, incluido el intrahepático
+5. Neumoperitoneo, que puede ser más fácil de visualizar en radiografías en decúbito lateral cuando la cantidad de aire libre es pequeña.
+
+La realización de radiografías seriadas de forma rutinaria probablemente no aporta un valor añadido. La repetición de radiografías simples de abdomen puede ser útil en casos de sospecha de enterocolitis o después de la confirmación diagnóstica ante cambios clínicos o cambios en la exploración física sugestivos de perforación intestinal. Los hallazgos radiológicos al igual que los clínicos, también son más inespecíficos en el recién nacido prematuro extremo (presencia de neumatosis intestinal/aire portal es menos frecuente que en los mayores de 28 semanas). La ecografía abdominal es cada vez más utilizada y permite estudiar:
+1. La perfusión intestinal (hiperaflujo en fases iniciales con evolución a flujo reducido o ausente que sugeriría evolución a necrosis).
+2. La presencia de líquido libre, ascitis y colecciones intrabdominales o abscesos.
+3. El grosor de la pared intestinal, que indica inflamación (engrosamiento) o necrosis (adelgazamiento).
+4. La presencia de aire intramural (neumatosis).
+5. La presencia o ausencia de peristalsis.
+6. La presencia de aire en el sistema venoso portal intrahepático.
+
+**Pruebas de laboratorio:** en el hemograma es frecuente la neutropenia, desviación izquierda, anemia y especialmente la trombopenia. A nivel bioquímico, inicialmente puede asociarse a hiperglucemia. La concentración de sodio plasmático suele disminuir por edema de tercer espacio a nivel intestinal y en casos avanzados, edema sistémico. En la gasometría puede existir acidosis metabólica, con elevación del ácido láctico. La proteína C-reactiva (PCR), un reactante de fase aguda con un pico máximo hacia las 48 horas desde el comienzo del proceso inflamatorio, se encuentra elevada. En caso de
+@p 412
+sospecha de enterocolitis, la determinación seriada de PCR durante las primeras 48 horas, con resultados persistentemente normales, tiene un buen valor predictivo negativo. En pacientes con enterocolitis no complicada, la PCR se normaliza hacia los 10 días, mientras que, si permanece elevada, es sugestiva de complicaciones (ej. formación de abscesos). Además, a mayor inflamación y niveles más altos de proteína C-reactiva, mayor riesgo de estenosis postenterocolitis. Las concentraciones elevadas de PCR y lactato, la hiponatremia y la hiperglucemia, tienen valor pronóstico de cirugía o mortalidad.
+
+**Diagnóstico diferencial:** incluye la perforación intestinal aislada, la intolerancia digestiva del recién nacido prematuro, la alergia a proteínas de la leche de vaca y el íleo séptico. Otras entidades más raras en el recién nacido prematuro serían la invaginación intestinal, el vólvulo de intestino medio o segmentario y la apendicitis neonatal. La perforación intestinal aislada es una entidad gastrointestinal también típica del recién nacido prematuro. A diferencia de la enterocolitis, la perforación intestinal espontánea suele ocurrir durante la primera semana de vida. El íleo es la zona preferentemente perforada y el resto del intestino no muestra signos de inflamación, ni neumatosis en la radiografía abdominal.
+
+## 3 Tratamiento
+
+El tratamiento médico ha cambiado poco en las últimas décadas y en general no está basado en ensayos clínicos. Consta de cinco aspectos fundamentales:
+1. Descompresión intestinal generalmente conectando una sonda oro-nasogástrica a un sistema de aspiración de baja presión de forma continua o intermitente y dejarlo posteriormente drenando por gravedad. Es aconsejable reponer las pérdidas gástricas con fluidos isotónicos.
+2. Reposo intestinal y soporte nutricional parenteral.
+3. Antibioterapia. La elección y duración de los antibióticos varía entre centros. En la mayoría de los casos se utiliza un antibiótico con cobertura de Gram positivos, otro para Gram negativos y otro con cobertura de anaerobios, aunque en muchos centros este último se reserva para casos complicados con perforación intestinal. Otras alternativas en monoterapia con un espectro aún mayor (como piperacilina-tazobactam), también pueden ser aceptables.
+4. Soporte vital: cardiovascular, respiratorio (es recomendable evitar la ventilación no invasiva), manejo de fluidos y transfusión de hemoderivados según sea necesario.
+5. Analgesia (la inflamación intestinal y peritoneal es especialmente dolorosa).
+
+La única indicación quirúrgica aceptada de forma universal es la perforación intestinal. Una indicación relativa sería la no mejoría clínica después de establecerse un tratamiento médico adecuado. Hasta el 20% de las perforaciones podrían no manifestarse como aire libre y diagnosticarse durante la cirugía.
+
+Los objetivos de la cirugía son:
+1. Reducir el riesgo de infección.
+2. Resecar/desfuncionalizar el intestino necrótico pero conservando la mayor longitud de intestino posible.
+@p 413
+3. Limitar la inflamación sistémica y el compromiso multiorgánico.
+
+Las opciones quirúrgicas incluyen la resección intestinal de las áreas más afectadas seguida de una enterostomía y cierre diferido o anastomosis primaria. En general se optará por una u otra dependiendo del peso, edad y estado clínico general del paciente y de la extensión de la enfermedad (focal o multifocal). La inserción de un drenaje peritoneal con o sin laparotomía diferida (especialmente utilizado en pacientes inicialmente inestables), no ha demostrado asociarse a una mejoría clínica del paciente y la mayoría de ellos aún requerirán la realización de una laparotomía posteriormente. En caso de enfermedad panintestinal (enterocolitis totalis) las opciones quirúrgicas son más variadas, aunque en muchas ocasiones se opta por adecuar el esfuerzo terapéutico y redirigir los objetivos hacia la calidad de vida y medidas de confort (cuidados paliativos).
+
+## 4 Pronóstico
+
+La mortalidad de la enterocolitis es elevada alcanzando el 30% de los casos en España, siendo la mortalidad mayor a menor edad gestacional y en aquellos que requieren tratamiento quirúrgico. Entre los que sobreviven el riesgo de displasia broncopulmonar, leucomalacia periventricular quística (es aconsejable control de ecografía cerebral en la fase de recuperación) y retraso del crecimiento postnatal, es mayor que en recién nacidos de la misma edad gestacional sin enterocolitis. Además, tienen peor neurodesarrollo (mayor riesgo de parálisis cerebral, déficit cognitivo y visual), especialmente los que requieren tratamiento quirúrgico. El riesgo de afectación de cualquiera de estas áreas es entre 1.5 y 2 veces mayor que en los no afectados.
+@caja
+**SE RECOMIENDA**
+- La ligadura tardía del cordón, la priorización de la lactancia materna reduciendo el uso de fórmula artificial, así como la implementación de probióticos profilácticos, han demostrado reducir la incidencia de enterocolitis. La instauración de un protocolo de nutrición que contemple la introducción precoz, cuando y a qué ritmo avanzar (30 ml/kg/día) y cuando interrumpir temporalmente la nutrición enteral, también ha demostrado disminuir la incidencia.
+- La exploración física frecuente, los análisis sanguíneos seriados (control de hemograma y PCR, monitorización del sodio y la glucemia plasmáticas) y las pruebas de imagen como la radiografía simple de abdomen y la ecografía abdominal, son útiles en pacientes con sospecha clínica o con diagnóstico establecido de enterocolitis.
+- En caso de alta sospecha o diagnóstico confirmado la interrupción temporal de la nutrición enteral, descompresión intestinal y el inicio de antibioterapia empírica de amplio espectro, son las medidas terapéuticas iniciales. El tratamiento quirúrgico es clave en caso de necrosis intestinal, que en ocasiones supone un reto diagnóstico.
+@fin
+@caja
+**NO SE RECOMIENDA**
+No se recomienda el uso de antiácidos y la prolongación de los antibióticos iniciales por encima de las 72 horas de vida en presencia de cultivos negativos.
+@p 414
+@fin
+@bib
+1. Caplan M S, Fanaroff A. Necrotizing: A historical perspective. Semin Perinatol 2017; 41: 2-6.
+2. Hackam DJ, Sodhi CP. Bench to bedside - new insights into the pathogenesis of necrotizing enterocolitis. Nat Rev Gastroenterol Hepatol 2022; 19: 468-479.
+3. Neu J. Prevention of Necrotizing Enterocolitis. Clin Perinatol 2022; 49: 195-206.
+4. Van den Akker CHP, van Goudoever JB, Szajewska H, et al. Probiotics for Preterm Infants: A Strain-Specific Systematic Review and Network Meta-analysis. J Pediatr Gastroenterol Nutr 2018; 67: 103-122.
+5. Rees C M, Pierro, Eaton S. Neurodevelopmental outcomes of neonates with medically and surgically treated necrotizing enterocolitis. Arch Dis Child Fetal Neonatal Ed 2007; 92: F193-F198.
+6. Neu J. Necrotizing Enterocolitis: The Future. Neonatology 2020; 117: 240-244.

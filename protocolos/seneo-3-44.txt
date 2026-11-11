@@ -1,0 +1,99 @@
+@f 14. Protocolos SENEO/3.44. Monitorización nutricional
+@p 405
+# 3.44 MONITORIZACIÓN NUTRICIONAL
+
+*Miguel Sáenz de Pipaón Marcos, Ariadna Witte Castro, Bibiana Chinea Jiménez*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 391-394 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+En los últimos veinte años hemos asistido a un aumento importante de la supervivencia de los recién nacidos prematuros debido a la mejora de los cuidados prenatales y postnatales. Una adecuada nutrición es importante para conseguir un crecimiento y desarrollo normal. Los niños recién nacidos, especialmente aquellos que han nacido prematuros o están enfermos, presentan riesgo de desarrollar deficiencias nutricionales que pueden afectar al crecimiento postnatal. La susceptibilidad del recién nacido a desarrollar tales deficiencias resulta de su rápida velocidad de crecimiento, de la inmadurez metabólica de algunos de sus órganos y de la dificultad de alcanzar los requerimientos nutricionales adicionales impuestos por la enfermedad, el estrés quirúrgico o las excesivas pérdidas de nutrientes.
+
+Muchos profesionales de la salud son conscientes de distintos elementos de la nutrición neonatal. El más evidente, los recién nacidos prematuros tienen escasas reservas, escaso o nulo tejido adiposo y pequeños depósitos de glucógeno en músculo e hígado, y altas necesidades de proteína (3.5-4 g/kg/día) y energía (110-135 kcal/kg/día) enteral. El estado nutricional influye en la respuesta de cada paciente neonatal a la enfermedad. La evaluación nutricional debe formar parte por tanto parte de los cuidados de cada paciente. El objetivo es mejorar el soporte nutricional de los recién nacidos prematuros. Las partes de una completa evaluación nutricional (DEPHAFiBi) incluyen el despistaje de riesgo nutricional (D), la creación de un equipo multidisciplinar de apoyo a la nutrición (neonatólogos con interés en nutrición, enfermeras, auxiliares, gastroenterólogos, cirujano y si es posible farmacéutico y dietista) (E), pases de visita semanales para revisar recién nacidos con severo riesgo nutricional y aportar planes de manejo nutricional (P), la historia clínica y dietética (H), antropometría (A), exploración física (Fi) y exámenes bioquímicos (B). Poder disponer de tablas de crecimiento es esencial.
+
+## 1 La Historia médica
+
+Debe ser revisada la historia médica del recién nacido desde el nacimiento, buscando situaciones que aumentan las necesidades (displasia broncopulmonar) o incrementan las pérdidas (enterostomía), el tiempo que no ha recibido la alimentación correcta y la medicación que recibe. Sepsis o NEC pueden no tolerar mayor ingesta de aminoácidos y desarrollar hiperglucemia e hipertrigliceridemia.
+@p 406
+## 2 Examen Físico
+
+El examen físico general permite mediante la inspección valorar la ausencia o presencia de actividad física, masas musculares, edema y grasa subcutánea. Además, el examen de la piel, la forma de la cabeza, el pelo, los ojos y las mucosas pueden orientarnos a deficiencias nutricionales específicas.
+
+## 3 Ingesta nutricional
+
+La estimación de la ingesta dietética en recién nacidos es mucho más sencilla que en niños más mayores y adultos, dada la ausencia de diversidad de la dieta. La excepción corre a cargo de los niños alimentados al pecho dada la variabilidad en la composición de la leche materna. La idoneidad de los aportes se evalúa comparando la ingesta actual (parenteral y enteral, leche y suplementos) con el nivel óptimo recomendado. Los requerimientos nutricionales diarios varían en el recién nacido a término y pretérmino. Durante la alimentación parenteral las necesidades energéticas y proteicas disminuyen.
+
+## 4 Antropometría
+
+### 4.1. Peso
+
+El recién nacido debe ser pesado desnudo y se debe corregir el peso restando el del material pesado junto con el niño. Se requieren balanzas con un error de ± 5g. El peso, la longitud y el perímetro cefálico deben compararse con las curvas publicadas. En los recién nacidos pretérmino la ganancia de peso se suele expresar en g/kg/día. La Tabla 1 contiene unos objetivos de ganancia ponderal.
+
+Cuando evaluamos el peso hay que tener en cuenta dos problemas:
+1. Muchos recién nacidos experimentan una pérdida de peso inicial, que no sólo refleja pérdida de agua, pero deben mantener el nuevo centil hasta el alta, y
+2. la ganancia de peso no necesariamente refleja crecimiento, puede indicar acúmulo de agua o grasa.
+
+### 4.2. Longitud
+
+Es difícil medir a los recién nacidos adecuadamente, de hecho, es la medición antropométrica más inexacta. Para hacerlo adecuadamente, 1 vez a la semana, deben hacerlo dos personas entrenadas utilizando una superficie rígida con un extremo fijo y otro móvil y una escala centrimetrada incorporada. El crecimiento del esqueleto generalmente es sacrificado con relación al peso en niños levemente malnutridos. La ganancia de longitud esperada en el recién nacido prematuro es de 0.75 -1cm/semana.
+
+### 4.3. Perímetro cefálico
+
+La medida del perímetro cefálico, en la mayor circunferencia occipitofrontal, al suministrar
+@p 407
+una medición indirecta del crecimiento celular cerebral es una parte importante de la evaluación nutricional tanto al nacimiento como longitudinalmente. El perímetro cefálico se mide habitualmente una vez por semana. Debido al moldeamiento de la cabeza y al caput debe ser medida de nuevo al tercer día de vida. La velocidad de crecimiento de la cabeza del recién nacido pretérmino enfermo es menor que la del feto. Cuando disminuye la gravedad tiene lugar la recuperación del crecimiento cefálico. El retraso en el crecimiento cefálico se relaciona con el desarrollo neurológico. El aumento de perímetro cefálico esperado en el recién nacido prematuro es de 0.5-1 cm/semana.
+
+No hay necesidad de calcular índices, pero la inspección repetida de los centiles de peso y longitud permiten evaluar la relación peso/talla.
+
+## 5 Evaluación bioquímica
+
+Para evaluar el metabolismo proteico, mineral y de oligoelementos se miden distintos marcadores en suero o sangre total.
+
+### 5.1. Glucosa y electrolitos
+
+Monitorizar al menos una vez al día durante los primeros días, luego una o dos veces por semana en función del estado clínico.
+
+### 5.2. Urea sérica
+
+La concentración de urea en suero y en orina se correlaciona con la ingesta proteica en el recién nacido de muy bajo peso. Concentraciones séricas de urea inferiores a 9.6 mg/dl se correlacionan con ingestas inferiores a 3g/kg/día. Valores bajos de urea tras las primeras semanas de vida pueden indicar que la ingesta proteica enteral debe ser aumentada hasta 4.5 g/kg/d.
+
+### 5.3. Concentración sérica de fósforo y fosfatasa alcalina
+
+Medir durante la administración de nutrición parenteral en los primeros días tras el nacimiento. La concentración sérica de fósforo es el mejor indicador del estado mineral en niños desde los 14 días. Una concentración sérica de fósforo inferior a 5.5 mg/dl indica una deficiente ingesta del mismo y se asocia con osteopenia y probablemente raquitismo.
+
+### 5.4. Hemoglobina y Ferritina
+
+Vigilar concentración de hemoglobina dado que recién nacidos con anemia no pueden crecer adecuadamente. La ferropenia continúa siendo un problema frecuente. Los lactantes pretérminos están especialmente predispuestos. El mejor indicador de ferropenia es la ferritina sérica. No aparecen niveles bajos en ninguna otra condición, sin embargo, es un reactante de fase aguda y puede aumentar en el caso de infección, por ejemplo. Los puntos de corte varían, los más aceptados se sitúan en 10 µg/L. En los recién nacidos prematuros este debe subir a 35 µg/L para asegurar que no haya déficit en el futuro. Suplementos de hierro no son necesarios cuando ferritina>300 µg/L
+@p 408
+## 6 Determinación del balance hídrico y estado de hidratación
+
+El balance hídrico debe ser monitorizado de forma meticulosa en el recién nacido enfermo que requiere cuidado intensivo. La fracción excretada del sodio filtrado aumenta transitoriamente. La osmolalidad de la orina oscila entre 90 y 600 mOm/kg.
+
+| {2} **Tabla 1. Ganancia ponderal aproximada** |
+|---|---|
+| **Edad Gestacional** | **G/kg/d** |
+| 24-28 semanas | 15-20 |
+| **29-32 semanas** | **17-21** |
+| 33-36 semanas | 14-15 |
+| 37-40 semanas | 7-9 |
+| **Edad corregida** | **G/d** |
+| 40 semanas-3 meses | 30 |
+| 3-6 meses | 20 |
+| 6-9 meses | 15 |
+| 9-12 meses | 10 |
+| 12-24 meses | 6 |
+@caja
+**SE RECOMIENDA**
+- Utilizar una herramienta de detección del riesgo nutricional.
+- Crear un grupo de apoyo a la nutrición.
+- Programar pases de visita semanales para revisar recién nacidos con riesgo de severo de desnutrición.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Considerar cada nutriente aisladamente. La ingesta de nutrientes debe ser balanceada.
+@fin
+@bib
+1. Embleton ND. Arch Dis Child Educ Pract Ed 2021;0:1-6.
+2. Johnson MJ, Leaf AA, Pearson F, et al. Successfully implementing and embedding guidelines to improve the nutrition and growth of preterm infants in neonatal intensive care: a prospective interventional study. BMJ Open 2017;7:e017727.
+3. Johnson MJ, Pearson F, Emm A, et al . Developing a new screening tool for nutritional risk in neonatal intensive care. Acta Paediatr 2015;104:e90-93.
+4. Miguel Sáenz de Pipaón Marcos. Evaluación nutricional. En: Manuel Moro Serrano, Máximo Vento Torres, eds. De Guardia en Neonatología 3ª edición, Madrid, 2016. Ed Ergon, páginas 227-232.

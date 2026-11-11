@@ -1,0 +1,141 @@
+@f 14. Protocolos SENEO/3.46. Riesgo infeccioso. Sepsis vertical
+@p 415
+# 3.46 RIESGO INFECCIOSO. SEPSIS VERTICAL
+
+*Belén Fernández Colomer^1^, Concepción de Alba Romero^2^, Carolina López Sanguos^3^*
+
+*^1^Hospital Universitario Central de Asturias, Oviedo; ^2^Hospital Universitario 12 Octubre, Madrid; ^3^Hospital Clínico Universitario de Santiago de Compostela*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 401-407 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La sepsis vertical (SV) o sepsis precoz se produce como consecuencia de la colonización del feto/neonato por patógenos presentes en el tracto genital femenino y excepcionalmente por transmisión hematógena a través de la placenta. La administración de profilaxis antibiótica intraparto ante determinadas circunstancias maternas es la única medida de prevención eficaz disponible.
+
+## 1 Definición de sepsis vertical
+
+- **Sepsis vertical comprobada:** aislamiento en el hemocultivo de un microrganismo patógeno junto con la aparición de clínica séptica en los 3 primeros días de vida (≤72 horas). Aunque el 93-95% de los casos, según experiencia de la red Grupo Castrillo, debutan en los 3 primeros días, el inicio de la clínica se puede prolongar hasta los 7 días de vida, si bien para asegurar que se trata de una sepsis vertical deben haberse identificado factores de riesgo infeccioso perinatales y que en el hemocultivo crezca un germen típico de sepsis vertical (Estreptococo del grupo B (EGB), *E. coli*).
+- **Sepsis vertical clínica:** clásicamente se aplica este diagnóstico a un neonato menor de 3 días de vida cuya madre presenta factores de riesgo infeccioso perinatal y ha recibido antibiótico intraparto, y que manifiesta clínica sospechosa de sepsis persistente, elevación de biomarcadores infecciosos y hemocultivo negativo. En la actualidad, esta entidad no tiene mucho sustento científico pues los medios usados para el hemocultivo contienen resinas de unión a antibióticos que limitan la actividad antimicrobiana de los antibióticos presentes en la muestra de sangre y por tanto es excepcional la situación de falso negativo del hemocultivo debido a la antibioterapia intraparto materna.
+
+## 2 Epidemiología
+
+La **Incidencia** de sepsis vertical en España es una de las más bajas a nivel mundial gracias a la aplicación desde 1998 de la estrategia de prevención de infección perinatal por EGB, siendo actualmente de 1-1,2 casos por cada 1.000 recién nacidos (RN) frente a 2,4 en 1996
+@p 416
+y ello es debido a la eficacia del programa de prevención de infección perinatal por EGB iniciado en 1998.
+
+Ha habido también un cambio en la **etiología** pasando el EGB de ser el causante del 50% de las sepsis a menos del 30% en la actualidad (de 1,2 a 0,2-0,3 por 1000 RN). El E. coli toma protagonismo y pasa del 12% al 30% siendo actualmente la principal causa de sepsis vertical en los RN prematuros (6-11 casos por cada 1000 RN <1500g). Otros gérmenes implicados en la sepsis vertical son Enterococo spp (y otros estreptococos) y Listeria monocytogenes entre los gérmenes Gram positivos y Klebsiella spp entre los Gram negativos.
+
+La **mortalidad** oscila entre el 8-10% de forma global, llegando al 30% en los RN <1500g. Además de la edad gestacional otros factores relacionados con la mortalidad son la presencia de infección intrauterina y el tipo de microrganismo aislado (E. coli).
+
+### Factores de riesgo
+
+Los principales factores perinatales de riesgo son:
+- Colonización materna por EGB en ausencia de profilaxis antibiótica intraparto (PAI) adecuada.
+- Parto prematuro espontáneo (<37 semanas de edad gestacional (EG)).
+- Rotura de membranas amnióticas ≥18 horas.
+- Sospecha de inflamación y/o infección intrauterina ("Triple I"), en base a la presencia de fiebre materna ≥ 39°C o fiebre entre 38,0 - 38,9°C durante más de 30 minutos acompañado de al menos uno de los siguientes criterios: Taquicardia fetal (>160 lpm durante ≥10 minutos), leucocitosis materna >15.000/mm3 (sin administración de corticoides) o flujo cervical purulento.
+
+*Calculadora de riesgo de sepsis:* es una herramienta, basada en un modelo de predicción de riesgo multivariante donde se combinan factores de riesgo perinatal y datos clínicos neonatales para estimar de forma individual el riesgo de sepsis vertical en un determinado recién nacido y actuar según el riesgo calculado.
+
+## 3 Prevención
+
+Se basa en la identificación de gestantes colonizadas por EGB (10-30% de gestantes) y la administración de PAI a las portadoras (o con presencia de factores de riesgo si se desconoce el estado de colonización).
+
+Gestantes que deben ser estudiadas para detectar el estado de portadoras mediante la realización del cultivo vagino-rectal:
+- Todas las gestantes entre la 36+0 y 37+6 semanas de gestación.
+- Si el cultivo se ha realizado más de 5 semanas antes del parto y es negativo para EGB.
+- Si hay inicio de trabajo de parto antes de las 37+0 semanas con o sin rotura de
+@p 417
+membranas.
+
+- En casos de rotura pretérmino y prematura de membranas.
+
+En la Tabla 1 se detallan las indicaciones de PAI.
+
+| {2} **Tabla 1. Indicaciones de Profilaxis antibiótica intraparto (PAI)** |
+|---|---|
+| **PAI indicada** | **PAI no indicada** |
+| Cultivo vagino-rectal positivo realizado al final de la gestación actual* // Prueba molecular (PCR) intraparto para detección de colonización frente a EGB con resultado positivo.\*\* // Bacteriuria por EGB en cualquier trimestre de la gestación actual. // Hijo previo con enfermedad invasiva por EGB. // Estado de colonización desconocido en el momento del parto (o resultado negativo de cultivo realizado > 5 semanas antes del parto) y cualquiera de los siguientes: // Parto <37 semanas.^#^ // Rotura de membranas ≥ 18 horas. // Fiebre materna intraparto ≥ 38,0°C.^§^ // EGB positivo en gestación previa. | Cultivo vagino-rectal negativo en la actual gestación (practicado durante las 5 semanas previas al parto), independientemente de los factores de riesgo y aunque haya sido positiva en la gestación previa. // Cesárea realizada antes del inicio del trabajo de parto y membranas amnióticas íntegras, independientemente del estado de colonización por EGB o la EG. // Gestaciones de más de 37 semanas con estado de colonización materna desconocido y sin factores de riesgo. |
+| {2} *\*El momento óptimo para la realización del cultivo vagino-rectal es entre las semanas 36+0 y 37+6. // \*\* Si la prueba molecular es negativa pero existen factores de riesgo también está indicada la PAI. // ^#^Ante una amenaza de parto prematuro, debe realizarse cultivo vagino-rectal para EGB e iniciarse profilaxis de la infección perinatal por EGB, al margen de que puedan estar indicadas otras pautas, como la de rotura prematura de membranas o la de triple I, que no se discuten en este documento. // ^§^Si hay sospecha de triple I, se debe ampliar el espectro antimicrobiano.* |
+
+La PAI se puede considerar completa si se ha administrado al menos 1 dosis de penicilina, ampicilina o cefazolina ≥4 horas antes del parto. Cualquier otro antibiótico o duración deben ser considerados inadecuados o insuficientes. La PAI no es efectiva para la prevención de la sepsis tardía por EGB.
+
+## 4 Métodos diagnósticos
+
+Los signos y síntomas de infección en el RN son inespecíficos y a veces escasos. Los neonatos con infección, pueden mostrar signos y síntomas generales o focales de infección, incluidos distrés respiratorio, inestabilidad térmica, hipotensión, mala perfusión, palidez, alteraciones en el ritmo cardiaco,..... (Tabla 2).
+@p 418
+| {2} **Tabla 2. Signos y síntomas de sepsis en el recién nacido** |
+|---|---|
+| **Signos respiratorios** | **Signos hemodinámicos** |
+| • Dificultad respiratoria: quejido, aleteo, retracción subcostal-intercostal, etc. // • Taquipnea persistente y que no responde a cuidados básicos // • Apnea: mayores de 20 seg, repetidas y que precisen intervención activa. | • Bradicardia: menos de 100 latidos por minuto, al menos 3 episodios de 20 s en 3 h y que precisen intervención activa. // • Taquicardia. // • Hipotensión arterial. |
+| **Signos neurológicos** | **Signos digestivos** |
+| • Irritabilidad: no justificada por dolor. // • Hipotonía. // • Letargia. // • Convulsiones: clínicas o eléctricas | • Rechazo de tomas. // • Mala tolerancia digestiva. // • Distensión abdominal. // • Deposiciones sanguinolentas. |
+| **Signos cutáneos** | **Otros** |
+| • Ictericia. // • Color pajizo, pálido-grisáceo. // • Perfusión enlentecida. // • Púrpura, petequias. | • Hipotermia (más frecuente en prematuros). // • Hipertermia. // • Hipo/Hiperglucemia. // • Acidosis metabólica. |
+
+Actualmente no hay ningún biomarcador, que permita establecer el diagnóstico sepsis neonatal con suficiente sensibilidad y especificidad. Los métodos diagnósticos más utilizados son:
+
+*Hemocultivo:* es el método diagnóstico principal. Para mejorar su sensibilidad, se recomienda al menos 1 ml de sangre, volúmenes más pequeños pueden reducir la sensibilidad y aumentar el tiempo necesario de crecimiento de cualquier microorganismo. En la actualidad, los medios de cultivo, contienen resinas de unión a antibióticos que limitan la actividad antimicrobiana de los antibióticos presentes en la muestra de sangre pudiendo identificar la bacteriemia a un nivel de 1-10 UFC/ml.
+
+*Técnicas moleculares basadas en determinación de ADN/ARN bacteriano en muestras biológicas.* Son cada vez más empleadas para identificar microorganismos en sangre y otros líquidos biológicos (LCR, etc). Sus ventajas son una identificación más rápida (menos de 12 horas), menor volumen de sangre necesario y mayor sensibilidad y especificidad. Como inconvenientes que no diferencia entre infección y contaminación y el coste todavía elevado.
+
+*Estudio del Líquido cefalorraquídeo:* conocer la existencia de participación meníngea es fundamental ya que determina la dosis, tipo y duración del tratamiento antibiótico por tanto la punción lumbar se debería hacer (si la situación clínica del paciente lo permite), cuando existe una alta sospecha de sepsis y/o clínica sospechosa de meningitis, y preferentemente antes del inicio del tratamiento antibiótico.
+
+*Serie blanca:* Los hallazgos anormales en la serie blanca no se deben usar para establecer el diagnóstico de sepsis ya que la cifra de leucocitos puede estar elevada en situaciones donde existe inflamación y no infección.
+
+***Reactantes de fase aguda:***
+- Proteína C Reactiva (PCR): al igual que los leucocitos, aumenta en condiciones inflamatorias e infecciosas por lo que una sola determinación no es útil en el
+@p 419
+diagnóstico de SV, al carecer de suficiente sensibilidad y especificidad. Su uso rutinario puede llevar a tratamientos innecesarios pues uno o varios valores de PCR alterados, no justifican ni la indicación ni la continuación del tratamiento antibiótico empírico en neonatos con buen aspecto y hemocultivo/líquido cefalorraquídeo negativos (bajo valor predictivo positivo). Sin embargo, cifras normales seriadas en las primeras 48 h de vida, hacen improbable la presencia de SV (buen valor predictivo negativo).
+
+- Procalcitonina (PCT): puede verse igualmente alterada por mecanismos no infecciosos perinatales, mostrando además una elevación fisiológica las primeras 24-48 horas de vida que reduce su utilidad para el diagnóstico de sepsis vertical. Puede tener utilidad para valorar el curso de la infección y la duración del tratamiento.
+- Otros reactantes relacionados con la respuesta inflamatoria asociada a la infección son haptoglobina, fibrinógeno, marcadores proteómicos en líquido amniótico, citoquinas inflamatorias (incluyendo interleucina 6, interleucina 8, factor de necrosis tumoral α) o marcadores de superficie celular (incluyendo subtipo CD14 y neutrófilos CD64), pero en general ninguno de ellos tiene el suficiente valor predictivo como para ser criterio diagnóstico de sepsis neonatal.
+
+La combinación y determinación seriada de reactantes puede mejorar la precisión diagnóstica, si bien actualmente, no se recomienda su uso para valorar el riesgo de sepsis en un neonato con buen estado general.
+
+## 5 Manejo del recién nacido con riesgo/sospecha de sepsis vertical
+
+### Manejo del recién nacido ≥35 semanas de gestación
+
+- *RN asintomático con factores de riesgo:* se recomienda observar al RN junto a su madre con frecuencia, las primeras 36-48 horas de vida (especialmente las primeras 24 horas). Se consideran factores de riesgo la fiebre materna ≥ de 38º y/o una inadecuada PAI en una gestante con indicación de recibirla.
+- *RN con síntomas sospechosos de sepsis vertical:* se recomienda tomar hemocultivo (y si es posible LCR) e iniciar antibioterapia empírica habitual (ampicilina + aminoglucósido), que se retirará a las 24-48 horas si los cultivos son negativos y el RN está estable. Si los síntomas persisten y no hay foco infeccioso, se debe buscar otra posible etiología del cuadro clínico.
+- *RN con síntomas respiratorios:* Es posible evitar los antibióticos en los RN con taquipnea transitoria prestando atención a los factores de riesgo de infección y a su evolución clínica en las primeras horas de vida. En esta situación, la ausencia de elevación de la PCR apoyaría una posible etiología no infecciosa del cuadro, aunque su elevación no la confirmaría (bajo valor predictivo positivo).
+
+### Manejo del recién nacido < 35 semanas de gestación
+
+El hecho de que el riesgo de sepsis vertical sea inversamente proporcional a la EG hace que muchos niños prematuros reciban antibióticos desde el nacimiento y a menudo por
+@p 420
+periodos prolongados de tiempo. Sin embargo, es posible identificar partos prematuros con bajo riesgo de sepsis en los que se puede evitar el inicio de antibioterapia empírica y partos prematuros que asocien factores de riesgo infeccioso pero no van a desarrollar una sepsis vertical, pudiendo retirar precozmente la antibioterapia.
+
+- Bajo riesgo de SV: prematuros nacidos por cesárea únicamente por indicación materna y/o fetal (preeclampsia, insuficiencia placentaria, restricción del crecimiento, etc), sin inicio de trabajo de parto o rotura prematura de membranas. En estos casos, considerar no iniciar antibióticos al nacer o si se inician, tomar hemocultivo y retirarlos lo antes posible (24-48 h) si este es negativo.
+- Alto riesgo de SV: parto prematuro por incompetencia cervical, inicio espontáneo del parto, rotura prematura de membranas, sospecha de infección intrauterina y/o pérdida de bienestar fetal aguda de causa desconocida. En estos casos, se debe considerar realizar analítica de sangre y hemocultivo e iniciar antibioterapia empírica. Si el hemocultivo es negativo a las 24-48 horas, valorar retirar el tratamiento antibiótico según el curso clínico del recién nacido.
+
+## 6 Tratamiento empírico y tratamiento definitivo
+
+La **antibioterapia empírica** recomendada se basa en la combinación de ampicilina con un aminoglucósido (gentamicina) consiguiendo con ello cubrir el 83% de los gérmenes implicados (EGB, E. coli, Enterococo sp y L. monocytogenes). Debido a que E. coli presenta un alto porcentaje de resistencia a ampicilina, la asociación con un aminoglucósido es imprescindible hasta el resultado del hemocultivo. No se recomienda emplear de forma empírica cefalosporinas de tercera generación (cefotaxima) o carbapenemes pues favorece el desarrollo de resistencias y aumenta el riesgo de candidiasis, enterocolitis y mortalidad en prematuros. El uso de cefotaxima estaría justificado ante el crecimiento de un germen gram negativo en el hemocultivo y/o LCR (especialmente en RN de muy bajo peso), hasta disponer del antibiograma o en recién nacidos críticamente enfermos que no estén respondiendo al tratamiento inicial.
+
+La **antibioterapia definitiva** estará basada en el antibiograma, recomendando siempre la monoterapia y el empleo del antibiótico de menor espectro al que el germen sea sensible. No existe evidencia científica de calidad que indique cual es la duración ideal del tratamiento antibiótico, pero basado en la experiencia de la red neonatal Grupo Castrillo y lo publicado en la literatura se puede aproximar lo siguiente:
+- *Duración del tratamiento en sospecha de SV:* En la mayoría de la literatura publicada se sugiere la suspensión tras 24-36 horas si el hemocultivo es negativo.
+- *Duración del tratamiento en SV confirmada:* se recomienda un máximo de 7 días (tanto gram-positivos como gram-negativos) siempre que la evolución sea favorable, ajustando el tratamiento según el antibiograma y eligiendo siempre el de menor espectro. En el caso de sepsis por S. aureus o Listeria, se recomienda un mínimo de 10 días. Si la sepsis se acompaña de meningitis, la duración de la antibioterapia será hasta 14 días si es una meningitis no complicada por germen gram-positivos o hasta 21 días totales o 14 días tras la negatividad del cultivo del LCR, si es una meningitis no complicada por gram-negativos.
+- *Duración del tratamiento en SV clínica:* como ya hemos indicado, si el hemocultivo es negativo es difícil justificar la continuidad del tratamiento antibiótico, si bien si
+@p 421
+la sospecha clínica de infección persiste y se ha acompañado con factores de riesgo infeccioso, podría prolongarse el tratamiento durante 5 días, recomendándose una revaluación diaria de su necesidad.
+@caja
+**SE RECOMIENDA**
+- El recién nacido a término asintomático con riesgo infeccioso puede ser observado de forma segura junto a su madre.
+- Las alteraciones de signos vitales son los mejores predictores de sepsis vertical.
+- El hemocultivo es el gold estándar para el diagnóstico de sepsis vertical.
+- En neonatos en los que se inicia antibioterapia empírica, se debe considerar su retirada precoz en 24-36 horas si el hemocultivo es negativo y está estable.
+- La antibioterapia empírica debe realizarse con Ampicilina y Gentamicina iv.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- El uso de reactantes (PCR, PCT) para valorar el riesgo de sepsis en un neonato con buen estado general.
+- Usar cefalosporinas de 3ª generación o carbapenes como tratamiento empírico.
+- Iniciar antibioterapia empírica de forma rutinaria en RN prematuros con bajo riesgo de sepsis.
+- Mantener antibioterapia empírica más allá de 48 horas en neonatos asintomáticos con hemocultivo negativo.
+@fin
+@bib
+1. Dhudasia MB, Flannery DD, Pfeifer MR, Puoppolo KM. Updated guidance: prevenction and management of perinatal group B streptococcus infection. NeoReviews 2021; 22: e177-e188.
+2. Fernández Colomer B, Cernada Badia M, Coto Cotallo GD, et al. The Grupo Castrillo Network. The Spanish National Network "Grupo Castrillo": 22 Years of Nationwide Neonatal Infection Surveillance. Am J Perinatol 2020; 37 (suppl S2): S71-S75.
+3. Puopolo KM, Lynfield RL, Cummings JJ, AAP Committee on fetus and newborn, AAP Committee on infectious diseases. Management of infants at risk for group B Streptococcal Disease. Pediatrics 2019; 144: e20191881.
+4. Puopolo KM, Benitz WE, Zaoutis TE; Committee on fetus and newborn; Committee on infectious diseases. Management of Neonates Born at ≥35 0/7 Weeks' Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics. 2018;142: e20182894.
+5. Puopolo KM, Benitz WE, Zaoutis TE, AAP Committee on fetus and newborn, AAP Committee on infectious diseases. Management of Neonates Born at ≤34 6/7 Weeks'Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics. 2018;142: e20182896.
+6. Stoll BJ, Puopolo, KM, Hansen NI, Sánchez PJ, et al. Early-Onset Neonatal Sepsis 2015 to 2017, the Rise of Escherichia Coli, and the Need for Novel Prevention Strategies. JAMA Pediatr. 2020;174:e200593.

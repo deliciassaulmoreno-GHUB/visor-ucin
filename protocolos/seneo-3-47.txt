@@ -1,0 +1,147 @@
+@f 14. Protocolos SENEO/3.47. Sepsis nosocomial
+@p 422
+# 3.47 SEPSIS NOSOCOMIAL
+
+*Belén Fernández Colomer^1^, Concha de Alba Romero^2^, María Cernada Badía^3^*
+
+*^1^Hospital Universitario Central de Asturias, Oviedo; ^2^Hospital Universitario 12 de Octubre, Madrid; ^3^Hospital Universitari i Politècnic La Fe, Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 408-415 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La sepsis nosocomial es una patología de especial relevancia en las unidades neonatales, tanto por su frecuencia, como por la morbi-mortalidad que asocia. Los neonatos de muy bajo peso (RNMBP) son especialmente vulnerables a estas infecciones tanto por su inmadurez inmunológica como por la necesidad de cuidados intensivos para su manejo. La aplicación de medidas combinadas de control de la infección resulta de gran utilidad en su prevención.
+
+## 2 Definición
+
+**Las sepsis de transmisión nosocomial** (sepsis relacionadas con la asistencia sanitaria) son infecciones ocasionadas por gérmenes presentes en el entorno hospitalario y que contaminan al niño por contacto del personal sanitario (manos contaminadas) o a través de material de diagnóstico y/o tratamiento contaminado, teniendo en cuenta que la infección no debe estar presente, ni en fase de incubación, en el momento del ingreso del niño en el hospital. Suelen ocasionarse después de los 3 días de vida y por ello en Neonatología también se conocen como sepsis de inicio tardío.
+
+***La sepsis nosocomial asociada a catéter*** se define como aquella que ocurre en un paciente portador de catéter central al menos 48 horas antes del inicio de la sintomatología.
+
+***La sepsis nosocomial relacionada con catéter*** se define según la red Grupo Castrillo como el aislamiento del mismo germen en el hemocultivo y en el catéter central.
+
+## 3 Epidemiología
+
+Las sepsis nosocomiales son adquiridas en el entorno hospitalario y por ello se deben cuantificar en relación con el número de niños ingresados o de niños sometidos a riesgo (tasas de infección por días de ingreso en cuidados intensivos, días de catéter, etc.). Son una complicación frecuente en los RNMBP y es por ello que la frecuencia de sepsis nosocomial es inversamente proporcional al peso y a la edad gestacional. La ***incidencia***
+@p 423
+de estas infecciones varía mucho en las distintas series publicadas, según los criterios diagnósticos aplicados. En RNMBP suele estar entre el 10-25% siendo inferior al 2-3% en los de peso > 1500 g. La red neonatal Grupo Castrillo se recoge una incidencia del 26% en RNMBP, aunque con clara disminución en los últimos 5 años. Habitualmente son episodios únicos que suelen ocurrir en la segunda-tercera semana de vida, pero hasta en un 20% de los casos un mismo niño puede sufrir dos o más episodios de sepsis nosocomial durante su estancia hospitalaria. La incidencia global de la sepsis relacionada con catéter se estima en torno a 9 episodios/1000 días de catéter, aunque varía mucho en función de la definición empleada (entre 3 y 20 por 1000 días catéter). En cuanto a la etiología, hay predominio de gérmenes gram positivos (> 60% de casos), siendo los Estafilococos coagulasa negativo (SCoN), especialmente el S. epidermidis, los más frecuentemente aislados. Los gram-negativos, especialmente las enterobacterias suponen el 30% de casos y los hongos (fundamentalmente Cándida spp) en torno al 6-8% (Tabla 1).
+
+| {3} **Tabla 1. Etiología de 7.036 episodios de sepsis nosocomial en RNMBP registrados en la red neonatal Grupo Castrillo (2006-2018)** |
+|---|---|---|
+| **Patógeno** | **Número** | **Porcentaje** |
+| **Gram positivos** | **4661** | **66,25** |
+| *S epidermidis* | 3478 | 49,43 |
+| Estafilococos coagulasa-negativo (otros) | 439 | 6,24 |
+| Enterococo | 396 | 5,63 |
+| Streptococos (otros) | 32 | 0,45 |
+| *S. aureus* | 271 | 3,85 |
+| Otros Gram positivos | 45 | 0,64 |
+| **Gram negativos** | **1933** | **27,47** |
+| Klebsiella | 683 | 9,71 |
+| Enterobacter | 319 | 4,53 |
+| *E. coli* | 345 | 4,90 |
+| Serratia | 294 | 4,18 |
+| Pseudomonas | 168 | 2,39 |
+| Proteus | 23 | 0,33 |
+| Acinetobacter | 19 | 0,27 |
+| Otros Gram negativos | 82 | 1,17 |
+@p 424
+@pie Tabla 1. Etiología de 7.036 episodios de sepsis nosocomial en RNMBP registrados en la red neonatal Grupo Castrillo (2006-2018) (continuación)
+| **Hongos** | **442** | **6,28** |
+| Candida | 440 | 6,25 |
+| *C. albicans* | 184 | 2,62 |
+| *C. parapsilosis* | 167 | 2,37 |
+| *C. glabrata* | 24 | 0,34 |
+| *C. tropicalis* | 15 | 0,21 |
+| *C. lusitaniae* | 9 | 0,13 |
+| *C. Krusei* | 4 | 0,06 |
+| *C. dubliniensis* | 2 | 0,03 |
+| *Candida sp* | 35 | 0,50 |
+| Malassezia furfur | 2 | 0,03 |
+
+La sepsis nosocomial se considera responsable de más del 50% de los éxitus que se producen después de la primera semana de vida en los RNMBP. En nuestra serie, la ***mortalidad*** global en estos niños fue del 8% y según la etiología, del 3,0% para gram-positivos, del 18% para gram-negativos y del 20% para Cándida.
+
+## 4 Factores de riesgo
+
+Destacan la prematuridad, la sobreutilización de antibióticos (especialmente de amplio espectro como las cefalosporinas de 3ª generación), el inadecuado cumplimento de los protocolos de asepsia motivado en ocasiones por ratios de personal sanitario/paciente deficiente o el lavado y desinfección insuficiente de las manos ante cualquier contacto con el neonato y con los dispositivos en contacto con él (sondas, tubo endotraqueal, etc.). Mención especial merecen los catéteres intravasculares, que son puerta directa de entrada de gérmenes al torrente sanguíneo (especialmente SCoN); la falta de una asepsia rigurosa tanto en el momento de su colocación, como ante cualquier manipulación es uno de los principales factores de riesgo, sobre todo cuando el catéter se emplea para la administración de nutrición parenteral y lípidos. En la experiencia del Grupo Castrillo, el 85% de los RNMBP con sepsis nosocomial, eran portadores de catéter intravascular por el que administraba nutrición parenteral y lípidos.
+@p 425
+Otros factores de riesgo son el empleo de corticoides (inmunosupresores) y el uso de antagonistas H2 (pérdida de barrera ácida gástrica y alteración de flora gastrointestinal), estos dos últimos típicamente asociados a la candidiasis; la cirugía (especialmente abdominal) es el factor de riesgo más frecuente en niños a término.
+
+## 5 Diagnóstico
+
+El establecimiento de un diagnóstico certero sigue siendo uno de los mayores retos de esta patología, ya que tanto las manifestaciones clínicas como analíticas son muy inespecíficas. Esto hace que sea muy frecuente la administración de antibioterapia empírica en las UCIN, teniendo en cuenta por una parte que un retraso diagnóstico puede ocasionar resultados muy graves y por otra que los falsos positivos tienen el problema de la sobreutilización de antibióticos con las consecuencias que esto conlleva, para el propio niño (aumento de riesgo de enterocolitis, candidiasis y muerte) y para la ecología bacteriana de la unidad (resistencias antibióticas). Se estima que por cada neonato infectado, entre 11 y 30 no infectados reciben tratamiento antibiótico innecesario. Las manifestaciones clínicas de la sepsis nosocomial son variadas y muy inespecíficas (Tabla 2).
+
+| {2} **Tabla 2. Signos y síntomas de sepsis en el recién nacido** |
+|---|---|
+| **Signos respiratorios** | **Signos hemodinámicos** |
+| • Dificultad respiratoria: quejido, aleteo, retracción subcostal-intercostal, etc. // • Taquipnea persistente y que no responde a cuidados básicos // • Apnea: mayores de 20 seg, repetidas y que precisen intervención activa. | • Bradicardia: menos de 100 latidos por minuto, al menos 3 episodios de 20 s en 3 h y que precisen intervención activa. // • Taquicardia. // • Hipotensión arterial. |
+| **Signos neurológicos** | **Signos digestivos** |
+| • Irritabilidad: no justificada por dolor. // • Hipotonía. // • Letargia. // • Convulsiones: clínicas o eléctricas | • Rechazo de tomas. // • Mala tolerancia digestiva. // • Distensión abdominal. // • Deposiciones sanguinolentas. |
+| **Signos cutáneos** | **Otros** |
+| • Ictericia. // • Color pajizo, pálido-grisáceo. // • Perfusión enlentecida. // • Púrpura, petequias. | • Hipotermia (más frecuente en prematuros). // • Hipertermia. // • Hipo/Hiperglucemia. // • Acidosis metabólica. |
+
+En general, suele tener un curso subagudo con una presentación tórpida y difícil de interpretar (suelen ser niños con otras patologías asociadas a su prematuridad). El aumento de las necesidades de oxígeno o ventilatorias, aparición o aumento de la frecuencia de apneas junto con taquicardia y mala coloración suele ser una forma frecuente de debut
+@p 426
+y que se podría agrupar bajo el término de "aspecto séptico" Los cuadros más graves con asociación de shock séptico y coagulopatía suelen estar producidos por gérmenes gram negativos (enterobacterias), mientras que los SCoN suelen ocasionar cuadros más larvados y con menos complicaciones. En cuando a las sepsis fúngicas (Candida spp) se debe pensar en ellas en niños de peso extremadamente bajo (< 1.250 g) que han recibido o están recibiendo antibioterapia de amplio espectro y no presentan una mejoría franca o incluso sufren deterioro clínico. En estos casos la trombopenia persistente puede ser un signo guía. En los casos de sepsis nosocomial es necesario también descartar la presencia de infección urinaria y meningitis, especialmente en las sepsis por gram negativos y Candida spp.
+
+***Hemocultivo:*** es el método diagnóstico principal. Para mejorar su sensibilidad, se recomienda al menos 1 ml de sangre, volúmenes más pequeños pueden reducir la sensibilidad y aumentar el tiempo necesario de crecimiento de cualquier microorganismo. En cuanto a los casos de sepsis por SCoN, para diferenciar entre infección y contaminación, se debe valorar el estado clínico del niño y establecer criterios diagnósticos claros como: dos extracciones periféricas con positividad en ambas; aislamiento del mismo SCoN en las dos botellas del hemocultivo (si no se hacen 2 extracciones) o en el hemocultivo y en punta de catéter invasivo (si se retira); aislamiento en una concentración superior en el hemocultivo extraído a través del catéter que en el periférico; aislamiento en el hemocultivo y en otro lugar estéril.
+
+***Estudio del Líquido cefalorraquídeo:*** conocer la existencia de participación meníngea es fundamental ya que determina la dosis, tipo y duración del tratamiento antibiótico por tanto la punción lumbar se debería hacer (si la situación clínica del paciente lo permite), cuando existe una alta sospecha de sepsis y/o clínica sospechosa de meningitis, y preferentemente antes del inicio del tratamiento antibiótico.
+
+***Cultivos de catéteres intravasculares:*** se usa para establecer el diagnóstico de sepsis relacionada con catéter al demostrar la presencia del mismo germen en hemocultivo y en la punta del catéter (método de Maki) si este se retira o la positividad de un exudado tomado en el interior de la conexión del catéter o si se extrae el hemocultivo a través del mismo, que presente un crecimiento bacteriano cuatro veces superior al del hemocultivo tomado de vena periférica.
+
+***Urinocultivo:*** Es especialmente importante cuando haya sospecha de candidiasis.
+
+***Técnicas moleculares basadas en determinación de ADN/ARN bacteriano en muestras biológicas.*** Son cada vez más empleadas para identificar microorganismos en sangre y otros líquidos biológicos (LCR, etc.). Sus ventajas son una identificación más rápida (menos de 12 horas), menor volumen de sangre necesario y mayor sensibilidad y especificidad. Como inconvenientes que no diferencia entre infección y contaminación, que aunque incluyen el estudio de genes de resistencia antibiótica no dan información del antibiograma y que su coste todavía es elevado .
+
+***Serie blanca:*** Los hallazgos anormales en la serie blanca no se deben usar para establecer el diagnóstico de sepsis ya que la cifra de leucocitos puede estar elevada en situaciones donde existe inflamación y no infección.
+
+***Recuento plaquetario:*** La trombocitopenia puede aparecer en fases tardías de la sepsis, y mantenerse a pesar de una buena respuesta terapéutica, por tanto, es poco útil tanto para el diagnóstico como para el seguimiento. Aparece con más frecuencia en las sepsis por gérmenes gram negativos y en la candidiasis invasiva.
+@p 427
+***Reactantes de fase aguda (RFA):***
+- *Proteína C Reactiva (PCR):* al igual que los leucocitos, aumenta en condiciones inflamatorias e infecciosas por lo que una sola determinación no es útil en el diagnóstico de infección, al carecer de suficiente especificidad Presenta mejor valor predictivo negativo (>90%) que positivo (alta tasa de falsos positivos). Puede resultar útil su determinación seriada cada 24-48 horas para monitorizar la resolución de la infección y finalizar el tratamiento antibiótico.
+- *Procalcitonina (PCT):* Presenta mejor sensibilidad y valor predictivo positivo, aunque peor especificidad que la PCR. Se ha relacionado el nivel de elevación de la PCT con la gravedad de la sepsis. Resulta útil también la medición seriada para control evolutivo de la infección.
+- *Interleucina 6 (IL-6):* Es más precoz que la PCT, elevándose a la hora del inicio de infección (meseta a las 4-6 h e indetectable entre las 24-48 h).
+
+El rendimiento diagnóstico de los RFA, mejora cuando se usan de forma combinada, ya que al tener cinéticas diferentes nos pueden orientar hacia el momento en que nos encontramos respecto al inicio y evolución de la sepsis. Además, también su combinación mejora el valor predictivo negativo, lo que es muy útil para suspender la antibioterapia.
+
+## 6 Prevención
+
+Teniendo en cuenta que los gérmenes implicados en las sepsis nosocomiales son gérmenes procedentes del ambiente hospitalario que colonizan y posteriormente infectan al niño, las medidas de prevención han de ir destinadas a evitar esta situación (Tabla 3).
+
+| **Tabla 3. Medidas de prevención de sepsis nosocomial** |
+|---|
+| Principales medidas de prevención de Sepsis Nosocomial |
+| **Manejo Neonatal** |
+| • Alimentación oral precoz. // • Uso de leche materna fresca. // • Higiene rigurosa de manos. // • Seguimiento riguroso de protocolos de colocación y manejo de catéteres (Bacteriemia cero) // • Uso de filtros para perfusiones IV. // • Restringir la antibioterapia de amplio espectro. // • Restringir el uso de antagonistas H2 y corticoides. // • Adecuada ratio de personal. |
+| **Medidas Farmacológicas** |
+| • Probióticos. // • Fluconazol en RNMBP de alto riesgo. // • Lactoferrina, sola o combinada con probióticos. |
+
+Aunque todas las medidas preventivas son muy importantes, no serán suficientemente
+@p 428
+efectivas si no se convence a todo el personal sanitario implicado en el cuidado de estos niños, de que las infecciones nosocomiales pueden y deben ser evitadas. Para ello, resultan muy útiles las sesiones formativas e informativas sobre el tema, realizadas de forma periódica y para todo el personal de la unidad. Aplicando esta estrategia, en un estudio prospectivo multicéntrico en unidades neonatales americanas, se consiguió disminuir las sepsis nosocomiales desde el 24,6% al 16,4%.
+
+## 7 Tratamiento
+
+Para el ***tratamiento empírico*** de la sepsis nosocomial no existe un consenso tan claro como para la sepsis vertical, ya que la distribución etiológica es variable entre unas unidades y otras, al igual que la frecuencia de infecciones por gérmenes con altas resistencias antibióticas (enterobacterias productoras de BLEES, SAMR, etc.). En general se recomienda la combinación de un antibiótico que cubra los SCoN (resistentes a meticilina) y otro frente a gram-negativos, empleando así la asociación de un glucopéptido (vancomicina ó teicoplanina) y un aminoglucósido (amikacina o gentamicina). Es preferible la utilización del aminoglucósido a las cefalosporinas de tercera generación por el riesgo de resistencias bacterianas y candidiasis. En unidades con alta tasa de gérmenes productores de BLEES, el aminoglucósido se puede sustituir por un carbapenem (Imipenem o Meropenem), si bien hay que tener en cuenta que estos antibióticos son los betaláctamicos que presentan el mayor espectro de actividad, por lo que deben utilizarse como antibióticos de reserva. En caso de meningitis asociada, presentan buena penetración en LCR, las cefalosporinas (Cefotaxima) y el meropenen Una vez conocido el antibiograma, se ajustará el ***tratamiento definitivo,*** a ser posible en monoterapia y si no hay confirmación de la infección, se retirará la antibioterapia lo antes posible. En cuanto a su duración, se recomiendan de forma general periodos similares a la sepsis vertical, si bien en estas infecciones pueden influir otros factores en la duración, especialmente la persistencia de factores de riesgo relacionados con la infección (catéter central, ventilación mecánica), por ejemplo, la bacteriemia persistente en casos de un catéter colonizado, en cuyo caso la retirada del mismo es imprescindible y supondrá la mejoría y curación de la sepsis.
+
+Respecto al tratamiento de la ***candidemia,*** se recomienda como primera línea el empleo de anfotericina B deoxicolato o las nuevas formulaciones lipídicas con menor toxicidad (anfotericina B liposomal o lipoidea). Otra posibilidad es el Fluconazol, si bien esta opción no es válida si se está administrando de forma profiláctica. En caso de meningitis persistente se puede asociar a la anfotericina B, la 5-Flucitosina, por su excelente penetración en sistema nervioso central (SNC) aunque es un fármaco con alta toxicidad hepática y medular y su uso debe ser limitado en neonatos; no se debe usar en monoterapia por el riesgo de resistencias. Otra opción es el uso de equinocandinas, especialmente la micafungina pues presentan un perfil seguro en el neonato, aunque su penetración en sistema nervioso central es inferior al Fluconazol o la 5-Fluocitosina y son menos eficaces frente a C. parapsilosis. En casos de candidemia persistente en niños portadores de catéter central, se recomienda su retirada, y si es necesario mantener un catéter central por las características del niño, insertarlo en un lugar diferente esperando uno o dos días con tratamiento antifúngico antes de su nueva colocación.
+@caja
+**SE RECOMIENDA**
+- Implementar protocolos de manejo de catéteres centrales en la UCI neonatal (bacteriemia cero).
+@p 429
+- Fomentar el uso de leche materna de forma exclusiva.
+- Higiene de manos estricta. Los 5 momentos de la OMS.
+- Difundir y formar al personal sobre la prevención de la infección.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Usar antibioterapia de amplio espectro como tratamiento empírico de la sepsis nosocomial.
+- Mantener los antibióticos de forma prolongada si no se confirma la sepsis.
+@fin
+@bib
+1. Dong Y, Speer CP. Late-onset neonatal sepsis: recent developments. Arch Dis Child Fetal Neonatal Ed 2015;100: F257-263.
+2. Fernández Colomer B, Cernada Badia M, Coto Cotallo GD, et al., The Grupo Castrillo Network. The Spanish National Network "Grupo Castrillo": 22 Years of Nationwide Neonatal Infection Surveillance. Am J. Perinatol 2020; 37 (suppl S2): S71-S75.
+3. Greenberg RG, Kandefer S, Do BT, et al.; Eunice Kennedy Shriver National Institute of Child Health and Human Development Neonatal Research Network. Late-onset Sepsis in Extremely Premature Infants: 2000-2011. Pediatr Infect Dis J 2017;36:774-79.
+4. López Sastre JB, Coto Cotallo GD, Fernández Colomer B. Neonatal sepsis of nosocomial origin: an epidemiological study from the "Grupo de Hospitales Castrillo". J Perinat Med 2002;30:149-57.
+5. Manzoni P, De Luca D, Stronati M, et al. Prevention of nosocomial infections in neonatal intensive care units. Am J Perinatol 2013; 30:81-8.
+6. Shane AL, Stoll B. Recent developments and current issues in the epidemiology, diagnosis, and management of bacterial and fungal neonatal sepsis. Am. J. Perinatol 2013;30:131-41.
