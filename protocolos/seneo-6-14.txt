@@ -1,0 +1,154 @@
+@f 14. Protocolos SENEO/6.14. Oxigenación por membrana extracorpórea (ECMO)
+@p 660
+# 6.14 OXIGENACIÓN POR MEMBRANA EXTRACORPÓREA (ECMO)
+
+*Belén Bernardo Atienza, María Luisa Franco Fernández*
+
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 646-652 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La asistencia con ECMO es una técnica de soporte cardiorrespiratorio con dispositivos mecánicos. Consiste en reemplazar la función del corazón y/o pulmón de forma temporal a través de un circuito extracorpóreo, con una bomba que propulsa la sangre a través de una membrana que intercambia gases antes de regresar al paciente. El objetivo de la asistencia con ECMO será:
+- Mantener un adecuado aporte de sangre oxigenada a los órganos vitales en situaciones donde el tratamiento convencional resulta insuficiente.
+- Proporcionar un tiempo de espera o reposo para la recuperación de las funciones respiratorias y/o cardiaca. En este sentido es una condición imprescindible el reconocimiento de la enfermedad de base como reversible.
+- Reducir la intensidad del tratamiento convencional de la insuficiencia cardiaca o respiratoria y sus efectos deletéreos sobre la recuperación de estos órganos.
+
+## 1 Componentes del sistema (figura 1)
+
+- Cánulas para el acceso vascular.
+- Un circuito de tubuladuras generalmente de PVC
+- Un intercambiador de gases (Membrana oxigenadora)
+- Una bomba que impulsa la sangre.
+- Un sistema de calentamiento de la sangre.
+@p 661
+@img seneo-6-14-fig1.png
+*Figura 1. Componentes del sistema*
+
+## 2 Modalidades: ECMO venovenoso (VV) y venoarterial (VA)
+
+1. **ECMO VV:** indicado para soporte del fallo respiratorio aislado con función cardiaca adecuada. La sangre es drenada a través de una cánula de doble luz en vena yugular derecha hasta aurícula (AD), pasa por el oxigenador y es devuelta de nuevo a la AD donde se mezcla con el retorno venoso nativo.
+2. **ECMO VA:** Proporciona soporte tanto pulmonar como cardíaco. La sangre es drenada desde la AD, con cánula habitualmente en vena yugular derecha, y es retornada al territorio sistémico a través de una cánula en arteria carotidea derecha.
+@img seneo-6-14-fig2.png
+*Figura 2. Modalidades de ECMO*
+
+## 3 Criterios de inclusión
+
+El soporte con ECMO se indica en pacientes seleccionados con fracaso cardiaco y/o respiratorio, potencialmente reversible y que no han respondido al manejo convencional óptimo.
+
+Los criterios "clásicos" están en continua revisión, actualmente la tendencia recomendada
+@p 662
+va dirigida a identificar precozmente a los pacientes de riesgo, antes de que tiempos prolongados de ventilación mecánica agresiva o dosis altas de drogas vasoactivas comprometan su traslado a un centro con ECMO y su pronóstico.
+
+Con estas premisas se describen los siguientes criterios:
+- Riesgo significativo de fallecimiento o secuelas funcionales con tratamiento convencional.
+- Síndrome de Distres Respiratorio (SDR) con índice de oxigenación (IO) mayor a 40 durante más de 6 horas en ventilación mecánica convencional (VMC) o ventilación de alta frecuencia oscilatoria (VAFO) y con imposibilidad de mantener parámetros "protectores". (Valorar traslado con 10 mayor a 25 durante 12 horas).
+- SDR con hipercapnia mantenida durante mas de 6 horas con pH menor a 7,10
+- Estabilización preoperatoria en cardiopatías congénitas no intervenidas.
+- Fracaso en la retirada de circulación extracorpórea o en postoperatorio inmediato, descartando precozmente lesión residual anatómica
+- Arritmia refractaria.
+- Paro cardiaco presenciado y recuperado, pero inestable y de causa reversible
+- Disfunción miocárdica severa recuperable, por miocarditis u otras miocardiopatías infecciosas o toxicas
+- Puente para trasplante cardiaco o pulmonar de forma transitoria a asistencia ventricular de larga duración.
+- Puente a donación de órganos.
+- Como apoyo en situaciones médico quirúrgicas excepcionales (Por ejemplo cirugía de tórax o procedimientos hemodinámicos intervencionistas complejos).
+
+## 4 Criterios de exclusión
+
+La mayoría de los criterios de exclusión son relativos, algunos definidos por la patología de base o estados de comorbilidad y otros por malos resultados en registros internacionales. Es necesario que cada equipo evalúe los riesgos y potenciales beneficios.
+
+Entre los criterios de exclusión para pacientes neonatales y pediátricos se encuentran:
+- Edad gestacional menor de 34 semanas y peso menor a 2 kg (relativo)
+- Daño neurológico severo irreversible
+- Anomalías genéticas severas o cromosomopatías confirmadas (excepto trisomía 21)
+- Fracaso multiorgánico o daño irreversible de un órgano crítico (hígado, miocardio, riñón)
+- Coagulopatía severa sin respuesta al tratamiento
+@p 663
+- Inmunosupresión severa
+- Fallo hepático terminal/crónico
+- Hipertensión pulmonar irreversible (primaria o no)
+- Hemorragia intracraneal masiva
+- SDR con más de14 días de VMI y/o parámetros ventilatorios "no protectores" (relativo)
+
+## 5 Manejo de asistencia con ECMO
+
+### 1. Canulación e Inicio de Asistencia:
+- En la unidad de cuidados intensivos o en quirófano con técnica estéril, bajo sedoanalgesia y relajación muscular, mediante disección de vasos desde el cuello o canulación central transitoria.
+- Una vez canulado, inicio de asistencia hasta conseguir el soporte completo o suficiente para la estabilización del paciente (100 - 150 ml/kg/min), considerando situaciones de demanda metabólica elevada y/o vasoplegia que puedan requerir flujos más alto.
+- Se determinarán las revoluciones necesarias de la bomba para el flujo requerido en condiciones de pre y postcarga óptimas. Estas van a depender fundamentalmente de la volemia, la resistencia dada por la cánula venosa y la presión de salida de la unidad circuito/paciente
+
+### 2. Monitorización Básica:
+- **Presión de succión:** Presión negativa de entrada al circuito en la línea venosa. En pacientes neonatales entre - 5 y 0 mmHg
+- **Presiones de Membrana / Presión de salida:** Refleja la postcarga y está determinada por la cánula arterial y las resistencias vasculares del paciente. El gradiente transmembrana nos informa sobre la integridad del Oxigenador.
+
+### 3. Anticoagulación:
+
+Para el buen funcionamiento de la unidad circuito-paciente es necesario la anticoagulación del sistema y mantener un equilibrio óptimo con la hemostasia del paciente para disminuir los riesgos de sangrado.
+
+- **Preparación del circuito:** Tras el purgado habitual del circuito, con concentrado de hematíes y PFC se debe heparinizar con Heparina No Fraccionada (UNFH):1 UI/ml, según el volumen de purgado de cada circuito.
+- **Preparación del Paciente:** Durante la canulación habitualmente se administrará bolo de UNFH de 50 – 100 UI/Kg, previo a la conexión. Esta dosis se ajusta en cada paciente en función del riesgo de sangrado.
+- **Inicio de Anticoagulación y Rango de Dosis:**
+  - Tras la conexión, determinación de ACT, iniciando perfusión UNFH cuando < 300 seg.
+@p 664
+  - Dosis de inicio entre 7,5 - 20 UI/Kg/h, siendo los pacientes neonatales los que requieren el rango más alto a menos que exista un sangrado activo.
+  - En los pacientes tras cirugía cardiaca y sangrado activo se puede posponer el inicio de perfusión o dejar en rango mínimo hasta control del sangrado.
+- **Monitorización de Anticoagulación:** No existe un test de valoración muy superior al resto y por tanto cada centro debe encontrar la mejor combinación de técnicas disponibles que proporcionen la máxima seguridad con la mayor simplicidad posible. Los valores obtenidos de cada uno de los test deben estar estandarizados para cada laboratorio.
+  - ACT (tiempo de coagulación activado) a demanda para mantener rango 180 - 220 segundos
+  - Actividad de heparina (factor anti X activado) cada 12 - 24 horas
+  - Tiempo parcial de tromboplastina activada (TTPA) cada 12 - 24 horas
+  - Tromboelastograma cada 24 horas o según evolución y disponibilidad
+
+Cuando se sospecha resistencia a la heparina por déficit de antitrombina III (AT- III), se buscará reponerla en forma directa o con transfusión de dosis altas de Plasma.
+
+### 4. Ventilación Mecánica y Soporte Vasoactivo:
+
+Una vez que el paciente está en ECMO, se programan parámetros respiratorios para permitir reposo pulmonar y minimizar el daño pulmonar por ventilación
+
+- Incremento de PEEP hasta 10 cm H~2~O, FR: 10-15 rpm, Ti: 0,6 sg, FiO~2~ <30%, PIP: 15-22 cm H~2~O.
+- Si estaba previamente en HFO, se desciende PMA 10-12 cm H~2~O, se aumentan Hz 12-15 Hz y AP o el % de amplitud para un VtHf < 1ml/kg. Se descenderá el soporte inotrópico y se establecerán los objetivos hemodinámicos (TA, SVO,, SatO,) y gasométricos ajustando la asistencia de ECMO teniendo en cuenta los siguientes principios de fisiología:
+- La oxigenación y el soporte hemodinámico dependen del flujo de ECMO y de la capacidad de oxigenación la membrana.
+- El lavado de CO~2~ depende del flujo de gas de la membrana
+- En ECMO VA es frecuente una hipertensión arterial (HTA) refleja, multicausal, que se debe controlar con fármacos vasodilatadores sistémicos.
+- El paciente en soporte VV en cambio va a requerir de competencia de la bomba nativa, por lo que puede requerir soporte inotrópico.
+
+### 5. Apoyo Nutricional:
+
+El inicio de la alimentación debe ser siempre precoz y de preferencia por vía enteral. En caso de no poder usar el intestino, usar nutrición parenteral. Se debe considerar la canalización de accesos vasculares centrales previo a la conexión ECMO y anticoagulación.
+@p 665
+### 6. Pruebas de Imagen y Controles analíticos:
+
+**Pruebas de imagen:**
+- Ecografía o RMN pre_canulación para demostrar indemnidad del sistema nervioso central (SNC) y descartar contraindicaciones.
+- Radiografía de Tórax cada 24-48 h para evaluar posición de cánulas y evolución cardiopulmonar.
+- Ecografía cerebral seriada para seguimiento de integridad del SNC y toma de decisiones
+- Ecocardiografía seriada
+
+**Controles analíticos del Paciente y Circuito ECMO:**
+- Gasometría del paciente horaria hasta estabilización inicial y posteriormente c/ 8 - 12h.
+- ACT horario hasta estabilizar anticoagulación y requerimientos de heparina, luego c/6 - 8 horas.
+- Gasometría pre y post oxigenador diaria.
+- Control diario hematológico y de coagulación (incluyendo hemolítico) y de función multiorgánica (renal, hepático, etc.)
+
+### 7. Destete y Retirada de ECMO:
+
+La decisión de retirada de asistencia se debe hacer en función de los criterios de mejoría radiológica y funcional del órgano en recuperación, hasta un patrón considerado suficiente para el manejo convencional.
+
+1. Tras confirmar mejoría; inicio de transición a flujo mínimo reduciendo flujo de sangre, junto con descenso gradual del flujo de gas para evitar hipocapnia (Durante este procedimiento puede ser necesario usar un puente AV para mantener un flujo de seguridad en oxigenador y evitar estasis del circuito; así como también es recomendable aumentar rango de ACT del circuito)
+2. Evaluación clínica y gasométrica por cada disminución del flujo.
+
+La velocidad y tiempo en que se realiza este proceso la determinará la respuesta clínica que vaya mostrando el propio paciente a los cambios.
+
+3. Incremento del soporte convencional con apoyo ventilatorio y soporte inotrópico moderados.
+4. Ultimo paso (Trial off); con clampado de líneas/cánulas transitorio, interrumpiendo soporte y evaluando respuesta hemodinámica, ecocardiográfica y ventilatoria.
+  - Asegurar permeabilidad de las cánulas realizando lavado de las mismas cada 5-10 minutos
+  - Si esta fase dura más de 30 minutos, iniciar perfusión de heparina al paciente ajustando dosis en función de ACT del paciente.
+  - EAB del paciente y ACT del circuito y paciente cada 15 minutos durante la primera
+@p 666
+hora.
+
+5. Decanulación o retirada definitiva de las cánulas y el soporte. Durante el procedimiento se evaluará la reconstrucción de los vasos o la ligadura de los mismos, que va a depender del estado de los mismos y duración de la asistencia con ECMO
+@caja
+**SE RECOMIENDA**
+- La asistencia con ECMO en el recién nacido es una técnica valiosa pero compleja, y no exenta de complicaciones, que requiere la experiencia y formación continuada de todo el personal implicado en el manejo diario de estos niños durante la misma
+- Es importante la identificación precoz del paciente con una enfermedad reversible e indicaciones potenciales de beneficiarse de esta asistencia, para no retrasar el traslado a centros de referencia donde la ECMO forme parte del manejo global del paciente.
+@fin
+@bib
+1. The Red Book ELSO 5th Edition 2017 - Edithors: Brogan, T., Lequier, L., Lorusso, R., McLaren, G., Peek, G (ISBN 978-0-9656756-5-9)

@@ -1,0 +1,51 @@
+@f 14. Protocolos SENEO/6.11. Control de la infección nosocomial: bacteriemia zero y neumonía zero
+@p 642
+# 6.11 CONTROL DE LA INFECCIÓN NOSOCOMIAL: BACTERIEMIA ZERO Y NEUMONÍA ZERO
+
+*María Cernada Badía, Isabel Izquierdo Macián, Alejandro Pinilla González*
+
+*Hospital Universitari i Politècnic La Fe, Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 628-631 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Control de la infección nosocomial
+
+Las infecciones nosocomiales son aquellas infecciones relacionadas con la asistencia sanitaria. Las más frecuentes son las asociadas al uso de dispositivos, sobre todo la bacteriemia relacionada con catéter (BRC) y la neumonía asociada a la ventilación mecánica (NAV).
+
+- **BRC:** crecimiento del mismo germen en hemocultivo de vía periférica y en punta de CVC (o en su defecto, en hemocultivo extraído de CVC con crecimiento diferencial de 2 horas antes en el CVC).
+- **NAV:** imagen radiológica compatible en paciente con ventilación mecánica (VM) > 48 horas + empeoramiento respiratorio + aislamiento de germen en muestra respiratoria (>10^3^ UFC/ml en lavado broncoalveolar o >105 UFC/ml en aspirado traqueal).
+
+Los programas bacteriemia zero (BZ) y neumonía zero (NZ) se sustentan en paquetes de medidas basadas en la evidencia que han demostrado reducir significativamente las tasas de BRC en un 26-71%, y las de NAV en un 33-84%, alcanzándose cifras en torno a los 1-3 episodios BRC/ 1000 días CVC y que oscilan entre 1-12 episodios NAV/ 1000 días VM. Incluyen una vigilancia estrecha de las tasas de incidencia (número de episodios por días de uso del dispositivo), así como la formación del personal sanitario o las listas de comprobación para asegurar su correcto cumplimiento.
+
+## 2 Bacteriemia zero
+@img seneo-6-11-t1a.png
+@p 643
+@img seneo-6-11-t1b.png
+! Las tablas y la figura de este capítulo se muestran como imágenes recortadas del PDF.
+
+## 3 Neumonía zero
+@img seneo-6-11-t2a.png
+@p 644
+@img seneo-6-11-t2b.png
+
+@img seneo-6-11-fig1.png
+*Figura 1. Los 5 momentos de la higiene de manos.*
+
+@p 645
+@caja
+**SE RECOMIENDA**
+- Tener un equipo encargado de vigilar las tasas de BRC y NAV.
+- Formar a todo el personal sanitario en los programas BZ y NZ.
+- Insistir especialmente en la correcta higiene de manos.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Desconocer las tasas de BRC y NAV previas a la implantación de los programas.
+- No reevaluar la eficacia de los programas BZ y NZ.
+@fin
+@bib
+1. Schulman J, Stricof RL, Stevens TP, et al. Statewide NICU central-line-associated bloodstream infection rates decline after bundles and checklists. Pediatrics. 2011; 127:436-44.
+2. Payne V, Hall M, Prieto J, Johnson M. Care bundles to reduce central line-associated bloodstream infections in the neonatal unit: a systematic review and meta-analysis. Arch Dis Child Fetal Neonatal Ed. 2018; 103:F422-29.
+3. Bierlaire S, Danhaive O, Carkeek K, Piersigilli F. How to minimize central line-associated bloodstream infections in a neonatal intensive care unit: a quality improvement intervention based on a retrospective analysis and the adoption of an evidence-based bundle. Eur J Pediatr. 2021;180:449-60.
+4. Weber CD. Applying Adult Ventilator-associated Pneumonia Bundle Evidence to the Ventilated Neonate. Adv Neonatal Care. 2016;16:178-90.
+5. Pinilla-González A, Solaz-García Á, Parra-Llorca A, et al. Preventive bundle approach decreases the incidence of ventilator-associated pneumonia in newborn infants. J Perinatol. 2021;41:1467-73.
+6. Klompas M, Branson R, Cawcutt K, et al. Strategies to prevent ventilator-associated oneumonia, ventilator-associated events, and nonventilator hospital-acquired pneumonia in acute-care hospitals: 2022 Update. Infect Control Hosp Epidemiol. 2022; 43:687-713.

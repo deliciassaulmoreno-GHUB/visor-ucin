@@ -1,0 +1,109 @@
+@f 14. Protocolos SENEO/6.12. Monitorizaciones no invasivas (NIRS, aEEG) e invasivas
+@p 646
+# 6.12 MONITORIZACIONES NO INVASIVAS (NIRS, AEEG) E INVASIVAS
+
+*Malaika Cordeiro, María Carmen Bravo, Adelina Pellicer*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 632-638 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+El recién nacido con alto riesgo de desarrollar daño cerebral requiere una evaluación precisa mediante la integración de dispositivos que nos permitan interpretar la situación hemodinámica, el transporte de oxígeno y la función cerebral y, a partir de ello, adecuar de forma dirigida la intervención más pertinente.
+
+**Monitorizaciones no invasivas: NIRS, aEEG**
+## 1 Espectroscopia cercana al infrarrojo (NIRS)
+
+### 1. Concepto
+
+La espectroscopia cercana al infrarrojo mide el oxígeno del tejido. La mayoría de los oxímetros tisulares comerciales expresan la medida en porcentaje (%), de 0 a 100%. El etiquetado varía según la marca comercial representando la saturación de oxígeno de la hemoglobina presente en el tejido. En este capítulo nos referiremos al parámetro como saturación tisular regional de oxígeno (rStO~2~). A diferencia del pulsioxímetro (SpO~2~), que utiliza la pulsación de las arterias para identificar la señal de la sangre arterial, la rStO~2~ no es una medición pulsátil, e incluye, por tanto, a arterias, capilares y venas. El compartimiento vascular está constituido mayoritariamente por venas; por ello, la rStO~2~ es una medida "ponderada venosa", oscilando los valores típicos entre 60 y 80%, y es altamente influenciable por la perfusión tisular.
+
+### 2. Aspectos técnicos
+
+El sensor NIRS consta de una fuente de luz y de un receptor, situados a una distancia suficiente para que la mayor parte de luz detectada haya atravesado el tejido de interés (por ejemplo, en el caso del cerebro, éste se haya situado a unos 5 mm por debajo de la superficie cutánea en el recién nacido). Si bien la medición obtenida se expresa en términos absolutos, limitaciones de la técnica cuyos algoritmos incluyen una serie de asunciones, hacen que las medidas sean imprecisas. Por ejemplo, el cambio de ubicación del sensor puede acarrear diferencias de hasta un 10% del valor de rStO~2~ obtenido. Así, su utilidad para muchos reside en su aplicación como monitor de tendencias.
+
+El sensor debe situarse sobre piel limpia, preferiblemente sin pelo, evitando zonas de edema, colecciones hemáticas u otros estigmas cutáneos. El sensor es fuente de calor. Si se fija aplicando presión, particularmente en casos de mala perfusión, puede causar úlceras en la piel. Por ello, en los pacientes más vulnerables, se recomiendo rotarlo de posición a intervalos variables, según el caso, en monitorizaciones prolongadas.
+@p 647
+### 3. Interpretación
+
+En el contexto clínico, la rStO~2~ es interpretada como un subrogado de la saturación venosa y de la extracción tisular de oxígeno, resultando un complemento valioso de SpO~2~. La hipoxia tisular puede resultar de una respiración subóptima, de la disfunción cardiocirculatoria, de un insuficiente transporte/entrega de oxígeno, o de la combinación de estos factores. Por ello, la interpretación de los valores de rStO~2~ debe hacerse en conjunto con otros parámetros: 1) situación respiratoria (monitorización transcutánea de CO~2~ o capnografía, SpO~2~, radiografía de tórax o ecografía pulmonar para valorar volumen pulmonar/compresión de mediastino); 2) capacidad de transporte/entrega de oxígeno (hemoglobina, lactato, gasometría arterial/venosa); 3) situación circulatoria (gradiente térmico, tiempo de relleno capilar, presión arterial, parámetros ecocardiográficos de flujo sistémico/orgánico).
+
+### 4. Idicaciones
+
+Los candidatos potenciales a la monitorización continua de rStO~2~ cerebral, como un componente más de la estrategia de neuroprotección, serían: recién nacidos, particularmente prematuros o con riesgo de insuficiencia respiratoria y necesidad de soporte ventilatorio inmediato al nacimiento, durante la estabilización inmediata postnatal; recién nacidos de extremado bajo peso durante la etapa circulatoria transicional; pacientes con inestabilidad circulatoria o respiratoria; pacientes con encefalopatía neonatal; recién nacidos sometidos a cirugía compleja.
+
+La monitorización NIRS en diferentes regiones anatómicas (NIRS somático) además del cerebro, es cada vez más utilizada. Si bien el conocimiento derivado se limita a estudios observacionales pequeños, la herramienta podría predecir enfermedades orgánicas específicas, como el fracaso renal agudo o la enterocolitis necrotizante. No obstante, los beneficios de la monitorización NIRS somática no se soportan por la evidencia, requiriéndose estudios más sólidos, así como guías de intervención dirigida.
+
+## 2 Elecgroencefalografía integrada por amplitud (aEEG)
+
+### 1. Técnica y procesamiento de la señal EEG
+
+La electroencefalografía integrada por amplitud es una tendencia derivada del EEG.
+
+Para obtener el aEEG, la señal eléctrica de un canal de EEG: 1) se pasa por un filtro de frecuencias de manera que se atenúan las frecuencias por debajo de 2Hz y por encima de 15Hz; 2) se rectifica utilizando los valores absolutos de las ondas, es decir, invirtiendo las ondas negativas de manera que tanto las deflexiones positivas como negativas del EEG se representan en un mismo eje positivo; 3) se detectan los picos de máxima amplitud y los picos de mínima amplitud en cada intervalo de 15 segundos; 4) se representa la distancia pico máximo a pico mínimo de cada intervalo y se comprime en el tiempo a 6cm/h obteniendo una banda densa (el margen superior de la banda representa las ondas de mayor amplitud con los valores más positivos o más negativos de la señal EEG, y el margen inferior representa las ondas de menor amplitud con los valores más cercanos a 0µV); 5) y se utiliza una escala semilogarítmica (las amplitudes de 0 a 10µV se representan en escala lineal y las amplitudes de 10 a 100µV en escala logarítmica) que
+@p 648
+resalta visualmente las amplitudes bajas.
+
+En la actualidad existen monitores de función cerebral (MFC) que ofrecen la posibilidad de hacer registros de aEEG de uno o dos canales y muestran tanto el aEEG como el EEG crudo, y equipos de video-EEG multicanal que incorporan el algoritmo para procesar el aEEG a partir de tantos canales de EEG como se deseen. El uso de dos canales, uno en cada hemisferio, permite detectar asimetrías en la actividad cerebral y aumenta la sensibilidad diagnóstica del MFC tanto de lesiones focales como de crisis eléctricas (figura 1).
+@img seneo-6-12-fig1.png
+*Figura 1. Montajes de aEEG más utilizados*
+
+### 2. Indicaciones (tabla 1)
+@img seneo-6-12-t1a.png
+@p 649
+@img seneo-6-12-t1b.png
+! Las tablas y figuras de este capítulo se muestran como imágenes recortadas del PDF.
+
+### 3. Interpretación
+
+A la hora de interpretar el aEEG, se analizan el trazado de fondo, la ciclicidad y la presencia o no de crisis.
+
+Se han descrito dos sistemas de clasificación de trazados de aEEG: una basada en el voltaje de los márgenes superior e inferior de la banda de aEEG (Naqeeb et al.), y otra basada en el reconocimiento visual de patrones (Hellström-Westas et al.) (figura 2)
+
+@img seneo-6-12-fig2.png
+*Figura 2. Trazados de aEEG*
+
+@p 650
+La mayoría de las crisis se reconocen en el trazado aEEG como elevaciones bruscas del margen inferior acompañadas generalmente, pero no siempre, de elevaciones del margen superior. Se clasifican en aisladas, repetitivas o estado epiléptico (clasificación de Hellström-Westas et al.) (Figura 3). El estado epiléptico puede verse como un patrón en dientes de sierra o como una elevación sostenida de la banda aEEG. Una infinidad de artefactos pueden provocar elevaciones en el margen inferior de la banda aEEG que se interpreten erróneamente como crisis. Es por ello indiscutible la necesidad de revisar el EEG crudo ante cualquier elevación del margen inferior del trazado de aEEG para no confundir crisis con artefactos.
+@img seneo-6-12-fig3.png
+*Figura 3. Tipo de crisis en el aEEG*
+
+Es importante tener en cuenta que la amplitud o voltaje del EEG puede verse afectado por la distancia entre los electrodos de superficie (menos diferencia de voltaje a menor distancia), edema del cuero cabelludo (atenúa el voltaje) y señales eléctricas no cerebrales (ECG, ventilación de alta frecuencia, etc. que artefactan los valores máximos y mínimos de voltaje) y, en estos casos, puede elevar o descender falsamente los márgenes de la banda del aEEG.
+
+## 3 Monitorización invasiva
+
+El fracaso hemodinámico se define como el desequilibrio circulatorio en el que la entrega de oxígeno a los tejidos no satisface la demanda metabólica. El transporte de oxígeno (DO~2~) está determinado por la concentración total de oxígeno en la sangre arterial (depende de la concentración de hemoglobina [Hb], la saturación de oxígeno [SaO~2~] y, en menor medida, de la presión parcial de oxígeno [PaO~2~]) y por el gasto cardíaco (CO). De hecho, es el gasto cardíaco el factor que más influye en el transporte de oxígeno siguiendo esta ecuación.
+
+**DO~2~ = (Hb x SaO~2~ x 0.98) + (PaO~2~ x 0.0004) x CO**
+Durante los últimos años se han desarrollado técnicas que permiten monitorizar el gasto cardíaco, pero debido al tamaño del paciente, la presencia de cortocircuitos intra y extracardíacos durante la circulación transicional y los posibles efectos adversos asociados a su utilización, su aplicación en neonatología es muy limitada. A continuación, se describen las técnicas que pueden llegar a jugar un papel en la monitorización invasiva hemodinámica del paciente neonatal.
+@p 651
+### 1. Técnicas de disolución de indicador
+
+Esta tecnología se basa en el concepto de que un soluto que se inyecta en la circulación venosa en una cantidad conocida (i) y se mezcla y diluye en el corazón, se detecta posteriormente en el tiempo (t) a una concentración determinada (C) en el sistema circulatorio, y esta concentración se correlaciona con el gasto cardíaco. La relación que existe entre la curva del indicador de dilución y el gasto cardíaco se describe con la ecuación de Stewart-Hamilton:
+
+**CO = (60 x i) / ∫ C (t) dt**
+La termodilución arterial pulmonar (catéter de Swan-Ganz) es el método fundamental para evaluar el gasto cardíaco, pero no puede utilizarse en el recién nacido debido al tamaño de los catéteres. Sin embargo, la técnica de dilución transpulmonar por ultrasonidos, TPUD, puede realizarse en recién nacidos desde 600 gr de peso. Es necesario utilizar catéteres convencionales venosos y arteriales centrales. Se inyecta un volumen de 0,5-1 ml/kg de suero fisiológico a la temperatura corporal en el catéter venoso y, como el suero fisiológico se mueve a menor velocidad que la sangre, en el lado arterial se puede detectar una disminución de la velocidad de la sangre por ultrasonidos. El gasto cardíaco se calcularía según el análisis de la curva de dilución de ultrasonidos. Esta técnica se ha aplicado en estudios en animales y también en el paciente pediátrico durante la cirugía cardíaca, pero su validación en el paciente neonatal está aún pendiente.
+
+### 2. Análisis del contorno de la onda de pulso arterial.
+
+La evaluación del volumen sistólico a través del análisis de la forma de la onda de la presión arterial es compleja porque la presión arterial y el volumen sistólico no se relacionan de forma lineal. Sin embargo, esta tecnología parece prometedora como monitor de tendencias, una vez calibrado el análisis del contorno de la onda de pulso arterial con un sistema invasivo. Hasta la fecha no existen estudios que hayan validado esta tecnología en el paciente neonatal.
+@caja
+**SE RECOMIENDA**
+- Interpretar la rStO~2~ preferiblemente como monitor de tendencias y siempre en el contexto clínico (indicación principal), en conjunto con otras herramientas de monitorización.
+- Un valor de rStO~2~ fuera de rango, o un cambio súbito (aún en rango normal) nos debe alertar sobre la necesidad de usar otras herramientas diagnósticas para una correcta interpretación de la situación del paciente.
+- Monitorizar la función cerebral mediante aEEG preferentemente con 2 canales cuando haya sospecha o riesgo de crisis.
+- Un valor normal de gasto cardíaco no garantiza una adecuada perfusión tisular.
+- La monitorización multimodal hemodinámica proporciona información sobre la circulación sistémica y regional, lo que permite diagnosticar si existe fallo hemodinámico y realizar un tratamiento fisiopatológicamente guiado.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No utilizar el aEEG sólo para el diagnóstico y tratamiento de crisis sino también
+@p 652
+para establecer la gravedad y tiempos de recuperación con valor pronóstico en encefalopatías neonatales.
+
+- Nunca tratar elevaciones del margen inferior del aEEG sin confirmar en el EEG crudo que son crisis.
+@fin
+@bib
+1. Hellström-Westas L, Rosén I, de Vries LS, Greisen G. Amplitude-integrated EEG classification and interpretation in preterm and term infants. Neoreviews. 2006; 7:e76-87.
+2. de Boode WP. Advanced Hemodynamic Monitoring in the Neonatal Intensive Care Unit. Clin Perinatol. 2020;47:423-34.
+3. Pellicer A, Greisen G, Benders M, et al. The SafeBoosC phase II randomised clinical trial: a treatment guideline for targeted near-infrared-derived cerebral tissue oxygenation versus standard treatment in extremely preterm infants. Neonatology. 2013;104: 171-8.
+4. Riera J, Hyttel-Sorensen S, Bravo MC, et al. The SafeBoosC phase II clinical trial: an analysis of the interventions related with the oximeter readings. Arch Dis Child Fetal Neonatal Ed. 2016; 101:F333-8.
+5. EFCNI, Pellicer A, Hellström-Westas L, et al. European Standars of Care for Newborn Health: Neurological monitoring in the high-risk infant: Near-infrared spectroscopy (NIRS) 2022.

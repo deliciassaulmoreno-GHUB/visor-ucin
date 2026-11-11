@@ -1,0 +1,139 @@
+@f 14. Protocolos SENEO/6.13. Técnicas de diálisis: diálisis peritoneal, hemodiafiltración
+@p 653
+# 6.13 TÉCNICAS DE DIÁLISIS: DIÁLISIS PERITONEAL, HEMODIAFILTRACIÓN
+
+*Antonio Pavón Delgado, Francisco Jiménez Parrilla, Inmaculada Bueno Rodríguez*
+
+*Hospital Universitario Virgen del Rocío, Sevilla*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 639-645 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+Las técnicas de diálisis o de depuración extrarrenal son terapias de rescate que permiten remplazar la función renal y eliminar el exceso de agua corporal y de toxinas dializables. Se fundamentan en el movimiento de agua y solutos a través de una membrana semipermeable que separa el compartimento sangre del paciente y el de ultrafiltrado. Este movimiento depende de:
+- Permeabilidad de la membrana. Solo atraviesan solutos de peso inferior a 50.000 daltons.
+- Gradiente de presión hidrostática sangre-ultrafiltrado o mecanismo convectivo.
+- Gradiente de concentración de solutos o mecanismo difusivo si se hace circular a contracorriente en el compartimento del ultrafiltrado una solución de diálisis estándar.
+- En el recién nacido se utilizan preferentemente las modalidades de diálisis peritoneal y hemodiafiltración. El neonatólogo valorará y decidirá en cada caso (Tabla 1), conociendo que por encima de la modalidad elegida se encuentra el no retrasar innecesariamente el inicio de la técnica.
+@img seneo-6-13-t1a.png
+@p 654
+@img seneo-6-13-t1b.png
+! Las tablas y la figura de este capítulo se muestran como imágenes recortadas del PDF.
+
+## 2 Indicaciones
+
+- Insuficiencia renal aguda. No existe consenso sobre un valor de corte de urea/creatinina para su indicación. Considerar causa subyacente, comorbilidades, manejo de líquidos correcto y sus posibles complicaciones (Trastornos hidroelectrolíticos graves, uremia con sangrado y/o encefalopatía, etc.).
+- Sobrecarga de fluidos refractaria al tratamiento diurético. Valorar riesgos/ beneficios a partir del 20% o incluso antes si se asocia edema pulmonar.
+- Alteraciones electrolíticas aisladas graves no controlables con tratamiento médico, como hiperkaliemia, hípernatremia, hiperfosfatemia, hipercalcemia o acidosis metabólica.
+- Hiperamoniemia e hiperleucinemia grave. Valorar presencia de encefalopatía y empeorando y niveles de amonio ≥ 300-400 µmol/L y leucina ≥ 1500 µmol/L o incluso menores.
+- Intoxicaciones exógenas por sustancias dializables.
+
+## 3 Diálisis peritoneal
+
+Se utiliza como membrana semipermeable el peritoneo y como compartimento de dializado la cavidad peritoneal. Es el modo preferido de depuración extrarrenal en el neonato a menos que se requiera eliminación rápida de fluidos y/o productos de desecho o toxinas (ej.: hiperamoniemia). Puede indicarse como terapia aguda y de larga duración en el fallo renal crónico.
+
+### Acceso e infusión de líquido de diálisis en la terapia aguda
+
+- Inserción de catéter de forma aséptica por técnica de Seldinger, habitualmente
+@p 655
+en el punto medio de la línea hipotética que une el ombligo y la espina ilíaca anterosuperior izquierda.
+
+- Se recomienda sistemas cerrados con conexión al catéter en Y. Esto permite el control estricto de los volúmenes infundidos y drenados de forma manual. El líquido debe precalentarse a temperatura corporal.
+- Es recomendable utilizar alguna de las soluciones comercializadas disponibles para la diálisis peritoneal aguda (Tabla 2). Suelen contener glucosa en concentraciones estandarizadas de 1,26%, 2,27% y 3,86% como agente generador del gradiente osmótico que fuerza la ultrafiltración (Osmolaridades de 346, 396 y 485 mosmol/L respectivamente).
+! En el texto del PDF figura 1,26%, mientras que la Tabla 2 indica 1,36% para la misma solución; se ha copiado tal cual.
+
+- La composición estándar de las soluciones comerciales contiene entre 0-2 mmol/L de potasio. Una vez corregida la hiperpotasemia, o antes si no fuera el caso, debe añadirse cloruro potásico hasta el nivel de 4 mmol/L para evitar hipopotasemia. La concentración del resto de electrolitos suele aproximarse a la plasmática.
+- Como tampón se utiliza lactato y bicarbonato, aunque en el recién nacido se prefiere el bicarbonato, sobre todo en estados de shock y fallo hepático.
+- Añadir al líquido heparina 500 UI/L para prevenir la formación de coágulos en el catéter.
+@img seneo-6-13-t2.png
+
+### Prescripción
+
+- El volumen inicial de infusión debe ser 10-20 ml/Kg, que podría aumentarse de manera gradual hasta 30-40 ml/Kg, valorando fugas del dializado y presión intraabdominal.
+- Para la sobrecarga de fluidos, generalmente se precisará soluciones de dializado más hipertónicas (Glucosa 2,27%).
+- Se pautan ciclos ininterrumpidos. Por gravedad se realiza la entrada (5-10 minutos) y salida (10-20 minutos) del líquido de dializado, dejando 20-30 minutos de permanencia.
+@p 656
+### Complicaciones
+
+- Complicaciones mecánicas: perforación de víscera hueca, hemoperitoneo, obstrucción del catéter por fibrina y fuga de líquido pericatéter. Menos frecuente con técnica de Seldinger.
+- Problemas ventilatorios secundarios al incremento de la presión intra-abdominal.
+- Pérdida de proteínas a través de la membrana peritoneal.
+- Hiperglucemia por altas concentraciones de glucosa en el líquido de diálisis. Produce una diminución del gradiente osmótico y del ultrafiltrado. Debe tratarse con insulina.
+- Hipernatremia. Se debe al aumento del aclaramiento del agua libre promovido por el uso de soluciones de diálisis hipertónicas, ciclos rápidos y tiempos de permanencia cortos.
+- Otros alteraciones electrolíticas como hipopotasemia, hiponatremia e hipofosforemia.
+- Peritonitis. Aumenta con la duración del procedimiento. Debe considerarse la etiología bacteriana y por cándida.
+
+### Controles
+
+- Balance entradas/salidas del dializado, del que resultará el volumen neto de ultrafiltrado.
+- Electrolitos sanguíneos y glucemia frecuente, sobre todo en las primeras 24-48 horas.
+- Recuento celular y cultivo del líquido peritoneal drenado frecuente.
+
+## 4 Hemodiafiltración
+
+La membrana biocompatible y semipermeable utilizada se ubica en el interior de un hemofiltro, el cual se inserta en línea en un circuito extracorpóreo por el que circula de manera continua sangre calentada e impulsada por una bomba (Figural). La sangre es tomada y devuelta al paciente desde una vena central (Acceso veno-venoso). Se pueden realizar las modalidades siguientes:
+1. Ultrafiltración venovenosa continua: se obtiene un ultrafiltrado plasmático de agua y electrolitos sin reposición ulterior de los mismos. Elimina principalmente agua libre.
+2. Hemofiltración venovenosa continua: igual que la anterior pero se reponen los electrolitos mediante un líquido de reinfusión o reposición. Elimina agua y solutos filtrables.
+3. Hemodiafiltración venovenosa continua: a la hemofiltración se le añade líquido de diálisis a contracorriente por la cámara externa del hemofiltro. Se aumenta la capacidad depurativa al sumar al mecanismo convectivo el difusivo.
+4. Hemodiálisis venovenosa continua: igual que la anterior pero sin líquido de reinfusión.
+@p 657
+@img seneo-6-13-fig1.png
+*Figura 1. Esquema del circuito*
+
+### Vía de acceso vascular
+
+Es clave para el éxito de la técnica. Se requiere vía venosa central (femoral o yugular habitualmente) y catéter de baja resistencia al flujo mínimo esperado (10-20 ml/ min).
+
+De primera elección está un catéter corto de doble luz de 6,5 F, aunque puede funcionar bien el de 5F, sobre todo en el neonato < 2500 g. Otra opción es utilizar dos catéteres de 4F en dos venas diferentes.
+
+### Circuito y hemofiltro
+
+- El circuito extracorpóreo ideal es el que no sobrepasa el 10% de la volemia del paciente. Esto no suele cumplirse, por lo que debe cebarse con sangre y evitar así hipovolemia.
+- Circuito y hemofiltro se suministran ya montados como fungible y son específicos de una determinada máquina de depuración extrarrenal. En el neonato el circuito HF2O® y la máquina o monitor PRISMAFLEX® es el más utilizado en nuestro medio. Aunque exista amplia experiencia en su manejo, todavía se hace "Off label"en el recién nacido y su volumen resulta excesivo (60 ml).
+- Aunque de experiencia aún muy limitada, se han diseñados máquinas para circuitos de bajo volumen, como el sistema CARPEDIEM® que requiere entre 27- 42 ml según filtro.
+
+### Prescripción
+
+1. Elegir modalidad en función de los objetivos perseguidos. Para eliminar agua podría
+@p 658
+bastar ultrafiltración lenta o hemofiltración. En el fallo renal agudo o en la eliminación de toxinas (Ej.: hiperamoniemia) es mas eficiente asociar diálisis.
+
+2. Decidir técnica de anticoagulación, clave para mantener hemofiltro y circuito libre de coágulos. Punto crítico en el neonato por concurrir factores procoagulantes (flujos lentos, hematocrito elevado y catéteres de menor calibre). Puede realizarse mediante:
+  - Heparina infundida de manera continua antes del filtro. Generalmente se requiere un bolo de 20-30 UI/Kg al inicio y una dosis de mantenimiento entre 10-30 UI/Kg/h, ajustando para objetivos en sangre postfiltro de 1,5-2 veces los valores normales de tiempo de tromboplastina parcial activado. Otras opciones son dosificar por tiempo de activación de la coagulación entre 180-220 segundos, o niveles terapéuticos (0,3-0,7 mU/ml) de anti-factor Xa.
+  - Infusión continua de una solución de citrato antes del filtro. Este actúa induciendo hipocalcemia en el rango objetivo (Ca^2+^ 0,2-0,5 mmol/L) para así inactivar la cascada de la coagulación. Posteriormente se revierte a normocalcemia administrando una solución de calcio en el punto de retorno (Fig.1). Se evitan efectos sistémicos de la heparina, pero existe riesgo de acumulación tóxica de citrato. Existe poca experiencia con pacientes de peso menor de 5 Kg.
+3. Programar dosificación. No existe evidencia en el recién nacido para determinar la correcta, por lo que generalmente se extrapola del adulto. Se deben fijar en el monitor:
+  - Flujo de sangre. Inicio 3-5 ml/Kg/min para incrementar hasta 8-12 ml/Kg/min si lo permite el acceso venoso. A mayor flujo más eficiencia en el ultrafiltrado y aclaramiento de solutos, y menor riesgo de coagulación del filtro.
+  - Flujo de extracción o efluente. Según el balance negativo horario deseado. No superar la fracción de filtración del 20% (Riesgo de coagulación del filtro).
+  - Flujo del líquido de reposición. Generalmente entre 20-40 ml/Kg/h. Se puede realizar tanto prefiltro como postfiltro. La composición estándar del líquido se adaptará en función del nivel de potasio plasmático deseado (Tabla 2)|
+  - Flujo de líquido de diálisis. Se utiliza el mismo que para la reposición. El flujo estándar: 2-4L/1,73 m^2^/hora (75-150 ml/Kg/hora). En hiperamoniemia grave se recomienda incluso llegar a 1000 ml/hora.
+  - Si anticoagulación con citrato fijar dosis (1,5-3 mmol/L de flujo de sangre, según Ca^2+^ postfiltro 0,25-0,5 mmol/L) y compensación del calcio (100%).
+
+### Complicaciones
+
+- Del acceso vascular: sangrado, trombosis, embolia gaseosa, infección, mal funcionamiento.
+- Del circuito: coagulación o rotura del filtro, desconexión, entrada de aire.
+- Efectos sistémicos de la heparina: sangrados en órganos internos, trombocitopenia.
+- Del citrato: alcalosis y acidosis metabólica, hipocalcemia, hipomagnesemia, hipernatremia.
+- Hipotensión arterial|
+- Hipotermia
+@p 659
+### Controles
+
+- Monitorización de presiones del circuito como de entrada y retorno, transmembrana y del efluente. Todas informan acerca de su funcionamiento y anticipan posibles problemas.
+- Flujos (sangre, reposición, diálisis, efluente) y balance neto de extracción de líquidos.
+- Monitorización estrecha de la anticoagulación con heparina o citrato.
+- Controles seriados de urea, creatinina, electrolitos y hemograma.
+@caja
+**SE RECOMIENDA**
+- Ante una indicación urgente, priorizar el inicio inmediato de la técnica sobre la modalidad.
+- En los errores metabólicos (Ej.: hiperamoniemia o hiperleucinemia) la técnica de primera elección es la hemodiafiltración a dosis altas.
+- Para el éxito de la hemodiafiltración son claves acceso vascular y anticoagulación correctos.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No recomendable superar fracción de filtración del 20% (Riesgo de coagulación del filtro).
+@fin
+@bib
+1. Spector BL, Misurac JM. Renal Replacement Therapy in Neonates. Neoreviews. 2019;20:e697-e710.
+2. Nourse P, Cullis B, Finkelstein F, et al. ISPD guidelines for peritoneal dialysis in acute kidney injury: 2020 Update (paediatrics). Perit Dial Int. 2021;41(2):139-157.
+3. Kaddourah A, Goldstein SL. Renal replacement therapy in neonates. Clin Perinatol. 2014;41(3):517-527.
+4. Raina R, Bedoyan JK, Lichter-Konecki U, et al. Consensus guidelines for management of hyperammonaemia in paediatric patients receiving continuous kidney replacement therapy. Nat Rev Nephrol. 2020;16(8):471-482.
