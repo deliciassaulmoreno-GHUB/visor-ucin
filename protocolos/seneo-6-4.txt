@@ -1,0 +1,106 @@
+@f 14. Protocolos SENEO/6.4. Administración de surfactante por técnica mínimamente invasiva
+@p 603
+# 6.4 ADMINISTRACIÓN DE SURFACTANTE POR TÉCNICA MÍNIMAMENTE INVASIVA
+
+*Manuel Sánchez Luna, Noelia González Pacheco, Cristina Ramos Navarro*
+
+*Hospital General Universitario Gregorio Marañón, Madrid. Universidad Complutense de Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 589-593 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+- La insuficiencia respiratoria de la prematuridad incluye múltiples factores etiológicos en su génesis, siendo el defecto de la producción de surfactante, o la presencia de un surfactante inmaduro uno de los factores más importantes.
+- El uso generalizado precoz del surfactante pulmonar exógeno modificó definitivamente estos cuadros, consiguiendo descender drásticamente la mortalidad del prematuro, fundamentalmente por la reducción de la fuga aérea y el mantenimiento del volumen residual funcional, reduciéndose la necesidad y la duración de la ventilación mecánica invasiva. Esta entidad dejó de llamarse Enfermedad de Membrana Hialina, término abandonado ya desde finales del siglo pasado.
+- Actualmente se define como la insuficiencia respiratoria de la prematuridad, y el defecto de surfactante ha dejado de ser uno de los factores más importantes al poder administrarse muy precozmente.
+- Sin embargo, la técnica con la que se administra el surfactante en la vía aérea sigue siendo un reto. Tradicionalmente era necesaria la intubación endotraqueal para la administración de surfactante, lo que condiciona daño asociado a la ventilación mecánica y en muchos casos, la necesidad de mantener al paciente conectado al respirador.
+- A finales de los años 90 se intentó reducir la necesidad de intubación y ventilación mecánica sólo para la administración de surfactante, mediante la técnica de Intubación-Administración de Surfactante y Extubación inmediata (INSURE). Los resultados de esta técnica fueron positivos y rápidamente se generalizó. Sin embargo, sigue siendo necesaria la intubación endotraqueal, la aplicación de presión positiva a través del respirador y en muchos casos no es posible la extubación inmediata, por lo que se mantiene el riesgo de daño pulmonar asociado al respirador.
+- Tras el estudio alemán aleatorizado en 2011, se demostró cómo es posible la administración del surfactante pulmonar exógeno sin tener que intubar a los pacientes, a través de una sonda o un catéter finos, directamente o con la ayuda
+@p 604
+de unas pinzas, bajo la glotis y estando el paciente en respiración espontánea con presión positiva no invasiva.
+
+- Estas técnicas se conocen por sus siglas en inglés como LISA (Less Invasive Surfactant Administration) o MIST (Minimal Invasive Surfactant Therapy).
+- Los detractores de estos procedimientos argumentan que LISA o MIST todavía requieren cateterismo traqueal, por lo que sigue siendo una técnica traumática, y que la ventilación con presión positiva no es posible a través de un catéter delgado. Pero este es precisamente uno de los objetivos, evitar la presión positiva a través de tubos endotraqueales.
+- Estas técnicas menos invasivas se han generalizado y son usadas desde hace años por la mayoría de las unidades neonatales en nuestro medio, y actualmente se recomiendan como alternativas seguras a las formas clásicas de administración de surfactante en guías europeas y canadienses, siendo aún menos populares en unidades norteamericanas.
+- En resumen; como la lesión pulmonar asociada a la ventilación es un factor fundamental asociado a displasia broncopulmonar (DBP), se espera que las técnicas de administración de surfactante menos invasivas puedan conducir a una reducción en su incidencia, al disminuir la necesidad de ventilación invasiva en prematuros con insuficiencia respiratoria.
+
+## 2 Objetivos de las técnicas LISA
+
+- Evitar la intubación endotraqueal.
+- Mantener el esfuerzo respiratorio propio del paciente mientras se administra surfactante pulmonar.
+- Favorecer la distribución del surfactante mediante la respiración espontánea sin presión positiva intermitente.
+- Reducir la necesidad de ventilación invasiva en los primeros días tras el nacimiento, momento de mayor riesgo para el daño inducido por el respirador.
+- Mantener el efecto beneficioso demostrado por la administración de surfactante pulmonar exógeno de forma tradicional.
+- Reducir el riesgo de desarrollo de enfermedad respiratoria crónica de la prematuridad (DBP).
+
+## 3 Cómo se realiza la técnica
+
+- La mayor parte de la evidencia que apoya estas técnicas proviene de estudios de LISA (Administración de Surfactante Menos Invasivo) o MIST (Administración de Surfactante Mínimamente Invasiva).
+- En resumen, se inserta un catéter delgado (figura 1) o una sonda fina más allá de las cuerdas vocales (figura 2), mientras el paciente respira espontáneamente
+@p 605
+asistido por soporte respiratorio no invasivo, la mayoría de las veces con CPAP nasal o ventilación nasal no invasiva (NIPPV).
+! El texto cita las figuras 1 y 2, pero en el PDF este capítulo no incluye ninguna figura.
+
+## 4 Evidencia científica
+
+- En metaanálisis de ensayos aleatorizados, las técnicas LISA presentan beneficios significativos frente a la administración clásica de surfactante mediante intubación y ventilación mecánica:
+  - Reducción del riesgo de neumotórax
+  - Necesidad de ventilación mecánica invasiva en las primeras 72 horas
+  - Y frente a las técnicas INSURE:
+  - Reducción del efecto combinado muerte o DBP
+  - Necesidad de ventilación mecánica invasiva en las primeras 72 horas
+- Metaanálisis recientes que incluyen no sólo ensayos aleatorizados sino estudios procedentes del mundo real, demuestran que las técnicas menos invasivas presentan claras ventajas frente a las técnicas INSURE:
+  - Reducción del riesgo de:
+    - Mortalidad
+    - Displasia Broncopulmonar
+    - Ventilación mecánica
+- En general estas técnicas tienes más riesgo de fracasar en los recién nacidos más inmaduros, esto es, con edades gestacionales < 26 semanas, ya que en estos casos el defecto de surfactante pulmonar no es el factor fundamental de la insuficiencia respiratoria, y sí lo es la gran inmadurez de los pacientes.
+- Por lo tanto, la mayoría de los beneficios, como la supervivencia sin complicaciones mayores, se observan en bebés prematuros de más de 26 semanas de gestación, ya que los neonatos muy inmaduros por debajo de esa edad gestacional suelen acabar necesitando ventilación invasiva.
+
+## 5 Cuando están indicadas
+
+- Las indicaciones de administración de surfactante mediante técnicas menos invasivas son las mismas que las indicaciones generales de administración de surfactante, salvo necesidad de intubación al nacimiento; en esos casos el surfactante se administra de forma tradicional a través del tubo endotraqueal de forma lo más precoz posible.
+- Existe suficiente evidencia que demuestra como la administración de surfactante precoz de rescate, en las primeras 2 horas tras el nacimiento, es más eficaz si se administra tras la estabilización pulmonar mediante la aplicación de presión
+@p 606
+positiva en la vía aérea.
+
+- En insuficiencia respiratoria de la prematuridad:
+  - Tras estabilización respiratoria con ventilación no invasiva desde el nacimiento, lo más precoz posible, cuando se cumplan los criterios habituales de administración de surfactante: necesidad de FiO2 > 30% con adecuada aplicación de presión positiva en la vía aérea no invasiva de 6 cm H2O.
+  - Insuficiencia respiratoria con criterios ecográficos pulmonares de atelectasia o falta de aireación pulmonar. El uso de la ecografía pulmonar es cada vez más popular ya que define bien la necesidad de surfactante incluso antes que las altas necesidades de FiO2, con la ventaja de ser un procedimiento no invasivo que se puede realizar al lado de la cama sin eventos adversos.
+
+## 6 Qué surfactante usar y qué dosis emplear
+
+- Existen datos en la literatura que demuestran que no hay diferencias en la respuesta a los surfactantes naturales de uso actual en el tratamiento de la insuficiencia respiratoria de la prematuridad cuando se administran por técnicas tradicionales, INSURE o menos invasivas.
+- Poractant alfa 200 mg/kg ó Beractant 100 mg/kg han demostrado eficacia y seguridad administrados por técnicas menos invasivas.
+- Se puede emplear una segunda dosis según criterios habituales sin necesidad de intubación si el paciente mantiene los mismos criterios de administración de surfactante, por las misma técnica.
+
+## 7 Seguridad de estas técnicas
+
+- No hay estudios que demuestren diferencias de superioridad por el empleo de diferentes cánulas, catéteres o el empleo de pinzas de ayuda.
+- En un gran estudio observacional se describió perforación intestinal focal en los pacientes más inmaduros (< 26 semanas de gestación) sometidos a LISA; sin embargo, esta complicación no se relacionó claramente con la técnica de administración menos invasiva, sino con la inmadurez.
+- Existen dudas sobre si debe de emplearse analgesia farmacológica para la técnica. Algunos estudios no han demostrado efectos adversos de la aplicación de fármacos analgésicos; sin embargo, en otros estudios sí se ha demostrado una mayor necesidad de intubación y ventilación mecánica invasiva con la administración de analgesia-sedación farmacológica.
+- Siempre debe de hacerse bajo vigilancia y monitorización cardiorrespiratoria y con contención.
+- Por estudios de seguimiento en los que se han administrado Poractant y Beractant, no se han demostrado diferencias en la evolución con respecto a otras
+@p 607
+formas clásicas de administración de surfactante.
+@caja
+**SE RECOMIENDA**
+- Las técnicas LISA-MIST han demostrado eficacia y seguridad frente a la administración de surfactante mediante intubación y ventilación mecánica y frente a INSURE.
+- El efecto fundamental es la reducción de la intubación y el uso de ventilación invasiva en los primeros días tras el nacimiento.
+- Siguen precisando de la laringoscopia por lo que mantienen invasividad.
+- Es importante vigilar los signos vitales de los pacientes durante su realización.
+- Deben de ser realizadas por personal adiestrado en intubación y reanimación neonatal.
+- Es posible que en un futuro próximo sean reemplazadas por técnicas no invasivas de administración de surfactante como es la aerosolización de surfactante.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- La intubación electiva para administración de surfactante.
+- La administración profiláctica de surfactante ni su administración tardía.
+- La administración de surfactante sin optimización pulmonar previa mediante el uso de ventilación no invasiva.
+@fin
+@bib
+1. Göpel W, Kribs A, Ziegler A, et al. Avoidance of mechanical ventilation by surfactant treatment of spontaneously breathing preterm infants (AMV): an open-label, randomised, controlled trial. Lancet. 2011;378:1627-34.
+2. Sweet DG, Carnielli V, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome - 2019 Update. Neonatology. 2019;115:432-50.
+3. Bellos I, Fitrou G, Panza R, Pandita A. Comparative efficacy of methods for surfactant administration: a network meta-analysis. Arch Dis Child Fetal Neonatal Ed.2021;106:474-87.
+4. Sánchez Luna M, Bacher P, Unnebrink K, et al. Beractant and poractant alfa in premature neonates with respiratory distress syndrome: a systematic review of real-world evidence studies and randomized controlled trials. J Perinatol. 2020; 40:1121-34.
+5. Ramos-Navarro C, Sánchez-Luna M, Zeballos-Sarrato S, González-Pacheco N. Less invasive beractant administration in preterm infants: a pilot study. Clinics (Sao Paulo). 2016;71:128-34.
+6. Márquez Isidro E, Sánchez Luna M, Ramos-Navarro C. Long-term outcomes of preterm infants treated with less invasive surfactant technique (LISA). J Matern Fetal Neonatal Med. 2021;34:1919-24.

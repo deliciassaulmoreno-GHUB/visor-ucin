@@ -1,0 +1,67 @@
+@f 14. Protocolos SENEO/6.6. Ecografía cerebral
+@p 613
+# 6.6 ECOGRAFÍA CEREBRAL
+
+*Isabel Benavente Fernández^1,2,3^, Simón Lubián López^1,3^*
+
+*^1^Hospital Universitario Puerta del Mar, Cádiz; ^2^Facultad de Medicina, Universidad de Cádiz; ^3^Instituto de Investigación e Innovación Biomédica de Cádiz (INiBICA)*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 599-602 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La ecografía cerebral es una técnica diagnóstica ampliamente utilizada en las Unidades Neonatales que permite valorar aspectos como la maduración cerebral, la presencia de lesiones y/o malformaciones cerebrales y la evolución temporal de las posibles lesiones.
+
+Las modernas técnicas ultrasonográficas ofrecen una alta resolución espacial y temporal, y una buena diferenciación tisular. Además, la ecografía doppler color posibilita la valoración da la vascularización cerebral y la tridimensional ofrece la posibilidad de realizar estudios volumétricos, imágenes tomográficas similares a las obtenidas con tomografía computarizada (TC) o resonancia magnética (RM), y de obtener cortes, hasta ahora inaccesibles con la neurosonografía neonatal convencional, como la reconstrucción axial o vistas de la superficie cortical.
+
+## 2 Técnica y realización de la prueba
+
+Para la realización de la ecografía transfontanelar utilizaremos idealmente sonda microconvexa multifrecuencia (5-10 MHz). Las frecuencias más bajas nos permiten una penetración más profunda mientras que frecuencias más altas tienen mayor resolución, pero menor capacidad de penetración a estructuras profundas. En el recién nacido prematuro la mayoría de las imágenes se pueden obtener con frecuencias de 7,5 MHZ.
+
+La ventana ecográfica más utilizada cuando realizamos una ecografía 2D es la fontanela anterior. Pondremos el transductor en dicha fontanela con el paciente en decúbito supino y la cabeza rotada hacia el lado derecho. Para la obtención de planos coronales el tutor del transductor lo orientaremos hacia el lado derecho, lo que supone que en las imágenes que obtendremos en pantalla, tendremos en el lado derecho el hemisferio izquierdo del paciente y viceversa. Para la obtención del plano sagital pondremos el transductor con el tutor alineado con la nariz del paciente y posteriormente, buscaremos un plano oblicuo lateralizando el haz de ultrasonidos, de esa manera obtendremos los cortes parasagitales.
+
+La ecografía debe realizarse de manera sistemática con un barrido coronal, del que se realizarán al menos 6 cortes estándar, pasando a línea sagital media y dos planos parasagitales de cada hemisferio (véase Figura 1), y terminar con otras ventanas (mastoidea, temporal o fontanela posterior).
+@p 614
+@img seneo-6-6-fig1.png
+*Figura 1. Cortes coronales y sagitales en ecografía estándar.*
+
+En la realización de la ecografía cerebral debemos tener en cuenta los siguientes aspectos:
+- Asegurarnos del plano que queremos obtener: debemos ser capaces de **identificar los marcadores anatómicos** que definen cada plano.
+- Comprobar la **idoneidad de la imagen** obtenida:
+  - en los cortes coronales: imagen centrada (la cisura interhemisférica vertical y central en la imagen) y simétrica (disposición de la cisura de Silvio similar en ambos hemisferios).
+  - el corte sagital medio se considerará adecuado cuando incluya en el mismo plano el cuerpo calloso y el vermis completo.
+- Comprobar que la imagen tenga una **compensación de ganancia adecuada.** Para compensar la atenuación del ultrasonido al pasar a través de los tejidos, multiplicamos la amplitud de los ecos de manera exponencial en función del tiempo, esa es la denominada compensación de ganancia temporal. Ésta nos permite obtener para tejidos de similares características una apariencia similar a pesar de la distinta profundidad.
+- **Calidad y resolución:** en la calidad de la imagen ecográfica intervienen muchos factores que dependen de la técnica y del operador. Éste último juega un papel muy importante en la adecuada elección del mejor transductor, en determinar la mejor sensibilidad y ganancia, y en un adecuado uso del gel. El ajuste de la visión en pantalla también puede optimizar el estudio de la región de interés. En cuanto a la resolución debemos distinguir la resolución espacial (axial y lateral), el contraste, y la resolución temporal cuyo desarrollo excede los objetivos de este capítulo.
+@p 615
+## 3 Ecografía doppler cerebral
+
+Las fontanelas en el recién nacido son ventanas acústicas excelentes para la medición de las velocidades de flujo sanguíneo en muchas arterias y venas intracraneales.
+
+Tres arterias son responsables de la perfusión cerebral: ambas carótidas internas y la arteria basilar conectadas a través del polígono de Willis. Las principales ramas de las carótidas internas son las arterias cerebrales medias (ACM) y anteriores (ACA). Estas arterias se pueden visualizar mediante doppler-color. En el plano sagital medio se obtiene una visión excelente de la ACA, y es en su trayecto ascendente hacia la rodilla del cuerpo calloso, justo delante del tercer ventrículo, donde nos ofrece un plano óptimo de insonación. En esta posición, el ángulo de incidencia es muy bajo (0-20°) lo que permite prescindir de correcciones posteriores.
+
+Podemos realizar distintas medidas de velocidad de flujo sanguíneo a través del análisis espectral: velocidad pico sistólica (PS), velocidad al final de la diástole (VFD), velocidades medias y el índice de resistencia (IR) o índice de Pourcelot. Éste último, al ser un cociente, puede dar lugar a un mismo valor para distintos cambios en el numerador (PS-VFD) у denominador (PS) (véase Figura 2); de ahí la importancia, cuando realicemos un estudio de este tipo, de analizar velocidades de flujo además de calcular el IR.
+@img seneo-6-6-fig2.png
+*Figura 2. Velocidades de flujo e índice de resistencia (IR) en arteria cerebral anterior*
+
+Los aspectos técnicos de los distintos tipos de ecografía doppler se pueden revisar en las referencias dadas ya que su descripción supera los objetivos de este capítulo.
+@p 616
+## 4 Resumen
+
+La neurosonografía es una técnica eficiente, no invasiva, y muy accesible al realizarse a pie de cuna sin emplear radiaciones ionizantes. Su utilidad incluye el despistaje de patologías neurológicas prevalentes en el neonato prematuro como la hemorragia, o en el término como la asfixia, el infarto o las malformaciones cerebrales. Las imágenes que obtenemos dependen de la angulación del transductor situado en las distintas fontanelas (anterior, mastoidea, temporal, posterior). Desde la fontanela anterior se consiguen los cortes coronales y sagitales-parasagitales estándar.
+
+Mediante ecografía doppler podemos realizar medidas de la velocidad de flujo sanguíneo a través del análisis espectral y obtener parámetros de ayuda diagnóstica y con valor pronóstico.
+@caja
+**SE RECOMIENDA**
+- Debemos familiarizarnos con el ecógrafo y con los conceptos ecográficos que permitan optimizar la configuración del mismo y la obtención de imágenes de calidad.
+- La ecografía se debe realizar de manera sistemática incluyendo al menos los considerados planos estándar: 6 cortes coronales, línea sagital media y dos planos parasagitales de cada hemisferio.
+- Es muy importante etiquetar el lado en los cortes parasagitales.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No recomendamos realizar una ecografía cerebral incompleta o con una configuración inadecuada del ecógrafo.
+- Debemos ser cautos en la interpretación de la ecografía y en la información dada a las familias cuando sea realizada por personal no experto.
+@fin
+@bib
+1. Govaert P. Sonographic stroke templates. Semin Fetal Neonatal Med 2009;14:284-98.
+2. Meijler G, Steggerda SJ. Neonatal Cranial Ultrasonography. 3ª Ed Springer Nature Switzerland AG 2019.
+3. Couture A, Veyrac C. Transfontanellar Doppler Imaging in Neonates. 1º Edición. Berlin: Springer-Verlag Berlin and Heidelberg GmbH & Co. KG;2012
+4. Govaert P, de Vries LS. An Atlas of Neonatal Brain Sonography, 2nd Edition Clinics in Developmental Medicine No. 182-183. London: Mac Keith Press, 2010

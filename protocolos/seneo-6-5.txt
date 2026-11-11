@@ -1,0 +1,125 @@
+@f 14. Protocolos SENEO/6.5. Punción lumbar, punción vesical
+@p 608
+# 6.5 PUNCIÓN LUMBAR, PUNCIÓN VESICAL
+
+*Mª Purificación Ventura Faci, Olga Bueno Lozano, Sofía Valle Guillén*
+
+*Hospital Clínico Universitario Lozano Blesa, Zaragoza*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 594-598 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Punción lumbar
+
+### Definición
+
+La punción lumbar (PL) es una técnica invasiva en la que utilizando una aguja se accede al espacio subaracnoideo espinal para extraer una muestra de líquido cefalorraquídeo (LCR).
+
+### Indicaciones
+
+1. Diagnósticas: infección del sistema nervioso central, enfermedades neurometabólicas, hemorragia subaracnoidea, neoplasias.
+2. Drenaje de líquido cefalorraquídeo en la hidrocefalia comunicante.
+3. Administración de sustancias diagnósticas y/o terapéuticas.
+
+### Contraindicaciones
+
+- Inestabilidad cardiorrespiratoria o hemodinámica.
+- Hipertensión endocraneal.
+- Diátesis hemorrágica.
+- Malformaciones o infecciones cutáneas/subcutáneas en la región lumbosacra.
+
+### Material
+
+Equipo estéril, aguja de punción lumbar calibre 20G-22G de 2,5-4 cm, tubos estériles para recoger muestras (mínimo 2), solución antiséptica (clorhexidina al 2 o 4 %), anestésico tópico (crema de lidocaína al 2,5% asociada a prilocaína al 2,5%.), analgesia no farmacológica (sacarosa, leche materna)
+
+### Técnica (Figura 1)
+
+- Se aplica en la zona de la punción la pomada anestésica, recomendándose 60 minutos antes del procedimiento. Se preparan los materiales: paño, mascarilla, bata y guantes estériles.
+- Un ayudante debe sujetar firmemente al recién nacido, sobre un paño estéril, en posición de decúbito lateral o sedestación: en decúbito lateral, la cabeza y los miembros inferiores deben estar flexionados; en sedestación, la cabeza flexionada y los miembros inferiores extendidos.
+@p 609
+- Se procede a la retirada de la crema anestésica tópica. Se desinfecta la zona donde va a tener lugar la punción (clorhexidina) con movimientos circulares concéntricos desde la columna hasta llegar a ambas cretas iliacas.
+- Se verifican las referencias anatómicas; se localiza la línea que une las dos crestas ilíacas (L3/L4/L5); el punto de punción es el espacio intervertebral que queda inmediatamente por debajo o por encima de esta línea.
+- Localizado dicho punto, se introduce la aguja perpendicular a la piel con una inclinación aproximada de 10□ en dirección al ombligo. Si la PL se realiza con el paciente tumbado, el bisel se introducirá mirando hacia arriba (hacia el techo de la sala) y si se realiza en sedestación, hacia la izquierda o derecha 90° (Figura 1).
+- Se avanza lentamente hasta notar disminución de la resistencia, ya que en el recién nacido no siempre se nota el "pop"; en ese momento se retira el fiador y se comprueba la salida de LCR, si no sale se introduce de nuevo el fiador y se avanza un poco, repitiendo la misma operación. Se recoge 0,5-1mL en cada uno de los tubos estériles.
+- El primer tubo será para estudio de PCR virus/bacterias, el segundo para citología y bioquímica y el tercero para microbiología (cultivo). Es importante la identificación de los tubos con el orden correspondiente de recogida.
+- Se debe reinsertar el fiador siempre antes de retirar la aguja. Una vez retirada se colocará una gasa estéril haciendo una leve presión sobre el sitio de punción.
+- En caso de obtener muestra sanguinolenta:
+  - Si la hemorragia se aclara: punción lumbar traumática; desechar el primer tubo.
+  - Si se forman coágulos: se ha puncionado un vaso; no se obtiene LCR.
+  - Si la sangre no se aclara ni tampoco se coagula, es probable que exista una hemorragia intraventricular.
+@img seneo-6-5-fig1.png
+*Figura 1. Técnica de sujeción y lugar de inserción de la aguja para punción lumbar en recién nacidos*
+! En el PDF el ángulo de inclinación aparece como «10□», con un símbolo ilegible; probablemente sean grados (10º).
+
+### Complicaciones
+
+Infección del LCR, abscesos del espacio epidural u osteomielitis vertebrales. Tumor epidermoide intraespinal secundario al uso de agujas sin fiador. Herniación de tejido cerebral a través del agujero ciego. Lesión de la médula espinal y nerviosa. Compromiso
+@p 610
+cardio-respiratoria debido a la posición.
+
+## 2 Punción vesical
+
+### Definición
+
+La punción vesical o suprapúbica consiste en la introducción de una aguja estéril en la vejiga urinaria a través de la pared abdominal, con el objeto de obtener una muestra de orina mediante la aspiración con jeringa, para su análisis.
+
+### Indicaciones
+
+1. Cuando se considera importante confirmar una infección de orina.
+2. Resultados de urinocultivos previos equívocos.
+
+### Contraindicaciones
+
+- Vejiga vacía (micción reciente, deshidratación).
+- Infección de tejidos blandos subyacentes.
+- Dilatación o visceromegalias abdominales.
+- Diátesis hemorrágica.
+- Anomalías urogenitales o gastrointestinales
+
+### Material
+
+Equipo estéril, aguja de 23G (25G para prematuros), jeringa de 2,5 ml, solución antiséptica de clorhexidina al 2-4%, anestésico tópico (crema anestésica), analgesia no farmacológica. (sacarosa, leche materna), ecógrafo.
+
+### Técnica (Figura 2)
+
+Comprobar que la vejiga esté llena mediante palpación o percusión de la vejiga; o, si existe disponibilidad, mediante ecografía. Aplicar crema anestésica en la zona de punción, 1-2 cm por encima de la sínfisis del pubis, en línea media. Retirar la crema anestésica tras el tiempo determinado. Desinfectar la zona donde se va a realizar la punción con clorhexidina, desde la sínfisis del pubis hasta 4-5 cm por encima, en la línea media.
+
+- Administrar anestesia no farmacológica: sacarosa oral, leche materna.
+- Colocar al niño en decúbito supino, con las rodillas flexionadas y caderas en abducción, e inmovilizado (Figura 2).
+- Localizar el punto de punción: línea media, 1-2 cm por encima de la sínfisis del pubis. Introducir la aguja perpendicular a la piel y ligeramente caudal (10-20°). Avanzar lentamente mientras se aspira suavemente. La orina aparecerá en la jeringuilla cuando se penetre la cavidad vesical (profundidad de 1,5 a 3 cm). Solo son necesarios unos 0,5 cc para urinocultivo; otros análisis requerirán más volumen.
+- Extraer la aguja con la jeringuilla, cambiar la aguja para trasferir la orina el tubo
+@p 611
+estéril y enviar la muestra al laboratorio.
+
+- Limpiar con clorhexidina la piel y aplicar un apósito.
+@img seneo-6-5-fig2.png
+*Figura 2. Técnica de sujeción y lugar de inserción de la aguja para punción vesical en recién nacidos*
+
+### Complicaciones
+
+La punción vesical es un método habitualmente seguro y las complicaciones raras. Las complicaciones incluyen hematuria microscópica y hematomas. Las posibles complicaciones graves de este procedimiento incluyen hematuria macroscópica, perforación de la pared intestinal, celulitis, hemoperitoneo y sangrado. La lesión del intestino con este procedimiento generalmente no es clínicamente significativa. SE RECOMIENDA
+
+*Punción lumbar*
+
+- Previa a la realización de la PL hay que solicitar consentimiento informado.
+- Asegurar que tenga la vía aérea permeable y monitorizar al recién nacido durante el procedimiento.
+- Recordar realizar glucemia previamente a la realización de la punción lumbar.
+
+*Punción vesical*
+
+- Esperar al menos unos 30 minutos tras la última micción.
+- El uso de ultrasonido aumenta las posibilidades de éxito al 80-90%.
+- Es aconsejable, desde que esté todo preparado para iniciar el procedimiento, ocluir con un dedo el meato uretral en las niñas o aplicarle presión sobre la uretra de los niños, para evitar la micción espontánea.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Aspirar líquido cefalorraquídeo.
+@fin
+@bib
+1. Bedetti L, Lugli L, Marrozzini L, et al. Safety and Success of Lumbar Puncture in Young Infants: A Prospective Observational Study. Front Pediatr. 2021; 9:692652.
+2. Öncel S. Lumbar Puncture of the Newborn. En: Cismaru G, editor. Bedside Procedures
+@p 612
+[Internet]. London: IntechOpen; 2018 [cited 2022 Jul 17]. Disponible en: https://www.intechopen.com/chapters/56878 doi:10.5772/intechopen.70498
+
+3. The Royal Children's Hospital Melbourne. Clinical Practice Guidelines. Suprapubic aspirate, 2019. Disponible en:
+4. https://www.rch.org.au/clinicalguide/guideline_index/Suprapubic_aspirate/
+5. Benito Ruiz E. Punción suprapúbica. En: Garrido García E, Guerrero Márquez G. Procedimientos de Enfermería en Urgencias de Pediatría. Sociedad Española de Urgencias de Pediatría (SEUP). 1ª Edición. Madrid: Ergon; 2022. p. 58-63.
+6. Kaufman J. How to... Collect urine samples from young children. Arch Dis Child Educ Pract Ed. 2020;105:164-71.
