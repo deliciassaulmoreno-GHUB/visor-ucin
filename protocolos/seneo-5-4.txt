@@ -1,0 +1,74 @@
+@f 14. Protocolos SENEO/5.4. Introducción de la alimentación complementaria
+@p 543
+# 5.4 INTRODUCCIÓN DE LA ALIMENTACIÓN COMPLEMENTARIA
+
+*Laura Escartín Madurga, Gerardo Rodríguez Martínez*
+
+*Hospital Clínico Universitario Lozano Blesa, Zaragoza. Universidad de Zaragoza*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 529-533 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+La alimentación complementaria (AC) se refiere al proceso que comienza cuando la leche materna sola no es suficiente para cubrir las necesidades nutricionales del lactante y, por tanto, se precisa de la incorporación de otros alimentos para conseguirlo. Durante este periodo de gran crecimiento y desarrollo, los lactantes pueden presentar deficiencias o excesos de determinados nutrientes. Además, es la etapa de exposición a numerosos alimentos, sabores y texturas, así como del establecimiento de preferencias alimentarias, adquisición de autonomía y de interacción con la familia y el medio. La AC ofrece una buena oportunidad para adquirir una dieta variada y saludable, con repercusión en la salud a largo plazo.
+
+## 1 Tiempos de introducción de la alimentación complementaria
+
+Entre los 4 y los 6 meses el lactante tiene madurez renal y gastrointestinal suficiente, así como las destrezas motoras necesarias para iniciar la AC con seguridad. El momento idóneo de introducción de la AC sigue siendo objeto de discusión, pero las recomendaciones actuales de la ESPGHAN para lactantes sanos en Europa debe ser:
+- Promover la lactancia materna exclusiva o completa durante al menos 4 meses y la lactancia materna exclusiva o predominante, durante aproximadamente 6 meses.
+- La AC no se debe introducir antes de los 4 meses ni se debe demorar más allá de los 6 meses.
+- Se recomienda continuar con la lactancia materna durante este periodo. La lactancia materna prolongada se ha relacionado con menor riesgo de infecciones gastrointestinales y respiratorias y con menores tasas de ingreso por estas.
+
+## 2 Contenido de nutrientes y alimentos
+
+- La lactancia materna exclusiva cubre los requerimientos nutricionales hasta los 6 meses, si bien algunos lactantes pueden precisar mayores aportes energéticos o de micronutrientes como el hierro a partir de los 4 meses. Además de la introducción de la AC, el pinzamiento tardío del cordón umbilical o la suplementación con hierro en niños de riesgo, como los recién nacidos prematuros, reduce el riesgo
+@p 544
+de ferropenia. Los requerimientos de hierro durante la AC son elevados, por lo que es importante conseguir un adecuado aporte a expensas de carne o alimentos suplementados.
+
+- No existe evidencia científica suficiente para recomendar un orden o 'calendario' de introducción de alimentos que sea beneficioso respecto a otro. Existen muchas variantes a nivel mundial según el área geográfica y la disponibilidad de alimentos.
+- No se ha demostrado que la introducción de la AC entre los 4 y los 6 meses influya en el patrón de crecimiento o en el riesgo de exceso de peso; sin embargo, su introducción antes de los 4 meses si está relacionada con aumento de adiposidad en etapas posteriores.
+- El contenido proteico elevado durante la AC también se ha relacionado con mayor riesgo de sobrepeso y obesidad, especialmente en sujetos predispuestos, por lo que no debe exceder el 15% del aporte energético total.
+- Existe mayor riesgo de desarrollar alergias alimentarias si la AC se introduce antes de los 3-4 meses; sin embargo, no se ha demostrado que demorarla más allá de los 4 meses disminuya el riesgo de alergia, ni en la población general ni en los niños con historia familiar de atopia. No se aconseja demorar la introducción de alimentos potencialmente más alergénicos (pescados, huevo, frutos secos, etc.) y, de hecho, en países con alto consumo de cacahuete se recomienda que en los lactantes de alto riesgo éste se introduzca entre los 4 y los 11 meses. También existe cierta evidencia de que la introducción temprana del huevo (4-6 meses) asocia menor riesgo de alergia.
+- El gluten se debe introducir entre los 4 y los 12 meses, evitando una ingesta excesiva en los primeros meses, aunque no se ha establecido cual es la cantidad adecuada. La edad de introducción del gluten dentro de este rango no parece influir en el riesgo de desarrollar enfermedad celiaca durante la infancia. Tampoco se ha demostrado que la lactancia materna y mantener ésta durante la introducción del gluten tenga un efecto protector en el riesgo de celiaquía.
+- La leche de vaca proporciona un elevado contenido de energía, proteínas y grasa y bajos aportes de hierro, por lo que no debe usarse como bebida principal antes de los 12 meses, aunque sí se puede ingerir en pequeñas cantidades añadida en la AC. La dieta vegana adecuadamente suplementada puede conseguir un crecimiento y desarrollo normal, aunque precisa de una supervisión nutricional estrecha y regular asegurando que se recibe aporte suficiente de vitamina B12, vitamina D, hierro, zinc, folatos, n-3 LCPUFA, proteínas, calcio y una adecuada densidad calórica. Lo padres deben conocer las consecuencias de no hacerlo correctamente.
+- No existen datos suficientes para hacer recomendaciones sobre la composición de la AC en relación con resultados del desarrollo cognitivo o a nivel cardiovascular.
+
+## 3 Método de introducción de la alimentación complementaria
+
+- El método de introducción de la AC ha evolucionado y ya no se siguen esquemas
+@p 545
+tan rígidos como en décadas anteriores.
+
+- Se deben considerar los aspectos sociales y culturales de la familia, asegurando siempre una dieta variada que incluya alimentos con distintas texturas y sabores.
+- La introducción de la AC es un momento de gran importancia en el que se establecen las preferencias alimentarias que nos acompañarán en etapas posteriores y que puede condicionar hábitos alimentarios erróneos con repercusión en la salud a largo plazo (obesidad, enfermedades no transmisibles).
+- Existe una atracción innata por los sabores dulces y salados, así como por los alimentos con mayor densidad calórica y una tendencia a evitar los sabores amargos. Esta predisposición biológica pude modificarse por experiencias tempranas incluso ya en el periodo gestacional y la lactancia materna (una dieta materna con alto consumo de verduras facilitará que el niño las acepte posteriormente) y será esencial ofrecer de manera reiterada alimentos variados, incluyendo sabores ácidos como las frutas o amargos como las verduras de hoja verde, además de no añadir sal y azúcares para favorecer su aceptación y asegurar un mayor consumo a lo largo de la vida. La exposición precoz a diferentes sabores puede disminuir el riesgo de rechazo a probar nuevos alimentos.
+- No existe evidencia suficiente para concluir cual es el mejor método de introducir la AC: convencional con texturas modificadas y progresivas o dirigida por el lactante (Baby-Led Weaning -BLW-, Baby Led Introduction to Solids-BLISS-), pero el objetivo será aprender a reconocer la sensación de hambre y saciedad y asegurar los aportes energéticos, así como de macro y micronutrientes como el hierro.
+- La AC debe de ofrecerse en una textura y consistencia apropiada para el desarrollo psicomotor y madurativo del lactante, pero no se recomienda el uso prolongado de alimentos triturados, progresando a chafados a los 8-10 meses a más tardar. A los 12 meses deben de beber en vaso/vaso de aprendizaje, mejor que en botella/ biberón.
+
+## 4 Recién nacido prematuro y con bajo peso para la edad gestacional
+
+- No existen recomendaciones específicas para el recién nacido prematuro (RNP). Se trata de un grupo heterogéneo con necesidades nutricionales diferentes, especialmente si asocian enfermedad crónica. Los estudios realizados sobre duración óptima de lactancia materna no incluyen a RNP;según la OMS se debe mantener hasta los 6 meses, sin especificar si son de edad gestacional o corregida.
+- La introducción de la AC en el RNP está condicionada tanto por las necesidades nutricionales como por las habilidades motoras para incorporar los diferentes alimentos y texturas, que con frecuencia están reducidas incluso para la edad corregida, por lo que se debe individualizar. En cualquier caso, no debe introducirse hasta que el niño este próximo a los seis meses, con un peso de al menos 5-6 kg, ya sin reflejo de extrusión, que sea capaz de sentarse y de coordinar la deglución de alimentos no líquidos. Para los RNP <1.500 g o 32 semanas, estos criterios se suelen
+@p 546
+alcanzar más cerca de los seis meses según edad corregida.
+
+- El riesgo de ferropenia es especialmente importante en el RNP, por lo que además de asegurar un aporte adecuado con la AC, las recomendaciones actuales son administrar suplemento con hierro oral hasta los 6-12 meses, dependiendo de la dieta. Se requieren más estudios antes de implementar la administración suplementaria sistemática de otras vitaminas o micronutrientes.
+- En los recién nacidos con bajo peso para la edad gestacional (PEG), la AC se hará con las mismas pautas descritas para el lactante sano, considerando en el caso de los prematuros con muy bajo peso al nacer su edad corregida, ya que su estado madurativo y metabólico será más apropiado que si se considera la edad posnatal. Durante las primeras etapas de la vida se deberá evitar la ingesta excesiva de proteína (sobre todo de origen animal), tanto en el momento de la introducción de la AC, como durante toda la primera infancia y, por supuesto, posteriormente en la etapa escolar. La ingesta excesiva de proteínas se relaciona en estos periodos con un mayor crecimiento y riesgo de adiposidad.
+- Es especialmente importante en los PEG realizar un adecuado seguimiento del crecimiento tras el alta hospitalaria. El pediatra debe ajustar el aporte nutricional para conseguir un crecimiento recuperador progresivo y armónico, evitando tanto la ganancia insuficiente como excesiva de peso, exponiendo a los padres cuales son los objetivos del crecimiento recuperador, evitando falsas expectativas con relación al patrón de crecimiento que conlleven el abandono de la lactancia materna o malos hábitos nutricionales por intentar aumentar el aporte calórico.
+@caja
+**SE RECOMIENDA**
+- La lactancia materna exclusiva durante los primeros 6 meses suele ser adecuada y suficiente en la mayoría de los casos. La AC no debería introducirse antes de los 4 meses y en todos los casos debería haberse iniciado a los 6 meses de edad. Para los RNP ‹1.500 g o 32 semanas, estos criterios se suelen alcanzar más cerca de los seis meses de edad corregida.
+- No existe evidencia para concluir cual es el mejor método para introducir la AC: texturas modificadas o guiada por el lactante (BLW; BLISS), pero siempre se deberá ofrecer una consistencia adecuada al desarrollo madurativo del lactante, progresando en texturas en cuanto sea posible.
+- No existe evidencia sobre los beneficios de introducir los alimentos en una cronología correcta, pero es importante ofrecer variedad en sabores y texturas, especialmente de forma reiterada los sabores amargos de algunas verduras para conseguir su aceptación.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se aconseja demorar la introducción de alimentos potencialmente más alergénicos ya que no disminuye el riesgo de desarrollar alergia alimentaria.
+- Se desaconseja la introducción del gluten antes de los 4 meses y se recomienda introducirlo entre los 6 y los 12 meses y de forma progresiva.
+- Se debe evitar el consumo excesivo de proteína (sobre todo de origen animal) especialmente en los PEG, por el riesgo posterior de exceso de adiposidad.
+@p 547
+@fin
+@bib
+1. Fewtrell M, Bronsky J, Campoy C, et al. Complementary feeding: A Position Paper by the European Society for Paediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN) Committee on Nutrition. J Pediatr Gastroenterol Nutr. 2017;64:119-32.
+2. Gómez Fernández-Vegue M. Comité de lactancia materna y Comité de nutrición de la Asociación Española de Pediatría. Recomendaciones de la Asociación Española de Pediatría sobre la alimentación complementaria. 2018 [consultado el 30/06/2022].   Disponible en: https://www.aeped.es/sites/default/files/documentos/ recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final.pdf
+3. Grupo de Seguimiento de la Sociedad Española de Neonatología. Protocolo de seguimiento para el recién nacido menor de 1500 g o menor de 32 semanas de gestación. Madrid:Sociedad Española de Neonatología; 2017 [consultado el 30/06/2022]. Disponible en: www.se-neonatal.es
+4. Jiménez Ortega AI, Martínez García RM, Rodríguez-Belvis MV et al. De lactante a niño. Alimentación en diferentes etapas. Nutr Hosp. 2017;34(Supl. 4):3-7.
+5. Vissers KM, Feskens EJM, van Goudoever JB, et al. The timing of initiating complementary feeding in preterm infants and its effect on overweight: a systematic review. Ann Nutr Metab. 2018;72:307-15.
+6. Organización Panamericana de la Salud, Organización Mundial de la Salud. Principios de orientación para la alimentación complementaria del niño amamantado. En: Asociación Española de Pediatría [en línea] [consultado el 30/06/2022]. Disponible en: https://www.aeped.es/sites/default/files/1-orientacion_para_la_ac.pdf

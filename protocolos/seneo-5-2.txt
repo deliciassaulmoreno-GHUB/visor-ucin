@@ -1,0 +1,110 @@
+@f 14. Protocolos SENEO/5.2. Programa de seguimiento a largo plazo del prematuro tardío
+@p 532
+# 5.2 PROGRAMA DE SEGUIMIENTO A LARGO PLAZO DEL PREMATURO TARDÍO
+
+*María Jesús Rodríguez Revuelta^1^, Félix Morales Luengo^2^, José Antonio Hurtado^3^ Grupo SENeo 32-36 (ACUNA)*
+
+*^1^Hospital Universitario Virgen Macarena, Sevilla; ^2^Hospital Universitario Río Hortega, Valladolid; ^3^Hospital Virgen de las Nieves, Granada*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 518-523 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Los prematuros tardíos (PT) entre 34 y 36+6 semanas han sido objeto de múltiples estudios, dejando constancia de que se trata de niños que pueden tener un desarrollo diferente al de los recién nacidos a término (RNT). Además del incremento de la morbilidad durante el periodo neonatal, se ha encontrado en PT durante la infancia mayores tasas de rehospitalización y consulta a los Servicios de Urgencias, un mayor riesgo de infecciones, de fallo de medro, de problemas respiratorios y de trastornos del neurodesarrollo.
+
+## 1 Desarrollo neurológico
+
+Los PT debido a factores como la existencia de alteraciones fetales y/o maternas, patología neonatal y la propia prematuridad tienen un riesgo de presentar alteraciones del neurodesarrollo superior a los RNT. Se ha encontrado en edad escolar menor cociente intelectual, mayores problemas de aprendizaje y fracaso escolar y más alteraciones del comportamiento y psiquiátricos como el trastorno por déficit de atención e hiperactividad. La detección temprana de niños con este tipo de alteraciones supondrá una oportunidad de mejora con el acceso a atención especializada neurológica y/o terapia.
+
+Para facilitar la detección del riesgo de trastornos del neurodesarrollo, distintas guías y publicaciones recomiendan utilizar métodos de cribado como el cuestionario para padres Ages & Stages Questionnaires, 3ª edición (ASQ-3®). ASQ-3® evalúa cinco áreas del desarrollo y se recomienda realizarlo en todos PT o al menos en PT con factores de riesgo (crecimiento intrauterino retardado, hipoglucemia sintomática, hiperbilirrubinemia con necesidad de fototerapia, hipoxemia, hemorragia intraventricular, leucomalacia periventricular, lactancia artificial y/o bajo nivel socioeducativo materno) a los 2 años de edad corregida (EC), 4 y 5 años de edad cronológica o real (ER). El resto de seguimiento neurológico de estos niños no debe diferir del de cualquier niño RNT, y realizarlo aplicando la EC hasta los 2 años (figura 1).
+
+@ancha
+| **1º visita tras alta** | **1 mes** | **3 meses EC** | **6 meses EC** | **12 meses EC** | **15 meses EC** | **24 meses EC** | **4 años ER** | **5 años ER** |
+|---|---|---|---|---|---|---|---|---|
+| Denver o Haizea-Llevant | Denver o Haizea-Llevant | Denver o Haizea-Llevant | Denver o Haizea-Llevant | Denver o Haizea-Llevant | Denver o Haizea-Llevant | ASQ 3 | ASQ 3 | ASQ 3 |
+@p 533
+*Figura 1. Métodos de cribado de valoración del desarrollo psicomotor aconsejados en el prematuro tardío*
+
+Si la **puntuación ASQ-3®** de, al menos, **un área o la puntuación total está alterada** nos indicaría riesgo de déficit en el neurodesarrollo y se aconseja complementar la evaluación con un estudio más específico. En estos casos se realizarían otros cuestionarios de cribado como el M-CHAT ante la sospecha de trastorno del espectro autista o el SNAP IV si se sospecha déficit de atención y/o valoración neuropsicológica mediante el test de Bayley III, WISC,... Si se confirma alteración, se derivará a Atención Temprana para el inicio de la estimulación.
+
+Al comenzar la escolarización, los PT con sospecha de déficit del neurodesarrollo deberán ser evaluados por el equipo de orientación del centro educativo. Se realizarán pruebas cognitivas para evaluar la memoria ejecutiva, la atención, el lenguaje o las habilidades de conducta.
+
+## 2 Nutrición y crecimiento
+
+La alimentación es un aspecto clave porque condiciona el crecimiento de los PT (figura 2).
+
+| | |
+|---|---|
+| **Recomendaciones nutrición/crecimiento** | • Revisiones en Centro de Atención Primaria (CAP) a las 24-48 horas y semanales hasta las 40 semanas de edad postmenstrual (EPM) o hasta correcta lactancia y ganancia ponderal // • **Leche materna (LM) exclusiva hasta 6 meses de edad real** (ER) con suplementación preferible de LM extraída, si precisa // • Fórmula de prematuro, si precisa, hasta 40 semana de EPM // • Alimentos sólidos no antes de los 6 meses de ER // • Monitorizar crecimiento y estado nutricional: peso, longitus y perímetro cranel según **curvas de la OMS por edad corregida hasta los 2 años de edad** // • **Vitamina D:** deben tomar 400 UI/día desde 1ª semana de vida (si LM hasta inicio alimentación complementaria; si fórmula hasta que tome un litro/día) // • **Hierro:** todos PT deben tomarlo desde 2ª semanas hasta 6-12 meses (si LM 3-4 mg/kg/día; si fórmula 1 mg/kg/día) |
+
+*Figura 2. Recomendaciones nutricionales en prematuros tardíos*
+
+## 3 Respiratorio
+
+Los problemas respiratorios son muy frecuentes en los PT tanto a corto como a medio y largo plazo, por ello es conveniente establecer un **circuito de seguimiento de patología respiratoria multidisciplinar** (neumólogo, neonatólogo, pediatra de Atención Primaria), entre aquellos pacientes con complicaciones respiratorias en el periodo postnatal inmediato, así como evitar la restricción del crecimiento extrauterino.
+@p 534
+## 4 Infecciones e inmunizaciones
+
+Las infecciones son una causa importante de morbilidad y mortalidad en los PT, siendo uno de los principales motivos de consulta médica y de reingreso hospitalario. Por ello, las recomendaciones se reflejan en las figuras 3 y 4.
+
+| | |
+|---|---|
+| **Recomendaciones infecciones** | • **Información a padres** sobre: // ◦ Medidas de higiene de manos y de la tos // ◦ Limitar el número de visitas // ◦ Evitar el contacto con personas con síntomas respiratorios, los ambientes con alto riesgo de contagio y la exposición al tabaco // ◦ Educar sobre los signos y síntomas de la bronquiolitis aguda // • **Recomendar LM** // • Profilaxis VRS con **Palivizumab** según las recomendaciones anuales de la SENeo |
+
+*Figura 3. Recomendaciones en el prematuro tardío frente a infecciones*
+
+| | |
+|---|---|
+| **Recomendaciones vacunación** | • **Los PT deben recibir las mismas vacunas que los RNT (dosis, intervalos y lugar de administración)** // • **Vacunas según edad real (no corregida)** // • Recomendar vacunación gripe // • En trabajadores sanitarios (contacto con prematuros): una dosis de dTpa si no ha sido vacunado (independiente del tiempo transcurrido desde vacuna con Td) // • Promocionar "estrategia de nido": vacunación convivientes y cuidadores de los prematuros |
+
+*Figura 4. Recomendaciones en el prematuro tardío para la vacunación*
+
+## 5 Riesgo de muerte súbita del lactante (SMSL)
+
+El SMSL sigue siendo una de las principales causas de éxitus y la prematuridad es un claro factor de riesgo. Es imprescindible **afianzar las recomendaciones a los padres sobre la prevención de SMSL** (figura 5).
+@p 535
+| | |
+|---|---|
+| **Prevención SMSL** | • Evitar la posición en prono durante el sueño hasta los 6 meses de edad // • LM // • Desaconsejar tabaquismo de padres y evitar el alcohol/drogas pre y postnatalmente // • Cuna en la habitación de padres // • Es prudente no rechazar el uso del chupete para el sueño durante el primer año // • No realizar colecho si padres son fumadores, han consumido alcohol o medicamentos ansiolíticos, antidepresivos o hipnóticos y en situaciones de cansancio extremo // • No realizar colecho en sofás o sillones o en cualquier otro sitio que no sea la cama |
+
+*Figura 5. Prevención del SMSL, que aplica también al prematuro tardío*
+
+## 6 Coordinación con atención primaria
+
+El equipo de Pediatría de los Centros de Atención Primaria (CAP) tiene un papel fundamental en el seguimiento del PT. El programa de seguimiento de los PT en los CAP tiene como finalidad el apoyo a los padres, facilitar hábitos y actitudes de salud positivas y saludables y detectar precozmente problemas de salud, facilitando el seguimiento y derivación si es necesaria (figuras 6 y 7).
+
+| | |
+|---|---|
+| **Transición hospital - CAP** | • Al alta hospitalaria, y según los antecedentes del PT: // ◦ Evaluar el reparto de los controles en seguimiento hospitalarios y CAP // ◦ Detallar en informe las visitas a realizar y los profesionales implicados // ◦ Valoración en CAP en un plazo máximo de 48 horas tras el alta |
+
+*Figura 6. Recomendaciones transición hospital-CAP*
+
+| | |
+|---|---|
+| **Pediatra CAP** | • Revisión de informe de alta e identificación de factores de riesgo // • Controles de CAP establecidos en el Programa de Salud de la Infancia // • Ofrecer recomendacioes SMSL y hábitos de salud positivos |
+@p 536
+| **Pediatra CAP (continuación)** | • Seguimiento de alimentación, crecimiento y neurodesarrollo (ASQ3: 24 meses EC, 4 y 5 años ER) // • Identificación factores de riesgo de crianza y vinculación (primeros meses de vida) // • Realizar búsqueda activa de niños que no acudan a sus visitas de seguimiento // • En riesgo socioambiental, confirmar implicación servicios sociales y trabajar coordinadamente // • Diseñar estrategias en CAP para evitar abandono de programa de seguimiento // • Derivación y coordinación con atención especializada si precisa |
+
+*Figura 7. Recomendaciones Pediatría de CAP en visitas de seguimiento*
+
+@caja
+**SE RECOMIENDA**
+Promover lactancia materna. Vigilar ganancia ponderal paricularmente en las primeras semanas de vida
+
+- Seguimiento estrecho de nutrición y crecimiento
+- Seguimiento del neurodesarrollo (ASQ3®).
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Retrasar la primera visita con el Pediatra más de 48 horas tras el alta
+- Ofrecer fórmula de inicio de forma sistemática
+- Administrar las vacunas según edad corregida
+- Posición prono durante el sueño hasta los 6 meses
+@fin
+@bib
+1. García Reymundo MG, Hurtado Suazo JA, Calvo Aguilar MJ, et al. Recomendaciones de seguimiento del prematuro tardío. En: Sociedad Española de Neonatología [en línea]. Disponible en www.se-neonatal.es.
+2. Demestre X, Schonhaut L, Morillas J, et al. Riesgo de déficits en el desarrollo en los prematuros tardíos: evaluación a los 48 meses mediante el Ages & Stages Questionnaires®. An Pediatr 2016;84:39-45.
+3. Benzies KM, Magill-Evans J, Ballantyne M KJ. Longitudinal patterns of early development in Canadian late preterm infants: A prospective cohort study. J Child Health Care 2017; 21:85-93.
+4. Meier P, Patel AL, Wright K, Engstrom J. Management of breastfeeding during and
+@p 537
+after the maternity hospitalization for late preterm infants. Clin Perinatol 2013;40:689-705.
+
+5. Mills RJ, Davies MW. Enteral iron supplementation in preterm and low birth weight infants. Cochrane Database Syst Rev. 2012;3:CD005095.
+6. Esposito S, Fumagalli M, Principi N. Immunogenicity, safety and tolerability of vaccinations in premature infants. Expert Rev Vaccines. 2012; 11:1199-209.

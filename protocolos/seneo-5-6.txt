@@ -1,0 +1,201 @@
+@f 14. Protocolos SENEO/5.6. Unidades de atención temprana. Logopeda. Criterios de derivación
+@p 553
+# 5.6 UNIDADES DE ATENCIÓN TEMPRANA. LOGOPEDA. CRITERIOS DE DERIVACIÓN
+
+*Paula Serrano Acebes^1^, Patricia Borrellas Mendoza^2^, Nùria Arenas Sole^3^*
+
+*^1^Universitari Dexeus, Barcelona; ^2^Unidad de Logopedia grupo Paidodex, Barcelona; ^3^CDIAP Rella, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 539-546 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición de atención temprana y objetivos
+
+Se entiende por Atención Temprana (AT) el conjunto de intervenciones, dirigidas a la población infantil de 0-6 años, a su familia y su entorno, que tienen por objetivo dar respuesta lo más pronto posible a las necesidades transitorias o permanentes que presentan los niños con trastornos en su desarrollo o que tienen el riesgo de padecerlos. Estas intervenciones, que deben considerar la globalidad del niño, han de ser planificadas por un equipo de profesionales de orientación interdisciplinar o transdisciplinar.
+
+Los pediatras de Seguimiento Neonatal tenemos un papel fundamental en la AT, tanto en la detección de los posibles casos, como en la información y correcta derivación y coordinación con los Centros de Desarrollo Infantil y Atención Temprana (CDIAT), así como en el seguimiento.
+
+Los principales objetivos de la Atención Temprana son:
+1. Reducir los efectos de una deficiencia o déficit sobre el conjunto global del desarrollo del niño.
+2. Optimizar, en la medida de lo posible, el curso del desarrollo del niño.
+3. Introducir los mecanismos necesarios de compensación, de eliminación de barreras y adaptación a necesidades específicas.
+4. Evitar o reducir la aparición de efectos o déficits secundarios o asociados producidos por un trastorno o situación de alto riesgo.
+5. Atender y cubrir las necesidades y demandas de la familia y el entorno en el que vive el niño.
+6. Considerar al niño como sujeto activo de la intervención.
+
+## 2 Niveles de intervención en atención temprana
+
+- **Prevención primaria:** dirigida a la población infantil general. Tiene por objetivo
+@p 554
+prevenir la aparición de deficiencias o trastornos en el desarrollo infantil.
+
+- **Prevención secundaria:** dirigida a los grupos de riesgo. Tiene por objetivo la detección y el diagnóstico precoz de los trastornos en el desarrollo y de situaciones de riesgo.
+  - Durante el primer año se diagnostican los trastornos más graves: formas severas y medias de parálisis cerebral infantil, retardo mental y déficits sensoriales (déficit visual, hipoacusia).
+  - Durante el segundo año se detectan formas moderadas o leves de los trastornos anteriores, así como los trastornos del comportamiento y/o del espectro autista.
+  - Entre 2 y 4 años, trastornos del lenguaje, trastornos motrices menores y de conducta.
+  - Mayores de 5 años (se hacen evidentes en el colegio): trastornos del aprendizaje y retardo mental leve.
+- **Prevención terciaria:** dirigida a los niños con trastornos de desarrollo y sus familias.
+
+## 3 El equipo de CDIAT
+
+Cada Unidad cuenta con equipo multidisciplinar básico compuesto por los siguientes profesionales: psicólogo/a, fisioterapeuta, logopeda, neuropediatra y otros técnicos/as en estimulación (psicomotricista, estimulador/a o maestro/a). Asimismo, cuenta con las oportunas intervenciones de los profesionales de los equipos de valoración de personas con discapacidad (pedagogo/a, trabajador/a social, médico/a rehabilitador/a), para la valoración, intervención o derivación, de aquellos casos en los que la Unidad de Atención Infantil Temprana, requiera su intervención profesional.
+
+Las intervenciones en el CDIAT consisten en:
+
+**Acogida y acompañamiento familiar**
+
+Es el primer contacto de la familia con el Centro. Se realiza la anamnesis y la recogida de información. En la entrevista se explica el plan de intervención concreto para cada caso.
+
+**Valoración y seguimiento**
+
+Aquí intervienen diferentes profesionales, algunos serán quienes hagan el tratamiento semanal con el niño y realicen entrevistas periódicas con la familia. Por otra parte, los profesionales médicos y trabajadores sociales realizan valoraciones y seguimientos que contribuyen a la elaboración del diagnóstico.
+
+- El trabajador social realiza un análisis del entorno sociofamiliar que rodea al niño, informa de los recursos y las ayudas económicas; orienta en el proceso de escolarización y asesora sobre los programas de apoyo a la familia. Presta atención especial a los factores de riesgo socioambiental, en colaboración con los servicios sociales.
+- El neuropediatra realiza la valoración inicial y el seguimiento evolutivo. Participa en los procesos de prevención y detección de los trastornos del desarrollo, contribuye
+@p 555
+al proceso diagnóstico, solicita exploraciones complementarias y procede a la derivación hospitalaria si lo estima conveniente.
+
+- El médico rehabilitador realiza valoración médico-funcional y seguimiento en los casos seleccionados, especialmente en las alteraciones motoras.
+
+**Tratamientos**
+- Estimulación precoz: dirigida a los niños más pequeños. Potencia las áreas motrices, perceptivo-cognitivas, sociales y del lenguaje.
+- Psicoterapia-apoyo psicológico: el psicólogo debe detectar si hay sufrimiento psíquico o riesgo de padecerlo. Si es necesario se inicia el tratamiento, atendiendo a la problemática subjetiva del niño. El psicólogo interviene en trastornos del comportamiento, trastornos emocionales o trastornos del espectro autista. A veces es necesario trabajar con los hermanos y/o los padres, y siempre dar apoyo familiar.
+- Psicomotricidad: tiene como objeto mejorar las capacidades psíquicas del niño a través del movimiento, que le permite liberar sus emociones. Los problemas que abarca son numerosos: coordinación global, psicosis infantil, familias desestructuradas, trastornos del aprendizaje, hiperactividad o dificultades de adaptación social.
+- Fisioterapia: tras la valoración de las alteraciones del desarrollo, la intervención estará en función de la edad, las características y las necesidades del niño. Tras ello, se elabora un diagnóstico y se inicia el tratamiento, dando apoyo constante a la familia.
+- Logopedia: se realiza valoración y se elabora el diagnóstico logopédico. Si hay comunicación y atención suficientes se inicia el tratamiento. El logopeda se encarga de intervenir en los trastornos de la comunicación, los trastornos o retrasos del lenguaje y el habla, las dificultades en la adquisición y desarrollo de la lectura y/o escritura, derivadas de un trastorno mayor, las deficiencias auditivas y las patologías de la voz.
+
+**Coordinaciones internas de los miembros que forman el equipo**
+
+El objetivo es realizar una evaluación global de todo el proceso y, si fuera el caso, modificar o cambiar los tratamientos. Se realizan reuniones semanales de equipo.
+
+Coordinación externa
+
+Con recursos sanitarios y educativos, con servicios sociales, y con otros especialistas que trabajen con el niño.
+
+## 4 Criterios de derivación
+
+### Factores de riesgo biológico
+
+**A. Recién nacido de riesgo neurológico**
+- R.N. con Peso < P10 para su edad gestacional o con Peso < a 1500 grs o edad gestacional < a 32 semanas (*).
+@p 556
+- APGAR <3 al minuto o <7 a los 5min.
+- RN con ventilación mecánica >24 horas
+- Hiperbilirrubinemia que precise exanguinotransfusión.
+- Convulsiones neonatales.
+- Sepsis, Meningitis o Encefalitis neonatal.
+- Disfunción neurológica persistente (más de siete días).
+- Daño cerebral evidenciado por prueba de imagen.
+- Malformaciones del Sistema Nervioso Central (SNC).
+- Neuro-Metabolopatías.
+- Cromosomopatías y otros síndromes dismórficos.
+- Hijo de madre con patología mental y/o infecciones y/o drogas que puedan afectar al feto.
+- RN con hermano con patología neurológica no aclarada o con riesgo de recurrencia.
+- Gemelo, si el hermano presenta riesgo neurológico.
+- Siempre que el pediatra lo considere oportuno.
+
+(*) Debería considerarse prematuros <35 semanas.)
+
+**B. Recién nacido de riesgo sensorial - visual**
+- Ventilación mecánica prolongada.
+- Hidrocefalia.
+- Infecciones congénitas del Sistema Nervioso Central.
+- Síndrome malformativo con compromiso visual.
+- Infecciones postnatales del Sistema Nervioso Central.
+- Asfixia severa.
+
+**C. Recién nacido de riesgo sensorial - auditivo**
+- Ingesta de aminoglucósidos durante un periodo prolongado o con niveles plasmáticos elevados durante el embarazo.
+- Síndromes malformativos con compromiso de la audición.
+- Antecedentes familiares de hipoacusia.
+- Infecciones postnatales del SNC.
+- Asfixia severa.
+
+### Factores de riesgo social
+
+El riesgo socio-familiar es valorado siempre, ya que es quizás la variable de riesgo que más afecta a la mortalidad perinatal aguda y también a largo plazo.
+@p 557
+- Acusada deprivación económica.
+- Embarazo accidental traumatizante.
+- Convivencia conflictiva o separación traumatizante en el núcleo familiar.
+- Padres con bajo CI/Entorno no estimulante.
+- Enfermedades graves / Exitus.
+- Alcoholismo/ Drogadicción.
+- Prostitución.
+- Delincuencia / Encarcelamiento.
+- Madres adolescentes.
+- Sospecha de malos tratos.
+- Niños acogidos en hogares infantiles.
+- Familias que no cumplimentan los controles de salud repetidamente.
+
+## 5 Derivación a logopedia
+
+El papel del pediatra de Seguimiento Neonatal es fundamental en la detección precoz de los trastornos del lenguaje, por lo que se recomienda un seguimiento estrecho del desarrollo del mismo valorando capacidad de comprensión, de expresión y la intención comunicativa, teniendo en cuenta hitos del desarrollo del lenguaje y señales de alerta.
+
+| {2} **Tabla 1. Hitos del desarrollo del lenguaje** |
+|---|---|
+| Balbuceo | 3-4 meses |
+| Imitación de gestos y sonidos | 6-7 meses |
+| Laleo: encadena sílabas, sonidos melódicos | 6-7 meses |
+| Sigue órdenes simples con gesto | 7 meses |
+| Sigue ordenes simples sin gesto | 10 meses. |
+| Primeras palabras con sentido e intención | 10 -12 meses |
+| Holofrases: palabra frase | 10 - 18 meses |
+| Usa de 10 a 15 palabras | 18 meses |
+| Frases de dos elementos. | 18 - 24 meses |
+| Habla telegráfica: frases de 3 elementos | 24 - 30 meses |
+| Uso de artículos, pronombres, preposiciones y posesivos | 30 - 36 meses |
+| Frases complejas: longitud indefinida | 36 - 42 meses |
+
+@p 558
+| **Tabla 2. Signos de alarma** |
+|---|
+| **12 meses:** no emite ninguna palabra, no obedece órdenes simples (adiós con la mano) |
+| **15 meses:** no dice ninguna palabra con sentido o dirección |
+| **18 meses:** no dice más de 10 palabras y no usa holofrases |
+| **2 años:** no dice frases de 2 palabras. Los padres/cuidadores entienden <50% del habla |
+| **3 años:** no dice frases de 3 palabras. Los padres/cuidadores entienden <75% del habla |
+| **4 años:** lenguaje poco comprensible, telegráfico |
+
+| {2} **Tabla 3. Criterios de derivación a logopedia** |
+|---|---|
+| **TIPO PATOLOGÍA** | **CUANDO DERIVAR A LOGOPEDIA** |
+| {2} **TRASTORNOS DEL LENGUAJE** |
+| {2} **1. Alteraciones del desarrollo del lenguaje (ADL)** |
+| 1.1. Trastorno en el Desarrollo del Lenguaje (TDL) // 1.2 Retraso del lenguaje (RL) | • < 3años: si se sospecha un ADL, recomendar una guardería y comprobar a los 4 meses la adaptación a la misma. Si continúa sospecha, derivar. // • > 3años: Mayores de tres años, ya escolarizados, con sospecha o diagnóstico de ADL, remitir a la Unidad de Foniatría y Logopedia |
+| {2} **2. Trastornos Secundarios del lenguaje** |
+| 2.1. Trastorno del espectro autista | En el momento de la sospecha/diagnóstico, a partir de los 16 meses, siempre que existan alteraciones del lenguaje. |
+| 2.2 Discapacidad intelectual | • Asociado a un síndrome o fenotipo: derivar a los 12 meses. // • DI que se diagnostica por retraso lenguaje: derivar ante la sospecha (24-30 meses) // • Niños/as >4 años en fase prlingüística: no derivar. |
+| 2.3. Trastorno Déficit de Atención e Hiperactividad | Mismo criterio que ADL |
+| 2.4. Hipoacusias | Todos los niños, antes de comenzar la escolarización, para valoración de habilidades auditivas, del lenguaje y el habla. |
+| **3. Pérdida del lenguaje o Afasia** | En todos los casos |
+@p 559
+@pie Tabla 3. Criterios de derivación a logopedia (continuación)
+| {2} **TRASTORNOS DEL HABLA** |
+| 1. Dislalias, Retraso de habla | • Derivar a partir de los tres años, después de comprobar que 4 meses de escolarización no consiguen mejorar el habla. // • En caso de completa ininteligibilidad (tanto para los padres como para extraños al niño) remitir directamente sin esperar los efectos de la escolarización. |
+| 2. Disartrias | Lo antes posible |
+| 3. Disglosias | • Alteración en la secuencia alimentaria, que impide una alimentación eficaz, de manera que no es posible asegurar el aporte nutritivo o la hidratación necesaria. // • Alteración del habla. Remitir después de los 24 – 30 meses. |
+| 4. Disfemias o tartamudez | A partir de 5-6 años |
+| {2} **PATOLOGIA DE LA VOZ** |
+| Disfonía | A partir de 7 años (previa valoración por ORL) |
+| {2} **PATOLOGIA DE LA DEGLUCION** |
+| Disfagias | • Alteración de la seguridad: (signos de aspiración y complicaciones respiratorias). A partir de los 12 meses (previa valoración por Digestivo) // • Alteración de la eficacia: (falta del control del alimento o la saliva): entre los 18 y 24 meses. |
+
+@caja
+**SE RECOMIENDA**
+- Los pediatras de Seguimiento Neonatal tenemos un papel fundamental en la AT, tanto en detección como en derivación, seguimiento y coordinación con los CDIAT.
+- Es necesario conocer los recursos de AT de cada comunidad autónoma, así como la coordinación de los distintos profesionales.
+- Las intervenciones en AT deben ser lo más precoces posibles.
+- Se recomienda un seguimiento estrecho del desarrollo del lenguaje valorando capacidad de comprensión, expresión e intención comunicativa, teniendo en cuenta hitos del desarrollo del lenguaje y señales de alerta.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Demorar las intervenciones en AT, deben ser lo más precoces posibles.
+@fin
+@bib
+1. Libro blanco de la Atención Temprana. Madrid: Ministerio de Trabajo y Asuntos Sociales.
+@p 560
+Real Patronato sobre Discapacidad; 2000.
+
+2. López Pisón P. Atención Temprana. Recursos. Criterios de derivación. Form Act Pediatr Aten Prim 2014; 7:133-138.
+3. Atención Precoz y desarrollo infantil Cataluña 2020. Unió Catalana de Centres de Desenvolupament Infantil i Atenció Precoç.
+4. Goneaga AL. Guía de derivación a foniatría desde pediatría de Atención Primaria. Servicio Canario de Salud.
+5. Guía de apoyo dirigida a pediatras de Atención Primaria para la derivación de pacientes menores de 14 años a los Hospitales de la Red Pública de la Comunidad de Madrid para la valoración de tratamiento de logopedia. Madrid: Consejería de Sanidad

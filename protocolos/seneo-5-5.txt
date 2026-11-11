@@ -1,0 +1,84 @@
+@f 14. Protocolos SENEO/5.5. Seguimiento ambulatorio del niño que ha sido prematuro. Monitorización del crecimiento
+@p 548
+# 5.5 SEGUIMIENTO AMBULATORIO DEL NIÑO QUE HA SIDO PREMATURO. MONITORIZACIÓN DEL CRECIMIENTO
+
+*Lara González García, Enrique García López, Gonzalo Solís Sánchez*
+
+*Hospital Universitario Central de Asturias, Oviedo*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 534-538 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+El crecimiento en la edad pediátrica es un buen indicador del estado de salud y del estado nutricional. Los niños prematuros son un grupo de alto de riesgo de hipocrecimiento, especialmente el grupo con muy bajo peso al nacer (MBPN), menor de 1500 g. El crecimiento está influido por la edad gestacional (EG), el peso al nacimiento, la gravedad de la patología neonatal, la ingesta calórica, las enfermedades intercurrentes y otros factores ambientales y hereditarios. Un adecuado crecimiento extrauterino es necesario para conseguir un adecuado desarrollo de todos los órganos y alcanzar el potencial de talla genética. Destacan dos alteraciones del crecimiento detectadas con mayor frecuencia en el periodo neonatal en los niños prematuros:
+- **Pequeño para la edad gestacional (PEG):** aquel recién nacido (RN) que presenta un peso o longitud al nacimiento menor de P3 (-2 DE) o menor de P10 para su edad gestacional, según sea el criterio usado para definirlo. La mayor parte (90%) de los PEG han tenido restricción de crecimiento intrauterino (RCIU), pero estos conceptos no son sinónimos. El concepto RCIU implica un concepto dinámico, en el que se ve un descenso en la velocidad de crecimiento del feto por ecografía. El concepto PEG es estático y se basa en la somatometría al nacimiento. Según datos de la SEN1500, uno de cada tres niños con MBPN en España nace con peso menor de P10.
+- **Restricción de crecimiento extrauterino (RCEU):** es el crecimiento postnatal insuficiente tras el parto prematuro, habitualmente durante el ingreso neonatal por las comorbilidades y dificultades nutricionales. En niños con MBPN es habitual que lleguen a la 36 semana postmenstrual con un peso inferior al percentil 10. Existen diferentes criterios para definir RCEU (ver tabla I). La mayoría de los RN prematuros con PEG o RCEU van a experimentar "catch-up" durante la infancia, tras finalizar la causa que originaba su restricción de crecimiento, y aproximadamente el 80% de ellos tienen a los 2 años un peso, talla y perímetro craneal (PC) adecuados. Por otra parte, aquellos que permanecen pequeños a los 2 años, es poco probable que alcancen una talla normal durante la niñez (ventana de los 1000 días). Sin embargo, en los RN con MBPN este "catch-up" se puede retrasar a edades posteriores. Así, el PC es el parámetro que primero se recupera, alrededor del año, y la talla puede tardar hasta los 3 años. En cualquier caso, los niños con MBPN tienen, a medio y largo
+@p 549
+plazo, valores de crecimiento inferiores a las referencias de niños a término con peso normal.
+
+## 1 Gráficas y estándares
+
+Se desconoce con exactitud cuál es el patrón óptimo de crecimiento del RN prematuro hasta la edad de término y se discute qué gráficas son las mejores para valorarlo. Diferenciaremos qué gráfica utilizar en 2 periodos: neonatal y postneonatal.
+
+### 1. Periodo neonatal
+
+Se pueden utilizar las gráficas de crecimiento neonatal de Fenton 2013 (https://liveucalgary.ucalgary.ca/resource/preterm-growth-chart/preterm-growth-chart) hasta la semana 44 de edad postmenstrual o bien las referencias INTERGROWTH-21 (IW- 21) (http://intergrowth21.ndog.ox.ac.uk/es) hasta la semana 64 postmenstrual. Las de Fenton son las más utilizadas, son de corte transversal, realizadas con la somatometría al nacimiento de prematuros de diferentes edades gestacionales y reflejan, por tanto, cómo es el crecimiento intrauterino. Las gráficas IW-21 son de corte transversal para la somatometría neonatal, pero aportan además referencias de crecimiento hechas por seguimiento longitudinal de niños prematuros. Las gráficas de Fenton diagnosticarán RCEU con más frecuencia que las de IW-21.
+
+### 2. Periodo postneonatal
+
+A partir de la semana 44 o 64 de edad corregida (según utilizásemos previamente Fenton o IW-21), se recomienda utilizar las gráficas de la Organización Mundial de la Salud (OMS) (http://www.who.int/childgrowth/standards/en/).
+
+La monitorización del crecimiento se debe efectuar mediante mediciones seriadas de peso, longitud y perímetro de cráneo (PC) y analizar los índices que los relacionan, utilizando la edad corregida hasta los 2 años.
+
+Se recomienda monitorizar el crecimiento con frecuencia semanal o bisemanal durante las primeras 6 semanas tras el alta y posteriormente, si el crecimiento es normal, cada 1-2 meses, espaciando los controles en función de la evolución del crecimiento y de la edad. La SENEO recomienda un seguimiento mínimo de los niños con MBPN hasta los 2 años y de forma ideal hasta los 5-7 años o hasta el final de la edad pediátrica. Deberá evaluarse además la trayectoria del índice de masa corporal (IMC) y analizar los patrones de pico (6-9 meses) y rebote adiposo (5-7 años) que se asocian con el riesgo de un perfil cardiometabólico adverso en edades posteriores.
+
+## 2 Formas de afectación del crecimiento en la infancia
+
+**A. Desnutrición:** suele ser consecuencia de malnutrición aguda (IMC menor de - 2DE, con talla normal; denominado "wasting") o crónica (peso y talla afectados con talla menor de -2DE e IMC normal o bajo; denominado "stunting" o "stunting-wasting", respectivamente, según la OMS). Se deben calcular los índices de Waterlow (para peso y talla) y Shukla. La desnutrición ocurre en situaciones que alteran la ingesta, la absorción o incrementan las necesidades de nutrientes. Se deben valorar aportes nutricionales (encuesta dietética),
+@p 550
+realizar controles analíticos y soporte nutricional y, si no se corrige con aportes adecuados, valorar descartar otras patologías o trastorno de conducta alimentaria y valorar otras técnicas de realimentación. El manejo del bajo peso, sobre todo en los 2 primeros años de vida, se basa en intervenciones nutricionales con el fin de mejorar el mismo. Dado que ganancia rápida de peso en periodos tempranos de la vida se asocia a riesgo de obesidad y problemas cardio-metabólicos en la adolescencia y edad adulta, no se recomienda promover la ganancia de peso en niños con bajo peso (no "wasting") después de los 2-3 años.
+
+**B. Micro/macrocefalia** (PC menor de -2DE o mayor de +2 DE): el crecimiento lento del PC se asocia con retraso del desarrollo, pero un crecimiento rápido puede indicar hidrocefalia posthemorrágica.
+
+**C. Longitud/talla baja** (menor de -2DE): aquellos niños cuya talla se mantiene de forma persistente por debajo de -2DE o presenten una velocidad de crecimiento inferior a percentil 25 (menor de -1DE) durante 2 años, o si su predicción de talla adulta se aleja más de -2DE de su talla diana familiar, deberán ser evaluados. Los factores de riesgo de talla baja pueden ser: preconcepcionales, prenatales (PEC) o postnatales, como malnutrición, enfermedades crónicas (enfermedad celiaca, fibrosis quística, déficit de hormona de crecimiento -GH-, hipotiroidismo, enfermedades inflamatorias sistémicas) o factores psicosociales extremos. En la tabla Il se muestra el enfoque diagnóstico inicial.
+
+## 3 Posibilidades terapéuticas ante talla baja
+
+Se realizará tratamiento etiológico en caso de patología subyacente.
+
+En España, está autorizado el tratamiento con GH recombinante para: 1/ niños en los que se demuestra déficit de GH; 2/ niños PEG (-2DE) que a los 4 años presenten talla menor de -2,5DE y menor de -1DE ajustado a talla diana; 3/ síndromes de Turner, Prader-Willi o Noonan; 4/ alteraciones del gen SHOX; 5/ enfermedad renal crónica; y 6/ déficit primario grave de IGFl.
+
+En los niños PEG a los 4 años utilizaremos las tablas del Estudio Transversal Español de 2010. Algunos autores postulan utilizar en prematuros la somatometría en la edad gestacional a término en lugar de al nacimiento para establecer el tratamiento con GH, pero en España no está aprobado.
+
+| {3} **Tabla 1. Tipos de gráficas y definiciones más frecuentes** |
+|---|---|---|
+| **Periodo** | **Gráficas** | **Definiciones** |
+| **Neonatal** | **Fenton (hasta semana 44)** // **IW-21 (hasta semana 64)** | **PEG:** somatometría < P10 al nacimiento. // **RCEU estático:** al alta o a las 36 semanas o 40 semanas, somatometría <P10. // **RCEU dinámico:** al alta o a las 36 semanas o 40 semanas, somatometría con pérdida de 1 ó 2 DE desde el nacimiento. // **RCEU verdadero:** RCEU de los neonatos que no eran PEG al nacimiento |
+| **Tras el alta** | **OMS** | **Bajo peso:** peso o IMC o índice peso/talla menor de -2DE // **Longitud/Talla baja:** menor de -2DE |
+| {3} *RCEU: restricción de crecimiento extrauterino. PEG: pequeño para la edad gestacional. IW-21: Intergrowth-21* |
+
+@p 551
+| **Tabla 2. Enfoque inicial de la talla baja en el prematuro tras el alta** |
+|---|
+| **Anamnesis** |
+| Antecedente PEG, síntomas gastrointestinales (enfermedad celiaca/inflamatoria intestinal/parásitos), infecciones recurrentes (inmunodeficiencia/fibrosis quística), artralgias/artritis, letargia/astenia. Cálculo talla diana genética: (talla madre + talla padre)/2 + 6,5 (niño) o -6,5 cm (niña)). |
+| **Exploración física** |
+| Fenotipo (Síndrome Turner/Noonan/Prader-Willi) y medición de proporciones corporales (displasias esqueléticas relacionadas con defectos en gen SHOX, acondroplasia, colagenopatías, mucopolisacaridosis, raquitismo, alteraciones vertebrales). Realizar medición de braza y cociente segmento superior/segmento inferior. |
+| **Pruebas complementarias** |
+| Edad ósea; despistaje de enfermedad celiaca; función tiroidea; hemograma con VSG; bioquímica general con calcio, fósforo, función hepática y renal y ferritina. Cariotipo en niñas con talla baja y varones con rasgos dismórficos. Si retraso ponderal asociado valorar gasometría venosa, parásitos en heces, etc. Considerar factores de crecimiento (IGF1 e IGFBP3)/remitir a endocrinología para valorar test de secreción de GH. |
+
+@caja
+**SE RECOMIENDA**
+- Utilizar gráficas/estándares de Fenton 2013 o INTERGROWTH-21 al nacimiento y al alta hospitalaria neonatal. Utilizar gráficas de la OMS posteriormente.
+- Realizar mediciones seriadas de peso, longitud, PC, e índices que los relacionan, utilizando la edad corregida hasta los 2 años.
+- En niños PEG (-2DE) que a los 4 años presenten talla menor de -2,5DE y menor de -1DE ajustado a talla diana, se podrá utilizar hormona de crecimiento.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Dado que la ganancia rápida de peso en periodos tempranos de la vida se asocia a riesgo de obesidad y problemas cardio-metabólicos en la adolescencia y edad adulta, no se recomienda promover ganancia de peso en niños con bajo peso (no "wasting") después de los 2-3 años.
+@fin
+@bib
+1. Díez López I, de Arriba Muñoz A, Bosch Muñoz J, et al. Pautas para el seguimiento clínico del niño pequeño para la edad gestacional. An Pediatr (Barc). 2012;76:104.e1-7.
+2. Euser AM, de Wit CC, Finken MJJ, et al. Growth of preterm born children. Horm Res. 2008;70:319-28.
+@p 552
+3. Grupo de Seguimiento de la Sociedad Española de Neonatología.Protocolo de seguimiento para el recién nacido menor de 1.500g o menor de 32 semanas de gestación. Sociedad Española de Neonatología, (2017),[consultado 27 mayo 2022]. Disponible en: https://www.seneo.es/images/site/publicaciones/libros/Protocolo- Seguimiento_recien_nacido_SENeo-OK-web.pdf
+4. González-García L, García-López E, Fernández-Colomer B, et al. Extrauterine Growth Restriction in Very Low Birth Weight Infants: Concordance Between Fenton 2013 and INTERGROWTH-21st Growth Charts. Front Pediatr. 2021;9:690788.
+5. Sociedad Española de Gastroenterología, Hepatología y Nutrición Pediátrica (SEGHNP). Tratamiento en Gastroenterología, Hepatología y Nutrición Pediátrica. 5ª ed. Madrid: Ergon; 2021.
+6. Guerrero-Fdez. J, González Casado I. Manual de Diagnóstico y Terapéutica en Endocrinología Pediátrica v.1.0. 1ª ed. Madrid: Ergon; 2018.

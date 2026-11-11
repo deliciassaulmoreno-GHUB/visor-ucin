@@ -1,0 +1,100 @@
+@f 14. Protocolos SENEO/5.3. Herramientas de evaluación del neurodesarrollo
+@p 538
+# 5.3 HERRAMIENTAS DE EVALUACIÓN DEL NEURODESARROLLO
+
+*Nuria Boronat González, Isabel Izquierdo Macián*
+
+*Hospital Universitari i Politècnic La Fe, Valencia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 524-528 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+En la evolución del neurodesarrollo (ND) existen dos períodos claramente diferenciados, valorados durante el seguimiento. En los dos o tres primeros años, la finalidad es detectar trastornos del desarrollo e iniciar intervención en los centros de atención temprana. En este período, las alteraciones más frecuentes son la parálisis cerebral, el retraso psicomotor, el déficit sensorial y la epilepsia. En una segunda etapa, que finaliza a los 7-8 años, es posible evidenciar secuelas de aparición más tardía, como los trastornos de conducta, dificultades de aprendizaje, trastornos grafomotores, visuoperceptivos, visuoconstructivos, de lectoescritura, y retraso del lenguaje, y programar una intervención sobre estos.
+
+Basándonos en la evidencia disponible, describimos a continuación las herramientas disponibles para evaluar las distintas áreas del desarrollo en función de la etapa de seguimiento.
+
+## 1 Exploración neurológica
+
+En los niños con factores de riesgo, es fundamental realizar exploraciones neurológicas estandarizadas seriadas. Recomendamos las siguientes escalas de Exploración Neurológica:
+1. Escala Brazelton, un esquema cuantitativo estructurado para los niños en edad a término que incluye elementos que evalúan el comportamiento.
+2. Escala Amiel-Tison centrada en la evaluación de los reflejos neonatales, tono muscular pasivo y activo. Permite evaluación en el curso de un seguimiento de niños de alto riesgo desde las 32 semanas de edad corregida hasta los 6 años de edad.
+3. Escala Dubowitz, que incluye la evaluación de los estados de comportamiento, el tono y los reflejos primitivos, así como la motilidad y algunos aspectos del comportamiento.
+4. Escala HINE (Hammersmith Infant Neurological Examination) se basa en los mismos principios que el examen neonatal de Dubowitz y consta de 26 elementos que evalúan diferentes aspectos de la función neurológica: función del nervio craneal, movimientos, reflejos y reacciones y comportamientos protectores, así como algunos elementos dependientes de la edad que reflejan el desarrollo de la función motora gruesa y fina. El HINE está destinado a ser utilizado entre los 3 y 24 meses de edad.
+5. Escala Prechtl de Movimientos Generales (MG), evaluación basada en la observación de movimientos espontáneos como indicador del estado neurológico de los lactantes. Se ha descrito patrones normales y anormales de los movimientos generales a término y pretérmino. Algunos de los patrones patológicos presentan alto valor predictivo
+@p 539
+positivo para la evolución a Parálisis Cerebral Infantil.
+
+6. Examen NeoNeuro, constituido por 32 ítems mediante los cuales se valora tono muscular, reflejos primitivos, excitabilidad y capacidad de interacción con el entorno.
+
+## 2 Neuroimagen
+
+### Ecografia cerebral
+
+La ecografía cerebral es la modalidad primaria de neuroimagen utilizada para evaluar la patología intracraneal en prematuros y predecir el resultado a largo plazo. Como ventajas presenta su accesibilidad (se realiza a pie de incubadora), su carácter inocuo para el paciente (no precisa acondicionamiento previo), su bajo coste y la identificación precoz de lesiones.
+
+Los hallazgos radiológicos presentes a edades tardías (35 a 42 semanas de edad postmenstrual) que se asocian con un mayor riesgo de retraso cognitivo y/o retraso psicomotor incluyen ventriculomegalia moderada/grave, hiperecogenicidad persistente, hemorragia intraventricular (HIPV) grave (grado III) e infarto hemorrágico periventricular.
+
+Aunque los pacientes con anomalías neonatales en el ultrasonido craneal, en comparación con aquellos con estudios normales, son más propensos a tener deterioro del resultado del neurodesarrollo a largo plazo, un número significativo de pacientes con una ecografía normal puede tener retraso cognitivo y psicomotor.
+
+### Resonancia magnética (RM)
+
+Los estudios de RM neonatal han demostrado que la mayoría de los recién nacidos prematuros tienen anomalías que incluyen aumento del tamaño ventricular, disminución del volumen o aumento de la intensidad de la señal de sustancia blanca y la evidencia de retraso o disminución en la mielinización. Además, hay evidencia de que estos hallazgos son útiles para predecir el resultado del neurodesarrollo a largo plazo, basado en estudios que han demostrado correlación entre el resultado del neurodesarrollo y las exploraciones por RM realizadas a edad a término.
+
+En el caso de los niños de alto riesgo, según el estudio de Novak et al., de las herramientas previamente descritas, las que presentan mayor valor predictivo por grupo de edad para detectar parálisis cerebral se reflejan en la Figura 1.
+@img seneo-5-3-fig1.png
+*Figura 1.- Herramientas para la Detección Temprana de la Parálisis cerebral. Adaptado de Novak et al. (2017).*
+
+@p 540
+Con elevado nivel de evidencia, la presencia de una evolución de MGs desfavorable (o patrones patológicos mantenidos) o puntuaciones HINE patológicas, en combinación con RM anormal es incluso más precisa que las evaluaciones clínicas individuales de forma aislada.
+
+## 3 Herramientas de evaluación en neurodesarrollo
+
+Los niños de riesgo deben ser evaluados mediante herramientas de cribado (seguimiento rutinario) y herramientas específicas cuando es necesario evaluar un área concreta y determinar intervención. Sin embargo, carecemos de consenso respecto a la utilización protocolizada de unas u otras. Comentaremos las más frecuentemente utilizadas.
+
+### 3.1. Evaluación motora
+
+Las escalas funcionales son instrumentos útiles porque permiten, de forma sencilla y objetiva, clasificar el nivel de afectación motora de los niños. Las dos más utilizadas son:
+- **Valoración de la función motora gruesa (GMFCS).** El sistema de clasificación de la función motora gruesa se basa en la valoración del movimiento que se inicia voluntariamente, sobre todo en relación con la sedestación y la marcha. La distinción entre los niveles de función motora está fundamentada en las limitaciones funcionales. Como la valoración de la función motora depende de la edad, se dispone de descripciones adecuadas según esta. La clasificación de las habilidades y limitaciones funcionales para cada edad tienen como objeto servir como guía y apoyo para evaluar la situación del niño/a. Un aspecto atractivo de esta escala es que pone énfasis en la capacidad del niño/a más que en sus limitaciones. Esta escala se puede aplicar de los 2 a los 18 años.
+- **Valoración de la función motora fina (BFMF).** Valora la mayor capacidad del paciente para agarrar, sostener y manipular objetos con cada mano por separado. Discrimina cuándo un apoyo, adaptación o asistencia mejora la función. Esta escala se puede aplicar de los 3 a los 17 años.
+
+### 3.2. Test de screening: Test cualitativos
+
+Son instrumentos de examen del desarrollo destinados a diferenciar, de una manera rápida y sencilla, niños/as normales de aquellos con posibles anomalías del desarrollo. El objetivo es la detección de un desvío del desarrollo sin definir ni cuantificar el grado de afectación. Los más utilizados en nuestro medio son:
+- *Desarrollo global:*
+
+  1. Prueba de Denver (DDST). Permite valorar el desarrollo psicomotor durante los primeros 6 años de vida. Se evalúan 4 apartados: desarrollo motor grosero, desarrollo motor fino adaptativo, lenguaje y sociabilidad.
+
+  2. Escala de desarrollo psicomotor Haizea-Llevant. Es una prueba de cribado realizada en nuestro medio. Se puede utilizar hasta los 60 meses de edad y valora múltiples ítems de desarrollo psicomotor que se resumen en 4 apartados: postural, manipulación, lenguaje y socialización.
+@p 541
+  3. Ages&Stages Questionnaire (ASQ-3): es un cuestionario dirigido a los padres. Evalúa el proceso de desarrollo de los niños/as en áreas importantes, tales como el lenguaje, desarrollo motor, la habilidad social, y la habilidad de resolver problemas.
+
+- *Screening autismo:*
+
+  1. Modified Cheklist for Autism in Toddlers (M- CHAT): Cuestionario dirigido por los padres, a partir de los 2 años de vida como herramienta de screening de autismo. Sensibilidad 87%, especificidad 99%.
+
+### 3.3. Test psicométricos cuantitativos
+
+Son múltiples las herramientas específicas disponibles, y la necesidad de una evaluación rutinaria o una evaluación psicológica completa deberá individualizarse según la edad de desarrollo, funcionamiento, discapacidad o evolución escolar del niño (Tabla 1).
+
+| {2} **Tabla 1.- Herramientas de evaluación de neurodesarrollo en seguimiento a largo plazo (modificado de Salt et al).** |
+|---|---|
+| **Área cognitiva** | • Bayley Scale of Infant Development (BSID-III) // • Griffiths scales of mental development // • McCarthy Scale (cognitive abilities) // • Stanford binet intelligence scale // • Weschler preschool and primary care of intelligence (WPPSI) // • Kaufmnan assesment battery of childhood // • Weschler Intelligence Scale for children (WISC) // • British ability scales // • Parent report of children's abilities (PARCA) // • NEPSY-Neuropsycological assesment Behaviour rating of executive function (BRIEF-P, BRIEF) |
+| **Área lenguaje** | • Preeschool Language Scale (PLS) // • Peabody picture vocabulary test-R // • Reynell Developmental Language Scales British picture vocabulaty scale // • Bayley Scale of Infant Development (BSID-III) |
+| **Área Conductual** | • Bayley Scale of Infant Development (BSID-III) // • Child behaviour checklist (CBCL) // • Conners Rating Scale (CRS-R) // • Vineland adaptive behaviour scales // • Goodman strengths and difficulties // • Rutter child behaviour scale questionnaire |
+| **Área motora (coordinación motora fina y gruesa)** | • Movement ABC // • Movement ABC checklist // • Beery VMI 5th edition // • Beery Buktenica |
+
+@p 542
+En conclusión, la evaluación del neurodesarrollo debe ser sistematizada y protocolizada.
+@caja
+**SE RECOMIENDA**
+- Se recomienda la realización de, al menos, la combinación de dos escalas de exploración neurológica seriadas estandarizadas (preferentemente la combinación de MGs junto a HINE, dado su alto valor predictivo) así como test de desarrollo (screening) cualitativos a todos los pacientes en cada visita. La realización de pruebas de neuroimagen así como de test específicos debe ser individualizada.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda realizar únicamente durante el seguimiento evaluaciones clínicas aisladas no combinadas con otras herramientas.
+@fin
+@bib
+1. Gosselin J, Gahagan S, Amiel-Tison C. The Amiel-Tison Neurological Assessment at term: conceptual and methodological continuity in the course of follow-up. Ment Retard Dev Disabil Res Rev. 2005;11:34-51.
+2. Dubowitz L, Ricci D, Mercuri E. The Dubowitz neurological examination of the fullterm newborn. Ment Retard Dev Disabil Res Rev. 2005;11:52-60.
+3. Mercuri E, Ricci D, Pane M, Baranello G. The neurological examination of the newborn baby. Early Hum Dev. 2005;81:947-56.
+4. Wilson-Costello D, Payne A. Long-term neurodevelopmental outcome of preterm infants: Management. UptoDate 2019;Sept. Disponible en https://www.uptodate.com.
+5. Novak I, Morgan C, Adde L, et al. Early, Accurate Diagnosis and Early Intervention in Cerebral Palsy. Advances in Diagnosis and Treatment. JAMA Pediatr. 2017;171:897-907.
+6. Salt A, Redshaw M. Neurodevelopmental follow-up after preterm birth: follow up after two years. Early Hum Dev. 2006;82:185-97.

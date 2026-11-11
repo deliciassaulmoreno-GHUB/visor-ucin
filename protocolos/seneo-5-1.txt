@@ -1,0 +1,56 @@
+@f 14. Protocolos SENEO/5.1. Seguimiento a largo plazo del recién nacido gran prematuro
+@p 528
+# 5.1 SEGUIMIENTO A LARGO PLAZO DEL RECIÉN NACIDO GRAN PREMATURO
+
+*Begoña Loureiro^1^, Carmen Rosa Pallás-Alonso^2^*
+
+*^1^Instituto de Investigación Sanitaria Biocruces Bizkaia. Hospital Universitario de Cruces, Bilbao; ^2^Instituto de Investigación Sanitaria (i + 12). Hospital Universitario 12 de Octubre. Universidad Complutense, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 514-517 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El incremento exponencial en las últimas décadas del número de publicaciones en relación al seguimiento a largo plazo de los niños de alto riesgo y entre ellos especialmente los recién nacidos con peso menor de 1500 g o con una edad gestacional menor de 32 semanas (<1500<32), nos demuestra de forma repetida que los importantes avances en las áreas de obstetricia y neonatología han aumentado la supervivencia de estos niños considerados de alto riesgo. A su vez, dicho incremento se ha acompañado de una disminución de la prevalencia de discapacidad neurológica grave previamente observada sobre todo en forma de parálisis cerebral, discapacidad intelectual, pérdida auditiva neurosensorial y ceguera secundaria a la retinopatía de la prematuridad. Sin embargo, otros problemas en el neurodesarrollo a medio y largo plazo (de menor gravedad pero mayor prevalencia que los anteriores) se han situado en el centro de la atención de profesionales sanitarios, educativos y de las propias familias. Los problemas oftalmológicos, el déficit auditivo de diferente gravedad, las alteraciones neuropsicológicas y de aprendizaje, el trastorno del espectro autista, el déficit de atención e hiperactividad, y los trastornos de conducta y comportamiento son significativamente más prevalentes que en la población general, pudiendo estar presentes hasta en el 50% de los grandes prematuros. Nuestra labor asistencial con ellos no termina al salir de la Unidad de Cuidados Intensivos Neonatal (UCIN), siendo fundamental continuar con el apoyo al niño y su familia, así como conocer su evolución a largo plazo. La detección precoz de las anomalías del desarrollo permite una intervención temprana que favorece el futuro del niño y su familia, y por otro lado el coste de la inacción, de mayor dificultad en su cuantificación, probablemente sea mucho mayor que el coste del seguimiento. El personal que participa en los programas de seguimiento es multidisciplinar, coordinado por el neonatólogo y con colaboración estrecha con el pediatra de Atención Primaria, centro de Atención Temprana y centro escolar. Presentamos tanto la estrategia nacional como europea para la estructuración del seguimiento de estos niños.
+
+El seguimiento a largo plazo de estos pacientes de alto riesgo debería incluir 4 aspectos claves: salud física (crecimiento, neurológico, sensorial, cardiológico, respiratorio...), salud mental, aprendizaje e inteligencia y calidad de vida (tabla 1). Los puntos clave de vigilancia
+@p 529
+van cambiando en función del tiempo, desde los problemas médicos (alimentación y crecimiento), al desarrollo psicomotor y aspectos educativos como el comportamiento, interacción con pares, así como la transición a la escolarización. No obstante, quizás son la valoración de la salud mental y de la calidad de vida nuestras asignaturas pendientes.
+
+## 2 Seguimiento hospitalario y en atención primaria
+
+A pesar de la extensa bibliografía existente sobre el seguimiento en este grupo de alto riesgo, su gran variabilidad en relación a los criterios de inclusión, cronología de las valoraciones o la metodología, así como la existencia de grupos controles, complica el poder llegar a conclusiones. A nivel nacional, una de las mayores limitaciones es el desconocimiento de la situación actual de estos niños en la edad escolar, dado que no disponemos de datos sobre las necesidades sanitarias y educativas de esta población más allá de los dos años de edad. Tras el establecimiento de un protocolo nacional y el inicio de la formación específica en el seguimiento del recién nacido de alto riesgo, quizás nuestro siguiente paso debería ser la optimización de los registros de seguimiento nacionales incluyendo sus morbilidades a largo plazo. Es fundamental conocer la prevalencia de los diferentes trastornos y su gravedad en nuestro medio para poder ofertar una atención eficiente y de calidad, así como analizar la necesidad de disponer de recursos especiales.
+
+Sin duda, el objetivo común a largo plazo para los niños y sus familias, así como para los profesionales es trabajar, tanto en el ámbito de las unidades neonatales como durante el seguimiento, para garantizar que los niños de alto riesgo maximicen su capacidad de desarrollo y bienestar, asegurando una adecuada integración de éstos en el medio familiar, escolar y social.
+@ancha
+| {11} **Tabla 1. Cronograma abreviado seguimiento hospitalario y en atención primaria** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Revisiones** | 1 año | 2 años | 3 años | 4 años | 5 años | 6 años | 7 años | 9 años | 12 años | 14 años |
+| Crecimiento | + | + | + | □ | + | □ | □ | + | + | + |
+| Valoración con Denver o Haizea-Llevant | + | + | o | | o | | | | | |
+| Controles establecidos dentro del Programa de Salud de la Infancia | o | o | o | | o | | | o | o | o |
+| Valoración visión | | | o | | | | | | | o |
+| Especialistas *(neurólogo, psicólogo, oftalmólogo)* | □^a^ | □^b^ | □^c^ | | | | | | | |
+| Valoración de signos de alarma, test Batelle | | | | | | □ | □ | | | |
+| Cuestionario sobre rendimiento escolar | | | | □ | □ | □ | □ | □ | □ | □ |
+@p 530
+@pie Tabla 1. Cronograma abreviado seguimiento hospitalario y en atención primaria (continuación)
+| Kaufman o Cumanin o PEDS (Si no disponibilidad de psicólogo) | | | | | □ | | | | | |
+| WISC IV o V (si disponibilidad de psicólogo o siempre que exista alteración del rendimiento escolar | | | | | | | □ | | □ | |
+| **Revisiones** | 1 año | 2 años | 3 años | 4 años | 5 años | 6 años | 7 años | 9 años | 12 años | 14 años |
+| Evaluación psicoafectiva y comportamental: SDQ 7 CBCL / Conners | | | | | □ | | □ | | | |
+| {11} *Seguimiento hospitalario y en Atención primaria: // + común, □ hospitalario exclusivamente, o Atención primaria exclusivamente. // ^a^Neurólogo: Si alto riesgo o afectación neurológica, a los 3 y 12 meses. // ^b^Otorrinolaringología y Psicología. En caso de no poder efectuar test de Bayley III, pasar a los padres el test de PARCA (Parent report of children's abilities) o ASQ (Ages & Stages Questionnaires). // ^c^Oftalmólogo. A todos, antes de cumplir los 3 años. // Explicar las abreviaturas: SDQ, CBCL, PEDS* |
+! En el PDF la tabla incluye la frase «Explicar las abreviaturas: SDQ, CBCL, PEDS»; se ha copiado tal cual.
+
+@caja
+**SE RECOMIENDA**
+- La Sociedad Española de Neonatología recomienda que todo prematuro con <1500g o < 32 sem de gestación forme parte de un Seguimiento estandarizado al menos hasta la edad escolar (6-7 años). Fuerza B recomendación USPSTF.
+- El seguimiento a largo plazo de estos pacientes de alto riesgo debería incluir 4 aspectos claves: salud física (crecimiento, neurológico, sensorial, cardiológico, respiratorio...), salud mental, aprendizaje e inteligencia y calidad de vida.
+- La coordinación multidisciplinar (neonatólogo, especialistas, pediatra de Atención Primaria, centro de Atención Temprana y centro escolar) es fundamental para poder potenciar su capacidad de desarrollo y bienestar.
+@fin
+@bib
+1. March of Dimes, PMNCH, Save the Children, WHO. Born Too Soon: The Global Action Report on Preterm Birth. Eds CP. Howson, MV Kinney, JE Lawn. World Health Organization. Geneva, 2012.
+2. Stoll BJ, Hansen NI, Bell EF, et al. Eunice Kennedy Shriver National Institute of Child Health and Human Development Neonatal Research Network. Trends in Care Practices, Morbidity, and Mortality of Extremely Preterm Neonatales, 1993-2012. JAMA 2015; 314:1039–1051.
+3. Schieve L, Tian LH, Rankin K, et al. Population impact of preterm birth and low birth weight on developmental disabilities in US children. Ann Epidemiol 2016; 26:267-274.
+@p 531
+4. Doyle LW, Anderson PJ, Battin M, et al. Long term follow up of high risk children: who, why and how? BMC Pediatrics 2014, 14: 279.
+5. Grupo de Seguimiento de la Sociedad Española de Neonatología. Protocolo de seguimiento para el recién nacido menor de 1500g o menor de 32 semanas de gestación. Madrid: Sociedad Española de Neonatología; 2017. Disponible en: www.seneonatal.es.
+6. Follow-up & continuing care - EFCNI - European Standards of Care for Newborn Health. https://newborn-health-standards.org/.
