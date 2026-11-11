@@ -1,0 +1,125 @@
+@f 14. Protocolos SENEO/3.2. Seguridad en una UCI neonatal
+@p 151
+# 3.2 SEGURIDAD EN UNA UCI NEONATAL
+
+*Ester Sanz López, Ana Rodríguez Sánchez de la Blanca, María Arriaga Redondo*
+
+*Hospital General Universitario Gregorio Marañón, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 137-141 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Las unidades de cuidados intensivos (UCIs) son áreas de máxima complejidad y con un alto riesgo de aparición de eventos adversos (EA) relacionados con la atención sanitaria debido, entre otros factores, a la gravedad de patología, la necesidad de procedimientos invasivos diagnósticos y/o terapéuticos o el uso de múltiples fármacos, siendo muchos de éstos medicación de alto riesgo (MAR). En las UCIs neonatales (UCIN) hay que sumar también la vulnerabilidad propia del paciente recién nacido, con imposibilidad de comunicación verbal, inmadurez y susceptibilidad a las infecciones (especialmente en pretérminos). Además, la necesidad de ajuste de dosis farmacológica en función de peso y edad gestacional y postnatal, el uso de fármacos en condiciones fuera de ficha técnica y la falta de presentaciones farmacológicas con concentraciones adaptadas al paciente neonatal, que obligan a emplear volúmenes pequeños y diluciones complejas, incrementan el riesgo de aparición de incidentes.
+
+De hecho, los eventos que con mayor frecuencia se producen en las UCIN son los errores de medicación (EM), seguidos de las infecciones relacionadas con la atención sanitaria y de los errores en procedimientos por falta de cumplimiento de los protocolos establecidos.
+
+Por todo ello es fundamental reforzar la seguridad del paciente en las UCIN y pasar de un abordaje reactivo, orientado a analizar y establecer medidas correctoras una vez ocurrido un EA, a uno proactivo, centrado en medidas preventivas dirigidas a evitarlos.
+
+Entre las estrategias proactivas destacan:
+
+## 1 Estrategias proactivas en seguridad neonatal
+
+1. Impulsar la **cultura de seguridad** en la UCIN, para lo cual se recomienda, además de la implicación de los responsables de la unidad, contar con referentes de seguridad de distintas categorías profesionales, que estén integrados en comités de seguridad hospitalarios, que participen en el análisis de riesgos y planes de mejora de seguridad del paciente, en el fomento y la difusión de prácticas de seguridad y que sirvan de referencia y apoyo al resto del personal y familiares de pacientes ante la aparición de EA (atención a primeras, segundas y terceras víctimas)
+2. **Formación** de todo el personal de la UCIN en seguridad del paciente
+3. Promoción de implantación de **prácticas seguras**
+4. Cumplimiento de las **metas internacionales de seguridad del paciente** (tabla1),
+@p 152
+adaptadas al área de UCIN. En este sentido, cobra especial importancia la correcta identificación del paciente, y los centros deben disponer de protocolos propios que garanticen la identificación inequívoca de los recién nacidos desde el momento del nacimiento y durante toda su estancia hospitalaria.
+
+5. **Estandarizar los procedimientos** tanto médicos como de enfermería mediante guías clínicas y/o protocolos y vigilar su adecuado cumplimiento.
+6. Fomentar la **participación e implicación de las familias** en seguridad del paciente
+| **Tabla 1. Metas internacionales de seguridad del paciente** |
+|---|
+| • Identificar correctamente a los pacientes |
+| • Mejorar la comunicación efectiva entre profesionales |
+| • Mejorar la seguridad de los medicamentos de alto riesgo |
+| • Garantizar en caso de cirugía o de procedimiento invasivo: paciente correcto, lugar correcto y procedimiento correcto |
+| • Reducir el riesgo de infecciones relacionadas con la atención sanitaria |
+| • Reducir el riesgo de caídas |
+
+## 2 Prácticas seguras
+
+Sería imposible resumir en este protocolo todas las prácticas seguras aplicables en la UCIN, pero, dada la alta incidencia de EM en la UCIN, merece especial atención la implantación de **prácticas seguras relacionadas con el uso de fármacos.** En este sentido, se recomienda:
+- La creación de protocolos relacionados con el uso de fármacos.
+- La utilización de guías farmacológicas actualizadas
+- La formación continuada del personal en el uso seguro de medicamentos.
+- El empleo de prescripción electrónica con sistemas de soporte a la decisión clínica y el uso preferiblemente de perfusiones estandarizadas.
+- Evitar, salvo en situaciones de emergencia, órdenes de prescripción verbales.
+- Favorecer un clima de trabajo adecuado y sin interrupciones durante la prescripción, preparación y administración del fármaco.
+- El uso de bombas de infusión inteligentes con sistemas de seguridad para infusión de medicación parenteral.
+@p 153
+- Aplicación de la regla de los “cinco correctos” para la prescripción, preparación y administración de fármacos: paciente correcto, fármaco correcto, dosis correcta, intervalo correcto y vía de administración correcta.
+- La monitorización continua de los EM a través de sistemas de notificación y farmacovigilancia que permitan la implantación de medidas correctoras y de mejora continua.
+- Además, se recomienda, siempre que sea posible, la validación de la prescripción por el farmacéutico hospitalario.
+
+Otra práctica segura que puede ser de utilidad en la UCIN, es el empleo de **listados de verificación (LV),** para reducir el riesgo de error en tareas estandarizadas y, detectar de forma precoz posibles incidentes. Dentro del ámbito sanitario, su uso está ampliamente extendido en el campo de la cirugía, donde los LV han demostrado ser útiles para reducir la mortalidad y las complicaciones ligadas a la cirugía. Igualmente, la Organización Mundial de la Salud ha desarrollado un LV de seguridad del parto para mejorar la calidad de la atención al mismo. En las UCIN, cada vez se extiende más el uso de LV para procedimientos invasivos, pero también puede resultar muy útil la elaboración de LV diarios, que permiten chequear aspectos básicos de seguridad adaptados a los procedimientos y prácticas clínicas más habituales. Además, el análisis de los incidentes detectados en los LV permite aumentar el conocimiento sobre la seguridad en la UCIN y puede servir de punto de partida para acciones correctivas y de mejora. En la figura 1 se muestra un ejemplo de LV que desarrollamos e implantamos nuestra unidad y que cumplimentan a diario y de forma conjunta el personal médico y de enfermería responsables de cada paciente. Este listado sirve de ayuda para comprobar de forma reglada: la identificación del paciente, la medicación, el soporte respiratorio, el ajuste de las alarmas de monitores y aparataje, la nutrición, las vías centrales y periféricas, el sondaje vesical y la vigilancia de la integridad de la piel.
+
+Para elaborar un LV que resulte eficaz, deben tenerse en cuenta algunos requisitos fundamentales como son:
+- Simplicidad: han de ser fáciles de interpretar y cumplimentar por el personal, con preguntas cerradas (respuesta SI/NO) o de extensión limitada y acotada a las prácticas más relevantes y frecuentes.
+- Aplicabilidad: los LV no pueden ser herramientas generales ya que deben estar adaptados a las características peculiares de cada unidad para poder garantizar las medidas de seguridad esenciales en cada ámbito de trabajo.
+- Mensurabilidad: este tipo de listados sirven como bases de registro para poder realizar auditorías, mediciones y establecer estrategias de mejora. Por otro lado, resulta imprescindible monitorizar periódicamente su cumplimiento y actualizar y adaptar su contenido en función de los resultados obtenidos.
+@p 154
+@deimg
+| {2} **Hospital General Universitario Gregorio Marañón** · PEGATINA IDENTIFICATIVA // Cama: …………………… |
+|---|---|
+| **Fecha** | |
+| **Hora** | |
+| **Identificado el paciente** | SI NO |
+| **Comp. Correcta prescripción** | |
+| **Comp. correcta transcripción** | |
+| **Comp. vía de administración** | |
+| {2} **Respiratorio** |
+| GN/ OAF/CPAP/ V No invasiva | SI NO |
+| Ventilación mecánica | SI NO |
+| Comprobación Parámetros | |
+| Comp. posición/fijación TET | |
+| Comprobación humidificador/calentador | |
+| Comp. **alarmas** monitor y bombas | |
+| {2} **Nutrición** |
+| Enteral | SI NO |
+| NPT | SI NO |
+| Comprobación ritmo/pauta ciclado | |
+| {2} **Vías** |
+| **Arterial** | SI NO |
+| Vía identificada | SI NO |
+| ¿Vía necesaria? | SI NO |
+| Comprobación punto inserción | |
+| Comp. perfusión miembro | |
+| **Venosa central** | SI NO |
+| Vía identificada | SI NO |
+| ¿Vía necesaria? | SI NO |
+| Comp. Signos congestión | |
+| **Silástico** | SI NO |
+| ¿Vía necesaria? | SI NO |
+| Comprobación signos flebitis | |
+| **Vía periférica** | SI NO |
+| ¿Vía necesaria? | SI NO |
+| Comprobación flebitis | |
+| **Ulceras** | SI NO |
+| Nº de problemas detectados | |
+| Firma enfermera | |
+| Firma medico | |
+| {2} Texto libre: describir problema/s detectado/s |
+@findeimg
+*Figura 1 Listado de verificación UCIN*
+! En el PDF es la foto de una hoja con siete columnas iguales (una por día o turno); aquí se muestra una sola columna.
+
+@caja
+**SE RECOMIENDA**
+- Fomentar una cultura de seguridad positiva y proactiva, con formación de todo el personal, pues la seguridad es responsabilidad de todos
+- Implantar prácticas seguras
+- Homogeneizar los procedimientos mediante la estandarización de los mismos y el cumplimiento de protocolos y guías clínicas.
+- Registrar y analizar los incidentes de seguridad para implantar acciones de mejora y difundir esta información a todo el personal de la UCIN
+@p 155
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Actitud punitiva ante aparición de eventos adversos.
+- Salvo en situaciones de emergencia, no utilizar órdenes de prescripción verbales.
+@fin
+@bib
+1. Valls i Soler A, López de Heredia I, López Herrera MC, et al. Estado de la seguridad del paciente neonatal. Informes estudios e investigación. Ministerio de Sanidad, Servicios Sociales e Igualdad, Madrid (2015).
+2. Normas para mejorar la calidad de la atención a los recién nacidos enfermos o de pequeño tamaño en los establecimientos de salud [Standards for improving quality of care for small and sick newborns in health facilities]. Organización Mundial de la Salud; 2021. ISBN 978-92-4-001724-5 (versión electrónica) ISBN 978-92-4-001725-2 (versión impresa).
+3. Alghamdi AA, Keers RN, Sutherland A, Ashcroft DM. Prevalence and Nature of Medication Errors and Preventable Adverse Drug Events in Paediatric and Neonatal Intensive Care Settings: A Systematic Review. Drug Saf. 2019;42(12):1423-1436.
+4. Martín Delgado MC, Trenado Álvarez J, Sanz López E et al. Prevención de errores de medicación en las Unidades de Cuidados Intensivos de adultos, pediátricas y neonatales en España. Prevemed 2022. ISBN: 978-84-09-39083-0.
+5. Arriaga Redondo M, Sanz López E, Rodríguez Sánchez de la Blanca A, et al. Mejorando la seguridad del paciente: utilidad de las listas de verificación de seguridad en una unidad neonatal. An Pediatr (Barc).2017; 87: 191-200.
+
+## Loời

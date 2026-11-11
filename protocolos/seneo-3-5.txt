@@ -1,0 +1,120 @@
+@f 14. Protocolos SENEO/3.5. Caracteristicas generales del gran prematuro, del prematuro tardío y del posmaduro
+@p 166
+# 3.5 CARACTERISTICAS GENERALES DEL GRAN PREMATURO, DEL PREMATURO TARDÍO Y DEL POSMADURO
+
+*María Gracia Espinosa Fernández, Tomás Sánchez-Tamayo*
+
+*Hospital Universitario Regional de Málaga*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 152-156 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introduccion: definición de prematuridad
+
+La prematuridad se define como aquel parto que acontece antes de las 37 semanas de gestación completas o menos de 259 días desde el primer día del último periodo menstrual (OMS).
+
+A nivel mundial se estima que la incidencia de nacimientos prematuros es de aproximadamente un 10%, lo que supone unos 15 millones de niños prematuros cada año. En España esta incidencia se sitúa en torno al 7.%.
+
+Es una causa importante de morbimortalidad, constituyendo la primera causa de muerte entre los menores de 5 años. Los avances tecnológicos y humanos en el control obstétrico del estado fetal y posterior manejo postnatal han permitido mejorar significativamente la supervivencia, sin embargo el riesgo de complicaciones y muerte continúan siendo elevados, particularmente en los recién nacidos extremadamente prematuros (menores de 28 semanas de gestación) y los de extremado bajo peso (< 1000 gramos).
+
+Resulta importante diferenciar los distintos tipos de prematuridad ya que no sólo condicionarán el tipo de enfermedad a la que predispone sino también la gravedad de esta. Cada unidad neonatal debe disponer de sus datos de supervivencia con y sin secuelas actualizados, que permitan informar adecuadamente de las posibilidades de un niño que va a nacer de forma prematura.
+
+## 2 Tipos de prematuridad en función de la edad gestacional y el peso (Tabla 1)
+
+| {2} **Tabla 1: Prematuridad en función de la edad gestacional y el peso** |
+|---|---|
+| {2} **PESO AL NACIMIENTO** |
+| Bajo peso al nacimiento | <2500 gramos |
+@p 167
+@pie Tabla 1: Prematuridad en función de la edad gestacional y el peso (continuación) PESO AL NACIMIENTO
+| Muy bajo peso al nacimiento | <1500 gramos |
+| Extremado bajo peso al nacimiento | <1000 gramos |
+| {2} **EDAD GESTACIONAL** |
+| Prematuro extremo | <28 semanas de gestación |
+| Muy prematuro | 28^0^-31^6^ semanas de gestación |
+| Prematuro moderado | 32^0^-33^6^ semanas de gestación |
+| Prematuro tardío | 34^0^-36^6^ semanas de gestación |
+| Término precoz | 37^0^-38^6^ semanas de gestación |
+| Término | 39^0^-40^6^ semanas de gestación |
+| Término tardío | 41^0^-41^6^ semanas de gestación |
+| Postérmino | ≥42 semanas de gestación |
+
+## 3 Influencia de la edad gestacional en la morbimortalidad neonatal
+
+**3.1. Recién nacidos extremadamente prematuros y muy prematuros**
+Continúan siendo el grupo con mayor riesgo de muerte, así como de secuelas a corto y largo plazo. Mención especial merecen los nacimientos en el límite de la viabilidad. La incertidumbre que rodea a los resultados referentes a la morbilidad grave y la vida futura de estos niños hace que el manejo de los mismos constituya un desafío en el que la toma de decisiones debe basarse en consideraciones tanto clínicas como éticas. Establecer los límites de la viabilidad continúa siendo controvertido.
+
+Se acepta la periviabilidad como la etapa más temprana de la madurez fetal en la que existe una probabilidad razonable de sobrevivir fuera del útero materno. Si bien la OMS establece un límite inferior de viabilidad en las 22 semanas de gestación, o 500 gramos de peso, o 25 centímetros de longitud al nacer, la mayoría de las unidades neonatales en nuestro país, inician medidas de reanimación activa a partir de las 24 semanas de gestación. Para aquellos recién nacidos con una edad gestacional entre las 23^0^-23^6^ la decisión de reanimar o no será compartida con los padres.
+
+En cuanto a los recién nacidos muy prematuros y/o de muy bajo peso al nacimiento (RNMBPN) así como a los extremadamente prematuros (RNEBPN), las complicaciones más comunes a corto plazo incluyen afecciones respiratorias como la displasia broncopulmonar; visuales, como la retinopatía de la prematuridad; digestivas, destacando por su gravedad la enterocolitis necrosante pero sin que podamos olvidar otras más leves y frecuentes como las dificultades en la alimentación; afecciones neurológicas como las temidas hemorragias intraventriculares y la leucomalacia periventricular. A largo plazo se han descrito parálisis cerebral con discapacidad motora y alteraciones neurocognitivas,
+@p 168
+dificultades en el aprendizaje y en las relaciones sociales así como elevados costes de salud entre otras.
+
+Las diferentes actuaciones emprendidas durante el ingreso hospitalario irán por tanto encaminadas a minimizarlas en la mayor medida de lo posible (Tabla 2).
+
+| **Tabla 2. Recomendaciones para el manejo general de los RNMBPN y RNEBPN** |
+|---|
+| Nacimiento en hospital de tercer nivel. Corticoides prenatales |
+| Medidas de estabilización inicial // • Retraso en el pinzamiento del cordón al menos 60 segundos siempre que las condiciones vitales lo permitan. // • Prevención pérdida calor (ambiente térmico neutro y bolsas polietileno) // • Ventilación poco agresiva/ Administración surfactante |
+| Nutrición Parenteral precoz. Manejo adecuado de fluidos parenterales |
+| Alimentación enteral trófica precoz |
+| Nutrición individualizada: Lactancia materna fortificada |
+| Uso juicioso antibioterapia |
+| Uso juicioso del oxígeno: saturaciones objetivo 90-94% |
+| Prevención apnea de la prematuridad: cafeína |
+| Limitar el uso de hemoderivados |
+| Cuidados centrados en el desarrollo. Participación activa de los padres |
+
+**3.2. Prematuro moderado**
+Incluye un grupo de recién nacidos con formas leves o moderadas de algunas de las patologías típicas de la prematuridad. En general, las medidas de actuación serán similares a las de los niños del grupo anterior.
+
+**3.3. Prematuro tardío**
+En este grupo nos encontramos a niños que pueden ser capaces de succionar o de mantener su temperatura aceptablemente, sin embargo, no debemos obviar que no son recién nacidos a término. Si bien, la mayoría evolucionan favorablemente, algunos pueden presentar diversos problemas tras el nacimiento asociados a la prematuridad (distrés respiratorio, dificultades en la alimentación, hipoglucemia, mal control térmico...) o tras el alta (ictericia, pérdida excesiva de peso...) por ello se debe mantener una vigilancia clínica estrecha, evitando el alta precoz, y manteniendo la hospitalización, al menos durante 48 horas.
+
+## 4 Recién nacido posmaduro
+
+Se define como aquel recién nacido cuyo nacimiento acontece más allá de las 42 semanas de gestación (>294 días) o 14 días después de la fecha probable de parto. Esta prolongación de la gestación puede conducir a una disminución de la función placentaria con el consiguiente aumento del riesgo de hipoxia fetal y, disminución de la nutrición del feto asociada a un menor peso al nacimiento.
+@p 169
+Igualmente, existe un riesgo aumentado de estado fetal no tranquilizador, en relación sobre todo con la mayor presencia de oligoamnios y meconio en el líquido amniótico, lo que podría conducir a un aumento de los casos de asfixia perinatal con posible encefalopatía hipóxico -isquémica y, del síndrome de aspiración de meconio.
+
+Se ha descrito también una mayor frecuencia de niños con retraso del crecimiento intrauterino, malformaciones e incluso de muertes intraútero.
+
+El síndrome del recién nacido postmaduro descrito por Clifford en 1954 diferencia tres estadios en función de las características clínicas y la severidad de la hipermadurez.
+
+| {3} **Tabla 3. Estadios del síndrome del recién nacido postmaduro de Clifford.** |
+|---|---|---|
+| **ESTADIO I** | **ESTADIO II** | **ESTADIO III** |
+| Actitud en alerta con los ojos abiertos // Aspecto desnutrido (largo y delgado) // Piel seca, agrietada, apergaminada, uñas largas. | Mismas características físicas y en la alerta. // Líquido meconial // Piel, cordón umbilical y membranas placentarias teñidas por meconio. | Coloración amarillenta de feto y placenta como consecuencia de una exposición prolongada al meconio. |
+
+En relación con otras complicaciones, se ha visto también una mayor frecuencia de:
+- Policitemia en relación con el aumento de la eritropoyesis fetal como respuesta a la hipoperfusión placentaria.
+- Hipoglucemia especialmente durante las primeras 12-24 horas de vida.
+- Hipotermia debida a la menor grasa subcutánea y la dificultad para generar calor.
+- Mayor riesgo de traumatismos obstétricos en caso de fetos macrosómicos (peso al nacimiento>4500 gramos).
+| **Tabla 4. Recomendaciones para el manejo del recién nacido postmaduro** |
+|---|
+| Control exhaustivo del estado fetal |
+| Sala de partos: // • Recomendaciones reanimación síndrome aspiración meconio. // • Encefalopatía hipóxica-isquémica, valorar tratamiento hipotermia inducida. |
+| Mayor riesgo de hipotermia: control de la temperatura (secado, calor radiante, contacto piel con piel) |
+| Riesgo de hipoglucemia: lactancia materna precoz, controles de glucemia. |
+| Policitemia: hemograma (vigilar posibles signos/ síntomas de hiperviscosidad). |
+| Restricción del crecimiento intrauterino mayor riesgo de enterocolitis necrosante, priorizar lactancia materna. |
+
+@caja
+**SE RECOMIENDA**
+- Una adecuada comunicación entre obstetra y neonatólogo permite adelantarse, y afrontar en las mejores condiciones las situaciones de riesgo que ocurren tanto en RNPT como en postérmino.
+@p 170
+- Disponer de los resultados actualizados de supervivencia y secuelas permite ofrecer una mejor información a los padres y constituye un pilar fundamental en la toma de decisiones.
+- Las medidas para garantizar un control térmico adecuado han demostrado que influyen positivamente en los resultados de supervivencia, en todas las edades gestacionales.
+- Control metabólico evitando la hipoglucemia desde primera hora de vida
+- En relación con el recién nacido postérmino y especialmente en aquellos con bajo peso, vigilancia clínica estrecha durante las primeras 48 horas prestando especial atención a aspectos neurológicos, gastrointestinales, hematológicos y renales
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Considerar el recién nacido prematuro tardío como un recién nacido a término, precisan vigilancia clínica estrecha debiéndose posponer el alta hospitalaria al menos hasta las primeras 48-72 horas de vida y siendo precisa la valoración precoz desde Atención Primaria.
+@fin
+@bib
+1. Mandy GT. Shor-term complications for the preterm infant. Uptodate May 2022.
+2. Instituto Nacional de Estadística. Estadística de Nacimientos. Partos por edad de la madre, tipo de parto y prematuridad. Recuperado de: https://ine.es/jaxiT3/Datos.htm?tpx=50546.
+3. Stanojevic M. Limits of viability: should we play god? Psychiatr Danub 2021; 33(Suppl3):S280-S291.
+4. García Reymundo M, Hurtado Suazo JA, Calvo Agilar MJ, et al. Recomendaciones de seguimiento del prematuro tardío. Disponible en www.se-neonatal.es.
+5. López E. Management of post-term neonates. J Gynecol Obstet Biol Reprod (París). 2011; 40:812-817.
+6. Clifford SH. Postmaturity, whith placental dysfunction; clinical syndrome and pathological findings. J Pediatr 1954; 44: 1-13.

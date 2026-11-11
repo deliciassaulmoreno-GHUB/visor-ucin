@@ -1,0 +1,102 @@
+@f 14. Protocolos SENEO/3.9. Enfermedades neonatales de base genética. Cribado selectivo
+@p 188
+# 3.9 ENFERMEDADES NEONATALES DE BASE GENÉTICA. CRIBADO SELECTIVO
+
+*Purificación Marín-Reina^1^, Teresa Jaijo^1^, Fernando Santos-Simarro^2^*
+
+*^1^Hospital Universitari i Politècnic La Fe. Instituto de Investigacion Sanitaria La Fe, Valencia. ^2^Hospital Universitario Son Espases, IdiSBa, Palma de Mallorca*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 174-178 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Se estima que un 2-3% de los recién nacidos tienen una anomalía congénita y, de ellas, se reconoce un origen genético en el 50% de los casos. En los países desarrollados, las enfermedades genéticas suponen un 20-30% de los ingresos hospitalarios, con un impacto considerable en el número de fallecimientos en las unidades neonatales.
+
+El diagnóstico genético de una enfermedad permite el tratamiento preciso y personalizado de los pacientes, así como una adecuada información y asesoramiento reproductivo a las familias.
+
+## 1 Tipos de alteraciones genéticas
+
+- Anomalías citogenéticas (cromosómicas), como aneuploidías, deleciones, duplicaciones y traslocaciones o disomías uniparentales.
+- Alteraciones moleculares (en la secuencia o expresión de un gen):
+  - Monogénicas: Alteraciones en la secuencia de nucleótidos de un gen. Herencia mendeliana.
+  - Complejas o multifactoriales: Alteraciones en diferentes genes que en su interacción con el ambiente dan lugar a la expresión de una enfermedad. Herencia no mendeliana.
+  - Alteraciones mitocondriales: mutaciones puntuales o depleciones de genes localizados en el genoma mitocondrial. Herencia mitocondrial.
+- Otras: alteraciones en el imprinting de causas genéticas heterogéneas.
+
+## 2 Asesoramiento genético
+
+La realización de una prueba genética requiere de un adecuado asesoramiento genético pre y post-test.
+
+- Valoración pre-test:
+@p 189
+  - Antecedentes gestacionales y test genéticos realizados a nivel preimplantacional o prenatal.
+  - Antecedentes familiares (preferiblemente, árbol genealógico hasta tres generaciones).
+  - Exploración física completa.
+  - Tras la orientación diagnóstica, se solicitará la prueba genética más adecuada. Se explicará a los progenitores las características de la prueba, los posibles resultados y sus limitaciones de modo objetivo.
+  - Obtención del consentimiento informado por escrito.
+- Valoración post-test
+  - Evaluar la correlación genotipo-fenotipo y establecer una sospecha o confirmación diagnóstica.
+  - Adecuar los planes de tratamiento y seguimiento.
+  - Informar a la familia sobre las características de la enfermedad, ofrecer fuentes de información online o asociaciones de pacientes.
+  - Asesoramiento reproductivo de la familia y, en función del caso, recomendación de estudio genético a la familia (estudios de segregación familiar).
+
+## 3 Pruebas genéticas (Tablas 1 y 2)
+
+Entre las pruebas más utilizadas en Neonatología cabe destacar:
+- CARIOTIPO: Prueba citogenética clásica. Imagen de los 46 cromosomas ordenados por parejas. Puede detectar aneuploidías, inversiones y traslocaciones, duplicaciones y deleciones con tamaño ≥5-10Mb.
+  - Indicaciones: Diagnóstico de aneuploidías más frecuentes (trisomías 13,18 y 21).
+- CGH-ARRAY (Hibridación genómica comparada): Permite la detección de pérdidas o ganancias de material genético de <1Mb dependiendo del tipo de array (no detectables por cariotipo) en todo el genoma.
+  - Indicaciones: Técnica inicial de elección para estudio de pacientes con anomalías congénitas, rasgos dismórficos o problemas en el neurodesarrollo no filiados y sospecha de síndromes de genes continuos por microdeleción o microduplicación Ejemplos: microdeleción 22q11, síndrome de Williams.
+- ESTUDIOS MOLECULARES DIRIGIDOS: Son pruebas para estudiar alteraciones en un gen o región muy concreta.
+  - SECUENCIACIÓN SANGER: Diagnóstico de mutaciones puntuales o deleciones o inserciones de unos pares de bases. Ejemplos: Síndrome de Apert, acondroplasia.
+  - MLPA: Detección de deleciones o duplicaciones de un exón, un gen completo o determinadas regiones del genoma. Ejemplos: Atrofia muscular espinal
+@p 190
+(causada por deleción del gen SMN1).
+
+  - ESTUDIO DE MUTACIONES DINÁMICAS: Determinación del número de repeticiones de una determinada región repetitiva. Ejemplos: Distrofia miotónica tipo I, Síndrome de X-frágil.
+  - ESTUDIOS DE METILACIÓN: Determinar cambios específicos de la metilación en una región concreta. Ejemplos: Síndrome de Silver Russell, Síndrome de Prader-Willi.
+- SECUENCIACIÓN DE NUEVA GENERACIÓN (NGS- Next Generation Sequencing): Nuevas técnicas que permiten el estudio de múltiples genes de manera rápida y económica. Detecta mutaciones puntuales o pequeñas deleciones o inserciones en un elevado número de genes simultáneamente. En general, este tipo de técnicas se indican cuando nos encontramos ante pacientes con fenotipos que puedan correlacionarse con diferentes genes o con cuadros clínicos difíciles de concretar
+  - PANELES PERSONALIZADOS: Estudio de manera simultánea de un conjunto de genes relacionados con una patología concreta.
+    - Indicaciones: Enfermedades bien definidas clínicamente, para las cuales se conocen la mayoría de genes implicados Ejemplos: rasopatías, miocardiopatías, displasias esqueléticas.
+  - ESTUDIOS DE EXOMA: Estudio de la parte codificante del genoma. Es la técnica más apropiada actualmente para detectar enfermedades con mayor heterogeneidad fenotípica y genética. Ejemplos: encefalopatías epilépticas, fallo multiorgánico no filiado con sospecha de metabolopatía.
+    - EXOMA CLÍNICO: Secuenciación del exoma de genes asociados a enfermedad. El análisis suele ser dirigido, centrado en los genes relacionados con la clínica del paciente.
+    - EXOMA COMPLETO (WES- Whole exome sequencing): Secuencación del exoma de todos los genes del genoma humano. A priori, se indicaría en casos complejos en los cuales el exoma clínico haya sido negativo o se sospechen genes no incluidos en el exoma clínico disponible.
+  - ESTUDIOS DE GENOMA COMPLETO (WGS-Whole genome sequencing): Secuenciación del genoma completo. Se revisan tanto los exones como los intrones de los genes. Por el momento, el uso de esta técnica se limita al ámbito de la investigación, si bien, es probable que en el futuro se incluya en la práctica clínica.
+
+– Indicaciones de NGS: Cuadros clínicos que pueden relacionarse con alteraciones en diferentes genes.
+
+| {3} **Tabla 1. Utilidades y limitaciones de las diferentes pruebas genéticas** |
+|---|---|---|
+| **Cariotipo** | Aneuploidías, deleciones y duplicaciones de gran tamaño y traslocaciones | Requerimiento de un tiempo de cultivo para la obtención de cromosomas en división celular |
+@p 191
+@pie Tabla 1. Utilidades y limitaciones de las diferentes pruebas genéticas (continuación)
+| **Array** | Pérdidas o ganancias de material genético de pequeño tamaño | No detecta traslocaciones balanceadas, algunas poliploidías ni mosaicos en bajo grado (< 10-20%) |
+| **Estudios moleculares dirigidos** | Alteraciones en un gen o región muy concreta | Alta sospecha clínica necesaria |
+| **NGS** | Alteraciones en un número elevado de genes simultáneamente de manera rápida y económica | – Dificultad para adecuada interpretación por variantes de significado clínico incierto // – Suele requerir muestra de ambos progenitores |
+| {3} *NGS: Next Generation Sequencing* |
+
+| {2} **Tabla 2. Prueba genética de elección en función de la clínica del paciente** |
+|---|---|
+| **SOSPECHA CLÍNICA** | **PRUEBA INDICADA** |
+| – Aneuploidía reconocible clínicamente (21,13,18) | Cariotipo QF-PCR |
+| – Cuadro sindrómico no filiado (asociación de varias anomalías menores, anomalías congénitas mayores, hipotonía y dismorfia facial) // – Retraso de crecimiento intrauterino no filiado // – Sospecha de síndrome de microdeleción o microduplicación | Array CGH |
+| – Enfermedad monogénica con una mutación/alteración concreta asociado a un fenotipo reconocible clínicamente | Estudios moleculares dirigidos |
+| – Cuadro clínico relacionado con varios genes (fallo multiorgánico con sospecha de metabolopatía, encefalopatía epiléptica, displasias óseas, miocardiopatías, alteraciones del ritmo cardíaco...) | Estudios de secuenciación masiva |
+| {2} *CGH: Hibridación genómica comparada* |
+
+@caja
+**SE RECOMIENDA**
+- Es importante una adecuada orientación diagnóstica previa a la solicitud de una prueba genética, así como el asesoramiento pre y post test realizado por profesionales con formación adecuada.
+- Las pruebas genéticas realizadas en biopsia corial, amniocentesis o cordocentesis estudian DNA fetal y no requieren repetirse postnatalmente, en general (en caso de duda, consultar con el laboratorio).
+- El cariotipo, la secuenciación Sanger, MLPA o estudio de mutaciones dinámicas o de metilación son pruebas que en la actualidad se recomiendan como primera elección para pacientes con fenotipos muy claros y alteraciones cromosómicas o genéticas conocidas y concretas.
+- Ante cuadros clínicos complejos con fenotipos que puedan relacionarse con diferentes alteraciones cromosómicas o varios genes, se recomiendan pruebas
+@p 192
+genómicas como el Array y la secuenciación masiva.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- En menores, no se recomienda realizar estudios genéticos de portadores (sanos) ni de enfermedades que aparezcan en la edad adulta y en las cuales no se pueda ofrecer ninguna actitud preventiva.
+- En el momento actual, los test prenatales no invasivos en sangre materna son pruebas de cribado. Los resultados de los mismos no pueden considerarse equivalentes ni sustituyen al resto de pruebas explicadas en este protocolo.
+@fin
+@bib
+1. Santos Simarro F, Vallespín García E, Palomares Bralo M. Nuevas metodolologías de enfermedades genéticas y sus indicaciones. Pediatr Integral. 2019; XXIII: 241-248.
+2. Arroyo Carrera I. Genética básica para el pediatra. Pediatr Integral 2014; XVIII:564-570.
+3. Petrikin JE, Willig LK, Smith LD, et al. Rapid whole genoma sequencing and precisión neonatology. Semin Perinatol 2015;39:623-31.
+4. Van El GC, Cornel MC, Borry P, et al. Whole-genome sequencing in heatlh care. Recommendations of the European Society of Human Genetics. Eur J Hum Genet 2013; 21: 580-4.

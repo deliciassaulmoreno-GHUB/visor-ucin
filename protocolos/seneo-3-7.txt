@@ -1,0 +1,105 @@
+@f 14. Protocolos SENEO/3.7. Cuidados paliativos perinatales
+@p 175
+# 3.7 CUIDADOS PALIATIVOS PERINATALES
+
+*Ana Martín Ancel*
+
+*Hospital Sant Joan de Déu, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 161-166 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Los cuidados paliativos perinatales (CPP) son la forma de atención médica especializada dirigida a los fetos y recién nacidos que presentan enfermedades limitantes o amenazantes de la vida, y que se extiende a sus familias. Tienen como objetivo anticipar, prevenir y tratar el sufrimiento físico, psicológico, social y espiritual, ofreciendo la mejor calidad de vida posible, desde el diagnóstico (muchas veces intraútero) hasta el fallecimiento (días, meses o años después) y el duelo.
+
+## 1 Dominios
+
+**El *National Consensus Project for Quality Palliative Care* (NCPQPC) ha propuesto 8 dominios que, afrontados simultáneamente, facilitan una aproximación global de excelencia.**
+1. **Estructura y proceso.** Cada hospital establecerá sus propios protocolos de actuación.
+- *Equipo interdisciplinario:* médicos (obstetras, neonatólogos, paliativistas, especialistas), enfermeras, matronas, trabajadores sociales, psicólogos y otros según la patología.
+- *Padres:* tienen un papel central en la toma de decisiones y el plan de cuidados.
+- *Médico responsable:* coordina la información, asistencia y transferencia entre servicios.
+- *Lugar:* circuitos asistenciales incluyendo consultorios de obstetricia, plantas de hospitalización, paritorios, Unidades de Cuidados Intensivos Neonatales (UCIN), atención primaria y consultas de seguimiento.
+2. **Aspectos físicos.** Evaluación continuada. Junto con la familia, para cada síntoma, se intenta identificar la etiología y se reflexiona sobre las ventajas e inconvenientes de realizar pruebas diagnósticas y de ofrecer un tratamiento específico, curativo o paliativo (Tabla 1).
+
+  *Dolor.* Se monitorizan intensidad y evolución mediante escalas. Tratamiento con medidas no farmacológicas y/o farmacológicas (sacarosa, paracetamol, morfina o fentanilo). La analgesia debe pautarse según la vida media, para evitar que reaparezca el malestar entre dosis. Administración oral; subcutánea excepcional; intravenosa si ya está canalizada.
+
+3. **Aspectos psicológicos y psiquiátricos.** Valoración del distrés emocional y psicosocial,
+@p 176
+en padres y hermanos, así como ansiedad, depresión y patologías psiquiátricas de base.
+
+- Psicólogos y psiquiatras pueden atender a todas las familias, o a las que sean referidas
+- Apoyo al duelo 13 meses mediante llamadas, encuentros o cartas de condolencia.
+- También los profesionales necesitan apoyo emocional
+4. **Aspectos sociales.** Un trabajador social evalúa fortalezas, resiliencia y apoyos sociales de cada familia, así como sus necesidades, vulnerabilidades y recursos económicos.
+- Se identifican recursos sanitarios y sociales que puedan ofrecer apoyo.
+5. **Aspectos espirituales, religiosos y existenciales.** Identificar la forma en que los padres buscan y expresan el significado último y la finalidad de la vida, que se manifiesta mediante creencias, valores, tradiciones y rituales. Su espiritualidad influirá en la toma de decisiones, la vivencia de la enfermedad, el dolor, el proceso de muerte y el duelo.
+- Según necesidades, seguimiento por agentes de atención espiritual, capellanes, etc.
+6. **Aspectos culturales.** El equipo reconoce y acoge la diversidad cultural, los valores, prácticas tradicionales y preferencias de comunicación de las familias
+7. **El cuidado del paciente que se aproxima al final de la vida.** Los CPP no se reducen a los cuidados en la fase final de vida, pero los días previos y posteriores al fallecimiento tienen una importancia particular.
+- *Lugar:* la atención domiciliaria supone un impacto positivo en la calidad de vida. En el hospital, es preferible una habitación individual. Según la patología, algunos pacientes tratados en UCIN, fallecerán en esta unidad.
+- *Evaluación y manejo meticulosos* del dolor y otros síntomas, así como aspectos sociales (preparación de funeral, entierro o incineración) y psicológicos (apoyo al dolor y al duelo). Se aborda la conveniencia de realizar autopsia o RM postmortem, y obtener muestras de sangre u otros tejidos. En coordinación con el equipo de trasplantes se puede proponer realizar donación de válvulas cardiacas o córneas.
+| {3} **Tabla 1. Identificación y manejo de los síntomas al aproximarse el final de la vida** |
+|---|---|---|
+| **Síntomas** | **Intervenciones no farmacológicas** | **Farmacológicas** |
+| A valorar en todos los casos | Piel con piel, succión con chupete, gotas de leche materna o sacarosa, voz, caricias, flexión, contención, balanceo, música, olores | |
+| Distrés respiratorio (posible disnea) | Optimizar posición y Tª, eliminar secreciones en vía aérea, etc. Gasping: no causa ni expresa sufrimiento, por lo que no se trata, pero requiere preparar a los padres | Opioides (primera línea). Benzodiacepinas (coadyuvante). Si hipoxemia, probar oxigenoterapia |
+@p 177
+@pie Tabla 1. Identificación y manejo de los síntomas al aproximarse el final de la vida (continuación) Síntomas Intervenciones no farmacológicas Farmacológicas
+| Secreciones excesivas en vía aérea | Decúbito lateral o prono. Tratar solo si son molestas. Si acumulación en faringe: valorar aspiración oral suave. | Atropina oftálmica 1% sublingual. Glicopirrolato. |
+| Estreñimiento. Meteorismo | Por disminución de motilidad, ingesta escasa, debilidad, opioides, etc. Masaje abdominal. | Según etiología. Glicerina Lactulosa. Eupeptina. |
+| Náuseas. Vómitos | Por patología gastrointestinal, opioides., etc. Reducir volumen; medidas posturales. | Con cautela: metoclopramida, domperidona, ondansetrón, dexametasona. |
+| Disfagia. Anorexia. Hambre. Sed. | Sopesar síntomas por alteraciones glucoelectrolíticas y debilidad frente a sobrecarga líquida, distensión abdominal, náuseas o vómitos. Ofrecer gotas de leche. | Valorar iniciar (o mantener) alimentación por SNG o perfusión IV, con objetivo de mayor confort. |
+| Piel seca. Prurito. Lesiones cutáneas. Edemas | Por presión, roce, humedad, hipoperfusión, inmovilización, medicación, patología de base, etc. Cambios posturales. Masajes. | Cremas hidratantes o emolientes. Aceites vegetales. Otros, según etiología. |
+| Boca seca | Torunda o gasa humedecida en agua o leche | Vaselina tópica en labios |
+| Cierre ocular incompleto | | Lágrimas artificiales. Gel lubricante. |
+| Retención orina | Presión abdominal. Ajuste farmacológico | Rara vez sondaje vesical. |
+| Dolor óseo o muscular | Por fracturas o inmovilización. Masajes. Fisioterapia. Posicionamiento adecuado. | |
+| Eritema perianal | Cambios frecuentes de pañal. Exposición al aire. Cremas o pomadas protectoras. | Antifúngicos o antibióticos tópicos |
+| Agitación | Considerar frío, calor, ruido, deshidratación, dolor, hipoxemia, anemia, retención urinaria, estreñimiento, efectos farmacológicos | Valorar benzodiacepinas, neurolépticos, morfina, fenobarbital |
+| Crisis convulsivas | Si riesgo por la patología de base, preparar a los padres. | Planificar medidas de rescate (ej. midazolam o diazepam) |
+
+- *Adecuación del esfuerzo terapéutico:* Cuando el pronóstico del paciente así lo aconseje se retira, ajusta o no instaura un tratamiento, incluyendo tratamiento de soporte vital, manteniéndose medidas de carácter paliativo para garantizar el bienestar del paciente.
+- El proceso de toma de decisiones debe estar documentado en la historia clínica.
+@p 178
+  No es recomendable exigir la firma de un documento a padres o tutores.
+
+- Como último recurso para aliviar síntomas graves, irreversibles y refractarios a otros tratamientos, puede ser necesario realizar una *sedación paliativa en la fase final de la vida (sedación terminal)* mediante fármacos administrados de manera controlada para inducir una disminución mantenida del estado de alerta, superficial o incluso profunda. El inicio es fruto de la deliberación del equipo y los padres, sopesando la inminencia del fallecimiento, la gravedad e irreversibilidad de los síntomas, beneficios y riesgos del tratamiento, y alternativas posibles.
+- Tras la muerte, se proporcionan cuidados respetuosos al cuerpo según los deseos de cada familia (baño, vestido especial, rituales, ambiente cuidado con música, velas, etc.)
+8. **Aspectos éticos y legales.** Las decisiones se toman según el criterio del “mejor interés” del menor, buscando proteger sus derechos, y teniendo como marco la legislación vigente y los estándares profesionales. El *procedimiento de deliberación* (sobre hechos, valores en conflicto y cursos de acción posibles), permite manejar razonablemente la incertidumbre, para tomar decisiones prudentes. La comunicación es parte esencial del acto médico (Tabla 2)
+
+| {2} **Tabla 2. Elementos esenciales de la comunicación** |
+|---|---|
+| **Ámbito** | Habitación con privacidad, sentados. Tiempo suficiente. Intérprete. // Liderada por el médico. Con su enfermera y otros profesionales // Posibilidad de incluir a otras personas de su confianza. |
+| **Características** | Veraz y clara. Sin palabras técnicas ni largos monólogos. Precisa, evitando eufemismos así como una excesiva contundencia. // Hablar con sensibilidad, suavemente. Utilizar pausas, a veces prolongadas, expresarse lentamente dando tiempo a los padres para comprender. Considerar cultura, creencias y nivel formativo. // Reconocer las emociones expresadas por la pareja. // La comunicación no verbal transmite gran parte de la información: cruce de miradas, forma de estrechar la mano, gestos faciales, movimientos corporales, posición, tono de voz. // Obtener información y asegurar la comprensión mediante preguntas. Favorecer las preguntas por parte de los padres. // Durante la gestación, llamar al feto por su nombre, si ya lo han escogido. Utilizar género apropiado. // Aportar esperanza, poniendo de relieve los aspectos positivos que existen incluso dentro de las situaciones más dolorosas. |
+| **Contenido** | La comunicación es un proceso, no un acto: ofrecer información progresivamente, elegir puntos clave. // En la primera conversación, por estado de shock, los padres tendrán dificultad para entender y recordar parte de la información. // En siguientes visitas, explorar lo que la familia conoce, sus expectativas y esperanzas, y aclarar malentendidos. // Ir ofreciendo información progresivamente, atendiendo a los deseos de los padres: ¿Qué más querría saber? ¿Qué desearía que ocurriera? ¿Qué le preocupa más? // Establecer con los padres un plan, presentando opciones, sensibles a su visión, favoreciendo su participación en la toma de decisiones. // Identificar sus puntos fuertes y reforzarlos. // Aportar información escrita. Utilizar gráficos y esquemas. // Las familias buscarán en internet: ofrecer claves para ello. // Facilitar el acceso a asociaciones de padres, locales y nacionales. |
+
+@p 179
+## 2 Cuidados paliativos durante la gestación
+
+El diagnóstico de malformaciones y enfermedades congénitas, que pueden conllevar la muerte del paciente intraútero, intraparto o en la infancia, se realiza habitualmente durante la gestación. Los CPP son un área emergente que afronta la complejidad de las patologías fetales y la intensidad de la situación vital que atraviesan las familias desde el momento del diagnóstico afrontando los 8 dominios propuestos por NCPQPC.
+
+- Las gestantes y sus parejas son informadas tanto de la modalidad de interrupción del embarazo según edad gestacional, como de los programas de CPP, promoviendo la autonomía y la libertad de elección.
+- También durante la gestación, el foco de atención es la vida del paciente y su familia, sin reducirlo a la anticipación de su fallecimiento.
+- El vínculo con el hijo se ve profundamente afectado por el diagnóstico, y tiende a ser muy intenso una vez superado el shock inicial. Las *ecografías* son un momento privilegiado de relación con el hijo, por lo que está indicado favorecer la asistencia de otros familiares, así como subrayar los aspectos positivos del feto, sin limitarse a la patología. Las *memorias tangibles* (diario de la gestación, imágenes, vídeos de las ecografías, grabación del latido cardiaco fetal) son de ayuda durante la gestación y el duelo. Junto con los padres, se establece y documenta un plan de parto, regularmente actualizado, incluyendo tipo de monitorización y vía de parto.
+
+**Cuando es probable que el nacimiento coincida con el final de vida:**
+- Se propone un parto vaginal, excepto por indicación materna.
+- Plan escrito sobre reanimación, analgesia, sedación y tratamiento de otros síntomas.
+- En paritorio se favorece que cada familia organice la bienvenida de su hijo y su posible despedida. Se planifica la presencia de familiares o amigos, la realización de fotografías o vídeos, la toma de huellas palmares y plantares, primer baño, ropa, música y luminosidad acorde a sus gustos, etc. También se ofrece apoyo para realizar, si lo desean, ceremonias religiosas o rituales acordes con sus creencias. Aunque emocionalmente difícil, la gran mayoría de los padres valoran la posibilidad de haber acompañado a su hijo, expresando una experiencia vital positiva que permanece en el tiempo.
+- Si es previsible una supervivencia mayor de una hora, se planifica ingreso en habitación con su madre, tipo y vía de alimentación (incluyendo asesoramiento sobre lactancia), etc.
+- Cuando el pronóstico es incierto, se establecen planes paralelos para afrontar los diferentes escenarios posibles.
+@caja
+**SE RECOMIENDA**
+- Los CCP se inician en el momento del diagnóstico de enfermedad limitante o amenazante de la vida, muchas veces intraútero, sin esperar a los días previos al fallecimiento.
+- Cada hospital establece sus propios protocolos de actuación interdisciplinarios
+@p 180
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Reducir los CPP a la administración de sedoanalgesia y adecuación del esfuerzo terapéutico en la fase del final de vida
+@fin
+@bib
+1. NCPQPC. Clinical Practice Guidelines for Quality Palliative Care, 4th edition. Richmond, VA: National Coalition for Hospice and Palliative Care; 2018 [último acceso junio 2022]. https://www.nationalcoalitionhpc.org/ncp.
+2. Tejedor Torresa JC, López de Heredia Goyab J, Herranz Rubia N, et al. Grupo de Trabajo de Ética de la Sociedad Española de Neonatología. Recomendaciones sobre toma de decisiones y cuidados al final de la vida en neonatología. An Pediatr (Barc). 2013; 78:190.e1-e14.
+3. Martín-Ancel A, Pérez-Muñuzuri A, González-Pacheco N, et al. Comité de Estándares de la Sociedad Española de Neonatología. Cuidados paliativos perinatales. An Pediatr 2022; 96:60.e1-e7.
+4. Cuidados paliativos perinatales. Cuando la vida de vuestro hijo, aún no nacido, será breve. Dirección General de Planificación en Salud. Departamento de Salud. Generalitat de Catalunya. 2016 [último acceso junio 2022]. https://scientiasalut.gencat.cat/bitstream/handle/11351/3324/cuidados_paliativos_perinatales_2016_cas.pdf?sequence=2&isAllowed=y.
+
+Loờ

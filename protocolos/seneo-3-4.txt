@@ -1,0 +1,123 @@
+@f 14. Protocolos SENEO/3.4. Dolor, sedación y analgesia neonatal
+@p 160
+# 3.4 DOLOR, SEDACIÓN Y ANALGESIA NEONATAL
+
+*Alejandro Ávila Álvarez, Sara Fernández González, Andrea Sucasas Alonso*
+
+*Complexo Hospitalario Universitario de A Coruña*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 146-151 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El dolor es una experiencia sensorial y emocional desagradable ocasionada por una lesión tisular real o potencial, de inicio súbito o lento y de cualquier intensidad. Esta definición universalmente aceptada, es cuestionable en el recién nacido, en el que la parte emocional del dolor es difícilmente evaluable. La ausencia de auto-reporte, patrón oro de valoración del dolor a otras edades, hace que en los recién nacidos los conceptos de dolor, disconfort y estrés tengan diferencias sutiles y a veces difusas.
+
+En todo caso, cada vez somos más conscientes de la importancia de prevenir y tratar el dolor en los recién nacidos ingresados en las unidades neonatales, ya que a diario se exponen a un número elevado de procedimientos dolorosos y esto se ha relacionado con secuelas a corto y largo plazo, con repercusión en el neurodesarrollo y con una alteración posterior de las respuestas al dolor.
+
+## 2 Evaluación del dolor y la sedación
+
+La adecuada evaluación del dolor es fundamental para asegurar un manejo óptimo. Se han desarrollado más de 40 herramientas para evaluar el dolor en neonatos, que se basan en una combinación variable de parámetros fisiológicos (cambios en la frecuencia cardiaca, tensión arterial, frecuencia respiratoria, saturación de oxígeno...) y conductuales (estado de alerta, gestos, muecas, llanto, postura...). En los últimos años también se están estudiando nuevas tecnologías para medir la respuesta al dolor (NIRS, aEEG, conductancia cutánea, RM funcional...).
+
+No existe ninguna escala óptima para todas las edades gestacionales y todas las situaciones. Las más comúnmente utilizadas en neonatología son las validadas para procedimientos agudos, habiendo mucha menos experiencia en las escalas para el dolor crónico o continuado. Por ello, el primer paso es que cada unidad incorpore al menos una para procedimientos dolorosos agudos, que sea fácil de utilizar y conocida por todo el personal.
+
+En nuestra experiencia, existen dos escalas especialmente atractivas para evaluar el dolor en niños a término y pretérmino, que son la escala PIPP-R (por sus siglas en inglés,
+@p 161
+*Premature Infant Pain Profile-Revised*) y la escala N-PASS (*Neonatal Pain, Agitation and Sedation Scale*) que es la única que tiene en cuenta también el nivel de sedación (Anexo 1).
+
+## 3 Manejo del dolor
+
+Para un correcto tratamiento del dolor, además de una adecuada valoración, es importante limitar y agrupar las intervenciones potencialmente dolorosas, además de usar analgesia de forma profiláctica.
+
+**A.** Medidas no farmacológicas: Son fundamentales en las unidades neonatales, ya que reducen la respuesta fisiológica y conductual al dolor producido por procedimientos, y hacen que la dosis necesaria de fármacos analgésicos sea menor. Dentro de estas medidas se incluyen:
+- Presencia de los padres durante los procedimientos.
+- Método canguro, piel con piel (idealmente 30 minutos antes del procedimiento).
+- Ambiente tranquilo. Distractores con música, olores, tacto...
+- Succión no nutritiva, chupete, lactancia materna.
+- Soluciones azucaradas vía oral: mecanismo de acción no completamente dilucidado, parece en relación con la secreción endógena de opioides.
+
+  Dosis recomendada en prematuros: 0.1-0.5 ml de sacarosa al 24% vía oral 2 minutos antes del procedimiento. Se debe emplear de forma juiciosa, ya que la seguridad de las dosis repetidas no ha sido establecida.
+
+**B.** Medidas farmacológicas: Los **fármacos analgésicos** se deben combinar con medidas no farmacológicas para optimizar su acción. En el postoperatorio se deben dejar en pauta y evitar emplearlos “a demanda” (Tablas 1 y 2).
+@deimg
+| {3} **Tabla 1. Fármacos analgésicos empleados en el neonato** |
+|---|---|---|
+| **Analgésicos no opiáceos** | **Dosis** | **Observaciones** |
+| **Paracetamol** | **Vía intravenosa:** // 10 mg/kg c/12h // 7.5 mg/kg c/8h // Dosis máxima: // <32 sem: 22.5mg/kg/día // >32 sem: 40mg/kg/día // **Vía oral:** // 10-15 mg/kg c/6-8h // Dosis máxima: // <32 sem: 40 mg/kg/día // >32 sem: 60 mg/kg/día | Contraindicado en insuficiencia hepática. // En combinación con opioides en pacientes con necesidad de analgesia en perfusión continua disminuye la dosis mínima eficaz. |
+@p 162
+@pie Tabla 1. Fármacos analgésicos empleados en el neonato (continuación) Analgésicos no opiáceos Dosis Observaciones
+| **Dexmedetomidina** | **Vía intravenosa:** // Bolos: 0.5-1 mcg/kg // Perfusión continua: // 0.05-0.4 mcg/kg/h | Contraindicado en insuficiencia hepática, BAV 2º o 3º grado sin marcapasos e hipotensión grave no controlada. // Riesgo de hipotensión y bradicardia (dosis-dependiente). // Probable neuroprotector, valorar su uso en casos de encefalopatía hipóxico-isquémica / hipotermia terapéutica |
+| **Ketamina** | **Vía intravenosa:** // Bolos: 1-2 mg/kg/dosis // Perfusión continua: 1-3 mg/kg/h // Intranasal: 3-6 mg/kg | Contraindicado en hipertensión intracraneal // Produce sialorrea // Asociar benzodiacepinas |
+| **Analgésicos opiáceos** | **Dosis** | **Observaciones** |
+| **Cloruro mórfico** | **Vía intravenosa:** // Bolos: 0.05-0.2 mg/kg c/4-6h // Perfusión continua: // 10-50 mcg/kg/h. | Riesgo de depresión respiratoria // No recomendada administración oral, epidural e intratecal. |
+| **Fentanilo** | **Vía intravenosa:** // Bolos 0.5-2 mcg/kg (se puede repetir c/2-4h) // Perfusión continua: // 1-5 mcg/kg/h. // **Intranasal:** 2-4 mcg/kg | Riesgo de rigidez torácica si se administra bolo iv rápido (en < 3-5 min.) // Riesgo de alteración del neurodesarrollo si > 7 días. // Fármaco más empleado en las UCIN españolas. // 100 veces más potente que la morfina. // Rápido inicio de acción |
+| **Remifentanilo** | **Vía intravenosa:** // Bolos: 1 mcg/kg/dosis // Perfusión: 0.05-0.1 mcg/kg/min // **Intranasal o sublingual** // 2-4 mcg/kg/dosis. | Ideal para procedimientos de corta duración. // Vida media 5 minutos. |
+@findeimg
+
+Los **fármacos sedantes** son ansiolíticos y depresores de la conciencia, no deben ser usados como fármacos para tratar el dolor.
+
+@deimg
+| {3} **Tabla 2. Fármacos sedantes, que no deben ser utilizados para tratar el dolor** |
+|---|---|---|
+| **Fármaco** | **Dosis** | **Observaciones** |
+| **Midazolam** | **Vía intravenosa:** // Bolo: 0.05-0.2 mg/kg/dosis. // Perfusión: 0.1-0.8 mg/kg/h // **Oral-Sublingual-Nasal:** // 0.2-0.7 mg/kg/dosis | Neonatos > 32 semanas. // Se debe limitar su uso en neonatos. |
+| **Propofol** | **Vía intravenosa:** // Bolo sedación: 0.5-1 mg/kg/dosis. // Perfusión: 1-4 mg/kg/h. | No usar más de 48 horas en perfusión. // Riesgo de hipotensión y necesidad de mayor soporte respiratorio. |
+@p 163
+@pie Tabla 2. Fármacos sedantes, que no deben ser utilizados para tratar el dolor (continuación) Fármaco Dosis Observaciones
+| **Fenobarbital** | **Vía intravenosa:** // Bolo sedación:2-3mg/kg/dosis c/8h. // **Vía oral: sd abstinencia:** // Choque 15-20 mg/kg // Mantenim. 2-8 mg/kg/día (c/8-12h) | Amplia experiencia en neonatología como anticomicial. |
+| **Hidrato de Cloral** | **Vía oral-rectal:** // 25-75 mg/kg. Se puede repetir la mitad de la dosis a los 30 min. (máx 2 g/24h). | Ideal en procedimientos cortos, ambulatorios y sin vía iv. // Acumulación si dosis repetidas. |
+| **Etomidato** | Vía intravenosa: // Bolo: 0.15-0.3 mg/kg (máx 0.4 mg/ kg) | Inicio rápido y de corta duración. |
+@findeimg
+
+@caja
+**SE RECOMIENDA**
+- El tratamiento inadecuado del dolor en recién nacidos se relaciona con resultados adversos.
+- Es importante que cada unidad neonatal incorpore al menos una escala de evaluación del dolor.
+- El tratamiento no farmacológico es fundamental para prevenir el dolor en procedimientos que puedan producir dolor leve-moderado.
+- Los opioides son el pilar de tratamiento analgésico en las unidades neonatales. Su combinación con fármacos no opioides y medidas no farmacológicas ayuda a disminuir la dosis mínima eficaz.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda pautar el tratamiento analgésico “a demanda” ya que se alternan periodos de dolor con otros de sobremedicación.
+- No se recomienda limitar la evaluación del dolor tan solo a la subjetividad clínica.
+- No se recomienda el uso no homogéneo de múltiples pautas analgésicas.
+@fin
+**Anexo 1. Escalas de evaluación del dolor**
+@deimg
+@ancha
+| {6} **Escala PIPP-R** |
+|---|---|---|---|---|---|
+| **INDICADOR** | **0** | **1** | **2** | **3** | **SCORE** |
+| Cambio en FC (lpm) (30 seg) | 0 - 4 | 5 - 14 | 15 – 24 | > 24 | |
+| Descenso de SatO~2~ (%) (30 seg) | 0 - 2 | 3 - 5 | 6 – 8 | > 8 o aumento O2 | |
+| Entrecejo fruncido (30 seg) | < 3 seg | 3 – 10 seg | 11 – 20 seg | > 20 seg | |
+| Ojos apretados (30 seg) | < 3 seg | 3 – 10 seg | 11 – 20 seg | > 20 seg | |
+| Mueca nasolabial (30 seg) | < 3 seg | 3 – 10 seg | 11 – 20 seg | > 20 seg | |
+| | | | | | *Subtotal |
+| Edad gestacional | >36 semanas | 32 - 35+6 semanas | 28 - 31+6 semanas | < 28 semanas | |
+| Comportamiento basal (15 seg) | **Despierto y activo** // Ojos abiertos con movimientos faciales | **Despierto e inactivo** // Ojos abiertos sin movimientos faciales | **Dormido y activo** // Ojos cerrados con movimientos faciales | **Dormido e inactivo** // Ojos cerrados sin movimientos faciales | |
+| | | | | | **Total |
+| {6} *\* Si Score Subtotal > 0, añadir puntuación de edad gestacional y comportamiento basal. \*Score Total: Score Subtotal + Score edad gestacional + Score comportamiento basal. Interpretación: < 6 puntos: dolor leve o no dolor, 6-12 puntos: dolor moderado, >12 puntos: dolor intenso.* |
+
+@ancha
+| {6} **Escala N-PASS** |
+|---|---|---|---|---|---|
+| **Criterios de evaluación** | {2} **Sedación** | **Normal** | {2} **Dolor/agitación** |
+| | **-2** | **-1** | **0** | **1** | **2** |
+| Llanto/ irritabilidad | No llora con estímulos dolorosos | Gime o llora mínimamente con estímulos dolorosos | Llanto adecuado. Tranquilo. | Se irrita o llora en forma intermitente, Se le puede consolar | Llanto agudo, silencioso, continuo, inconsolable. |
+| Comportamiento | No se despierta con estímulos. No se mueve. | Se despierta mínimamente con estímulos. | Sin sedación. Sin signos de dolor. | Inquieto, se retuerce. Se despierta seguido. | Llanto continuo, silencioso o agudo. Inconsolable. |
+@p 165
+@pie Escala N-PASS (continuación) Criterios de evaluación Sedación Normal Dolor/agitación -2 -1 0 1 2
+| Expresión facial | Boca relajada. Sin expresiones. | Poca expresión con estímulos. | Sin sedación ni signos de dolor. | Demuestra dolor esporádicamente. | Demuestra dolor continuamente. |
+| Tono muscular y brazos | Sin reflejo de agarre o palmar. Tono flácido. | Reflejo de agarre o palmar débil. Hipotonía muscular. | Sin sedación. Sin signos de dolor. | Ocasionalmente los dedos de los pies y los puños apretados o abre y separa los dedos de la mano. No tiene el cuerpo tenso. | Los dedos de los pies y los puños apretados o abre y separa los dedos de la mano. Tiene el cuerpo tenso. |
+| Signos vitales (FC, FR, TA y satO2). | No hay cambio con estímulos. Hiperventilación o apnea. | Variación<10% de los valores iniciales, con estímulos. | Sin sedación. Sin signos de dolor. | Aumento del 10-20% por encima de los valores iniciales. SatO2 76-85% con estímulos, aumento rápido. | Aumento del 10-20% por encima de los valores iniciales. SatO2 menor o igual a 76%. Aumento lento. |
+| {6} *\*Añadir +1 punto en < 30 semanas. Si puntuación >4 puntos se recomienda tratamiento farmacológico.* |
+@findeimg
+! En el PDF el Anexo 1 va después de la bibliografía; aquí se ha puesto antes para que no quede dentro del apartado plegado.
+
+@bib
+1. Campbell-Yeo M, Eriksson M, Benoit B. Assessment and Management of Pain in Preterm Infants: A Practice Update. Children (Basel). 2022;9(2):244.
+2. McPherson C, Ortinau CM, Vesoulis Z. Practical approaches to sedation and analgesia in the newborn. J Perinatol 2021; 41:383-395.
+3. Espinosa Fernández MG, González-Pacheco N, Sánchez-Redondo MD, et al. Sedoanalgesia in neonatal units. An Pediatr 2021; 95:126.e1-126.e11.
+4. Avila-Alvarez A, Carbajal R, Courtois E, et al. Valoración clínica del dolor en unidades de cuidados intensivos neonatales españolas. An Pediatr (Barc). 2016; 85:181-188.
+@p 164
+5. Maxwell LG, Fraga MV, Malavolta CP. Assessment of Pain in the Newborn: An Update. Clin Perinatol. 2019; 46:693-707.
+6. Donato J, Rao K, Lewis T. Pharmacology of Common Analgesic and Sedative Drugs Used in the Neonatal Intensive Care Unit. Clin Perinatol. 2019;46:673-692.

@@ -1,0 +1,113 @@
+@f 14. Protocolos SENEO/3.8. Anomalías cromosómicas. Asesoramiento genético
+@p 181
+# 3.8 ANOMALÍAS CROMOSÓMICAS. ASESORAMIENTO GENÉTICO
+
+*María José Sánchez-Soler, Ana Teresa Serrano-Antón, Encarna Guillén Navarro*
+
+*Hospital Clínico Universitario Virgen de la Arrixaca, Murcia. Universidad de Murcia*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 167-173 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Anomalías cromosómicas
+
+Las anomalías cromosómicas se estima que están presentes en 1/120-150 recién nacidos (RN) vivos, y constituyen una importante causa de morbimortalidad. Condicionan con frecuencia anomalías congénitas, trastorno de la diferenciación sexual y/o del neurodesarrollo detectables al nacimiento, por lo que su diagnóstico precoz es fundamental. Se clasifican en dos grupos:
+
+a) __Anomalías cromosómicas numéricas.__ Las **aneuploidías,** presencia de un número anormal de cromosomas debido habitualmente a una monosomía o una trisomía; son el tipo de anomalía cromosómica más frecuente. Se producen por un fallo en la segregación cromosómica durante la división celular, denominado *“no-disyunción meiótica”* (Figura 1). Las aneuploidías más frecuentes compatibles con la vida son las trisomías 21,18,13, las que implican a los cromosomas sexuales y la monosomía X (Tabla I).
+@img seneo-3-8-fig1.png
+@pie Segregación normal Cromosoma X No disyunción meiosis I No disyunción meiosis II Célula diploide inicio meiosis Primera división meiótica No disyunción Segunda división meiótica No disyunción
+*Figura 1. Esquema del mecanismo de “no disyunción meiótica”.*
+@p 182
+Cuando este proceso de no-disyunción se produce en la mitosis, se originarán dos poblaciones celulares con distinta carga cromosómica en un mismo individuo, dando lugar a lo que denominamos mosaico o mosaicismo. Los **mosaicos** pueden formarse por no disyunción en un cigoto normal de 46 cromosomas o por pérdida cromosómica en un cigoto inicialmente trisómico (80% de los casos). Según el cromosoma que se pierde, la línea celular puede tener un cromosoma de cada progenitor o los dos del mismo y dar lugar a una *disomía uniparental.* Las disomías uniparentales de algunos cromosomas: 6, 7, 11, 14 y 15 se asocia a anomalías fenotípicas por fenómenos de impronta (S. Beckwith- Widemann, S. Silver-Russell, S. Temple, S. Prader-WIlli, etc.).
+
+b) __Anomalías cromosómicas estructurales.__ Se refieren a las pérdidas o duplicaciones parciales, así como a modificaciones en la ubicación u orden de los segmentos cromosómicos. Se clasifican en equilibradas o desequilibradas en función de la existencia de pérdida o ganancia de material genético.
+
+- **Reordenamientos equilibrados:** no suelen tener repercusiones fenotípicas en los portadores, aunque pueden asociarse a infertilidad y susceptibilidad de generar gametos desequilibrados que den lugar a abortos o fetos/RN con anomalías congénitas y/o trastorno de neurodesarrollo. Ej. inversiones y translocaciones equilibradas. Al no condicionar problemas médicos en el portador hasta que alcanza la edad reproductiva, es importante destacar que en caso de antecedentes familiares de este tipo de anomalías no está indicado realizar estudio en el RN.
+- **Reordenamientos desequilibrados:** asocian pérdida o ganancia de material genético, y sí suelen condicionar afectación en el individuo que las presenta. Ej. Síndrome microdeleción 22q11, S. microduplicación 16p11, isocromosomas, cromosomas en anillo, cromosoma marcador, etc.
+
+Existen distintas pruebas genéticas para identificar las anomalías cromosómicas. A continuación, se describen la prueba óptima en cada escenario clínico.
+
+El **array-CGH** (array de hibridación genómica comparada) es una técnica citogenética molecular basada en la hibridación simultánea del ADN del paciente con ADN normal que permiten detectar pérdidas o ganancias de material genético con una resolución 10-100 veces superior a la del cariotipo, proporcionando mejores tasas diagnósticas (del 7-20% según la indicación). Hay distintos tipos y de distinta resolución; el array-CGH 60k (60000 secuencias de oligonucleótidos o sondas distribuidas a lo largo de todos los cromosomas) es el más utilizado por su coste-efectividad. La limitación de esta técnica es que no detecta mutaciones puntuales, reordenamientos cromosómicos equilibrados ni mosaicismos de bajo grado. Ante un RN con anomalías congénitas, trastorno del neurodesarrollo y/o dismorfia el Array-CGH es la prueba de elección.
+
+Esta prueba permite el diagnóstico de **deleciones/duplicaciones cromosómicas,** entre las que destacamos: síndrome de microdeleción 22q11.2 (incluye síndrome de Di George), deleción 7q11.23 (síndrome Williams-Beuren), deleción 4p (síndrome Wolf-Hirschhorn), deleción 5p o síndrome Cri-Du-Chat, deleción 17p11.2 (síndrome Smith-Magenis) y duplicación 17p11.2 (síndrome Potocki-Lupski).
+
+La **QF-PCR** (Reacción en Cadena de Polimerasa Cuantitativa Fluorescente): detecta aneuploidías en los cromosomas 13, 18, 21, X e Y en 24-48 horas. Resulta de mucha utilidad en las siguientes circunstancias:
+- Estudio prenatal invasivo realizado por cribado de primer trimestre de alto riesgo
+@p 183
+de cromosomopatías.
+
+- Neonato con fenotipo compatible con trisomía 13, 18, 21 o monosomía X, sin diagnóstico prenatal, para tomar decisiones de manejo lo antes posible.
+
+En esos casos se debe solicitar esta prueba de forma precoz, y posteriormente si resulta compatible con cualquiera de estas trisomías/monosomía, realizar un cariotipo para completar el asesoramiento genético (Tabla I).
+
+El **cariotipo** es el estudio de los cromosomas mediante técnicas de bandeo (bandas GTG) en linfocitos, utilizando medios de cultivo in vitro para estimular la división celular. El cariotipo de alta resolución (550-850 bandas) es el que se utiliza habitualmente y permite identificar pérdidas o ganancias grandes de material genético, mayores de 5 Mb. Detecta, por tanto, anomalías numéricas, estructurales desequilibradas grandes (cromosomas marcadores, cromosoma en anillo, deleciones grandes, etc.) además de reordenamientos cromosómicos equilibrados. Actualmente sus indicaciones se limitan a:
+- Neonato con trastorno de la diferenciación sexual, para determinar el sexo genético y descartar posibles alteraciones en los cromosomas sexuales.
+- Neonato con fenotipo muy sugestivo de trisomía 21, 13 o 18, para completar el asesoramiento genético (Tabla I).
+- Estudio en padres con antecedente de abortos recurrentes/hijos con desequilibrios cromosómicos, por la posibilidad de un reordenamiento equilibrado en ellos.
+@ancha
+| {5} **Tabla 1. Anomalías cromosómicas numéricas más frecuentes** |
+|---|---|---|---|---|
+| **Anomalías numéricas** | **Incidencia** | **Fenotipo Neonatal** | **Prueba diagnóstica** | **Pronóstico** |
+| **Trisomía 21** // Síndrome de Down // *Causa más frecuente de discapacidad intelectual de origen genético* | 1/700-800 RN vivos | Hipotonía // Cara aplanada, orejas pequeñas y displásicas, cuello corto con piel redundante y surco palmar único, cataratas, // Cardiopatía (Canal AV) | QF-PCR // Cariotipo | La esperanza de vida ha aumentado en los últimos años. En ausencia de cardiopatía la supervivencia suele ser hasta la sexta década de la vida. |
+| **Trisomía 13** // Síndrome de Patau | 1/5000 RN vivos | Hipotonía // Anomalías congénitas múltiples (Holoprosencefalia, microftalmia/ coloboma, fisura labiopalatina, cardiopatía) | QF-PCR // Cariotipo | La esperanza de vida suele ser inferior a 1 año (90%) con una mortalidad del 50% en el 1er mes de vida. |
+@p 184
+@pie Tabla 1. Anomalías cromosómicas numéricas más frecuentes. (continuación) Anomalías numéricas Incidencia Fenotipo Neonatal Prueba diagnóstica Pronóstico
+| **Trisomía 18** // Síndrome de Edwards | 1/3500-5000 RN vivos | Hipotonía, anomalías congénitas múltiples (cardiacas, renales, divertículo de Meckel, contracturas articulares, polidactilia, pie equinovaro, etc.) | QF-PCR // Cariotipo | La esperanza de vida suele ser inferior a 1 año (95%) con una mortalidad del 70% en el 1er mes de vida. |
+| **Monosomía X** // Síndrome de Turner | 1/2000-2500 RN mujeres | Cuello corto y ancho // Linfedema // Cardiopatía (CoA) | QF-PCR // Cariotipo | En su mayoría finalizan en aborto por hidrops fetal. // Si el debut clínico es tardío, la esperanza de vida suele ser normal. |
+
+La **FISH** (Hibridación fluorescente in situ) permite identificar reorganizaciones cromosómicas complejas y reorganizaciones crípticas que no se detectan en cariotipo. Actualmente se utiliza casi exclusivamente para el estudio en padres de la región delecionada o duplicada identificada en su hijo. Ej. FISH de región 7q11.23 en muestra de padres de niño con Síndrome de Williams, para descartar reordenamientos que condicionen un riesgo alto de recurrencia en futuras gestaciones.
+
+## 2 Asesoramiento Genético
+
+El asesoramiento genético es un acto clínico-médico, un proceso de comunicación no directivo, que tiene como objetivo ayudar a las personas a entender y adaptarse a las consecuencias médicas, psicológicas y familiares de una determinada condición genética. Este proceso incluye:
+- Documentación de los antecedentes familiares (árbol familiar) y médicos para identificar el patrón de herencia y estimación del riesgo.
+- Información acerca de las pruebas genéticas, la prevención, recursos, tratamiento e investigación disponibles.
+- Comunicación para promover decisiones clínicas informadas (incluyendo las reproductivas) y apoyo durante y después de este proceso.
+
+El asesoramiento genético es fundamental tanto antes de la realización de cualquier estudio genético como después [Ley 14/2007 de Investigación Biomédica] y debe basarse en el respeto al principio de autonomía del paciente, incluido su derecho a “no saber”.
+@p 185
+**__Asesoramiento genético en las anomalías cromosómicas viables más frecuentes__**
+__1. Aneuploidías.__ Según el resultado del cariotipo, distinguimos:
+- Trisomías **libres:** Son la mayoría [90-95% para trisomía 21 (Figura 2) y 18, y 80% para trisomía 13] y se originan por una no disyunción meiótica. No está indicado realizar cariotipo a los progenitores y el riesgo de recurrencia en futuras gestaciones, aunque bajo, se considera ligeramente superior al esperado para la edad materna, por lo que se ofrece diagnóstico prenatal en futuras gestaciones.
+@img seneo-3-8-fig2.png
+@pie 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 X Y
+*Figura 2. Trisomía 21 libre (47,XY,+21)*
+
+- Trisomías por **translocación:** suponen un porcentaje menor [3-5% para trisomía 21 y trisomía 18; y aproximadamente 20% para trisomía 13(Figura 3)] y se originan por una translocación entre el cromosoma 21, 18 o 13 y otro cromosoma (habitualmente acrocéntrico, el 14 o el 22). Estos casos no se ven influidos por la edad materna. Aunque en su mayoría ocurren de novo, pueden ser consecuencia de una translocación equilibrada presente en los progenitores, por lo que sí está indicado el cariotipo en ellos. En los casos producidos de novo, el riesgo de recurrencia para los padres se estima en un 1% (posibilidad de mosaicismo germinal), por lo que se les ofrece diagnóstico prenatal invasivo en futuras gestaciones. En los casos en que alguno de los padres porta una traslocación, el riesgo estimado de tener descendencia con desequilibrios cromosómicos es más alto (10-15% aprox.), por lo que además de ofrecer diagnóstico prenatal, se les plantea la posibilidad de realizar técnicas de reproducción asistida con diagnóstico genético preimplantacional. Además, se debe ofrecer estudio de extensión a otros familiares que puedan ser portadores.
+@p 186
+@img seneo-3-8-fig3.png
+@pie 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 X Y
+*Figura 3. Trisomía 13 por translocación robertsoniana [46,XX,rob(13;14)(q10;q10)]*
+
+- Trisomías en mosaico: ocurren en el 1-2% de los casos. El fenotipo suele ser variable, en función de la distribución celular de las dos líneas en los diferentes tejidos. Se trata de un error postcigótico, por lo que no está indicado el estudio de cariotipo en progenitores. El riesgo de recurrencia será similar al correspondiente por edad materna, pero se ofrece diagnóstico prenatal invasivo por la posibilidad de que se haya producido en un cigoto trisómico (80% de los casos), como se explicó anteriormente.
+
+Por su frecuencia, es fundamental conocer el manejo del RN con fenotipo S. Down:
+@caja
+**RN con sospecha de trisomía 21 (S. Down):**
+a. Solicitar QF-PCR y cariotipo.
+
+b. Despistaje anomalías asociadas al síndrome (analítica con perfil tiroidea, valoración cardiología, oftalmológica y ecografía abdominal).
+
+c. Informar resultado de QF-PCR a los padres a las 48 horas.
+
+d. Valoración en consulta especializada de Genética con resultado de cariotipo para completar asesoramiento genético.
+@fin
+
+**Monosomía X** o síndrome de Turner. La incidencia se estima en 1/2000-2500 de RN de sexo femenino, si bien sabemos que los fetos con monosomía X suponen un 1-1,5% de las concepciones y el 99% de ellas finalizan en abortos espontáneos. Se debe a una ausencia total (responsable de menos de la mitad de los casos) o parcial del cromosoma X (mosaico).
+
+El diagnóstico precoz de otras aneuploidías, que no suelen manifestar síntomas en periodo prenatal y/o neonatal, como son el **síndrome Klinefelter** (47,XXY) o la **trisomía** X (47, XXX), se ha visto aumentado en los últimos años ante la introducción del estudio prenatal no invasivo en sangre materna. Para estos casos y de forma general, no está indicado estudio en progenitores y existe riesgo bajo de recurrencia en futuras gestaciones.
+@p 187
+__2. Síndromes de Microdeleción/microduplicación__
+
+Ante un resultado en ArrayCGH compatible con deleción/duplicación cromosómica, siempre está indicado el estudio en padres, mediante array-CGH o FISH si es posible (explicado previamente) para poder determinar el origen y completar asesoramiento:
+- En su mayoría se originan de novo en el paciente, por lo que el riesgo de recurrencia en futuras gestaciones de los padres se estimará en torno a 1% (mosaicismo germinal).
+- Si ocurre por un reordenamiento equilibrado en alguno de los progenitores sí existe riesgo más elevado de recurrencia.
+
+En ambos supuestos se ofrece estudio prenatal invasivo en futuras gestaciones; y en el segundo, la posibilidad adicional de técnicas de reproducción asistida con diagnóstico genético preimplantacional.
+@caja
+**SE RECOMIENDA**
+- Ante un RN con anomalías congénitas, trastorno del neurodesarrollo y/o dismorfia el Array-CGH es la prueba de elección.
+- La mayoría de los casos de S. Down son por trisomías libres, que se originan por una no disyunción meiótica
+@fin
+@bib
+1. García-Miñaur S. Consulta de genética clínica y diagnóstico genético prenatal. Pediatría Integral, 2014.
+2. Delgado Rubio A, Galán Gómez E, Guillén Navarro E,et al. Asesoramiento Genético en la Práctica Médica. 5ºEd, Editorial Médica Panamericana. 2016.
+3. Castells-Sarret N, Cueto-González AM, Borregan M, et al. ArrayCGH como primera opción en el diagnóstico genético: 1000 casos y análisis coste beneficio. An Pediatr (Barc) 2018; 89:3-11.

@@ -1,0 +1,174 @@
+@f 14. Protocolos SENEO/3.3. Fracaso hemodinámico neonatal. Valoración y soporte
+@p 156
+# 3.3 FRACASO HEMODINÁMICO NEONATAL. VALORACIÓN Y SOPORTE
+
+*María Carmen Bravo*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 142-145 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Definición
+
+El fracaso hemodinámico se define como el desequilibrio circulatorio en el que la entrega de oxígeno a los tejidos no satisface la demanda metabólica. Aunque la variable hemodinámica más comúnmente utilizada en las unidades de neonatología para el diagnóstico de fracaso circulatorio es la presión arterial (PA), se sabe que la hipotensión arterial no es sinónimo de bajo flujo sistémico y, además, una cifra de PA dentro de los rangos establecidos como “normalidad”, tampoco implica normalidad en el flujo sistémico.
+
+## 2 Valoración
+
+La cuantificación del flujo sanguíneo sistémico en el recién nacido es técnicamente compleja, y los parámetros clásicos que se utilizan para la evaluación hemodinámica del neonato críticamente enfermo son imprecisos. Diferentes biomarcadores, como la frecuencia cardiaca, el tiempo de relleno capilar, gradiente térmico, débito urinario o elevación del ácido láctico, tienen importantes limitaciones si se usan de forma aislada. La presión arterial media (PAM) sigue siendo el biomarcador de compromiso hemodinámico más utilizado para guiar las decisiones terapéuticas. Sin embargo, su utilización supone la simplificación de un problema complejo, dado que representa un valor calculado.
+
+PAM=PA diastólica + (PA sistólica-PA diastólica)/3.
+
+Además, el flujo sanguíneo no es equivalente a presión arterial.
+
+Flujo sanguíneo=PA/ resistencia vascular.
+
+De este modo, es posible observar situaciones de flujo sanguíneo bajo con cifras de PA “normales” si las resistencias vasculares son altas o situaciones con baja PA pero con flujo conservado por baja resistencia vascular. La ecocardiografía funcional realizada por un neonatólogo a pie de cuna permite cuantificar el flujo sistémico y realizar una valoración fisiopatológica de la insuficiencia circulatoria, para así guiar el manejo hemodinámico y evaluar la eficacia de las intervenciones.
+
+No existe suficiente evidencia acerca del valor pronóstico de los biomarcadores circulatorios utilizados de forma aislada. Todo ello justifica aplicar en el recién nacido con fallo hemodinámico el uso de una **monitorización multimodal,** con herramientas
+@p 157
+objetivas, que permitan guiar con mayor precisión las intervenciones (ecocardiografía funcional, oximetría cerebral, aEEG) unida a los biomarcadores clásicos (PA, frecuencia cardíaca, gradiente térmico, diuresis, ácido láctico,...).
+
+## 3 Soporte cardiovascular
+
+La elección del soporte cardiovascular debe tener en cuenta el mecanismo de acción del fármaco (Tabla 1) y la fisiopatología del proceso subyacente (Figura 1).
+
+El recién nacido críticamente enfermo, especialmente el recién nacido prematuro, presenta inmadurez del eje hipofisario-suprarrenal que puede condicionar una insuficiencia suprarrenal relativa ante una situación de estrés. La hidrocortisona a 1 mg/ kg/dosis cada 6-24h incrementa la expresión de receptores adrenérgicos (efecto tardío) y aumentan la sensibilidad a catecolaminas circulantes disminuyendo su degradación. Por otra parte, incrementa la liberación del calcio citosólico en músculo liso e inhibe la producción local de vasodilatadores. Es un estabilizador de membrana, incrementan la presión arterial en shock refractario a catecolaminas y previene o reduce la fuga capilar.
+@deimg
+@ancha
+| {5} **Tabla 1. Principales fármacos cardiovasculares utilizados en neonatología** *(Adaptado de: M. Sánchez, MC Bravo, A Pellicer. Protocolos Neonatología Hospital La Paz, 2021)* |
+|---|---|---|---|---|
+| | **Fármaco/Dosis** | **Mecanismo** | **Efecto** | **Observaciones** |
+| **INOTRÓPICO** | **DOBUTAMINA** // **5-20mcg/kg/min** | Agonista β1 y β2. | Inotrópico y cronotrópico. // ↓ RVS y ↓ RVP | Superior a dopamina en ↑ FVCS y GC. // Inferior que dopamina en ↑PA. |
+| **INOTRÓPICO** | **ADRENALINA** // **0,05-1mcg/kg/min** | Agonista β1 y β2 y α a dosis altas. | Efecto inotrópico y cronotrópico a <0,1mcg/kg/min // ↑ RVS y RVP a dosis altas. | No diferencias con dopamina en ↑ PA y GC. // ↑ láctico e hiperglucemia. |
+| **INOTRÓPICO / VASOPRESOR** | **DOPAMINA** // **2-10mcg/kg/min** | Agonista α, β // Efecto dopaminérgico no probado en recién nacidos. // Liberación de noradrenalina. // ↓ hormonas hipofisarias | Inotrópico. // ↑ RVS y RVP. | Potencial efecto vasoconstrictor a ≤5 mcg/kg/min. // Dudoso efecto en lecho vascular renal. // Bloqueo función tiroidea. |
+| **VASOPRESOR** | **NORADRENALINA** // **0,05-2mcg/kg/min** | Agonista α1 y discreto β1. // Estimula la síntesis de NO vía receptores α2 | ↑ RVS. // ↓ RVP. | Intensa vasoconstricción. |
+@p 158
+@pie Tabla 1. Principales fármacos cardiovasculares utilizados en neonatología (Adaptado de: M. Sánchez, MC Bravo, A Pellicer. Protocolos Neonatología Hospital La Paz, 2021) (continuación) Fármaco/Dosis Mecanismo Efecto Observaciones
+| **INODILATADOR** | **MILRINONA** // **0,5-1mcg/kg/min (0,3 mcr/kg/min en niños prematuros)** | Inhibidor de la fosfodiesterasa 3. | Inotrópico. // Lusitrópico. // ↓ RVP y RVS | Precaución si el aclaramiento renal está comprometido. |
+| **INODILATADOR** | **LEVOSIMENDAN** // **0,1-0,2mcg/kg/min 48h.** | Aumenta la sensibilidad al calcio por su unión a la troponina C. Activación de canales K-ATP en musculo liso vascular. | Inotrópico. // Lusitrópico. // ↓ RVS y RVP. // Vasodilatación coronaria. | Indicación principal en fallo ventricular tras cirugía cardiaca. // Metabolitos circulantes 7-9 días. // Vigilancia de posibles arritmias e hipotensión. // Precaución en insuficiencia hepática y renal grave. |
+| {5} *FVCS, Flujo en vena cava superior; GC, gasto cardiaco; PA, presión arterial., RVP, resistencias vasculares pulmonares; RVS, resistencias vasculares sistémicas* |
+@findeimg
+! En el PDF la dopamina está en la frontera entre los grupos INOTRÓPICO y VASOPRESOR; el rótulo «INOTRÓPICO / VASOPRESOR» lo he puesto yo.
+
+@deimg
+@flujo
+[**↓ PRESIÓN ARTERIAL**]
+
+v
+
+[Ecocardiograma funcional]
+
+(Si <4hdv **SIN** otros signos de shock → actitud expectante^1^)
+@cols 3
+[**↓ PAS**]
+
+v
+
+[**↓ Volumen sistólico**]
+@cols
+[**↓ Función sistólica**]
+
+v
+
+[__Shock cardiogénico__ // · Descartar alteraciones del ritmo. // · Adrenalina, dobutamina.]
+
+v
+
+[__Asfixia perinatal__ // · *1ª línea:* Dobutamina // · *2ª línea:* Adrenalina (<0,1mcg/kg/min) // · Evitar milrinona^4^]
+
+---
+
+[**↑Postcarga → ↑RVS/ ↑RVP^2^**]
+
+v
+
+[__HTP persistente del RN__ // · Adecuada ventilación sedorrelajación // · ↓ RVP: NOi, sidenafilo // · Apoyar VD: Adrenalina, dobutamina, milrinona. // · Noradrenalina (↓ RVP, ↓ shunt D-I)^3^ // · PGE1 si disfunción severa y DAP restrictivo]
+
+v
+
+[__Shock séptico frío__ // · TTº AB // · Adrenalina, dobutamina]
+@fincols
+v
+
+[__Inf. circulatoria durante la circulación transicional__ // FVCS ↓ 41ml/kg/min // · Dobutamina.]
+
+v
+
+[__Sd. postligadura DAP__ // **<1h→GCI < 200 ml/kg/min^5^** · Milrinona (0,33mcg/kg/min) · +SFF 10ml/kg // **4-12h→↓TAS o ↓TAS Y TAD** · *1ª línea:* Adrenalina · *2ª línea:* Dobutamina · Considerar hidrocortisona]
+
+---
+
+[**↓ PAD**]
+@cols
+[**↓ Precarga**]
+
+v
+
+[__Shock hipovolémico__ // · Optimizar volumen intravascular con SSF o hemoderivados. // · Evitar cronotrópicos que dificulten el llenado.]
+
+v
+
+[__↑Presión intratorácica__ // · Excesiva PMVA^6^ // · Neumotórax. // · Drenaje. // · Valorar optimizar volemia.]
+
+v
+
+[__Taponamiento cardiaco__ // · Drenaje // · Optimizar volemia. // · Administración de hemoderivados y corrección de alteraciones de la coagulación]
+
+---
+
+[**↓ Postcarga: ↓ RVS o shunts**]
+
+v
+
+[__Shock distribuido/caliente__ // · Optimizar volumen intravascular. // · *1ª línea:* Noradrenalina, dopamina. // · *2ª línea:* Adrenalina a dosis bajas. // · Hidrocortisona.]
+
+v
+
+[__DAP__ // · Ibuprofeno/paracetamol, ligadura. // · ↑PMVA. // · ↑Retorno VP→Disfunción VI: *1ª línea:* adrenalina, dobutamina. 2ª línea: dopamina (<10mcg/kg/min).]
+
+v
+
+[__Malf. V. Galeno / A-V.__ // · Milrinona / urapidilo +/- adrenalina / dobutamina. // · Evitar vasoconstrictores. // · Si HTP valorar NOi.]
+@fincols
+---
+
+[**↓ PAS y ↓ PAD**]
+
+v
+
+[**↓ Precarga ↑ Postcarga ↓ RVS + Disfunción miocárdica**]
+
+v
+
+[Progresión de la severidad tras un periodo inicial de ↓ PAS o PAD.]
+
+v
+
+[Considerar **hidrocortisona** si __shock refractario__ a 2 fármacos vasoactivos o __posible insuficiencia suprarrenal relativa.__]
+@fincols
+@finflujo
+@findeimg
+*PAS, Presión arterial sistólica; PAD, Presión arterial diastólica; RVS, resistencias vasculares sistémicas; RVP,*
+@p 159
+*Resistencias vasculares pulmonares; RN, recién nacido; VD, Ventrículo derecho; TTº AB, Tratamiento antibiótico; FVCS, Flujo en vena cava superior; GCI, Gasto cardiaco izquierdo; SSF, suero salino fisiológico; DAP, ductus arterioso persistente; PMVA, Presión media en vía aérea; VP, venoso pulmonar; VI, ventrículo izquierdo; Malf. A-V, Malformaciones vasculares arterio-venosas; HTP, Hipertensión pulmonar.*
+
+*1. Durante la circulación transicional la presión arterial es un pobre marcador de flujo sistémico. Si la hipotensión arterial no se acompaña de otros signos de fallo circulatorio, se recomienda actitud expectante (hipotensión permisiva). 2. Diferentes variables ecocardiográficas permiten evaluar ↑RVP.3. Evitar si disfunción del VI.4. Disminución del aclaramiento renal y dudoso efecto inotrópico pudiendo dar lugar a hipotensión refractaria. 5. Valorar la realización de ecocardiograma previo a la ligadura para guiar la necesidad de tratamiento profiláctico con milrinona.6. Estrategia de pulmón abierto sin sobredistensión.*
+! En el PDF este esquema es la «Figura 1» que cita el texto, aunque no lleva rótulo. Está redibujado: en el original cada columna (↓PAS, ↓PAD, ↓PAS y ↓PAD) es una rejilla de recuadros sin flechas entre ellos; las «v» de este dibujo solo indican el orden de lectura dentro de cada columna.
+
+@caja
+**SE RECOMIENDA**
+- Aplicar la monitorización multimodal para diagnosticar el fallo circulatorio del recién nacido.
+- Ofrecer un tratamiento cardiovascular fisiopatológicamente guiado por el factor determinante que ha producido la insuficiencia circulatoria.
+- Realizar un uso cuidadoso de los fármacos cardiovasculares ya que, en la fisiopatología de la lesión estructural del sistema nervioso central, inciden tanto la isquemia como la reperfusión del tejido cerebral.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se recomienda seguir esquemas terapéuticos predefinidos sin individualizar el manejo cardiovascular en cada paciente y en cada situación fisiopatológica.
+- No se recomienda iniciar el tratamiento cardiovascular en el paciente neonatal basándose exclusivamente en el valor de la presión arterial.
+@fin
+@bib
+1. Bravo MC, López-Ortego P, Sánchez L, et al. Validity of biomarkers of early circulatory impairment to predict outcome: A retrospective analysis. Front Pediatr 2019; 29;7:212.
+2. Riera J, Cabañas F, Serrano JJ, et al. New time-frequency method for cerebral autoregulation in newborns: Predictive capacity for clinical outcomes. J Pediatr. 2014;165:897-902.
+3. Pellicer A, Riera J, Lopez-Ortego P, et al. Phase 1 study of two inodilators in neonates undergoing cardiovascular surgery. Pediatr Res 2013; 73:95-103.
+4. Ergenekon E, Rojas-Anaya H, Bravo MC, et al. Cardiovascular drug therapy for human newborn: Review of pharmacodynamic data. Curr Pharm Des 2017; 23:5850-5860.
+5. Giesinger RE, McNamara PJ. Hemodynamic instability in the critically ill neonate: An approach to cardiovascular support based on disease pathophysiology. Semin Perinatol 2016;40:174-88.
+6. Dempsey EM, Al Hazzani F, Barrington KJ. Permissive hypotension in the extremely low birthweight infant with signs of good perfusion. Arch Dis Child Fetal Neonatal Ed. 2009; 94:F241-244.

@@ -1,0 +1,74 @@
+@f 14. Protocolos SENEO/3.6. Cuidados centrados en el desarrollo y en la familia
+@p 171
+# 3.6 CUIDADOS CENTRADOS EN EL DESARROLLO Y EN LA FAMILIA
+
+*Carmen Pallás Alonso, Salvador Piris Borregas, María López Maestro*
+
+*Hospital Universitario 12 de Octubre, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 157-160 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Concepto
+
+Tal como define la European Foundation for the Care of Newborn Infants (EFCNI), el cuidado centrado en el desarrollo del niño y en la familia es un término descriptivo en relación con el cuidado del recién nacido que incorpora las teorías y los conceptos de neurodesarrollo, neurocomportamiento, interacción entre padres e hijos, participación de los padres, promoción de la lactancia materna, adaptación ambiental y cambio en los sistemas hospitalarios. Se basa en gran parte en los trabajos realizados por la federación NIDCAP (Newborn Individualized Developmental Care and Assessment Program), Brazelton y la Declaración de derechos de los niños de la Asociación Mundial para la Salud Mental Infantil.
+
+## 2 Principios Básicos
+
+- El nacimiento prematuro o nacer con una enfermedad que requiera ingreso en una unidad neonatal es un hecho disruptivo en el desarrollo del recién nacido. El estar separado física y emocionalmente de su madre y de su padre es una situación tóxica para el recién nacido y altera el desarrollo cerebral.
+- La madre es el principal elemento regulador del recién nacido prematuro o enfermo. Por tanto, el contacto físico y emocional con la madre es el pilar fundamental para la implementación de los Cuidados Centrados en el Desarrollo y en la Familia.
+- De los elementos que integran clásicamente los cuidados centrados en el desarrollo y la familia, el cuidado madre canguro es el aspecto que mejor se ha estudiado. Hoy en día hay evidencia de buena calidad de su beneficio en el vínculo, en la producción de leche materna, en su papel analgésico, en el crecimiento y en la disminución de la depresión materna. Pero si hay que destacar un aspecto hay que señalar su papel neuroprotector.
+- De todas las acciones que realizamos habitualmente en una unidad neonatal solo la prevención del dolor y el cuidado madre canguro se han identificado como medidas neuroprotectoras.
+@p 172
+- La participación de los padres en los cuidados de sus hijos durante el ingreso ha mostrado los siguientes beneficios:
+  - Reduce la estancia en la Unidad Neonatal.
+  - Aumenta la frecuencia de lactancia materna.
+  - Mejora la ganancia ponderal.
+  - Reduce la duración de los suplementos de oxígeno.
+  - Disminución de la infección nosocomial.
+  - Disminuye la exposición de antibióticos.
+  - Reduce la ansiedad y la depresión de la madre y del padre.
+  - Se mejora el manejo del dolor.
+  - Mejor comunicación entre padres y profesionales.
+  - Reduce el gasto médico.
+  - Se disminuye la frecuencia de reingresos.
+  - Mejora el comportamiento y el desarrollo cognitivo de los niños.
+- Cada vez hay más modelos de familia que se apartan del modelo tradicional. Los profesionales de las unidades neonatales tienen que estar abiertos a la participación de las familias independientemente del modelo y ser sensibles a sus necesidades específicas.
+- El desarrollo de los sentidos y su maduración sigue una cronología bien establecida. Los dos últimos sentidos en madurar son el oído y la vista. Por tanto, los estímulos auditivos y visuales, y todos los estímulos en general, tienen que adaptarse a las capacidades del niño.
+- Muy probablemente, en los próximos años, para mejorar el desarrollo de los niños que atendemos, se tenga que trabajar de forma prioritaria en la salud mental de los padres.
+
+## 3 Acciones
+
+- Acceso libre de los padres/familias las 24 horas al día.
+- Instauración de programas de formación para que los padres puedan asumir los cuidados del recién nacido ingresado.
+- Participación de los padres en el cuidado de los niños para que asuman el papel de cuidadores principales.
+- Habilitar recursos para que los padres puedan estar con su hijo/a las 24 horas del día.
+- Promover el cuidado canguro precoz y los más prolongado posible.
+@p 173
+- Toma de decisiones compartida entre familia y profesionales.
+- Apoyo a la lactancia materna.
+- Prevención y tratamiento del dolor con medidas no farmacológicas y farmacológicas.
+- Cubrir la incubadora con cobertores en niño prematuros o muy enfermos.
+- Disminución de la luz ambiente, sobre todo cuando el niño/a está en cuidado canguro.
+- Controlar la exposición al ruido. Realizar tareas educativas entre los profesionales para disminuir el ruido en general y específicamente el de la voz humana.
+- Animar a que la madre y el padre le hablen al recién nacido en su lengua materna y que le lean cuentos.
+- Prevenir la deprivación sensorial que puede ocurrir en el caso de hospitalización en habitaciones individuales si la familia no está con el niño gran parte del día.
+- Promover la formación de los profesionales en cuidados centrados en el desarrollo y en la familia a través de cursos específicos, FICare, NIDCAP, FINE, etc.
+
+## 4 Hacia dónde vamos
+
+- **Cuidado Canguro Inmediato.** Se define el cómo cuidado canguro inmediato cuando se inicia inmediatamente después del parto y se mantiene durante las primeras horas/días de vida. A veces hay un tiempo mínimo de separación para la estabilización del niño con CPAP. Madre y niño se trasladan juntos a la unidad neonatal y se mantiene el cuidado canguro. El cuidado canguro inmediato ha demostrado en países en vías de desarrollo que disminuye la mortalidad, las sospechas de infección y la hipotermia en niños con un peso mayor de 1200g y más de 30 semanas de gestación. Hay dos estudios en marcha en Noruega y Suecia, con niños mayores de 28 semanas, sin límite inferior de peso, que aún no han publicado los resultados.
+- **“Couplet Care”.** El “couplet care” (no hay aún una traducción aceptada en español, podría ser cuidado conjunto de la diada) supone “cero separación” a lo largo del ingreso. Si el recién nacido presenta patología no muy grave se puede atender en la zona de obstetricia con su madre durante el puerperio y si el recién nacido presenta patología grave, madre y niño van a la unidad neonatal y el puerperio de la madre se atiende en la unidad neonatal. De esta forma el cuidado realmente se centra en los pacientes y se pierden los límites físicos de los servicios que de alguna manera son límites artificiales.
+@caja
+**SE RECOMIENDA**
+- El cuerpo de la madre es el ecosistema natural del recién nacido, incluso cuando nace antes de tiempo o enfermo. El contacto físico y emocional con la madre y el padre es el principal elemento para compensar la adversidad que sufren los recién nacidos enfermos al principio de la vida.
+@p 174
+- El cuidado canguro y la participación de los padres en el cuidado de su hijo debería ser áreas de trabajo prioritarias.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Programas de trabajo rígidos con las familias. Hay que adaptarse al ritmo de cada niño y de cada familia
+@fin
+@bib
+1. WHO Immediate KMC Study Group, Immediate "Kangaroo Mother Care" and Survival of Infants with Low Birth Weight. N Engl J Med. 2021;384:2028-2038.
+2. Soni R, Tscherning Wel-Wel C, Robertson NJ. Neuroscience meets nurture: challenges of prematurity and the critical role of family-centred and developmental care as a key part of the neuroprotection care bundle. Arch Dis Child Fetal Neonatal Ed 2022; 107:242-249.
+3. Klemming S, Lilliesköld S, Westrup B. Mother-Newborn Couplet Care from theory to practice to ensure zero separation for all newborns. Acta Paediatr. 2021;110:2951-2957.
+4. EFCNI, Pallás-Alonso C, Westrup B et al., European Standards of Care for Newborn Health: Parental involvement. 2018.

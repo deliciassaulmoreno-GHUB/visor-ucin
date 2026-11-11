@@ -1,0 +1,73 @@
+@f 14. Protocolos SENEO/3.1. Estructura de una UCI neonatal
+@p 147
+# 3.1 ESTRUCTURA DE UNA UCI NEONATAL
+
+*Ana Concheiro Guisán*
+
+*Hospital Álvaro Cunqueiro, Vigo*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 133-136 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Espacios diseñados para la atención sanitaria y las familias
+
+El diseño actual de las Unidades de Cuidados Intensivos Neonatales (UCIN) busca un equilibrio entre las necesidades clínicas y las familiares. Teniendo como punto de partida que la atención NIDCAP (Newborn Individualized Developmental Care and Assessment Program) ha demostrado beneficios en la estabilidad y en el neurodesarrollo del recién nacido (RN).
+
+Las UCIN son un fenómeno relativamente reciente en el desarrollo de los espacios sanitarios modernos, siendo la primera reconocida, en 1960, la del Yale New Haven Medical Center diseñada por el neonatólogo Louis Gluck. Esta unidad, al igual que la mayoría de las unidades anteriores al siglo XXI, consistía en habitaciones con múltiples puestos para bebés. Desde finales de la década de 1990, un mayor enfoque y comprensión de la atención al desarrollo de los neonatos ha llevado a establecer grupos de pacientes más pequeños (diseños en forma de molinete, espacios con tres paredes) hasta llegar al diseño de habitaciones para una sola familia. La expansión de este modelo ha sido posible gracias a las nuevas tecnologías de comunicación y monitorización.
+
+## 2 Entornos funcionales, humanizados, seguros y saludables
+
+La UCIN deberá ser un área diferenciada y de diseño específico con acceso controlado. Tendrá una entrada y una zona de recepción claramente identificadas para las familias. Deberá garantizarse una circulación eficaz del personal, la familia y el equipo. El tráfico hacia otros servicios no debe pasar por la unidad. La UCIN deberá estar ubicada en proximidad a la zona del hospital donde se produzcan los nacimientos. Las unidades que reciban pacientes de otros centros deberán tener acceso a la zona de recepción de transportes del hospital.
+
+El número de puestos vendrá determinado por los nacimientos e ingresos, condicionados por el nivel asistencial. Las recomendaciones son de 1-1,5 puestos de cuidados intensivos y 4,4 puestos de cuidados intermedios por cada 1000 RN/año en el área de influencia. La superficie útil recomendada por puesto de cuidados intensivos es de al menos 14 m^2^. El ancho de pasillos y puertas para permitir la movilidad interna de pacientes, personal y equipamiento debe cumplir unos estándares (2,4 metros de distancia entre puestos en
+@p 148
+unidades de espacio compartido). En las unidades abiertas se debe minimizar el flujo de tráfico por delante de cada cama.
+
+Las prácticas sostenibles deben guiar la selección de los materiales que se utilizarán para la construcción de los espacios, utilizando aquellos que reduzcan la exposición a toxinas. Esto implica no solo a los elementos constructivos sino también a los productos de limpieza que puedan ser utilizados en su desinfección. Se debe de tener en cuenta, en el diseño y selección de materiales, factores de confort ambiental. La iluminación ambiental (artificial y natural) debe poder controlarse para cada paciente y adaptarse a las necesidades del desarrollo (ritmos circadianos) y asistenciales, no superando los 600 lux (2000 lux durante ciertos procedimientos). La luz natural es una fuente con beneficio psicológico para el personal y las familias, pero es necesario instalar dispositivos de oscurecimiento (color neutro) y evitar la línea de visión directa del RN hacia la luminaria. El material de los suelos deberá tener un valor de reflexión de la luz no superior al 30%.
+
+Los niveles sonoros en las salas no deberán exceder una combinación de sonido de fondo continuo y operacional de 50 dB y 65 dB medidos a un metro de cualquier puesto. Para ello se debe realizar un correcto aislamiento de paredes, techos, puertas y ventanas, y otras medidas que reduzcan el ruido de impacto en superficies rodantes (ej. la lubricación de equipos pesados rodantes puede reducir el ruido en 30 dB), alarmas visuales.
+
+Es imprescindible un buen sistema de acondicionamiento de aire que mantenga la temperatura (22-26°C), humedad (30-60%) y ventilación adecuados. Se exige un mínimo de 6 cambios de aire por hora, con al menos dos cambios de aire exterior. En las habitaciones de aislamiento para infecciones de transmisión respiratoria el sistema enviará al exterior el 100% del aire extraído (presión negativa) con 8-12 renovaciones por hora. El nivel de ruido no superará los 35-40 dB. Las rejillas de entrada y salida de aire deberán estar situadas de forma que se reduzcan al mínimo las corrientes de aire.
+
+Cada puesto, ya sea en una habitación de una o varias camas, deberá estar a menos de 6 metros de un puesto de lavado de manos. Estos no deberán estar a menos de 0,9 m del paciente, de un almacén de suministros limpios o de una superficie de trabajo. Las dimensiones mínimas de un lavamanos son 61 x 41 x 25 cm.
+
+La UCIN deberá contar con sistemas de protección frente a incendios y otras incidencias, con áreas de evacuación correctamente señalizadas.
+
+## 3 Habitaciones unifamiliares
+
+Deberán estar diseñadas para permitir la privacidad visual y verbal del RN y su familia. Su tamaño mínimo no será inferior a 16,7 m2 de superficie libre. El entorno deberá equilibrar las necesidades de la familia con las del personal que necesita espacios de trabajo ergonómicos, con suministros, equipamiento, monitores, gráficos, medicación y recursos de alimentación a mano.
+
+El espacio destinado a las familias dispondrá de:
+- Una silla reclinable y cómoda adecuada para los cuidados "canguro" o "piel con piel".
+- Una superficie para dormir para al menos uno de los padres. Se dará preferencia al mobiliario de estilo doméstico.
+@p 149
+- Espacio para los equipos de extracción y almacenamiento de la leche materna.
+- Al menos cuatro tomas de corriente y al menos 0,2 m3 de espacio de almacenamiento.
+- Algunas unidades proporcionan cuartos de aseo privados, aunque se ha de ser extremadamente cuidadoso con el ruido y las infecciones.
+
+Paralelamente, resulta necesario proporcionar espacio para las familias, fuera de las habitaciones de pacientes, para su descanso, interacción, actividades educativas y transición al hogar.
+
+En el espacio destinado al personal deberá haber:
+- Dos superficies de trabajo de no menos de 0,3 y 0,6 m2 respectivamente.
+- Almacenamiento de suministros de no menos de 0,85 m3. Se pueden emplear sistemas fijos o móviles, pero siempre minimizar el ruido.
+- Las necesidades de suministro eléctrico y de gas deberán garantizar la seguridad, el fácil acceso y el mantenimiento e incluirán al menos 20 tomas de corriente por puesto accesibles simultáneamente (combinación de energía normal y de emergencia) y tomas de gas accesibles simultáneamente, 3 de aire, 3 de oxígeno y 3 de vacío.
+
+En ocasiones la habitación puede ser utilizada como quirófano o para otro tipo de procedimientos especiales (ej. ECMO). El flujo de aire no debe interrumpir la cortina de aire alrededor del campo quirúrgico y se aumentará a 15 renovaciones de aire/hora durante el procedimiento. Los difusores de flujo laminar sobre la cama se ajustarán a la menor velocidad para minimizar la pérdida de calor y agua. Existen sistemas de barrido para gases anestésicos.
+
+Externamente al espacio asistencial se dispondrá de un área de apoyo con despachos para información, trabajo del personal sanitario y administrativo, áreas de descanso para el personal, aseos y vestuarios, almacenes con capacidad suficiente (equipamiento, farmacia, lencería), lactario/banco de leche, zona de almacenaje de utensilios de limpieza y eliminación de residuos y salas de limpieza de equipos.
+@img seneo-3-1-fig1.png
+*Figura 1: Habitaciones familiares del Hospital 12 Octubre de Madrid (izquierda) y Sant Joan de Deu de Barcelona (derecha) cedidas amablemente por los Dres Pallás e Iriondo.*
+@p 150
+**Dinámica de trabajo en los nuevos espacios**
+Los procesos de trabajo han cambiado tras la implantación de las habitaciones familiares únicas y el personal debe recibir adecuado entrenamiento. Algunos estudios concluyen que la ratio de enfermería puede seguir siendo similar a la de las unidades abiertas. Sin embargo, el número de personal necesario para apoyar la ingeniería biomédica, los servicios ambientales y el control de suministros suele aumentar dada la dependencia de la tecnología de las comunicaciones, los monitores y el aumento de la superficie física.
+@caja
+**SE RECOMIENDA**
+- El diseño de UCIN, ya sea en habitaciones individuales o agrupadas, debe promover una atención y vigilancia óptimas, la respuesta de los cuidadores a las necesidades del paciente y de la familia, su privacidad y la interacción social.
+- El diseño y selección de materiales debe tener en cuenta el control de la agresión ambiental (ruido, luz) sobre el RN.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Los flujos de circulación descontrolados dentro de las unidades que incrementan las infecciones y el estrés ambiental.
+@fin
+@bib
+1. Aita M, De Clifford Faugère G, Lavallée A, et al. Effectiveness of interventions on early neurodevelopment of preterm infants: a systematic review and meta-analysis. BMC Pediatr 2021; 21: 210.
+2. Ninth Consensus Conference on Newborn ICU Design. Recommended Standards for Newborn ICU Design (2019).
+3. Ministerio de Sanidad. Unidades de Neonatología. Estándares y recomendaciones de calidad (2014).

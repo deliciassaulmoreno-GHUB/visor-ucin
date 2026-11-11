@@ -1,0 +1,104 @@
+@f 14. Protocolos SENEO/3.10. Síndromes malformativos
+@p 193
+# 3.10 SÍNDROMES MALFORMATIVOS
+
+*Laura Castells Vilella, Nuri Pumares Parrilla*
+
+*Hospital Quirónsalud del Vallés, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 179-182 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Las malformaciones congénitas son defectos únicos o múltiples de la morfogénesis de órganos o áreas corporales identificables al nacer o durante la vida intrauterina. Aproximadamente el 2-3% de todos los recién nacidos vivos tienen una malformación congénita reconocible, duplicándose este porcentaje cuando se consideran las anomalías diagnosticadas durante los primeros años de vida. Tanto los factores genéticos como los ambientales pueden producir defectos congénitos, en la actualidad la etiología se conoce en el 40-50% de los casos. Con la disminución de mortalidad infantil por enfermedades infecciosas y malnutrición, constituye una de las primeras causas de morbilidad y mortalidad infantil. Las malformaciones congénitas pueden clasificarse en función de sus características clínicas, etiológicas y mecanismos patogénicos (Tabla 1). En las últimas décadas se han desarrollado herramientas diagnóstico-terapéuticas que mejoran la identificación y reducen la morbilidad y mortalidad de estos pacientes.
+
+El proceso diagnóstico del recién nacido con malformaciones congénitas se basará en una anamnesis completa sobre el embarazo con búsqueda de probables teratógenos (fármacos, drogas, procedimientos invasivos, infecciones o fiebre) y enfermedades maternas, datos del parto, antecedentes familiares y exploración física exhaustiva.
+
+Una exploración física exhaustiva, y sobre todo un examen dismorfológico de la cara, manos y pies, incluyendo el estudio de los dermatoglifos, ha demostrado un alto rendimiento en la aproximación diagnóstica y con frecuencia sugiere la existencia de una alteración cromosómica o un síndrome específico (Tabla 2).
+
+Los defectos congénitos pueden ser mayores o menores. Los mayores son aquellos que conllevan importantes consecuencias médicas, quirúrgicas o estéticas. Los menores son aquellos sin dichas características, aunque en ocasiones tienen cierto impacto estético. Cuantas más anomalías menores se presenten más probabilidades tendrán de presentar una mayor. La Tabla 3 proporciona un resumen de los síndromes más frecuentes y reconocibles en el periodo neonatal basado en el síntomas y signos cardinales.
+
+| {2} **Tabla 1.Clasificación defectos congénitos según mecanismo patogénico** |
+|---|---|
+| {2} *Defectos de una estructura individual* |
+| **Malformación** | Desarrollo intrínsecamente anómalo durante la embriogénesis, principalmente causa genética (p. ej.: polidactilia). |
+| **Disrupción** | Destrucción del desarrollo con origen normal. Ocurre durante la etapa fetal, siendo más grave cuanto más precoz ocurra. La causa más frecuente es la ambiental (p.ej.: talidomida y focomelia). |
+| **Deformación** | Alteración en la forma por proceso mecánico. Ocurre principalmente en la etapa fetal. (p.ej.: bridas de líquido amniótico). |
+@p 194
+@pie Tabla 1.Clasificación defectos congénitos según mecanismo patogénico (continuación) Defectos de una estructura individual
+| **Displasia** | Alteraciones de la histogénesis que se manifiestan en el crecimiento postnatal (p.ej.: displasia ósea). |
+| {2} *Defectos que incluyen más de una estructura* |
+| **Secuencia** | Malformación primitiva que produce defectos congénitos en cascada (p.ej.: secuencia de Potter). |
+| **Asociación** | Grupo de anomalías frecuentemente asociadas sin origen etiopatogénico conocido (p.ej: asociación VACTER). |
+| **Síndrome** | Origen en una única causa primaria pero que actúa en diferentes áreas del desarrollo (p.ej.: trisomía 18). |
+
+| **Tabla 2. Principales hallazgos sugerentes de aberración cromosómica** |
+|---|
+| 1. Retraso del crecimiento intrauterino // 2. Retrraso del crecimiento postnatal // 3. Retraso psicomotor // 4. Presencia de malformaciones congénitas // 5. Presencia de rasgos dismórficos // 6. Alteraciones neurológicas // 7. Anomalías dermatoglíficas |
+
+| {2} **Tabla 3. Principales síndromes reconocibles en el periodo neonatal por su presentación** |
+|---|---|
+| **Síndromes** | **Rasgos característicos** |
+| {2} **Síndromes craniofaciales** |
+| Sd. Van der Woude | LL +/- FP, fístulas labiales |
+| Sd. Stickler | DF, secuencia Pierre-Robin |
+| {2} **Síndromes con hipotonía** |
+| Sd. Prader-Willi | DF, hipotonía, FM |
+| Atrofia muscular espinal | Hipotonía |
+| Distrofia miotónica | Hipotonía, dificultad respiratoria |
+| {2} **Síndromes cardíacos** |
+| Sd. Noonan | DF, cardiopatía, hipotonía, FM |
+| Sd. Kabuki | DF, cardiopatía, hipotonía |
+| Sd. Marfan | Aracnodactilia, complexión alta y delgada, dilatación aórtica |
+| {2} **Síndromes gastrointestinales** |
+| Sd. Beckwith-Wiedemann | Macroglosia, macrosomía, defectos pared abdominal |
+@p 195
+@pie Tabla 3. Principales síndromes reconocibles en el periodo neonatal por su presentación (continuación) Síndromes Rasgos característicos
+| {2} **Síndromes renales** |
+| Sd. de WAGR | Tumor de Wilms, aniridia, anomalías genitourinarias |
+| {2} **Síndromes esqueléticos** |
+| Acondroplasia | DF, extremidades cortas, tronco corto |
+| Osteogénesis imperfecta | Fracturas múltiples, talla baja, osteopenia |
+| {2} **Síndromes con afectación cutánea** |
+| Incontinencia pigmenti | Lesiones cutáneas, anomalías SNC, oculares y dentales |
+| {2} **Otros síndromes** |
+| Sd. CHARGE | Coloboma, atresia anal, cardiopatía |
+| Sd. Cornelia de Lange | DF, anomalía de extremidades |
+| {2} **Síndromes con aneuploidía** |
+| Trisomía 21 (Sd. Down) | DF, hipotonía, braquidactilia, cardiopatía, RPM |
+| Trisomía 18 (Sd. Edwards) | RC, microcefalia, mano trisómica, cardiopatía, anomalías renales y/o gastrointestinales, uñas hipoplásicas |
+| Trisomía 13 (Sd Patau) | RC, anomalías de línea media (holoprosencefalia, LL/FP, onfalocele), cardiopatía, anomalías renales, RPM |
+| Sd. Turner | DF, cardiopatía, anomalías renales |
+| Mosaicismo trisomía 8 | Rasgos dismórficos, alteraciones esqueléticas, cardiopatía |
+| {2} **Síndromes con microdelección** |
+| Sd. delección 22q11 | Cardiopatía (tipo ATS), FP, hipocalcemia |
+| Sd. William | Estenosis pulmonar, hipercalcemia, FM |
+| Sd. Smith-Magenis | DF, cardiopatía, RPM |
+| {2} **Síndromes metabólicos** |
+| Sd. Smith-Lemli-Opitz | DF, microcefalia, sindactilia 2º-3r dedo pies, RPM |
+| Sd. Zellweger | DF, hipotonía, hepatopatía, quistes renales |
+| Hiperplasia adrenal congénita | Genitales ambiguos, pérdida salina |
+| {2} **Causa multifactorial** |
+| VACTER/VACTERL | FTE, atresia anal, anomalías vertebrales |
+| Sd. Goldenhar | Asimetría facial, microtia, dermoide epibulbar |
+| Hijo de madre diabética | Macrosomía, agenesia sacra, múltiples anomalías |
+| Sd. alcohólico-fetal | DF, síndrome de abstinencia |
+| {2} *ATS: anomalías del tracto de salida; DF: dismorfia facial; FM: fallo de medro; FP: fisura palatina; FTE: fístula tráqueo-esofágica; LL: labio leporino; RC: retraso del crecimiento; RPM: retraso psicomotor; SNC: sistema nervioso central; VACTER/VACTERL: anomalías vertebrales, atresia anal, cardiopatía, fístula traqueoesofágica, anomalías renales, alteraciones de EE; WAGR: Sd. del tumor de Wilms aniridia.* |
+
+Una identificación correcta de un defecto congénito es el primer paso para ofrecer un consejo genético útil a las familias. Es de suma importancia poder determinar qué tipo
+@p 196
+de defecto congénito tiene el niño para poder identificar el momento de la gestación que se originó y así reconocer la probable causa y poder ofrecer consejo genético. Debido al aumento de la esperanza de vida, hoy día, las malformaciones congénitas representan un importante gasto de los servicios de salud por la cantidad de recursos que requieren para su asistencia multidisciplinar.
+
+Se recomienda disminuir las causas evitables de MC, haciendo hincapié en la prevención primaria durante el embarazo como la nutrición (ingesta de ácido fólico y yodo), riesgo derivado de la edad, riesgo genético, inmunidad, hábitos de vida y control de enfermedades crónicas.
+@caja
+**SE RECOMIENDA**
+- Se recomienda realizar una anamnesis exhaustiva sobre el embarazo y el parto, así como una exploración física completa al recién nacido y practicar las exploraciones complementarias pertinentes en el periodo neonatal que permitan una correcta orientación diagnóstica, la instauración de tratamientos capaces de salvar la vida y prevenir la evolución hacia discapacidades físicas, intelectuales, visuales o auditivas, así como un consejo genético para la toma de decisiones futuras.
+- La elección de la prueba genética va a depender del diagnóstico clínico planteado, siendo fundamental la experiencia de un genetista y/o de un clínico con conocimientos de genética para la solicitud e interpretación de dichos estudios.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Realizar estudios cruentos y/o costosos como primer escalón diagnóstico o si el diagnóstico clínico es por sí orientador.
+@fin
+@bib
+1. Corsello G, Giuffrè. Congenital malformations. J. Matern Fetal Neonatal Med, 2012; 25(S1): 25-29.
+2. Carlson BM. Developmental Disorders: Causes, Mechanisms, and Patterns. En: Carlson BM (ed). Human Embryology and Developmental Biology. 6ª Edición. Elsevier; 2019. p. 128-145.
+3. Lacassie Y. Evaluación diagnóstica del paciente dismórfico. Rev. Med. Clin. Condes 2015; 26: 452-457.
+4. Slavotinek A, Ali M. Recognizable Syndromes in the Newborn Period. Clin Perinatol 2015; 42: 263–280.
+5. Ruggieri VL, Arberas CL. Síndromes genéticos reconocibles en el periodo neonatal. Medicina (Buenos Aires) 2009; 69: 15-35.
