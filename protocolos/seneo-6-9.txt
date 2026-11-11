@@ -1,0 +1,97 @@
+@f 14. Protocolos SENEO/6.9. Drenajes torácicos
+@p 631
+# 6.9 DRENAJES TORÁCICOS
+
+*Oneidy Margarett Aponte Contreras*
+
+*Hospital Quirónsalud Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 617-621 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El drenaje de líquido, aire o sangre de la cavidad pleural es un procedimiento de práctica frecuente y a menudo de forma urgente en los recién nacidos (RN) ingresados en la Unidad de Cuidados Intensivos Neonatales (UCIN).
+
+Existen tres opciones de drenaje, cuya elección dependerá del tipo de neumotórax y de paciente (Figura 1):
+1. Aspiración con aguja-palomilla o angiocatéter: utilizada en casos de neumotórax poco importantes o, todo lo contrario, como medida urgente en caso de neumotórax «a tensión», que haga peligrar la vida del paciente. Se utiliza aguja-palomilla de 23-25G o angiocatéter de 22-24G, conectados por llave de 3 pasos a jeringuilla de 10 ml con 5-6 ml de agua bidestilada o suero salino como sello de seguridad.
+2. Catéter de drenaje de pequeño calibre:
+  - El drenaje tipo Pleurocath®, es un catéter intraaguja, de bisel lacerante, sellado en bolsa hermética (que se rellena al penetrar en la cavidad pleural) y que no precisa la disección previa de la piel y tejido subcutáneo para su inserción.
+  - El drenaje por técnica de Seldinger (como en el caso de los catéteres pig-tail) conlleva la inserción de una guía y la dilatación posterior de la entrada en los tejidos para introducir el catéter.
+3. Catéter grueso torácico de colocación directa: este tubo de drenaje es de mayor calibre que los dos anteriores. Su inserción precisa disección del tejido celular subcutáneo. Los tubos, de punta muy roma, llevan un trocar grueso en su interior que se retira una vez traspasada la pleura parietal.
+@img seneo-6-9-fig1.png
+*Figura 1. Sistemas de toracocentesis para drenaje de neumotórax. A) Catéter grueso torácico con trocar en su interior. B) Catéter intraaguja, tipo Pleurocath®. C) Aguja-palomilla.*
+
+@p 632
+## 2 Técnica de colocación del drenaje torácico
+
+En las Tablas 1 y 2 se refleja el material necesario para la colocación del drenaje torácico y la secuencia a seguir de esta colocación
+
+| **Tabla 1. Material necesario para la colocación del drenaje torácico** |
+|---|
+| Antisépticos y material esteril: gasas, gorro, mascarilla, bata, guantes, y campos. |
+| Instrumental: hoja y mango de bisturí, pinzas de disección y tipo Kocher, porta aguja y tijera. |
+| Fijación: sutura 3-0, vaselina, apósito autoadhesivo. |
+| Anestesia local. Aguja subcutánea, de carga, llave de tres pasos, y jeringuillas de 10-20 ml. |
+| Agua bidestilada y suero salino fisiológico. |
+| Pack tricompartamental (Pleur-evac®) junto con tubos de aspiracion pared-pack-paciente |
+| Sistema de drenaje: aguja palomilla o cateter intravenoso, tubo torácico, catéter intraaguja (Pleurocath®) // < 2000 gramos/ 32 semanas: 25G. Tubo 8- 10 Fr. Pleurocath® 5 Fr. // > 2000 gramos/ 32 semanas: 23G. Tubo 12 Fr. Pleurocath® 8 Fr. |
+
+| **Tabla 2. Secuencia de colocación del drenaje torácico** |
+|---|
+| Informar y obtener consentimiento informado a la familia, si es posible. |
+| Confirmar paciente y campo pulmonar afectado |
+| Correcta monitorización cardiorrespiratoria y estabilización del paciente. Retirar electrodos que se encuentren en la zona de punción. |
+| Preparar material de asepsia, analgesia, inserción, fijación y aspiración, cuidando la correcta elección del sistema de drenaje y pack tricompartimental. |
+| Contener al recién nacido y posicionarlo elevando el lado afectado entre 60 a 75º y colocar un rollo de toalla debajo de la espalda. Colocar el brazo extendido paralelo a la cabeza del recién nacido, con el hombro rotado internamente. |
+| El neonatólogo realizará una correcta higiene de manos, seguida de la colocación de protección esteril. |
+| Asepsia de la piel, elección del sitio de inserción, y bajo campo esteril se aplica la analgesia subcutánea. |
+| Incisión de la piel, en el punto medio entre la línea media axilar y la línea axilar anterior y el 4º-5º espacio intercostal. La altura de la glándula mamaria es un buen reparo anatómico para identificar el 4º espacio intercostal. Disección según necesidad. // Se inserta justo siguiendo el borde costal superior de la costilla inmediatamente inferior. // La colocación del tubo de drenaje en recién nacidos habitualmente es en posición anterior debido a que el RN se encuentra en posición supina, y el aire se ubica en el hemitórax medio, anterior o inferior. |
+| Se introduce el trocar haciendo presión hacia adelante y arriba, justo en el borde costal superior de la costilla inmediatamente inferior, avanzando su inserción hasta que todos los orificios del drenaje queden dentro del tórax, y se retira el mandril. |
+@p 633
+@pie Tabla 2. Secuencia de colocación del drenaje torácico (continuación)
+| Se introduce de 2 a 3 cm en un recién nacido pretérmino y de 3 a 4 cm en un recién nacido a término. |
+| Comprobar salida de aire con sello de jeringuilla con agua estéril o suero salino |
+| Fijar el catéter a piel con seda de 3 o 4–0, utilizando sutura continua "en bolsa de tabaco" |
+| Protección del sitio de inserción, con vaselina y apósito autoadhesivo |
+| Conectar al sistema de drenaje y aspiración preparado previamente (figura 2). |
+| Control radiológico |
+
+### Analgesia
+
+- Local: aplicación tópica con crema EMLA® en procedimientos programados. Infiltración subcutánea de lidocaína al 0.5%, 0.5-1 ml.
+- Sistémica (IV): Morfina (0.05-0.1 mg/K/dosis) o Fentanilo (1-4 µg/K/dosis).
+
+*Figura 2. Pack tricompartamental (Pleur-evac®)*
+@img seneo-6-9-fig2.png
+*Figura 2. Pack de drenaje tricompartimental. A) Conexión aspiración de pared. B) Conexión al paciente. C) Cámara de recogida. D) Cámara de cierre hidráulico. Debemos observar burbujeo. E) Cámara de control de aspiración. Llenar con agua bidestilada hasta 15-20 cmH~2~O.*
+
+@p 634
+## 3 Retirada del sistema de drenaje
+
+Tras 24-48 horas sin evidencia de burbujeo, se retirará la aspiración continua, manteniendo pinzado el tubo durante las siguientes 12-24 horas. Transcurrido este periodo de tiempo sin confirmación radiológica y/o sospecha clínica de acumulo de aire en el espacio pleural, se retira de forma definitiva. Se realizará siempre siguiendo un correcta técnica esteril, y cierre oclusivo con vaselina y apósito autoadhesivo. La realización de una radiografía de tórax de control tras la retirada es conveniente, mas no indispensable.
+
+## 4 Complicaciones
+
+- Hemorragia, laceración o perforación. Hay menos probabilidad de hemorragia si no se utiliza un trocar.
+- Lesión nerviosa. Pasar el tubo por encima del borde costal superior ayudará a evitar la lesión del nervio intercostal que transcurre por debajo de la costilla.
+- Traumatismo pulmonar. Puede ser minimizado no forzando nunca al tubo hasta su posición.
+- Compromiso cardíaco. Tener precaución en el hemitórax izquierdo por la localización del corazón.
+- Desplazamiento y oclusión del drenaje.
+- Edema pulmonar exvacuo, por vaciamiento muy rápido del neumotórax.
+- Enfisema subcutaneo.
+- Infecciones.
+@caja
+**SE RECOMIENDA**
+- Es imprescindible la monitorización del RN, asepsia cuidadosa de la zona, y realizar inserción siguiendo las referencias anatómicas.
+- Los sistemas de drenaje deben estar conectados a aspiración negativa no muy elevada (-5 a -12 cmH~2~O)
+- Deberá tenerse especial precaución con los cambios posturales y traslados, evitando salida accidental del drenaje.
+- Se realizará una radiografía de tórax tras la inserción del drenaje y siempre que se estime oportuno según la evolución del cuadro.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No está recomendada la colocación de un drenaje torácico, en presencia de pequeñas cantidades de líquido o aire sin sintomatología significativa, inclusive existe la posibilidad de su tratamiento conservador en neonatos con ventilación mecánica, invasiva o no invasiva.
+@p 635
+@fin
+@bib
+1. Canela Cardona M, Esquinas López C. Dispositivos de drenaje pleural: procedimientos y cuidados de enfermería. Manual SEPAR de procedimientos. Sociedad Española de Neumología y Cirugía Torácica, Editorial Respira, (2012)
+2. Solís Sánchez G, Mantecón Fernández L. Tratamiento de los escapes aéreos en Neonatología. An Pediatr Contin. 2013;11:350-3
+3. Kalczynski V, Chattás G, Quiroga A. Revisando técnicas: Drenaje pleural. Rev. Enfer. 2012; 15: 15-20.
