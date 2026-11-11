@@ -1,0 +1,88 @@
+@f 14. Protocolos SENEO/3.34. Alteraciones electrolíticas
+@p 345
+# 3.34 ALTERACIONES ELECTROLÍTICAS
+
+*Jose Uberos, Ana Campos-Martinez, Elisabet Fernández-Marin*
+
+*Hospital Universitario San Cecilio, Granada*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 331-335 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+El equilibrio hidroelectrolítico esta influenciado en el recién nacido por múltiples factores como edad gestacional, cambios fisiológicos postnatales de la función renal, resistencia alterada a hormonas, redistribución del agua corporal total o pérdida de agua en respuesta a factores ambientales.
+
+Primariamente el equilibrio entre agua y electrolitos es dependiente de la función renal y del balance entre ingesta – pérdidas de líquidos. El recién nacido es más susceptible a presentar trastornos en la homeostasis de agua y electrolitos debido a los cambios postnatales en el agua corporal, la inmadurez funcional del riñón neonatal y el aumento de las pérdidas insensibles como resultado de su mayor superficie corporal. Además, la magnitud de la diuresis postnatal, la inmadurez de la función renal y la pérdida insensible de líquidos es mayor a menor edad gestacional.
+
+La pérdida de líquidos postnatal se debe principalmente a una reducción isotónica del agua extracelular. La diuresis posnatal es de aproximadamente 1 a 3 ml/kg/hora en los recién nacidos a término y es mayor en los prematuros. Se han descrito tres fases evolutivas en el equilibrio hidroelectrolítico del recién nacido prematuro:
+- Fase prediurética. El primer día de vida se caracteriza por la existencia de oliguria y bajo filtrado glomerular (FeNa baja). Se ha relacionado con un aumento de la actividad simpática tras el parto.
+- Fase diurética y natriurética. El 2º y 3º día de vida se produce un aumento de la diuresis y de las pérdidas de sodio por un aumento del filtrado glomerular (FeNa alta). Se relaciona con una disminución de la actividad simpática y disminución de las resistencias vasculares renales.
+- Fase postdiurética. Ocurre entre el 4º-5º día. La diuresis es variable y depende del aporte de líquidos.
+
+## 1 Requerimiento de líquidos
+
+En el cálculo de los requerimientos de líquidos y electrolitos debe tenerse en cuenta la corrección de alteraciones (déficit o exceso de agua) y los requerimientos de mantenimiento. Los requerimientos de mantenimiento son los precisos para un balance neutro (Tabla 1). Durante los primeros días de vida se debe esperar una pérdida de peso corporal del 2-3% en recién nacidos a término y del 3-5% en prematuros. Pérdidas de peso excesivas deben motivar un aumento del aporte de líquidos hasta que se restablezca el equilibrio. Cuando la pérdida excesiva de peso se acompaña de cambios hemodinámicos
+@p 346
+(taquicardia o mal relleno capilar) se debe administrar una carga de volumen de suero fisiológico (10-20 ml/Kg).
+
+| {4} **Tabla 1. Requerimientos líquidos de mantenimiento en recién nacidos.** |
+|---|---|---|---|
+| **Peso al nacer** | **Días 1 a 2 ml/kg/día** | **Día 3 ml/kg/día** | **> Dia 3 ml/kg/día** |
+| <1000 | 90 a 120 | 140 | 150 |
+| 1001-1250 | 80 a 100 | 120 | 150 |
+| 1251-1500 | 80 | 100 | 150 |
+| 1501- 2000 | 60 a 80 | 100 | 140 a 160 |
+| >2000 | 60 a 80 | 100 | 140 a 160 |
+
+La anormal ganancia de peso acompañada de:
+- Disminución de la diuresis. Debe orientar el estudio hacia una disfunción renal, secreción inadecuada de hormona antidiurética (SIADH) o un síndrome de respuesta inflamatoria sistémica.
+- Aumento de la diuresis. Sugiere aporte excesivo de líquidos, deterioro de la capacidad de concentración renal debido a un defecto tubular congénito subyacente o diabetes insípida.
+
+## 2 Requerimientos de electrolitos
+
+Los requerimientos de mantenimiento de sodio, potasio y cloruro son de aproximadamente 2 a 3 mEq/kg/día. El aporte de electrolitos (IV) debe iniciarse precozmente, siempre que se garanticen un aporte de energía y proteínas adecuado. El aporte inmediato de nutrientes tras el nacimiento en el recién nacido de muy bajo peso, permite mantener las células en estado anabólico, se fomenta de esta forma el crecimiento postnatal a la vez que se incrementa la incorporación a las células de fosfato y potasio. Esta observación está en el origen de alteraciones metabólicas como son hipopotasemia, hipofosfatemia e hipercalcemia, observadas en recién nacidos sometidos a nutrición parenteral del día 0 con composiciones no bien balanceadas.
+
+### Sodio
+
+Durante la primera semana de vida los trastornos del equilibrio de sodio son debidos principalmente a trastornos en el equilibrio del agua. En el recién nacido la reabsorción renal de sodio es limitada debido a inmadurez tubular, que mejora con la edad gestacional. Como consecuencia de ello, la FeNa puede ser de hasta 5% en recién nacidos con menos de 30 semanas de edad gestacional, frente al 2% en recién nacidos a término. La determinación de sodio sérico es esencial para monitorizar el equilibrio hidroelectrolítico. Cuando se usa el peso corporal junto con las determinaciones de sodio sérico, la etiología de cualquier alteración del sodio, así como la planificación de su tratamiento puede
+@p 347
+establecerse fácilmente.
+
+Durante los primeros días de vida, los cambios en la concentración de sodio reflejan principalmente cambios en la ingesta y pérdida de agua, y no cambios en el balance de sodio.
+
+- Hiponatremia por exceso de agua libre (hipervolemia).
+- Hipernatremia por pérdida de agua libre o deshidratación (hipovolemia)
+
+***Hiponatremia.*** Durante el período neonatal temprano, la hiponatremia, definida como una concentración sérica de sodio ≤ 128 mEq/L, refleja con mayor frecuencia un exceso de agua corporal total con sodio corporal total normal. Esto se debe muy probablemente a un aporte excesivo de líquidos o, menos frecuentemente, a secreción inadecuada de hormona antidiurética (SIADH). El SIADH puede acompañar a diversas comorbilidades neonatales como infecciones, neumotórax o hemorragia intraventricular grave. La hiponatremia debida a estas causas se debe tratar con restricción de líquidos, lo que por lo general resulta en un retorno lento a los niveles normales. El ajuste de la ingesta de líquidos se basa en los cambios del peso corporal, la concentración de sodio y la ingesta neta de líquidos.
+
+A partir del periodo neonatal precoz, la hiponatremia generalmente se debe a un balance negativo de sodio por pérdidas incrementadas a nivel renal por inmadurez tubular renal, situación habitual en recién nacidos prematuros, donde las pérdidas renales de sodio pueden ser de 3-8 mEq/Kg/día. La corrección de la hiponatremia en estos casos se basa en la corrección del déficit, que se calcula como el producto del volumen corporal total por el déficit de sodio por litro [(140 mEq/L- Na observado) x 0.6 x Kg]. Se debe atender durante la reposición a las necesidades basales del recién nacido.
+
+En raras ocasiones la hiponatremia puede ser causada por una hiperplasia suprarrenal congénita por defecto de 21-α-Hidroxilasa, cursando con hiponatremia, hiperpotasemia, acidosis metabólica y shock; o un pseudohipoaldosteronismo tipo I, donde existe resistencia a los mineralcorticoides con valores elevados en plasma de renina y aldosterona. En situaciones de hiperglucemia marcada, por su efecto osmótico a nivel intravascular, puede incrementarse el volumen intravascular a expensas del espacio intersticial. Esta situación de hiponatremia ficticia se debe a una dilución de la concentración sérica de sodio; la determinación de sodio disminuye en 1.6 mEq/L por cada aumento de 100 mg/dl del nivel de glucosa.
+
+Aunque de forma infrecuente, la hiponatremia grave (<120 mEq/L) puede originar letargia, edema cerebral convulsiones, estos casos sintomáticos pueden requerir de una corrección rápida mediante administración de suero salino al 3% (2 ml/Kg en 10 minutos), una vez alcanzados valores de sodio por encima de 120 mEq/L se continua con el ritmo normal de reposición.
+
+***Hipernatremia.*** Se debe habitualmente a una pérdida excesiva de líquidos y se presenta con una pérdida excesiva de peso en los primeros días de vida (superior al 10% del peso). En recién nacidos a término esta situación se produce habitualmente tras una alimentación al pecho inadecuada. En pacientes con encefalopatía hipóxico-isquémica y diversas malformaciones del sistema nervioso central se puede presentar, de forma infrecuente, diabetes insípida con hipernatremia y poliuria. El tratamiento debe reemplazar las pérdidas de líquidos, según balance. Debe tenerse en cuenta que la rápida corrección de la hipernatremia (definida por un ritmo de incremento de Na superior a 0.5 mEq/L por hora) generalmente se asocia a edema cerebral y convulsiones por lo que se recomienda
+@p 348
+la corrección progresiva de la natremia.
+
+### Potasio
+
+***Hipopotasemia.*** Se define como la existencia de valores de potasio en sangre por debajo 3 mEq/L como consecuencia de pérdidas excesivas. Entre sus causas se citan el uso crónico de diuréticos, defectos tubulares renales o pérdidas gastrointestinales tras aspirado frecuente de una sonda de gastrostomía. La hipopotasemia suele ser asintomática. No obstante, se han descrito debilidad muscular, íleo, retención urinaria y defectos de conducción detectados en el electrocardiograma (p. ej., depresión del segmento ST, ondas T de bajo voltaje y ondas U). El tratamiento consiste en incrementos del aporte diario de potasio del orden de 1-2 mEq/Kg.
+
+***Hiperpotasemia.*** Se define como un incremento de los valores de potasio en sangre por encima de 6 mEq/L. En recién nacidos prematuros este límite puede ser ligeramente mayor (rango 4-6.5 mEq/L), debido a su relativa resistencia a la aldosterona y bajo filtrado glomerular.
+
+El tratamiento de los casos graves incluye suspender inmediatamente la perfusión de soluciones que contengan potasio. Revertir los efectos de la hiperpotasemia sobre la membrana celular mediante la infusión de gluconato cálcico al 10% (0.5 ml/Kg) o cloruro cálcico (20 mg/Kg o 0.2 ml/Kg) en 5 minutos. Promover el paso de potasio extracelular al compartimento intracelular mediante la administración de glucosa e insulina. Infusión inicial de 0.05 U/Kg de insulina regular + 2 ml/Kg de suero glucosado al 10%; seguidos de infusión continua de insulina regular 0.1 U/Kg/h con 4 ml/Kg/h de S. glucosado al 10%. Se requiere monitorizar los niveles de glucemia y ajustar la infusión si fuese necesario. La administración de furosemida (1 mg/Kg/dosis), la infusión de bicarbonato (IV) 1-2 mEq/Kg, la hiperventilación o la infusión de salbutamol (IV) 4 mcg/Kg/dosis en 20 minutos pueden ser de utilidad para promover la excreción de potasio.
+@caja
+**SE RECOMIENDA**
+- Durante los primeros días de vida, los cambios en la concentración de sodio reflejan frecuentemente cambios en la ingesta y pérdida de agua, y no cambios en el balance de sodio. Se recomienda prestar especial atención al balance hídrico en el sentido de determinar una disminución o aumento de diuresis.
+- En el recién nacido prematuro donde es importante garantizar un aporte energético y proteico, precoz y suficiente, se recomienda aportar precozmente Na+, Cl- y K+ siempre que la función renal lo permita.
+- Cuando la pérdida excesiva de peso en un recién nacido se acompaña de cambios hemodinámicos (taquicardia o mal relleno capilar) se recomienda administrar una carga de volumen de suero fisiológico (10-20 ml/Kg).
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Durante el periodo neonatal precoz la hiponatremia refleja generalmente un exceso de agua corporal total con sodio corporal total normal, por lo que no se recomiendan aportes hídricos excesivos durante las primeras 48 h de vida.
+- Por el contrario, durante el periodo neonatal tardío, la hiponatremia con frecuencia se debe a un balance negativo de sodio por inmadurez renal, con agua corporal total normal, por lo que no se recomiendan restricciones hídricas importantes.
+@p 349
+@fin
+@bib
+1. Marcialis MA, Dessi A, Pintus MC, y cols. Hyponatremia and hypernatremia in the newborn: in medio stat virtus. Front Biosci (Elite Ed). 2012;4:132-40.
+2. Ringer S. Fluid and electrolyte therapy in newborns. UpToDate. 2018;July:1-19.
+3. Huebner K, Davis TK, Jackson T, et al. Severe hyponatremia in a 1-week-old male infant. Clin Pediatr (Phila). 2015;54:396-400.
+4. Bonsante F, Iacobelli S, Latorre G, et al. Initial amino acid intake influences phosphorus and calcium homeostasis in preterm infants--it is time to change the composition of the early parenteral nutrition. Plos one; 2013; 8: e72880.

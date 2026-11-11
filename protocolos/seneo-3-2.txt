@@ -122,4 +122,3 @@ Para elaborar un LV que resulte eficaz, deben tenerse en cuenta algunos requisit
 4. Martín Delgado MC, Trenado Álvarez J, Sanz López E et al. Prevención de errores de medicación en las Unidades de Cuidados Intensivos de adultos, pediátricas y neonatales en España. Prevemed 2022. ISBN: 978-84-09-39083-0.
 5. Arriaga Redondo M, Sanz López E, Rodríguez Sánchez de la Blanca A, et al. Mejorando la seguridad del paciente: utilidad de las listas de verificación de seguridad en una unidad neonatal. An Pediatr (Barc).2017; 87: 191-200.
 
-## Loời

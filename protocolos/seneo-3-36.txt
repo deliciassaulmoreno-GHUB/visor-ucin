@@ -1,0 +1,129 @@
+@f 14. Protocolos SENEO/3.36. Enfermedad metabólica ósea
+@p 356
+# 3.36 ENFERMEDAD METABÓLICA ÓSEA
+
+*Alicia Montaner Ramón, Teresa Esclapés Giménez, Fátima Camba Longueira*
+
+*Hospital Universitari Vall d'Hebron, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 342-347 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La osteopenia de la prematuridad o enfermedad metabólica ósea es una complicación de la prematuridad de causa multifactorial, caracterizada por una reducción del tejido osteoide y del componente mineral óseo y por alteraciones bioquímicas del metabolismo fosfo-cálcico.
+
+El período de mayor transferencia de calcio y fósforo a través de la placenta hacia el feto es en el tercer trimestre de la gestación (aproximadamente el 80%) y esta concentración mineral es esencial para el desarrollo del esqueleto fetal.
+
+El recién nacido prematuro se ve privado de estos aportes necesarios para una adecuada mineralización ósea. Gracias a un mejor manejo nutricional y a algunos cambios en la práctica clínica, como la disminución de la inmovilización o del uso de ventilación mecánica invasiva, la incidencia en los últimos años se ha visto disminuida aunque sigue siendo una causa importante de morbilidad en el prematuro.
+
+### Etiología
+
+La prematuridad y el bajo peso al nacimiento son los principales factores de riesgo (mayor a menor edad gestacional y peso). Otros mecanismos implicados son:
+- Factores prenatales: hipovitaminosis D materna, preeclampsia, retraso de crecimiento intrauterino, corioamnionitis, sexo masculino.
+- Aportes deficitarios de calcio y fósforo: nutrición parenteral prolongada, leche materna no fortificada o mala tolerancia de la fortificación, restricción hídrica.
+- Incremento de pérdidas: fármacos (corticoides, diuréticos de asa, metilxantinas, fenobarbital), pérdidas renales, inmovilización prolongada.
+- Displasia broncopulmonar grave en tratamiento diurético y con restricción hídrica.
+- Déficit de vitamina D
+- Malabsorción: antecedentes de enterocolitis necrosante, síndrome de intestino corto, colestasis.
+
+### Prevención
+
+Es el pilar fundamental y se basa en aportar los requerimientos minerales adecuados, que se reflejan en la siguiente tabla:
+
+@p 357
+| | **Nutrición parenteral (primeros días de vida)** | **Nutrición parenteral (fase de crecimiento estable)** | **Nutrición enteral** |
+|---|---|---|---|
+| Calcio | 0,8-2 mmol/kg/día | 1,6-3,5 mmol/kg/día | 120-140 mg/kg/día |
+| Fósforo | 1-2 mmol/kg/día | 1,6-3,5 mmol/kg/día | 65-90 mg/kg/día |
+| Ratio Ca:P | 1,3:1-1,7:1 | 1,3:1-1,7:1 | 1,5:1-1,7:1 |
+
+- **Nutrición parenteral:** Su duración debe ser lo menor posible, ya que los aportes de calcio y fósforo están condicionados por su solubilidad.
+- **Nutrición enteral:** La leche materna es deficitaria en calcio y fósforo respecto a los aportes recomendados. La fortificación de la leche materna propia y/o donada y el uso de fórmulas adaptadas al prematuro, en caso de no contar con leche materna, debe ser la práctica estándar en los grupos de riesgo.
+- **Vitamina D:** Se recomienda la suplementación con vitamina D3 (iniciando a 400 UI diarias) desde el momento en que se alcanza la nutrición enteral completa, con el objetivo de mantener la 25-hidroxivitamina D sérica en niveles suficientes (≥20 ng/mL).
+- **Revisión de medicaciones:** Evaluar frecuentemente la indicación de los fármacos con repercusión negativa en el metabolismo óseo, como los diuréticos de asa o los corticoides.
+- **Ejercicio físico:** La aplicación de programas de actividad física podrían mejorar la mineralización ósea pero se necesitan más estudios y faltan datos a largo plazo, por lo que no se recomiendan en la actualidad como prevención de la osteopenia.
+
+### Diagnóstico
+
+- **Manifestaciones clínicas:** suelen desarrollarse a partir de la cuarta semana de vida, con una amplia variabilidad clínica, desde formas asintomáticas o síntomas inespecíficos como hipotonía, dificultad para suspender el soporte respiratorio, cansancio con las tomas o irritabilidad hasta la producción de fracturas patológicas en las formas más graves.
+- **Laboratorio:** Se recomienda cribado analítico en los prematuros de ≤32 semanas y/o ≤1500 gramos a partir de las 4 semanas de vida y posteriormente cada 2-4 semanas:
+  - Fosfatasa alcalina (FA): marcador de turnover óseo. Por encima de 500 UI/L se relaciona con mayor riesgo de desarrollar osteopenia, mientras que una FA > 800-900 UI/L asociada a hipofosforemia tiene una sensibilidad del 100% y especificidad del 70% para la identificación de osteopenia. Las cifras de FA por
+@p 358
+sí solas no presentan buena correlación con los hallazgos radiológicos.
+
+  - Fósforo: Se relaciona con el fósforo óseo. Marcador aislado específico pero poco sensible. Valores inferiores a 4 mg/dL o 1,2 mmol/L son indicativos de osteopenia, aunque con FA normal solo indicarían un déficit aislado de fósforo.
+  - Calcio: No es buen marcador, suele ser normal por aumento compensador de PTH.
+  - 25-hidroxivitamina D: Su determinación en pacientes de mayor riesgo (retraso de crecimiento intrauterino, tratamiento con corticoides o diuréticos, colestasis, hijos de madre con riesgo de hipovitaminosis D) puede ser útil para ajustar la dosis de la suplementación, ya que pueden necesitar aportes más elevados (hasta 800-1000 UI diarias) para alcanzar niveles suficientes (≥20 ng/mL).
+  - Parathormona o Paratirina (PTH) y reabsorción tubular de fósforo (TRP): En pacientes con osteopenia puede orientar hacia el origen del déficit mineral para guiar el tratamiento: PTH elevada (>100pg/ml) y TRP disminuida (<85%) orientan a déficit de calcio; PTH normal o disminuida y TRP elevada (>95%) orientan a déficit de fósforo.
+- **Imagen:**
+  - Radiografía de muñeca o rodilla: Prueba de imagen más empleada en el prematuro, aunque los hallazgos (desmineralización, adelgazamiento cortical, ensanchamiento metafisario...) no suelen manifestarse hasta que el contenido mineral óseo disminuye un 30-40%.
+  - Absortiometría de rayos X de energía dual o densitometría ósea (DEXA) y los ultrasonidos cuantitativos: Más sensibles para detectar la disminución de la densidad mineral ósea, por el momento poco utilizados en el prematuro.
+
+### Tratamiento
+
+Si la analítica es sugestiva de osteopenia, es importante asegurar los aportes diarios recomendados de calcio y fósforo en la nutrición enteral y ajustar la dosis de vitamina D3 para alcanzar determinaciones de 25-hidroxivitamina D sérica en niveles suficientes.
+
+- Si a pesar de ello, se mantiene la situación de osteopenia, hay que valorar el inicio de suplementación mineral con calcio y fósforo vía oral:
+  - Calcio: inicio a 20 mg/kg/día hasta un máximo de 100 mg/kg/día. Las formas orales más empleadas son glubionato cálcico, gluconato cálcico o carbonato cálcico.
+  - Fósforo: inicio a 10-20 mg/kg/día hasta máximo 40-50 mg/kg/día. No existe una solución ideal vía oral. Se puede emplear fosfato potásico o fosfato disódico.
+
+### Seguimiento
+
+- Se recomienda seguimiento hasta las 40-52 semanas de edad postmenstrual o hasta asegurar una FA estable inferior a 500 UI/L.
+- Si la osteopenia no se resuelve antes del alta hospitalaria, se recomienda mantener
+@p 359
+la suplementación con vitamina D3 y la suplementación mineral oral en caso de lactancia materna directa, o la fortificación de la leche materna si no se alimenta directamente al pecho. Si la alimentación es mediante fórmula, se recomienda mantener fórmulas adaptadas al prematuro hasta la resolución de la enfermedad metabólica ósea.
+
+## 2 Nefrocalcinosis
+
+La nefrocalcinosis se define como el depósito de calcio en el riñón. En los últimos años, la mayor accesibilidad a pruebas de imagen como la ecografía renal, ha evidenciado una elevada incidencia de nefrocalcinosis en los recién nacidos, especialmente en prematuros.
+
+La incidencia real no se conoce, pero hay publicaciones que reportan incidencias de más del 50% en menores de 1500 gramos.
+
+### Factores de riesgo
+
+- Prematuridad: mayor riesgo a menor edad gestacional, por la inmadurez del túbulo renal.
+- Hipercalciuria: puede encontrarse en contexto de hipercalcemia o normocalcemia.
+  - Hipercalcemia: necrosis grasa subcutánea, aportes aumentados de calcio o vitamina D, hiperparatiroidismo primario, enfermedades genéticas (síndrome de Williams, hipercalcemia idiopática infantil).
+  - Normocalcemia: medicaciones que alteran la reabsorción tubular de calcio (diuréticos de asa, aminoglucósidos, dexametasona), enfermedades genéticas que afectan a la reabsorción de calcio (síndrome de Bartter, acidosis tubular renal distal tipo 1, hipofosfatasia).
+- Hipocitraturia: el citrato es un potente inhibidor de la formación de cálculos. En el prematuro con nefrocalcinosis, es común la excreción de citrato disminuida.
+- Hiperoxaluria: también es frecuente en el recién nacido prematuro.
+
+### Diagnóstico
+
+- Ecografía renal: Técnica de elección tanto para el diagnóstico como para el seguimiento. Sería recomendable su realización en los pacientes de riesgo elevado de desarrollar nefrocalcinosis.
+- Hay pocas patologías que cursen con nefrocalcinosis ya en periodo neonatal, por lo que si se detecta, habrá que descartar su existencia (acidosis tubular renal tipo 1, síndrome de Bartter neonatal o de Williams, hiperparatiroidismo primario neonatal).
+
+### Tratamiento
+
+La evolución natural de la patología si no hay una enfermedad de base subyacente, es hacia la resolución espontánea en los primeros años de vida, por lo que no se recomienda un tratamiento específico.
+@p 360
+Si hay una situación de hipercalciuria por empleo de diuréticos de asa o por exceso de aportes de calcio o vitamina D, es recomendable ajustar dichos tratamientos. La administración de tiazidas puede ser una alternativa si se precisa tratamiento diurético.
+
+### Pronóstico y seguimiento
+
+El pronóstico de la patología depende de la causa subyacente. En los recién nacidos prematuros sin otra patología predisponente, no se ha demostrado mayor riesgo de litiasis, de infección de orina o de alteración de la función renal a largo plazo. Los estudios que evalúan su repercusión sobre el filtrado glomerular y sobre la presión arterial no son concluyentes.
+
+Aunque las consecuencias a largo plazo no están claras, es recomendable el seguimiento nefrológico periódico tras el alta hospitalaria con ecografía renal y determinación de la función renal y de la calciuria hasta su normalización.
+@caja
+**SE RECOMIENDA**
+- En el recién nacido prematuro hay que asegurar los aportes adecuados de calcio, fósforo y vitamina D3 para prevenir la aparición de osteopenia.
+- Se recomienda la realización de cribado analítico de la enfermedad metabólica ósea a partir del mes de vida y posteriormente de forma periódica hasta las 40-52 semanas de edad postmenstrual.
+- El tratamiento inicial ante la detección de enfermedad metabólica ósea consiste en asegurar los aportes en la ingesta oral mediante la fortificación de la leche materna o el uso de fórmulas adaptadas al prematuro. No se recomienda el inicio de suplementos minerales orales si no se han asegurado previamente estos aportes.
+- Sería recomendable el cribado de nefrocalcinosis en los recién nacidos de riesgo, para poder realizar un seguimiento nefrológico tras el alta en caso de detectarse.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Iniciar suplementos de calcio y fósforo orales si no se han asegurado previamente los aportes diarios en la nutrición enteral.
+- Mantener el aporte de calcio y fósforo vía oral una vez resulta la osteopenia.
+- Determinar la parathormona y reabsorción tubular de fósforo como cribado en todos los pacientes.
+@fin
+@bib
+1. Mihatsch W, Fewtrell M, Goulet O, et al.; ESPGHAN/ESPEN/ESPR/CSPEN working group on pediatric parenteral nutrition. ESPGHAN/ESPEN/ESPR/CSPEN guidelines on pediatric parenteral nutrition: Calcium, phosphorus and magnesium. Clin Nutr. 2018;37: 2360-2365.
+2. Lee B, De Beritto T. Metabolic Bone Disease of Prematurity. Neoreviews. 2022;23:e311-e318.
+3. Abrams SA. Management of bone health in preterm infants. In: UpToDate, Hoppin AG
+@p 361
+(Ed), UpToDate, Waltham, MA, 2022 (accedido el 30 de junio de 2022).
+
+4. Agostoni C, Buonocore G, Carnielli VP, et al; ESPGHAN Committee on Nutrition. Enteral nutrient supply for preterm infants: commentary from the European Society of Paediatric Gastroenterology, Hepatology and Nutrition Committee on Nutrition. J Pediatr Gastroenterol Nutr. 2010;50:85-91.
+5. Smith J, Stapleton FB. Nephrocalcinosis in neonates. In: UpToDate, Wilkie L (Ed), UpToDate, Waltham, MA, 2022 (accedido el 30 de junio de 2022).
+6. Schell-Feith EA, Kist-van Holthe JE, van der Heijden AJ. Nephrocalcinosis in preterm neonates. Pediatr Nephrol. 2010; 25(2):221-30.

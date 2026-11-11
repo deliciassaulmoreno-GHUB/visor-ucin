@@ -1,0 +1,188 @@
+@f 14. Protocolos SENEO/3.37. Enfermedades metabólicas congénitas de presentación aguda
+@p 362
+# 3.37 ENFERMEDADES METABÓLICAS CONGÉNITAS DE PRESENTACIÓN AGUDA
+
+*Paula Sánchez Pintos, María Luz Couce*
+
+*Hospital Clínico Universitario de Santiago de Compostela*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 348-356 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+Los Errores Congénitos del Metabolismo (ECM) son un grupo de más de 1450 enfermedades genéticas definidas como cualquier condición en la cual el deterioro de una vía bioquímica sea intrínseco a su fisiopatología. Comprenden tanto defectos enzimáticos primarios como deficiencias de cofactores, chaperonas o transportadores de alguna vía metabólica e incluso superactividades de transportadores. La consecuencia final es el déficit y/o acumulación de uno o varios metabolitos. Se estima que 1/800 recién nacidos (RN) vivos padece un ECM y casi la mitad desarrollarán la enfermedad durante el período neonatal.
+
+La sintomatología es inespecífica y se puede confundir en su inicio con otras patologías neonatales comunes como la sepsis. Existen, no obstante, formas de presentación más comunes -sintomatología de alerta- que pueden ayudar a orientar el diagnóstico de ECM.
+
+## 1 Afectación neurológica
+
+Que incluye a su vez:
+
+**1.1. Encefalopatía metabólica:** Es la forma de presentación más frecuente de los ECM. Se trata de un RN que tras unas horas o días sano comienza sin causa aparente con síntomas digestivos y neurológicos: succión débil, vómitos, letargia y rápidamente entra en coma, con alteraciones del tono muscular y movimientos involuntarios, y a veces deshidratación. El inesperado y el "misterioso" deterioro después de un período inicial normal es el indicador más importante. Puede acompañarse de un olor anormal de la orina y piel como por ejemplo el olor a pies sudorosos de la acidemia isovalérica y de la acidemia glutárica tipo II.
+
+Se pueden manifestar así los trastornos del metabolismo de los aminoácidos (defectos del ciclo de la urea, acidurias orgánicas, jarabe de arce), de los carbohidratos (galactosemia, acompañándose de insuficiencia hepatocelular) y la deficiencia de las isoformas VA de anhidrasa carbónica (CAVA) que puede manifestarse con encefalopatía hiperamoniémica, hiperlactacidemia y cetonuria en el período neonatal.
+
+**1.2. Convulsiones:** Generalmente la epilepsia es grave, tiene un inicio temprano y puede presentarse con espasmos, mioclonos y crisis tónicas - clónicas parciales o generalizadas. La presencia de hipo neonatal o intraútero persistente asociado a convulsiones es un dato característico de hiperglicinemia no cetósica.
+
+Factores de sospecha de enfermedad metabólica ante un neonato con convulsiones son: el antecedente de movimientos anormales intraútero, antecedentes familiares
+@p 363
+de convulsiones neonatales, la presencia de encefalopatía epiléptica, convulsiones mioclónicas, patrón de brote-supresión en el electroencefalograma (EEG), falta de respuesta a fármacos anticomiciales, la presencia de movimientos oculares anómalos o hallazgos en la neuroimagen similares a encefalopatía hipóxico-isquémica (EHI-like) pero sin historia perinatal compatible.
+
+Pueden deberse a trastornos tratables en el período neonatal, como las convulsiones sensibles a piridoxina, deficiencia de piridoxal-5-fosfato oxidasa, deficiencia de 3-fosfoglicerato deshidrogenasa sensible a la suplementación con serina, o la hipoglucemia hiperinsulinémica persistente. Sin embargo otros no disponen de tratamiento (Tabla 1).
+
+@ancha
+| {4} **Tabla 1. ECM que asocian convulsiones en período neonatal** |
+|---|---|---|---|
+| **Entidad** | **Crisis /EEG** | **Signos asociados** | **Diagnóstico/ Tratamiento** |
+| **Convulsiones piridoxin sensibles** | Crisis polimorfas parciales, generalizadas, gran mal | Episodios de irritabilidad y agitación | Piridoxina oral a 30mg/kg/día // Desaparición crisis a los 7 días de tratamiento |
+| **Crisis piridoxalfosfato dependiente** | Mioclonías, espasmos // Trazado brote-supresión | | Piridoxal fosfato a 30mg/kg/día // Desaparición crisis a los 7 días de tratamiento |
+| **Convulsiones sensibles a folínico** | Crisis neonatales, Epilepsia severa, gran mal | | Ácido folínico 10mg/día |
+| **Hiperglicinemia no cetósica** | Brote-supresión // Otras | Malformaciones SNC // Agenesia cuerpo calloso // Hipo neonatal | Glicina LCR/sangre>0.8 // Benzoato sódico, dextrometorfano, // Dieta pobre en glicina |
+| **Deficiencia de biotinidasa, holocarboxilasas** | Crisis tónicas, mioclonías | Acidosis, alopecia, sordera // Eczema periorificial, | Biotina:10mg/día, a veces 1ª dosis más elevada: hasta 60-80mg |
+| **Deficiencia de sulfito-oxidasa y de cofactor molibdeno** | Mioclonías, epilepsia severa | Luxación cristalino, quistes de sustancia blanca, muerte precoz | Sulfitest + en orina |
+| **Deficiencia de L-serina** | Epilepsia severa. Crisis tónicas | Microcefalia, CIR, retraso psicomotor, | ↓serina y de glicina // Dosis altas de serina y glicina |
+| **Deficiencia de GLUT-1** | Epilepsia precoz grave // Crisis polimorfas. Se agravan en en ayunas | Microcefalia. | Glucorraquia/ glucemia <0.3 // Dieta cetógena |
+| **Deficiencia de piruvato deshidrogenasa** | Crisis en 30% casos | Hipotonía, letargia, malf. cortical // agenesia cuerpo calloso | ↑lactato; lactato/ piruvato: Normal // Régimen cetogénico, tiamina |
+
+@p 364
+**1.3. Afectación neurológica con acidosis láctica:** con polipnea y acidosis metabólica y pueden presentar también alteración del nivel de conciencia, hipotonía y fracaso multiorgánico. Las causas más probables son las anomalías del metabolismo del piruvato (déficit de piruvato carboxilasa o de piruvato deshidrogenasa) o defectos de la cadena respiratoria.
+
+**1.4. Hipo/hipertonía:** entre los ECM con hipotonía marcada en el período neonatal destacan: el síndrome de Smith-Lemli-Opitz (trastorno del metabolismo del colesterol caracterizado por microcefalia y rasgos faciales característicos: fosas nasales antevertidas, orejas de implantación baja, micrognatia y particularmente sindactilia del 2º-3er dedo de los pies), el síndrome de Zellweger y otros trastornos peroxisomales, los trastornos de glicosilación que asocian mamilas invertidas, distribución anómala de la grasa corporal, e hipoplasia cerebelosa, el síndrome de hipotonía-cistinuria que puede simular un síndrome de Prader-Willi y la enfermedad de Pompe caracterizada por hipotonía y miocardiopatía, pudiendo asociar macroglosia, hepatomegalia y debilidad progresiva.
+
+El estudio metabólico de la hipotonía neonatal no filiada debe incluir acilcarnitinas, aminoácidos plasmáticos y ácidos orgánicos, lactato/piruvato y, en función de los hallazgos clínicos: estudio de ácidos grasos de cadena muy larga y plasmalógenos (estudio de trastornos peroxisomales), esteroles en plasma (7-dehidrocolesterol) (estudio del síndrome de Smith-Lemli-Opitz), isotransferrinas (estudio de trastornos de glicosilación de proteínas) y estudio de actividad enzimática de alfaglucosidasa (enfermedad de Pompe). El ECG en los casos de Pompe neonatal puede ayudar al diagnóstico siendo característica la presencia de complejos QRS hipervoltados, intervalos PR cortos y anomalías en la repolarización.
+
+La hipertonía neonatal es más común en la deficiencia de sulfito oxidasa y en la hiperplexia debida a una transmisión glicinérgica anormal.
+
+## 2 Presentación hepática y gastrointestinal
+
+Existen diferentes formas clínicas, que pueden superponerse o transformarse de una a otra.
+
+**2.1. Insuficiencia hepatocelular:** fallo hepático con vómitos, ictericia, alteración de la coagulación, que puede deberse a galactosemia, fructosemia, tirosinemia tipo 1 que se manifiesta generalmente después de la 3ª semana de vida y a las hepatopatías mitocondriales.
+
+**2.2. Hepatomegalia con hipoglucemia y convulsiones** alerta a defectos de la gluconeogénesis y las glucogenosis tipo I o III.
+
+**2.3. Hepatomegalia e hipoglucemia por hiperinsulinismo.** En las formas graves de hiperinsulinismo puede haber también hepatomegalia.
+
+**2.4. Ictericia colestática:** en los errores innatos del metabolismo de ácidos biliares, enfermedad de Niemann Pick tipo C, los trastornos de glicosilación, el síndrome hepatocerebral debido a depleción del DNA mitocondrial y la deficiencia de citrina.
+
+**2.5. Hepatoesplenomegalia:** su presencia en el período neonatal es rara pero puede verse en la gangliosidosis GM1, en la enfermedad de Gaucher y en las enfermedades de Niemann-Pick y de Wolman, en la cual un hallazgo característico es la calcificación de las
+@p 365
+glándulas suprarrenales.
+
+**2.6. Trastornos diarreicos congénitos:** pueden ser causados por deficiencias de disacaridasas (deficiencia congénita de sacarasa-isomaltasa, de lactasa, maltasa-glucoamilasa y/o peptidasa), por mutaciones en el gen *SLC26A3* asocido a la clorodiarrea congénita o diarrea congénita de cloruros y por trastornos de glicosilación tipo Ib y Ih.
+
+## 3 Afectación cardíaca
+
+La cardiomiopatía, particularmente si es hipertrófica, y/o la presencia de trastornos del ritmo pueden ser el debut de un déficit del metabolismo energético, sobre todo de defectos de la ß-oxidación mitocondrial, pero también de los defectos de cadena respiratoria con acidosis láctica grave y de la enfermedad de Pompe. Los trastornos de glicosilación a veces pueden presentarse en la infancia con insuficiencia cardíaca por derrame pericárdico, taponamiento cardíaco y miocardiopatía.
+
+## 4 Manifestaciones prenatales
+
+Raramente los ECM se presentan como malformaciones aisladas o múltiples. Destacan en esta categoría: los defectos de la biosíntesis de colesterol, como el S. Smith-Lemli-Opitz y los trastornos de la biogénesis del peroxisoma como la condrodisplasia rizomélica puntacta que puede asociar malformaciones faciales y acortamiento rizomélico de miembros, además de alteraciones respiratorias, oculares, esqueléticas, otológicas y del desarrollo físico y mental, y el síndrome de Zellweger caracterizado por marcada hipotonía, convulsiones neonatales, dificultad para alimentarse, retraso del desarrollo psicomotor y frecuentemente malformaciones cráneo-faciales, trastornos hepáticos y quistes renales. También el Hydrops fetalis (Tabla 2).
+
+| {2} **Tabla 2. ECM que pueden causar hydrops fetalis no inmune** |
+|---|---|
+| Enfermedades lisosomales | Mucopolisacaridosis tipo IV y VII // Enfermedad de Gaucher tipo II // Gangliosidosis GM1 // Enfermedad de Niemann-Pick tipo C // Enfermedad de Farber // Sialidosis // Galactosialidosis // Mucolipidosis II |
+| {2} Hemocromatosis neonatal |
+| {2} Alteraciones de la cadena respiratoria mitocondrial |
+| {2} Síndromes de Glicoproteínas deficientes en carbohidratos |
+| {2} Glucogenosis tipo IV |
+
+@p 366
+## 5 ¿Cómo diagnosticar un ECM en el período neonatal?
+
+**1. Antecedentes familiares y obstétricos:**
+- Investigar la historia familiar: consaguinidad, muertes inexplicadas en otros miembros de la familia, sobre todo en hermanos.
+- Investigar la historia obstétrica: las madres con un feto afectado por un defecto de la ß-oxidación de los ácidos grasos tienen riesgo de hígado graso agudo y síndrome de HELLP. Existen alteraciones ecográficas prenatales que pueden resultar orientativas.
+
+**2. Cribado neonatal**
+La espectrometría de masas en tándem permite la detección de la mayor parte de las aminoacidopatías, acidurias orgánicas y defectos de ß-oxidación de ácidos grasos.
+
+**3. Síndrome Clínico-Bioquímico.**
+La sospecha clínica de un ECM en un RN exige la realización de unos estudios básicos de laboratorio: hemograma, gasometría y anión gap, glucosa, urea, ácido úrico, transaminasas, CPK electrolitos, amonio, lactato y pruebas de coagulación básica (tiempo de protrombina, TTPA). La cetonuria si se observa en un recién nacido siempre es anormal y un signo importante de enfermedad metabólica.
+
+Para obtener el máximo rendimiento, la recogida de muestras debe realizarse de forma urgente, es decir, inmediatamente a la aparición del cuadro clínico o en el episodio agudo de descompensación y deben completarse con muestra de sangre (en papel y líquida) y orina para determinación de acilcarnitinas, aminoácidos plasmáticos y ácidos orgánicos en orina, pudiendo asociarse en función de la clínica muestra de LCR.
+
+En función de la clínica y de las alteraciones bioquímicas se puede delimitar un Síndrome Clínico-Bioquímico:
+- **Síndrome neurológico + hiperamoniemia.** El amonio es normal en el recién nacido hasta 110µmol/L. Orientación diagnóstica ante hiperamoniemia neonatal:
+  - Hiperamoniemia sin acidosis y con urea baja orienta a un defecto del ciclo de la urea
+  - Hiperamoniemia acompañada de acidosis metabólica: sospecha de aciduria orgánica o enfermedad mitocondrial.
+
+En ausencia de cetosis habrá que considerar los trastornos de la ß-oxidación mitocondrial.
+
+En la hiperamoniemia neonatal transitoria la relación glutamina/amonio es<1,6.
+
+- **Síndrome neurológico + acidosis metabólica.** Se debe calcular la brecha aniónica o anión gap (Na - (Cl +CO3H)):
+  - Si es normal (12-16mEq/L): es sugestivo de pérdida de bicarbonato y hay que considerar acidosis tubular renal o pérdidas gastrointestinales
+  - Si es elevado (>16mEq/L): sospecha de enfermedad metabólica (Figura 1).
+@p 367
+@img seneo-3-37-fig1.png
+*Figura 1. Actitud ante acidosis metabólica*
+! En el PDF la Figura 1 lleva este título, pero su contenido es el mismo algoritmo de hipoglucemia que la Figura 1 del capítulo 3.35.
+
+- **Síndrome neurológico + acidosis láctica:** El valor normal de lactato en el RN en sangre venosa es <2,1mmol/L (<19mg/dL) y en LCR <1,8mmol/L (<16mg/dL). El lactato en LCR es un marcador importante de ECM incluso con un lactato normal en sangre. Hay aumento moderado de lactato en acidurias orgánicas y más marcado en alteraciones del metabolismo del piruvato o de la cadena respiratoria.
+- **Afectación neurológica sin hiperamoniemia ni acidosis metabólica.**
+  - Si asocia rasgos dismórficos: considerar trastornos peroxisomales, de glicosilación de proteínas, defectos de la biosíntesis del colesterol e hiperglicinemia no cetósica.
+  - Si hipouricemia y test de sulfitos (+): alerta a deficit de sulfitooxidasa/cofactor del molibdeno.
+- Hipoglucemia neonatal persistente:
+  - Si hipoglucemia hipocetósica considerar: hiperinsulinismo (sobretodo si persiste a pesar de aporte de glucosa > 10-15 mg/kg/minuto de glucosa) y defectos de ß-oxidación de ácidos grasos (generalmente asocian hiperlactacidemia).
+  - Si hipoglucemia cetósica: considerar trastornos de la cadena respiratoria, glucogenosis tipo I, III, VI, IX, deficiencia de glucógeno sintetasa y trastornos de la gluconeogénesis.
+
+## 6 Tratamiento
+
+En la práctica clínica, el tratamiento de un RN con sospecha de ECM supone frecuentemente una urgencia vital siendo necesario la toma de muestras y el inicio del tratamiento casi simultáneos. El éxito del tratamiento va a depender en gran parte de su
+@p 368
+precocidad:
+
+**1. Tratamiento de estabilización inicial**
+- Asegurar adecuada oxigenación y ventilación con ambiente térmico neutro y soporte hemodinámico.
+- Corrección de la deshidratación: Se debe realizar rehidratación eficaz para reestablecer el equilibrio hidroelectrolítico, mantener una diuresis >1mL/kg/h y la natremia entre 140 y 145meq/L. Hay que administrar líquidos pero con precaución para evitar el edema cerebral.
+- Corrección de la acidosis metabólica: debe corregirse parcialmente cuando la acidosis metabólica es intensa (pH < 7,10-7,15 o HCO~3~ <10mEq/L) mediante infusión de bicarbonato siendo preferible el aporte continuo que los bolos, necesarios a veces en acidosis graves.
+- Control infeccioso: Tratar precozmente posibles infecciones que puedan coexistir a fin de evitar situaciones de catabolismo persistente que empeoren la situación metabólica.
+
+**2. Evitar el catabolismo y desintoxicación**
+- Suspender el metabolito tóxico o su fuente principal, suspendiendo el aporte proteico y también lipídico en caso de sospecha de trastorno de la ß-oxidación.
+- Asegurar un aporte calórico alto: un 25 % superior a las necesidades para su edad en forma de suero glucosado con iones, con aporte de hidratos de carbono de 10mg/kg/min en neonatos (únicamente glucosa al 5% en las acidosis lácticas congénitas). La hiperglucemia puede ser muy peligrosa porque la hiperosmolaridad contribuye al edema cerebral. En caso de hiperglucemia es preferible mantener el aporte de hidratos de carbono e iniciar insulina (administrar insulina si glucosa >10 mmol/L (180 mg/dl) a dosis inicial de 0,05U/kg/hora). Pueden asociarse lípidos para prevenir catabolismo (1-3 g/kg/día) si no se sospecha un trastorno de la ß oxidación. El aporte proteico se reiniciará tras 2-3 días de restricción completa proteica.
+
+**3. Tratamiento farmacológico del síndrome bioquímico**
+
+Administración de sustancias desintoxicantes. Quelantes del amonio si amonio >150µmol/L:
+- Benzoato sódico: dosis de carga de 250 mg/kg iv, a pasar en 90 minutos, seguido por perfusión de 250-500 mg/kg/día.
+- Benzoato+fenilacetato sódico iv: dosis de carga de 250 mg/kg a pasar en 90-120 minutos. Se continúa con 250-500 mg/kg/día (vía central).
+- Ácido carglúmico: 100 mg/kg en dosis inicial y después 10-100mg/kg/día cada 6 horas, vía enteral. Es específico para el déficit de NAGS y también es útil en hiperamoniemias por acidemias orgánicas, y probablemente en defectos de la ß-oxidación mitocondrial.
+
+*Asociar al tratamiento:*
+
+- L-arginina (clorhidrato de arginina iv): indispensable para el correcto funcionamiento del ciclo de la urea: 200 mg/kg de dosis de carga iv, con pauta de mantenimiento de hasta 500 mg/kg/día (iv, vo). En pacientes en diálisis, se recomienda aumentar
+@p 369
+la dosis de benzoato de sodio / fenilbutirato de sodio y clorhidrato de arginina aproximadamente 1/3.
+
+- Carnitina como detoxificador en las acidemias orgánicas (100-200 mg/kg/día iv en la fase aguda). No se debe emplear carnitina si se sospecha un trastorno de la ß-oxidación y en los defectos del ciclo de la urea puede tener efectos adversos.
+- Cofactores vitamínicos: se debe considerar la suplementación a dosis farmacológicas de sustratos-vitaminas como tratamiento inicial ante toda sospecha de ECM sin identificar (Tabla 3).
+
+| {2} **Tabla 3. Coctel vitamínico ante sospecha de enfermedad metabólica hereditaria** |
+|---|---|
+| {2} **Cóctel vitamínico** |
+| Tiamina (B1) | 100-300mg/día |
+| Biotina | 10-20mg/día |
+| Vitamina B12 | 1-2mg/día (im) |
+| Rivoflavina (B2) | 100mg/día |
+| Piridoxina (B6) | 50-500mg/día |
+
+- Glicina: en la acidemia isovalérica en descompensación glicina a 600 mg/kg/día v.o. Pauta de mantenimiento posterior: 150mg/kg/día en 3 dosis.
+- En acidosis lácticas neonatales puede indicarse un ensayo con tiamina-100 mg/día, biotina-10mg/día, riboflavina-50mg/día, dicloroacetato sódico a 30–50 mg/kg en perfusión continua en 4 horas.
+
+**4. Depuración extrarrenal del tóxico**
+Si con el tratamiento inicial no mejora, puede ser precisa la remoción de sustancias tóxicas con diálisis. Si amonio ≥400µM se debe iniciar diálisis ya de entrada o si persiste ≥350µM a las 4 h. de administración de quelantes. Hemodiafiltración venovenosa es la técnica más indicada.
+@caja
+**SE RECOMIENDA**
+- Es importante considerar un ECM en el diagnóstico diferencial de una sepsis neonatal que no responde al tratamiento.
+- Ante la sospecha de un ECM con sintomatología clínica hay que diagnosticar y tratar a la vez.
+- Considerar la suplementación a dosis farmacológicas de sustratos-vitaminas como tratamiento inicial ante toda sospecha de ECM sin identificar.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se debe emplear carnitina si se sospecha un trastorno de la ß-oxidación, por la cardiotoxicidad.
+@p 370
+@fin
+@bib
+1. Couce ML, Fraga JM. Errores Congénitos del Metabolismo. En: Moro M, Vento M (eds). De Guardia en Neonatología 3ª Ed. Madrid: Ed. Med Panamericana; 2016. p.198-203.
+2. Leonard JV, Morris AA. Diagnosis and early management of Inborn Errors of Metabolism presenting around the time of birth. Acta Paediatr 2006; 95: 6-14.
+3. Saudubray JM, Garcia-Cazorla A. Inborn Errors of Metabolism overview pathophysiology, manifestations, evaluation, and management. Clin North Am 2018; 65: 179-208.
+4. Brimble E, Ruzhnikov MRZ. Metabolic Disorders Presenting with Seizures in the Neonatal Period. Semin Neurol 2020; 40:219-235.

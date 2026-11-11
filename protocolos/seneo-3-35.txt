@@ -1,0 +1,116 @@
+@f 14. Protocolos SENEO/3.35. Hipoglucemia neonatal transitoria y persistente
+@p 350
+# 3.35 HIPOGLUCEMIA NEONATAL TRANSITORIA Y PERSISTENTE
+
+*Zenaida Galve Pradel, Itziar Serrano Viñuales, Raquel Subirón Ortego*
+
+*Hospital Miguel Servet, Zaragoza*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 336-341 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+Durante la transición normal a la vida extrauterina la concentración de glucosa en sangre del recién nacido a término sano con crecimiento intrauterino adecuado desciende, alcanzando su nadir en las primeras dos horas tras el parto. La recuperación de la glucemia no sólo depende de la ingesta, sino también de los mecanismos contrarreguladores, que se ponen en marcha tanto por el proceso del parto como por la caída de los niveles glucemia (nadir). El aumento de catecolaminas estimula la liberación de GH y glucagón. Adrenalina y glucagón activan la glucogenolisis hepática y la GH y cortisol promueven la gluconeogénesis. La insulina desciende, aunque sin suprimirse por completo, permitiendo la estimulación de la gluconeogénesis y la glucogenolisis. Los depósitos hepáticos de glucógeno disminuyen durante las primeras 12h de vida, por lo que el mantenimiento de la normoglucemia dependerá del aporte exógeno de nutrientes y/o de la gluconeogénesis endógena (desde el lactato, glicerol y aminoácidos) que se inicia a las 2-3h y aumenta progresivamente hasta alcanzar su máximo a las 12h de vida. Es importante diferenciar esta respuesta transicional fisiológica normal de los trastornos que provocan hipoglucemia persistente o recurrente que, si no se trata, puede provocar secuelas neurológicas y del desarrollo importantes.
+
+## 2 Definición de Hipoglucemia Neonatal
+
+La más aceptada por consenso es la determinación de glucemia en sangre <47mg/dl (2,6mmol/l), cifra que por sí misma no debe considerarse un umbral operativo para establecer una intervención. La estrategia será distinta en función de la presencia de síntomas, la tendencia a lo largo del tiempo y la respuesta a la ingesta. Independientemente del umbral operativo para iniciar tratamiento destacar la importancia de detectar hipoglucemia <45mg/dl pasadas las 48-72h de vida, de ahí estas definiciones temporales:
+- La hipoglucemia transitoria es la que se autolimita a las primeras 72h de vida y que se resuelve como un proceso fisiológico de adaptación postnatal, causado por reserva energética limitada, consumo periférico excesivo o por inmadurez del sistema hormonal.
+- La hipoglucemia persistente es aquella que se mantiene más allá de las 72
+@p 351
+horas tras el nacimiento o la necesidad de una infusión intravenosa de glucosa persistente (>72h de vida) o elevada (≥12 mg/kg/min) para mantener glucemias > 50 mg/dl. Alerta de un trastorno subyacente (transitorio/permanente), siendo el hiperinsulinismo el más frecuente, seguido de otras alteraciones endocrinas y errores congénitos del metabolismo.
+
+## 3 Sintomatología y exploración física
+
+Los síntomas son inespecíficos y similares a los que se presentan en otras patologías de este periodo por lo que siempre habrá que descartar otra causa diferente o asociada a la hipoglucemia. Uno de los datos que apoyarían a la hipoglucemia como factor causal de los síntomas sería la desaparición de los mismos con la normalización de la glucemia.
+
+El control clínico de recién nacidos con factores asociados con riesgo de hipoglucemias es crucial puesto que la presencia de síntomas (moderados o graves) va a condicionar el manejo más agresivo de estos pacientes. Así consideraremos hipoglucemia sintomática a la que curse con: irritabilidad, tremulación excesiva, hipotonía patológica, cambios en el nivel de conciencia, apnea/bradicardia, cianosis, taquipnea, dificultades en la alimentación en niño con buena ingesta previa, hipotermia o convulsiones.
+
+La exploración física se centrará en la búsqueda de signos sugestivos de afección de base (defectos línea media facial, hepatomegalia, exploración área genital).
+
+## 4 Diagnóstico
+
+**Neonatos candidatos a cribado de hipoglucemia.** Se realizará exclusivamente control de glucemias a neonatos pertenecientes a grupos de riesgo o ante la aparición de síntomas sugestivos de hipoglucemia (Tabla 1).
+
+| {2} **Tabla1. Población de neonatos que requieren monitorización de glucemias** |
+|---|---|
+| **Factores maternos/ gestacionales** | **Factores neonatales** |
+| Preeclampsia, eclampsia, hipertensión arterial materna // Diabetes gestacional o pregestacional // Abuso de sustancias-consumo tóxicos // Medicamentos maternos: tocolíticos betaagonistas, propranolol, hipoglucemiantes orales // Síndromes genéticos conocidos prenatalmente: Beckwith-Wiedemann, malformaciones línea media, microcefalia. | Prematuridad <37 semanas // Recién nacido pequeño para la edad gestacional (peso <p10) // Restricción del crecimiento intrauterino // Recién nacido grande para la edad gestacional (peso >p90) // Bajo peso <2500gr // Gemelo discordante (peso 10% menor que gemelo grande) // Enfermedad hemolítica neonatal // Policitemia // Sospecha de errores congénitos del metabolismo y otras alteraciones endocrinas: defectos enzimáticos, trastorno hipotalámico, insuficiencia suprarrenal, hipopituitarismo. // Otras situaciones de estrés: hipoxia-isquemia, acidosis, hipotermia, convulsiones, hemorragia, sepsis, meningitis, aspiración meconial, distrés respiratorio. // Neonato con síntomas sugestivos de hipoglucemia (letargia, inadecuada succión, convulsiones...), sin factores de riesgo. |
+
+@p 352
+**Controles a realizar**
+
+*Control inicial:* Realizar la primera glucemia a partir de las 2h de vida. Para ello los neonatos con factores de riesgo de hipoglucemia recibirán la primera toma dentro de la primera hora de vida, con control postprandial dentro de los 30 minutos posteriores, o dentro de los 90 a 120 minutos de edad si la primera toma se retrasa.
+
+*Periodicidad y duración.* La tendencia más reciente aboga por la estandarización de la monitorización durante al menos las primeras 24h de vida, realizándose glucemias pretoma cada 2-3h. Si dos controles superan 50 mg/dl se espaciarán cada 6h (o a tomas alternas), si no, se continuará cada 3h, y con hallazgo < 45 mg/dl, prolongar control hasta las 48h de vida.
+
+**Métodos para monitorización.** Se acepta el análisis de sangre capilar mediante glucómetro por su rapidez, recomendándose la confirmación de glucosa plasmática con método de laboratorio antes de iniciar tratamiento y sin retrasar este.
+
+**Estudios complementarios para investigar etiología** (Figura 1).
+
+Indicaciones:
+- Hipoglucemia persistente (pasadas las 72h de vida).
+- Hipoglucemia que precise de manera prolongada perfusión IV de glucosa y/o altos requerimientos (≥12mg/kg/min), antes de iniciar otros tratamientos farmacológicos.
+- Hipoglucemia con síntomas graves (crisis convulsivas, letargia, apnea...) en un niño sin factores de riesgo o sin otra patología que justifique la clínica.
+- Hallazgos físicos sugestivos de síndromes congénitos (micropene, defecto línea media...) o historia familiar de hipoglucemia de origen genético, antecedentes de muerte neonatal inexplicada, retraso psicomotor).
+
+@img seneo-3-35-fig1.png
+*Figura 1. Evaluación diagnóstica etiológica inicial de la hipoglucemia neonatal persistente. \* Se realizarán con **glucemia de laboratorio < 50 mg/dl (<40 mg/dl con glucómetro).** Añadir determinación de Insulina, Cortisol, ACTH, GH para completar estudio. Es necesario diferir la evaluación pasadas las 72h de vida, incluso 7 días porque las características bioquímicas de la hipoglucemia transicional fisiológica normal (hiperinsulinismo leve) pueden ser difíciles de distinguir de un proceso patológico.*
+
+@p 353
+## 5 Estrategia terapéutica de manejo de la hipoglucemia neonatal (RN ≥ 35 semanas) (Tabla 2)
+
+**Tabla 2. Manejo de la hipoglucemia neonatal**
+@img seneo-3-35-tabla2.png
+! La Tabla 2 se muestra como imagen recortada del PDF por la complejidad de sus celdas combinadas.
+
+*LM: lactancia materna, FI: fórmula de inicio, IV: intravenosa, VO: vía oral. ^1^Clínica leve: irritabilidad, tremulación leve. ^2^Ante aparición de clínica durante la monitorización, cambio a algoritmo de hipoglucemia sintomática. ^3^Extraer muestra para glucosa plasmática de laboratorio previamente a la administración de glucosa IV. Hasta disponer de vía IV considerar dextrosa gel oral y valorar glucagón SC o IM (no en PEG ni prematuros). ^4^Considerar administración de glucosa IV si persiste <40-45 tras tres tomas de leche o 5 dextrosas gel oral.*
+
+**Objetivo glucémico de la intervención:** glucemias ≥ 50 mg/dl en primeras 48h de vida y >60 mg/dl más allá de las 48 horas, con un límite superior de 90 a 100 mg/dl. Si se sospecha enfermedad metabólica o genética se recomienda mantener glucemias por encima de 70 mg/dl.
+
+**Gel de dextrosa oral al 40%:** (dosis 0,5ml/kg). Su aplicación en boca seguido de alimentación oral con leche (preferiblemente materna) se recomienda como **tratamiento de la hipoglucemia documentada (asintomática o levemente sintomática)** en neonatos
+@p 354
+de riesgo en las primeras 48 horas de vida. Es una intervención eficaz, es segura, fácil de administrar y rentable puesto que **reduce la necesidad de ingreso para tratamiento IV.**
+
+### Otras opciones terapéuticas
+
+Se recomienda considerar otras opciones terapéuticas cuando las necesidades de aporte IV de glucosa superen el máximo de 12mg/kg/minuto. Antes de su uso extraer muestras de sangre para estudio analítico/hormonal.
+
+| | |
+|---|---|
+| **Hidrocortisona** | Estimula gluconeogénesis y reduce la utilización de glucosa periférica. |
+| | 2-6 mg/kg/día dividida en dos o tres dosis por vía oral o IV. |
+| | Sólo en ciclo corto durante 24-48h, salvo diagnóstico de insuficiencia suprarrenal |
+| **Diazóxido** | Inhibe la secreción de insulina de manera reversible. Tratamiento de elección en hipoglucemia hiperinsulinémica neonatal. |
+| | Dosis inicial: 5 a 15 mg/kg/día // • 5 a 10 mg/kg/día: casos sospechosos de hiperinsulinismo no genético (hijos de madres con diabetes o por estrés perinatal) // • 15mg/kg/día: formas genéticas sospechosas de hiperinsulinismo |
+| | Puede ser necesaria la terapia con diuréticos para contrarrestar la retención hídrica. |
+| **Glucagón** | Activación hepática de la glucogenolisis y gluconeogénesis, sólo útil con depósitos adecuados de glucógeno (no recomendado en PEG/ CIR ni prematuros). |
+| | Dosis inicial 20 a 30 µg/kg IM, SC o IV lenta durante un minuto. Inicio efecto a los 15-30 minutos con duración aproximada de dos horas. Si la glucemia no aumenta a los 20 min repetir dosis (amplio rango de 20 a 200 µg/kg). // Dosis máxima de 1 mg para hipoglucemia aguda grave/refractaria o infusión IV continua de glucagón:10-20 µg/kg/hora. |
+| | La falta de respuesta debe despertar la sospecha de un trastorno metabólico subyacente (trastorno por almacenamiento de glucógeno, defecto en la síntesis de glucógeno o un trastorno de oxidación de ácidos grasos). |
+
+## 6 Requisitos para el alta
+
+En general será necesario haber mantenido glucemias estables preprandiales (>50 mg/dl con <48h de vida y >60 mg/dl con >48h de vida) tras 2-3 ciclos de ayuno-ingesta. Si ha sido necesario el aporte de glucosa IV se recomienda que pasadas las 48h de vida el recién nacido sea capaz de mantener glucemias preprandiales >70 mg/dl durante 9-12h sólo con ingesta oral.
+
+@caja
+**SE RECOMIENDA**
+- El abordaje de la hipoglucemia neonatal será diferente según sea sintomática o asintomática.
+@p 355
+- La hipoglucemia en pacientes con síntomas graves se debe corregir agresivamente, mediante la administración de glucosa IV.
+- La alimentación oral con leche (preferiblemente materna) en la primera hora de vida es la intervención preventiva inicial en neonatos con factores de riesgo de hipoglucemia.
+- La administración de gel de dextrosa oral, seguido de alimentación con leche (preferiblemente materna) se recomienda como tratamiento de la hipoglucemia documentada (asintomática o levemente sintomática) en neonatos de riesgo en primeras 48h de vida.
+- Ante necesidades de infusión de glucosa IV ≥12mg/kg/minuto se deben considerar otras intervenciones diagnósticas y terapéuticas.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No se debe realizar la determinación sistemática de glucemias en RN asintomáticos sin factores de riesgo de hipoglucemia.
+- Hay que evitar la administración de concentraciones de glucosa IV superiores al 12,5% por vía periférica. Será necesaria vía central.
+- No administrar gel oral de dextrosa de manera profiláctica en pacientes con factores de riesgo en ausencia de hipoglucemia documentada.
+- No administrar bolo IV de glucosa en RN asintomáticos/síntomas leves cuando se considere necesidad de tratamiento IV, en estos casos la infusión de glucosa IV se iniciará como una infusión continua.
+@fin
+@bib
+1. Adamkin DH; Committee on Fetus and Newborn. Postnatal glucose homeostasis in late-preterm and term infants. Pediatrics 2011; 127:575-579.
+2. Gupta K, Amboiram P, Balakrishnan U, et al. Dextrose Gel for Neonates at Risk With Asymptomatic Hypoglycemia: A Randomized Clinical Trial. Pediatrics. 2022;149: e2021050733.
+3. Narvey MR, Marks SD. The screening and management of newborns at risk for low blood glucosa. Paediatr Child Health. 2019; 24: 536-544
+4. Van Kempen AAMW, Eskes PF, Nuytemans DHGM, et al; HypoEXIT Study Group. Lower versus Traditional Treatment Threshold for Neonatal Hypoglycemia. N Engl J Med 2020; 382:534-544.
+5. Wackernagel D, Gustafsson A, Edstedt Bonamy, et al. Swedish national guideline for prevention and treatment of neonatal hypoglycaemia in newborn infants with gestational age ≥35 weeks. Acta Paediatr 2020; 109:31-44.
+6. Wight NE; Academy of Breastfeeding Medicine. ABM Clinical Protocol #1: Guidelines for Glucose Monitoring and Treatment of Hypoglycemia in Term and Late Preterm Neonates. Breastfeed Med. 2021; 16:353-365.
