@@ -1,0 +1,126 @@
+@f 14. Protocolos SENEO/3.52. Trastornos cutáneos neonatales
+@p 456
+# 3.52 TRASTORNOS CUTÁNEOS NEONATALES
+
+*Javier Pacheco Sánchez Lafuente*
+
+*Hospital Universitario Virgen de las Nieves, Granada*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 442-447 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Lesiones cutáneas benignas transitorias
+
+Las más frecuentes con diferencia, tienen, en general, una evolución limitada a las primeras semanas o meses de vida. Muchas de ellas van ligadas a las características propias de la piel del RN. En la mayoría de los casos estas lesiones no requieren tratamiento.
+
+A su vez podemos clasificarlas en:
+
+### 1.1. Dermatosis benignas transitorias
+! En el PDF cada lesión lleva una cuarta columna «IMAGEN» con una fotografía clínica; las fotografías no se reproducen aquí (pueden verse en la página del PDF).
+
+| {3} **1.1.1. Eritema tóxico** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Pequeñas pápulas de 1 a 3 mm de diámetro, que evolucionan a una pústula con un halo prominente eritematoso. // Predominantemente las vamos a encontrar en tronco y cara y menos frecuentemente en extremidades. // Afecta aproximadamente a la mitad de los recién nacidos a término, siendo más rara en el prematuro. | Entre el primer y tercer día de vida. // Desaparecen de forma espontánea entre el 5º y 10º día | No requiere |
+
+| {3} **1.1.2. Melanosis pustulosa neonatal benigna** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Pequeñas pústulas superficiales que se rompen fácilmente, dejando un halo de escama fina y máculas hiperpigmentadas. // Pueden aparecer en cualquier parte del cuerpo aunque predominan en tórax y nuca. | Lesiones pustulosas no duran más allá de 48 horas. // La mácula hiperpigmentada suele perdurar semanas e incluso varios meses. | Autolimitada. No requiere |
+
+@p 457
+| {3} **1.1.3. Miliaria** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Dermatitis vesiculosa secundaria a la retención de la secreción glandular ecrina, muy relacionada con el calor y el abrigo excesivo. // La entidad más frecuente es la *miliaria cristalina (sudamina)* | Aparición en los primeros días de vida con duración variable. | Autolimitada. No requiere |
+
+| {3} **1.1.4. Milia o Millium** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Pápulas faciales blanquecinas/amarillentas de 1 a 2 mm de diámetro. // Se localizan en mejillas, frente y mentón. // Cuando afectan a la mucosa oral reciben el nombre de perlas de Ebstein | Apreciables desde el nacimiento. // Duración variable. | Autolimitada. No requiere |
+
+| {3} **1.1.5. Acné neonatal** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Pápulas inflamatorias, pústulas y comedones que casi siempre se limitan a la cara. Los quistes y cicatrices son excepcionales en el recién nacido. | Aparición en los primeros días de vida Las lesiones desaparecen en el plazo de unas semanas. | Autolimitada. No requiere |
+
+### 1.2. Alteración de la coloración de la piel
+
+| {3} **1.2.1. Cutis marmorata** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Coloración cutánea semejante al veteado marmóreo, con líneas irregulares más oscuras entre espacios más pálidos, debido a anormalidades del flujo cutáneo por la inmadurez vascular. | Aparece en las primeras horas de vida con duración muy variable. Más frecuente en los RN pretérmino. | Autolimitada. No requiere |
+
+@p 458
+| {3} **1.2.2. Cianosis periférica o acrocianosis** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Coloración azulada en las partes acras (fundamentalmente manos y pies) que desaparece tornándose sonrosada con el adecuado abrigo. | Aparece en las primeras horas de vida. // Desaparece generalmente en las primeras 24 horas. | Autolimitada. No requiere |
+
+| {3} **1.2.3. Ictericia neonatal** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Pigmentación amarilla de la piel y las mucosas por el depósito de bilirrubina. | En su forma denominada "fisiológica" suele aparecer a partir del segundo día y su duración es variable. // Su aparición muy precoz suele estar relacionada con fenómenos de hemólisis. | Suele ser autolimitada. En ocasiones requiere fototerapia. |
+
+| {3} **1.2.4. Mancha mongólica, azul o de Baltz** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Mácula pigmentaria, de color azulado o grisácea debido al acúmulo de melanocitos en la capa profunda de la dermis, de bordes irregulares, localizada habitualmente en la región lumbosacra y glútea. | Desde el nacimiento. Suele atenuarse con el crecimiento desapareciendo con el engrosamiento de la piel en los primeros años de vida. | Autolimitada. No requiere |
+
+@p 459
+| {3} **1.2.5. Nevus melanocíticos congénitos** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Lesiones pigmentadas maculares generalmente sobreelevadas con diferentes tonos de color pardo a negro, debidas a la acumulación de melanocitos. // Se clasifican según su tamaño en pequeños, de tamaño intermedio y extensos o gigantes. | Se aprecian desde el nacimiento o en los primeros meses de vida. | Habitualmente no requieren. Los nevus gigantes requieren vigilancia estrecha por sus posibles complicaciones. |
+
+## 2 Lesiones o anomalías vasculares
+
+Es uno de los grupos de lesiones cutáneas más frecuentes en el RN y lactante pero, a día de hoy, aún constituye un reto su correcto diagnóstico y clasificación así como la utilización de la terminología adecuada. Para ello, es imprescindible conocer la clasificación de la *International Society for Study of Vascular Anomalies* (ISSVA), actualizada en mayo de 2018 (Tabla 1).
+
+| {5} **Tabla 1. Anomalías vasculares en el recién nacido** |
+|---|---|---|---|---|
+| {5} ANOMALÍAS VASCULARES |
+| **Tumores vasculares** | {4} **Malformaciones vasculares** |
+| | **Simples** | **Combinados** | **De vasos Mayores** | **Asociados a otras anomalías** |
+| Benignos // Borderline o localmente agresivos // Malignos | Malformaciones Capilares // Malformaciones linfáticas // Malformaciones venosas // Malformaciones arteriovenosas // Fístula arteriovenosa | MVC, MLC // MVL, MVCL // MVCA // Otras | | |
+| {5} *MVC: malformaciones vasculares capilares; MLC: malformaciones linfáticas capilares; MVL: malformaciones vasculares linfáticas; MVCL: malformaciones vasculares combinadas linfáticas; MVCA: malformaciones vasculares arteriales* |
+
+@p 460
+### 2.1. Tumores Vasculares: Hemangiomas cutáneos
+
+| {3} **2.1. Tumores Vasculares: Hemangiomas cutáneos** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Se localizan sobre todo en la cabeza y el cuello y empiezan como una mácula rosada que aumenta de tamaño hasta convertirse en una pápula roja de superficie lisa o mamelonada. // Los de localización más profunda suelen tener una coloración más azulada con una epidermis superficial normal. | Presentan una fase proliferativa inicial que suele durar entre 3 y nueve meses tras lo que le sigue una fase de regresión lenta con la resolución de aproximadamente un 10% de los casos por año. // Los hemangiomas congénitos, presentes ya al nacimiento pueden comportarse como lesiones no involutivas. | La mayoría de las veces son autorresolutivos. Tratamiento de elección: Propanolol oral (2-3 mg/kg/día). En hemangiomas pequeños y superficiales se puede utilizar timolol tópico. El uso de corticoides está en desuso y no son de primera elección. |
+
+### 2.2. Malformaciones Vasculares
+
+Debido a su alta incidencia, sólo trataremos las malformaciones capilares, siendo las malformaciones venosas, arteriovenosas y las linfáticas mucho menos frecuentes.
+
+***2.2.1. Malformaciones capilares***
+
+| {3} **2.2.1.1. Mancha Salmón** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Mácula de color rosado que se suele localizar en la zona occipital ("picotazo de cigüeña"), glabelar (beso del ángel), frente, nariz, entrecejo, párpados o labio superior. // Muy frecuentes en el ser humano, aparecen hasta en el 50% de los RN. | Suelen ser lesiones únicas que desaparecen a lo largo de los dos primeros años de vida aunque algunas pueden persistir durante toda la vida | No suelen necesitar tratamiento |
+
+@p 461
+| {3} **2.2.1.2. Mancha en vino de Oporto (Nevus Flammeus)** |
+|---|---|---|
+| **CARACTERÍSTICAS** | **INICIO/ DURACIÓN** | **TRATAMIENTO** |
+| Mácula de tamaño variable, que, en el RN puede ser poco evidente y se oscurece con el paso del tiempo. // Más frecuentes en la zona facial. // Pueden formar parte de síndromes más complejos *(ej: Síndrome de Sturge Weber)* | Suelen crecer proporcionalmente con el crecimiento de la persona y perdurar toda la vida | El tratamiento con láser está frecuentemente indicado (mejor en época temprana) |
+
+@caja
+**SE RECOMIENDA**
+- Recordar que las lesiones cutáneas en el RN tienen, en general, una evolución limitada a las primeras semanas o meses de vida. Muchas de ellas van ligadas a las características propias de la piel del RN.
+- Es muy importante para el neonatólogo una correcta formación dermatológica para diagnosticar y saber diferenciar los hallazgos normales o que revisten escasa importancia de aquellos patológicos que requieren vigilancia estrecha.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No hay que sobretratar. En la mayoría de los casos las lesiones cutáneas en el RN no requieren tratamiento y es nuestro deber informar y tranquilizar a la familia.
+@fin
+@bib
+1. Ribes C, Moraga FA. Recién nacido: lesiones cutáneas benignas transitorias. En: Protocolos diagnósticos y terapéuticos. Dermatología Pediátrica. Ed. Asociación Española de Pediatría; 2007. p. 309-16. Disponible en http://www.aeped.es/documentos/ protocolos-dermatologia.
+2. Vitoria Miñana I. Trastornos cutáneos más frecuentes del recién nacido y del lactante. Dermatitis del pañal. Pediatr Integral 2012; XVI: 195-208.
+3. Del Pozo J, Gómez-Tellado M, López-Gutiérrez JC. Malformaciones Vasculares en la Infancia. Actas Dermosifiliogr. 2012; 103:661-678.
+4. ISSVA classification for vascular anomalies. Approved at the 20th ISSVA Workshop, Melbourne, April 2014. Updated classification approved at the May, 2018 General Assembly in Amsterdam, the Revisión 2020.Netherlands.
+5. Krowchuk DP, Frieden IJ, Mancini AJ et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019 ;143: e20183475.
+6. Baselga Torres, E, Bernabéu Wittel J, van Esso Arbolave DL, et al. Consenso español sobre el hemangioma infantil. An Pediatr (Barc), 2016 ;85:256-265.

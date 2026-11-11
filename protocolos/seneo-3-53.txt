@@ -1,0 +1,98 @@
+@f 14. Protocolos SENEO/3.53. Cuidados y aspectos a considerar antes y después de la cirugía neonatal. Seguridad
+@p 462
+# 3.53 CUIDADOS Y ASPECTOS A CONSIDERAR ANTES Y DESPUÉS DE LA CIRUGÍA NEONATAL. SEGURIDAD
+
+*Maria Teresa Moral Pumarega, Bárbara Muñoz Amat, Vanessa de Frutos Fernanz*
+
+*Hospital Universitario 12 de Octubre, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 448-453 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Concepto y Contexto
+
+Millones de niños cada año están expuestos a la anestesia para procedimientos quirúrgicos y diagnósticos. Estudios clínicos han evaluado los resultados del desarrollo neurológico después de la exposición a la anestesia con diferentes resultados. La variabilidad metodológica contribuye a la dificultad de interpretar estos estudios (pacientes con diferentes comorbilidades, dosis, y duración de exposición anestésica). En Diciembre 2016, la FDA lanzó una alerta sobre la seguridad de la anestesia general y las sedaciones en pacientes menores de 3 años y en mujeres embarazadas, eso suscitó cambios en el abordaje y manejo de estos pacientes y los fármacos usados. Numerosas publicaciones han surgido después, publicándose en 2017 un Documento de Consenso de la Sociedad Española de Anestesia y Reanimación (SEDAR), Sociedad Española de Cirugía Pediátrica (SECP), Sociedad Española de Cuidados Intensivos Pediátricos (SECIP) y Sociedad Española de Neonatología (SENeo). Recientemente en 2022 se publica en JAMA una revisión sistemática y metanálisis de 31 estudios, relacionados con exposición infantil a anestesia general, concluyen que si existe asociación entre la exposición a anestesia durante la infancia y déficit en el neurodesarrollo posterior. Otros déficits en diferentes grados en la función ejecutiva, razonamiento no verbal, función motora, menor extensión del lenguaje, desarrollo general y académico. En las exposiciones múltiples el riesgo se multiplicaba por dos.
+
+Aun establecida la asociación, hasta el momento todos concluyen que se necesitan más estudios para determinar los mecanismos que hay detrás de estas asociaciones y si estas diferencias en el desarrollo neurológico pueden atribuirse a la exposición infantil a fármacos anestésicos.
+
+## 2 Acciones
+
+La realidad es que el riesgo existe, que se debe tratar el dolor y el estrés relacionado con el proceso quirúrgico de forma adecuada, minimizando los riesgos relacionados y aumentando todo lo posible la seguridad. Para ello se propone como abordaje neonatal:
+1. Abordaje multiprofesional con anestesia y cirugía pediátrica
+@p 463
+2. Uso de listas de verificación (check-list) precirugía
+3. Uso de listas de verificación (check-list) postcirugía
+4. Uso de escalas de valoración del dolor post cirugía
+5. Analgésicos y sedantes más usados post cirugía
+6. Seguimiento del neurodesarrollo en recién nacidos sometidos a varios procesos quirúrgicos en periodo neonatal.
+
+### 1. Abordaje multiprofesional con Anestesia y Cirugía pediátrica
+
+Es esencial la coordinación entre las tres disciplinas de Neonatología, Anestesia y Cirugía, para decidir el momento quirúrgico. En el periodo neonatal solo se realizarán las cirugías imprescindibles y que no puedan demorarse. En la medida de lo posible se deberán minimizar los tiempos quirúrgicos y así exposición a anestésicos. Valorar de forma conjunta los tipos de vías que precise, profilaxis antibiótica, así como el lugar de la intervención, en UCI neonatal (UCIN) o quirófano.
+
+### 2. Listas de verificación (check-list) precirugía
+
+El uso de listas de comprobación mejora la calidad y atención de los pacientes, la lista de verificación durante la cirugía ya está implantada desde hace años. A mayor complejidad, más necesidad de usar listas de comprobación, que cada vez se incorporan más en las Unidades de Cuidados Intensivos Neonatales (UCIN). La lista precirugía facilitará la comprobación que todo está correcto para la cirugía. En la tabla 1 se detalla una lista, pero cada unidad la adaptará según sus características propias.
+@img seneo-3-53-t1a.png
+@p 464
+@img seneo-3-53-t1b.png
+*Tabla 1. Lista de verificación precirugía*
+! Las Tablas 1 y 2 son listas de verificación para rellenar; se muestran como imagen recortada del PDF.
+
+@p 465
+### 3. Listas de verificación (check-list) postcirugía (Tabla 2).
+@img seneo-3-53-t2.png
+*Tabla 2. Lista de verificación postcirugía*
+
+### 4. Uso de escalas de valoración del dolor post cirugía
+
+La evaluación efectiva del dolor neonatal es un requisito esencial. Por ello cada unidad neonatal debe:
+- Seleccionar herramientas de evaluación del dolor sensibles, precisas y ajustadas a los pacientes.
+- Formar al personal sanitario para garantizar que puedan detectar el dolor neonatal utilizando la herramienta de evaluación seleccionada.
+
+Habitualmente se utilizan escalas clínicas de dolor. Son herramientas que evalúan las respuestas fisiológicas y de comportamiento ante un estímulo doloroso. Cada escala se ha desarrollado y validado para unas poblaciones y entornos clínicos concretos. Algunas de las escalas más utilizadas para valorar el dolor agudo son las escalas CRIES, la escala PIPP-R y N-PASS (ver más información en el capítulo 3.4). La escala CRIES fue diseñada en 1995 para dolor post-operatorio en neonatos con más
+@p 466
+de 32 semanas de gestación (Tabla 3).
+
+| {4} **Tabla 3. Parámetros evaluados en escala CRIES** |
+|---|---|---|---|
+| **Parámetro** | **0** | **1** | **2** |
+| Llanto* | No llora, tranquilo | Lloriqueo consolable | Llanto intenso no consolable |
+| Fi O~2~ para Sat O~2~ >95% | 0,21 | ≤ 0,3 | > 0,3 |
+| FC y TA sistólica | ≤ basal | Aumento ≤ 20% basal | Aumento > 20% basal |
+| Expresión | Cara descansada, expresión neutra | Ceño y surco nasolabial fruncidos, boca abierta (mueca de dolor) | Mueca de dolor y gemido |
+| Periodos de sueño | Normales | Se despierta muy frecuentemente | Constantemente despierto |
+| **0-1 SIn dolor** | **2-4 Dolor leve** | **5-7 Dolor moderado** | **7≥ Dolor severo** |
+
+La escala de dolor agudo PIPP- R es una herramienta para evaluar el dolor agudo debido a procedimientos y el dolor postoperatorio. Se ha validado para ser usada en pretérminos (≥ 25 semanas), en neonatos y lactantes hasta los 2 meses de edad corregida. Se refleja en el capítulo 3.4.
+
+### 5. Analgésicos y sedantes más usados post cirugía
+
+Cada unidad neonatal debe tener un protocolo para el manejo del dolor. Se recomienda seguir un enfoque multimodal con las diferentes opciones preventivas y terapéuticas existentes y valorar los riesgos y beneficios del tratamiento en cada paciente. No existe consenso en cuanto al manejo más adecuado de la sedoanalgesia en neonatos, existiendo una importante variabilidad entre las unidades. Las pautas de sedoanalgesia empleadas con mayor frecuencia consisten en la combinación opioides y benzodiazepinas.
+
+La previsión de las necesidades sedoanalgésicas del escenario postquirúrgico debe ser completamente individualizada. En esa valoración, deben incluirse como determinantes los siguientes factores: la edad gestacional (EG) del paciente, su situación hemodinámica y respiratoria, el tipo de cirugía y la presencia de complicaciones. Deberemos realizar un uso juicioso de los fármacos sedoanalgésicos empleando la dosis mínima necesaria para cada paciente ajustándola (aumentando o disminuyendo la dosis) según la reevaluación sistemática del dolor (escalas de dolor, opinión de los padres). Los fármacos más empleados en el manejo del dolor agudo postquirúrgico como paracetamol, opioides, dexmetomidina se refleja su información en el capítulo 3.4.
+
+### 6. Seguimiento del neurodesarrollo en recién nacidos sometidos a varios procesos quirúrgicos en periodo neonatal.
+
+De forma habitual en los recién nacidos prematuros menores de 1500g se realiza seguimiento del neurodesarrollo, independientemente que hayan necesitado cirugías en el periodo neonatal. Pero dados los riesgos asociados a la exposición a anestésicos en el periodo neonatal, todo recién nacido que haya sido sometido a varias cirugías durante el periodo neonatal debe tener un seguimiento de su neurodesarrollo para detectar precozmente posibles alteraciones (problemas de conducta, déficit de atención,
+@p 467
+hiperactividad, déficit en la función ejecutiva y de razonamiento) y derivar a la familia para intervención lo antes posible.
+@caja
+**SE RECOMIENDA**
+- Reuniones y abordaje multidisciplinar con anestesia y cirugía antes de la planificación de la cirugía neonatal.
+- Uso de check list (lista de verificación) precirugia.
+- Uso de check lis (lista de verificación) postcirugía.
+- Uso de escalas de valoración del dolor de forma sistemática y reflejado en la historia clínica.
+- Manejo óptimo de dosis y combinación de analgésicos y sedantes post cirugía.
+- Seguimiento del neurodesarrollo en recién nacidos sometidos a varios procesos quirúrgicos en periodo neonatal, por el riesgo de transtornos del desarrollo.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Realizar cirugías en el periodo neonatal que pueden demorarse.
+- Mantener cirugías tradicionales en los casos que ya existe cirugía mínimamente invasiva bien establecidas.
+@fin
+@bib
+1. Reighard C, Junaid S, Jackson WM, et al. Anesthetic Exposure During Childhood and Neurodevelopmental Outcomes: A Systematic Review and Meta-analysis. JAMA Netw Open. 2022; 5:e2217427.
+2. Hunt RW, Hickey LM, Burnett AC, et al.; Victorian Infant Collaborative Study group. Early surgery and neurodevelopmental outcomes of children born extremely preterm. Arch Dis Child Fetal Neonatal Ed. 2018; 103(3):F227-F232.
+3. Álvarez Escudero J, Paredes Esteban RM, Cambra Lasaosa FJ, et al. Más de 3 horas y menos de 3 años: Seguridad de procedimientos anestésicos en menores de 3 años sometidos a cirugía de más de 3 horas. An Pediatr (Barc), 2017;87:236.e1-236.e6.
+4. Tzong KY, Han S, Roh A, Ing C. Epidemiology of pediatric surgical admissions in US children: data from the HCUP kids inpatient database. J Neurosurg Anesthesiol 2012; 24:391-5.
+5. Carbajal R, Eriksson M, Courtois E et al. Sedation and analgesia practices in neonatal intensive care units (EUROPAIN): results from a prospective cohort study. Lancet Respir Med. 2015; 3:796-812.
+6. Guia farmacoterapeútica neonatal. Monica Riaza Gómez. Edición Segurneo-SEN. Disponible en: http://www.segurneo.es/images/stories/GUIA_FARMACOTERAPEUTICA_SEGURNEO_2019_.pdf.
