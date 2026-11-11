@@ -1,0 +1,153 @@
+@f 14. Protocolos SENEO/5.9. Escolarización en el niño que ha sido prematuro
+@p 570
+# 5.9 ESCOLARIZACIÓN EN EL NIÑO QUE HA SIDO PREMATURO
+
+*Susana Ares Segura^1^, Mª del Rosario Mendoza Carretero^2^, Celia Díaz González^1^*
+
+*^1^Hospital Universitario La Paz, Madrid; ^2^Departamento de Estudios Educativos (DESED). Universidad Complutense de Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 556-562 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Aprendizaje y escolaridad del niño prematuro
+
+La prematuridad es una condición biológica con prevalencia en aumento a nivel mundial, cuyo origen es multifactorial (biológico, ambiental y social). Los prematuros se dividen en subcategorías en función de la edad gestacional:
+- Prematuros extremos (menos de 28 semanas),
+- Muy prematuros (28 a 32 semanas),
+- y prematuros moderados a tardíos (32 a 37 semanas).
+
+Un nacimiento prematuro se relaciona con problemas neurocognitivos y alteraciones en el desarrollo que pueden presentarse con más frecuencia en los prematuros extremos y con un peso inferior a los 1500 gramos. Desde el punto de vista del desarrollo temprano, los prematuros, en comparación con los nacidos a término, tienen alto riesgo de presentar alteraciones en el desarrollo (por ejemplo: visuales), dificultades en el aprendizaje, a nivel emocional y comportamental, así como un rendimiento más bajo en la edad escolar.
+
+La prevalencia de las necesidades educativas parece ser proporcional a la edad gestacional, por lo que los prematuros necesitan atención programada e interdisciplinaria desde el alta neonatal con el propósito de vigilar la repercusión de los daños que puedan ocurrir en el sistema nervioso central durante su crecimiento para detectar tempranamente las necesidades que puedan aparecer y dotarles de intervenciones para mejorar su desarrollo, su adaptación social y la de sus familias.
+
+## 2 ¿Qué alteraciones del desarrollo pueden aparecer?
+
+### Alteraciones del lenguaje
+
+- En la primera infancia pueden aparecer trastornos del habla y la comunicación.
+- A medida que van creciendo se observan dificultades en el lenguaje expresivo,
+@p 571
+receptivo y en la articulación con déficits en la memoria fonológica a corto plazo.
+
+- En adolescentes, el lenguaje receptivo tiene tendencia a mejorar con la edad, especialmente con una mejor situación sociodemográfica y una neurosensorial intacta.
+
+### Alteraciones del desarrollo psicomotor
+
+Se evidencian especialmente en la motricidad fina, mientras que a partir de los cinco años esta área tiene tendencia a normalizarse, pues se detectan casos menos graves de torpeza motora y de dispraxia.
+
+### Dificultades de aprendizaje
+
+- Pueden ser transitorias o permanentes y pueden estar relacionadas con la lectura, el cálculo (por ejemplo: razonamiento matemático) y la ortografía.
+- Las funciones ejecutivas (toma de decisiones, pensamiento abstracto, planificación, flexibilidad cognitiva, resolución de problemas, decidir cuál es el comportamiento adecuado en función de las circunstancias) pueden comprometer el rendimiento académico del alumnado en edad escolar, su comportamientoy su funcionamiento adaptativo.
+
+El trastorno por déficit de atención e hiperactividad (TDAH), trastornos de conducta, etc., parecen evidenciarse en edades escolares, cuando el alumnado está expuesto a exigencias académicas y sociales, lo que implica acompañar al niño y a sus familias en el desafío de aprender e insertarse en las instituciones educativas.
+
+## 3 ¿Qué necesidades educativas especiales tiene un niño que fue prematuro?
+
+Un alumno tiene necesidades educativas especiales cuando presenta dificultades mayores que el resto del alumnado para acceder a los aprendizajes que se determinan en el currículo que le corresponde por su edad y necesita, para compensar dichas dificultades, adaptaciones de acceso y/o adaptaciones curriculares significativas.
+
+Estudios recientes sugieren que los prematuros necesitan "ponerse al día" durante los primeros años en la escuela. Esto enfatiza aún más en la importancia de la escolarización temprana en estos bebés y sugiere que el apoyo en el contexto próximo puede tener beneficios adicionales. En este sentido, es necesario que la comunidad educativa conozca las dificultades que puede presentar el alumnado nacido prematuramente para atender a sus necesidades educativas. Por lo que es necesario que los Equipos de Orientación Educativa y Psicopedagógica (EOEPS) valoren a estos menores para determinar las necesidades, la propuesta de escolarización, etc., siempre en consonancia con el equipo docente y la familia.
+@p 572
+## 4 ¿Quiénes son los profesionales implicados en el seguimiento?
+
+### En la sanidad
+
+Las derivaciones y el intercambio de información se hacen de forma fluida entre el hospital, los centros de salud, el Centro de Atención Temprana y los equipos de orientación y se oueden describir así:
+- Los equipos de orientación -Equipo de Atención Temprana (EAT) y Equipo de Orientación Educativa y Psicopedagógica (EOEP) - hacen el seguimiento de las acciones educativas que necesitan los niños y las áreas escolares donde presentan dificultades.
+- El centro de atención temprana lleva a cabo los programas de estimulación.
+- Los servicios sanitarios realizan el seguimiento desde el ámbito de la salud.
+
+### Desde el sistema educativo
+
+El EOEP forma parte de la Red de Orientación junto con el EAT, los Equipos Específicos (Deficiencias visuales, auditivas, motóricas, alteraciones graves del desarrollo, altas capacidades, dificultades de aprendizaje, trastornos del lenguaje y trastorno por déficit de atención con hiperactividad), los Departamentos de Orientación de los Institutos de Educación Secundaria, los orientadores de Centros de Educación Especial y de Centros de Educación para Adultos.
+
+Se encargan de:
+- La orientación y el asesoramiento del equipo directivo y equipo docente en los centros educativos para la mejora de los procesos de enseñanza-aprendizaje.
+- Prevenir, detectar e intervenir ante dificultades de aprendizaje, proponiendo medidas de respuesta educativa, con especial atención al alumnado con necesidades educativas especiales, dificultades específicas de aprendizaje o con altas capacidades (tabla 1).
+- Contribuir al desarrollo profesional docente y colaborar en la elaboración, desarrollo y evaluación de sus proyectos; y asesorar a las familias, dotándolas de estrategias para afrontar las dificultades que puedan presentar sus hijos e hijas a lo largo de su escolarización.
+
+Los EOEPS promueven la inclusión educativa de todo el alumnado, orientando su actuación, especialmente en aquellos colectivos que pueden presentar más dificultades, para favorecer el desarrollo global e inserción social en coordinación con los servicios educativos dependientes de la comunidad correspondiente (por ejemplo: Servicio de la Unidad de Programas Educativos, Equipos Generales, de Atención Temprana, Específicos, etc.) y con otros servicios del sector (por ejemplo: Servicios Municipales, Servicios Sanitarios, etc.). También se encargan de determinar la necesidad específica de apoyo educativo del alumnado no escolarizado, mediante la evaluación psicopedagógica y la elaboración del dictamen de escolarización.
+@p 573
+| **Tabla 1. Valoración funcional actual de aspectos psicopedagógicos** |
+|---|
+| 1. Entrevista con el tutor/a de aula y con la familia. // 2. Observación del alumno en diferentes contextos (escolar, familiar, social). // 3. Cuestionario de competencia curricular y estilo de aprendizaje. Aplicación de pruebas individuales (por ejemplo: Test de aptitudes en educación infantil (AEI-R). // 4. Determinación de las necesidades educativas del alumno. // 5. Orientaciones para el contexto escolar y familiar. |
+
+### ¿Y el Equipo de Atención Temprana (EAT)?
+
+Los EAT forman parte de los EOEPS y son responsables de la orientación en los centros que integran la Red Pública de Educación Infantil y de la detección precoz en menores con diversidad funcional de entre 0 y 6 años de edad, por lo que atienden a Escuelas Infantiles, así como a menores que se encuentren en este rango de edad y no estén escolarizados.
+
+Se componen de un equipo multiprofesional (pedagogos, psicólogos, trabajadores sociales, maestros/as especialistas de Pedagogía Terapéutica [PT], y Audición y Lenguaje [AL]), que asisten una vez por semana a las escuelas infantiles, y se encargan de desarrollar actuaciones preventivas y de intervención temprana, identificando situaciones de riesgo o desventaja, para detectar tempranamente la aparición de posibles dificultades en el desarrollo de los menores y dotarles de una intervención acorde a las necesidades que puedan presentar. Desempeñan las siguientes tareas:
+- Prevención de posibles dificultades que puedan aparecer en el desarrollo de los menores.
+- Detección y evaluación de menores con necesidades educativas especiales (NEE).
+- Apoyo directo de menores con NEE en el centro educativo en el que asisten.
+- Coordinación con otros servicios del ámbito educativo y sanitario.
+- Asesoramiento en la organización y planificación del trabajo en el centro y aula.
+- Orientación a familias sobre aspectos relacionados con el desarrollo y la educación de los menores de entre 0 y 6 años de edad.
+
+Con el alumnado que presenta dificultades se hace un seguimiento, utilizándose, entre otras técnicas de recogida de datos (véase tabla 1), pruebas estandarizadas y diagnósticos médicos. En este sentido, el EAT evalúa y realiza el seguimiento a los menores prematuros en distintas edades (8, 14, 20 y 30 meses de edad), tanto si están escolarizados como si no. Algunas de las escalas que utilizan son Brunet-Lezine, Escala de Desarrollo Infantil Bayley, Ecala McCarthy de aptitudes (MSCA) y psicomoticidad para niños, Escala de Inteligencia de Wechsler para preescolar y primaria (WPPSI-IV).
+
+A nivel estatal, la legislación reconoce a los menores nacidos prematuramente como población de alto riesgo biológico y, por consiguiente, son valorados por el EAT y participan en sus programas de intervención hasta los dos años de edad, aunque estos podrían continuar beneficiándose del seguimiento más allá de esta edad, si se les escolariza en la escuela infantil como una forma potencial de fomentar la preparación escolar.
+@p 574
+## 5 ¿Cuándo y cómo debemos escolarizar a los niños que fueron prematuros?
+
+Escolarizarlos en educación infantil, etapa de carácter no obligatorio, puede aportarles grandes beneficios en su desarrollo, pues la primera infancia es un periodo especialmente sensible para los aprendizajes y sienta las bases para las etapas educativas posteriores, a la vez que se realiza un seguimiento y una detección precoz de los signos de alarma que puedan aparecer, pero ¿cuáles son sus beneficios? Algunos de ellos:
+- Incremento de las conexiones neuronales que se usarán de cimiento para el desarrollo intelectual, social y emocional a lo largo de su vida.
+- Es un periodo sensitivo pues cada una de las neuronas desempeña nuevas funciones (plasticidad cerebral), por lo que el cerebro del menor es más receptivo a las experiencias del entorno.
+- Estimulación temprana de calidad para que el menor pueda tener un desarrollo óptimo. Es fundamental contar con la familia, ayudándola a respetar el ritmo del menor, a retroalimentarle, a descubrir, asesorar, estimular sus aptitudesy equilibrar sus debilidades para evitar dificultades escolares futuras.
+- Desarrollar la curiosidad por aprender, reforzando sus capacidades intelectuales innatas.
+- Educación emocional en la primera infancia para aportarle herramientas necesarias que les permitan gestionar sus emociones.
+- Rutinas, hábitos de alimentación y sueño de los menores, evitando posibles trastornos que puedan aparecer en edades posteriores y que se originan en la infancia.
+- Potencia la socialización a través de la interacción con su grupo de iguales y con otros adultos, lo que permite fomentar el autoconocimiento y aprender a relacionarse con los demás.
+
+Debido a que las primeras experiencias relacionadas con el aprendizaje pueden influir en el desarrollo, debemos asegurarnos que la escolarización se produce, cuando los niños están madurativamente preparados para participar e interactuar en el aula de una forma exitosa, pues el cerebro prematuro que madura activamente es vulnerable a una variedad de lesiones y factores adicionales que afectan a la maduración cerebral (cada uno tiene su ritmo y debemos adaptarnos a sus particularidades), por tanto ¿cuándo?
+
+En cuanto al momento de la escolarización, no existe consenso sobre si debe hacerse siguiendo la edad cronológica (es decir, la edad respecto al momento real del parto) o la edad corregida (la edad respecto al momento en el que debería haber nacido). Sin embargo, la institución del Defensor del Pueblo, en la Resolución dictada en 2017, así como diversos estudios científicos recomiendan considerar la edad corregida del alumnado prematuro extremo para determinar el curso en el que procede su escolarización, paliando así posibles dificultades que puedan aparecer, y sugieren que la prematuridad sea considerada hasta la adolescencia para estimar con precisión el funcionamiento cognitivo.
+
+En este sentido, diversas comunidades autónomas como, por ejemplo, Comunidad
+@p 575
+de Madrid, Andalucía, Castilla y León, Ceuta y Melilla, Región de Murcia, entre otras, mediante su legislación han optado por incorporar la flexibilización en la escolarización como medida de atención a la diversidad, en la etapa de Educación Infantil, tanto en el primer ciclo, destinado a niños y niñas de O a 3 años de edad, como en el segundo ciclo, reservado a niños y niñas de entre 3 y 6 años de edad, para menores nacidos prematuros extremos y gran prematuridad.
+
+Las actuaciones que se desarrollan son dos:
+1. 1La primera de ellas se corresponde con la edad corregida del menor en base a los informes médicos correspondientes, al dictamen de escolarización de los servicios de orientación..., pues la primera vez que este acceda al sistema educativo, su escolarización se realizará teniéndola en cuenta y se incorporará a un curso inferior al que le correspondería por edad. Esta medida se deberá adoptar de forma individualizada y atendiendo a las necesidades específicas del alumnado para favorecer la igualdad de oportunidades.
+
+Para poder llevar a cabo esta medida e iniciar el procedimiento, se recomienda que la familia consulte la ORDEN ECD/1005/2018, de 7 de junio, por la que se regulan las actuaciones de intervención educativa inclusiva (Boletín Oficial de Aragón, 116, pp.19675-19676): file:///E:/634d0489e9fle.pdf
+
+2. La segunda medida de actuación está centrada en que el alumnado prematuro, cuando sea identificado con necesidades educativas especiales, permanezca un año más en esta etapa educativa, considerándose la no promoción de curso como beneficiosa para el menor en todas sus áreas. Esta medida se podrá adoptar en uno de los dos ciclos de Educación Infantil.
+
+Para escolarizar al alumnado nacido prematuramente, el EOEP correspondiente al centro educativo en el que esté escolarizado el menor o si todavía no lo está, el que se corresponda al centro en el que se va a escolarizar, realiza una evaluación psicopedagógica y emite un dictamen de escolarización, estableciendo la modalidad de escolarización del alumnado acorde con las necesidades educativas que pueda presentar, ya sea por un periodo de su escolarización o a lo largo de toda ella, por lo que este dictamen es revisable.
+
+**Las modalidades de escolarización pueden ser las siguientes:**
+- Grupo ordinario a tiempo completo: apoyo y adaptaciones necesarias dentro del aula ordinaria. Destinatarios: alumnado con NEE derivadas de discapacidad sensorial o física que requiere apoyos puntuales o continuados para el acceso al currículo y el alumnado que presente NEE asociadas a enfermedades crónicas.
+- Grupo ordinario con apoyos en periodos variables: adaptaciones significativas y/o programas específicos, dentro o fuera del aula (preferiblemente dentro). Destinarios: alumnado con NEE que precisa adaptaciones curriculares significativas; alumnado que requiera la aplicación de un programa específico.
+- Aula de educación especial en centro ordinario: adquirir el máximo desarrollo de las competencias clave establecidas, proporcionarle una atención específica personalizada y garantizar una mayor integración. Destinatarios: alumnado con NEE que presenta grave afección de los procesos de desarrollo psicomotor, cognitivo, comunicativo, afectivo y social.
+- Centro específico de Educación Especial: adquirir el máximo desarrollo de
+@p 576
+las competencias clave establecidas, proporcionarle una atención específica personalizada y constante, mediante unas medidas educativas y asistencias extraordinarias o muy específicas. Destinatarios: alumnado con NEE que presenta grave afectación de los procesos de desarrollo psicomotor, cognitivo, comunicativo, afectivo y social que exige una adaptación del currículo en grado extremo (ACI) у la estructuración de entornos de aprendizaje muy especializado.
+
+La modalidad de escolarización tiene que contar con la opinión de la familia, siendo esta última la que tome la decisión. Si el alumnado no presenta necesidades educativas especiales será escolarizado en un centro ordinario.
+@caja
+**SE RECOMIENDA**
+
+Los recién nacidos muy prematuros y/o con bajo peso al nacer, tienen un mayor riesgo de presentar dificultades que pueden perjudicar a su correcto desarrollo en la infancia y la adolescencia, por lo que se recomienda:
+- Identificar factores de riesgo del menor prematuro, atendiendo a criterios biomédicos (por ejemplo, edad gestacional, peso, talla...).
+- Realizar un seguimiento pormenorizado del menor para detectar tempranamente posibles alteraciones en el desarrollo.
+- Dotar a cada menor y a su familia del a poyo que necesite en función de la necesidad presentada.
+- Informar a la familia sobre las razones para recomendar o no la escolarización del menor, utilizando un lenguaje claro y comprensible (evite tecnicismos).
+- Dar tiempo a la familia para que pueda asimilar la información aportada y reaccionar, realizándole preguntas y solventando las dudas que pueda presentar.
+- Escuchar activamente las opiniones de la familia, sin interrupciones, ayudándola a tomar decisiones en base a su conocimiento y experiencia.
+- Cooperar entre los distintos contextos (familia, salud, escolar y social) que engloban el desarrollo del menor para favorecerlo.
+- Reconocer los antecedentes que preceden las dificultades de aprendizaje para prevenirlas y desarrollar medidas que las aborden.
+- Valorar solicitar la permanencia del niño durante un año más en educación infantil. Si el niño presenta estas circunstancias: que haya una diferencia de un año entre la edad cronológica y la madurativa; que vaya a ser escolarizado en Educación Especial; dificultades de autonomía personal, independencia motriz y comunicación; que haya sido diagnosticado de necesidades educativas especiales, sin haber sido escolarizado anteriormente; o que sea un gran prematuro, nacido en el segundo semestre del año, con tratamiento médico u hospitalario de larga duración
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Tomar decisiones sin que estén consensuadas por todas las partes.
+- Forzar el inicio de la escolarización según la edad cronológica
+@p 577
+- La escolarización adaptada tampoco se debe aplicar a todos los prematuros, sino evaluando la situación de forma individualizada, porque habrá niños que ya hayan alcanzado su edad cronológica y otros no.
+@fin
+@bib
+1. Pettinger KJ, Kelly B, Sheldon TA, et al. Starting school: educational development as a function of age of entry and prematurity. Arch Dis Child. 2020;105:160-5.
+2. Martínez-Nadal, S.; Bosch, L. Cognitive and Learning Outcomes in Late Preterm Infants at School Age: A Systematic Review. Int. J. Environ Res Public Health. 2020;18:74
+3. Costa DS, Miranda DM, Burnett AC, et al. Executive function and academic outcomes in children who were extremely preterm. Pediatrics.2017;140(3):e20170257. Defensor del Pueblo. (2017). Defensor del Pueblo. Enero-Junio 2017. https://www.defensordelpueblo. es/wp-content/uploads/2017/07/Avance_enero_junio_2017-1.pdf
+4. Martínez-Nadal S, Bosch L. Cognitive and Learning outcomes in late preterm infants at school age: a systematic review. Int J Environ Res Public Health.2020;18(1):74.
+5. Pettinger KJ, Kelly B, Sheldon TA, et al. Starting school: educational development as a function of age of entry and prematurity. Arch Dis Child.2020;105(2):160-5.
+6. Wehrle FM, Stöckli A, Disselhoff V, et al. Effects of correcting for prematurity on executive function scores of children born very preterm at school age. J Pediatr.2021;238:145-52. e2.

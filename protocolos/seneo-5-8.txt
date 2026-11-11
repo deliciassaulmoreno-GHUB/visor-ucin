@@ -1,0 +1,54 @@
+@f 14. Protocolos SENEO/5.8. Parálisis cerebral y otras alteraciones del neurodesarrollo de los niños que han sido prematuros
+@p 565
+# 5.8 PARÁLISIS CEREBRAL Y OTRAS ALTERACIONES DEL NEURODESARROLLO DE LOS NIÑOS QUE HAN SIDO PREMATUROS
+
+*Malaika Cordeiro*
+
+*Hospital Universitario La Paz, Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 551-555 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+Las secuelas neurológicas de la prematuridad y sus tratamientos implican alteraciones funcionales y estructurales del sistema nervioso central (SNC) para toda la vida. A pesar de las mejoras en el cuidado perinatal de las últimas tres décadas, la tasa de secuelas en el neurodesarrollo entre niños ex-prematuros, especialmente muy prematuros y prematuros extremos, sigue siendo alta (figura 1). Aunque es una población con mayor riesgo de desarrollar lesiones del SNC (hemorragia intraventricular, infarto hemorrágico periventricular, ventriculomegalia, lesión cerebelosa y lesión de sustancia blanca), estas lesiones cerebrales diagnosticadas por neuroimagen no justifican todas las discapacidades ulteriores detectadas en esta población.
+@img seneo-5-8-fig1.png
+*Figura 1.- Alteraciones en el neurodesarrollo en niños prematuros < 32 semanas de edad gestacional.*
+
+@p 566
+## 2 Parálisis cerebral
+
+La parálisis cerebral (PC) es un grupo de trastornos permanentes del desarrollo del movimiento y la postura, causantes de limitación de la actividad, que son consecuencia de una lesión no progresiva sobre el cerebro en desarrollo, en la época fetal o primeros años de vida. Se pueden identificar signos de alarma desde los primeros meses de vida, hecho clave para establecer una intervención lo más precoz posible. Se puede clasificar según el tipo (espástica, disquinética o distónica) y la topografía (número de miembros afectados o localización -monoplejia, diplejía, hemiplejia y cuadriplejia-). La prematuridad supone el 50% de las causas de PC. Afecta a un 1-2% de los niños prematuros de 32-34 semanas de gestación, a un 5% de los niños prematuros de 28-32 semanas y a un 5-15% de los que nacen antes de las 28 semanas. El tipo de PC más frecuente en los niños ex-prematuros es la diplejía espástica (40-80% de los casos). La hemorragia intraventricular grado 3, el infarto hemorrágico periventricular y la leucomalacia periventricular son factores de riesgo. Para clasificar la gravedad de la PC, se utiliza una categorización de la capacidad funcional motora gruesa de los pacientes mediante la "Gross Motor Function Classification System". (GMFCS). En un 20-35% de los niños prematuros se puede presentar además una distonía transitoria (tono extensor aumentado y movimientos atípicos) con un pico de incidencia máxima a los 7 meses de edad corregida. La presencia de esta distonía transitoria durante el primer año de vida aumenta el riesgo de alteraciones motoras posteriores pero, como su propio nombre indica, también puede desaparecer. La PC moderada a grave (GMFCS > 2) es la anomalía motora más incapacitante asociada a la prematuridad pero la menos frecuente, 2.5-8% en los niños extremadamente prematuros. Los déficits en la coordinación motora fina y gruesa se observan hasta en un 30-50% de los niños ‹ 32 semanas de edad gestacional (EG). A estas anomalías de la coordinación motora se les ha denominado "trastorno del desarrollo de la coordinación". Este trastorno incluye alteraciones de la destreza manual, problemas para apuntar a un objetivo, problemas para capturar un objeto en movimiento y alteraciones del equilibrio que interfieren significativamente en el desarrollo de actividades diarias. No es infrecuente que el diagnóstico de esta entidad no se realice hasta la edad escolar y persista en la edad adulta con un importante impacto funcional y emocional.
+
+## 3 Otras alteraciones del neurodesarrollo
+
+En un 25-50% de los niños extremadamente prematuros se detecta un retraso cognitivo en los primeros años de vida. Las lesiones del SNC diagnosticadas mediante pruebas de neuroimagen, la displasia broncopulmonar, las gestaciones múltiples, el sexo masculino y un nivel sociocultural bajo de la madre son factores de riesgo asociados al retraso cognitivo. En edades posteriores, cuando alcanzan la edad escolar, hasta un 30-70% de estos niños presentan peor rendimiento académico, además de problemas de atención y emocionales, alteraciones de la coordinación visomotriz y del procesamiento visoespacial, de memoria y de adaptación. En la adolescencia y edad adulta se ha detectado una mayor incidencia de déficits en las funciones ejecutivas superiores necesarias para regular el comportamiento y para planificar estrategias de alcance de objetivos, repercutiendo en los logros académicos de esta población.
+
+El desarrollo del lenguaje es de vital importancia ya que es la roca sobre la que se asientan la comunicación, los procesos cognitivos, la lectoescritura y las interacciones sociales.
+@p 567
+Los niños prematuros tienen mayor riesgo de presentar alteraciones del lenguaje como retraso o deficiencias del lenguaje expresivo, del lenguaje receptivo, de la fonación, de la memoria verbal a corto plazo y de la comprensión de la gramática. Hasta un 55% de los niños < 32 semanas de EG presentan un retraso del lenguaje expresivo a los 2-3 años y un 15% del lenguaje receptivo, tratándose en la mitad de los casos de retrasos graves. En la edad escolar se traduce en alteraciones de la lectoescritura y del léxico que repercuten en el aprendizaje.
+
+En los niños nacidos muy prematuros y extremadamente prematuros además se ha identificado una prevalencia notablemente más elevada de trastornos del espectro autista (4-6%) respecto a la población general (0.5-2%). Si bien, los niños prematuros moderados y tardíos también tienen mayor riesgo (2-2.5%). Se ha documentado además la presencia de rasgos autistas en un 6-20% de niños ex-prematuros. Se recomienda hacer un test de cribado a los 18 meses de edad corregida.
+
+La detección de signos de alarma de posibles alteraciones en el neurodesarrollo en las evaluaciones periódicas realizadas en los primeros meses-años de vida (Tabla 1) es clave para una intervención lo más precoz posible.
+@img seneo-5-8-t1a.png
+@p 568
+@img seneo-5-8-t1b.png
+*Tabla 1. Signos de alarma de alteraciones en el neurodesarrollo.*
+! La Tabla 1 tiene mucho texto por celda en seis columnas; se muestra como imagen recortada del PDF para que se lea en el móvil tal como está impresa.
+
+@caja
+**SE RECOMIENDA**
+- Conocer los riesgos de esta población y saber reconocer signos de alarma de posibles alteraciones del neurodesarrollo que puedan aparecer en el seguimiento.
+- Favorecer la adherencia de las familias a los programas de seguimiento.
+@p 569
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Disminuir el nivel de alerta de posibles alteraciones en el neurodesarrollo en los niños prematuros sin lesión cerebral diagnosticada por neuroimagen.
+@fin
+@bib
+1. Twilhaar E, Wade R, de Kieviet J, et al. Cognitive outcomes of children born extremely or very preterm since the 1990s and associated risk factors: a meta-analysis and meta-regression. JAMA Pediatr 2018;172:361-7.
+2. Larsen ML, Wiingreen R, Jensen A, et al. The effect of gestational age on major neurodevelopmental disorders in preterm infants. Pediatr Res. 2022; 91:1906-12.
+3. Palisano R, Hanna S, Rosenbaum P, et al. Validation of a model of gross motor function for children with cerebral palsy. Phys Ther 2000; 80:974-85.
+4. Spittle A, Orton J. Cerebral palsy and developmental coordination disorder in children born preterm. Semin Fetal Neonatal Med. 2014;19:84-9.
+5. Novak I, Morgan C, Adde L, et al. Early, accurate diagnosis and early intervention in cerebral palsy: advances in diagnosis and treatment. JAMA Pediatr. 2017;171:897-907.
+6. Laverty C, Surtees A, O'sullivan R, et al. The prevalence and profile of autism in individuals born preterm: a systematic review and meta-analysis. J Neurodev Disord. 2021;13:41.

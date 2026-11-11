@@ -1,0 +1,56 @@
+@f 14. Protocolos SENEO/5.7. Inmunizaciones y calendario vacunal
+@p 561
+# 5.7 INMUNIZACIONES Y CALENDARIO VACUNAL
+
+*Rubén García Sánchez*
+
+*Hospital Universitario de Salamanca*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 547-550 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Calendario vacunal
+
+El recién nacido prematuro (RNP) es una población muy vulnerable a las infecciones, mostrándose especialmente proclive en los primeros meses de vida, algunas de ellas prevenibles mediante vacunas. Esta mayor susceptibilidad se fundamenta en diversos factores como son la inmadurez de su sistema inmunológico, una baja concentración sérica de inmunoglobulinas al nacer, más acentuada en los pretérminos extremos, y un descenso más rápido en los primeros meses, con mala respuesta a los antígenos de polisacárido. Se añade que algunas situaciones clínicas, como la displasia broncopulmonar o la terapia corticoidea prolongada, pueden condicionar una respuesta disminuida a los antígenos de las vacunas.
+
+La respuesta inmunológica del RNP es inmadura y la producción de anticuerpos en respuesta a las vacunas es inferior a la del a término (RNT) en ciertas vacunas, como ocurre en el caso de hepatitis B y *Haemophilus influenzae* tipo b, pero superponible en eficacia en otras, como Rotavirus. Sin embargo, al completar la primovacunación casi todos los niños alcanzan concentraciones protectoras de anticuerpos frente a los diversos antígenos de las vacunas, consiguiendo una inmunidad suficiente para prevenir la enfermedad. La protección a largo plazo es similar a los RNT, adquiriendo a partir del segundo año de vida la memoria inmunológica. En inmunoprotección la seguridad es un pilar básico. En ese sentido, los diversos estudios controlados llevados a cabo han evidenciado que las diferentes vacunas son seguras en este grupo poblacional. En general, la reactogenicidad es escasa, sin que los RNP manifiesten diferencias significativas cuando se les compara con los RNT, incluso con una discreta disminución en lo referente a sintomatología leve.
+
+En los niños muy prematuros ingresados en las Unidades de Neonatología clásicamente se ha relacionado la aparición o empeoramiento de diversos acontecimientos cardiorrespiratorios (ACR), como apneas, acompañadas de desaturaciones y bradicardias, con la administración de las vacunas. La incidencia de dichos eventos oscila entre el 10% y 50%, según recogen las series, si bien no resultaron graves, sin tener impacto en la evolución clínica. El riesgo de aparición de estos ACR se incrementa en los niños con un curso clínico previo grave o que presenten algún ACR en el momento de la vacunación.
+
+Un problema clásico era la menor adherencia del RNP a los programas de vacunación, debido en la mayoría de las ocasiones al temor o desconocimiento sobre la seguridad y reactogenicidad de las mismas en estos niños. Los datos muestran que la mayoría de las desviaciones del esquema de inmunizaciones se producen en los primeros 6 meses de vida, justo cuando se muestran más vulnerables. Distintos registros, como los aportados
+@p 562
+por Estados Unidos y Alemania, señalan que en los RNP las tasas de vacunación siguen siendo más bajas que en los RNT y sobre todo que la indicación de las vacunas se produce demasiado tarde Para revertir esa tendencia, cada vez menos marcada, los principales agentes son los profesionales de la Pediatría. Los prematuros deben seguir el mismo calendario de vacunación que los recién nacidos no prematuros, incluyendo la inmunización durante la hospitalización si se encuentra en estabilidad clínica.
+
+Los prematuros se vacunarán independientemente del peso y de la edad gestacional. Se retrasará la vacunación en aquellas situaciones clínicas que así lo aconsejen, realizándola en condiciones adecuadas de estabilidad cardiorrespiratoria.
+
+Una vez comenzado el calendario de vacunaciones es primordial continuarlo con las mismas vacunas con que se inició y con los intervalos previstos. Debe evitarse que se produzcan retrasos en las inmunizaciones siguiendo el calendario promulgado por el Comité Asesor de Vacunas de la Sociedad Española de Pediatría (Tabla 1).
+@img seneo-5-7-t1.png
+*Tabla 1. Calendario promulgado por el Comité Asesor de Vacunas de la Sociedad Española de Pediatría.*
+! La Tabla 1 es un calendario por colores; se muestra como imagen recortada del PDF.
+
+@p 563
+## 2 Nuevas recomendaciones
+
+**Rotavirus:** La gastroenteritis por rotavirus (RV) tiene una elevadísima incidencia, afectando a casi la totalidad de los niños en los primeros dos años de vida, llegando a un 15 % los que padecen hasta 5 episodios durante ese periodo. Los estudios indican que, a la edad de 5 años, casi todos ellos han desarrollado anticuerpos contra el RV. Esta notable prevalencia, tratándose de una patología que puede cursar con una morbilidad no desdeñable, justifica que la Academia Europea de Pediatría y la Sociedad Europea de Enfermedades Infecciosas Pediátricas apoyen la vacunación sistemática de todos los lactantes, como ya viene haciendo la OMS desde 2013.
+
+En el caso de los recién nacidos prematuros, en los que la enfermedad puede ser muy grave, siendo el bajo peso al nacer el factor de riesgo principal para desarrollar cuadros clínicos severos, se recomienda la vacunación igualmente, habiéndose mostrado segura y eficaz hasta en pretérminos nacidos en la semana 24 de gestación. En 2019 la Sociedad Española de Neonatología y el CAV-AEP recomendaron la vacunación de los RN prematuros, incluso en los hospitales (Documento RotaPREM). Los datos existentes han mostrado resultados de eficacia y seguridad similares a los comunicados en niños a término y un riesgo muy bajo de diseminación nosocomial cuando la vacunación se realiza durante la hospitalización, como se lleva a cabo en muchos países, manteniendo las necesarias medidas preventivas de contacto. Un porcentaje estimable de niños prematuros permanecen ingresados más allá de las 12 semanas de vida y en estos casos, siempre que su condición clínica lo permita, deberían recibir la vacunación frente al RV sin retrasos, incluso durante la hospitalización. En noviembre de 2019 el Ministerio de Sanidad estableció la recomendación de la vacunación frente a rotavirus en los prematuros nacidos entre las semanas 25 y 32 de gestación, clínicamente estables y sin contraindicaciones, para todo el territorio nacional. Los pretérmino con antecedente de enterocolitis necrotizante pueden beneficiarse de la inmunización, una vez superada dicha patología. Aquellos que han recibido la primera dosis en el ámbito hospitalario deben continuar la pauta de vacunación correspondiente desde Atención Primaria, estando la vacuna financiada en ambas situaciones al estar incluidos en los grupos de riesgo tributarios de dicha prestación. No se encuentra recomendada en los casos de recién nacidos cuyas madres se sometieron a tratamientos con fármacos biológicos e inmunosupresores durante la gestación, aunque puede valorarse de forma individual en algunos casos según el compuesto implicado y el tiempo transcurrido desde la finalización de la terapia.
+
+**Gripe:** Se recomienda la vacunación antigripal anual de los prematuros de menos de 32 semanas de gestación, entre los 6 y los 24 meses de edad. En caso de presentar algún factor de riesgo, se continuará con la vacunación anual tras los 24 meses de edad. Esta estrategia vacunal se complementa con la recomendación de vacunación con una dosis de vacuna inactivada a embarazadas en cualquier trimestre de gestación. Así mismo, los convivientes con niños con antecedente de prematuridad, de cualquier edad y hasta que estos menores alcancen la edad de 24 meses, deberán vacunarse anualmente frente a la gripe.
+
+**Tosferina:** La estrategia para evitar o mitigar la tosferina en los 2-3 primeros meses de vida del lactante prematuro incluye la vacunación de embarazadas con Tdpa a partir de la semana 27, pero preferentemente en la semana 27 o 28. En embarazadas con alto riesgo de parto prematuro y clínicamente estables se puede valorar la vacunación a partir de la semana 20 de gestación.
+@p 564
+@caja
+**SE RECOMIENDA**
+- Los recién nacidos prematuros son un grupo poblacional especialmente susceptible a los procesos infecciosos por lo que es primordial que reciban la inmunización sin retrasos.
+- Los pretérminos deben ser vacunados de acuerdo con su edad cronológica, independientemente de su edad gestacional y de su peso al nacimiento, siendo sumamente importante iniciar la vacunación a los 2 meses para no retrasar la protección.
+- El calendario vacunal recomendado por el CAV-AEP es el aplicable para este colectivo de niños.
+- La vacunación frente Rotavirus se ha mostrado eficaz y segura en este grupo poblacional debiendo recibirla, si su situación clínica lo posibilita, en el plazo indicado, incluso en pacientes hospitalizados ya que el riesgo de brotes epidémicos es mínimo.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Los menores de 32 semanas o de 1700 gramos al nacer, pese a tener una mayor probabilidad de presentar una enfermedad invasora por Streptococcus pneumoniae que los recién nacidos a término, dada la inmunidad de grupo por la introducción de la vacuna en el calendario sistemático deben recibir la VNC13 como los demás niños con una pauta 2+1, sin VNP23 posterior, salvo que asocien otros factores de riesgo.
+@fin
+@bib
+1. Álvarez García FJ, Cilleruelo Ortega MJ, Álvarez Aldeán J, et al, en representación del Comité Asesor de Vacunas de la Asociación Española de Pediatría (CAV-AEP). Calendario de vacunaciones de la Asociación Española de Pediatría (CAVAEP): recomendaciones 2022. An Pediatr. 2022;96:59.e1-59.e10
+2. Álvarez Aldeán J, Ares Segura S, Díaz González C, et al. , en representación de la Sociedad Española de Neonatología (SENeo) y del Comité Asesor de Vacunas de la Asociación Española de Pediatría (CAV-AEP). Recomendaciones para la vacunación frente al ROTAvirus de los recién nacidos PREMaturos (ROTAPREM). An Pediatr 2019;91:205. el-205.e7
+3. Omeñaca F, Sarlangue J, Szenborn L, et al. Safety, reactogenicity and immunogenicity of the human rotavirus vaccine in preterm European Infants: a randomized phase IIIb study. Pediatr Infect Dis J 2012; 31: 487-93
+4. Van de Berg JP, Westerbeek EA, Van der Klis FR, et al. Transplacental transport of IgG antibodies to preterm infants: A review of the literature. Early Hum Dev. 2011; 87:67-72.
+5. Healy CM, Immunization Strategies to Protect Preterm Infants. NeoReviews. 2010;11: e409-e418.
