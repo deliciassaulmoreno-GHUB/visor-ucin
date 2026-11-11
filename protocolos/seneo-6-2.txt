@@ -1,0 +1,182 @@
+@f 14. Protocolos SENEO/6.2. Accesos vasculares
+@p 590
+# 6.2 ACCESOS VASCULARES
+
+*Marcos Linés*
+
+*Hospital Universitario Dexeus, Barcelona*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 576-584 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+La punción y canalización vascular son los procedimientos invasivos más comunes en la práctica clínica hospitalaria y parte esencial del arsenal diagnóstico y terapéutico de la medicina actual.
+
+Los procedimientos que implican la canalización de accesos vasculares incluyen venas periféricas, venas centrales y arterias. La inserción de catéteres en el capital vascular no está exenta de complicaciones, en especial la inserción de catéteres venosos centrales y arteriales, en los que puede generarse complicaciones potencialmente graves (hemorragias, neumotórax, isquemia, etc.). Para los accesos periféricos, las complicaciones no son tan frecuentes, pero se pueden presentar roturas de vaso, hematomas o hemorragias significativas en el lugar de punción y dolor.
+
+Estas complicaciones, tanto las mayores como las menores, están relacionadas principalmente con la edad gestacional, el peso, la anatomía del paciente, sus comorbilidades y con la habilidad del profesional.
+
+## 2 Canalización de los vasos umbilicales
+
+La canalización de la vena umbilical permite un acceso venoso central rápido para administración de fluidos y medicación, y la extracción de controles analíticos.
+
+Las principales indicaciones:
+- Es la vía de elección en la reanimación en sala de partos.
+- Vía de elección en el paciente prematuro extremo hasta la obtención de una vía venosa epicutánea.
+
+Las principales contraindicaciones en su colocación son:
+- Onfalocele
+- Onfalitis
+- Peritonitis
+- Enterocolitis necrosante
+
+La canalización de la arteria umbilical permite un acceso arterial central para monitorización de la tensión arterial invasiva y para la obtención de gasometrías arteriales.
+@p 591
+Está especialmente indicada durante los primeros días de vida por la permeabilidad de los vasos y se valorará en casos de neonatos con dificultad respiratoria y/o con alteración hemodinámica graves.
+
+Las principales contraindicaciones son similares a las de la vena umbilical: onfalocele, gastrosquisis, onfalitis, peritonitis y enterocolitis necrosante y de forma relativa si existe compromiso vascular de extremidades inferiores.
+
+## 3 Canalización vías centrales y arteriales
+
+Se denominan venas centrales aquellas de grueso calibre tributarias directas de las venas cavas. Las canalizadas más frecuentemente son, por orden, la vena yugular interna, la vena femoral y la vena subclavia.
+
+Las indicaciones de la canalización venosa central (CVC) son:
+- Imposibilidad de canalizar una vía periférica.
+- Necesidad de administrar soluciones o medicamentos hiperosmolares (>850-900mOsm/L) o irritantes (en función pH (<5 o >9)).
+- Administración de fármacos vasoactivos.
+- Necesidad de administrar grandes volúmenes de fluido en poco tiempo (flujos muy elevados).
+- Extracciones de sangre venosa de forma frecuente.
+- Necesidad de monitorización continua de parámetros hemodinámicos (presión venosa central -PVC-, estimación gasto cardíaco, etc.).
+- Técnicas de recambio sanguíneo (hemofiltración, exanguinotransfusión, ECMO, etc.).
+
+Se usará la técnica de Seldinger (punción vascular con aguja o cánula sobre aguja y uso posterior de una guía para colocar el catéter definitivo) para la localización y punción. Las principales complicaciones son: la infección local o sistémica, la hemorragia, la trombosis venosa, la disfunción del catéter por obstrucción de este o por rotura.
+
+Uno de los principales problemas es el tamaño de los catéteres centrales con más de una luz en relación con el tamaño de las venas, especialmente en el paciente prematuro. Actualmente se dispone de catéteres de 2-3Fr bilumen de diferentes longitudes. En el paciente neonatal juega un papel muy importante el catéter epicutáneo, que es un catéter central de inserción periférica (PICC). Está especialmente indicado cuando se requiere administrar fluidos o medicamentos hiperosmolares o irritantes o cuando se prevé una administración prolongada de algún fármaco (>5 días).
+
+Una de sus principales ventajas es que existen catéteres de muy poco calibre (1-2 Fr), algunos bilumen, y los hay en silicona o en poliuretano de última generación. La canalización arterial está indicada en aquellos pacientes que requieren de una monitorización   arterial invasiva o gasometrías arteriales repetidas. De elección priorizaremos, si no hay contraindicaciones y es técnicamente posible, la canalización
+@p 592
+de arterias umbilicales durante los primeros días de vida. En caso de no ser posible es de elección la canalización de la arteria radial (como arteria periférica) y en niños pequeños la arteria femoral.
+
+En los casos urgentes en los que no se consigue la canalización vascular, aun usando la ecografía, una opción es la venotomía o arteriotomía.
+
+## 4 Canalización intraósea
+
+Es una técnica reservada a aquellos pacientes en situación de urgencia vital en los que se requiere y no se logra un acceso vascular, ya sea central o periférico, en los primeros 2 minutos. Su uso más frecuente es, aunque poco habitual, en sala de partos o en situación de paro cardiorrespiratorio en paciente sin vía previa.
+
+En el neonato el punto de punción de elección es en la tibia proximal, 0,5-1 cm por debajo del borde interno de la tuberosidad tibial anterior.
+
+Es una técnica estéril; se dispone de agujas específicas de punción intraósea calibre 18G. o superior que se puncionan de forma manual o también se pueden usar dispositivos de disparo automático o dirigido, como el taladro (EZ-IO®). Se debe intentar sustituir por un acceso vascular cuando sea posible y, en todo caso, retirar antes de las 24 horas de su colocación.
+
+Las principales contraindicaciones:
+- Fractura de la tibia que se va a puncionar
+- Daño vascular en dicha extremidad
+- Punciones repetidas del mismo hueso
+- Enfermedades de la osificación conocidas (por ejemplo, osteogénesis imperfecta).
+
+Las principales complicaciones son:
+- Extravasación de fármacos y fluidos
+- Fractura ósea
+- Síndrome compartimental
+- Osteomielitis
+- Embolia grasa
+- Lesión del cartílago de crecimiento
+
+## 5 Canalización ecoguiada
+
+La canalización vascular del neonato, al ser el calibre de los vasos menor, implica una mayor complejidad respecto al adulto. La traducción práctica de ello es que los tiempos de procedimiento suelen ser más prolongados, se consiguen menores tasas de éxito
+@p 593
+global y en primera punción, y se obtienen mayores tasas de complicaciones locales; por estos motivos está recomendada para optimizar la seguridad del paciente.
+
+La evidencia científica acumulada concluye que la canalización vascular ecoguiada consigue:
+- Mayores tasas de éxito en primera punción.
+- Disminución del número de punciones antes del éxito.
+- Menor tasa de complicaciones relacionadas con el procedimiento.
+
+En la mayor parte de las guías de práctica clínica para el acceso vascular ecoguiado publicadas existe un apartado dedicado al acceso vascular en niños y recién nacidos, con las características diferenciadoras principales. Requiere de una curva de aprendizaje para familiarizarse con el equipo y optimizar la obtención de imágenes. La expansión del uso de la ecografía para el acceso vascular ha permitido mejorar otros aspectos relacionados con el capital vascular de los pacientes:
+- Permite evaluar el capital venoso en busca de la mejor localización y el mejor vaso para la canalización de una manera específica para cada paciente.
+- Permite identificar variantes anatómicas interindividuales.
+- Permite escoger el tamaño del catéter habiendo realizado una medición del diámetro del vaso, de manera que podamos ajustarnos a las recomendaciones científicas publicadas (catéter que ocupe menos de un tercio de la sección del vaso siempre que sea posible, máximo la 1/2).
+- Permite identificar la permeabilidad de los vasos.
+- Permite identificar trombosis y alteraciones en los vasos.
+- Permite comprobar la correcta situación del catéter tras su colocación; puede permitir prescindir de la realización de control radiológico.
+- Facilita la detección y el inicio precoz del tratamiento, si se requiere, de las posibles complicaciones graves derivadas de la punción vascular: neumotórax, hemotórax, taponamiento cardíaco, etc.
+
+El procedimiento técnico se resume en estos puntos:
+- Realizaremos una punción ecoguiada dinámica (en tiempo real).
+- Deberemos conocer el ecógrafo y sus características técnicas. Usaremos sondas lineales de alta frecuencia (idealmente 10-16 Hz), que permiten una gran resolución en planos de poca profundidad. Idealmente han de ser sondas pediátricas que tengan una impronta pequeña, de forma convencional o en stick de hockey (figura 1).
+- Elegiremos el acceso más seguro para cada paciente, modificando la postura para optimizar la visualización de las diferentes estructuras anatómicas. En esta fase hay que considerar la indicación clínica y las características del paciente para optar por un acceso u otro. También nos permitirá escoger el tipo de catéter, su tamaño (con la premisa de que habitualmente cuanto más estrecho mejor por el tamaño
+@p 594
+de los vasos que puncionamos) y su longitud (en algunos casos de catéteres tipo PICC los cortaremos para adecuar su longitud).
+
+- Colocaremos el marcador de posición a nuestra izquierda (para que nuestra visión en la pantalla sea la misma que al desplazar la sonda). Se puede comprobar antes de empezar a puncionar de forma estéril. Usaremos la mano menos hábil para maniobrar la sonda ecográfica.
+- Todo el proceso debe realizarse bajo medidas de esterilidad, utilizando campo estéril, funda estéril para la sonda y transductor y esterilidad para el operador y el material para cateterizar. La evidencia relacionada con la canalización de acceso vascular ecoguiado ha demostrado un efecto positivo frente al riesgo de infección.
+- Deberemos tener en cuenta estos 3 puntos antes de empezar
+  - **Control del dolor:** Valoraremos si requiere algún tipo de sedación o analgesia/ anestesia, lo cual es muy habitual en la edad pediátrica. Es importante no sólo por el confort del paciente, sino para lograr con éxito el procedimiento con el menor número de intentos posibles y sin complicaciones evitables.
+  - **Anticipación:** debemos preparar todo el material necesario, incluido material de recambio por si requerimos repetir la operación, con el objetivo de evitar prolongar los tiempos totales del procedimiento; además, tener en cuenta la preparación de anestésico y sedantes suficiente, anticipando el lugar por donde vamos a administrar la medicación endovenosa requerida durante el procedimiento habitual o en caso de aparición de complicaciones graves, evitando manipular el campo estéril (uso de alargaderas fuera del campo).
+  - **Posición del paciente:** Debemos minimizar manipulaciones del paciente durante el procedimiento, evitar cambios de posición una vez colocado el campo estéril, siendo de vital importancia colocar al paciente en la posición idónea antes de cubrirlo.
+- Ajustaremos las características del ecógrafo para obtener la mejor calidad de imagen. Ajustaremos profundidad, ganancia y foco.
+- Localizaremos las estructuras anatómicas y vasculares mediante cortes en el eje transversal y luego en longitudinal (Figura 2)
+  - **El eje corto (transversal):** se obtiene situando la sonda formando un ángulo de 90° con la piel y perpendicular al paso del vaso en cuestión. Este eje nos muestra un corte transversal de los vasos, que se verán como estructuras de forma circular-ovalada anecoicas. Para canalizar en esta posición viendo la aguja, ésta tiene que entrar perpendicular a la sonda o, si se introduce a 45°, deberemos aplicar un movimiento de basculación de la sonda anteroposterior para seguir la entrada de la aguja en toda su trayectoria. La canulación vascular mediante esta visión es más sencilla porque la diferenciación de los vasos es más clara y permite corregir la trayectoria de la aguja antes de puncionar el vaso. Por contra, es más difícil seguir la punta de la aguja en todo momento respecto al eje longitudinal.
+  - **El eje largo (longitudinal):** se sitúa sobre el eje largo del vaso a explorar, quedando paralelo al curso del vaso. La mejor manera para conseguir esta
+@p 595
+visualización del vaso es partiendo de un eje transversal y posteriormente rotando la sonda 90° en sentido antihorario. Es un eje más difícil de mantener durante el procedimiento. En recién nacidos y lactantes, con las sondas lineales convencionales, es un eje difícil de conseguir por falta de espacio para girar completamente en longitudinal la sonda.
+
+  - Otra opción puede ser **el eje oblicuo:** se obtiene girando la sonda 30-40° en sentido antihorario. Este plano permite una visualización del vaso en su longitud, la entrada de la aguja durante prácticamente todo el trayecto y además ofrece la seguridad de visualizar las estructuras adyacentes como el eje transverso, aprovechando así las fortalezas de los enfoques. Es una buena opción en lactantes y recién nacidos en los que no es posible realizar un plano longitudinal por falta de espacio, pero deseamos realizar un seguimiento en plano del proceso de entrada de la aguja.
+- Identificaremos estructuras vasculares con el Doppler color. Diferenciamos arteria y vena mediante la compresión (la vena se colapsa) y el Doppler pulsado (flujo continuo en la vena, pulsátil en la arteria).
+- Cuando utilizamos el ultrasonido para visualizar estructuras vasculares, éstas siempre van a aparecer en la pantalla como estructuras tubulares anecoicas (negras). Las estructuras adyacentes se van a visualizar dentro de la escala de grises, siendo totalmente hiperecoicas las estructuras con contenido de calcio como es el hueso.
+- Según la relación que se establece entre el plano de exploración de la sonda y el plano de la aguja con la que realizamos el abordaje vascular podemos hablar de dos técnicas de punción diferentes:
+  - En plano: realizaremos una punción en plano cuando el plano de abordaje de la aguja es el mismo que el plano de exploración de la sonda. Será el modo de ver todo el recorrido de la aguja hasta su llegada al vaso.
+  - Fuera de plano: en este caso, el plano de abordaje de la aguja es perpendicular al plano de la exploración de la sonda y solo nos ofrece una sección transversal de la misma.
+- La combinación de la técnica de punción y de visualización es lo que nos permitirá canalizar el vaso finalmente; escoger una combinación u otra depende de la zona anatómica, de la experiencia del operador y del material del que dispongamos (sondas con impronta grande en pacientes pequeños no permiten punción en plano).
+- Intentaremos localizar la aguja en la imagen en todo momento, basculando el transductor para insonar el plano en que se encuentra la punta de la aguja, y seguirla hasta su entrada en el vaso.
+- Mediante la técnica de Seldinger usaremos una guía para colocar el catéter definitivo en su posición. Podremos comprobar su colocación por ecografía y su permeabilidad. También valorar si existen complicaciones asociadas (si es necesario). Finalmente fijaremos el catéter a la piel, ya sea con sutura o con apósitos especiales de fijación.
+@p 596
+@img seneo-6-2-fig1.png
+*Figura 1. Tipos de sondas lineales*
+
+@img seneo-6-2-fig2.png
+*Figura 2. Eje largo/longitudinal (A) y eje corto/transversal (B)*
+
+### Resumen acceso vascular ecoguiado. Procedimiento paso a paso:
+1. Selección ecógrafo, sonda y localización para el acceso (revisión capital vascular del paciente).
+2. Selección del material y catéter.
+3. Preparación del paciente: posición, preparación del material, limpieza y campo estéril.
+@p 597
+4. Preparación sonda ecográfica: limpiar superficie sonda, gel estéril en la sonda y funda estéril, eliminar burbujas de aire, bandas de sujeción estériles en sonda y funda, y gel estéril sobre funda y sonda.
+5. Comprobación correcta orientación de la sonda.
+6. Optimización de la imagen: gel / posición sonda / profundidad / foco / ganancia.
+7. Estabilización de la sonda con la mano no hábil.
+8. Localización del vaso a puncionar
+
+  a. Identificación de los vasos (cortes: transversal / longitudinal / oblicuo)
+
+  b. Diferenciación arteria-vena (compresión/anatomía de la pared /Doppler color/ pulsado). Maniobras de aumento del retorno venoso.
+
+  c. Permeabilidad (imagen bidimensional. Doppler color/pulsado).
+
+9. Anestesia/Sedación (local/general)
+10. Centrar vaso a puncionar en el punto medial de la sonda.
+11. Punción y cateterización del vaso.
+12. Confirmación posición de la aguja (eje corto / eje largo).
+13. Introducción de la guía y comprobación de su localización.
+14. Dilatación (si requiere) y colocación del catéter. Comprobación permeabilidad luces. Salinización y fijación a piel.
+15. Descartar complicaciones si requiere.
+@caja
+**SE RECOMIENDA**
+- Escoger el tipo y el lugar de canalización vascular en función de las necesidades clínicas, de la edad y del peso del paciente, experiencia previa, etc. Se recomienda elaborar protocolos propios de cada Unidad.
+- Cuando se canalice una vía central, excepto en el caso de los vasos umbilicales, usar siempre que sea posible la canalización ecoguiada, si se dispone del equipo y de la experiencia suficientes.
+- Formar al personal médico y de enfermería en la canalización ecoguiada, sobre todo mediante cursos de simulación.
+- Conocer el material y los recursos de cada centro a la hora de tomar decisiones sobre el mejor abordaje vascular.
+- Revisar a diario la necesidad de mantener vías en los pacientes, especialmente las arteriales y las centrales.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- Realizar punción ecoguiada en pacientes sin formación previa o supervisión.
+- Colocar catéteres en vasos con un tamaño <1/2 del diámetro de la vía, puesto que se incrementa el riesgo de complicaciones, sobre todo de trombosis.
+@p 598
+@fin
+@bib
+1. Rupp SM, Apfelbaum JL, Blitt C, et al. American Society of Anesthesiologists Task Force on Central Venous Access. Practice guidelines for central venous access: a report by the American Society of Anesthesiologists Task Force on Central Venous Access. Anesthesiology. 2012;116:539-73.
+2. Oulego-Erroz I, González-Cortés R, García-Soler P, et al. Ultrasound-guided or landmark techniques for central venous catheter placement in critically ill children. Intensive Care Med. 2018; 44:61-72.
+3. Lau CS, Chamberlain RS. Ultrasound-guided central venous catheter placement increases success rates in pediatric patients: a meta-analysis. Pediatr Res. 2016;80:178-84.
+4. Lamperti M, Bodenham AR, Pittiruti M, et al. International evidence-based recommendations on ultrasound-guided vascular access. Intensive Care Med. 2012; 38:1105-17.
+5. Hind D, Calvert N, McWilliams R, et al. Ultrasonic locating devices for central venous cannulation: meta-analysis. BMJ. 2003;327 (7411):361.

@@ -1,0 +1,70 @@
+@f 14. Protocolos SENEO/6.3. Oxigenoterapia
+@p 599
+# 6.3 OXIGENOTERAPIA
+
+*Yolanda Ruiz del Prado, Maialen Kortabarria Elguero, Ana Ibiricu Lecumberri*
+
+*Hospital San Pedro, Logroño*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 585-588 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Introducción
+
+El uso de oxígeno (O~2~) es una medida habitual en las Unidades de Neonatología. Su uso no está exento de daños y debe ser monitorizado para prevenir las consecuencias de la hipoxia e hiperoxia.
+
+En este capítulo se revisan las formas de administración y monitorización de la oxigenoterapia, así como los rangos de seguridad de saturación en recién nacidos pretérmino.
+
+## 2 Sistemas de administración de oxígeno
+
+### 1. Cánula o gafas nasales de bajo flujo
+
+Es una de las formas más frecuentes de administración de oxígeno en el periodo neonatal. El oxígeno se administra mediante la inserción de una cánula nasal con dos piezas blandas en las narinas del paciente, mientras que la parte distal se conecta a un medidor de flujo. Es muy importante elegir las cánulas del tamaño adecuado, así como fijarlas bien y administrar el O~2~ caliente y humidificado. En neonatos habitualmente el O, se administra a flujos inferiores a 1 litro por minuto (Ipm), lo que supone la más mínima o incluso nula administración de presión positiva en la vía aérea (<1 cm H,0), pudiendo Ilegar hasta 2 Ipm con esta modalidad de oxigenoterapia. Existen fórmulas para estimar la fracción inspirada de oxígeno (FiO,) administrada con la terapia de bajo flujo, basadas en el tamaño del paciente, la concentración de oxígeno y el flujo administrado; sin embargo, en la práctica no se utilizan. Se puede asumir que la FiO, administrada con la terapia de bajo flujo en la mayoría de las ocasiones equivale al aire ambiente, estimándose una Fio, máxima administrada de 0,28 con el flujo máximo de 2 Ipm, no recomendándose en pacientes neonatales flujos superiores con esta modalidad.
+
+### 2. Halo cefálico
+
+Modalidad muy poco utilizada. El halo cefálico es un sistema de oxigenoterapia de alto flujo y alta concentración, de 7 a 15 lpm, que se administra mediante un soporte de plástico duro que se coloca en la cabeza del niño dejando libre la zona del cuello para permitir la salida de CO~2~, Se puede utilizar en pacientes que no toleran las cánulas nasales y que
+@p 600
+precisan administrar una FiO~2~<0,6 y no presentan dificultad respiratoria y mantienen PaCO~2~ y pH en valores normales. En prematuros <1500 gramos el oxígeno es calentado a la misma temperatura de la incubadora. En niños a término, la temperatura ambiente se mantiene dentro del halo para prevenir la taquipnea.
+
+### 3. Mascarilla facial
+
+La mascarilla facial puede ser utilizada de manera ocasional para la administración de oxígeno libre de forma temporal durante periodos de desaturación o previo a la intubación orotraqueal. La distancia a la que se coloca la mascarilla de la cara del paciente afecta de manera significativa a la FiO, administrada. Precisa un flujo de O, de 4 a 10 Ipm y aporta una FiO, variable de 0,3 a 0,5. Puede llevar una bolsa reservorio en la parte frontal de la misma; en este caso se deberán asegurar flujos de O, de 10 a 15 Ipm para llenar el reservorio y evitar su colapso durante la inspiración. De esta manera permite administrar FiO, de entre 0,6 y 0,90.2).
+
+### 4. Cánula nasal o gafas nasales de alto flujo
+
+Con esta modalidad de administración de O~2~ con cánulas nasales, podemos administrarlo caliente, humidificado y a mayor flujo y concentración de FiO~2~ que con la terapia de bajo flujo. El flujo inicial en neonatos oscila entre 4 y 6 Ipm, hasta un máximo de 8 lpm. El sistema de alto flujo genera presiones variables en la orofaringe, dependiendo de la cantidad que se fuga por las cánulas y de la apertura o no de la cavidad oral. Se puede administrar FiO, elevada y, dependiendo del flujo y de las fugas, afecta en mayor o menor medida a la eliminación de CO, mejorando el trabajo respiratorio y disminuyendo la frecuencia respiratoria. Produce cierto grado de presión en la vía aérea, sin poder ser considerado una nCPAP (presión positiva nasal continua) ni pudiendo sustituirla, dado que la relación flujo-presión no es lineal; se estima que la presión positiva de la vía aérea administrada a flujos máximos con este sistema se encuentra entre los 2 y los 5 cm H,O. Las indicaciones de la terapia de alto flujo en el neonato como alternativa a la nCPAP en los casos en que esta no se pueda utilizar serían:
+  - Apnea de la prematuridad
+  - Modo inicial de soporte respiratorio en neonatos pretérmino con SDR
+  - Destete post-extubación
+
+Las cánulas utilizadas para la terapia de alto flujo son más pequeñas que la interfase nasal utilizada para la nCPAP, siendo más fáciles de colocar y menos lesivas para la piel del paciente (figura 1). Sin embargo, dado que la presión positiva administrada con esta modalidad es muy variable, la recomendación es administrar nCPAP como terapia inicial, sobre todo en prematuros extremos. Es una alternativa a considerar en pacientes que no toleran la nCPAP o que han desarrollado úlceras nasales a causa de la misma.
+@p 601
+@img seneo-6-3-fig1.png
+*Figura 1. Cánulas para la terapia de alto flujo*
+
+## 3 Monitorización y rangos de seguridad
+
+### 1. Monitorización:
+- *Pulsioximetría:* Todo neonato con oxigenoterapia debe ser monitorizado. La forma más frecuente es la pulsioximetría, dado su carácter no invasivo y continuo. Es importante fijar los límites de los objetivos de saturación medidos por pulsioximetría, para ajustar a las demandas metabólicas del neonato y evitar los daños producidos por el uso de oxígeno.
+- *Gasometría arterial:* Es considerado el "gold standard" para la monitorización de oxigenoterapia, ya que nos informa de la PaO~2~, PaCO~2~ y pH. Su principal inconveniente es que las mediciones intermitentes pueden no reflejar las fluctuaciones de oxigenación que pueden presentar los neonatos. Las gasometrías capilares no son válidas para la medición de PaO,,")
+
+### 2. Rangos de seguridad de oxigenoterapia.
+
+- *Rangos de seguridad en neonatos pretérmino:* Disminuir los objetivos a 85-89% frente a 91-95% ha demostrado disminuir el riesgo de retinopatía del prematuro, pero a expensas de aumentar las tasas de mortalidad y enterocolitis necrotizante. Por lo tanto, se mantienen las recomendaciones previas de saturaciones en objetivos 90-94% estableciendo los límites de las alarmas entre 89-95%, aunque se desconozcan exactamente los objetivos ideales de oxígeno.
+@caja
+**SE RECOMIENDA**
+- Debemos elegir las cánulas del tamaño adecuado, así como fijarlas bien y administrar el O~2~ caliente y humidificado.
+@p 602
+- Podemos utilizar la mascarilla facial de manera ocasional para la administración de oxígeno libre de forma temporal durante periodos de desaturación o previo a la intubación orotraqueal.
+- El sistema de alto flujo permite administrar FiO~2~ elevada afectando en mayor o menor medida a la eliminación de CO~2~, mejorando el trabajo respiratorio y disminuyendo la frecuencia respiratoria dado que produce cierto grado de presión en la vía aérea.
+- Todo neonato con oxigenoterapia debe ser monitorizado.
+- El rango de saturación de seguridad en el paciente pretérmino es de 90-94%.
+@fin
+@caja
+**NO SE RECOMIENDA**
+- No hay recomendación suficiente por el momento para utilizar la terapia de alto flujo como primer escalón de soporte respiratorio, sobre todo en prematuros extremos.
+@fin
+@bib
+1. Martin R, Deakins KM. Respiratory support, oxygen delivery, and oxygen monitoring in the newborn. Uptodate. May, 2022.
+2. Mir Villamayor R. "Oxigenoterapia en neonato" un problema aun no resuelto. Pediatr. (Asunción). 2016;43:237-45.
+3. Chao KY, Chen YL, Tsai LY, et al. The Role of Heated Humidified High-flow Nasal Cannula as Noninvasive Respiratory Support in Neonates. Pediatr Neonatol. 2017;58:295-302.
+4. Martin R. Neonatal target oxygen levels for preterm infants. Uptodate. Aug, 2021.

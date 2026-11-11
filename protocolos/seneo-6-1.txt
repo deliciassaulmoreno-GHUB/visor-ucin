@@ -1,0 +1,149 @@
+@f 14. Protocolos SENEO/6.1. Asistencia ventilatoria
+@p 579
+# 6.1 ASISTENCIA VENTILATORIA
+
+*Noelia González Pacheco, Cristina Ramos Navarro, Manuel Sánchez Luna*
+
+*Hospital General Universitario Gregorio Marañón, Madrid. Universidad Complutense de Madrid*
+! Protocolos de la Sociedad Española de Neonatología 2023 (Copyright SENEO Protocolos Junio 2023), páginas 565-575 del libro. Transcrito del PDF escaneado con reconocimiento de texto (dos lecturas comparadas) y revisado contra la imagen.
+
+## 1 Ventilación mecánica no invasiva (VMNI)
+
+El soporte no invasivo se basa en el uso de presión constante o variable para proporcionar soporte respiratorio sin requerir intubación endotraqueal; y, por lo tanto, precisando un aceptable esfuerzo respiratorio para asegurar la ventilación alveolar (mayor con los sistemas de presión continua).
+
+### Tipos de soporte no invasivo
+
+Se reflejan en la figura 1, así como sus indicaciones en la tabla 1.
+! Las tablas y curvas de este capítulo se muestran como imágenes recortadas del PDF para conservar exactamente los parámetros.
+
+@img seneo-6-1-fig1.png
+*Figura 1. Tipos de soporte no invasivo.*
+
+@p 580
+@img seneo-6-1-t1.png
+
+En la Tabla 2 quedan resumidos los parámetros iniciales empleados generalmente en ventilación no invasiva.
+
+@img seneo-6-1-t2a.png
+@p 581
+@img seneo-6-1-t2b.png
+
+### Consideraciones en VMNI
+
+- Necesidad de uso de humidificadores (humedad 100%, Tª 37ºC).
+- Sonda orogástrica para descompresión gástrica.
+- Interfases recomendadas: mascarilla nasal (especialmente en pacientes extremadamente prematuros) o prongs binasales. Valorar cambio de interfase si fracaso de la ventilación nasal.
+
+## 2 Ventilación mecánica convencional (VMC)
+
+### Indicaciones
+
+Insuficiencia respiratoria refractaria a la optimización de la VMNI, definida por los criterios reflejados en la tabla 3
+@img seneo-6-1-t3.png
+
+### Objetivo
+
+Uso de estrategias de PROTECCIÓN PULMONAR encaminadas a minimizar el daño pulmonar asociado a la ventilación mecánica (modalidades sincronizadas, mínima FiO2 para mantener una SatO2 preductal 90-95%, volúmenes tidales (VT) controlados y presiones pico limitadas, con un ajuste adecuado de la PEEP para mantener una adecuada CRF).
+
+### Modalidades
+
+**Ventilación mandatoria intermitente sincronizada (SIMV).** El respirador asiste el número de ciclos fijados sincronizándose con el esfuerzo del paciente; sobre esa frecuencia prefijada el paciente puede respirar espontáneamente sin asistencia por parte del respirador.
+
+- Ventajas: disminución del riesgo de hiperventilación y control del volumen minuto (VM).
+@p 582
+- Desventajas: dificultad para vencer el aumento de presión del TET en las respiraciones espontáneas → Solución: añadir presión soporte (PS).
+- Indicaciones: situaciones en que el paciente no puede/debe controlar el VM espontáneamente (cardiopatías congénitas con flujo sistémico dependiente del flujo pulmonar, postoperados sedoanalgesiados o problemas neurológicos).
+@img seneo-6-1-fig2a.png
+*Fig. 2. A. Ventilación mandatoria intermitente sincronizada (SIMV sin PS).*
+
+@img seneo-6-1-fig2b.png
+*Fig. 2. B. Ventilación mandatoria intermitente sincronizada con presión soporte (SIMV con PS).*
+
+@p 583
+**Asistida/controlada (A/C).** El respirador asiste todas las respiraciones espontáneas según los parámetros prefijados; en caso de apnea, el respirador garantiza la frecuencia respiratoria fijada enviando inspiraciones mandatorias.
+
+- Ventajas: VT más homogéneo entre respiraciones.
+- Desventajas: riesgo de hiperventilación (autociclado), tiempos inspiratorios fijos con necesidad de programación, riesgo de barotrauma en pulmón inmaduro.
+- Indicaciones: situaciones en que se quiera mantener un tiempo inspiratorio largo y constante; no recomendable como protección del pulmón inmaduro.
+@img seneo-6-1-fig3.png
+*Fig. 3. Asistida/controlada (A/C).*
+
+**Ventilación en presión de soporte (PSV).** El respirador asiste todas las respiraciones espontáneas según los parámetros prefijados; a diferencia de A/C, la duración de la inspiración es ciclada por flujo (no por tiempo), de modo que la inspiración termina cuando la velocidad de flujo cae por debajo del 15-20% del flujo máximo, iniciándose en ese momento la espiración.
+
+- Ventajas: modalidad más fisiológica, con mayor sincronía.
+- Desventajas: pacientes con constante de tiempo muy baja (fase inicial del SDR del prematuro) o broncoespasmo (pico de flujo disminuido) - Solución: asociación de Garantía de Volumen (VG).
+- Indicaciones: Modalidad de mayor protección y sincronización en la insuficiencia respiratoria de la prematuridad y el SDR, excepto aquellos casos en los que el control del VM deba ser realizado por el clínico.
+@p 584
+@img seneo-6-1-fig4.png
+*Fig. 4. Ventilación en presión de soporte (PSV).*
+
+**Garantía de volumen.** Ventilación con flujo continuo, controlada-guiada por volumen y limitada por presión → el respirador compara el VT espirado en cada respiración con el VT fijado (VG), ajustando en la siguiente respiración la PIP a administrar para acercarse al mismo. La PIP máxima alcanzada por el respirador será la fijada. Se puede asociar a las tres modalidades anteriores: SIMV, A/C y PSV.
+
+- Ventajas: mayor estabilidad de la ventilación, menor exposición a VT excesivos o insuficientes, mejoría del destete respiratorio (descenso automático de la PIP al mejorar la dinámica respiratoria) y descenso en la incidencia de DBP o muerte.
+@img seneo-6-1-fig5a.png
+*Fig. 5. A. Volumen garantizado (VG).*
+
+@p 585
+@img seneo-6-1-fig5b.png
+*Fig. 5. B. Ajuste automático de la PIP para el volumen tidal programado.*
+
+En las tablas 4 y 5 se reflejan las diferencias entre las diferentes modalidades de VMC y los parámetros iniciales generalmente empleados.
+@img seneo-6-1-t4.png
+
+@img seneo-6-1-t5.png
+
+@p 586
+## 3 Ventilación de alta frecuencia oscilatoria (VAFO)
+
+Se define por el uso de volúmenes tidales (VThf) inferiores al espacio muerto anatómico (<2,7 ml/Kg) entregados a frecuencias respiratorias supra-fisiológicas (> 3 Hz = 180 ciclos/min), mediante un circuito que mantiene una presión de distensión continua sobre la vía aérea.
+
+### Indicaciones (tabla 6)
+@img seneo-6-1-t6.png
+
+### Estrategias de oxigenación y ventilación (tabla 7)
+@img seneo-6-1-t7.png
+
+### Parámetros iniciales (tabla 8)
+
+**Reclutamiento pulmonar**
+- PMA inicial: 1-2 cm H~2~O > PMA en VMC (la misma en caso de escape aéreo).
+- ↑ PMA 1 cm H~2~O cada 3-5 min (o más tiempo si no se ha estabilizado la SatO~2~)
+@p 587
+hasta salto oximétrico o descenso de FiO~2~ un 20-25% de la FiO~2~ inicial (presión crítica de apertura pulmonar).
+
+- ↓ PMA 1 cm H~2~O cada 10-15 min hasta descenso de SatO~2~ < 90% (presión crítica de cierre).
+- ↑ PMA de nuevo a la presión de apertura hasta mejoría de oxigenación; posteriormente fijar la PMA 2 puntos por encima de la presión de cierre (PMA óptima).
+
+@img seneo-6-1-fig6.png
+*Fig. 6. Curva presión volumen. Reclutamiento pulmonar en ventilación de alta frecuencia oscilatoria.*
+
+@img seneo-6-1-t8a.png
+@p 588
+@img seneo-6-1-t8b.png
+
+Es recomendable realizar una radiografía de tórax tras completar la maniobra de reclutamiento pulmonar, o previamente si no se objetiva mejoría de la oxigenación a pesar de aumento de PMA, y una gasometría a los 20-30 minutos, tras estabilización de la ventilación.
+
+### Causas más frecuentes de fracaso de VAFO (tabla 9)
+@img seneo-6-1-t9.png
+
+@caja
+**SE RECOMIENDA**
+- En neonatos con adecuado esfuerzo respiratorio priorizar y optimizar el soporte respiratorio no invasivo.
+- En caso de insuficiencia respiratoria refractaria a la optimización de la VMNI, iniciar ventilación mecánica invasiva.
+- Con el objetivo de minimizar el daño pulmonar asociado a la ventilación mecánica utilizar estrategias ventilatorias protectoras basadas en la disminución de la duración y magnitud de la misma, mediante el uso de modalidades sincronizadas, con volúmenes tidales controlados, presiones inspiratorias pico limitadas y un adecuado ajuste de la PEEP para mantener la CRF; así como valorar el tratamiento de rescate precoz con VAFO.
+@p 589
+@fin
+@caja
+**NO SE RECOMIENDA**
+- La intubación electiva del recién nacido prematuro extremo, priorizando la optimización del soporte no invasivo.
+- El uso de frecuencias respiratorias elevadas que impidan la sincronización del paciente.
+- La relajación muscular sistemática en pacientes conectados a ventilación mecánica invasiva.
+- No medir/valorar los volúmenes y mecánica pulmonar en VMI.
+@fin
+@bib
+1. Ramaswamy W, More K, Roehr CC, et al. Efficacy of noninvasive respiratory support modes for primary respiratory support in preterm neonates with respiratory distress syndrome: Systematic review and network meta-analysis. Pediatr Pulmonol. 2020;| 55:2940-63.
+2. Martin R; Management of respiratory distress syndrome in preterm infants. UpToDate 2022. (Actualizado 13 abril, 2022; Consultado en agosto 2022). Disponible en https://www.uptodate.com.
+3. Klingenberg C, Wheeler KI, McCallion N, et al. Volume-targeted versus pressure-limited ventilation in neonates. Cochrane Database Syst Rev. 2017;10:CD003666.
+4. Bresesti I, Agosti M, Lakshminrusimha S, Lista G. Synchronized invasive mechanical ventilation. Clin Perinatol. 2021; 48:813-24.
+5. Cools F, Offringa M, Askie LM. Elective high frequency oscillatory ventilation versus conventional ventilation for acute pulmonary dysfunction in preterm infants. Cochrane Database Syst Rev 2015;(3):CD00104.
+6. Sánchez-Luna M, González-Pacheco N, Santos-González M, et al. High-frequency ventilation. Clin Perinatol 2021;48:855-68.
