@@ -76,6 +76,9 @@ Por eso se ha estandarizado la **CPAP nasal precoz** en el distrés y **profilá
 
 **VAF nasal y NAVA no invasiva:** en estudio. La VAF nasal no se recomienda fuera de estudios.
 
+@img rs-g09.jpg
+*Curvas de presión de las modalidades con dos niveles de presión frente a la CPAP: IPPV-BIPAP y SIMV-BIPAP (ciclos mandatorios; en SIMV con respiración espontánea entre ellos), BIPAP «genuina» (respiración espontánea sobre ambos niveles de presión) y CPAP (respiración espontánea sobre un nivel constante), desde la ventilación mecánica hasta la respiración espontánea (Curso de Asistencia Respiratoria Neonatal, tema 10).*
+
 *Tabla 12.3-2 y Curso tema 10. Parámetros orientativos.*
 @ancha
 | | CPAP | NIPPV / SNIPPV | BiPAP / DuoPAP (curso) |
