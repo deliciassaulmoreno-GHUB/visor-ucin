@@ -1,0 +1,51 @@
+@f TEMAS/CF/2
+*Fuentes: Cardiología pediátrica y cardiopatías congénitas del niño y del adolescente, Vol. I, cap. 3; Experto en Neonatología, temas «Generalidades del sistema cardiovascular» y «Fisiopatología del shock neonatal».*
+
+## Cambios al nacer
+
+La transición ocurre fundamentalmente en las **primeras 72 h** (Experto). Cambios principales:
+1. **Descenso de las resistencias vasculares pulmonares (RVP).**
+2. **Cierre del foramen oval.**
+3. **Cierre del ductus arterioso.**
+4. **Cierre del ductus venoso.**
+5. **Desaparición de la circulación placentaria:** al pinzar el cordón **suben las resistencias sistémicas (RVS)**.
+
+**Descenso de las RVP**
+- El flujo pulmonar se multiplica por 10.
+- Dos componentes necesarios (Vol I):
+  - **Expansión pulmonar y prostaglandinas** (PGI~2~, PGD~2~), independiente de la oxigenación: aumento modesto del flujo.
+  - **Oxigenación y óxido nítrico endotelial**: vasodilatación máxima.
+- Además cae la producción de vasoconstrictores (endotelina-1, tromboxano).
+- Después del periodo inmediato influyen sobre todo el **oxígeno y el pH** (hipoxia y acidosis producen vasoconstricción pulmonar), el óxido nítrico basal y la distensión alveolar.
+- Las RVP siguen bajando lentamente **2-3 meses**; las RVS aumentan gradualmente en los primeros años.
+
+**Cierre del foramen oval:** el aumento del retorno venoso pulmonar eleva la presión de la aurícula izquierda por encima de la derecha y cierra la valva del foramen.
+
+**Cierre del ductus arterioso**
+- **Funcional** en las primeras horas (habitualmente **< 12 h en el RN a término**), por el aumento de oxígeno y la caída de prostaglandinas: al desaparecer la placenta y aumentar el flujo pulmonar se eliminan las prostaglandinas circulantes. Contribuyen acetilcolina, bradicinina y catecolaminas.
+- **Anatómico** a las **2-3 semanas** (fibrosis → ligamento arterioso).
+- En el **prematuro extremo** puede demorarse **meses** (Experto).
+
+**Ductus venoso:** cierre funcional probablemente pasivo, quizá ayudado por cambios hormonales; el flujo portal por él aumenta transitoriamente al nacer.
+
+## Cambios en la función cardiaca
+
+- El **consumo de O~2~ se triplica** al nacer (termorregulación, respiración, alimentación) y el **gasto cardiaco aumenta hasta 3 veces**.
+- El mayor retorno venoso y la presión de eyección del VI cambian la posición del septo, aumentan la distensibilidad y la precarga del VI; con la subida de la FC aumenta el gasto.
+- El miocardio neonatal es inmaduro y ya trabaja con **contractilidad alta en reposo**: **responde poco a los inotrópicos** (mejor los mecanismos que aumentan el calcio). **El gasto depende mucho de la frecuencia cardiaca** (Experto).
+
+## Transición en el prematuro y factores que la alteran
+
+- El aumento brusco de las RVS al pinzar el cordón supone una **poscarga elevada para un miocardio inmaduro**. El VD debe duplicar su gasto.
+- El **shunt izquierda-derecha por ductus y foramen oval** devuelve sangre al pulmón: sobrecarga pulmonar y menor flujo sistémico (el gasto del VD sobrestima la perfusión; el flujo de la vena cava superior es más fiable, pero es una herramienta sobre todo de investigación).
+- En las primeras horas el **tono vascular suele ser bajo**: la PA puede ser baja con flujo normal o alto.
+- Alteran la transición: mala expansión pulmonar, **pinzamiento inadecuado del cordón**, prematuridad, distrés respiratorio, alteraciones metabólicas, reanimación, condiciones maternas, infección, hipotermia.
+
+## Patología de una transición fallida
+
+| Cambio esperado | Patología si falla |
+| Cierre del ductus arterioso | Ductus arterioso persistente |
+| Descenso de las presiones pulmonares | **Hipertensión pulmonar persistente del RN** (persisten altas en el 0,2 %, según el Experto) |
+| Cierre del foramen oval | Defecto septal tipo ostium secundum |
+
+! La hipertensión pulmonar persistente del RN se desarrolla en «Otras patologías → Hipertensión pulmonar» y en el protocolo SENEO 3.24; el ductus, en «Cardiopatías congénitas → DAP».

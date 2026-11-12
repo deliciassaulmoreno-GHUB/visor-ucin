@@ -1,0 +1,40 @@
+@f TEMAS/SN/2
+*Fuente: Experto en Neonatología, tema «Fases del shock neonatal y situaciones clínicas específicas en el periodo neonatal».*
+
+## Fases
+
+| Fase | Mecanismo | Clínica |
+| **Compensado** | Mecanismos neuroendocrinos y autonómicos mantienen la perfusión de cerebro, corazón y suprarrenales (vasodilatación) a costa del resto (vasoconstricción) | **PA normal**, taquicardia; **diuresis disminuida**, frialdad distal, relleno capilar lento |
+| **Descompensado** | Se agotan los mecanismos compensadores | **Hipotensión**, caída del gasto, hipoperfusión también de órganos vitales, **acidosis láctica** |
+| **Irreversible** | Fallo multiorgánico | Daño permanente; las intervenciones ya no lo revierten |
+
+## Causas
+
+- **Hipovolemia** absoluta (pérdida de sangre), relativa (vasodilatación) o ambas: baja la precarga y, si es absoluta, también el transporte de O~2~.
+  - Infravalorada hasta hace poco: los estudios de **pinzamiento tardío del cordón** han mostrado su beneficio.
+  - Causas evidentes (sangrado placentario o umbilical) y otras menos (**compresión del cordón**: se ocluye la vena umbilical mientras las arterias siguen bombeando hacia la placenta).
+  - **Fuga capilar** en el shock séptico.
+  - Relativa en el SIRS (asfixia, sepsis, enterocolitis necrotizante).
+- **Disfunción miocárdica:** cardiopatías estructurales; asfixia; infección (también miocarditis vírica); transición incompleta.
+- **Fallo de la vasorregulación periférica:** muy lábil en el prematuro extremo; en el **SIRS** (asfixia, sepsis, ECN) puede haber **hipotensión con gasto alto** e hipoperfusión.
+
+**Tipos** (resumen del tema): **hipovolémico** (asfixia perinatal, desprendimiento de placenta, prolapso de cordón, deshidratación), **distributivo** (sepsis), **cardiogénico** (cardiopatías congénitas) y **disociativo** (anemia grave).
+
+## Situaciones específicas del periodo neonatal
+
+- **Adaptación difícil del prematuro extremo:** poscarga que sube bruscamente al pinzar el cordón sobre un corazón inmaduro, y shunts que desvían sangre al pulmón. Inestabilidad **cambiante**: al principio suele ser **vasoconstrictiva** y tiende a estabilizarse en los **3 primeros días**. El VD debe duplicar su gasto.
+- **Baja precarga y pinzamiento precoz:** el **pinzamiento tardío**, incluso en < 32 semanas, mejora la precarga sin los riesgos del ordeño (*milking*).
+- **Disfunción miocárdica y poscarga elevada:** aumento brusco de la poscarga del VI al eliminar la placenta, perjudicial para el miocardio inmaduro.
+- **Ductus arterioso persistente:** el shunt izquierda-derecha obliga a un sobreesfuerzo para mantener la perfusión periférica y cerebral.
+
+## Diagnóstico del compromiso circulatorio
+
+Ningún parámetro aislado basta: **evaluación integrada**.
+- **Frecuencia cardiaca:** su aumento es sensible pero inespecífico.
+- **Presión arterial:** la invasiva es más exacta que la oscilométrica. Valores normales poco establecidos en los primeros días y en prematuros extremos. **No basta la PAM: valorar también la PA diastólica y la presión de pulso.** En general, **tratar cuando la PAM es inferior a la estimada para la edad gestacional** se asocia a mejor pronóstico vital y neurológico.
+- **Pulsioximetría:** SatO~2~ < 80 % corresponde a PaO~2~ < 40 mmHg; valores próximos al 100 % pueden indicar PaO~2~ > 100 mmHg (curva de la hemoglobina fetal). Índice de perfusión y amplitud de la onda.
+- **Relleno capilar:** buen indicador en niños y adultos, **pero no en las primeras horas de vida ni en prematuros**.
+- **Diuresis:** tras las primeras 24 h, su descenso puede ser **signo precoz de shock compensado**.
+- **Gasometría y lactato:** indican hipoperfusión con cierto retraso; son más útiles **seriados** (tendencia).
+- **NIRS:** diagnóstico precoz de hipoperfusión y titulación del tratamiento.
+- **Ecocardiografía:** flujos derecho e izquierdo, shunts, contractilidad y anomalías estructurales; limitada por ser discontinua y operador-dependiente.

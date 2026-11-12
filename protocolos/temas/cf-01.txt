@@ -1,0 +1,24 @@
+@f TEMAS/CF/1
+*Fuentes: Cardiología pediátrica y cardiopatías congénitas del niño y del adolescente, Vol. I, cap. 3 (Circulación fetal y posnatal); Experto en Neonatología, tema «Generalidades del sistema cardiovascular: fisiología y circulación prenatal».*
+
+## Conceptos clave
+
+- El corazón empieza a latir a finales de la 3.ª semana (3.ª-4.ª según el Experto); tras la tabicación funciona como **dos bombas en paralelo** (derecha e izquierda).
+- La circulación fetal está diseñada para que **la sangre más oxigenada llegue al cerebro y al miocardio**, con el pulmón sin función respiratoria. Por eso:
+  - **El ventrículo predominante es el derecho** (bombea contra resistencias pulmonares altas y está más desarrollado).
+  - Existen **cortocircuitos derecha-izquierda** que evitan la circulación pulmonar.
+- Puntos clave: **foramen oval**, **ductus arterioso**, **ductus venoso (de Arancio)**, **resistencias pulmonares altas** y **placenta**.
+
+## Recorrido de la sangre
+
+1. **Vena umbilical** (la sangre más oxigenada, PO~2~ 35-40 mmHg): la mitad va al hígado y la otra mitad, por el **ductus venoso**, a la vena cava inferior.
+  - El ductus venoso se estrecha con estímulos adrenérgicos y aumento de presión en la vena umbilical, y se dilata con prostaglandinas, óxido nítrico e hipoxia.
+2. **Flujos preferenciales:** la sangre del ductus venoso circula por la zona posterolateral izquierda de la cava inferior sin mezclarse apenas; en la aurícula derecha la **crista dividens** la dirige hacia el tabique y el **foramen oval** → aurícula izquierda (las prostaglandinas fetales lo mantienen abierto).
+3. **Aurícula izquierda → VI → aorta ascendente:** coronarias, cabeza, cuello y miembros superiores (cerebro y corazón bien oxigenados). Solo un **10 % del gasto del VI** pasa el **istmo aórtico** hacia la aorta descendente.
+4. El resto de la sangre de la AD se mezcla con la de la cava superior, cava inferior y seno coronario → **VD → arteria pulmonar**:
+  - Solo una pequeña parte va a los pulmones (**10 % del gasto del VD**, Vol I).
+  - La mayor parte pasa por el **ductus arterioso** a la aorta descendente y, por las arterias umbilicales, a la placenta (Vol I: **65 %** hacia la placenta).
+  - El ductus permanece abierto por relajación de su músculo, sensible a la saturación de O~2~ y a las prostaglandinas (PGE~2~, PGI~2~).
+5. **Resistencias pulmonares altas** intraútero: escasa prostaciclina pulmonar, ambiente hipóxico, α-agonistas, tromboxanos y leucotrienos. En el tercer trimestre bajan ligeramente.
+
+! Las proporciones difieren entre fuentes: el Experto da un 34 % del retorno venoso por el foramen oval, un 7 % al pulmón y un 59 % por el ductus; el Vol I, un 10 % del gasto del VD al pulmón y un 65 % a la placenta por el ductus.

@@ -1,0 +1,40 @@
+@f TEMAS/SN/1
+*Fuente: Experto en Neonatología, temas «El shock neonatal» y «Fisiopatología del shock neonatal».*
+
+## Definición
+
+- **Fallo energético por incapacidad de aportar suficiente oxígeno a los tejidos para cubrir su demanda.** Proceso de extrema gravedad, con consecuencias a corto y largo plazo; el pronóstico depende de la duración, la gravedad y el daño orgánico, sobre todo de la **isquemia-reperfusión cerebral**.
+- Desencadenantes: intercambio gaseoso inadecuado, hipovolemia, fracaso cardiovascular o combinación.
+- Los mecanismos compensadores del RN son **muy limitados** y algunos pueden acelerar el proceso. **Reconocimiento precoz y tratamiento específico de cada etapa y causa.**
+
+## Aporte y consumo de oxígeno
+
+- **Aporte (DO~2~) = gasto cardiaco × contenido arterial de O~2~** (depende de la hemoglobina, la SatO~2~ y, en menor medida, la PaO~2~). **Gasto = FC × volumen sistólico.**
+- Normalmente la extracción tisular es del **25 %** (saturación venosa mixta aprox. 75 % de la arterial). Si cae el aporte, aumenta la extracción (baja la saturación venosa); superado el límite, metabolismo **anaerobio** (2 ATP en lugar de 38 por mol de glucosa) y **ácido láctico**.
+- La SvO~2~ estima el aporte si la Hb y la SaO~2~ son constantes; los catéteres en arteria pulmonar se usan excepcionalmente en neonatos.
+
+## Determinantes del gasto
+
+- **Precarga:** baja por pérdida absoluta (hemorragia, deshidratación) o hipovolemia relativa (vasodilatación). La **ventilación con presión positiva reduce el retorno venoso** (menos relevante que en otras edades).
+- **Contractilidad:** depende de la integridad miocárdica, el llenado y la madurez; la disminuyen la hipovolemia, las arritmias, la **prematuridad extrema**, la hipoxia y la infección. **En el RN apenas puede aumentar: el gasto depende mucho de la FC.**
+- **Poscarga (≈ RVS):** si es demasiado alta cae el gasto. Sube bruscamente al pinzar el cordón y con hipovolemia (vasoconstricción refleja), hipotermia y vasopresores.
+
+## Transición y presión arterial
+
+- La transición aumenta la poscarga (RVS) y la precarga (inversión del shunt ductal); en el RN sano el gasto global aumenta. En el prematuro extremo el ductus y el foramen pueden tardar en cerrarse y el **shunt izquierda-derecha** detrae flujo sistémico (ver «Circulación fetal y postnatal»).
+- **PA = flujo sistémico × RVS**, pero en la transición o con circulación fetal persistente parte del gasto no va a la circulación sistémica, y el tono vascular inicial suele ser bajo: **PA baja con flujo normal o alto es posible**.
+- **Valores normales de PA mal definidos** por edad gestacional y días de vida (muchos tomados bajo sedación o anestesia). En el RN de muy bajo peso se acepta empíricamente **PAM ≈ edad gestacional en semanas**. Nuevas referencias no invasivas (bloodpressure-neonate.com): **subida abrupta de la PA en las primeras 24 h en los más prematuros**.
+- EPIPAGE-2: en < 29 semanas, **tratar la hipotensión detectada** se asoció a más supervivencia sin morbilidad neurológica grave que la actitud conservadora.
+
+## Flujo a órganos vitales
+
+- **Redistribución:** vasodilatación de cerebro y miocardio y vasoconstricción del resto; menos eficaz en prematuros muy inmaduros.
+- **Autorregulación cerebral** presente pero con **margen estrecho** en el prematuro extremo y el RN grave: el límite inferior normal de PA está cerca del necesario para perfundir y el superior cerca del riesgo de sangrado.
+- Con NIRS, en los prematuros con buena evolución **no hay relación lineal entre PAM y saturación cerebral**; cuando la hay (flujo cerebral pasivo, fallo de autorregulación), peor pronóstico vital y neurológico.
+- Influyen también acidosis, infección, hipoglucemia y, sobre todo, la **PaCO~2~: +1 mmHg cambia la perfusión cerebral un 4 %** (más que 1 mmHg de PAM).
+- En las primeras horas, si la autorregulación no basta, el prematuro aumenta la extracción de O~2~.
+
+## NIRS
+
+- Saturación regional de O~2~ (rSO~2~/StO~2~) por las distintas absorciones de la hemoglobina oxigenada y desoxigenada («pulsioximetría sin pulso»); refleja sobre todo sangre venosa: **equilibrio aporte-consumo** del tejido.
+- Útil en territorios críticos (cerebro, riñón); en músculo periférico alerta precozmente del deterioro. Se altera por edema y temperatura local.

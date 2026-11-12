@@ -1,0 +1,67 @@
+@f TEMAS/SN/3
+*Fuente: Experto en Neonatología, tema «Tratamiento del shock neonatal».*
+
+! Este tema del curso no da dosis. Las dosis y diluciones de los fármacos están en el menú Fármacos (dopamina, dobutamina, adrenalina, noradrenalina, milrinona, levosimendán, hidrocortisona) y el algoritmo del servicio en Protocolos → Hemodinámico → 28. Protocolo de shock neonatal.
+
+## Principios
+
+- Tratar según la **causa y la fase**; el manejo adecuado de los **líquidos** es la base del shock hipovolémico y séptico.
+- Monitorizar al menos la **presión arterial**. Garantizar la **vía aérea y la asistencia respiratoria**.
+- Casi todos los shocks asocian **disfunción cardiaca**: el soporte inotrópico es muy útil.
+- Vigilar el daño neurológico, renal, hepático y metabólico.
+
+## Expansión de volumen
+
+- Es la intervención más frecuente, pero **menos eficaz que la dopamina** cuando el volumen sistólico es normal o alto y las RVS bajas.
+- El pinzamiento tardío del cordón reduce las necesidades en el periodo transicional.
+- Solo con **hipovolemia constatada**, con prudencia: infusión lenta, **en general no más de 20 ml/kg en alícuotas de 10 ml/kg**.
+- **Suero salino fisiológico** de elección (las soluciones tamponadas podrían ser seguras). Si hay sangrado, hemoderivados.
+
+## Catecolaminas
+
+- **Dopamina:** la más utilizada. Efecto dosis-dependiente (receptores dopaminérgicos, α, β y serotoninérgicos): mejora la contractilidad y aumenta las RVS; vasodilatación renal, mesentérica y coronaria. En el neonato crítico y el prematuro los receptores pueden estar disminuidos: **titular individualmente**. A dosis altas, la acción α puede producir **vasoconstricción indeseable y peor perfusión aun con PA normal**: entonces añadir dobutamina o milrinona con dosis menores de dopamina.
+- **Dobutamina:** inotrópico relativamente cardioselectivo, poco efecto sobre la FC y sin efecto presor significativo; vasodilatación mesentérica. Indicada en **disfunción miocárdica con RVS altas**.
+- **Adrenalina:** a dosis bajas en ≤ 32 semanas hipotensos, resultados similares a la dopamina a dosis medias-bajas (PA y flujo cerebral). En shock séptico (salvo < 30 semanas), sin diferencias frente a dobutamina en reversión ni supervivencia a 28 días. **Eleva la glucemia y el lactato** (tenerlo en cuenta si se usa el lactato como marcador).
+- **Noradrenalina:** de primera elección en el shock séptico vasodilatado en niños y adultos; en el neonato faltan estudios para su uso sistemático, aunque series de casos en prematuros con shock séptico muestran mejoría de PAM, diuresis y necesidades de O~2~.
+
+## Inodilatadores
+
+- **Milrinona** (inhibidor de la fosfodiesterasa III): eficaz tras cirugía cardiaca neonatal; en prematuros su efecto está por definir. **Hipotensión y trombopenia** limitan su uso rutinario. Con dopamina a dosis bajas mejora el inotropismo sin aumentar RVS ni RVP (útil en **HTP**).
+- **Levosimendán** (sensibilizador del calcio, vasodilatador, inhibidor de la fosfodiesterasa III): mejora la contractilidad biventricular; prometedor en HTP y en el **shock cardiogénico del prematuro** (sin efectos adversos sobre la PA ni arritmias en una serie de 2023).
+
+## Hidrocortisona
+
+- **Eficaz a dosis bajas** para aumentar la PA y reducir los vasopresores en el prematuro: sube la PA en **2 h** y reduce los fármacos en unas 8-12 h.
+- Base: **insuficiencia suprarrenal relativa** en el muy bajo peso y en el RN a término grave (más en la asfixia).
+- **No de primera línea** por efectos adversos: **perforación intestinal si se asocia a indometacina**; posibles infección y efectos sobre el neurodesarrollo (los datos de seguimiento con dosis bajas son tranquilizadores).
+- **Rescate en la hipotensión refractaria a catecolaminas.**
+
+## Efectos de los fármacos
+
+*Tabla 1. Receptores.*
+@ancha
+| Receptor | Ubicación | Efecto clínico |
+| α1 | Miocardio, músculo liso vascular | ↑ contractilidad y ↑ resistencia vascular |
+| α2 | Neuronas presinápticas, músculo liso vascular | ↓ actividad simpática, ↓ resistencia vascular |
+| β1 | Miocardio | ↑ contractilidad y ↑ FC |
+| β2 | Vasos, músculo bronquial | ↓ resistencia vascular, broncodilatación |
+| DA1 | Vasos esplácnicos | Vasodilatación esplácnica, ↑ flujo |
+| DA2 | Sistema nervioso central | Inhibición de noradrenalina; efectos sobre el neurodesarrollo |
+| V1 | Músculo liso vascular | ↑ resistencia vascular |
+| V2 | Músculo liso vascular | ↓ resistencia vascular |
+
+*Tabla 2. Efecto predominante.*
+@ancha
+| | Dopamina | Dobutamina | Adrenalina | Noradrenalina | Milrinona | Vasopresina |
+| FC | ++ | ++ | +++ | +++ | + | 0/+ |
+| Contractilidad | ++ | +++ | +++ | ++ | +++ | 0/+ |
+| Gasto cardiaco | ++ | ++ | ++ | +/0 | ++ | 0/+ |
+| RVS | +++ | −/+ | +++ | ++++ | − | +++ |
+| RVP | ++/− | −/+ | −/+ | −/+ | − | − |
+| PA | +++ | +/− | +++ | ++++ | − | +++ |
+| Flujo VCS | + | ++ | No | No | 0 | No |
+| Perfusión tisular | + | + | + | + | + | +/− |
+| NIRS: rCSO~2~ | + | + | ++ | + | No | No |
+| NIRS: FOE | − | − | − | − | No | No |
+
+! VCS: vena cava superior; rCSO~2~: saturación regional cerebral; FOE: fracción de extracción de O~2~. En la tabla 1 del curso, el efecto α1 «contracción de la musculatura lisa» figura también para β1; aquí se recoge el efecto clínico.
