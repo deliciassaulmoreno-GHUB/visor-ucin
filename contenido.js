@@ -222,10 +222,10 @@ window.CALC_ARBOL=[
  {t:"Sedoanalgesia estándar",id:"c-sedo"},
  {t:"Distancia vías",hijos:["c-cau","c-cvu"]},
  {t:"Edad postmenstrual",id:"c-epm"},
- {t:"Alarmas de monitorización",id:"c-alarm"},
  {t:"Fluidoterapia",hijos:["c-flu","c-si","c-osm"]},
  {t:"Hidroelectrolitos",hijos:[{t:"Hipoglucemia",hijos:["c-gel","c-glucagon","c-bolo","c-glu"]},{t:"Otros déficits",hijos:["c-mg","c-nacl","c-bicb","c-kcl","c-ca"]}]},
  {t:"Nutricional",hijos:["c-fort50","c-fort","c-nut"]},
+ {t:"Alarmas de monitorización",id:"c-alarm"},
  {t:"Otras calculadoras",hijos:["c-surf","c-ibu","c-ch","c-nirs","c-dexa","c-vitk","c-gir"]}
 ];
 window.ESCALAS=[
