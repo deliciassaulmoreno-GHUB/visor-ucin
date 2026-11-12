@@ -30,6 +30,10 @@
   - Menos resistencia de la vía aérea alta.
   - **Cierta presión positiva no medida e impredecible**, variable con las fugas, el tamaño de la cánula y la boca abierta o cerrada.
   - A diferencia de la CPAP, da un flujo fijo con presión variable.
+
+@img rs-g10.jpg
+*Gafas de bajo flujo frente a alto flujo. Con bajo flujo, el pico de flujo inspiratorio supera al flujo suministrado y se inspira además aire ambiente (21 %): la FiO₂ inspirada es menor que la suministrada. Con alto flujo, el flujo suministrado supera al pico inspiratorio: la FiO₂ inspirada es igual a la suministrada (Curso de Asistencia Respiratoria Neonatal, tema 10).*
+
 - **La cánula no debe ocupar más de la mitad de la narina**: las fugas son necesarias por seguridad.
 - **Eficacia:** limitada si la distensibilidad es baja; mejor cuando el trabajo respiratorio se debe a resistencia (bronquiolitis). **No hay evidencia suficiente como primera opción en prematuros**, sobre todo en < 28 semanas (Experto).
 - **Cochrane 2023** (soporte primario, prematuros ≥ 28 semanas, frente a CPAP):
