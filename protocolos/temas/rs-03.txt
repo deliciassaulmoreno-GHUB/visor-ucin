@@ -41,6 +41,44 @@
 
 **Recomendación del Experto:** **PSV + VG en el SDR**. Usar **SIMV + VG** cuando el clínico deba controlar el volumen minuto (corazón univentricular, patología neurológica).
 
+### Curvas de las modalidades
+
+@img rs-c01.jpg
+*Ventilación controlada: todas las respiraciones las inicia el respirador. Curvas de presión, volumen y flujo frente al tiempo (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c03.jpg
+*Asistida/controlada (A/C, SIPPV, PTV): el paciente dispara cada respiración (deflexión negativa de presión) y todas se asisten; si hay apnea, el respirador da la respiración de control (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c02.jpg
+*SIMV: respiraciones mandatorias sincronizadas con respiraciones espontáneas no asistidas entre ellas, de volumen menor (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c06.jpg
+*SIMV con presión de soporte (PS) en las respiraciones espontáneas (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c04.jpg
+*PSV: fases del ciclo (inicio de la inspiración, presurización, final de la inspiración y espiración); la inspiración termina cuando el flujo cae a un porcentaje del pico (en la figura, 15 %) (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c05.jpg
+*PSV: criterio de terminación de la inspiración por flujo (25 %, 15 % o 5 % del pico) dentro del Ti fijado como límite (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c07.jpg
+*Volumen garantizado: el respirador regula la presión inspiratoria, por debajo del límite fijado, hasta alcanzar el Vt programado; puede tardar varias respiraciones (Babylog 8000plus; Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c08.jpg
+*Ventilación con objetivo de volumen: la PIP se servocontrola para alcanzar el Vt fijado, con flujo desacelerante; el Vt entregado depende de la PIP, la distensibilidad y el esfuerzo del paciente (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c09.jpg
+*Ventilación por volumen control: flujo constante y presión que sube de forma pasiva según la distensibilidad; el Vt fijado se entrega al circuito (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c10.jpg
+*Ventilación mandatoria minuto (MMV): las respiraciones obligatorias disminuyen a medida que aumenta el volumen minuto espontáneo (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c11.jpg
+*APRV: fases de CPAP alta prolongadas con breves liberaciones de presión; el paciente respira espontáneamente en ambas (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
+@img rs-c12.jpg
+*Ventilación asistida proporcional (PAV): la presión entregada aumenta o disminuye con el esfuerzo del paciente (Curso de Asistencia Respiratoria Neonatal, tema 4).*
+
 ## Parámetros
 
 - **Vt 4-6 ml/kg.** Más en DBP por más espacio muerto (7-8 ml/kg; curso: 6-12).

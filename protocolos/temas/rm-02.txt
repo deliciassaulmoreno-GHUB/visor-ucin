@@ -17,6 +17,21 @@
   - Colocarlo **más alto que la entrada de las tubuladuras** en la incubadora.
   - Cambiarlo si da alarma.
 
+@img rm-c01.jpg
+*Curvas de volumen/tiempo: meseta en modalidad de volumen (volumen siempre igual) frente a curva en pico en modalidad de presión (volumen variable) (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c02.jpg
+*Curvas de presión/tiempo en modalidad de volumen y de presión (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c03.jpg
+*Curvas de flujo/tiempo: flujo constante («cuadrado») en volumen frente a flujo decelerante en presión (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c04.jpg
+*Bucle flujo/volumen en modalidad de volumen y de presión (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c05.jpg
+*Bucle volumen/presión en modalidad de volumen y de presión (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
 ## Distensibilidad (complianza)
 
 - **C = volumen / presión** (ml/cmH~2~O):
@@ -36,6 +51,15 @@
   - **C20/C < 0,8**: sobredistensión. El bucle en «pico de loro» indica sobredistensión.
   - Si la distensibilidad baja: en modalidad de volumen sube la presión; en modalidad de presión baja el volumen.
 
+@img rm-c08.jpg
+*Variación de la distensibilidad en el bucle volumen/presión: con volumen control, menor distensibilidad implica más presión; con presión control, menos volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c09.jpg
+*Bucle volumen/presión: puntos de inflexión inferior y superior (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c13.jpg
+*Sobredistensión en el bucle volumen/presión (modalidad de volumen) (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
 ## Resistencia
 
 - **R = ΔP / flujo** (cmH~2~O/l/s); incluye la del tubo endotraqueal.
@@ -52,6 +76,12 @@
   - Bucle flujo-volumen: se aplana.
 - **Constante de tiempo = C × R.** El Te debe ser > 3 constantes de tiempo para vaciar el pulmón.
 
+@img rm-c06.jpg
+*Aumento de resistencias: en volumen sube el pico con la meseta sin cambios; en presión baja el flujo pico, la caída es más lenta y baja el volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c07.jpg
+*Aumento de las resistencias en el bucle flujo/volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
 ## Atrapamiento aéreo (auto-PEEP)
 
 - Parte del volumen inspirado no sale en la espiración.
@@ -60,6 +90,15 @@
   - **El flujo espiratorio no llega a cero** antes de la siguiente inspiración (curva flujo-tiempo y bucle flujo-volumen).
   - Se mide con una pausa espiratoria. PEEP total = PEEP programada + auto-PEEP.
 - **Riesgo:** volu-barotrauma, más trabajo respiratorio y repercusión hemodinámica.
+
+@img rm-c10.jpg
+*Atrapamiento en la curva flujo/tiempo (ventilación por presión): el flujo espiratorio no vuelve a cero (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c11.jpg
+*Atrapamiento en el bucle flujo/volumen: el flujo espiratorio no llega a 0 (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c12.jpg
+*Medición de la auto-PEEP con oclusión de la válvula espiratoria: PEEP total = PEEP extrínseca + auto-PEEP (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
 
 ## Otros problemas que muestran las curvas
 
@@ -71,6 +110,18 @@
 | **Atrapamiento** | Flujo-tiempo | Flujo espiratorio que no vuelve a cero |
 
 - **Agua en el circuito:** flujo turbulento visible en la curva de flujo, autociclado y obstrucción. Aumenta con la sala fría, las corrientes de aire, el mal funcionamiento del calentador y los flujos altos (VAFO).
+
+@img rm-c14.jpg
+*Secreciones bronquiales o agua en las tubuladuras en los bucles volumen/presión y flujo/volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c15.jpg
+*Fugas en las curvas de volumen/tiempo y flujo/volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c16.jpg
+*Autociclado en la curva de presión/tiempo (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c17.jpg
+*Esfuerzo inefectivo (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
 
 ## Alarmas
 
