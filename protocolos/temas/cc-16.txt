@@ -1,0 +1,122 @@
+@f TEMAS/CC/16
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 21).* La transposición de grandes arterias (TGA) es la cardiopatía cianótica más frecuente del periodo neonatal (20 %). Incidencia del 5-7 % de las cardiopatías congénitas, 1 de cada 4.000 recién nacidos vivos. Predominio masculino (3:1); recurrencia en hermanos del 0,27-2 %. A diferencia de otras cardiopatías, rara asociación con cromosomopatías o malformaciones extracardiacas. Sin cirugía, mortalidad del 45 % el primer mes y del 90 % el primer año.
+- **TGA simple:** sin defectos asociados, salvo FOP y ductus.
+- **TGA compleja:** con anomalías asociadas; la más frecuente, la CIV, seguida de la estenosis pulmonar y la coartación.
+
+*Apuntes de TGA (carpeta de cardiopatías congénitas).* Es la cardiopatía cianótica más frecuente que debuta en el periodo neonatal: 1/2.000 a 1/4.000 recién nacidos vivos, 7-9 % de todas las cardiopatías, varones 3:1. No se asocia a trisomías ni mutaciones específicas; más frecuente en hijos de madre diabética y con la edad materna. Defecto de rotación y septación del tronco arterioso entre las semanas 4 y 5.
+
+! Las fuentes difieren en la incidencia: 5-7 % de las cardiopatías y 1/4.000 (Cuidados críticos) frente a 7-9 % y 1/2.000-1/4.000 (apuntes).
+
+**Levo-transposición (L-TGA, congénitamente corregida, doble discordancia) (Cuidados críticos).** 0,05 % de las cardiopatías; prevalencia 0,03/1.000 nacidos vivos. Situs inversus en el 5 % y dextrocardia hasta en el 25 %.
+
+# Fisiopatología y variantes
+
+@img cc-16-tga.svg
+
+## D-TGA
+
+**Anatomía (Cuidados críticos).** Aurículas y ventrículos normorrelacionados; discordancia ventrículo-arterial: la aorta sale del VD y la pulmonar del VI. En el 80 % la aorta es cefálica, anterior y a la derecha de la válvula pulmonar (situs solitus, D-loop, D-TGA); en el 20 %, otras relaciones. Obstrucción fija del tracto de salida del VI (estenosis subpulmonar) hasta en el 5 %.
+- **CIV** en el 30-40 % (muscular, perimembranosa o subaórtica). Si es subpulmonar, puede confundirse con una doble salida de VD tipo **Taussig-Bing** (aorta anterior y pulmonar posterior acabalgada sobre la CIV); la estenosis subaórtica con coartación orienta a Taussig-Bing. CIV con obstrucción del tracto de salida del VI en hasta el 10 % de las D-TGA.
+- Menos frecuentes: coartación, interrupción del arco, atresia pulmonar. Los defectos del septo auricular no son tan frecuentes.
+
+*Apuntes de TGA.* TGA simple 70-75 %. TGA compleja: CIV 30 %; obstrucción dinámica o fija del tracto de salida del VI 5-15 %; rara vez coartación. TGA con doble salida de VD y vasos lado a lado: anomalía de Taussig-Bing.
+
+**Anatomía coronaria (Cuidados críticos)** (vital para el *switch*). Los senos se nombran desde el seno no coronario (el que mira al tronco pulmonar): a mano izquierda, seno 2; a mano derecha, seno 1 (Leiden). Variantes más comunes (80 %):
+- Seno 2: coronaria derecha; seno 1: coronaria izquierda y circunfleja.
+- Seno 2: coronaria derecha y circunfleja; seno 1: coronaria izquierda.
+- Otras: coronaria intramural (recorre la pared aórtica tras la comisura) o coronaria única (3-10 %).
+
+**Circulación fetal (Cuidados críticos).** Crecimiento intraútero normal. Al cerebro llega sangre de la circulación sistémica fetal (saturación aproximada del 35-40 %) y no la de la vena umbilical (65-75 %), que va por el foramen oval a la AI y al pulmón; esto podría contribuir a las lesiones neurológicas (menor volumen y grosor de la sustancia gris). El pulmón recibe sangre más oxigenada: bajan las resistencias, aumenta el flujo pulmonar y la presión en la AI, con cierre o restricción del foramen oval y remodelado vascular que dificulta la transición. Es preferible que nazcan a término (39-40 semanas).
+
+**Circulación neonatal (Cuidados críticos).** Circulaciones en paralelo: la oxigenación depende de la mezcla en el septo auricular (FOP) y en las grandes arterias (ductus).
+- **Ductus:** *shunt* bidireccional las primeras horas (AP → Ao en sístole, Ao → AP en diástole); saturación menor en las piernas que en los brazos.
+- **FOP:** tiende a cerrarse precozmente. Si no es restrictivo, *shunt* bidireccional (AD → AI en la sístole auricular, AI → AD en el llenado rápido; derecha-izquierda en inspiración e izquierda-derecha en espiración). FO restrictivo o flujo diastólico reverso en el ductus en la eco fetal: Rashkind urgente al nacer (y más mortalidad).
+- **CIV:** con RVP altas, pequeño *shunt* VD → VI; al bajar aumenta. Aun así, es indispensable una comunicación auricular para una buena mezcla. Con CIV grande, menos hipoxemia pero más riesgo de insuficiencia cardiaca. En la TGA, el *shunt* izquierda-derecha representa la sangre oxigenada que entra en la circulación sistémica.
+- Con mezcla efectiva, la SaO~2~ depende del balance Qp/Qs: SaO~2~ demasiado alta, menos gasto sistémico; baja, más gasto sistémico pero hipoxia que puede llevar a fallo cardiaco. El VD debe vencer las resistencias sistémicas.
+
+## L-TGA (congénitamente corregida)
+
+*Cuidados críticos.* Discordancia AV y ventrículo-arterial: el tubo cardiaco gira a la izquierda; el VI queda a la derecha y el VD a la izquierda; la válvula AV derecha es mitral y la izquierda tricúspide. Coronarias en imagen en espejo. La sangre venosa va AD → VI → AP y la oxigenada AI → VD → aorta (anterior y a la izquierda): fisiológicamente corregida, sin cianosis si no hay otros defectos, pero el VD sistémico puede fallar en la edad adulta (con insuficiencia tricuspídea progresiva). Lesiones asociadas hasta en el 90 %:
+- CIV (60-80 %), sobre todo conoventricular o membranosa, a menudo con la pulmonar cabalgando.
+- Obstrucción del tracto de salida pulmonar (30-50 %), sobre todo subvalvular fibromuscular.
+- Lesiones de la tricúspide (displasia; insuficiencia en el 30 %).
+- Arritmias: BAV (congénito en el 5-10 %, adquirido 2 % al año); taquiarritmias en el 12-38 % (reentrada por vía accesoria).
+
+# Clínica
+
+**D-TGA (Cuidados críticos).** Según la mezcla y las anomalías asociadas.
+- **Septo íntegro:** presentación aguda y grave en las primeras horas: cianosis central con hipoxemia. HTP grave en el 1-3 % (más mortalidad). Con mezcla mínima o HTP grave, hipoxemia grave y *shock* cardiogénico.
+- **Con CIV grande:** cianosis leve al nacer e insuficiencia cardiaca progresiva por hiperaflujo al bajar las resistencias; sin diagnóstico, fallo del VD (sistémico) hacia el mes.
+- Soplos poco frecuentes salvo CIV pequeña-moderada (pansistólico en borde esternal bajo) u obstrucción del tracto de salida (eyectivo en borde esternal alto). Pulsos femorales disminuidos si hay coartación o interrupción del arco (5 %).
+
+*Apuntes de TGA.* Septo íntegro (80 %): cianosis grave desde el nacimiento, acidosis e incluso *shock*; al principio cianosis y taquipnea leve sin tiraje y después insuficiencia cardiaca (disnea, gran hepatomegalia, mala perfusión). 2.º tono fuerte sin soplo. Con CIV (15 %): cianosis menos marcada, insuficiencia cardiaca progresiva y soplo holosistólico.
+
+**L-TGA (Cuidados críticos).** Asintomática al nacer si es aislada; se diagnostica al estudiar la CIV o la obstrucción, o tarde por disfunción ventricular, insuficiencia de la válvula AV sistémica o bloqueo. Cianosis con CIV y estenosis pulmonar; soplos según las lesiones; 2.º ruido intenso (aorta anterior); taquipnea por edema con CIV grande o insuficiencia AV.
+
+# Diagnóstico
+
+**D-TGA (Cuidados críticos).**
+- **Prenatal:** detección del 12,5-54 % según las series; muchas se detectan tras el nacimiento. *Apuntes:* eco a las 18-20 semanas y confirmación a las 30; el 4 cámaras puede ser normal: hay que ver la salida de los vasos (la AP es posterior, se bifurca y continúa con el ductus; la aorta es anterior y forma el arco). Identificar un foramen oval restrictivo (más hipoxemia, HTP persistente e inestabilidad).
+- **Ecocardiografía 2D y Doppler** (suficiente): en subcostal, tronco que sale del VI y se bifurca; grandes arterias en paralelo en el eje largo; aorta anterior desde el VD en el eje corto. Tamaño de la CIA y del ductus (mezcla), CIV (si la hay, valorar el arco en supraesternal: coartación o hipoplasia), válvulas AV y papilares, y anatomía coronaria.
+- **Pulsioximetría:** el cribado universal podría detectar las no diagnosticadas prenatalmente.
+- **ECG:** suele ser normal al nacer (eje derecho e hipertrofia de VD propios del neonato).
+- **Radiografía:** corazón ovoide con pedículo estrecho; trama normal o aumentada (CIV) o disminuida (estenosis pulmonar). *Apuntes:* «silueta en huevo» con mediastino superior estrecho.
+- **Cateterismo:** raro; para anomalías difíciles de ver por eco.
+
+**L-TGA (Cuidados críticos).** ECG con Q en precordiales derechas y sin Q en las izquierdas (despolarización septal invertida), BAV de 1.^er^ grado hasta en el 50 %, a veces arritmias auriculares o WPW. Radiografía: mesocardia o dextrocardia en el 25 %; prominencia del borde superior izquierdo del mediastino. Eco fetal difícil (el 4 cámaras parece normal; arterias en paralelo en el corte de tres vasos). Posnatal: identificar la morfología ventricular (desplazamiento apical de la AV derecha, tres valvas frente a dos, cuerdas al septo, banda moderadora, trabeculación, forma de la cavidad) y las salidas en paralelo. Cateterismo para la gravedad de las obstrucciones, el cortocircuito y la respuesta de las resistencias.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+**D-TGA (Cuidados críticos).** Con diagnóstico prenatal, parto en un hospital de tercer nivel.
+- **PGE~1~ intravenosa:** mantiene el ductus, aumenta el flujo pulmonar y el retorno a la AI y, con ello, el *shunt* izquierda-derecha por el foramen oval. Carga 0,1 µg/kg/min y mantenimiento 0,01-0,03 µg/kg/min. Su efecto aislado es modesto; si no hay buena descarga auricular puede aumentar la presión en AI, la congestión pulmonar y el bajo gasto.
+- **Atrioseptostomía con balón (Rashkind):** amplía el foramen oval; habitualmente guiada por eco en la UCIN. Eficaz si se logra un FOP ≥ 5 mm con flujo no restrictivo y aumenta la SaO~2~. Riesgos: traumatismo vascular, arritmias auriculares, perforación, taponamiento y, posiblemente, embolias cerebrales y convulsiones. No está establecido cuándo retirar las prostaglandinas después.
+- **Soporte:** en TGA simple o con poca mezcla, sin diagnóstico prenatal o con HTP: intubación, oxígeno, óxido nítrico, cargas de volumen para mejorar la mezcla, inotrópicos, diuréticos y evitar la acidosis. **Ser comedidos:** el exceso de inotrópicos, sedación o ventilación puede ser deletéreo.
+- **HTP grave** pese a ductus abierto y Rashkind eficaz: gran cianosis (peor saturación preductal que posductal) y disfunción biventricular; óxido nítrico y cirugía cuando se estabilice; ECMO si hay disfunción biventricular grave. Algunos desarrollan enfermedad vascular irreversible.
+
+*Apuntes de TGA.*
+- PGE~1~: inicio 0,1-0,2 µg/kg/min en 1 h (riesgo de apnea); mantenimiento 0,03-0,05 µg/kg/min, bajando según la oxigenación y los efectos secundarios (apnea, hipotensión, fiebre…).
+- Rashkind si el FOP es restrictivo (< 5 mm o gradiente interauricular > 3-5 mmHg), en UCI con eco o en hemodinámica. La septectomía quirúrgica (Blalock-Hanlon) está en desuso.
+- Si persiste la hipoxemia con mezcla adecuada, sospechar HTP: oxígeno a alta concentración, óxido nítrico y alcalosis respiratoria.
+
+! Dosis de PGE~1~ distintas: Cuidados críticos, carga 0,1 y mantenimiento 0,01-0,03 µg/kg/min; apuntes, inicio 0,1-0,2 y mantenimiento 0,03-0,05 µg/kg/min.
+
+**L-TGA (Cuidados críticos).** Según las lesiones: prostaglandinas si la circulación pulmonar es ductus-dependiente; después, tratar la insuficiencia de la válvula AV sistémica y el fallo cardiaco (diuréticos, reducción de poscarga, betabloqueantes).
+
+## Tratamiento quirúrgico
+
+**D-TGA: *switch* arterial (Jatene) (Cuidados críticos).** De elección en la TGA simple o con CIV neonatal. Con CEC e hipotermia se seccionan los troncos, se trasladan las coronarias a la neoaorta, se intercambian los troncos (maniobra de Lecompte en los apuntes) y se cierran las comunicaciones. Conocer el patrón coronario antes; los estudios recientes no asocian el patrón anómalo a más riesgo (curva de aprendizaje).
+- **Momento:** en la TGA simple, en las dos primeras semanas, idealmente la primera. Más tarde aumenta la morbilidad: el VI pierde contractilidad al trabajar a presiones infrasistémicas, edema pulmonar, friabilidad tisular por las PGE~1~, isquemia intestinal, menos O~2~ cerebral e infección nosocomial. Se pospone si hay hemorragia intracraneal, infección activa, fallo renal o multiorgánico, o prematuridad.
+- **Diagnóstico tardío:** entre 3 y 8 semanas, *switch* arterial primario con resultados parecidos; en mayores de 2 meses la evidencia es menor (más soporte circulatorio por fallo del VI). El *switch* en dos tiempos (*banding* previo) da a largo plazo más fallo del VI, insuficiencia aórtica y obstrucción del tracto de salida derecho; si el VI no está preparado, mejor *switch* auricular.
+- **Switch auricular** (corrección fisiológica): Senning (tejido auricular propio) o Mustard (parche de pericardio heterólogo). El VD queda como sistémico: a largo plazo fallo del VD, arritmias auriculares y muerte súbita.
+- **TGA con CIV y estenosis pulmonar:** Rastelli (túnel de la CIV a la aorta y conducto VD-AP; requiere recambios) o Nikaidoh (translocación de ambas raíces sin tubo protésico, con parche valvulado de yugular bovina).
+
+*Apuntes de TGA.* *Switch* en las 4 primeras semanas (evitar el fracaso del VI por su regresión al bajar las RVP). Secuencia: esternotomía con timectomía y parche de pericardio; disección de troncos y ramas; CEC, ligadura y sección del ductus; hipotermia a 18-25 °C; marcar en la AP los puntos de transferencia coronaria; clampaje y cardioplejia; sección de la aorta y de la AP; botones coronarios con al menos 1 mm de pared; transferencia a la neoaorta; Lecompte y anastomosis de la neoaorta; cierre de la CIA; reconstrucción de la neopulmonar con parche amplio de pericardio autólogo; desclampaje; anastomosis distal de la AP; cierre diferido del esternón a las 24-48 h.
+
+**L-TGA (Cuidados críticos).**
+- **Corrección fisiológica (clásica):** reparar las lesiones asociadas (CIV, tracto de salida del VI, incluso reparación univentricular; recambio tricuspídeo si hay insuficiencia importante). Deja VD y tricúspide en posición sistémica; se acepta en asintomáticos sin lesiones o si el doble *switch* es de muy alto riesgo.
+- **Corrección anatómica:** VI y mitral como sistémicos; requiere ventrículos de tamaño similar y un VI preparado. Si no lo está, *banding* de la AP para «entrenarlo» (más eficaz cuanto antes; mucho menos tras los 16 años); también en CIV grandes con insuficiencia cardiaca refractaria. Doble *switch* (Senning o Mustard más Jatene) si no hay obstrucción subpulmonar significativa (largo bypass y reimplante coronario); Senning-Rastelli si hay CIV y obstrucción del tracto de salida del VI. Neonatal, alto riesgo; a partir de los 12 meses, menor riesgo.
+
+## Postoperatorio, complicaciones y su manejo
+
+**Tras el *switch* arterial (Cuidados críticos).** Como otras cirugías con CEC:
+- Restricción hídrica y diuréticos; vigilar el daño renal agudo (a veces depuración extrarrenal).
+- Inotrópicos para un gasto correcto, sobre todo milrinona y dopamina.
+- **Isquemia miocárdica:** puede valorarse nitroglicerina, pero la primera sospecha es un problema mecánico en el reimplante coronario: priorizar la reintervención urgente (valorar coronariografía antes). ECG obligatorio al ingreso.
+- Ventilación adecuada; óxido nítrico si hay HTP (sobre todo con HTP previa).
+- Sedoanalgesia; aEEG y ecografía cerebral a pie de cama.
+- Corregir alteraciones electrolíticas, metabólicas y hemostáticas; continuar la profilaxis antibiótica.
+- Monitorizar TA invasiva, PVC, pulsioximetría y capnografía; en cirugías tardías con riesgo de disfunción del VI, presión en AI por catéter transtorácico. SvO~2~ mixta, equilibrio ácido-base y lactato.
+- **Complicaciones inmediatas:** bajo gasto tras CEC; isquemia prolongada; insuficiencia aórtica; **obstrucción coronaria** con isquemia e infarto. Una disfunción ventricular grave no justificada por la isquemia o el aturdimiento, o arritmias significativas, deben hacer pensar en insuficiencia coronaria: cateterismo con angiografía en los inestables. Bajo gasto refractario o HTP sin respuesta al óxido nítrico: ECMO.
+
+**A largo plazo (Cuidados críticos).** Supervivencia de casi el 90 % a 20 años.
+- Estenosis coronarias (también tardías); no hay evidencia para la angiografía o TC rutinarias.
+- Insuficiencia aórtica por dilatación de la neoaorta (pocas requieren reintervención).
+- Estenosis supravalvular pulmonar o de ramas: angioplastia o *stent*; a veces cirugía.
+
+*Apuntes de TGA.* Mortalidad perioperatoria < 3-5 %; principal factor de riesgo, la coronaria única o intramural. Mortalidad tardía < 3 %; libres de reintervención al 95 %, 92 % y 85 % a 1, 5 y 10 años. Estenosis de la neopulmonar, la complicación tardía más frecuente (60 % leve; 10 % significativa con gradiente pico > 36 mmHg): angioplastia eficaz en torno al 50 %, mejor con *stent*; si no, cirugía. Dilatación de la raíz aórtica (< 5 %; riesgo si la relación pulmonar/aorta es > 1,5). Patología coronaria (más con patrón anómalo; responsable de la mortalidad tardía). Degeneración del conducto VD-AP (recambio; válvula percutánea en seleccionados).
+
+**L-TGA (Cuidados críticos).** BAV completo y arritmias auriculares frecuentes en el postoperatorio; disfunción del VI en torno al 14 %; regurgitación de la neoaorta hasta en el 70 % (suele ser leve; más tras doble *switch* que tras Senning-Rastelli).

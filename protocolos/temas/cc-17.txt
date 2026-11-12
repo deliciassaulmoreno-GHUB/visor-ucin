@@ -1,0 +1,115 @@
+@f TEMAS/CC/17
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 22).* Una de las cardiopatías menos prevalentes: < 2 % de los nacidos con cardiopatía. Malformación del conotronco en la que la aorta ascendente, la arteria pulmonar y las coronarias nacen de un único vaso con una única válvula semilunar, casi siempre con una CIV por debajo. Igual frecuencia por sexos (algunas series, más en varones). Aislado o con otras malformaciones; la anomalía cromosómica más asociada es la deleción 22q11. Se debe a una septación anómala de la arteria truncal por deficiencia del septo aortopulmonar y del infundíbulo subpulmonar; el grado de déficit determina el tipo.
+
+*Apuntes de truncus (carpeta de cardiopatías congénitas).* Benigno en la vida fetal, cambia de forma dramática al caer las resistencias pulmonares (insuficiencia cardiaca grave). Historia natural: 50 % de mortalidad el primer mes y supervivencia al año del 10-25 %; la mayoría de los que superan el año tienen enfermedad vascular pulmonar grave, a menudo irreversible. Se asocia a interrupción del arco (sobre todo tipo B) y a síndrome de DiGeorge.
+
+# Fisiopatología y variantes
+
+@img cc-17-truncus.svg
+
+**Anatomía (Cuidados críticos).**
+- **Válvula truncal** única (la diferencia de la atresia aórtica o pulmonar, que tienen una segunda válvula atrésica). Valvas habitualmente distróficas, con estenosis o insuficiencia hasta en el 50 %. Lo más frecuente es tricúspide, seguida de cuadricúspide o bicúspide (descritas uni-, penta- y hexacúspides). Importa su función: suele quedar en posición aórtica.
+- **CIV** habitualmente grande, no restrictiva, cabalgando entre ambos ventrículos.
+- Frecuentes anomalías coronarias y del arco, sobre todo interrupción tipo B.
+
+*Apuntes.* La válvula truncal puede ser bicúspide o cuadricúspide y a menudo displásica.
+
+*Cuidados críticos. Tabla I. Clasificación de Collett y Edwards* (salida de las arterias pulmonares):
+
+| Tipo | Descripción |
+|---|---|
+| I | Un tronco pulmonar sale del tronco arterial común y da las arterias pulmonares |
+| II | Las arterias pulmonares salen de la parte posterior del tronco común, con origen independiente pero cercano |
+| III | Las arterias pulmonares salen del tronco común con origen independiente y separado (cara lateral) |
+| IV | Las arterias pulmonares salen de la aorta descendente (forma extrema de Fallot con atresia pulmonar y MAPCAs) |
+
+*Cuidados críticos. Tabla II. Clasificación de Van Praagh* (A, con CIV; B, sin CIV, muy poco frecuente):
+
+| Tipo | Descripción |
+|---|---|
+| 1 | Las arterias pulmonares nacen de un tronco pulmonar |
+| 2 | Las arterias pulmonares salen del tronco arterial común con origen independiente |
+| 3 | Ausencia de una rama pulmonar (*hemitruncus*); la otra se forma a partir del ductus o de una arteria aortopulmonar |
+| 4 | Asociación a interrupción de arco (posterior a la carótida izquierda) |
+
+! Los apuntes de la carpeta describen el tipo IV como «asociado a insuficiencia arco aórtico»; Cuidados críticos lo define en Collett y Edwards como arterias pulmonares desde la aorta descendente y en Van Praagh como asociación a interrupción del arco.
+
+**Fisiopatología (Cuidados críticos).**
+- Fetal: pocas implicaciones; ductus pequeño o ausente, con istmo y arco de mayor calibre. Con interrupción del arco, el ductus es grande y perfunde la aorta descendente.
+- Posnatal: fisiología funcionalmente univentricular; el reparto depende de las resistencias. Entre la 2.ª y la 4.ª semana, al bajar las RVP, aumentan el flujo pulmonar y el *shunt* izquierda-derecha (saturación en torno al 90 %), con más presión telediastólica en AI y VI y fallo precoz del VI (no da tiempo a hipertrofiarse): insuficiencia cardiaca precoz.
+- Con el tiempo, enfermedad vascular pulmonar irreversible (Eisenmenger): baja la saturación y mejora la insuficiencia al equilibrarse el Qp/Qs. Una caída de las resistencias sistémicas reduce el flujo pulmonar y desatura.
+- **Estenosis de ramas:** mejor balance (saturación del 75-80 %) sin insuficiencia cardiaca a corto plazo, pero cianosis progresiva si no crecen.
+- **Insuficiencia truncal** (la mitad): más volumen ventricular e insuficiencia cardiaca precoz.
+- **Interrupción del arco:** aorta descendente dependiente del ductus; al bajar las RVP, hiperaflujo y, al cerrarse el ductus, hipoperfusión inferior con hipoxia y acidosis, con saturaciones preductales altas.
+
+*Apuntes.* Mezcla obligada a nivel ventricular y truncal (cianosis variable; saturación < 80 % debe alertar de enfermedad vascular pulmonar grave) y *shunt* izquierda-derecha no restrictivo craneal a la válvula truncal, con sobrecarga pulmonar en sístole y diástole (explica la enfermedad vascular precoz).
+
+# Clínica
+
+*Cuidados críticos.* Desaturación con cianosis e insuficiencia cardiaca, según el tipo. Soplo pansistólico paraesternal izquierdo, murmullo diastólico si hay regurgitación truncal y 2.º ruido único.
+- **Tipos I y II:** cianosis aislada al nacer; entre la 2.ª y la 4.ª semana la cianosis disminuye y aparece insuficiencia cardiaca (polipnea, distrés, sudoración con las tomas, precordio hiperdinámico, hepatomegalia), con presión de pulso amplia; con insuficiencia establecida, pulsos débiles y galope.
+- **Con interrupción del arco:** pulsos de las piernas cada vez más débiles al cerrarse el ductus; hipoperfusión inferior con hipoxia, oligoanuria y acidosis metabólica.
+- **Tipo III:** según el tamaño de las ramas y la estenosis de su ostium (hiperaflujo o cianosis).
+- **Deleción 22q11:** alteraciones de la vía aérea, inmunodeficiencia, hipocalcemia.
+
+*Apuntes.* A los pocos días: taquipnea, sudoración con las tomas, falta de ganancia ponderal, pulsos saltones, precordio hiperdinámico y hepatomegalia. La enfermedad vascular pulmonar puede aparecer antes del año.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** muy variable; ritmo sinusal, eje derecho neonatal, hipertrofia biventricular; rara vez alteraciones de conducción o repolarización.
+- **Radiografía:** cardiomegalia y congestión progresiva; arco derecho hasta en el 25 %; atención a la ausencia de timo (22q11).
+- **Ecocardiografía 2D con Doppler color** (de elección): anomalía conotruncal y CIV (localización, tamaño); origen de las ramas y estenosis; morfología y función de la válvula truncal; arco y aorta ascendente (interrupción, coartación); origen y distribución de las coronarias.
+- **Diagnóstico diferencial:** tetralogía de Fallot con atresia pulmonar y ventana aortopulmonar.
+- **Cateterismo:** solo en anatomías complejas mal definidas o en diagnósticos tardíos (presiones y resistencias pulmonares).
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* Al bajar las resistencias y aumentar el Qp/Qs:
+- **Restringir el oxígeno** (vasodilatador pulmonar); a veces mezclas hipóxicas con nitrógeno o CO~2~.
+- Diuréticos: furosemida y espironolactona.
+- Presión positiva (CPAP o BiPAP) para el edema y para reducir la poscarga sistémica.
+- Ventilación invasiva si es necesaria, **evitando la hiperventilación** (vasodilata el pulmón y empeora el hiperaflujo).
+- **Milrinona** en la insuficiencia truncal importante con cianosis por edema; vigilar la TA diastólica (flujo coronario).
+- Nutrición precoz si está estable; si no, parenteral. Riesgo aumentado de enterocolitis necrotizante (hiperaflujo y robo diastólico en aorta descendente).
+- **Interrupción del arco:** prostaglandinas precoces hasta la cirugía.
+
+*Apuntes.* Digital y diuréticos, con vasodilatadores sistémicos si hay insuficiencia truncal o plétora muy grave. Con interrupción del arco, PGE~1~ urgente, ingreso en UCI y cirugía urgente tras estabilizar en 24-48 horas.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* Corrección completa precoz salvo contraindicación extracardiaca: antes de los 3 meses (evitar la enfermedad vascular pulmonar), actualmente a las 2-3 semanas, al caer las resistencias; antes si hay insuficiencia cardiaca refractaria o interrupción del arco. No indicada en mayores con resistencias elevadas (Eisenmenger).
+- CEC, clampaje y cardioplejia; con interrupción del arco, parada circulatoria en hipotermia profunda y valorar perfusión cerebral anterógrada selectiva.
+- Desinserción de las arterias pulmonares del tronco común y reconstrucción de la aorta y, si es necesario, de la válvula truncal (en la insuficiencia grave es preferible repararla: el recambio tiene peor supervivencia a largo plazo).
+- Cierre de la CIV con parche pericárdico o sutura directa.
+- Tracto de salida del VD e inserción de las arterias pulmonares: los homoinjertos duran más, pero no siempre hay; habitualmente conductos valvulados (Contegra®, Hancock®).
+- Reparación del arco si hay interrupción (parche aórtico autólogo u homoinjerto).
+- Algunos centros dejan una CIA de descarga por el riesgo de crisis de HTP.
+
+*Apuntes.* Antes de los 3 meses, cada vez más en el periodo neonatal, idealmente esperando a la caída de las RVP (2.ª-3.ª semana); urgente si hay insuficiencia cardiaca refractaria o interrupción del arco.
+
+## Postoperatorio, complicaciones y su manejo
+
+*Cuidados críticos.* Principales complicaciones, en las primeras 48 horas: **crisis de hipertensión pulmonar** y **bajo gasto**. Reparar las lesiones residuales si la evolución no es favorable. Monitorización no invasiva (ECG, FR, SatO~2~, oximetría cerebral) e invasiva (TA, PVC; en algunos centros, presión pulmonar y en AI).
+1. **Generales:** evitar desencadenantes de crisis de HTP (sedoanalgesia y curarización, mínimas manipulaciones, sin sobrecarga de volumen, fiebre, acidosis ni hipoxia). Cierre de tórax diferido casi sistemático.
+2. **Respiratorio:** pH 7,40-7,45 y pCO~2~ 30-35 mmHg; óxido nítrico frecuente las primeras horas (sildenafilo si no se tolera su retirada). En la crisis: hiperoxigenar, hiperventilar, sedoanalgesia y curarización; ECMO si es refractaria. Extubar lo antes posible (puede retrasarse por el tórax abierto). Tratar enérgicamente derrames, neumotórax y atelectasias (aumentan la poscarga del VD).
+3. **Cardiovascular** (bajo gasto por inflamación tras CEC, ventriculotomía, hipotermia profunda e isquemia):
+   - Optimizar la precarga.
+   - Milrinona con adrenalina o dopamina a dosis bajas; levosimendán las primeras 24 h si hay disfunción importante.
+   - Dopamina/dobutamina por debajo de 15 µg/kg/min (evitar la vasoconstricción); adrenalina a dosis bajas (dosis altas se relacionan con necrosis miocárdica y disfunción diastólica).
+   - Vasodilatadores: milrinona y óxido nítrico (poscarga del VD).
+   - Mantener la sincronía AV: TSV y JET frecuentes; reducir la FC (menos catecolaminas, sedoanalgesia, hipotermia, amiodarona) para estimular con marcapasos en AAI.
+   - Hipotermia (34-35 °C) en el bajo gasto para reducir el consumo de O~2~.
+   - ECMO si es refractario.
+4. **Neurológico:** sedoanalgesia y curarización; ecografía transfontanelar en todos.
+5. **Renal:** líquidos al 50-60 % el primer día, 75 % el segundo y 100 % el tercero, adaptados a la situación. Diuréticos de asa precoces (bolos o perfusión). Diuresis baja las primeras 48 h por bajo gasto, disfunción derecha, ascitis y presión intraabdominal: a menudo diálisis peritoneal (muchos grupos dejan el catéter en quirófano; retirarlo en cuanto haya diuresis). Corregir la acidosis con bicarbonato; vigilar la hipocalcemia (22q11).
+6. **Digestivo:** IBP o anti-H~2~; nutrición trófica en cuanto se pueda; si no, parenteral.
+7. **Metabólico:** hiperglucemia las primeras 24 h (a veces insulina en perfusión).
+8. **Infeccioso:** profilaxis, habitualmente cefalosporina de 1.ª o 2.ª generación, ampliando en algunos centros si el tórax queda abierto.
+9. **Hematológico:** sangrado frecuente; descartada la causa quirúrgica, hemoglobina adecuada, plaquetas > 100.000/mm³ y plasma fresco.
+
+**Resultados (Cuidados críticos).** Seguimiento en cardiología: el conducto valvulado necesitará recambio (degeneración y crecimiento) y la válvula truncal, ahora aórtica y displásica, puede requerir reemplazo. Supervivencia a 5 años del 79 %, con más mortalidad en el postoperatorio inmediato.

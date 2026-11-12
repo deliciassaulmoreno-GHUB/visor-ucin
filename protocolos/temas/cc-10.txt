@@ -1,0 +1,98 @@
+@f TEMAS/CC/10
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 16).* Estrechamiento de la aorta descendente en un segmento de longitud variable. Habitualmente distal a la subclavia izquierda, en la pared posterior, frente a la inserción del ductus (yuxtaductal); los términos pre y posductal se han abandonado. A veces por encima de la subclavia izquierda o con subclavia derecha anómala que sale por debajo de la obstrucción.
+- Quinta malformación cardiaca en frecuencia: 5-7 % de las cardiopatías, prevalencia de 0,25 por 1.000 nacidos vivos. Predominio masculino 2:1.
+- Predisposición genética (familias con obstrucciones izquierdas: coartación, estenosis aórtica, VI hipoplásico o aorta bicúspide). Un 5-15 % de las coartaciones en mujeres tienen síndrome de Turner; también Williams-Beuren y Noonan.
+
+*Cardiología pediátrica para residentes (cap. 18).* El estrechamiento produce caída del flujo anterógrado (hipoperfusión de órganos) y congestión retrógrada (disfunción ventricular, hipertensión pulmonar). 6-8 % de las cardiopatías, 3-4 por 10.000 recién nacidos vivos, varones 2:1. Origen desconocido; asociada a síndromes, sobre todo Turner (30 %), Noonan y DiGeorge.
+
+! Las fuentes difieren en la frecuencia (5-7 % y 0,25/1.000 en Cuidados críticos; 6-8 % y 3-4/10.000 en Residentes) y en la asociación con el síndrome de Turner (5-15 % de las coartaciones en mujeres frente al 30 %).
+
+# Fisiopatología y variantes
+
+@img cc-10-coa.svg
+
+## Tipos
+
+*Cuidados críticos.*
+- **Nativa** (presente desde el nacimiento):
+  - **Simple:** sin otra malformación salvo el ductus; hasta el 80 % a cualquier edad. «Discreta» o «tubular» (con hipoplasia del istmo, entre la subclavia izquierda y el ductus, o de la aorta transversa, entre el tronco braquiocefálico y la subclavia izquierda). Rara vez afecta a la aorta abdominal.
+  - **Asociada:** frecuentes, válvula aórtica bicúspide (> 50 %), estenosis aórtica o subaórtica, CIV y anomalías mitrales (varias obstrucciones izquierdas: síndrome de Shone). En las sintomáticas neonatales aumentan las asociaciones; en el VI hipoplásico la coartación está siempre presente. Menos frecuentes: TGA, doble salida de VD, ventrículo único, truncus, ventana aortopulmonar. Aneurismas del polígono de Willis en el 3-10 %.
+- **Recoartación:** reestenosis tras cirugía (10 %) o angioplastia; tras angioplastia es menos frecuente si se hizo sobre una recidiva o por encima de los 2 años.
+
+*Residentes.* Asociaciones: aorta bicúspide (60 %), hipoplasia del arco (18 %), CIV (13 %), alteraciones mitrales (8 %), estenosis subaórtica (6 %), canal AV, TGA. El tejido ductal invade la pared aórtica yuxtaductal y le da tendencia a la fibrosis y al cierre.
+
+## Fisiopatología
+
+*Cuidados críticos.* Obstrucción con sobrecarga de presión del VI: presión alta por encima y baja por debajo. Si es discreta y leve puede pasar inadvertida hasta la niñez o la edad adulta; las de debut neonatal suelen ser tubulares con algo de hipoplasia del cayado.
+- Un 10 % son sintomáticas en el periodo neonatal (las más graves): el cierre del ductus en la primera semana impide el flujo a la aorta distal y lleva a insuficiencia cardiaca y *shock*. Mientras el ductus está abierto amplía la luz aórtica a nivel de la coartación. La CIV asociada añade hiperaflujo pulmonar precoz.
+- En lactantes, niños y adultos, la estenosis menor y las colaterales (mamaria interna, intercostales) retrasan la clínica, que no suele ser de insuficiencia cardiaca.
+
+*Residentes.* En el feto, 2/3 del flujo pasa por el ductus; la coartación aumenta algo la poscarga del VI, reduce el flujo por el foramen oval y el crecimiento de la aorta ascendente. Tras el cierre ductal, compensación por hipertrofia del VI (precoz) y colaterales (intercostales, mamarias internas, escapulares; más tardías).
+
+# Clínica
+
+*Cuidados críticos.*
+
+**Neonatal.**
+- Con diagnóstico fetal el recién nacido está asintomático; puede ser necesario dejar que el ductus se cierre para confirmar la coartación y su gravedad («dependiente de ductus»).
+- La mayoría de las graves debutan en las 2 primeras semanas. **Palpar los pulsos femorales es obligatorio** en la primera exploración y en las siguientes: el ductus enmascara la lesión y su cierre la descubre.
+- Soplo sistólico eyectivo suave infraclavicular derecho e interescapular. Pulso braquial izquierdo débil (subclavia englobada); si también lo es el derecho, sospechar subclavia derecha aberrante.
+- Con el cierre ductal: taquipnea, taquicardia, hepatomegalia, sudoración, fatiga con las tomas, mala coloración y perfusión, irritabilidad o letargia. En situación crítica todos los pulsos pueden faltar. Ritmo de galope (más que soplos) y crepitantes o sibilancias de edema pulmonar.
+
+**Lactantes, niños y adolescentes.** Asintomáticos meses o años; a veces cefalea, palidez o claudicación de piernas con el ejercicio. HTA con gradiente entre miembros superiores e inferiores y pulsos femorales ausentes, débiles o retrasados. Soplo sistólico largo y suave interescapular izquierdo; soplo de regurgitación si hay CIV, eyectivo si hay estenosis aórtica, clic protosistólico si hay aorta bicúspide. Sin tratamiento evoluciona a miocardiopatía, insuficiencia cardiaca y muerte precoz. Aneurismas intracerebrales en el 3-10 %.
+
+*Residentes.* Cierre ductal entre el 2.º y 7.º día (a veces hasta la 2.ª semana): hipoperfusión distal (mala perfusión de piernas, oliguria) y congestión retrógrada (HTA preductal, disfunción del VI, edema pulmonar, *shock*). 2.º tono aumentado. Diferencia de TA entre territorios > 20 mmHg. Puede no haber diferencia de pulsos en el *shock*, si la coartación es proximal a la subclavia izquierda (solo el brazo derecho está aumentado) o con subclavia derecha aberrante. Diagnóstico diferencial con sepsis y metabolopatías. En mayores: HTA o sus síntomas (cefalea, epistaxis); rara vez descompensación o disección aórtica.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** en el neonato, hipertrofia de VD con T invertidas en precordiales izquierdas; en lactantes, hipertrofia de VI. T invertidas y ST descendido en precordiales izquierdas son de mal pronóstico. En mayores, hipertrofia de VI o normal.
+- **Radiografía:** en el neonato sintomático, cardiomegalia, aumento de la vascularización y congestión venosa (edema agudo de pulmón). En mayores, «signo del 3» y, raramente, muescas costales por colaterales.
+- **Ecocardiografía** (la más eficaz): eje largo supraesternal en 2D (anatomía y tamaño de los segmentos del arco, extensión de la coartación, lesiones asociadas, función). Doppler: gradiente y flujo sistólico con prolongación diastólica; cortocircuito ductal (generalmente bidireccional).
+- **Angio-RM** en mayores; el estudio angiohemodinámico precede a la angioplastia.
+
+*Residentes.* Gradiente medio patológico > 20 mmHg, sobre todo con extensión diastólica (puede infraestimarse con disfunción ventricular o colaterales). La eco valora también hipertrofia y función del VI, presión pulmonar y lesiones asociadas; poco sensible para colaterales. AngioTC/angioRM de segunda elección (defectos complejos, hipoplasia del arco, colaterales). La angiografía se reserva para el tratamiento percutáneo.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos* (neonato).
+- Prevenir el *shock* manteniendo el ductus con PGE~1~ a la dosis mínima necesaria, entre 0,01-0,05 µg/kg/min (puede ser menor). Vía segura con poco riesgo de extravasación (vena umbilical o epicutáneo).
+- Paciente inestable por cierre ductal reciente (diagnóstico o sospecha): PGE~1~ 0,1 µg/kg/min hasta la reapertura (de 15 minutos a 4 horas); con pulsos femorales palpables y mejoría clínica, bajar a la mínima dosis.
+- Valorar soporte respiratorio por la inestabilidad y por las apneas de las prostaglandinas, sobre todo si se va a trasladar.
+- Insuficiencia cardiaca franca: intubación y ventilación, y dopamina 5-10 µg/kg/min. **No usar vasodilatadores mientras persista la obstrucción.** Arteria canalizada si hay inestabilidad.
+- Con CIV amplia, evitar la hiperventilación y la hiperoxigenación (aumentan el hiperaflujo pulmonar).
+- Corregir acidosis metabólica e hiperglucemia; vigilar efectos de las prostaglandinas (fiebre, hiponatremia…).
+
+## Tratamiento quirúrgico
+
+**Indicaciones (Cuidados críticos).** Cirugía neonatal si hay síntomas o necesita prostaglandinas; si no, después del mes. Asintomáticos: cirugía si el gradiente es > 20-30 mmHg con diámetro aórtico < 50 % en la coartación; con gradiente < 20 mmHg se suele esperar a los 2-3 años. Mortalidad según RACHS-1: coartación simple > 30 días (categoría I) 0,3 %; simple < 30 días (II) 1,8 %; coartación con CIV (III) 4,5 %.
+
+**Abordaje.**
+- **Toracotomía lateral izquierda** (en general sin CEC): coartación simple discreta o con hipoplasia del arco distal.
+- **Esternotomía media con CEC:** hipoplasia del arco proximal, arco bovino (tronco braquiocefálico y carótida izquierda con origen común) o cardiopatía asociada; puede usarse perfusión cerebral selectiva.
+
+**Técnicas.**
+- Resección y anastomosis término-terminal extendida: la habitual en la simple o con hipoplasia distal, por toracotomía.
+- Aortoplastia con colgajo de subclavia izquierda (Waldhausen) o con parche: menos frecuentes.
+- Anastomosis término-lateral (avance aórtico): hipoplasia proximal o arco bovino, por esternotomía.
+- **Aortoplastia percutánea con balón:** preferida en niños mayores y en la recoartación; en lactantes y coartación nativa tiene más recoartación y complicaciones, pero sirve de paliación en el paciente muy inestable. En mayores, *stent* expandible.
+
+**Postoperatorio (Cuidados críticos).**
+- Conectar a ventilación con parámetros prefijados y a monitores (ECG, FC, SatO~2~, TA, PVC, NIRS). Tener en la gráfica los P10 y P50 de TA sistólica, media y diastólica para la edad. Puede venir con catéter en el miembro superior derecho y arterial femoral para evaluar el gradiente residual (no útil si hay subclavia derecha aberrante). Revisar líneas y cambiar las perfusiones por las de la unidad.
+- Exploración rápida: color, perfusión, temperatura, ventilación, oxigenación, auscultación, hepatomegalia y sangrado.
+- En la coartación con CIV o hipoplasia proximal (cirugía precoz con CEC), el manejo hemodinámico es como el de la interrupción del arco.
+
+## Complicaciones posquirúrgicas y su manejo
+
+*Cuidados críticos* (coartación simple).
+- **HTA paradójica:** frecuente en niños mayores, mucho menos en < 1 año. Tratarla por el riesgo de sangrado de las suturas y de daño en otros órganos. Causa neurohormonal (respuesta paradójica de los barorreceptores, eje renina-angiotensina-aldosterona) y menor distensibilidad arterial. Betabloqueantes (esmolol) o alfa y betabloqueantes (labetalol 0,25-3 mg/kg/hora), a menudo en perfusión 24 horas. Nitroprusiato solo asociado a un betabloqueante (si no, aumenta el estrés de la pared). Después, betabloqueante oral y/o IECA (enalapril, captopril). Dexmedetomidina 0,2-0,7 µg/kg/hora (analgesia y sedación sin depresión respiratoria; reduce FC y TA).
+- Puede no necesitar betaadrenérgicos o solo a dosis bajas.
+- **Quilotórax** (5 %), la complicación respiratoria más frecuente; ventilación habitualmente breve.
+- **Dolor abdominal por reperfusión intestinal:** más frecuente y grave tras *shock* preoperatorio o con HTA paradójica; puede acabar en isquemia mesentérica no oclusiva. Controlar la TA; dieta absoluta con sueroterapia o parenteral.
+- **Daño medular** por clampaje sin colaterales (hoy anecdótico).
+- **Lesión del nervio laríngeo recurrente:** hasta el 30 % por esternotomía y el 10 % por toracotomía.
+- **Recoartación** (10 % tras cirugía).

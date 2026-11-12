@@ -1,0 +1,115 @@
+@f TEMAS/CC/13
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 18).* La patología mitral aislada es infrecuente en niños, pero puede ser grave y requerir cirugía compleja. Suele asociarse a CIV, aorta bicúspide o estenosis aórtica, o formar parte de cardiopatías complejas (corazón izquierdo hipoplásico, canal AV, síndrome de Shone). También hay válvulas malformadas en conectivopatías (Marfan, Ehlers-Danlos).
+- **Insuficiencia mitral (IM):** las alteraciones mitrales suponen el 0,21-0,42 % de los pacientes con cardiopatías congénitas (menos la IM congénita aislada). Relación hombre:mujer de 1,2:1 a 2,2:1.
+- **Estenosis mitral (EM):** la aislada es rara (0,5 % de las cardiopatías congénitas) y suele asociarse a otras anomalías; puede ser hereditaria. Típicamente adquirida por fiebre reumática (más incidencia entre los 5 y 15 años; rara antes de los 3 y después de los 18), calcificación, radioterapia torácica o fármacos.
+- **Prolapso mitral:** prevalencia < 2,5 % de la población.
+
+# Fisiopatología y variantes
+
+@img cc-13-mitral.svg
+
+**Aparato valvular (Cuidados críticos).**
+- **Anillo:** parte del esqueleto fibroso; barrera eléctrica entre aurículas y ventrículos; la continuidad mitroaórtica (valva anterior y cúspide no coronaria) forma un tercio de su circunferencia.
+- **Valvas:** la mitral es la única bivalva y la que soporta más estrés. La anterior (aórtica), semicircular, ocupa el tercio anteromedial del anillo y es 2-3 veces más larga; la posterior (pulmonar), en «C», ocupa los dos tercios restantes y tiene dos indentaciones que la dividen en P1, P2 y P3. La suma de las áreas valvares duplica la del anillo. Las comisuras se identifican por el eje del papilar y las cuerdas comisurales.
+- **Cuerdas tendinosas:** unen papilares y valvas; unas cinco veces más inserciones en las valvas que en los papilares.
+- **Músculos papilares:** anterolateral (doble irrigación: descendente anterior y circunfleja) y posteromedial (solo circunfleja o coronaria derecha; más vulnerable a la isquemia).
+
+**Insuficiencia mitral.** Reflujo a la AI en sístole por fallo del cierre. La aislada se debe a malformaciones del anillo (dilatación), las valvas, las cuerdas o los papilares: *cleft* aislado, prolapso. Asociada a canal AV, lesiones obstructivas izquierdas, SCIH o CIV, con elevada morbimortalidad. Secundaria: conectivopatías y metabolopatías (Marfan, Hurler, amiloidosis), traumatismo, endocarditis, miocarditis, fiebre reumática, origen anómalo de la coronaria izquierda en la pulmonar, Kawasaki, miocardiopatías y tumores.
+
+**Estenosis mitral: anomalías.**
+- Estenosis supramitral (membrana por encima de la válvula).
+- Anillo pequeño o hipoplásico (válvula anormal o normal pero pequeña, síndrome de Shone).
+- Valvas displásicas o anómalas (p. ej., doble orificio).
+- Cuerdas gruesas, rígidas y cortas.
+- Papilares deformados.
+- Válvula en paracaídas (un único papilar), con apertura muy disminuida.
+
+**Otras anomalías (Cuidados críticos).**
+- **Prolapso («síndrome de clic-soplo»):** valvas agrandadas o redundantes (matriz mixomatosa o colágeno de las cuerdas) que protruyen a la AI en sístole, con o sin IM; hereditario o con conectivopatías.
+- **Displasia:** todo el aparato afectado (valvas y cuerdas engrosadas, papilares deformados insertos en las valvas); generalmente EM, también IM si los bordes están retraídos.
+- ***Cleft* mitral aislado:** hendidura de bordes gruesos sin soporte cordal en la valva anterior (menos en la posterior) que apunta hacia la aorta (en el canal AV apunta al septo interventricular). Se asocia a CIV, CIA e inserción bilateral de cuerdas, que pueden causar estenosis subaórtica.
+- **Doble orificio:** dos orificios, generalmente de distinto tamaño; normal, estenótica o insuficiente.
+- **Malformación tipo Ebstein:** valva posterior implantada más abajo en la pared libre del VI; insuficiente.
+- **Hipoplasia grave de la valva posterior:** cordón fibroso poco móvil e insuficiente.
+- **Anomalías de las cuerdas:** elongadas (prolapso, rotura) o cortas y fusionadas (cierre incompleto).
+- **Válvula en paracaídas:** un papilar grande y único (o dos fusionados, o uno mayor y otro hipoplásico) con cuerdas gruesas y cortas: EM, a veces con IM.
+- **Válvula en arcada (Hammock):** papilares insertos directamente en las valvas, cuerdas acortadas y fusionadas y puente fibroso entre ambos papilares; IM, a veces con estenosis.
+
+# Clínica
+
+**Insuficiencia mitral (Cuidados críticos).** Según la gravedad: leves asintomáticas o con disnea mínima; la disnea de esfuerzo suele ser el primer síntoma en niños mayores e indica ya disfunción ventricular. Motivos de ingreso en UCIP:
+- Insuficiencia cardiaca.
+- Arritmias (sobre todo fibrilación auricular) por crecimiento de la AI.
+- Eventos tromboembólicos.
+- Hipertensión pulmonar e insuficiencia cardiaca derecha (evolucionados).
+- Excepcionalmente, IM aguda por rotura de cuerdas (traumatismo, infarto…): aumento rápido de la presión telediastólica de VI y AI transmitido a un lecho pulmonar «no preparado»: edema agudo de pulmón.
+
+**Estenosis mitral (Cuidados críticos).** La congénita da síntomas en los dos primeros años: astenia, sudoración con las tomas, escasa ganancia ponderal y polipnea. Los casos graves, edema agudo de pulmón (disnea, ortopnea, tos con esputo rosado, astenia, dolor torácico de esfuerzo, palpitaciones, edemas, voz ronca); empeora con todo lo que aumente la FC (infecciones, hipertiroidismo). Muy susceptibles a fibrilación auricular (paroxística y luego persistente), con aumento brusco de la presión auricular y riesgo tromboembólico.
+
+**Prolapso (Cuidados críticos).** Mayoría asintomáticos hasta la edad adulta. Sintomáticos: palpitaciones, dolor torácico, disnea de esfuerzo, ortopnea, tos, cansancio, mareo o ansiedad. Clic mesosistólico más evidente de pie. Clic y soplo telesistólico: suele ser prolapso anterior con IM no progresiva; soplo holosistólico: prolapso posterior, con IM que suele empeorar y frecuente rotura de cuerdas. Síntomas más soplo definen el «síndrome» del prolapso.
+
+# Diagnóstico
+
+**Insuficiencia mitral (Cuidados críticos).**
+- **Exploración:** pulso normal o algo disminuido, TA casi siempre normal. 1.^er^ ruido normal o disminuido, 2.º normal (aumentado con HTP), 3.^er^ ruido al progresar. Soplo sistólico apical irradiado a la axila desde el 1.^er^ ruido. La intensidad no se correlaciona con la gravedad (en un 50 % de las moderadas-graves no se oye). En fases avanzadas, soplo mesodiastólico apical por hiperaflujo, más corto y sin refuerzo presistólico.
+- **Radiografía:** normal en leves y moderadas; en las graves, crecimiento izquierdo (doble contorno de la AI en la silueta derecha, VI hacia el ángulo costofrénico izquierdo), hilios aumentados de bordes difusos (sobre todo a la derecha) y redistribución vascular cefálica en mayores.
+- **ECG:** sobrecarga izquierda, y derecha si hay HTP. Orienta a causas secundarias: hemibloqueo anterior izquierdo (canal AV) o isquemia anterolateral (origen anómalo de la coronaria izquierda en la pulmonar).
+- **Ecocardiografía** (fundamental): ETE si la ventana es mala (también motivo de ingreso para sedoanalgesia). Desviación del septo interauricular hacia la derecha (presión alta en AI), trombos, valoración hemodinámica a pie de cama; Doppler para la gravedad.
+- **Estudio hemodinámico:** si progresa rápido, hay otras valvulopatías o persisten dudas: presión media de AI y capilar pulmonar altas, onda V prominente con descenso rápido. Fracción regurgitante > 50 % indica IM importante.
+
+**Estenosis mitral (Cuidados críticos).** Ante un edema agudo de pulmón en UCIP hay que evaluar la mitral.
+- **Exploración:** «facies mitral», cianosis periférica, ingurgitación yugular, TA normal. 1.^er^ ruido aumentado, chasquido de apertura y soplo mesodiastólico con refuerzo presistólico; con HTP grave, soplo protodiastólico de insuficiencia pulmonar.
+- **Radiografía y ECG:** cardiomegalia por AI y congestión; con HTP, arco medio pulmonar prominente y VD aumentado. ECG con crecimiento de AI y cavidades derechas o fibrilación auricular.
+- **Ecocardiografía** (definitiva): el área establece el grado; gradientes y presión pulmonar. ETE si la ventana es mala y para descartar trombos antes de la valvuloplastia.
+- **Estudio hemodinámico:** si los demás no son concluyentes o hay discrepancia clínica.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+**Insuficiencia mitral (Cuidados críticos).** Objetivo: preservar la función ventricular y retrasar la cirugía a una edad con mejores resultados. En UCIP suelen ingresar con edema agudo de pulmón o *shock*: reducir poscarga y eliminar líquidos.
+- **Inodilatadores:** inhibidores de la fosfodiesterasa (milrinona, amrinona): más contractilidad, mejor relajación diastólica y vasodilatación. Levosimendán, muy útil.
+- **Vasodilatadores** en perfusión (nitroprusiato): reducen la IM y la congestión; limitados por la hipotensión.
+- **IECA:** reducen el volumen regurgitante, mejoran el índice cardiaco y el remodelado.
+- **Diuréticos** de asa (furosemida) y tiazidas.
+- **IM aguda grave:** balón de contrapulsación o asistencia ventricular como puente a la cirugía.
+- **Arritmias** (suelen ser supraventriculares): amiodarona, flecainida, para mantener el ritmo sinusal.
+- **Anticoagulación** si la AI está muy dilatada, hay fibrilación auricular o antecedentes tromboembólicos: heparina en perfusión, HBPM o anticoagulantes orales (INR 2,5-3).
+- **Edema pulmonar:** CPAP/PEEP, muy eficaz incluso no invasiva; ventilación invasiva si fracasa o hay fatiga muscular (descenso de la FR con hipercapnia y confusión).
+- Nutrición adecuada; a menudo sonda nasogástrica o nasoyeyunal.
+
+**Estenosis mitral (Cuidados críticos).** Evitar la repercusión de la presión auricular sobre la circulación pulmonar.
+- **Diuréticos** (primera elección): de asa con o sin tiazidas o espironolactona.
+- **Betabloqueantes:** bajan la FC y alargan la diástole (llenado). Esmolol en perfusión o propranolol con diuréticos en la EM grave.
+- **Antagonistas del calcio** (verapamilo): inotrópicos y cronotrópicos negativos; enlentecen la conducción AV.
+- **Anticoagulación:** con fibrilación auricular, heparina, HBPM o anticoagulantes orales con INR en la mitad superior del rango 2-3. Obligatoria en ritmo sinusal con embolismo previo (hasta un 30 % recurren el primer año) o trombo en AI; recomendada con contraste denso espontáneo en la ETE o AI aumentada. Si hay recurrencia con INR > 2, añadir aspirina o subir el INR a 2,5-3,5.
+- **Cardioversión:** no indicada antes de intervenir en la EM grave (no mantiene el ritmo sinusal); sí precoz si la fibrilación es reciente y la AI solo está moderadamente aumentada. Ritmo sinusal con antiarrítmicos de clase IC o III.
+
+**Prolapso (Cuidados críticos).** En la mayoría no requiere tratamiento. La AHA ya no recomienda profilaxis antibiótica antes de procedimientos dentales o cirugía, salvo prótesis valvular o endocarditis previa.
+
+## Tratamiento quirúrgico
+
+**Insuficiencia mitral (Cuidados críticos).**
+- El momento depende del tipo de lesión, el grado, los síntomas y la posibilidad de reparar. Reparación indicada en la IM grave con insuficiencia cardiaca sin respuesta al tratamiento o edema pulmonar con hipertensión pulmonar.
+- **Preservar la válvula nativa** (aun con resultados subóptimos evita la anticoagulación): sutura de la hendidura, resección de una porción prolapsante, cierre de comisuras, reinserción de cuerdas, acortamiento de papilares, técnica de Alfieri (suturar las valvas entre sí); sobre el anillo, plicaturas o anillos (Carpentier, Cosgroove). Mortalidad precoz < 3 % y supervivencia libre de reoperación a 10 años > 70-80 %.
+! «Cosgroove» aparece así en el original (el anillo suele escribirse Cosgrove).
+
+- **Prótesis** si falla la reparación: se prefieren mecánicas de bajo perfil (menos espacio, distorsión y obstrucción de la salida del VI); bioprótesis rara vez (contraindicación de anticoagular o causas socioeconómicas). Mortalidad precoz de hasta el 8 %; supervivencia a 10 años del 50-78 %.
+- Niños pequeños con anillo en el que no cabe la prótesis más pequeña: posición supraanular o prótesis aórticas invertidas. Riesgos: compresión de la circunfleja o protrusión sobre la salida pulmonar. Mortalidad en neonatos del 40-50 % el primer año.
+
+**Estenosis mitral (Cuidados críticos).**
+- Indicada con congestión pulmonar grave con compromiso respiratorio, lesiones anatómicas graves, HTP grave o disfunción ventricular.
+- Valvuloplastia con balón por cateterismo en anatomías favorables (la comisurotomía percutánea reduce también el riesgo embólico).
+- Cirugía: resección de la membrana supramitral, comisurotomía, resección de cuerdas obstructivas y división de papilares estenóticos, a menudo combinadas. Si no es viable o fracasa, prótesis (retrasarla en el niño pequeño por los recambios futuros).
+
+**Prolapso:** el 10 % empeora y precisa recambio valvular.
+
+## Complicaciones posquirúrgicas y su manejo
+
+*Cuidados críticos.*
+- **Tras el reemplazo valvular:** vigilar el descenso de la función ventricular por el remodelado del aparato subvalvular (que además de evitar la regurgitación mantiene la geometría y coordina la contracción del VI).
+- **Prótesis en el niño pequeño:** compresión de la arteria circunfleja o protrusión sobre la salida pulmonar.
+- **Complicaciones de la prótesis:** tromboembolismo, hemorragia (anticoagulación) y deterioro estructural, que condicionan la supervivencia junto con la edad, la clase funcional, la fibrilación auricular, la hipertensión pulmonar y la función del VI preoperatoria.
+- **Prolapso:** endocarditis y arritmias, poco frecuentes.

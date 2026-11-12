@@ -1,0 +1,211 @@
+@f TEMAS/CC/7
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 15).* Los corazones con un ventrículo bien desarrollado y otro hipoplásico suelen deberse a conexiones AV a un solo ventrículo (doble entrada o ausencia de una conexión AV): «corazones univentriculares». Pero también ocurre con conexiones AV conservadas: hipoplasia del VI por estenosis o atresia aórtica, del VD por estenosis o atresia pulmonar, y Ebstein grave por la gran atrialización del VD. Anderson y cols. las agruparon como **«corazón funcionalmente univentricular»**: uno de los ventrículos no puede mantener su circulación por tamaño o función. No admiten corrección biventricular y requieren reparación de ventrículo único (VU) o de ventrículo y medio.
+
+*Cardiología pediátrica para residentes (cap. 21, HGUGM).* Morfológicamente, no existen dos ventrículos correctamente desarrollados (uno falta o es rudimentario); fisiológicamente, cualquier cardiopatía en la que no se pueden separar las circulaciones pulmonar y sistémica. Incluye el SVIH, la atresia tricúspide, algunas APSI, el ventrículo único de doble entrada, el canal AV disbalanceado, algunas dobles salidas de VD con CIV no relacionada y el Ebstein grave. El prototipo de VU derecho es el SVIH y el de VU izquierdo, la atresia tricúspide; la distinción tiene interés pronóstico. Tasa de diagnóstico prenatal elevada en nuestro medio; la circulación fetal permite que se mantengan estables y el diagnóstico prenatal ayuda a planificar el parto.
+
+! La atresia tricúspide, la anomalía de Ebstein y el síndrome de corazón izquierdo hipoplásico tienen su propia ficha. Aquí se recogen el corazón univentricular y la paliación por etapas (Glenn y Fontan), común a todos.
+
+# Fisiopatología y variantes
+
+@img cc-07-vu.svg
+
+*Cuidados críticos.* Por la conexión AV anómala hay siempre un ventrículo principal bien desarrollado y otro accesorio hipoplásico sin entrada (posterior si es morfológicamente izquierdo, anterior si es derecho), o ventrículos de morfología indeterminada. El tamaño del accesorio depende de la CIV. Se asocian a menudo coartación, arco interrumpido, anomalías de las válvulas tricúspide o mitral, del retorno venoso sistémico o pulmonar, y heterotaxias.
+
+**Tipos más frecuentes:**
+- **VI de doble entrada con TGA:** el flujo aórtico depende del foramen bulboventricular, que puede ser o hacerse restrictivo.
+- **VI de doble entrada sin TGA (corazón de Holmes):** mucho más raro; suele asociar estenosis pulmonar.
+- **VD de doble entrada:** ambos vasos del ventrículo desarrollado (doble entrada y doble salida) o uno de cada ventrículo, con o sin transposición.
+- **Ausencia de una válvula AV** (atresia tricúspide o mitral) con ventrículo dominante izquierdo o derecho. La mayoría de las atresias mitrales se asocian a atresia aórtica.
+
+**Fisiopatología.** Un solo ventrículo con dos vasos a la misma presión, conectados a circuitos de distinta resistencia que pueden estar obstruidos a varios niveles:
+- Flujo sistémico disminuido si hay obstrucción aórtica (vascular, valvular o subvalvular).
+- Flujo pulmonar disminuido si hay obstrucción pulmonar.
+- Hiperaflujo pulmonar con HTP si no hay estenosis pulmonar protectora; peor si hay obstrucción sistémica (p. ej., coartación).
+- Mezcla intracardiaca restrictiva auricular (más rara) o ventricular, por CIA o CIV pequeñas.
+
+*Residentes.* Todos los corazones univentriculares no paliados comparten: mezcla de sangre sistémica y pulmonar (saturación del 75-85 %); el VU bombea a ambas circulaciones (más trabajo); el reparto entre ambas depende del tamaño de las arterias de salida y de las resistencias de cada circuito, lo que suele determinar la presentación neonatal.
+
+# Clínica
+
+*Cuidados críticos.*
+- Sin limitación al flujo pulmonar: al bajar las resistencias, hiperaflujo e insuficiencia cardiaca a los días o semanas.
+- Con estenosis o atresia pulmonar grave: predomina la cianosis, según el flujo por el ductus o las colaterales. Con estenosis moderada (Qp/Qs < 2) los síntomas pueden ser leves.
+- Se detectan antes los cianóticos que los que tienen insuficiencia cardiaca, aunque todos tienen algo de cianosis. La mayoría se diagnostican en el periodo neonatal, al cerrarse el ductus.
+- Con coartación o interrupción del arco y sin limitación pulmonar, el hiperaflujo es intolerable (*shock* cardiogénico).
+- Soplo sistólico si hay estenosis pulmonar o aórtica; continuo si hay ductus o colaterales. Con coartación, diferencia de pulsos y gradiente tensional. Con DVPAT asociado, evolución rápida a *shock* con congestión grave («pulmón blanco»).
+
+*Residentes.* Preguntas clave en el neonato: ¿flujo sistémico asegurado?, ¿cómo es el flujo pulmonar?, ¿problema en el retorno venoso pulmonar?, ¿circulaciones balanceadas?
+- **Flujo sistémico no asegurado** (p. ej., SVIH): bajo gasto e hiperaflujo (palidez, cianosis, taquipnea, taquicardia, rechazo de tomas, pulsos débiles, letargia) o *shock* que puede confundirse con sepsis.
+- **Flujo sistémico asegurado** (p. ej., atresia tricúspide): si el flujo pulmonar es insuficiente, cianosis en los primeros días con saturación < 85 %; si no está limitado, insuficiencia cardiaca hacia las 2-3 semanas. Con circulaciones equilibradas, estables con saturación del 80-85 % y sin cirugía neonatal.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** inespecífico; eje y predominio ventricular. Con el crecimiento, útil para las arritmias frecuentes (bloqueos AV, ritmos de la unión).
+- **Radiografía:** cardiomegalia y plétora sin limitación pulmonar; con estenosis, corazón normal o algo dilatado y vasculatura normal o disminuida.
+- **Ecocardiografía transtorácica:** diagnóstico morfológico preciso; la transesofágica, en quirófano.
+- **Cateterismo:** si hay dudas; puede demorarse en asintomáticos; vital antes del Fontan. AngioTC y angioRM probablemente serán la referencia.
+
+*Residentes. Claves del manejo neonatal ante sospecha de corazón univentricular:*
+1. Sospecharlo con saturación < 85 % y/o bajo gasto sistémico. Mirar saturación y TA en miembros superiores (preductal) e inferiores (posductal).
+2. ECG basal: SVIH (dilatación de AD y VD, qR en precordiales derechas); atresia tricúspide (crecimiento de VI, fuerzas derechas disminuidas, eje izquierdo, raro en neonatos).
+3. Radiografía: oligohemia o cardiomegalia con edema.
+4. **Iniciar prostaglandinas ante la sospecha clínica, sin esperar a la ecocardiografía.**
+5. Ecocardiografía: ¿drenaje venoso pulmonar comprometido?, ¿función del VU?, ¿flujo sistémico asegurado?, ¿flujo pulmonar?
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Residentes.*
+- **Flujo sistémico no asegurado:** prostaglandinas y, según la situación, ventilación mecánica, inotrópicos, diuréticos y corrección de la acidosis. Todo el flujo pasa por el VU y se reparte según las resistencias: lo que favorece un circuito resta al otro (el oxígeno para subir la saturación o los bolos de sedación pueden causar bajo gasto sistémico y comprometer las coronarias). **Mejor azul (poco flujo pulmonar) que gris (poco flujo sistémico).**
+- **Flujo pulmonar insuficiente:** prostaglandinas hasta la fístula o el *stent* ductal.
+- **Entre estadio 1 y 2:** saturación habitual del 75-85 %. Alimentación (a menudo hipercalórica, sonda o gastrostomía; sin ganancia ponderal, reevaluar), cuidado de la esternotomía 6 semanas (no cogerlos por debajo de los brazos), calendario vacunal y profilaxis del VRS, evitar infecciones (las gastroenteritis aumentan el riesgo de trombosis de la fístula; ajustar diuréticos), AAS, diuréticos, betabloqueantes, IECA, seguimiento del neurodesarrollo y, en los más frágiles (Norwood), monitorización domiciliaria: acudir si saturación < 75 % o > 90 % o si no gana 20 g/día durante dos días.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* Objetivo final: conexión cavopulmonar total (Fontan modificado), en la que la sangre venosa (salvo la del seno coronario) atraviesa el pulmón sin ventrículo subpulmonar.
+
+*Cuidados críticos. Tabla II. Pasos en la corrección quirúrgica del corazón univentricular.*
+
+| Fase | Intervención | Objetivo |
+|---|---|---|
+| 1.ª | *Banding* de la pulmonar o *shunt* sistémico-pulmonar | Proteger el lecho vascular pulmonar |
+| 2.ª | Anastomosis cavopulmonar superior | Reducir la carga del VU |
+| 3.ª | Anastomosis cavopulmonar total | Reducir o evitar la cianosis |
+
+- **1.ª fase (paliación neonatal):** corrección de anomalías asociadas (coartación, interrupción del arco, valvuloplastias…) y una paliación que equilibre las circulaciones: fístula sistémico-pulmonar (Blalock-Taussig modificada u otras) si hay cianosis; cerclaje de la AP si predomina la insuficiencia cardiaca.
+- **2.ª fase (3-6 meses):** conexión cavopulmonar superior (Glenn modificado o hemi-Fontan).
+- **3.ª fase (2-6 años):** conexión cavopulmonar total o Fontan modificado, intra o extracardiaco, con o sin fenestración.
+
+*Residentes.* Glenn a los 4-6 meses (generalmente a los 6; las resistencias altas lo contraindican antes de los 3 meses) y Fontan entre los 2 y 6 años. Norwood (en el SVIH): reconstrucción del arco con la AP, flujo pulmonar por fístula o conducto VD-AP, atrioseptectomía y ligadura del ductus. Alternativa híbrida: *bibanding* de las ramas pulmonares y *stent* ductal.
+
+### 1.ª fase: paliación neonatal
+
+*Cuidados críticos.* Equilibrar el Qp/Qs puede ser difícil, sobre todo en prematuros y bajo peso. **Una SatO~2~ del 80 % indica Qp/Qs equilibrado (1:1).**
+
+**Fístula sistémico-pulmonar.**
+- **Hipoperfusión pulmonar** (SatO~2~ < 75 %, hiperclaridad pulmonar): tratar la HTP con ventilación y vasodilatadores pulmonares. Otras causas: vasoplejía sistémica, arterias pulmonares pequeñas, obstrucción parcial de la fístula. Diagnosticar la causa es una emergencia.
+- **Hiperaflujo pulmonar** (SatO~2~ > 85 %, diastólicas bajas, presión de pulso amplia, hiperaflujo radiológico, acidosis metabólica progresiva, hiperlactacidemia): «*banding* farmacológico»: hematocrito 40-45 %, diuréticos, vasodilatadores sistémicos intravenosos (milrinona, nitroprusiato) y después orales (IECA), ventilación con FiO~2~ 0,21 (o menos, añadiendo nitrógeno); si es refractario, buscar lesiones residuales (coartación).
+- Por la ley de Poiseuille (Q = ΔP·πr⁴/8Lη), el radio es el factor principal, pero en un tubo rígido no cambia; por eso se actúa sobre la viscosidad y las resistencias.
+- Algunos tardan semanas en equilibrarse; otros desarrollan hiperaflujo tardío (3-4 semanas) al bajar las RVP.
+- **Prevenir la trombosis de la fístula** (mortal, emergencia): evitar deshidratación y balances muy negativos; heparina sódica a 10 U/kg/h en perfusión desde las 6-12 h si no sangra, sustituida por antiagregantes al iniciar la enteral; evitar la policitemia.
+
+**Banding de la AP.** Puede quedar flojo o apretado, migrar distalmente (distorsión u oclusión de ramas) o, si está muy cerca de la válvula, causar insuficiencia, perjudicial si esa válvula será la neoaorta.
+
+**Postoperatorio de la paliación.**
+- Catéter arterial (preferiblemente radial derecha si se reparó coartación) y venoso central; SatO~2~ cerebral y abdominal; gasto por métodos poco invasivos.
+- Rara vez inotrópicos (dopamina o dobutamina); vasodilatadores sistémicos si hay hiperaflujo. Tras reparar una coartación, HTA que puede requerir nitroprusiato, urapidilo, nicardipino y betabloqueantes (esmolol, labetalol).
+- Extubación precoz deseable; prematuros, bajo peso, sindrómicos, RVP altas o hiperaflujo pueden necesitar ventilación prolongada; la presión positiva puede darse con CPAP o BiPAP; óxido nítrico también extubado.
+- Analgesia no opioide; fentanilo y benzodiacepinas a dosis bajas los primeros días (sobre todo tras toracotomía); clonidina o dexmedetomidina en perfusión.
+- **Complicaciones:** quilotórax, parálisis frénica, síndrome de Horner.
+
+### 2.ª fase: Glenn
+
+*Cuidados críticos.* Baja morbimortalidad; descarga el VU, pero persiste la cianosis.
+- **Glenn modificado o bidireccional:** VCS a ambas arterias pulmonares, seccionando la AP o restringiendo más el *banding* (Glenn pulsado: más sobrecarga diastólica y riesgo de migración del *banding*, pero llega al pulmón el factor hepático antiangiogénico y mejora la oxigenación; deseable si se descarta el Fontan).
+- **Hemi-Fontan:** conexión AD-AP con parche intraauricular; facilita un Fontan intracardiaco.
+- **Doble Glenn** si hay dos VCS.
+
+**Requisitos (Cuidados críticos):**
+- Anatómicos: arterias pulmonares sin estenosis ni deformación, drenaje venoso pulmonar normal, comunicación interauricular no restrictiva (si hay atresia o estenosis de una válvula AV), sin obstrucción aórtica ni trombos.
+- Funcionales: presiones y RVP bajas, válvula AV sin insuficiencia significativa, función ventricular normal y ritmo sinusal.
+- Se propone hacia los 3 meses, idealmente antes de los 6 (en el SVIH antes). El cateterismo sigue siendo la técnica clave (y puede ser intervencionista: estenosis de ramas, coartación residual, embolización de colaterales); test vasodilatador si el riesgo es medio-alto.
+
+*Cuidados críticos. Tabla III. Riesgo de la conexión cavopulmonar.*
+
+| Valores | Riesgo bajo | Riesgo medio | Riesgo alto |
+|---|---|---|---|
+| IRVP (UWood) | < 2 | 2-4 | > 4 |
+| PmAP (mmHg) | < 15 | 15-20 | > 20 |
+| PTDV (mmHg) | < 8 | 8-12 | > 12 |
+| FE (%) | > 60 | 45-60 | < 45 |
+
+*IRVP: índice de resistencias vasculares pulmonares; PmAP: presión media arterial pulmonar; PTDV: presión telediastólica del ventrículo único o predominante; FE: fracción de eyección.*
+
+**Postoperatorio del Glenn (Cuidados críticos).**
+- Dos vías venosas: una en VCI/AD (transtorácica o femoral) y otra yugular para la PmAP (retirarla cuanto antes por riesgo de trombosis del circuito). Monitorización cerebral.
+- Semisentado a 45°, nutrición enteral y movilización precoces, drenajes pleurales al menos 48 h (derrames, quilotórax).
+- Inodilatadores a dosis bajas (milrinona): objetivo SatO~2~ 75-80 %, PVC 5-6 mmHg, PAP < 15 y gradiente transpulmonar (PAP − PVC) < 10. HTA transitoria frecuente.
+- Extubación en las primeras 6 h. En ventilación: evitar la hiperventilación (reduce el flujo cerebral, del que depende la precarga pulmonar) y usar la menor presión media el menor tiempo. La retención de CO~2~ no contraindica la extubación si no es exagerada.
+- Sedoanalgesia que permita respiración espontánea, tos y reflejos; la irritabilidad es frecuente (congestión venosa cerebral).
+- **Anticoagulación:** heparina sódica intravenosa en perfusión a 10 U/kg/h (o bolos de 50 U/kg cada 6 h) o HBPM, sustituida por AAS oral 3-5 mg/kg/día al iniciar la enteral (alternativas: dipiridamol, clopidogrel).
+
+*Residentes.* Tras el Glenn la saturación es del 80-85 %. Toda desaturación respecto a la basal requiere evaluación: desaturación venosa pulmonar (atelectasias, derrames, neumonía), menor flujo pulmonar (estenosis de ramas o de la sutura de la VCS, RVP altas) o desaturación venosa sistémica (anemia, bajo gasto, más demanda). Una hemoglobina «normal» puede ser insuficiente; vigilar el hierro. AAS y, si precisa, vasodilatadores pulmonares (sildenafilo/tadalafilo, bosentán/macitentán).
+
+### 3.ª fase: Fontan
+
+*Cuidados críticos.* La técnica original (AD a AP) tenía alta morbimortalidad. Mejoras: Glenn o hemi-Fontan previo; Fontan intracardiaco (túnel lateral en la AD) o extracardiaco (conducto VCI-AP); fenestración, que asegura el llenado a costa de menos oxigenación (puede cerrarse por cateterismo después). Supervivencia hospitalaria actual del 98 %.
+
+**Postoperatorio del Fontan (Cuidados críticos).**
+- Catéter transtorácico en aurícula y otro venoso (preferiblemente yugular) para PAP y gradiente transpulmonar (PAP − PAI); retirar pronto.
+- Semisentado a 40-45° con las piernas algo elevadas; enteral y movilización precoces (muy importante); vigilar drenajes (derrames persistentes y quilotórax); diuréticos precoces sin comprometer la volemia, crucial para el gasto.
+- El gasto depende más del flujo pulmonar que del VU. Milrinona a dosis bajas; objetivo SatO~2~ en torno al 90 % si hay fenestración, PAP < 15 mmHg y gradiente transpulmonar < 10 mmHg. HTA y edemas iniciales frecuentes.
+- Aún más que tras el Glenn, evitar la hiperventilación y la presión intratorácica excesiva; extubación precoz; tratar pronto cualquier complicación respiratoria. Óxido nítrico en muy hipoxémicos con PAP alta y gran paso por la fenestración, con cautela si hay disfunción ventricular.
+- **Anticoagulación:** complicaciones tromboembólicas en el 3-19 % (bajo gasto, arritmias auriculares, estasis, congestión hepática, déficit de proteínas C, S y antitrombina III). Sin consenso entre anticoagular o antiagregar (ambas reducen sin evitar). Habitualmente heparina sódica a 10 U/kg/h y antiagregantes (AAS, dipiridamol, clopidogrel…) al iniciar la enteral; en alto riesgo, HBPM en pequeños o anticoagulantes orales en mayores de 2 años.
+
+*Cuidados críticos. Tabla V. Ventilación mecánica tras el Fontan.*
+
+| Parámetro | Consideración |
+|---|---|
+| PEEP | Mantener la capacidad residual para evitar atelectasias y vasoconstricción hipóxica; PEEP baja (< 9 cmH~2~O) parece beneficiosa |
+| PIP, Ti y FiO~2~ | Valores bajos; FiO~2~ para SatO~2~ 90 % en Fontan fenestrados |
+| Frecuencia | Promover las respiraciones espontáneas disminuyendo las programadas |
+| Alta frecuencia | Clásicamente contraindicada; usada en daño pulmonar con mínimos efectos hemodinámicos, siempre con bajas presiones |
+| Ventilación no invasiva | Podría ser beneficiosa al permitir la respiración espontánea; experiencia escasa |
+| Presión negativa | Rescate con buenos resultados en bajo gasto; difícil con esternotomía y drenajes (caparazón toracoabdominal) |
+
+## Complicaciones posquirúrgicas y su manejo
+
+### Tras el Glenn (Cuidados críticos)
+
+- **Hiperpresión en el circuito pulmonar:** edema en esclavina, cianosis progresiva y bajo gasto; favorecida por la inflamación, la sobrecarga hídrica y la ventilación. Extubación precoz, resolver derrames y atelectasias, vasodilatadores pulmonares (óxido nítrico, sildenafilo y/o bosentán) y diuréticos. Si la PAP sigue > 18 mmHg, cateterismo (estenosis de la anastomosis o de ramas, trombosis, RVP altas).
+- **HTA:** por dolor, estrés o de origen central (mantener el flujo cerebral); suele ser transitoria y controlarse con vasodilatadores orales; si es grave, nitroprusiato intravenoso.
+- **Bajo gasto** (raro): en disfunción ventricular o insuficiencia AV previas, incluso brusco tras cambios de volemia; son candidatos a trasplante más que a Fontan.
+- **Hipoxemia** (la más frecuente): objetivo SatO~2~ 75-85 %; si < 70 %, buscar: menor flujo cerebral (hipocapnia, hipotensión), patología respiratoria, más consumo (sepsis, bajo gasto, disfunción del VU, anemia) o menor flujo pulmonar (RVP altas, estenosis de la anastomosis, CIA restrictiva). Colaterales venovenosas: ocluir en cateterismo.
+
+*Cuidados críticos. Tabla IV. Causas de bajo gasto tras el Glenn.*
+
+| GTP = PAP − PVC | PVC o PAI* | Diagnóstico |
+|---|---|---|
+| < 5 | < 5 | Hipovolemia |
+| < 5 | 5-10 | Si el catéter yugular tiene la punta más allá de la anastomosis, la estenosis de esta puede causar bajo gasto |
+| < 5 | > 10 | Insuficiencia de la válvula AV, disfunción del VU u obstrucción residual en el circuito sistémico |
+| > 5 | 5-10 | Aumento de la resistencia pulmonar, estenosis de venas pulmonares, trombosis en AP o anastomosis cavopulmonar restrictiva (si la punta del catéter yugular es proximal a ella) |
+| > 10 y PAP > 20 | | Presión pulmonar crítica (fracaso de la circulación pulmonar) |
+
+*\*Tras el Glenn la PVC equivale a la presión auricular izquierda si la comunicación interauricular no es restrictiva. GTP: gradiente transpulmonar.*
+
+### Tras el Fontan (Cuidados críticos)
+
+- **Hiperpresión en el circuito cavopulmonar:** edemas, hepatoesplenomegalia, ascitis, PAP alta y cianosis progresiva (con fenestración) o bajo gasto (sin ella). Valorar el riesgo de la respiración espontánea si hay bajo gasto y acidosis. Tratar enérgicamente las complicaciones respiratorias; vasodilatadores pulmonares (óxido nítrico, sildenafilo, bosentán, iloprost; reducen poco la RVP, 0-8 %) y diuréticos. Si PAP > 18 mmHg con SatO~2~ < 80 %, valoración y cateterismo, tras descartar arritmias, disfunción ventricular o valvular, derrame pericárdico y mal funcionamiento de la fenestración. Sin causa tratable: deshacer el Fontan y valorar trasplante.
+- **Bajo gasto:** más en los de mayor riesgo (tabla III), por disfunción ventricular o insuficiencia AV grave. Inotrópicos, vasodilatadores, diuréticos, incluso resincronización; si es refractario, ECMO, asistencia ventricular o trasplante.
+- **Hipoxemia:** buscar fístulas venovenosas o arteriovenosas (ocluirlas). Sin hiperpresión, puede ocluirse la fenestración por cateterismo si mejora la oxigenación sin bajar el gasto ni subir la PAP por encima de 18 mmHg.
+- **Derrames** (pleural, pericárdico, quilotórax, ascitis, edemas): frecuentes aun con fenestración; drenajes prolongados; en el quilotórax, dieta con triglicéridos de cadena media o dieta absoluta y parenteral; refractarios: somatostatina u octreótido, a veces pleurodesis.
+- **Arritmias:** más en los primeros días; mal toleradas (la sincronía AV es vital): tratamiento agresivo. Flutter auricular frecuente, a veces precedido de bradicardia sinusal; cables epicárdicos auriculares y ventriculares. Las ventriculares son raras e indican disfunción grave o fracaso del Fontan.
+- **Crónicas:** gasto bajo en reposo, menor tolerancia al ejercicio, tromboembolismo, arritmias, enteropatía pierde-proteínas, bronquitis plástica.
+
+*Cuidados críticos. Tabla VI. Causas de bajo gasto tras el Fontan.*
+
+| GTP = PAP − PAI | PAI | Diagnóstico |
+|---|---|---|
+| < 5 | < 5 | Hipovolemia |
+| < 5 | > 10 | Insuficiencia de la válvula AV, disfunción del VU u obstrucción residual en el circuito sistémico |
+| > 5 | 5-10 | Aumento de la resistencia pulmonar, trombosis en AP o anastomosis cavopulmonar restrictiva (si la punta del catéter venoso es proximal a ella) |
+| > 10 y PAP > 20 | | Presión pulmonar crítica (fracaso de la circulación pulmonar) |
+
+*El GTP no es válido con fenestración (la PAI se mantiene alta por el shunt derecha-izquierda).*
+
+**Fracaso del Fontan (Cuidados críticos).** Dos formas: fallo del VU con gasto inadecuado o fallo del circuito (el más frecuente y de evolución más rápida y grave), con afectación renal, linfática, digestiva (ascitis, enteropatía pierde-proteínas), pulmonar (bronquitis plástica) y hepática (fibrosis, cirrosis, carcinoma). Supervivencia del 70 % a 25 años. Tratamiento: trasplante cardiaco o combinado hígado-corazón. En el fracaso agudo se han usado balón de contrapulsación, asistencia ventricular o ECMO como puente.
+
+*Cuidados críticos. Tabla VII. Asistencia ventricular en el fallo del Fontan.*
+
+| Dispositivo | Indicación |
+|---|---|
+| VAD en el circuito cavopulmonar (RVAD o CPAD) | Mejora el fallo del Fontan si hay disfunción diastólica con sístole del VU conservada |
+| VAD en el VU (LVAD) | Mejora el gasto y la PTD del VU en la disfunción sistólica (el CPAD puede empeorar el fallo) |
+| BiVAD | Buenos resultados en la disfunción combinada (sistólica y diastólica) |
+
+Trasplante tras Fontan: mortalidad inmediata mayor y cirugía técnicamente compleja; supervivencia posterior del 80 % a 5 años, peor si el motivo fue el fallo del circuito que si fue el del VU.

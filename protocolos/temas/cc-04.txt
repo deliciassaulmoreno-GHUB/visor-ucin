@@ -1,0 +1,139 @@
+@f TEMAS/CC/4
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 12).* Grupo de anomalías por desarrollo embrionario anómalo de los cojinetes endocárdicos en el canal auriculoventricular, que afecta al septo AV y a las válvulas AV. También se denominan canal auriculoventricular común (CAVC) o defecto de los cojinetes endocárdicos.
+- Representan el 2-3 % de las cardiopatías congénitas, con una incidencia de 0,2 por 1.000 recién nacidos vivos; ligero predominio femenino.
+- Frecuentes en trisomías, sobre todo síndrome de Down (trisomía 21) y Edwards (trisomía 18). El 50 % se diagnostica en pacientes con síndrome de Down. También frecuentes en los síndromes de heterotaxia (sobre todo con asplenia).
+
+*Cardiología pediátrica para residentes (cap. 16).* Representan el 3-5 % de las cardiopatías congénitas y son la cardiopatía más frecuente del síndrome de Down: el 40 % de los niños con síndrome de Down tienen cardiopatía y, de ellas, aproximadamente el 50 % son defectos del septo AV, por lo general la forma completa (> 75 %). El 50 % de los defectos del septo AV tienen síndrome de Down. Frecuente asociación a heterotaxia (a menudo con aurícula común).
+
+! Frecuencia distinta según la fuente: 2-3 % (Cuidados críticos) y 3-5 % (Residentes).
+
+# Fisiopatología y variantes
+
+@img cc-04-cavc.svg
+
+## Anatomía común
+
+*Cuidados críticos.* Los cojinetes forman la porción inferior del septo auricular, la superior del septo ventricular y los velos septales tricúspide y mitral. Rasgos comunes:
+- Ausencia del septo AV.
+- Velos de ambas válvulas AV insertados a la misma altura en la *crux cordis*.
+- Desplazamiento anterior de la válvula aórtica y alargamiento del tracto de salida izquierdo, que puede obstruirse.
+- Rotación antihoraria de los músculos papilares del ventrículo izquierdo.
+- *Cleft* de la válvula mitral hacia el septo interventricular.
+- Tejido de conducción desplazado: el nodo AV se sitúa hacia atrás, cerca del seno coronario, y el haz de His más inferior, a lo largo del borde inferior del defecto.
+
+*Residentes.* Ambas válvulas AV quedan a la misma altura (un único anillo), sin la inserción más apical de la tricúspide. El desplazamiento anterior de la aorta elonga el tracto de salida del VI (deformidad «en cuello de cisne»), más común en los parciales.
+
+! Cuidados críticos describe la rotación de los papilares como antihoraria y Residentes, en el sentido de las agujas del reloj.
+
+## Tipos
+
+@img cc-04-cavp.svg
+
+*Cuidados críticos (clasificaciones de Van Praagh y Anderson, simplificadas):*
+1. **Parcial:** CIA ostium primum, dos válvulas y anillos AV con *cleft* mitral, sin CIV.
+2. **Transicional:** CIA ostium primum, CIV restrictiva y dos anillos con dos orificios AV.
+3. **Completo (canal AV completo):** CIA ostium primum, CIV grande no restrictiva y válvula AV común de 5 valvas incompletas (2 anterosuperiores, derecha e izquierda; 2 laterales, derecha e izquierda; 1 posterior común).
+- **Intermedio** (propuesto por algunos autores): anillo común con dos orificios AV.
+
+Parcial y transicional se comportan como una CIA ostium secundum.
+
+*Residentes.* Canal AV intermedio: dos orificios separados por una banda fibrosa (componente valvular izquierdo y derecho; no deben llamarse mitral y tricúspide), con CIV de entrada grande. Canal transicional: CIA OP con pequeña CIV de entrada restrictiva, parcialmente cerrada por uniones fibrosas.
+
+**Clasificación de Rastelli** (anclaje de los velos anterosuperiores de la válvula común al septo):
+- **A** (el más frecuente, 75 %): cuerdas en la cresta del septo interventricular. Suele ser aislado y muy frecuente en el síndrome de Down.
+- **B** (el menos frecuente): anclaje en la cara septal del VD.
+- **C:** cuerdas ancladas a la cara no septal del VD. Se asocia a malformaciones complejas: tetralogía de Fallot (combinación típica del síndrome de Down), doble salida de VD (más característica de la asplenia), TGA y heterotaxia.
+
+**Balanceado o no balanceado.** Balanceado si la unión AV se reparte por igual entre ambos ventrículos. No balanceado (hasta el 10 %): un ventrículo hipoplásico y otro dominante; 2/3 con VD dominante (VI hipoplásico, con posible coartación o anomalías del arco). Con VI dominante, el VD es hipoplásico y se asocia a estenosis o atresia pulmonar; es lo típico del síndrome de Down no balanceado. Determina la reparación (univentricular o biventricular).
+
+! Residentes da que hasta un 60 % de los no balanceados tienen VD dominante; Cuidados críticos, 2/3.
+
+## Hemodinámica
+
+*Cuidados críticos.*
+- Cortocircuitos auricular, ventricular y ventrículo-atrial, y regurgitación de la válvula AV común (sin la dilatación de AI de la insuficiencia mitral pura). Resultado: *shunt* izquierda-derecha y aumento del Qp/Qs cuando bajan las resistencias pulmonares.
+- **Volumen:** el *shunt* auricular sobrecarga el VD y el ventricular, las cavidades izquierdas; el completo produce sobrecarga biventricular. Si el defecto auricular es muy restrictivo predomina la sobrecarga del VI; si la mitral es restrictiva, la del VD.
+- **Presión:** en la mayoría de los completos hay presión alta en el VD. Con CIV no restrictiva, presión pulmonar precapilar isosistémica, agravada por la regurgitación AV grave. Con predominio auricular, por hiperaflujo u obstrucción del retorno venoso pulmonar.
+- Hiperaflujo más presión alta en el VD llevan a enfermedad vascular pulmonar obstructiva y HTP a edades muy precoces (Eisenmenger); más precoz en el síndrome de Down por obstrucción distal de la vía aérea e hipoventilación alveolar.
+- Insuficiencia cardiaca hacia las 6-8 semanas, al bajar las resistencias pulmonares. Si estas siguen altas tras el periodo neonatal (frecuente en la trisomía 21 con canal completo), la insuficiencia es más tardía pero tienden a la cianosis por inversión del Qp/Qs.
+
+# Clínica
+
+*Cuidados críticos.* Suele empezar al bajar las resistencias pulmonares tras el periodo neonatal; en defectos grandes puede haber síntomas desde el nacimiento, con predominio de cianosis. Luego, insuficiencia cardiaca y retraso ponderoestatural. La rapidez depende del tamaño de la CIV, del grado de regurgitación AV y de las resistencias pulmonares.
+- **Parciales** (dos orificios, *shunt* auricular): como una CIA ostium primum; asintomáticos hasta la infancia tardía (a veces infecciones respiratorias de repetición). Desdoblamiento amplio del 2.º ruido (fijo o no) y soplo sistólico eyectivo (2-3) paraesternal izquierdo superior.
+- **Completos** (orificio común, *shunt* ventricular significativo): insuficiencia cardiaca (fatiga con las tomas, taquipnea, taquicardia) y retraso ponderoestatural hacia los 2-3 meses; hepatomegalia y edemas en un niño malnutrido. Precordio hiperdinámico, frémito paraesternal izquierdo bajo, 1.^er^ ruido acentuado y 2.º poco desdoblado. Si no hay síntomas hacia el año, sospechar enfermedad vascular pulmonar obstructiva.
+- **Regurgitación AV grave:** gran cortocircuito e insuficiencia cardiaca incluso con *shunt* auricular. Sospecharla con soplo pansistólico máximo entre el borde paraesternal izquierdo y el ápex. Con cortocircuitos pequeños la clínica puede venir solo de la insuficiencia valvular, incluso en la edad adulta.
+
+*Residentes.* Completo: retraso del crecimiento, infecciones respiratorias de repetición, taquipnea, tiraje, hepatomegalia, sudoración y fatiga con las tomas; desde soplo sistólico suave hasta pansistólico por regurgitación, posible soplo diastólico, 2.º tono reforzado y con desdoblamiento amplio. Sin cirugía la mortalidad es alta; tras el año, con enfermedad vascular pulmonar establecida, hay una fase de relativo buen estado y después Eisenmenger. Parcial: suele ser asintomático; con regurgitación mitral grave, insuficiencia cardiaca. Soplo eyectivo pulmonar, 2.º ruido desdoblado fijo y soplo de regurgitación apical.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG** (característico en los completos):
+  - Eje desviado hacia arriba e izquierda; la mayoría entre −90° y −120° (rango −30° a 130°). Cuanto más arriba y a la derecha, más probable una comunicación ventricular extensa con orificio común.
+  - PR largo hasta en el 25 %.
+  - En aproximadamente el 50 %, P de crecimiento auricular derecho, izquierdo o biauricular.
+  - Sobrecarga de VD con rsR' o RSR' en V1-V2 hasta en el 80 %; 10 % con qR (hipoplasia de cavidades izquierdas). QRS ancho en 3/5 con orificio común y en casi 2/5 con dos orificios.
+- **Radiografía:** cardiomegalia con aumento de la trama vascular y crecimiento biventricular. La AD puede verse aumentada por el jet de regurgitación mitral dirigido a ella. Tronco pulmonar prominente. Con HTP (Eisenmenger) u obstrucción del tracto de salida del VD, la trama puede ser normal o estar disminuida.
+- **Ecocardiografía 2D** (*gold standard*). Sospecha: en apical 4 cámaras, tricúspide y mitral a la misma altura. Objetivos:
+  1. Tamaño de los defectos auricular y ventricular y defectos añadidos.
+  2. Anatomía del anillo, la válvula (o válvulas) y el anclaje de las cuerdas: relación con el septo, Rastelli, anomalías derechas o izquierdas (Ebstein), espacio entre papilares.
+  3. Balanceado o no: relación del septo auricular con la entrada ventricular; reparto de la válvula sobre ambos ventrículos en subcostal mediante el índice valvular AV (área AV izquierda/área AV total), balanceado si 0,4-0,6; Doppler color en apical 4 cámaras; gravedad del ventrículo hipoplásico.
+  4. Obstrucción del tracto de salida del VI.
+  5. Hemodinámica: dirección del flujo, gradiente por la CIV (presión del VD), gravedad de la regurgitación AV, precarga de ambos ventrículos, presión sistólica del VD por la regurgitación tricuspídea, obstrucción de los tractos de salida.
+  6. Función biventricular.
+  7. Lesiones asociadas: DAP, coartación, CIA ostium secundum, otras CIV, tetralogía de Fallot.
+- **Cateterismo:** raramente necesario, sobre todo si se repara pronto (2-4 meses). Indicación principal: resistencias pulmonares antes de la cirugía si se sospecha enfermedad vascular pulmonar (grave si RVP > 10 U/m², rara pero posible antes del año). Reactividad a vasodilatadores (antagonistas del calcio, óxido nítrico inhalado): si la HTP es reversible, cirugía correctora; si no responde, el riesgo es muy alto y se opta por paliación. Hallazgos: aumento de saturación en AD y VD; presión pulmonar isosistémica o suprasistémica en los completos y < 60 % de la sistémica en los parciales; aumento del Qp; imagen «en cuello de cisne» si hay obstrucción subaórtica.
+
+*Residentes.* ECG: hemibloqueo anterior izquierdo con eje superior e izquierdo (entre −150° y −40°) en el 70 % («eje de canal»), posible bloqueo de rama derecha, PR prolongado; en el parcial, eje superior (−40 a −150°), BAV de 1.^er^ grado, hipertrofia de VD o bloqueo de rama derecha. En el parcial el *cleft* se ve mejor en paraesternal eje corto. Cateterismo si se sospecha HTP, sobre todo en mayores de 6 meses.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* Los parciales asintomáticos o con insuficiencia cardiaca leve pueden tratarse médicamente hasta la cirugía en la infancia o adolescencia, o cuando el Qp/Qs supere 1,5. Los completos suelen diagnosticarse en el periodo fetal o neonatal precoz; el manejo inicial busca llegar a la cirugía en buenas condiciones y antes del daño vascular pulmonar. Los síntomas de los completos aparecen cuando bajan las resistencias, tras las primeras 48-72 h; en los parciales, más tarde.
+- Diuréticos para reducir la precarga (furosemida, tiazidas, espironolactona) y fármacos que reducen la poscarga (IECA, milrinona…).
+- Evitar FiO~2~ elevadas: el oxígeno es vasodilatador pulmonar y empeora el hiperaflujo. En los casos más graves, ventilación mecánica con inotrópicos; puede usarse mezcla hipóxica y relativa hipoventilación (hipercapnia) para favorecer la vasoconstricción pulmonar.
+- Si asocia hipoplasia del arco o coartación, prostaglandina E~1~ para evitar el cierre del ductus.
+- Palivizumab y vacunación antigripal en los periodos endémicos.
+- **Trisomía 21:** acceso vascular difícil (más tejido subcutáneo, vasos más pequeños) y lengua prominente que puede dificultar la intubación.
+
+*Residentes.* Tratamiento médico si hay síntomas o signos ecográficos de insuficiencia cardiaca; en casos graves, CPAP o ventilación mecánica con inotrópicos. El parcial no suele requerirlo.
+
+## Tratamiento quirúrgico
+
+**Momento.**
+- *Cuidados críticos:* completos, entre los 3 y 6 meses (la enfermedad vascular pulmonar se desarrolla el primer año, antes en el síndrome de Down; demorarla aumenta la enfermedad vascular y la regurgitación). Parciales: en controversia; clásicamente entre 1 y 3 años o con Qp/Qs > 1,5; la reparación antes de los 4 años se asocia a más crecimiento y menos regurgitación mitral, aunque otros estudios asocian la tardía a menos morbimortalidad.
+- *Residentes:* adelantar la cirugía si hay insuficiencia cardiaca refractaria, neumonías de repetición o retraso importante del crecimiento; en el síndrome de Down, antes de los 6 meses. Parcial asintomático: electiva entre 1 y 3 años.
+
+**Técnicas (Cuidados críticos).** Todas con CEC y clampaje aórtico, e incluyen reparación del *cleft* de la válvula AV izquierda, aproximación de los velos anterior y posterior de la derecha y de las comisuras de la izquierda.
+1. **Parche único:** un parche protésico para la CIA o la CIV. Habitual en los parciales; estudios recientes lo apoyan también en completos (menos tiempo de bypass y clampaje, menos mortalidad y regurgitación mitral).
+2. **Doble parche:** uno para la CIA y otro para la CIV. Requerido en los completos.
+3. **Parche único modificado (técnica australiana):** sutura de la válvula común al septo interventricular y parche para la CIA. Para intermedios (o doble parche).
+- **No balanceados** sin reparación biventricular viable: Norwood (Cuidados críticos); según Residentes, *banding* precoz, Glenn bidireccional a partir de los 3-4 meses y Fontan.
+- **Alto riesgo** (prematuros, otras anomalías): *banding* de la arteria pulmonar paliativo.
+- **ETE intraoperatoria:** morfología valvular, estenosis o insuficiencias residuales, cortocircuitos residuales, función sistólica y diastólica, obstrucción del tracto de salida del VI.
+
+**Postoperatorio (Cuidados críticos).**
+- Postoperatorio cardiaco habitual; muchos centros aplican *fast track* con extubación en quirófano o en las primeras horas. Sedoanalgesia adecuada para evitar crisis de HTP y reducir la poscarga para proteger las suturas valvulares.
+- **Respiratorio:** radiografía y gasometría; permeabilidad de drenajes; PEEP en torno a 5 cmH~2~O sin patología pulmonar, hasta 7 cmH~2~O si hay hipoxemia o edema; pH en torno a 7,4, sobre todo con resistencias pulmonares altas.
+- **Cardiocirculatorio:** monitorización continua (FC, FR, SatO~2~, TA invasiva, PVC, temperatura), ECG basal y auriculograma sistemático recomendable. Restricción hídrica en torno al 50 % de las necesidades basales las primeras 24 h y 60-70 % las 48 h siguientes; no bolos agresivos de volumen (riesgo para las válvulas reparadas). Vasodilatadores sistémicos (milrinona, nitroprusiato) para optimizar el gasto y evitar la regurgitación; en bajo gasto, añadir adrenalina o dopamina.
+- **Sedoanalgesia:** los estables (extubados o con ventilación mínima, poco sangrado, sin arritmias, presiones pulmonar o auricular izquierda bajas) con analgesia suficiente y mínima sedación. Con crisis de HTP recurrentes: opioides (morfina o fentanilo), benzodiacepinas y relajantes musculares, con mínimas manipulaciones.
+- **Nutrición, metabolismo y riñón:** dieta absoluta un tiempo variable; sonda nasogástrica o nasoyeyunal; protección gástrica. Hiperglucemia frecuente las primeras 24 h (resistencia a la insulina por la CEC): a veces insulina en perfusión. Evitar la acidosis metabólica (favorece la HTP y reduce el efecto de los inotrópicos): corrección precoz con bicarbonato. Furosemida en bolos o perfusión; si oliguria grave con lesión renal, terapias de reemplazo renal continuas.
+- **Infeccioso:** profilaxis de herida según el centro, habitualmente cefalosporina de 1.ª o 2.ª generación (cefazolina) hasta 3 dosis; con tórax abierto, ampliar a una de 3.ª o 4.ª (cefepima).
+- **Hematológico:** el sangrado es frecuente tras CEC: drenajes permeables y optimizar coagulación y plaquetas.
+
+**Complicaciones posquirúrgicas y su manejo (Cuidados críticos).**
+- **Regurgitación valvular y estenosis residuales:** evitar la sobrecarga de volumen y mantener las resistencias sistémicas en el rango bajo de la normalidad para proteger la reparación.
+- **Hipertensión pulmonar:** riesgo alto en el síndrome de Down y tras hiperaflujo prolongado; la CEC también daña la vasculatura. Crisis (cianosis, baja perfusión, acidosis): hiperventilación y bicarbonato para alcalinizar, optimizar sedación y curarización con mínimas manipulaciones, óxido nítrico inhalado y sildenafilo.
+- **Arritmias y trastornos de conducción** (cirugía junto al nodo AV): el cirujano debe dejar cables de marcapasos.
+  - **JET:** enfriar a 34-36 °C y reducir las catecolaminas. Amiodarona: bolo de 5 mg/kg (máx. 300 mg/dosis) y perfusión de 5-15 µg/kg/min.
+  - **Bloqueo AV completo:** marcapasos externo temporal para recuperar la sincronía AV; ECG cada 24 h para ver si recupera el ritmo sinusal.
+- **Síndrome de bajo gasto:** por el bypass, la isquemia y la técnica; inotrópicos.
+- **Cortocircuitos residuales.**
+
+**Resultados (Cuidados críticos).** Mortalidad precoz (30 días) del 2-10 %; peso < 3.500 g en la reparación es factor de riesgo. La trisomía 21 se ha considerado de más riesgo (crisis de HTP, enfermedad vascular pulmonar, patología pulmonar obstructiva), aunque los estudios recientes dan mortalidad similar. Supervivencia en torno al 70 % a los 10 años. Lesiones residuales más frecuentes: regurgitación tricuspídea y/o mitral (hasta el 50 %); otras causas de reintervención: obstrucción de los tractos de salida y defectos septales residuales. Bloqueo AV con marcapasos permanente en el 0,5-7,5 %, más tras los completos.
+
+*Residentes.* Hasta un 15-20 % de los completos precisan reintervención. Parcial: mortalidad quirúrgica < 5 %; un 10-15 % requieren reintervención, sobre todo por insuficiencia mitral, obstrucción del tracto de salida del VI o insuficiencia tricuspídea.

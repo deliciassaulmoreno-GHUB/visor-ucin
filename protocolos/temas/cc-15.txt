@@ -1,0 +1,129 @@
+@f TEMAS/CC/15
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 20).* La conexión anómala de venas pulmonares (CAVP) se debe a la falta de crecimiento de la vena pulmonar primitiva desde el techo de la AI, que deja persistir los canales primitivos que drenan el seno venoso pulmonar a los sistemas cardinales y umbílico-vitelino. Otras explicaciones de la conexión a la AD: origen ectópico de la vena pulmonar común en el techo de la AD o malposición del septo interauricular hacia la izquierda. Las formas parciales se explican por la división del seno venoso pulmonar en dos partes.
+- **Drenaje venoso pulmonar anómalo parcial (DVPAP):** una o más venas pulmonares conectadas a una vena sistémica. Puede asociarse a heterotaxia con poliesplenia, a los síndromes de Turner y Noonan y, rara vez, a tetralogía de Fallot (0,6 %).
+- **Drenaje venoso pulmonar anómalo total (DVPAT):** ninguna vena pulmonar conecta con la AI; todas lo hacen con la AD o sus tributarias. Rara: 1,5-3 % de las cardiopatías congénitas, más frecuente en varones.
+
+# Fisiopatología y variantes
+
+@img cc-15-dvpat.svg
+
+## Drenaje parcial
+
+*Cuidados críticos.* Las venas izquierdas suelen conectar con derivados del sistema cardinal izquierdo (seno coronario, vena innominada izquierda) y las derechas, con el derecho (VCS o VCI). La conexión más frecuente es a la VCS y la segunda a la AD (englobadas como defecto seno venoso y malposición del *septum primum*). Excluidas estas, la más frecuente es la de las venas izquierdas a la innominada y la segunda, la de las derechas a la VCI.
+- **Venas derechas a VCS:** generalmente las del lóbulo superior; suele haber CIA (rara vez septo íntegro) y a veces VCS izquierda. Aislada o como parte del defecto seno venoso.
+- **Venas derechas a VCI (síndrome de la cimitarra):** todas las derechas o las de los lóbulos medio e inferior, justo por encima o debajo del diafragma; septo generalmente íntegro. Se asocia a anomalías extracardiacas (hipoplasia del pulmón derecho, alteraciones bronquiales, pulmón en herradura, dextrocardia secundaria, hipoplasia de la AP derecha, colaterales aortopulmonares, secuestro, alteraciones vertebrales, escoliosis, riñón en herradura…) y cardiacas (CIA, ductus, coartación, Fallot, doble salida de VD).
+- **Venas izquierdas a VCI:** raro; sin defecto intracardiaco y pulmones normales.
+- **Venas izquierdas a la innominada:** por la vena vertical (posterior a la VCS izquierda); CIA ostium secundum (rara vez septo íntegro).
+- **Otras:** seno coronario, VCS derecha, subclavia izquierda, ácigos.
+
+**Fisiopatología.** Aumento del flujo pulmonar por recirculación de sangre oxigenada, según el número de venas anómalas, su localización y la presencia y tamaño de la CIA.
+- **Sin CIA:** una vena anómala supone el 20-25 % del flujo pulmonar (suele ser asintomática); todas menos una, el 80 % (se comporta como un drenaje total). El *shunt* de los lóbulos superiores varía con la actividad y la postura.
+- **Con CIA pequeña:** igual. **Con CIA grande:** *shunt* preferente del pulmón derecho.
+
+## Drenaje total
+
+*Cuidados críticos. Clasificación de Darlin:*
+- **Supracardiaco (45 %):** habitualmente a una vena vertical izquierda que drena en la innominada; menos a la VCS o la unión VCS-AD (típico de la heterotaxia); muy raro a la ácigos.
+- **Cardiaco (25 %):** al seno coronario o, menos, directamente a la AD.
+- **Infracardiaco (25 %):** al sistema portal y el ductus venoso; menos a venas gástricas, hepáticas o VCI.
+- **Mixto (5 %):** lo más común, el pulmón izquierdo (lóbulo superior) a la vena vertical y el resto al seno coronario.
+
+! «Darlin» aparece así en el original (la clasificación suele citarse como de Darling).
+
+Las venas suelen converger en un colector común. **La obstrucción** (generalmente estenosis del colector) determina la presentación y la gravedad: casi constante en el infracardiaco y en el drenaje a la ácigos; 65 % a la vena cava, 40 % a la innominada, 40 % en los mixtos y hasta 30 % al seno coronario. Puede estar en la unión de la vena vertical con la innominada, por compresión de la vena vertical entre la AP izquierda y el bronquio izquierdo («*vascular vice*»), en la unión con el seno coronario, en la unión con la porta o el ductus venoso, en el paso diafragmático, por estenosis de las propias venas o por foramen oval restrictivo.
+
+**Anatomía cardiaca.** Siempre hay FOP o CIA sin gradiente. AD amplia y gruesa; AI pequeña. El VI tiene dimensiones y masa normales, aunque parece pequeño por el abombamiento del septo (sobrecarga del VD). VD dilatado en los supracardiacos y normal en los infracardiacos. La mayoría tiene algún grado de HTP, con cambios estructurales vasculares incluso en neonatos. Otras asociaciones poco frecuentes: ductus (en los infradiafragmáticos obstructivos), heterotaxia, VI hipoplásico.
+
+**Fisiopatología.** Todo el retorno llega a la AD: la supervivencia depende del cortocircuito derecha-izquierda por el foramen oval. Mezcla total con cianosis variable según el flujo pulmonar, que depende de la obstrucción venosa (que casi siempre se acompaña de HTP sistémica). Sin obstrucción, flujo pulmonar aumentado como en una CIA amplia, rara vez con HTP sistémica. Obstrucción e hiperaflujo aumentan el líquido intersticial, que en la obstrucción grave progresa a edema alveolar.
+
+# Clínica
+
+**Drenaje parcial (Cuidados críticos).** Una vena anómala suele ser asintomática; todas menos una, como el drenaje total. La cianosis es rara en niños, aunque puede aparecer con el tiempo por cambios vasculares. En el síndrome de la cimitarra los síntomas son precoces, con HTP por las anomalías asociadas. La exploración suele ser la de la CIA asociada.
+
+**Drenaje total (Cuidados críticos).** Depende sobre todo de la obstrucción venosa.
+
+*Tabla I. Características clínicas del DVPAT con y sin obstrucción.*
+
+| Con obstrucción | Sin obstrucción |
+|---|---|
+| Debut precoz (primera semana) | Debut más tardío (1 mes) |
+| Cianosis importante | Cianosis leve |
+| Edema pulmonar | Aumento de vascularización pulmonar |
+| No cardiomegalia | Cardiomegalia |
+| Inestabilidad hemodinámica | Estabilidad hemodinámica |
+| Hipotensión arterial | Tensión arterial normal |
+| Acidosis metabólica | No acidosis metabólica |
+| Necesidad de ventilación mecánica | Discreta polipnea |
+
+- **Obstrucción grave:** cianosis importante al nacer (puede mejorar las primeras horas), polipnea por edema. La mayoría con síntomas en la primera semana (en los drenajes portales, el ductus venoso puede retrasarlos semanas). Con el ductus arterioso abierto predominan cianosis o edema según las resistencias pulmonares. Polipnea sin tiraje, pulsos débiles con hipotensión, hepatomegalia variable, 2.º tono acentuado, a veces solo soplo leve de insuficiencia tricuspídea. Deterioro rápido con bajo gasto; si no es extremo, puede estar estable días y deteriorarse al cerrarse el ductus (menos cianosis, pero más dificultad respiratoria con tiraje, crepitantes, gran hepatomegalia y pulsos débiles).
+- **Obstrucción moderada:** diagnóstico en el lactante por edema e insuficiencia cardiaca derecha; poca cianosis; en los primeros 3-4 meses, dificultad respiratoria, sudoración y hepatomegalia.
+- **Sin obstrucción:** la cianosis del nacimiento puede desaparecer la primera semana y reaparecer leve a las 2-3 semanas (tomas, llanto); insuficiencia derecha y retraso del crecimiento los primeros meses. Taquipnea discreta, taquicardia, impulso activo, 1.^er^ tono acentuado, 2.º desdoblado fijo, soplo eyectivo en borde esternal izquierdo y mesodiastólico tricuspídeo. Evolución como una CIA amplia; HTP poco frecuente antes de la 2.ª-3.ª década.
+
+# Diagnóstico
+
+**Drenaje parcial (Cuidados críticos).**
+- ECG: generalmente normal; rR' o rSR'; con HTP, P picudas e hipertrofia de VD.
+- Radiografía: hiperaflujo y dilatación derecha; a veces sombras en el borde de la silueta según la vena (VCS, ácigos, innominada).
+- Ecocardiografía (principal): venas sistémicas distales a la conexión dilatadas; en el drenaje al seno coronario, distinguirlo de una VCS izquierda; a veces ETE.
+- RM (prueba ideal para las venas pulmonares); angio-TC similar con irradiación.
+- Cateterismo solo si se sospecha HTP o hay que embolizar colaterales (cimitarra).
+
+**Drenaje total (Cuidados críticos).**
+- **Con obstrucción grave:** radiografía sin cardiomegalia, aumento de la vascularización hiliar con campos periféricos pobres; tras cerrarse el ductus, engrosamiento hiliar y campos velados por edema. ECG con eje derecho e hipertrofia de VD (inespecífico).
+- **Moderada:** cardiomegalia con VD prominente y gran aumento de la vascularización.
+- **Sin obstrucción:** cardiomegalia derecha y vascularización aumentada hasta la periferia; en el drenaje a la innominada, imagen en «hombre de nieve» o en «8» (no antes de los 6 meses). ECG con voltajes derechos amplios y bloqueo de rama derecha más adelante.
+- **Ecocardiografía** (principal; con color y a veces contraste diagnostica casi todos): sobrecarga del VD, AI pequeña y espacio libre detrás de la AI. Definir: punto de drenaje, drenaje de cada vena (colector único o mixto), ductus, presencia y lugar de la obstrucción, tamaño y localización de la CIA, dimensiones del VI y lesiones asociadas.
+- **RM:** diagnóstica, sin ventajas sobre la eco; puede retrasar el tratamiento.
+
+*Tabla II. Diagnóstico diferencial.*
+- **Neonato con obstrucción venosa pulmonar:** enfermedad parenquimatosa pulmonar, hipertensión pulmonar persistente, corazón izquierdo hipoplásico, TGA y lesiones con flujo pulmonar disminuido.
+- **Lactante con fallo cardiaco:** anomalía de Ebstein, truncus, TGA con CIV, ventrículo único, defecto septal AV.
+- **Niño mayor sin obstrucción:** CIA con o sin drenaje parcial anómalo.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+**Drenaje parcial (Cuidados críticos).** Tratamiento anticongestivo si hay insuficiencia cardiaca por hiperaflujo. Con alteraciones del parénquima pulmonar asociadas, el tratamiento debe ser quirúrgico.
+
+**Drenaje total obstructivo (Cuidados críticos).** Probablemente la única cardiopatía que requiere cirugía urgente porque el manejo médico no basta para estabilizar.
+- Intubación, ventilación con presión positiva y FiO~2~ según la oxigenación, corrección de la acidosis e inotrópicos (dopamina, milrinona) si hay fallo ventricular. La ventilación puede reducir el edema, pero evitar presiones altas en los muy cianóticos (reducen el flujo pulmonar).
+- Inotrópicos y volemia para mantener una TA adecuada.
+- **PGE~1~:** controvertida con obstrucción; indicada en los drenajes portales (dilata el ductus venoso). Aumenta el *shunt* derecha-izquierda ductal y el gasto, pero puede empeorar la cianosis y, al vasodilatar el pulmón, el edema. No hay evidencia en contra; administrarla tras intubar y monitorizar, con precarga e inotrópicos adecuados, y valorar la respuesta.
+- **ECMO preoperatoria** si el bajo gasto es refractario, sin retrasar la cirugía.
+- **Nutrición enteral contraindicada** (bajo gasto y aumento del flujo portal, que eleva la presión venosa pulmonar).
+
+**Drenaje total no obstructivo.** Tratamiento anticongestivo (diuréticos) al aumentar la sobrecarga del VD; cirugía programada precoz (riesgo de infecciones respiratorias si se retrasa).
+
+## Tratamiento quirúrgico
+
+**Drenaje parcial (Cuidados críticos).** Indicada si hay sobrecarga de volumen del VD (generalmente Qp/Qs > 1,5). En la cimitarra con hipoplasia pulmonar, por las complicaciones del secuestro.
+- **Defecto seno venoso:** túnel intraauricular con parche que redirige las venas a la AI, a veces ampliando la CIA. Si drenan claramente en la VCS, el túnel puede obstruirla: ampliar la unión cavoatrial con parche o seccionar la VCS y reimplantarla en la orejuela derecha (Warden), que evita suturas junto al nodo sinusal.
+- **A VCI:** con CIA, conectar la vena en la pared auricular opuesta a la CIA y reparar como el drenaje a AD.
+- **Al seno coronario:** como el drenaje total al seno coronario.
+- **A la innominada:** si es solo la vena del lóbulo superior puede dejarse; si también la inferior, ligar y seccionar la vena vertical y anastomosarla a la AI (base de la orejuela).
+- **A AD por malposición del septo:** individualizar (concordancia AV con reparación biventricular, discordancia AV con reparación biventricular o reparación univentricular).
+- CEC habitualmente corta; en la cimitarra, prever la HTP a la salida de bomba.
+
+**Drenaje total (Cuidados críticos).** Indicación quirúrgica en todo neonato y lactante sintomático: en los primeros días o semanas, a menudo el primer mes y, como regla, antes de los 6 meses; entre los 6 y 12 meses, al diagnóstico. En el crítico, cirugía urgente tras una estabilización rápida.
+- CEC con hipotermia, con o sin parada circulatoria: anastomosis lo más amplia posible (> 10 mm) entre el colector y la AI, ligadura de la conexión sistémica y cierre de la CIA, generalmente con parche para aumentar la AI. En críticos con drenaje obstructivo, dejar la vena vertical abierta puede descargar la AI en el postoperatorio inmediato.
+- **Infracardiaco:** reparación tipo 1 (extraanatómica: luxar el ápex hacia el hombro derecho y anastomosar colector y AI en su punto de contacto) o tipo 2 (intracardiaca: abrir la AD, prolongar por el septo a la AI y anastomosar desde la AI; útil también en supracardiacos).
+- **Supracardiaco:** abordaje superior entre VCS y aorta hasta el colector (paralelo a la rama pulmonar derecha) y el techo de la AI.
+- **Seno coronario:** ampliar su orificio hasta la CIA (destechándolo) y cerrar la nueva comunicación con parche, dejando el seno drenando en la AI.
+
+## Postoperatorio, complicaciones y su manejo
+
+**Drenaje parcial (Cuidados críticos).** Como una CIA, salvo la cimitarra (HTP importante: óxido nítrico y otros vasodilatadores; evolución según la hipoplasia pulmonar). Arritmias auriculares por las suturas. Ante edema pulmonar unilateral, descartar gradiente residual. Mortalidad casi nula, como la CIA.
+
+**Drenaje total (Cuidados críticos).** TA invasiva y PVC en todos; valorar presión en AI y AP; dejar cables epicárdicos.
+- **Hipertensión pulmonar** (determinante de la mortalidad precoz): habitual las primeras 24-48 h, en crisis o continua: sedorrelajación y óxido nítrico inhalado. Si sigue a nivel sistémico más de 48 h, sospechar estenosis de la anastomosis (aceleración y gradiente alto en la eco): plantear revisión quirúrgica.
+- **Edema pulmonar** (sobre todo tras *shock* con obstrucción grave, ventilación agresiva, CEC y parada): ventilación con PEEP elevada.
+- **Arritmias auriculares** (hasta el 20 %): TSV, a veces flutter, más tardías; antiarrítmicos si hay repercusión y a veces estudio electrofisiológico.
+- **Bajo gasto** por el VI pequeño y poco distensible (comprimido antes por el VD): mantener FC elevada (marcapasos auricular si es necesario) porque el volumen sistólico es bajo, presiones de llenado adecuadas sin sobrecargas bruscas. Dopamina, milrinona o levosimendán y adrenalina a dosis bajas las primeras horas; ECMO si es refractario (sobre todo tras *shock* o ECMO preoperatoria); noradrenalina a dosis bajas si hay vasoplejía tras el bypass. A menudo se benefician del cierre diferido del tórax.
+- **Disfunción diastólica del VI** (puede hacer fracasar la extubación): extubar a CPAP/BiPAP y vasodilatadores (milrinona o levosimendán y luego IECA).
+- **Otras:** parálisis frénica (ecografía en el destete; extubar con presión positiva) y quilotórax.
+
+**Resultados (Cuidados críticos).** Mortalidad quirúrgica del 2-20 % (11,84 % hospitalaria en la base europea EACTS), por la inestabilidad preoperatoria y el bajo peso. Mal pronóstico: conexión infracardiaca, cardiopatías complejas asociadas, obstrucción venosa, inestabilidad preoperatoria, HTP grave neonatal y venas pulmonares de pequeño calibre. La mayoría quedan en NYHA I-II, asintomáticos y en ritmo sinusal, con normalización de AI, VI y su función.
+- **Estenosis de la anastomosis y de las venas pulmonares** (hasta el 10 %; único factor de riesgo demostrado, el calibre preoperatorio de las venas): Doppler acelerado en la anastomosis o las venas, confirmado por angiografía, generalmente meses después. Reintervenciones con malos resultados y recidivas (fibrosis difusa, engrosamiento venoso, estenosis en la unión con la AI). Clínica de HTP mantenida, fallo del VD y a veces bajo gasto. Seguimiento ecográfico al alta y durante el primer año.

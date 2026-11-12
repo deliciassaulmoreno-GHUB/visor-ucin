@@ -1,0 +1,229 @@
+@f TEMAS/CC/1
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 10).* El ductus arterioso (DA) es una estructura vascular fetal que comunica la aorta descendente proximal con la arteria pulmonar principal, cerca del origen de la rama pulmonar izquierda, y permite un *shunt* pulmonar-sistémico en la vida fetal. El cierre es funcional entre las 10 y 72 horas de vida y anatómico 2-3 semanas después. En la mayoría de los recién nacidos a término se cierra en los primeros 3 días. En los pretérmino de menos de 1.500 g con síndrome de distrés respiratorio (SDR) en ventilación mecánica, la incidencia de ductus arterioso persistente (DAP) es elevada y aumenta la morbimortalidad: hemorragia intraventricular, enterocolitis necrotizante y displasia broncopulmonar.
+
+**Incidencia.** Inversamente proporcional a la edad gestacional y al peso: 20 % en menores de 32 semanas y más del 50 % en pretérminos de < 1.000 g o < 28 semanas. Se relaciona con el déficit de surfactante: en prematuros sin distrés el cierre ocurre en un plazo similar al del recién nacido a término.
+
+*Experto en Neonatología (tema 5.6).* Es la complicación cardiovascular más frecuente del prematuro: afecta a un tercio de los menores de 30 semanas y a más del 60 % de los menores de 28. Los principales factores de riesgo son la prematuridad, la ausencia de corticoides prenatales y la necesidad de ventilación mecánica.
+
+*Tabla 5.6-1 (Experto). Incidencia de DAP en recién nacidos < 1.500 g según la edad gestacional (Informe de morbimortalidad de la SEN).*
+
+@ancha
+| | Total (N = 2.336) | < 24 s (N = 8) | 24-25 s (N = 199) | 26-27 s (N = 405) | 28-29 s (N = 620) | ≥ 30 s (N = 1.104) |
+|---|---|---|---|---|---|---|
+| DAP | 31,1 % | 62,5 % | 81,3 % | 58,4 % | 33,1 % | 10,6 % |
+| Cierre farmacológico | 69,3 % | 80,0 % | 78,8 % | 72,3 % | 67,5 % | 52,6 % |
+| Indometacina | 5,7 % | — | 5,7 % | 6 % | 4,4 % | 8,3 % |
+| Ibuprofeno | 94,3 % | 100 % | 94,3 % | 94 % | 95,6 % | 91,7 % |
+| Cierre quirúrgico | 16,0 % | 40,0 % | 30,8 % | 19,9 % | 6,5 % | 3,5 % |
+
+# Fisiopatología y variantes
+
+@img cc-01-dap.svg
+
+*Cuidados críticos.* En la vida fetal el *shunt* por el DA lleva la mayor parte del débito del ventrículo derecho, que es el 60 % del gasto cardiaco total. La capa media del DA es rica en fibras musculares lisas helicoidales: la presión elevada de oxígeno la contrae y la hipoxemia, la PGE~2~ y la PGI~2~ (muy elevadas en el feto) la dilatan. Tras el nacimiento favorecen el cierre el aumento del oxígeno, del calcio intracelular y de la endotelina-1, y el descenso brusco de PGE~2~ y PGI~2~. En el término, la contracción del músculo liso produce isquemia de la pared interna y el cierre definitivo.
+
+En el pretérmino hay menos fibras musculares y menos tono intrínseco, escaso tejido subendotelial, más concentración y sensibilidad a PGE~2~ y PGI~2~ y más producción local de óxido nítrico; todo ello favorece que el ductus siga abierto.
+
+**Factores asociados:**
+- Aumentan el riesgo: diabetes materna, hemorragia preparto, embarazo múltiple.
+- Lo reducen: corticoides prenatales.
+- Postnatales: exceso de líquidos (media de 169 ml/kg/día desde el 3.^er^ día de vida), furosemida en los primeros días (libera PGE~2~ renal), infección e inflamación (más prostaglandinas circulantes, posible reapertura y peor respuesta a los inhibidores de la COX).
+
+*Experto en Neonatología.* En la mayoría de los prematuros con DAP el flujo es izquierda-derecha (de la aorta descendente a la arteria pulmonar). En las primeras horas el flujo pulmonar puede llegar a triplicar el sistémico, con descenso del flujo sistémico (robo ductal), medible por el gasto del ventrículo izquierdo y el flujo en la vena cava superior.
+- **Pulmón:** más presión hidrostática y filtración de líquido; menos distensibilidad, volumen pulmonar y capacidad residual funcional. Más riesgo de edema pulmonar, hemorragia pulmonar y displasia broncopulmonar. Los cambios parecen revertir tras el cierre.
+- **Circulación sistémica:** si el flujo pulmonar supera en un 50 % al sistémico, aumenta el gasto del VI sin aumentar el flujo sistémico y se activan los sistemas renina-angiotensina y simpático.
+- **Cerebro:** flujo diastólico retrógrado, disminuido o ausente; menor saturación cerebral y presión arterial media; mayor extracción de oxígeno. Puede aumentar el riesgo de hemorragia intraventricular.
+- **Posductal:** menos flujo en aorta descendente, con hipoperfusión hepática, renal e intestinal (insuficiencia hepática, renal y enterocolitis necrosante).
+
+## Clasificación por la magnitud del cortocircuito
+
+*Cuidados críticos.* En el término y en el niño, la clínica depende del cortocircuito izquierda-derecha, que depende del diámetro y longitud del ductus y de la diferencia entre resistencias pulmonares y sistémicas. Se clasifica por el cociente Qp:Qs:
+- **Pequeño:** Qp:Qs 1-1,5.
+- **Moderado:** Qp:Qs 1,5-2,2.
+- **Grande:** Qp:Qs > 2,2.
+
+# Clínica
+
+*Cuidados críticos. Tabla I. Signos clínicos de DAP en el pretérmino.*
+- Taquicardia.
+- Precordio hiperdinámico.
+- Empeoramiento del estado respiratorio.
+- Taquipnea.
+- Episodios de apnea.
+- Cardiomegalia.
+- Descenso de TA media.
+- Soplo sistólico in crescendo.
+- Pulsos pedios y/o palmares saltones.
+- Imposibilidad de disminuir el O~2~.
+- Dependencia de CPAP o ventilación mecánica.
+- Acidosis metabólica.
+- Hepatomegalia.
+- Hipotensión diastólica.
+- Aumento de la presión diferencial > 25-30 mmHg.
+
+Muchos signos solo aparecen cuando el cortocircuito ha durado varios días, por lo que no sirven para el diagnóstico precoz. El soplo se oye en todo el precordio, más en la región infraclavicular izquierda y el borde esternal izquierdo superior. A menudo el DAP es silente, sin soplo, sobre todo en los 3 primeros días; entonces se manifiesta como empeoramiento respiratorio, inestabilidad hemodinámica o ensanchamiento de la silueta cardiaca.
+
+*Experto en Neonatología.* La clínica puede retrasarse una media de 2 días respecto al diagnóstico ecográfico. Ningún signo aislado es específico (también aparecen en la ventana aortopulmonar o la fístula arteriovenosa).
+
+*Tabla 5.6-2 (Experto). Manifestaciones clínicas por sistemas.*
+
+| Sistema | Fisiopatología | Signos clínicos |
+|---|---|---|
+| Respiratorio | Hiperaflujo pulmonar | SDR que no mejora// Taquipnea// Aumento de apneas// Más requerimientos de ventiloterapia// Hipoxemia o hipercapnia// Dependencia de ventilación mecánica// Edema pulmonar// Hemorragia pulmonar |
+| Cardiovascular | Sobrecarga de cavidades izquierdas y robo diastólico aórtico | Taquicardia// Precordio hiperactivo// Pulsos exaltados// Soplo infraclavicular// Hipotensión arterial// Aumento de la tensión diferencial// ICC (cardiomegalia, hepatomegalia…) |
+| Renal | Robo arterial renal | Oligoanuria// Daño renal agudo |
+| Digestivo | Robo arterial mesentérico | Escasa ganancia ponderal// Mala tolerancia enteral// Distensión abdominal// Íleo paralítico// ECN |
+| General | Robo posductal | Acidosis metabólica |
+
+## Según el tamaño (término y niño)
+
+*Cuidados críticos.*
+- **Pequeño (Qp:Qs 1-1,5):** asintomático; se diagnostica por soplo o de forma casual. Pulsos normales o algo llenos, sin precordio hiperdinámico, ruidos normales, sin cianosis. En el periodo neonatal el soplo es solo sistólico (no hay gradiente diastólico entre AP y aorta). Después, al bajar la presión pulmonar, aparece el soplo continuo en maquinaria (soplo de Gibson), mejor en el 2.º espacio intercostal izquierdo infraclavicular, que aumenta con la inspiración.
+- **Moderado (Qp:Qs 1,5-2,2):** sobrecarga de volumen de AI y VI, con dilatación y disfunción del VI. Dificultad con las tomas, irritabilidad, taquipnea y retraso ponderal. Soplo continuo fuerte que enmascara los ruidos, irradiado a la espalda; precordio hiperdinámico, a menudo frémito en el borde esternal superior izquierdo; presión diferencial amplia y pulsos saltones.
+- **Grande (Qp:Qs > 2,2):** insuficiencia cardiaca izquierda y edema pulmonar: irritabilidad, cansancio y sudoración con las tomas, taquicardia, taquipnea, crepitantes. Impulso del VI y thrill intenso. Tensión diferencial muy amplia por descenso grave de la diastólica (en casos graves también baja la sistólica). Segundo ruido aumentado; soplo rudo 4/6 que ocupa la sístole y el primer tercio de la diástole; puede haber retumbo diastólico apical precedido de tercer ruido.
+
+Si no se corrige, la presión pulmonar aumenta y aparece hipertensión pulmonar fija, que puede ser irreversible a partir de los 15-18 meses (antes en riesgo, como el síndrome de Down). Al invertirse el flujo (derecha-izquierda) aparecen cianosis y disnea de esfuerzo, después en reposo; el soplo se acorta y se hace solo sistólico, persiste el segundo tono acentuado y desaparecen el tercer tono y la hiperdinamia.
+
+## Complicaciones
+
+*Cuidados críticos.* Mayor morbimortalidad por fallo ventricular izquierdo; endarteritis bacteriana, aneurismas e hipertensión pulmonar.
+- La profilaxis de endocarditis no está recomendada, salvo con hipertensión pulmonar asociada o en los 6 primeros meses tras el cierre con material protésico. La endarteritis es muy rara pero agresiva: vegetaciones en el lado pulmonar con émbolos sépticos pulmonares. No justifica por ahora cerrar de forma sistemática los ductus pequeños silentes.
+- Aneurisma del DAP por cierre del cabo pulmonar sin cierre del aórtico: tratamiento quirúrgico por riesgo de rotura, sangrado e infección.
+- Un DAP moderado-grande produce con el tiempo enfermedad vascular pulmonar irreversible.
+
+# Diagnóstico
+
+*Cuidados críticos.* La sospecha es clínica y la confirmación, ecocardiográfica. Radiografía y ECG ayudan pero son menos sensibles y específicos. Cateterismo y angiografía solo con otra cardiopatía asociada, sospecha de hipertensión pulmonar o como paso previo al cierre percutáneo (o en el mismo procedimiento).
+
+- **Radiografía de tórax:** normal en el DAP pequeño (leve prominencia del tronco y las ramas pulmonares). Moderado: leve cardiomegalia por AI y VI y más vascularización pulmonar periférica. Grande: hallazgos más marcados, aumento del patrón venoso e infiltrado intersticial.
+- **ECG:** normal en ductus pequeños y en lactantes con DAP moderado. En niños mayores con DAP moderado, hipertrofia del VI (Q profundas y R prominentes en II, III, aVF y precordiales izquierdas). En el grande, además, T difásicas e invertidas y P anchas por crecimiento de la AI.
+- **Ecocardiografía 2D:** mide el ductus (lados pulmonar y aórtico, longitud): grande si > 6 mm, pequeño si < 3 mm. Planos paraesternal (ductus entrando en la AP cerca de la rama izquierda) y supraesternal (ductus saliendo de la aorta descendente a nivel de la subclavia izquierda). Relación AI/Ao en paraesternal largo: normal < 1,3; grave > 2. Dilatación del VI.
+- **Doppler color:** jet retrógrado en la AP; muy útil en el ductus pequeño. Dirección del cortocircuito: izquierda-derecha en todo el ciclo (flujo continuo con pico sistólico, presión pulmonar normal), bidireccional o derecha-izquierda (hipertensión pulmonar). En neonatos, tamaño por color respecto al tronco pulmonar: grande > 2/3 del tronco (llega a la válvula pulmonar), pequeño < 1/3.
+- **Doppler pulsado y continuo:** la velocidad transductal da el gradiente aorta-AP. Presión sistólica pulmonar = presión arterial sistémica − gradiente pico sistólico transductal (no fiable en ductus muy largos o tortuosos). El Qp:Qs se calcula con el área de los tractos de salida y el flujo por Doppler.
+- **Cateterismo:** previo al intervencionismo o durante él, si la ecocardiografía no es concluyente o se sospecha hipertensión pulmonar.
+- **Resonancia:** muy poco usada; para descartar lesiones asociadas y estudiar la hipertensión pulmonar.
+
+*Cuidados críticos. Tabla III. Ductus hemodinámicamente significativo por ecocardiograma.*
+- Flujo continuo a través del ductus.
+- Flujo reverso holodiastólico en la aorta descendente.
+- Aumento de la aurícula izquierda (índice aurícula izquierda/aorta > 1,4).
+- Relación diámetro ductus/diámetro aorta descendente > 0,5.
+- Diámetro del ductus ≥ al diámetro de la arteria pulmonar el segundo día de vida.
+- Diámetro del ductus > 1,5-2 mm (o > 1,4 mm/kg de peso).
+
+No hay criterios estandarizados de DAP hemodinámicamente significativo (DAP-HS). Péptido natriurético tipo B, NT-proBNP y/o troponina T elevados pueden ayudar a definirlo y guiar el tratamiento.
+
+## En el prematuro
+
+*Experto en Neonatología.* Terminología: «clínicamente aparente» (soplo, impulso precordial, pulsos saltones, mejor confirmado por eco); «sintomático» (repercusión clínica respiratoria o circulatoria, no específica); «hemodinámicamente significativo» (DAPhs: hallazgos ecográficos de gran volumen de cortocircuito).
+
+Medidas ecográficas:
+- **Tamaño ductal** (en la zona de máxima constricción, generalmente el extremo pulmonar): grande > 2,0 mm (Qp:Qs > 2:1; suele haber flujo diastólico retrógrado en aorta descendente); moderado 1,5-2 mm (Qp:Qs > 1,5:1); pequeño < 1,5 mm (flujo diastólico anterógrado en aorta descendente); cerrado, sin cortocircuito.
+- **Dirección del flujo** en Doppler color. En las primeras horas suele ser izquierda-derecha o bidireccional con predominio izquierda-derecha.
+- **Flujo en arteria pulmonar:** flujo medio > 0,42 m/s o al final de la diástole > 0,2 m/s predice Qp:Qs > 2:1 (sensibilidad y especificidad > 90 %).
+- Sobrecarga de AI (AI/Ao) y VI, función ventricular, flujo reverso en aorta descendente y flujo en vena cava superior (bajo gasto).
+
+! En otro párrafo del mismo tema se da como umbral una velocidad diastólica en la rama pulmonar izquierda mayor de 0,43 m/s; en el apartado de flujo pulmonar y en la tabla 5.6-3, 0,42 m/s.
+
+*Tabla 5.6-3 (Experto). Signos ecográficos de DAP grande.*
+- Flujo continuo no restrictivo a través del DAP con velocidad máxima < 2,0 m/s.
+- Diámetro ductal > 1,5-2,0 mm: 1,5 mm, Qp/Qs > 1,5; 2,0 mm, Qp/Qs > 2.
+- Flujo en arteria pulmonar medio > 0,42 m/s y al final de la diástole > 0,2 m/s.
+- Signos de sobrecarga del ventrículo izquierdo.
+- Flujo retrógrado o ausente en la arteria mesentérica superior, renal o cerebral media.
+- Distensión de la aurícula izquierda (AI/Ao > 1,5).
+- Relación tamaño ductal/aorta descendente > 0,5.
+
+*Tabla 5.6-4 (Experto). Estadiaje del DAP según McNamara: espectro continuo de gravedad según la magnitud del cortocircuito. Cada paciente se asigna a un estadio clínico y a uno ecográfico.*
+
+@ancha
+| Estadio clínico | Estadio ecocardiográfico |
+|---|---|
+| **C1 Asintomático** | **E1 No DAP:** sin flujo ductal en 2D ni Doppler |
+| **C2 Leve:**// – Dificultad de oxigenación con IO < 6// – Episodios ocasionales de desaturación, bradicardia o apnea (< 6/día)// – Soporte con VNI o VM con PMVA < 8 cmH~2~O// – Intolerancia digestiva con > 20 % de restos gástricos// – Aumento radiológico de la vasculatura pulmonar | **E2 Pequeño/no significativo < 1,5 mm:**// – Flujo transductal continuo restrictivo (Vmáx > 2 m/s)// – Sin sobrecarga de presión de cavidades izquierdas// – Sin alteración del flujo diastólico en órganos (mesentérica, cerebral media, renal…) |
+| **C3 Moderado:**// – IO 7-14// – Episodios horarios de desaturación, bradicardia o apnea// – Más requerimientos respiratorios (PMVA 9-12)// – Incapacidad para alimentarse por distensión importante o vómitos// – Oliguria con leve elevación de creatinina// – Hipotensión sistémica (media o diastólica) que precisa un inotrópico// – Cardiomegalia o edema pulmonar en la radiografía// – Acidosis metabólica leve (pH 7,1-7,25 o EB −7 a −12) | **E3 Significación moderada:**// – Diámetro 1,5-3 mm// – Flujo transductal pulsátil no restrictivo (Vmáx < 2 m/s)// – Sobrecarga de volumen leve/moderada de cavidades izquierdas (AI/Ao 1,5-2)// – Sobrecarga de presión leve/moderada (E/A > 1 o IVRT 50-60)// – Descenso o ausencia de flujo diastólico en órganos |
+| **C4 Grave:**// – IO > 15// – PMVA > 12 o alta frecuencia// – Hemorragia pulmonar profusa o recurrente// – Distensión abdominal (tipo ECN) con dolor o eritema// – Fallo renal agudo// – Inestabilidad que requiere más de un vasoactivo// – Acidosis moderada/grave (pH < 7,1 o EB > −12) | **E4 Significación grave:**// – Diámetro > 3 mm// – Flujo transductal pulsátil no restrictivo// – Sobrecarga de volumen grave (AI/Ao > 2, regurgitación tricuspídea > 2 m/s)// – Sobrecarga de presión grave (E/A > 1,5 o IVRT > 60)// – Flujo diastólico retrógrado en órganos |
+
+*E/A: llenado transmitral precoz pasivo (E) y tardío activo (A); IO: índice de oxigenación (PMVA × FiO~2~/PaO~2~); IVRT: tiempo de relajación isovolumétrica; PMVA: presión media de la vía aérea.*
+
+**Otras pruebas (Experto):** radiografía (ensanchamiento mediastínico y aumento de la trama vascular en DAP moderado-grande); ECG no útil en el prematuro; Doppler cerebral y abdominal (disminución o inversión de la diástole, índices de resistencia o pulsatilidad); NT-proBNP: hasta 8 veces más alto en prematuros con DAPhs, útil para el diagnóstico, el seguimiento y la decisión de tratar junto con eco y clínica.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* El tratamiento farmacológico solo es eficaz en prematuros; ningún fármaco ha demostrado eficacia en el término, el lactante o el niño mayor.
+
+**Inhibidores de la COX (indometacina, ibuprofeno).** Éxito del 60-80 % con un primer ciclo; un segundo ciclo es eficaz en un 40 %. Tras dos ciclos fallidos es muy improbable que otros funcionen: candidato a cierre quirúrgico.
+
+*Cuidados críticos. Tabla II. Dosis de inhibidores de la ciclooxigenasa.*
+
+| | Indometacina | Ibuprofeno |
+|---|---|---|
+| Dosis inicial | 0,2 mg/kg | 10 mg/kg |
+| 2 dosis siguientes | < 48 horas// 2-7 días de vida// > 7 días de vida | 5 mg/kg |
+| Intervalo dosis | 12-24 horas (ver nota) | 24 horas |
+
+*Nota de la tabla: el intervalo de la indometacina depende de la diuresis; con menor ritmo diurético se recomienda espaciar las dosis.*
+
+! En la tabla del libro, la casilla de las dosis siguientes de indometacina recoge solo los tramos de edad, sin cifra de dosis. El tema del Experto indica 2-3 dosis de 0,1-0,2 mg/kg.
+
+- **Efectos adversos:** vasoconstricción cerebral, mesentérica y renal (más con indometacina): enterocolitis necrotizante, perforación intestinal espontánea, insuficiencia renal/oliguria transitoria, sangrado intraventricular. Aumento de bilirrubina, sobre todo con ibuprofeno (desplaza la unión a la albúmina). Se considera seguro mantener la alimentación enteral.
+- **Contraindicaciones:** enterocolitis necrotizante; coagulopatía o trombopenia graves (plaquetas < 25.000); sangrado activo (sobre todo hemorragia intraventricular); infección no tratada; insuficiencia renal significativa (oliguria < 0,5 ml/kg/h y/o creatinina > 1,6-1,8 mg/dl y/o BUN > 20 mg/dl); cardiopatía en la que el ductus sea necesario para el flujo sistémico o pulmonar.
+
+**Paracetamol.** Poca evidencia; parece inhibir la prostaglandina sintetasa por el segmento peroxidasa. Oral o intravenoso, 60 mg/kg/día (15 mg/kg cada 6 horas) durante 2-7 días, con éxito en torno al 70 %. No se recomienda de rutina por desconocer sus efectos secundarios.
+
+**Momento.** No se recomienda la profilaxis (primeras 24 horas) con ibuprofeno ni indometacina: aunque la indometacina profiláctica redujo la cirugía y la hemorragia intraventricular y pulmonar, el cierre espontáneo es frecuente y expone a muchos pacientes sin necesidad. El tratamiento sintomático se usa cuando el ductus es hemodinámicamente significativo, generalmente entre los 2 y 7 días de vida.
+
+**Soporte.**
+- La restricción hídrica no ha demostrado mejorar el pronóstico, pero un aporte > 170 ml/kg/día lo empeora: la mayoría recomienda 110-130 ml/kg/día.
+- Evitar diuréticos de asa (furosemida) al menos las 2 primeras semanas (estimulan la PGE~2~ renal).
+- CPAP o PEEP y tiempo inspiratorio corto reducen el cortocircuito izquierda-derecha y aumentan el flujo sistémico.
+- Hematocrito > 40 %: puede aumentar la resistencia pulmonar y disminuir el cortocircuito.
+! Cuidados críticos propone hematocrito > 40 % y el tema del Experto, 35-40 %.
+
+- **Recién nacido a término sintomático:** digoxina y furosemida hasta el cierre percutáneo (en general, por encima de 5 kg). Si está asintomático, seguimiento frecuente.
+
+**Manejo conservador.** Cada vez más centros solo hacen soporte, porque la mayoría acaba cerrando; evita efectos adversos y cirugía, pero mantiene la sobrecarga de volumen pulmonar y cardiaca. Se recomienda un manejo individualizado según el paciente y la experiencia de la unidad.
+
+*Experto en Neonatología.*
+- **Prevención:** evitar el parto prematuro; si es inminente, corticoides prenatales, buen cuidado prenatal y reanimación, y evitar exceso de líquidos los primeros días.
+- **Soporte:** ambiente térmico neutro; ventilación con Ti cortos, PEEP y aumento de PMVA y PIP; hematocrito 35-40 %; restringir furosemida las 2 primeras semanas a la insuficiencia cardiaca (valorar tiazidas); restricción hídrica moderada de 110-130 ml/kg/día evitando pérdidas > 3 % diario y con natremia < 150 mEq/l (las restricciones más intensas empeoran la TA, el flujo en VCS y en mesentérica superior); evitar bolos de volumen salvo hipovolemia.
+- **Eficacia:** en torno al 90 %, menor con menos peso, más tarde y sobre todo menor edad gestacional (< 60 % en < 26 semanas). Reapertura en torno al 30 %.
+- **Indometacina:** 2-3 dosis de 0,1-0,2 mg/kg. Puede suspenderse si hay buena respuesta en la ecocardiografía funcional. Los cursos prolongados (≥ 4 dosis) no mejoran el cierre y aumentan la ECN. La forma intravenosa dejó de estar disponible en España en 2010.
+- **Ibuprofeno:** primera elección. Bolo lento de 10 mg/kg seguido de 2 dosis de 5 mg/kg cada 24 horas. Misma eficacia que la indometacina, con menos oliguria transitoria. La vía oral, a las mismas dosis, es al menos igual de eficaz, con algo más de sangrado, perforación intestinal aislada y mayor aumento de cistatina C: vigilar más la función renal.
+- **Paracetamol:** en casos resistentes o con contraindicación; 60 mg/kg/día durante 2-7 días, por encima de la dosis analgésica (preocupa la hepatotoxicidad y los efectos neurológicos a largo plazo). Contraindicaciones absolutas: hipersensibilidad, necesidad de mantener el ductus abierto, fallo hepático.
+- No asociar de rutina furosemida ni dopamina a dosis bajas (la dopamina puede valorarse si hay disfunción miocárdica). Monitorizar la bilirrubina, sobre todo con ibuprofeno.
+- **Contraindicaciones de los inhibidores de la COX:** sepsis no tratada; sangrado activo (HIV o digestivo reciente); trombocitopenia o coagulopatía no tratadas; ECN sospechada o confirmada; daño renal significativo; hiperbilirrubinemia en rango de exanguinotransfusión; hipersensibilidad; necesidad de mantener el ductus abierto.
+- Se recomienda tratar pronto tras el diagnóstico ecográfico (1-4 días).
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* Es la única opción eficaz si fracasa el tratamiento médico neonatal o si el DAP se detecta más tarde. La decisión depende de la estabilidad hemodinámica; fuera del periodo neonatal se suele observar hasta que aparece sobrecarga cardiaca o cambios en la vasculatura pulmonar.
+
+**Indicaciones de cierre:**
+1. DAP moderado o grande con síntomas por cortocircuito significativo, sobrecarga de volumen o hipertensión pulmonar reversible.
+2. DAP de cualquier tamaño con un episodio de endocarditis (sin hipertensión pulmonar grave).
+3. Prematuros con fracaso del cierre farmacológico indicado y afectación hemodinámica persistente.
+
+El cierre del DAP pequeño está en debate (casos de endocarditis): lo decide el cardiólogo con la familia.
+
+**Modalidades:**
+- **Cirugía convencional:** la más usada en prematuros < 1.000 g. Toracotomía izquierda por el 3.^er^ espacio intercostal en recién nacidos (4.º en niños mayores). Ligadura múltiple con o sin sección, según el cirujano. Segura; *shunt* recurrente despreciable. En adultos se usa si la anatomía es desfavorable, el ductus es aneurismático o hay infección activa.
+- **Videotoracoscopia (VATS):** 3 trócares en el hemitórax izquierdo y clip. Igual de eficaz, recurrencia casi nula, menos días de ingreso. Contraindicada con DAP > 9 mm, toracotomía previa, ductus calcificado o aneurismático o infección activa.
+- **Cierre percutáneo:** dispositivo que produce fibrosis del ductus. *Coil*: ductus < 3 mm en el extremo pulmonar; no suele usarse en < 5 kg; contraindicado en anatomías tubulares o ductus muy grandes (riesgo de embolización). ADO (Amplatzer duct occluder): ductus demasiado grandes para *coils*; según el fabricante, 3-12 mm en el extremo pulmonar y 3 mm de longitud, autorizado en niños > 6 años y > 6 kg. Cierre del 90-95 % al año, menos efectos secundarios y estancias más cortas; hoy se tiende a cerrar por cateterismo, salvo anatomías complejas o ductus muy grandes (cirugía o VATS).
+
+**Postoperatorio:**
+- Tras cirugía o cateterismo, los niños suelen extubarse en quirófano. Los neonatos operados suelen seguir intubados por otros motivos y precisan aumentar transitoriamente el soporte ventilatorio y hemodinámico.
+- Niños mayores: tras cateterismo, alta a domicilio tras un periodo de observación; tras cirugía, a planta. Rara vez necesitan UCI salvo complicación. Alta media a 1-2 días tras VATS y a 3-4 días tras cirugía convencional; la VATS requiere menos días de analgesia.
+- Ecografía Doppler antes de salir de quirófano (VATS o cirugía) para comprobar que no queda *shunt*. Seguimiento en cardiología: la reapertura es muy rara tras cirugía; tras cateterismo el cierre es menor los primeros meses y se iguala al año.
+
+**Complicaciones posquirúrgicas:**
+- *Cuidados críticos (VATS y cirugía convencional, poco frecuentes):* parálisis del nervio laríngeo recurrente, quilotórax, parálisis diafragmática, neumotórax, sangrado, escoliosis y persistencia o recurrencia del DAP.
+- *Experto en Neonatología (ligadura en el prematuro):* DAP residual, obstrucción del flujo en la rama pulmonar izquierda o en la aorta, disfunción ventricular transitoria, infección, neumotórax, quilotórax, parálisis del nervio frénico, parálisis de cuerdas vocales, riesgo de enfermedad pulmonar crónica o retinopatía y de alteraciones del neurodesarrollo. Hacer controles ecocardiográficos tras la ligadura para descartar obstrucción de la rama pulmonar izquierda o de la aorta y disfunción del VI.
+
+*Experto en Neonatología.* En el periodo neonatal la ligadura es casi exclusiva del prematuro y puede hacerse en la propia UCIN. Se reserva para soporte ventilatorio importante con DAP hemodinámicamente significativo y fracaso del tratamiento médico (generalmente 2 ciclos, máximo 3) o contraindicación.
+
+**DAP en la edad adulta (Cuidados críticos).** El cierre percutáneo es de elección (ADO II, según la anatomía). Incidencia clara de endocarditis: profilaxis obligada si no se trata. Por encima de los 40 años es frecuente la calcificación del conducto.

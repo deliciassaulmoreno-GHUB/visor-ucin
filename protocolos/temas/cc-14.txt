@@ -1,0 +1,104 @@
+@f TEMAS/CC/14
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 19).* Conjunto de anomalías con hipodesarrollo del lado izquierdo del corazón y de la aorta ascendente, con anomalías valvulares, en el que la circulación sistémica depende por completo del VD a través del ductus.
+- Cuarta cardiopatía congénita grave en frecuencia (de las que requieren intervención neonatal); 0,2 por 1.000 recién nacidos vivos. La de mayor mortalidad en el primer año.
+- Anomalías extracardiacas en el 15-30 % (hernia diafragmática, atresia duodenal, atresia biliar, malrotación, onfalocele, fibrosis quística) y síndromes (Turner, Noonan, Smith-Lemli-Opitz, Holt-Oram, Ellis-van Creveld, CHARGE).
+- Mortal sin cirugía paliativa en tres estadios; la supervivencia del primero (Norwood) ha mejorado al 70-80 % gracias al manejo perioperatorio, pero sigue siendo la fase de más mortalidad (postoperatorio inmediato, inestabilidad hemodinámica).
+
+*Cardiología pediátrica para residentes (cap. 21).* El 1-2 % de las cardiopatías congénitas y primera causa de muerte por cardiopatía en la primera semana de vida. Espectro desde la atresia mitroaórtica con VI muy hipoplásico hasta la hipoplasia mitroaórtica con flujo anterógrado; en todos, las estructuras izquierdas no pueden mantener solas el gasto sistémico. Prototipo de ventrículo único de morfología derecha.
+
+# Fisiopatología y variantes
+
+@img cc-14-scih.svg
+
+**Anatomía (Cuidados críticos).** VI muy pequeño y marcada hipoplasia de la aorta ascendente, con afectación valvular:
+- Atresia aórtica con atresia mitral (36-46 %).
+- Atresia aórtica con estenosis mitral (20-29 %).
+- Estenosis aórtica con estenosis mitral (23-26 %).
+
+En la forma más grave (atresia mitroaórtica) la cavidad del VI es mínima y el arco y las coronarias se perfunden de forma retrógrada por el ductus. El septo interventricular suele estar intacto; la CIA permite la mezcla. Las estructuras derechas son mayores de lo normal; VD hipertrófico y anomalía tricuspídea hasta en el 35 % (displasia, anillo bicúspide).
+
+**Fisiopatología.** Cardiopatía cianosante: la mezcla por el septo interauricular y el ductus es obligada. El VD soporta el gasto pulmonar y sistémico. La sangre de la AI no puede pasar al VI y va a la AD por la CIA, donde se mezcla; el VD la eyecta a la AP y parte vuelve a la aorta por el ductus. Circulaciones en paralelo: el Qp/Qs depende del balance entre resistencias pulmonares y sistémicas. Son imprescindibles un ductus no restrictivo y una comunicación interauricular.
+
+**Cálculo del Qp/Qs (Cuidados críticos, figura 1).** Qp/Qs = (Ao − VCS) / (VP − AP), con saturaciones en aorta (Ao), vena cava superior o venosa mixta (VCS), venas pulmonares (VP, se asume 100 % sin patología pulmonar) y arteria pulmonar (AP, se asume igual a la aórtica).
+
+| Ejemplo | Interpretación |
+|---|---|
+| (80 − 60) / (100 − 80) = 1 | Circulaciones balanceadas, perfusión sistémica adecuada |
+| (90 − 70) / (100 − 90) = 2 | Hiperaflujo pulmonar con perfusión sistémica conservada |
+| (90 − 40) / (100 − 90) = 5 | Hiperaflujo pulmonar e hipoperfusión sistémica |
+| (70 − 50) / (100 − 70) = 0,6 | Disminución del flujo pulmonar |
+| (70 − 35) / (100 − 70) = 1,2 | Hipoxemia e hipoperfusión sistémica: bajo gasto cardiaco |
+
+# Clínica
+
+*Cuidados críticos.* Puede parecer normal al nacer; deterioro importante entre las primeras horas y los primeros días. Depende de la obstrucción al flujo sistémico, del Qp/Qs y del tamaño de la CIA y del ductus. Presentación: *shock* al cerrarse el ductus o insuficiencia cardiaca o hipoxemia por desequilibrio del Qp/Qs.
+- **Qp/Qs cercano a 1** (frecuente al nacer): cianosis o subcianosis con perfusión conservada (TA normal, extremidades calientes, buen relleno, pulsos palpables). Soplo sistólico eyectivo con 2.º tono único.
+- **Qp/Qs > 1** (ductus o arco pequeños, resistencias sistémicas altas o caída de las pulmonares, con CIA no restrictiva): insuficiencia cardiaca e hiperaflujo (taquicardia, taquipnea, SatO~2~ > 85 %) que evoluciona a hipoperfusión (pulsos débiles, frialdad, hepatomegalia, hipotensión) y *shock*.
+- **CIA muy restrictiva o ausente:** hipoxemia profunda por hipertensión pulmonar poscapilar; pueden parecer vigorosos al nacer, pero se deterioran rápido hacia el *shock*.
+
+*Residentes.* Sin flujo sistémico asegurado: bajo gasto e hiperaflujo (palidez, cianosis, taquipnea, taquicardia, rechazo de tomas, pulsos débiles, letargia) o *shock* que puede confundirse con sepsis.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** hipertrofia auricular y ventricular derecha, con menor voltaje izquierdo, sin Q septal y R pequeña en V5-V6 (a veces R grandes en V5-V6 que corresponden al VD dilatado).
+- **Radiografía:** cardiomegalia a expensas de AD, VD y tronco pulmonar (discreta las primeras horas); después plétora y, si la CIA es restrictiva, congestión venosa pulmonar.
+- **Ecocardiografía 2D** (suficiente; el cateterismo no está indicado de rutina): VI diminuto o ausente, VD dilatado y tricúspide grande, sin CIV habitualmente; hipoplasia del anillo y del arco aórtico con mitral distorsionada o ausente (frecuente coartación); CIA o FOP con *shunt* izquierda-derecha; flujo retrógrado en el arco y la aorta ascendente; ductus permeable y grande.
+
+*Residentes.* Sospecharlo con saturación < 85 % y/o bajo gasto; medir saturación y TA pre y posductal. ECG con dilatación de AD y VD y qR en precordiales derechas. Iniciar prostaglandinas ante la sospecha sin esperar a la eco.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* **Perfusión continua de PGE~1~ inmediata** ante la sospecha (la circulación sistémica depende del ductus). Objetivo: equilibrar el flujo sistémico y pulmonar (Qp/Qs = 1) con **SatO~2~ 75-85 %**. Más flujo pulmonar produce bajo gasto e hipoperfusión coronaria y cerebral; menos, hipoxemia grave.
+
+*Cuidados críticos. Figura 2. Manejo preoperatorio.*
+- **Qp/Qs > 1 (SatO~2~ > 85 %):** valorar la perfusión tisular (acidosis, lactato, diuresis) y el tamaño del ductus.
+  - Sin signos de bajo gasto sistémico: vasodilatadores sistémicos (milrinona) y CPAP nasal.
+  - Con oliguria, hipotensión o acidosis metabólica: inotrópicos (dopamina, dobutamina), intubación y ventilación mecánica con ↓ FiO~2~, ↑ PEEP e hipercapnia permisiva.
+- **Qp/Qs < 1 (SatO~2~ < 75 %):** ecocardiograma (tamaño del ductus y del FOP, signos de hipertensión pulmonar).
+  - Ductus o CIA restrictivos: PGE~1~ y Rashkind.
+  - Hipertensión pulmonar: inotrópicos (dopamina, noradrenalina), intubación con FiO~2~ alta, óxido nítrico inhalado y sedación.
+
+**Disminución del flujo sistémico (Qp/Qs > 1)** (Cuidados críticos). La situación más frecuente a partir de la primera semana (al bajar las resistencias pulmonares); la agravan las resistencias sistémicas altas o un arco restrictivo. Marcador precoz: SatO~2~ mantenida > 85 %.
+- Milrinona al detectarlo (reduce la poscarga y aumenta el gasto). Los vasoconstrictores sistémicos favorecen el bajo gasto y la isquemia cerebral y cardiaca.
+- Si es más intenso o llega en *shock*: corregir acidosis e hipoperfusión; dopamina o dobutamina.
+- Extubado: presión positiva continua no invasiva y FiO~2~ hasta 0,21.
+- Con bajo gasto establecido: intubación electiva con sedación para controlar la pCO~2~; «hipoventilación compensada» con objetivo de paCO~2~ en torno a 50 mmHg. Como puede causar hipoxemia alveolar y acidosis respiratoria, a veces se añade CO~2~ inspirado (en torno al 1-4 %, con monitorización estricta; más dosis aumenta la acidosis) para mantener el volumen minuto. PEEP más alta y FiO~2~ mínima.
+
+**Disminución del flujo pulmonar (Qp/Qs < 1)** (bastante infrecuente antes de la cirugía). Hipoxemia mantenida.
+- Septo interauricular intacto o restrictivo: atrioseptostomía con balón (Rashkind) guiada por eco, precoz.
+- Hipertensión pulmonar (infecciones, asfixia perinatal): vasoconstrictores sistémicos (noradrenalina) para que las resistencias sistémicas superen las pulmonares, óxido nítrico, FiO~2~ alta y buena sedación.
+
+**Hemoglobina:** mantener 13-16 g/dl (más liberación de O~2~; en *shunt* izquierda-derecha aumenta la SvO~2~ y las resistencias, ayudando a controlar el hiperaflujo).
+
+*Residentes.* Todo el flujo pasa por el VU y se reparte según las resistencias: el oxígeno o los bolos de sedación pueden causar bajo gasto sistémico y comprometer las coronarias. **Mejor azul que gris.** Tras el Norwood, monitorización domiciliaria: acudir si SatO~2~ < 75 % o > 90 % o si no gana 20 g/día dos días seguidos.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* Cirugía paliativa: asegurar el gasto sistémico sin obstrucción, con buen flujo coronario y flujo pulmonar regulado, y después separar las circulaciones. Determinantes del éxito: resistencias pulmonares, función ventricular y competencia de la válvula AV. Operar más allá de la segunda semana es factor de riesgo independiente.
+
+- **Norwood (estadio I):** se liga el ductus, se secciona la AP y con la AP proximal nativa se construye una «neoaorta» que reconstruye la aorta ascendente hipoplásica. Flujo pulmonar:
+  - **Clásico (Blalock-Taussig modificado):** tubo de PTFE desde el tronco innominado o la subclavia a las ramas pulmonares; flujo continuo (sístole y diástole), con riesgo de robo coronario diastólico e isquemia.
+  - **Sano:** conducto VD-AP; flujo pulsátil, menos isquemia, mejor crecimiento de ramas, más estabilidad y menos mortalidad el primer año; la ventriculotomía añade riesgo de lesión miocárdica y arritmias.
+- **Híbrido:** *banding* bilateral de ramas por esternotomía sin bypass y *stent* ductal; atrioseptostomía con balón (± *stent* interatrial) 1-2 semanas después si hace falta. Evita la parada circulatoria neonatal, pero no ha demostrado mejores resultados a largo plazo, traslada la reconstrucción del arco al Glenn (más complejo) y algunos estudios describen menor crecimiento de las ramas. Se reserva para alto riesgo, malformaciones asociadas, muy bajo peso o gran inestabilidad.
+- **Trasplante:** limitado por la escasez de donantes; rescate en cualquier estadio, más tras el Fontan.
+- Después: Glenn (estadio II) y Fontan (estadio III); ver «Ventrículo único».
+
+## Postoperatorio, complicaciones y su manejo
+
+*Cuidados críticos.* El manejo depende de la técnica.
+- **Monitorización del gasto:** lactato arterial; SvO~2~ seriada (ideal en la unión VCS-AD, o en la VCI antes de la AD) e índice de extracción de O~2~. SvO~2~ baja con diferencia arteriovenosa > 25 % indica bajo gasto. NIRS como medida no invasiva del balance aporte-demanda.
+- Suelen necesitar soporte inotrópico y vasoactivo elevado, según la contractilidad y las resistencias. **Con fístula, los vasoconstrictores sistémicos suben la TA pero reducen peligrosamente el gasto sistémico** (coronario y cerebral): limitarlos al máximo.
+- **Hiperaflujo pulmonar:** ↓ FiO~2~, PEEP alta, evitar la hiperventilación; los vasodilatadores sistémicos reducen el bajo gasto, aumentan la SvO~2~ y reducen el Qp/Qs. La sedoanalgesia reduce las resistencias periféricas y el consumo de O~2~.
+- **ECMO:** última alternativa si no se logra equilibrar la oxigenación, o rescate en colapso circulatorio por *shock* u obstrucción del *shunt*.
+- **Cianosis e hipoxemia mantenidas:** evaluar de inmediato el *shunt* o el conducto (obstrucción). Trombosis: rotura mecánica con balón o urokinasa o r-TPA. La estenosis es más frecuente que la obstrucción completa: angioplastia y/o *stent*.
+- **Bajo gasto persistente pese al tratamiento:** descartar obstrucción del arco (hasta el 20 % tras el Norwood); intervencionismo.
+
+*Cuidados críticos. Figura 4. Bajo gasto postoperatorio* (además, intensificar inotrópicos y optimizar la sedación):
+- **Flujo pulmonar aumentado (SatO~2~ > 85 %):** vasodilatadores sistémicos, ↓ FiO~2~, ↑ PEEP, hipercapnia permisiva.
+- **Flujo pulmonar normal (SatO~2~ 75-85 %):** descartar obstrucción del arco aórtico (ecocardiograma, cateterismo).
+- **Flujo pulmonar disminuido (SatO~2~ < 75 %):** disfunción miocárdica o insuficiencia tricuspídea grave: ECMO. Obstrucción de la fístula o del conducto de Sano: cateterismo intervencionista.

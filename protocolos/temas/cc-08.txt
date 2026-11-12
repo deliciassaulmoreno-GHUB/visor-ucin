@@ -1,0 +1,74 @@
+@f TEMAS/CC/8
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 15).* Forma de corazón univentricular por ausencia de una conexión AV: no existe la válvula tricúspide y el ventrículo dominante, con válvula AV, es de morfología izquierda.
+
+*Cardiología pediátrica para residentes (cap. 21).* Es la tercera cardiopatía congénita cianógena más frecuente. Se debe a la ausencia de formación de la válvula tricúspide, con hipodesarrollo del VD y de la válvula pulmonar. Es el prototipo de ventrículo único de morfología izquierda.
+
+*Cardiología pediátrica, vol. I (cap. 33).* La atresia tricuspídea y el ventrículo único de doble entrada izquierda comparten la morfología izquierda del ventrículo predominante y la cirugía paliativa univentricular como alternativa terapéutica.
+
+! En el material no hay una cifra de incidencia de la atresia tricúspide.
+
+# Fisiopatología y variantes
+
+@img cc-08-at.svg
+
+*Cuidados críticos.* El tamaño del VD y del vaso que sale de él depende del tamaño de la CIV. Puede haber o no transposición y coexistir estenosis o atresia pulmonar o estenosis aórtica (valvular o subvalvular). Es fundamental determinar si el circuito obstruido es el derecho o el izquierdo.
+
+Todo el retorno venoso sistémico pasa de la AD a la AI por la comunicación interauricular y se mezcla en el VI. La fisiopatología es la del ventrículo único: flujo pulmonar disminuido si hay obstrucción pulmonar; hiperaflujo con hipertensión pulmonar si no hay estenosis protectora (peor si hay obstrucción sistémica, como una coartación); mezcla restrictiva si la CIA o la CIV son pequeñas.
+
+*Cuidados críticos. Tabla I. Tipos y subtipos de atresia tricúspide (cada tipo puede presentar tres subtipos).*
+
+| Tipo | Descripción |
+|---|---|
+| Tipo I | AT con concordancia ventrículo-arterial normal |
+| Tipo II | AT con d-transposición de grandes arterias |
+| Tipo III | AT con l-transposición de grandes arterias, frecuentemente con CoA u obstrucción subaórtica |
+| Subtipo a | Con atresia pulmonar |
+| Subtipo b | Con estenosis valvular o subvalvular pulmonar significativa |
+| Subtipo c | Sin protección pulmonar |
+
+*Residentes.* Tipo I, arterias normorrelacionadas; tipo II, d-TGA; tipo III, otras malposiciones de los grandes vasos.
+
+! Cuidados críticos define el tipo III como l-transposición y Residentes, como «otras malposiciones».
+
+**Estenosis tricuspídea (Cuidados críticos).** Mucho más rara aislada que asociada (sobre todo a obstrucción del tracto de salida del VD); casos familiares. Se distingue la estenosis valvular (anillo grande, valvas engrosadas, comisuras fusionadas, cuerdas cortas) de la hipoplasia valvular (anillo pequeño, valvas y cuerdas diminutas), que puede considerarse un grado menor de atresia. Importa diferenciarlas: la estenosis tiene mejores opciones quirúrgicas (comisurotomía o recambio en niños mayores).
+
+# Clínica
+
+*Cuidados críticos* (como el resto de corazones univentriculares).
+- Con estenosis o atresia pulmonar (subtipos a y b): predomina la cianosis, según el flujo por el ductus o las colaterales; se diagnostican al cerrarse el ductus en el periodo neonatal.
+- Sin protección pulmonar (subtipo c): hiperaflujo e insuficiencia cardiaca a los días o semanas, al bajar las resistencias pulmonares. Con coartación u obstrucción subaórtica (frecuente en el tipo III), el hiperaflujo puede llegar al *shock* cardiogénico.
+- Estenosis pulmonar moderada (Qp/Qs < 2): síntomas leves y cianosis leve.
+- Soplo sistólico si hay estenosis pulmonar o aórtica; continuo si hay ductus o colaterales.
+
+*Residentes.* Tiene el flujo sistémico asegurado; la presentación depende del flujo pulmonar. Si es insuficiente, cianosis central en los primeros días con saturación < 85 %. Si no está limitado, insuficiencia cardiaca hacia las 2-3 semanas. Con circulaciones equilibradas, estables con saturación del 80-85 %.
+
+# Diagnóstico
+
+*Cuidados críticos.* ECG para el eje y el predominio ventricular (y, después, para las arritmias); radiografía con plétora o vasculatura disminuida según la obstrucción pulmonar; la ecocardiografía da el diagnóstico morfológico; cateterismo si hay dudas y siempre antes del Fontan.
+
+*Residentes.* ECG: crecimiento de VI, fuerzas derechas disminuidas y eje izquierdo (raro en neonatos). Iniciar prostaglandinas ante la sospecha, sin esperar a la eco.
+
+*Cardiología pediátrica, vol. I (cap. 10).* Un eje izquierdo en un neonato cianótico sugiere atresia tricuspídea o hipoplasia del VD.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Residentes.* Si el flujo pulmonar es insuficiente, prostaglandinas hasta la fístula sistémico-pulmonar o el *stent* ductal. Si hay hiperaflujo, tratamiento de la insuficiencia cardiaca hasta el cerclaje. Si las circulaciones están equilibradas, no requiere cirugía neonatal.
+
+Ver en «Ventrículo único» el manejo del recién nacido con fisiología univentricular, la regla «mejor azul que gris» y los cuidados entre estadios.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos y Residentes.* Paliación univentricular por etapas:
+1. **Neonatal:** fístula sistémico-pulmonar (Blalock-Taussig modificada) o *stent* ductal si hay hipoaflujo; cerclaje de la AP si hay hiperaflujo (para equilibrar el gasto). Corregir la obstrucción sistémica asociada.
+2. **Glenn bidireccional** (3-6 meses).
+3. **Fontan** (2-6 años).
+
+El postoperatorio de cada fase, las tablas de riesgo y de bajo gasto y las complicaciones (hiperpresión cavopulmonar, hipoxemia, derrames y quilotórax, arritmias, trombosis, fracaso del Fontan) están en la ficha «Ventrículo único».
+
+**Estenosis tricuspídea (Cuidados críticos).** En niños mayores, comisurotomía o recambio valvular.
+
+**Insuficiencia tricuspídea aislada (Cuidados críticos).** Muy infrecuente; suele ser secundaria a estenosis pulmonar grave u obstrucción del tracto de salida del VD. Puede deberse a disfunción de papilares por un evento intrauterino o perinatal, a válvula displásica, a *cleft* o incluso a ausencia de válvula con anillo conservado. Cianosis (*shunt* derecha-izquierda por el FOP) e insuficiencia cardiaca, con soplo pansistólico y thrill. Diagnóstico por eco-Doppler. Algunos recién nacidos con disfunción de papilares se recuperan espontáneamente; en las displásicas la valvuloplastia da malos resultados precoces, que mejoran en los que superan las primeras fases.

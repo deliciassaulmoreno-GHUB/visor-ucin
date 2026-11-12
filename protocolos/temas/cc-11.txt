@@ -1,0 +1,79 @@
+@f TEMAS/CC/11
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 16).* Lesión obstructiva con discontinuidad completa del arco aórtico, luminal y anatómica: dos segmentos separados o unidos por un cordón fibroso.
+- 1 % de las cardiopatías congénitas; incidencia de 0,003/1.000 recién nacidos.
+- Mortalidad sin tratamiento del 75 %.
+- Fuerte asociación (> 40 %) con malformaciones extracardiacas, anomalías genéticas y síndromes (espectro de la deleción 22q11.2, CHARGE). Un 15 % tiene rasgos de microdeleción 22q11.2 (DiGeorge, velocardiofacial): estudiarla aunque no haya rasgos fenotípicos. CHARGE (deleción 8q12) también puede asociarla.
+
+# Fisiopatología y variantes
+
+@img cc-11-iaa.svg
+
+**Tipos (clasificación de Celoria y Patton, Cuidados críticos).**
+- **Tipo A** (30 %): justo después de la subclavia izquierda.
+- **Tipo B** (el más frecuente, 43 %): entre la carótida izquierda y la subclavia izquierda.
+- **Tipo C** (el más raro, 17 %): entre el tronco braquiocefálico y la carótida izquierda.
+
+La aorta ascendente suele ser estrecha (hasta la mitad del calibre normal) y el tronco pulmonar muy grande; el ductus continúa con la aorta descendente como si fuera el arco.
+
+**Anomalías asociadas.**
+- **Del arco:** subclavia derecha aberrante como 4.º tronco (común en el tipo B, posible en el A); ductus derecho persistente (del que puede salir la subclavia derecha); origen de la arteria pulmonar derecha en la aorta ascendente.
+- **Tracto de salida del VI:** puede formar parte del espectro del VI hipoplásico. Aorta bicúspide hasta en el 50 %; tracto de salida estrecho y anillo aórtico pequeño, con más o menos estenosis.
+- **Intracardiacas:** CIV en el 90 %, de casi cualquier localización, sobre todo del septo de salida (conal) con malalineamiento y obstrucción subaórtica variable; son grandes, mayores que el diámetro aórtico.
+- **Otras:** truncus, d-TGA con CIV, ventana aortopulmonar, doble salida de VD (también Taussig-Bing), canal AV completo, conexión AV univentricular.
+
+**Fisiopatología.** La aorta distal a la interrupción depende por completo del ductus, imprescindible para sobrevivir, y la presión pulmonar debe ser suprasistémica para que el flujo vaya de la AP a la aorta. El cierre del ductus y la caída de las presiones pulmonares reducen y anulan el flujo sistémico distal, aumentan el flujo pulmonar (por la CIV y el foramen oval) y sobrecargan el VI: *shock* cardiogénico. Sin tratamiento, muerte entre el 4.º y 10.º día. No suele haber colaterales, salvo si el ductus se obliteró en la vida fetal (supervivencia más prolongada).
+
+# Clínica
+
+*Cuidados críticos.*
+- Debut habitual en *shock* cardiogénico, fácil de confundir con el séptico (a menudo se tratan ambos).
+- La diferencia de color pre y posductal (más cianosis distal) es infrecuente porque la CIV grande oxigena la AP.
+- Pulsos centrales débiles o ausentes: en el tipo A, los femorales y no los humerales; en B y C también el humeral izquierdo; con subclavia aberrante en B o C, los cuatro. En el *shock*, todos débiles o ausentes.
+- Crepitantes húmedos; rara vez soplos significativos, pero sí tercer tono en galope.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **Radiografía:** cardiomegalia y congestión o edema pulmonar. La escasa silueta tímica se relacionaría más con el estrés que con un DiGeorge.
+- **ECG:** hipertrofia de VD.
+- **Ecocardiografía:** anomalía del arco y subtipo; con más dificultad, subclavia aberrante. Anomalías intracardiacas (CIV amplia conal con malalineamiento, mitral, aórtica, tracto de salida del VI). **Tamaño del ductus y sentido de su flujo**, clave para el tratamiento.
+- **Estudio angiohemodinámico:** habitualmente innecesario. Oximetría: *shunt* izquierda-derecha por la CIV y derecha-izquierda por el ductus; saturación normal en los troncos previos a la interrupción y baja en los distales. La eco define mejor el tracto de salida del VI.
+- Ecografía transfontanelar previa a la cirugía (daño congénito o por el estado crítico).
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* Con diagnóstico fetal debe nacer en un centro con cirugía cardiaca; si no, estabilizar y trasladar en las mejores condiciones.
+- **Diagnóstico prenatal:** cardiopatía ductus-dependiente: PGE~1~ intravenosa a dosis de mantenimiento (0,01-0,03 µg/kg/min). La hipertensión pulmonar del recién nacido ayuda: limita el hiperaflujo y favorece el paso de la AP a la aorta descendente por el ductus.
+- **Diagnóstico posnatal** (insuficiencia cardiaca grave o *shock*, emergencia): reabrir el ductus con PGE~1~ a dosis de ataque (0,1 µg/kg/min) y después mantenimiento a la dosis más baja posible.
+- **Ventilación mecánica** muy frecuente, para tratar el edema y evitar el hiperaflujo favoreciendo el flujo AP → aorta (Qp/Qs ≈ 1): FiO~2~ mínima para SatO~2~ en torno al 90 % proximal a la interrupción y al 70 % distal; PEEP 6-10; tiempos inspiratorios largos; sedación e incluso relajación; evitar la hiperventilación, manteniendo el pH en torno a 7,35.
+- **Hipocalcemia:** prevenirla si hay sospecha de DiGeorge (hipoparatiroidismo).
+- **Inotrópicos** frecuentes en la estabilización (acidosis, obstrucción e hiperaflujo deterioran la contractilidad): dopamina 5-10 µg/kg/min y milrinona 0,5-0,8 µg/kg/min (inodilatador). Los vasodilatadores sistémicos pueden favorecer el *shunt* derecha-izquierda ductal. Pueden no ser necesarios si con el ductus abierto y la ventilación se mantiene un buen gasto sistémico (sin acidosis, diuresis adecuada, buena TA y pulsos en las 4 extremidades).
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* La alta mortalidad neonatal se debe al cierre ductal y a la falta de colaterales. Se interviene en los primeros días, ya estabilizado. RACHS-1 categoría 4: mortalidad quirúrgica del 9 % (menor en el tipo A, mayor en el C).
+- Esternotomía media para reparar a la vez la interrupción y la CIV; CEC con perfusión cerebral selectiva. Cierre de la CIV con parche de pericardio y anastomosis término-lateral entre aorta descendente y ascendente.
+- Con anomalías intracardiacas más graves, a veces reparación del arco y *banding* pulmonar, posponiendo el cierre de la CIV.
+- Puede diferirse el cierre del tórax para los primeros días de escape capilar.
+
+**Postoperatorio (Cuidados críticos).**
+- General: como en la coartación.
+- Inotrópicos o inodilatadores a dosis bajas: habitualmente dopamina (5-10 µg/kg/min) y milrinona (0,6-0,8 µg/kg/min). Eco a la salida de quirófano: contractilidad y lesiones residuales (CIV, estenosis subaórtica, gradiente en la anastomosis).
+- **Gasto adecuado:** diuresis 2-3 ml/kg/h, lactato arterial < 2,5 mmol/l, SvO~2~ mixta o central > 70 % (diferencia SaO~2~-SvO~2~ < 30 %), buena perfusión (relleno capilar, gradiente térmico < 3°) y NIRS esplácnico y cerebral > 50 % de media; valorar tendencias. Con gasto mantenido, una TA baja no obliga a subir inotrópicos; la TA alta puede hacer sangrar la anastomosis. Descartar hipovolemia.
+- **Renal:** en el bajo gasto suele necesitarse furosemida en perfusión de 0,2-1 mg/kg/h; si se prolonga o hay daño renal, diálisis peritoneal, hemofiltración o hemodiafiltración venovenosa continua.
+- **Infeccioso:** los DiGeorge serían más proclives a infección, aunque no se ha demostrado más sepsis. El tórax abierto implica más ventilación, estancia y catéteres: pensar en infección ante un empeoramiento súbito.
+- **Neurológico:** NIRS cerebral y, conveniente, EEG integrado por amplitud.
+
+## Complicaciones posquirúrgicas y su manejo
+
+*Cuidados críticos.*
+- **Bajo gasto** a las 12-24 h de la CEC: subir betaadrenérgicos; adrenalina si se necesita más inotropismo o noradrenalina si se necesitan más resistencias (todos aumentan las arritmias). Levosimendán (lusotrópico, menos consumo de O~2~): 0,1 µg/kg/min la primera hora y 0,2 µg/kg/min durante 24 h. Sin gradiente residual en la anastomosis, vasodilatadores puros para reducir la poscarga del VI.
+- **JET** (por la cirugía de la CIV): reducir inotrópicos (sobre todo dopamina y adrenalina) y enfriar a 34 °C; antiarrítmicos si no responde y hay repercusión.
+- **BAV completo:** marcapasos en DDD.
+- **Defectos residuales** (CIV o CIA pequeñas con cortocircuito apreciable, por VI pequeño u obstrucción a su salida): considerar reintervención si hay compromiso hemodinámico.
+- **Compresión del bronquio principal izquierdo por la aorta:** infrecuente; dificulta el destete; hiperinsuflación izquierda en la radiografía; tratamiento quirúrgico (liberar el bronquio).
+- Las complicaciones respiratorias, abdominales y neurológicas son como las de la coartación (quilotórax, isquemia intestinal por reperfusión, lesión del recurrente).

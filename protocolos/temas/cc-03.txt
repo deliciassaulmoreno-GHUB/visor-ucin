@@ -1,0 +1,114 @@
+@f TEMAS/CC/3
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 11).* Defecto del tabique interventricular que genera un flujo de sangre entre ambos ventrículos. Pertenece a las cardiopatías con aumento del flujo pulmonar (cortocircuito izquierda-derecha). Es la cardiopatía más frecuente (20 % excluyendo las cianóticas).
+
+*Cardiología pediátrica para residentes (cap. 14).* Es la cardiopatía congénita más frecuente si se excluye la válvula aórtica bicúspide. Prevalencia de unos 4 por 1.000 recién nacidos vivos. Puede ser aislada o formar parte de cardiopatías más complejas (tetralogía de Fallot, canal AV, TGA).
+
+# Fisiopatología y variantes
+
+@img cc-03-civ.svg
+
+*Cuidados críticos.* El flujo va del VI al VD. Su cuantía depende del tamaño de la comunicación, de la diferencia de presiones entre ventrículos y de la relación entre las presiones pulmonar y sistémica.
+- **Restrictiva (< 0,5 cm²):** presión del VD normal; el tamaño limita el cortocircuito.
+- **Grande no restrictiva (habitualmente > 1,0 cm²):** sobrecarga de la circulación pulmonar, de la AI y del VI, con dilatación o hipertrofia del VI e insuficiencia cardiaca. En casos avanzados, enfermedad vascular pulmonar e hipertensión pulmonar (HTP) por exposición a presión sistólica y flujo altos. Al aumentar las resistencias pulmonares el *shunt* se hace bidireccional o derecha-izquierda: mejora la insuficiencia cardiaca y aparece cianosis (fisiología de Eisenmenger). Esta HTP no desaparece tras reparar la CIV.
+
+*Residentes.* La repercusión depende del tamaño del defecto y de la relación entre resistencias sistémicas (RVS) y pulmonares (RVP). Tamaño respecto al anillo aórtico: pequeño < 1/2, mediano 1/2-2/3, grande > 2/3. Las RVP son altas al nacer y bajan en las primeras semanas: baja la presión del VD y aumenta el cortocircuito, con sobrecarga de volumen de las cavidades izquierdas.
+- **Pequeña (restrictiva):** cortocircuito escaso, presión del VD y RVP normales.
+- **Mediana:** más cortocircuito; la presión del VD puede estar elevada, pero por debajo de la sistémica, y las RVP no suelen estarlo.
+- **Grande:** la situación la condiciona la relación RVS/RVP. El hiperaflujo mantenido puede llevar a enfermedad vascular pulmonar obstructiva irreversible, con inversión del cortocircuito y cianosis (síndrome de Eisenmenger).
+
+## Tipos según su localización
+
+@img cc-03-civ-tipos.svg
+
+*Cuidados críticos.* El septo se divide en cuatro regiones:
+- **Septo de entrada o posteriores (5-8 %):** bajo las válvulas AV («tipo canal AV»), posteriores e inferiores al septo membranoso, cerca de la valva septal tricúspide, sin defecto de las válvulas AV.
+- **Septo de salida, infundibular, conal o subpulmonar (5-7 %):** en la salida del VD.
+- **Perimembranosas o conoventriculares (80 %):** en la unión de entrada y salida; el borde lateral lo forma el anillo tricúspide y el superior, el anillo aórtico.
+- **Musculares o trabeculares (5-20 %):** apicales (las más frecuentes), centrales y marginales o anteriores. A menudo múltiples.
+
+*Residentes.*
+- **Perimembranosas (75-80 %):** adyacentes a la válvula aórtica, bajo ella y el velo septal tricúspide; pueden cerrarse parcial o totalmente por tejido accesorio tricuspídeo. A veces asocian obstrucción del tracto de salida del VI y coartación.
+- **Musculares (5-20 %):** apicales, centrales y anteriores; pueden ser múltiples («septo en queso suizo»).
+- **Subpulmonares (infundibulares, conales, supracristales o subarteriales doblemente relacionadas) (5-7 %; 20-30 % en población asiática):** generalmente con prolapso de un velo aórtico (con o sin insuficiencia aórtica). Rara vez cierran.
+- **Septo de entrada (5-8 %):** entre el anillo tricúspide y las inserciones tricuspídeas en la pared del VD y el septo. No cierran espontáneamente.
+
+## Evolución natural
+
+*Residentes.* Las perimembranosas y musculares pueden reducirse y cerrarse en los primeros años: hasta el 30-35 % de las CIV, sobre todo las musculares (hipertrofia alrededor del defecto); muchas perimembranosas por aposición de tejido tricuspídeo redundante. Las pequeñas tienen excelente pronóstico (hasta el 95 % asintomáticas). En las medianas es clave el seguimiento los 6 primeros meses (más riesgo de insuficiencia cardiaca). Las grandes suelen requerir intervención el primer año; sin corrección pueden evolucionar a Eisenmenger.
+
+# Clínica
+
+*Cuidados críticos.* Depende del tamaño, el flujo y la presión pulmonar.
+- **Restrictivas pequeñas:** habitualmente asintomáticas.
+- **No restrictivas medianas o grandes:** asintomáticas al nacer; insuficiencia cardiaca a los 3-4 meses, cuando el Qp/Qs supera 2,5/1: disnea, taquipnea, irritabilidad, dificultad para comer, crecimiento insuficiente, sudoración profusa e infecciones pulmonares recurrentes.
+- **Exploración:** soplo sistólico, más audible en el 4.º espacio intercostal; 2.º tono fuerte si hay HTP. Con insuficiencia cardiaca, hepatomegalia, taquipnea y congestión pulmonar.
+
+*Residentes.*
+- **Pequeñas:** soplo en las primeras semanas (habitualmente a los 2-10 días, al bajar las presiones pulmonares), pansistólico e intenso (III-IV/VI), a veces con frémito. En las muy pequeñas puede ser menos intenso y protomesosistólico. 2.º tono normal, sin soplo diastólico.
+- **Moderadas-grandes:** insuficiencia cardiaca desde las primeras semanas (taquipnea, escasa ganancia ponderal, sudoración y fatiga con las tomas, taquicardia). Latido hiperdinámico, soplo pansistólico III/VI, 2.º tono desdoblado con componente pulmonar aumentado, posible retumbo diastólico apical. En las grandes el soplo puede faltar al igualarse las presiones. Con HTP, 2.º tono único y más fuerte.
+
+! Cuidados críticos sitúa el inicio de la insuficiencia cardiaca a los 3-4 meses y Residentes, desde las primeras semanas.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** normal si el defecto es pequeño. Con *shunt* grande, hipertrofia de VI, crecimiento de AI y a veces hipertrofia biventricular.
+- **Radiografía:** normal en la pequeña; cardiomegalia con congestión pulmonar en la grande.
+- **Eco-Doppler:** localización y dirección del *shunt*. Perimembranosa: relacionada con la válvula aórtica, mejor en eje corto (típicamente «a las 11 del reloj»). Septo de entrada: relacionada con la tricúspide, mejor en apical o subcostal 4 cámaras bajo las válvulas AV. Infundibular, subpulmonar o supracristal (más frecuente en raza asiática): bajo la válvula pulmonar. Musculares: anteriores, posteriores, medias o apicales.
+- **Cateterismo:** si el eco-Doppler no basta o hay HTP, para valorar su reversibilidad con óxido nítrico inhalado.
+
+*Residentes.*
+- ECG: sobrecarga de volumen izquierda (voltajes altos en V5-V6); crecimiento biventricular en las grandes; con HTP, además hipertrofia de VD (R altas en V1).
+- Radiografía: en las grandes, aumento de la trama vascular, cardiomegalia izquierda y AP dilatada.
+- Ecocardiografía, técnica de elección para el diagnóstico y el seguimiento. Planos: paraesternal eje largo (perimembranosa y muscular), eje corto (perimembranosa y subpulmonar), apical 4 cámaras (muscular y de entrada), apical 5 cámaras (muscular y perimembranosa), subcostal (perimembranosa, muscular y de entrada).
+- Presión sistólica de AP = tensión arterial sistólica sistémica − gradiente de la CIV (si no hay obstrucción a la salida del VD). Los diámetros de AI y VI informan del volumen del cortocircuito.
+- Lesiones asociadas: anomalías de válvulas AV, prolapso de velos aórticos con insuficiencia aórtica, defecto tipo Gerbode (del VI a la AD), obstrucción subaórtica («espolón») o del tracto de salida derecho (ventrículo derecho de doble cámara: en CIV restrictivas el flujo acelerado hipertrofia bandas musculares).
+- Resonancia: en defectos complejos si la eco no es concluyente. Cateterismo: no de rutina; para medir RVP si se sospecha enfermedad vascular pulmonar, valoración preoperatoria de defectos amplios con patología asociada, respuesta a vasodilatadores pulmonares o cierre con dispositivo.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* En lactantes con CIV grande el tratamiento busca controlar la insuficiencia cardiaca, mantener el crecimiento y prevenir la enfermedad vascular pulmonar. Si es eficaz, el cortocircuito puede disminuir, sobre todo el primer año.
+- Diuréticos (sobre todo furosemida, con posible espironolactona para compensar la pérdida de potasio), con o sin digoxina. Si hay aumento de poscarga, IECA (captopril).
+- Soporte nutricional: valorar sonda nasogástrica y fórmulas hipercalóricas. Tratar la anemia si la hay.
+
+**CIV grande con insuficiencia cardiaca rebelde:**
+- Intentar Qp/Qs de 1 ajustando el soporte ventilatorio si lo precisa, para reducir el flujo pulmonar.
+- Optimizar diuréticos (a menudo furosemida intravenosa), digital, IECA, y valorar inodilatadores en perfusión (milrinona).
+- Evitar la anemia, que aumenta el *shunt* en CIV no restrictivas.
+
+*Residentes.*
+- **Actitud expectante** en asintomáticos con posibilidad de cierre espontáneo. CIV pequeña o moderada sin repercusión: revisión al mes (caída de presiones pulmonares y sobrecarga izquierda), después entre los 3 y 6 meses; conservador hasta los 12 meses y luego cada 1-2 años.
+- **Sintomáticos:** diuréticos (furosemida y espironolactona) e IECA; fórmula hipercalórica (≥ 150 kcal/kg/día); tratar la ferropenia; gripe anual (> 6 meses) e inmunoprofilaxis del VRS (< 2 años); higiene oral. No se recomienda profilaxis de endocarditis.
+
+## Tratamiento quirúrgico
+
+**Indicaciones de cierre.**
+- *Cuidados críticos:* defectos grandes de cualquier edad con síntomas o retraso del crecimiento no controlables con tratamiento médico; lactantes de 6-12 meses con defectos grandes e HTP, aunque los síntomas estén controlados; mayores de 24 meses con Qp/Qs > 2. Las supracristales de cualquier tamaño suelen derivarse a cirugía por el alto riesgo de insuficiencia aórtica. La enfermedad vascular pulmonar grave contraindica el cierre.
+- *Residentes:* sintomáticos pese al tratamiento médico; asintomáticos con cortocircuito significativo y sobrecarga izquierda mantenida; defectos moderados-grandes con HTP reversible; insuficiencia aórtica; anomalías asociadas (ventrículo derecho de doble cámara, estenosis subaórtica).
+
+**Técnicas.**
+- *Cuidados críticos:* esternotomía media con CEC, clampaje aórtico y cardioplejia. La mayoría por auriculotomía derecha, viendo el defecto a través de la tricúspide; las musculares apicales pueden requerir ventriculotomía derecha. Parche de pericardio autólogo o sintético. Especial cuidado con el tejido de conducción AV. La ETE valora la reparación, y comparar la saturación de la AP con la venosa central ayuda a descartar defectos residuales. Tiempos de CEC y clampaje cortos-medios.
+- **Paliación:** si hay factores que dificultan la reparación completa (CIV múltiples, muy bajo peso, enfermedad sistémica grave, lesiones neurológicas o acabalgamiento de las válvulas AV), cerclaje (*banding*) de la arteria pulmonar para reducir el hiperaflujo.
+- **Percutáneo:** en casos seleccionados, dispositivo NIT-OCCLUD® en hemodinámica (Cuidados críticos). Según Residentes, útil sobre todo en musculares de acceso quirúrgico difícil y en perimembranosas seleccionadas; según la AHA, musculares con anatomía favorable en > 5 kg y perimembranosas en niños mayores (no generalizado por el riesgo de BAV completo).
+
+**Postoperatorio (Cuidados críticos).**
+- Suele ser sencillo, pero es más complejo si la intervención se retrasó en CIV no restrictivas con HTP o si había cerclaje (VD sometido a trabajo contra resistencia).
+- Monitorización no invasiva (FC, ECG, TA, FR, pulsioximetría, temperatura central y periférica, NIRS cerebral, índice biespectral) e invasiva (TA, PVC, diuresis, drenajes); con HTP, puede ser útil la presión en AI y en AP.
+- Al ingreso: ECG, radiografía, analítica completa y eco (*shunts* residuales y función ventricular).
+- La mayoría se extuban en quirófano o poco después.
+- Soporte vasoactivo según la hemodinámica y las lesiones residuales; con frecuencia milrinona (0,5-0,75 µg/kg/min) con adrenalina (0,05-1 µg/kg/min) o dopamina (5-10 µg/kg/min).
+- Mortalidad < 1 % en la CIV aislada; 5-10 % en CIV múltiples.
+
+**Complicaciones posquirúrgicas y su manejo (Cuidados críticos).**
+- **CIV residual (20-30 %):** rara por dehiscencia del parche, frecuente como pequeños defectos alrededor; la mayoría cierran solas.
+- **Hipertensión pulmonar:** más probable con CEC larga y RVP altas previas. Asegurar oxigenación, sedoanalgesia (mórficos y benzodiacepinas), miorrelajante, control del pH (normoventilación, bicarbonato > 21 mmol/l). Los vasodilatadores intravenosos como la PGE~1~ son útiles en la HTP establecida con septo íntegro. El óxido nítrico inhalado reduce las RVP y la necesidad de ECMO.
+- **Disarritmias (30 %):**
+  - **Defectos de conducción AV** por edema o tracción del anillo tricuspídeo. Los transitorios (24-48 h) por edema perisutura: plantear dexametasona y marcapasos externo transitorio mientras tanto. Si es permanente (> 7-10 días; más en perimembranosas y tipo canal), valorar marcapasos definitivo según la FC residual.
+  - **Taquiarritmias** (taquicardia supraventricular o JET), con importante repercusión hemodinámica; por automatismo anormal, de inicio gradual, FC variable y refractarias al tratamiento médico y eléctrico. Amiodarona, hipotermia (33-34 °C con sedoanalgesia), dexmedetomidina y sobreestimulación con marcapasos transitorio (modo DDD) para asegurar la sincronía AV.
+- **Sangrado excesivo** (raro): reexploración quirúrgica tras descartar coagulopatía o trombopenia.
+
+*Residentes.* Evolución posquirúrgica excelente. CIV residuales generalmente sin repercusión; bloqueo de rama derecha frecuente y bloqueo AV en el 2-5 % (puede ser transitorio). Profilaxis de endocarditis los 6 primeros meses tras la cirugía.

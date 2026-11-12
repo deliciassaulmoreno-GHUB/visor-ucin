@@ -1,0 +1,82 @@
+@f TEMAS/CC/19
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 24).* Las alteraciones del desarrollo coronario alteran el flujo coronario (cortocircuitos e isquemia), con clínica variable que puede llegar a la muerte súbita, sobre todo en niños y adolescentes. Prevalencia del 0,21 al 5,79 % según el método (angiografía, TC o autopsia) y la falta de criterios claros de normalidad.
+
+**ALCAPA** (*Anomalous Left Coronary Artery from Pulmonary Artery*, síndrome de Bland-White-Garland): la malformación coronaria congénita que combina más frecuencia y relevancia clínica, y la causa más común de isquemia e infarto en la infancia. Rara: 1 por 300.000 nacidos vivos, 0,24-0,46 % de las cardiopatías congénitas. Sin tratamiento, el 90 % muere el primer año por miocardiopatía dilatada y fallo del VI. Una vez diagnosticada es tratable quirúrgicamente: hace falta un alto índice de sospecha.
+
+# Fisiopatología y variantes
+
+@img cc-19-alcapa.svg
+
+**Anatomía normal (Cuidados críticos).** Los vasos se nombran por el territorio que irrigan, no por su origen:
+1. **Coronaria derecha (ACD):** pared libre del VD.
+2. **Coronaria izquierda (ACI):** generalmente un tronco común (el único tronco común normal) del que salen la descendente anterior (septo anterior) y la circunfleja (pared libre del VI).
+
+*Cuidados críticos. Tabla I. Patrones coronarios de normalidad (modificado de Angelini; normal si se observa en > 1 % de la población).*
+
+| Característica | Rango o patrón normal |
+|---|---|
+| Número de ostiums | De 2 a 4 |
+| Localización | Senos de Valsalva derecho e izquierdo |
+| Orientación de la sección proximal | De 45 a 90° desde la pared aórtica |
+| Tronco o raíz común | Únicamente izquierda |
+| Curso proximal | Directo del ostium a su destino |
+| Curso medial | Extramural (subepicárdico) |
+| Ramas | Adecuadas al miocardio dependiente |
+| Territorios esenciales | Pared libre de VD y VI y región anteroseptal |
+| Final | Lecho capilar |
+
+**Embriología (Cuidados críticos).** El epicardio (desde el proepicardio) es clave: sus células se transforman en precursoras mesenquimales de los vasos. Hacia la 4.ª semana hay estructuras vasculares sin flujo entre epicardio y miocardio, que hacia la 6.ª penetran en la raíz aórtica; la exposición a la presión sistémica madura las arterias. Los ostium parecen depender del VEGF, la cresta neural y genes de proteínas de membrana.
+
+**Clasificación (Grupo de Trabajo de la Sociedad Europea de Cardiología, embriológica y anatómica).**
+1. **Anomalías de conexión:**
+   - Hacia la arteria o circulación pulmonar: ACI a la AP (ALCAPA); circunfleja a la AP; descendente anterior a la AP; ACD a la AP (ARCAPA); conexión ectópica a seno pulmonar anterior izquierdo, tronco o rama; conexión al VD.
+   - Hacia la aorta o circulación sistémica: ausencia de tronco principal izquierdo (ACI bifurcada); ostium anómalo en el seno correspondiente; ostium en el seno no correspondiente (ACD a seno izquierdo, ACI a seno derecho, circunfleja o descendente anterior a coronaria o seno derecho, ACD o ACI a seno posterior con curso anómalo); coronaria única; origen fuera de la aorta sinotubular.
+2. **Anomalías intrínsecas:** atresia o estenosis del ostium, hendidura, aneurisma o ectasia del ostium, ausencia de una coronaria, hipoplasia, ramificación anómala.
+3. **Interacción miocardio-coronaria:** curso intramural («puente miocárdico»), curso subendocárdico, fístulas coronarias, ramificación arteriolar o capilar inadecuada.
+
+**Fisiopatología del ALCAPA (Cuidados críticos).** Se debe a una separación anómala del tronco aortopulmonar. En la vida fetal y neonatal precoz la presión pulmonar es igual a la sistémica y la ACI se perfunde bien. Al bajar la presión pulmonar disminuye la presión de perfusión de la ACI y su flujo se invierte hacia la AP (robo coronario). La perfusión del VI depende de colaterales desde la ACD; sin ellas, hipoperfusión e infarto del VI con miocardiopatía dilatada. Suele ser aislado; si se asocia a ductus persistente, la presión pulmonar alta mantiene la perfusión de la ACI.
+
+# Clínica
+
+*Cuidados críticos.* Dos variantes según haya o no circulación intercoronaria adecuada desde la ACD:
+- **Sin colaterales adecuadas** (lo más frecuente): síntomas en los primeros meses. Puede simular cólicos, infecciones respiratorias o intolerancia alimentaria. Lo más frecuente: crisis de llanto intenso (angor) e insuficiencia cardiaca (disnea, dificultad respiratoria, sudoración, falta de apetito, fallo de medro). Disfunción del VI e insuficiencia mitral por isquemia y daño del papilar, con miocardiopatía dilatada progresiva, cardiomegalia y congestión. En diagnósticos tardíos, *shock* cardiogénico e insuficiencia grave. Excepcionalmente, evolución subclínica con soplo.
+- **Con colaterales adecuadas** (mucho menos frecuente): asintomáticos hasta la adolescencia o edad adulta; debutan con angor, disnea, palpitaciones o fatiga y, rara vez, arritmia ventricular, síncope o muerte súbita.
+
+El ALCAPA debe estar en el diagnóstico diferencial de todo niño con miocardiopatía dilatada y/o isquemia miocárdica.
+
+# Diagnóstico
+
+*Cuidados críticos.* Reto diagnóstico; diferencial con la miocardiopatía dilatada.
+- **ECG** (barato y accesible, orienta mucho): Q anormales en I y aVL, T invertida y/o ST descendido de V4 a V6, hipertrofia de VI; a menudo crecimiento de AI (P de mayor voltaje en V1). Johnsrude: en el 100 % de su serie, Q > 3 mm de profundidad y > 30 ms, patrón QR en al menos una de I, aVL, V5 o V6, y ausencia de Q en II, III y aVF.
+- **Ecocardiografía con Doppler color** (de elección para muchos autores, sobre todo en lactantes críticos): función del VI, válvula mitral, ecogenicidad de los papilares, morfología y diámetro coronarios, flujo coronario y colaterales. Hallazgos típicos: ausencia del ostium izquierdo en el anillo aórtico (no patognomónico) y jet anormal con flujo diastólico en el tronco pulmonar sin ductus ni insuficiencia pulmonar; flujos dentro del septo (colaterales). Disfunción del VI, insuficiencia mitral y endocardio y papilares «brillantes». **Si la coronaria parece salir de la aorta pero todo lo demás apunta a ALCAPA, hacer cateterismo o RM.**
+- **Angio-TC coronaria:** útil sobre todo en supervivientes a la infancia; limitada en lactantes.
+- **RM cardiaca:** no invasiva, sin radiación; función y viabilidad, pero difícil definir la anatomía coronaria en lactantes.
+- **Cateterismo con angiografía de la raíz aórtica:** *gold standard* clásico (orígenes coronarios y colaterales), pero invasivo y de riesgo anestésico en un paciente con fallo cardiaco; en centros especializados.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* No hay tratamiento médico específico: soporte cardiorrespiratorio hasta la cirugía. A diferencia de otras miocardiopatías, la isquémica del ALCAPA puede revertir al restablecer la circulación coronaria: diagnóstico y cirugía precoces.
+- Pilares: oxigenoterapia, ventilación con presión positiva, diuréticos e inodilatadores, y detección y tratamiento precoz de arritmias.
+- Iniciar con presión positiva no invasiva, sopesando el beneficio frente a una intubación de alto riesgo. **La sedación puede bajar las resistencias sistémicas y la perfusión coronaria** y desencadenar actividad eléctrica sin pulso, arritmias ventriculares o parada.
+- **Inotrópicos betamiméticos solo si hay hipoperfusión tisular** (aumentan el riesgo de arritmias potencialmente mortales).
+- Diagnóstico tardío con bajo gasto e hipoperfusión de órganos: asistencia ventricular izquierda o ECMO hasta la cirugía.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* De elección tras el diagnóstico, con excelentes resultados; sin reparación urgente la mortalidad es muy alta. Las colaterales pueden permitir llegar a la edad adulta, pero la hipoperfusión crónica causa isquemia subendocárdica, fibrosis y riesgo de muerte súbita y arritmias.
+- Técnicas históricas: ligadura de la ACI junto al tronco pulmonar (elimina el robo), *bypass*, anastomosis a la subclavia izquierda, tunelización transpulmonar (Takeuchi).
+- **Técnica estándar actual: translocación de la ACI a la aorta ascendente** con CEC y cardioplejia: se diseca un botón de pared pulmonar con la ACI y se lleva a la aorta; el tronco pulmonar se reconstruye con parche de pericardio. La mayoría recupera una función sistólica normal, con pocas reintervenciones.
+- **Válvula mitral:** en general no se recomienda la valvuloplastia en el primer tiempo; la insuficiencia suele mejorar con la función del VI y, si no, se repara en un segundo tiempo.
+
+## Postoperatorio, complicaciones y su manejo
+
+*Cuidados críticos.*
+- La extensión de la necrosis del VI depende del cierre del ductus, de los cambios de las resistencias pulmonares y de la velocidad de desarrollo de las colaterales.
+- Tras una reparación eficaz mejoran gradualmente la función, la dilatación y la insuficiencia mitral, lo que permite retirar en paralelo el soporte (presión positiva, inodilatadores, diuréticos intensivos).
+- Si necesitaron asistencia ventricular o ECMO antes, o la función es muy mala, puede necesitarse ECMO en el postoperatorio precoz pese a un flujo coronario adecuado; la recuperación es más lenta, pero lo esperable es poder retirar el soporte.
+- **Reintervención** (baja): valvuloplastia mitral si la insuficiencia impide retirar la ventilación y los vasoactivos.
+- Seguimiento en cardiología pediátrica: función sistólica y diastólica, válvula mitral y flujo de la ACI reimplantada.

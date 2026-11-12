@@ -1,0 +1,178 @@
+@f TEMAS/CC/6
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 14)* agrupa cuatro entidades: atresia pulmonar con septo íntegro (APSI), atresia pulmonar con CIV (AP-CIV), estenosis pulmonar (EP) e insuficiencia pulmonar (IP).
+
+- **APSI:** imperforación de la válvula pulmonar sin defectos del tabique interventricular; no hay comunicación entre el VD y la arteria pulmonar. Entre el 0,7 y el 3 % de las cardiopatías congénitas; una de las cianóticas más frecuentes del neonato (4-8/100.000 recién nacidos vivos). Sin predominio de sexo; la mayoría nacen a término.
+- **AP-CIV:** para muchos autores, la forma más grave de la tetralogía de Fallot. Poco frecuente: 0,7 por 10.000 recién nacidos vivos. Deleción 22q11.2 (DiGeorge, velocardiofacial) hasta en el 30-40 %, con vasculatura pulmonar más compleja.
+- **EP:** obstrucción al flujo de salida del VD a distintos niveles; presente en el 20-30 % de los pacientes con cardiopatía congénita, aislada o asociada (p. ej., Fallot). La EP valvular con septo íntegro supone el 5-10 % de las cardiopatías y se asocia a menudo al síndrome de Noonan.
+- **IP:** primaria, asociada a EP o secundaria a la reparación quirúrgica o percutánea de la válvula.
+
+*Cardiología pediátrica para residentes (cap. 17).* La EP valvular es la forma más frecuente: 8-10 % de las cardiopatías congénitas, prevalencia de 1/2.000-100.000. A veces familiar o sindrómica (Noonan, Leopard, Costello…): descartarlos ante una EP.
+
+! Cuidados críticos da para la EP valvular el 5-10 % de las cardiopatías y Residentes, el 8-10 %.
+
+# Fisiopatología y variantes
+
+## Atresia pulmonar con septo íntegro
+
+@img cc-06-apsi.svg
+
+*Cuidados críticos.* Corazón habitualmente en posición normal (hay casos con doble discordancia, incluso dextrocardia). El defecto asociado más característico es la displasia tricuspídea, que marca el desarrollo del VD:
+- **VD hipoplásico:** velos engrosados, anillo pequeño, aparato subvalvular restrictivo con cuerdas cortas.
+- **VD dilatado:** tricúspide displásica y descendida (anomalía de Ebstein).
+- **VD intermedio:** displasia tricuspídea leve.
+
+Coronarias habitualmente normales, pero puede haber conexiones ventrículo-coronarias que perfunden de forma retrógrada desde el VD: la descompresión brusca del VD puede causar isquemia miocárdica grave. Con estas conexiones puede haber fibroelastosis endocárdica y alteraciones de la compactación o de la disposición de las fibras.
+
+La sangre de las cavas llega a la AD y al VD, que no tiene salida; vuelve a la AD y pasa a la AI por el foramen oval, al VI y a la aorta. El ductus permite que parte llegue al tronco pulmonar y se oxigene; también puede haber colaterales aortopulmonares.
+
+*Cuidados críticos. Tabla I. Malformaciones asociadas a la APSI.*
+
+| Malformación asociada | Frecuencia |
+|---|---|
+| Anomalía de Ebstein | 9,8 % |
+| Hipoplasia de arterias pulmonares (< 3 mm) | 8,7 % |
+| Alteración de TSVD y TSVI | 8,2 % |
+| – Hipertrofia septal | 2,2 % |
+| – Válvula aórtica bicúspide | 1,6 % |
+| – Válvula mitral displásica | 0,5 % |
+| – HVI concéntrica | 0,5 % |
+| – Alteración de compactación del SIV | 0,5 % |
+| – Válvula tricúspide aneurismática sobre el TSVD | 0,5 % |
+| – Válvula aórtica unicúspide | 0,5 % |
+| – Estenosis aórtica supravalvular | 0,5 % |
+| Mínima CIV | 0,5 % |
+| VCS izquierda | 6,5 % |
+| Arco aórtico derecho | 2,7 % |
+| Colaterales aortopulmonares | 1,6 % |
+| Origen anómalo de la subclavia derecha | 1,6 % |
+| Origen anómalo de la coronaria derecha | 1,1 % |
+| Estenosis de las venas pulmonares izquierdas | 0,5 % |
+
+*TSVD/TSVI: tracto de salida del ventrículo derecho/izquierdo; SIV: septo interventricular; VCS: vena cava superior.*
+
+## Atresia pulmonar con CIV
+
+*Cuidados críticos.* Grupo heterogéneo con ausencia de comunicación entre el VD y las arterias pulmonares y CIV. Anatomía intracardiaca como la del Fallot: CIV anterior mal alineada, habitualmente perimembranosa y no restrictiva, acabalgamiento aórtico y VD hipertrófico (sobre todo el infundíbulo). Arco derecho en el 25-50 %. Ausencia de válvula pulmonar, con distintos grados de discontinuidad: desde válvula ausente con tronco y ramas bien desarrollados hasta ausencia de tronco con o sin ramas confluentes.
+
+El flujo pulmonar procede obligatoriamente de la circulación sistémica: ductus y/o colaterales sistémico-pulmonares (típicamente de la aorta torácica descendente; también de la abdominal, la subclavia o las intercostales). Tres situaciones:
+- **A:** circulación pulmonar ductus-dependiente; todos los segmentos irrigados por arterias pulmonares centrales (confluentes o no, más o menos hipoplásicas).
+- **B:** unos segmentos por arterias pulmonares a través del ductus y otros por colaterales.
+- **C:** irrigación exclusiva por colaterales; no hay arterias pulmonares centrales.
+
+La sangre del VD pasa al VI por la CIV y se mezcla con la de las venas pulmonares; la saturación depende del flujo pulmonar. Orientativamente, saturación > 85 % indica Qp/Qs de 2:1 (puede llevar a insuficiencia cardiaca) y 70-75 %, Qp/Qs ≤ 1.
+
+## Estenosis pulmonar
+
+@img cc-06-ep.svg
+
+*Cuidados críticos.*
+- **Valvular:** valvas fusionadas en la comisura; válvula móvil en cúpula con orificio de 1-2 mm. VD hipertrófico y dilatación postestenótica de la AP. Puede coexistir FOP o CIA, con cianosis por *shunt* derecha-izquierda si la estenosis es grave y el VD poco distensible.
+- **Subvalvular** (poco común aislada): VD bicameral (banda muscular que divide el VD en entrada y salida) o estenosis infundibular fibromuscular.
+- **Supravalvular:** tronco, ramas, bifurcación o distal; a veces con rubéola congénita o síndromes de Williams, Noonan o Alagille.
+
+Fisiopatología: aumenta la presión del VD, que puede ser suprasistémica, con hipertrofia y menor distensibilidad; si es grave, isquemia subendocárdica, dilatación, fibrosis y fallo del VD. La presión alta en la AD favorece el FOP con *shunt* derecha-izquierda y cianosis. En neonatos con EP grave el flujo anterógrado no basta y el ductus debe seguir abierto. La hipertrofia infundibular puede dar obstrucción dinámica con el ejercicio o los inotrópicos, que suele regresar tras la reparación.
+
+*Residentes.* Anatomía valvular: fusión o ausencia de comisuras (lo más frecuente); válvula engrosada o displásica, mixomatosa, con anillo pequeño (típica del Noonan, a menudo con componente supravalvular); bicúspide o monocúspide.
+
+## Insuficiencia pulmonar
+
+*Cuidados críticos.* Sobrecarga de volumen del VD que lo dilata, dilata el anillo tricuspídeo (insuficiencia tricuspídea) y produce disfunción diastólica del VI; puede afectar al sistema de conducción, con riesgo de arritmias y muerte súbita.
+
+# Clínica
+
+**APSI (Cuidados críticos).** Según el hipoaflujo pulmonar y el ductus. Cianosis en las primeras horas, progresiva; taquipnea importante y latido hiperdinámico. Si la CIA es restrictiva, compromiso del gasto. Soplo pansistólico en el borde esternal inferior (ductus y/o insuficiencia tricuspídea); con IT grave, soplo continuo con retumbo diastólico. Gasometría: hipoxemia, hipercapnia y, con bajo gasto, acidosis metabólica.
+
+**AP-CIV (Cuidados críticos).** Cianosis neonatal, que puede pasar desapercibida hasta el cierre del ductus, o semanas o meses si las colaterales dan un flujo estable; después cianosis progresiva (flujo fijo que no se adapta al crecimiento o estenosis de colaterales). Rara vez flujo excesivo (Qp/Qs > 2) con insuficiencia cardiaca al bajar las resistencias. Algunos pasan desapercibidos años.
+
+**EP (Cuidados críticos).** Leves, asintomáticos. Moderada-grave: disnea, cansancio, cianosis, insuficiencia cardiaca, incluso síncope, dolor precordial, arritmias o muerte súbita. Frémito pulmonar, clic de eyección, soplo sistólico y desdoblamiento del 2.º ruido proporcionales a la obstrucción.
+
+*Residentes.* La mayoría de los niños están asintomáticos (soplo rudo en foco pulmonar, 2.º ruido desdoblado, desarrollo normal). Las graves pueden dar dolor torácico, disnea, intolerancia al esfuerzo, síncope o muerte súbita con el esfuerzo; si el VD se dilata, insuficiencia cardiaca derecha. En recién nacidos y lactantes progresa más rápido; la **EP crítica** da insuficiencia derecha precoz y cianosis grave y es ductus-dependiente.
+
+**IP (Cuidados críticos).** Generalmente bien tolerada; en casos graves, insuficiencia cardiaca derecha, arritmias y muerte súbita. Soplo diastólico en foco pulmonar y a veces hepatomegalia.
+
+# Diagnóstico
+
+**APSI (Cuidados críticos).**
+- **ECG:** ritmo sinusal, QRS entre +30 y +90, posible hipertrofia del VI y dilatación de la AD; a veces ST alterado (isquemia subendocárdica).
+- **Radiografía:** dilatación de AD y flujo pulmonar disminuido con hilios poco marcados; cardiomegalia más marcada si el VD está dilatado con tricúspide tipo Ebstein.
+- **Ecocardiografía:** aurículas y foramen oval/CIA con *shunt* derecha-izquierda; tamaño de mitral y tricúspide y regiones subarteriales; tamaño y morfología del VD; conexiones coronario-camerales; flujo en AP; ductus. El Z-score del anillo tricuspídeo es buen indicador indirecto del tamaño del VD: < −3 implica más riesgo de conexiones ventrículo-coronarias.
+- **Angiografía:** ventriculografía (morfología del VD, IT, conexiones ventrículo-coronarias), aortografía (origen de las coronarias, interrupciones o estenosis, ductus) y arteriografía pulmonar.
+
+**AP-CIV (Cuidados críticos).** ECG con la hipertrofia de VD propia del neonato; radiografía con silueta «en bota» y campos desde hipoperfusión (lo más frecuente) a edema. La eco define la CIV, el VD, el ductus, el tronco y la confluencia de ramas, pero no las colaterales: cateterismo y aortografía (anatomía y datos hemodinámicos). La RM y la angio-TC 3D pueden evitar el cateterismo neonatal en algunos casos. Si la eco muestra ramas confluentes puede hacerse una fístula neonatal sin cateterismo previo, que será necesario después. Estudio genético (22q11.2).
+
+**EP (Cuidados críticos).** ECG normal si es leve; en moderadas y graves, eje derecho, crecimiento de AD e hipertrofia de VD. Radiografía: cardiomegalia, dilatación de la AP y oligohemia en las graves. Ecocardiografía: VD, válvula, dilatación postestenótica y gradiente.
+
+*Residentes.* La eco suele bastar para decidir el tratamiento: nivel de obstrucción, morfología valvular, dilatación postestenótica, sobrecarga y función derechas, cortocircuitos y gradiente por Doppler. El diagnóstico fetal (casos graves) permite identificar el flujo ductus-dependiente. En la EP crítica, vascularización pulmonar disminuida.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+**APSI (Cuidados críticos).** Objetivos: mejorar la oxigenación y favorecer el desarrollo del VD. Prostaglandinas E~1~, corrección de acidosis e iones y normoglucemia.
+
+**AP-CIV (Cuidados críticos).** Buscar Qp/Qs = 1 (saturación en torno al 80 %). Lo habitual es flujo insuficiente: prostaglandina E~1~ para mantener el ductus, a veces vasodilatadores pulmonares e incluso vasoconstrictores sistémicos. Si el flujo es excesivo: diuréticos, inotrópicos y medidas vasoconstrictoras pulmonares, como ventilación mecánica con hipercapnia moderada.
+
+**EP.** *Cuidados críticos:* el neonato con EP crítica está cianótico por *shunt* derecha-izquierda, con VD a presión sistémica o mayor, a veces con IT e hipoplasia del VD: perfusión de prostaglandinas. *Residentes:* la leve o moderada solo requiere controles; en la crítica, estabilizar y mantener el ductus con prostaglandinas antes del tratamiento invasivo. La AHA ya no recomienda profilaxis antibiótica de endocarditis, pero sí medidas higiénicas.
+
+## Tratamiento quirúrgico
+
+### APSI
+
+*Cuidados críticos.* Grupos según el tamaño del VD:
+1. **Grupo A:** VD adecuado (Z-score del anillo tricuspídeo > −2,5) y atresia membranosa: reparación biventricular.
+2. **Grupo B:** VD intermedio (Z-score > −3 y < −2,5): reparación de uno y medio.
+3. **Grupo C:** VD hipoplásico (Z-score < −3) con conexiones coronario-camerales: reparación univentricular.
+
+Se han descrito procedimientos híbridos en VD intermedios (ampliación del tracto de salida y perforación valvular en el mismo acto).
+
+**Algoritmo de manejo** (*figura 2 de Cuidados críticos, protocolo del Hospital Materno-Infantil Teresa Herrera, A Coruña*). Al nacer, cianosis y soplo; radiografía (cardiomegalia, hipoaflujo), eco (VD y tricúspide, flujo en AP, ductus, CIA, conexiones VC, función del VI, mitral, coronarias, Z-score tricuspídeo), cateterismo (ventriculografía, arteriografía pulmonar, coronarias si hay CCDVD) y ECG (ritmo sinusal, QRS +30 a +90, dilatación de AD, isquemia). Según el VD, la circulación coronaria y la función del VI:
+- **VD de buen tamaño con atresia membranosa, o VD *borderline* con infundíbulo bien desarrollado sin CCDVD:** valvuloplastia percutánea (radiofrecuencia).
+  - Si no es posible: fístula de Blalock-Taussig modificada y reconstrucción del TSVD.
+  - Si se hace: ¿se pueden retirar las PGE~1~ antes de 15 días? Si no, *stent* ductal o fístula.
+  - Cateterismo a los 1-3 años (ventriculografía, arteriografía pulmonar, test funcional con gasto, presión telediastólica del VD, presión en AD y saturación antes y después de ocluir la fístula). VD aceptable: cierre de CIA ± reconstrucción del TSVD. VD poco desarrollado: Glenn ± reconstrucción del TSVD y cierre de CIA.
+- **VD hipoplásico con conexiones ventrículo-coronarias y CCDVD:** Rashkind y fístula o *stent* ductal. Si hay atresia aorto-coronaria o mala función del VI: trasplante cardiaco. Si no: cateterismo a los 3-6 meses, estudio pre-Glenn, Glenn, estudio pre-Fontan y Fontan.
+
+*CCDVD: circulación coronaria dependiente del VD; VC: ventrículo-coronarias.*
+
+! La leyenda de la figura original define APSI como «atresia tricuspídea con septo íntegro»; en el texto es atresia pulmonar con septo íntegro.
+
+**Pronóstico.** Supervivencia a 5 años del 60-80 % según la reparación; en reparación univentricular con circulación coronaria dependiente del VD, 80 % a 3 años, peor con atresia aorto-coronaria. Factores de mortalidad: anillo tricuspídeo pequeño (Z < −3), circulación coronaria dependiente del VD, bajo peso, tipo de intervención inicial y dilatación del VD.
+
+### AP-CIV
+
+*Cuidados críticos.* Objetivos: cerrar la CIV y conectar el VD con la arteria pulmonar central, y esta con el mayor número de segmentos (al menos 14 de 20).
+- **Ductus-dependiente con arterias desarrolladas y confluentes:** reparación neonatal completa (parche transanular o conducto valvulado VD-AP con cierre de la CIV) o fístula de Blalock-Taussig neonatal y cirugía definitiva meses después (única opción si se contraindica la CEC neonatal).
+- **Arterias confluentes pero hipoplásicas, ductus-dependiente:** dos etapas: fístula o hemicorrección (conexión VD-AP con parche, conducto u homoinjerto) para que crezcan; cierre de la CIV después.
+- **Con colaterales:** si van a ramas pulmonares, pueden ocluirse (cirugía o cateterismo). Si algún segmento depende solo de colaterales o no hay arterias centrales, unifocalización (desconectarlas de la aorta y conectarlas al árbol pulmonar), hoy a menudo en un solo tiempo. La CIV puede cerrarse si el flujo en las arterias unifocalizadas alcanza 3,75 l/min/m² y la presión media pulmonar medida en la AI no supera 25 mmHg; si hay dudas, fenestración o cierre posterior. Conducto valvulado VD-AP.
+
+### Estenosis pulmonar
+
+*Cuidados críticos.*
+- **Valvular, valvuloplastia percutánea con balón:** de elección si es moderada o grave con gradiente pico-pico > 40 mmHg. Ventriculografía previa (válvula, anillo, VD). Balón un 20-40 % mayor que el diámetro valvular. Éxito si el gradiente final es < 25 mmHg. En el neonato crítico también es de elección (a veces dilatación secuencial con balones pequeños); en la mayoría se retiran las prostaglandinas después, pero si persiste el *shunt* auricular derecha-izquierda por VD poco distensible hay que mantenerlas unos días e incluso hacer una fístula sistémico-pulmonar.
+- **Cirugía valvular:** válvulas displásicas resistentes a la dilatación o defectos asociados. Valvulotomía por arteriotomía hasta el anillo (rara vez incisión transanular); a veces resección de bandas infundibulares; parche de pericardio nativo o bovino. Si hay CIA se suele dejar abierta si el VD es poco distensible y las presiones auriculares altas.
+- **Supravalvular:** si hay hipertensión del VD, mala distribución del flujo o HTP segmentaria en vasos no afectos: arterioplastia quirúrgica o percutánea (balón o *stent*).
+- **Subvalvular:** solo quirúrgico: ampliación del infundíbulo con parche o liberación de la banda en el VD bicameral.
+
+*Residentes.* La valvuloplastia con balón es de elección a todas las edades. Si la válvula es muy displásica o el anillo muy pequeño, cirugía (valvulotomía, a veces con ampliación del anillo, con CEC). Vigilar reestenosis (más en neonatos y lactantes) e insuficiencia pulmonar residual; seguimiento de por vida.
+
+### Insuficiencia pulmonar
+
+*Cuidados críticos.* Recambio valvular quirúrgico o percutáneo (la reparación suele ser infructuosa).
+
+## Complicaciones posquirúrgicas y su manejo
+
+**AP-CIV (Cuidados críticos).** Con ramas confluentes y ductus-dependientes, el postoperatorio es como el del Fallot. En el resto puede ser más complejo:
+- **Sangrado,** sobre todo con reconstrucción vascular pulmonar extensa.
+- **Bajo gasto:** inodilatadores, teniendo en cuenta la disfunción diastólica del VD hipertrófico.
+- **Crisis de hipertensión pulmonar:** a veces óxido nítrico inhalado (vasculatura reactiva).
+- **Hipoxemia** por *shunt* derecha-izquierda por el foramen oval o la fenestración: ventilación que recluta sin aumentar la poscarga del VD; aceptar una cianosis bien tolerada, que disminuye en semanas.
+- **Edema pulmonar de reperfusión,** a menudo asimétrico, sobre todo tras unifocalizar colaterales muy estenóticas.
+- La mayoría precisarán reintervenciones (reparación o recambio del conducto VD-AP) y cateterismos por estenosis en la vasculatura pulmonar.
+
+**EP (Cuidados críticos).**
+- **Tras valvuloplastia:** la mayoría llegan extubados a UCIP. Complicaciones del 0,3 % y mortalidad del 0,25 %: rotura del anillo, daño de la AP, la tricúspide o el VD, BAV completo transitorio y bradicardia durante el procedimiento.
+- **Obstrucción residual:** obstrucción subpulmonar dinámica que aparece tras dilatar la válvula. Los betabloqueantes reducen la frecuencia y la obstrucción muscular; reparación quirúrgica si la presión del VD supera el 75 % de la sistémica.
+- **Insuficiencia pulmonar:** 80-90 % tras la cirugía y 40-90 % tras la valvulotomía percutánea, casi siempre poco significativa; las graves pueden requerir recambio valvular.
+- Resultados excelentes a largo plazo; la reestenosis es rara; a veces Holter para detectar arritmias.

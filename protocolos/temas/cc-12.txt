@@ -1,0 +1,128 @@
+@f TEMAS/CC/12
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 17).* La estenosis aórtica es una obstrucción del tracto de salida del VI en la región de la válvula aórtica: valvular (71 %), subvalvular (23 %) o supravalvular (6 %). Alrededor del 6 % de las cardiopatías congénitas. El 20 % asocia otra anomalía cardiovascular, sobre todo coartación. El capítulo incluye también la insuficiencia aórtica.
+
+*Cardiología pediátrica para residentes (cap. 17).* La valvular es la más frecuente (75 %): 3-6 % de las cardiopatías congénitas, asociada a otros defectos en el 20 % (sobre todo coartación), más frecuente en varones (4:1). Puede verse en síndromes (Turner) o en patrón familiar: valorar a los familiares de primer grado. La válvula aórtica bicúspide es la cardiopatía congénita más frecuente en la población (prevalencia del 0,5-2 %), a menudo asintomática e infradiagnosticada.
+
+! Cuidados críticos da un 71 % de formas valvulares y Residentes, un 75 %. La estenosis supravalvular aparece como 6 % al inicio del capítulo de Cuidados críticos y como 6-8 % en su apartado propio.
+
+# Fisiopatología y variantes
+
+@img cc-12-eao.svg
+
+## Estenosis valvular
+
+*Cuidados críticos.* La más frecuente es la válvula bicúspide (fusión de dos valvas, con o sin rafe). También tricúspide con orificio central estenótico o unicúspide con orificio pequeño en lágrima (forma típica de la estenosis crítica del recién nacido). Suele ser progresiva.
+- La obstrucción eleva la presión sistólica del VI y el gradiente transvalvular: hipertrofia. Es frecuente la fibroelastosis endocárdica, que reduce la compliance.
+- El miocardio hipertrófico puede sufrir isquemia subendocárdica (menor gradiente de perfusión coronaria y desequilibrio aporte-demanda); la taquicardia compensadora acorta el llenado y compromete más el flujo coronario.
+- A la anomalía se suman inflamación, fibrosis y calcificación, generalmente en la edad adulta.
+
+*Residentes.* La AI puede dilatarse; en casos avanzados el VI se dilata y falla, con congestión venosa pulmonar.
+
+## Estenosis subvalvular
+
+*Cuidados críticos.* En torno al 20 % de las obstrucciones del tracto de salida. Subtipos: membrana (90 %), tuneliforme, secundaria a miocardiopatía hipertrófica, u otras causas (duplicación del velo anterior mitral, tejido accesorio de los cojinetes, inserción anómala de papilares).
+- **Membrana:** anillo o diafragma fibroso o fibromuscular justo bajo la válvula. Más del 50 % asocia CIV, DAP o coartación. Parece deberse a turbulencia en un tracto de salida anómalo (ángulo VI-aorta más agudo); la membrana perpetúa la turbulencia y daña los velos aórticos (engrosamiento, mala coaptación o prolapso: insuficiencia aórtica). Aumenta la poscarga, con hipertrofia e insuficiencia coronaria, sobre todo con el ejercicio.
+- **Tuneliforme:** obstrucción extensa y difusa hasta el septo muscular; se asocia más a estenosis valvular. Frecuente como lesión secundaria tras resecar una membrana; también en recién nacidos con estenosis aórtica, a veces con anillo hipoplásico.
+
+## Estenosis supravalvular
+
+*Cuidados críticos.* Estrechamiento por encima de la válvula, desde un anillo en la unión sinotubular hasta una forma difusa que puede abarcar la aorta ascendente y los troncos supraaórticos. La forma más rara de obstrucción aórtica (6-8 %). Causada por mutación del gen de la elastina: síndrome de Williams en un tercio, esporádica en un 25 % y familiar autosómica dominante en el resto. Distorsiona las valvas (degeneración prematura). Las coronarias, que nacen por debajo de la obstrucción y soportan hipertensión crónica, pueden obstruirse.
+
+## Insuficiencia aórtica
+
+*Cuidados críticos.* Reflujo diastólico al VI por acortamiento o retracción de las valvas o dilatación del anillo. La congénita rara vez es aislada (frecuente con válvula bicúspide; asociada a estenosis aórtica, CIV, aneurisma del seno de Valsalva; síndromes como Marfan). La adquirida, tras endocarditis o valvulotomías. El aumento del volumen telediastólico aumenta el estrés de pared e induce hipertrofia; inicialmente se mantiene el gasto; en la grave aumentan los volúmenes telediastólico y telesistólico y fracasa la compensación. La caída de la diastólica puede afectar a la perfusión coronaria (sobre todo con ejercicio) y la presión alta en AI, producir edema pulmonar.
+
+# Clínica
+
+**Estenosis valvular (Cuidados críticos).**
+- Lactantes y escolares con bicúspide y estenosis leve-moderada: asintomáticos, crecimiento normal; se detecta por un soplo.
+- Lactante con estenosis moderada-grave no crítica: taquipnea, sudoración y cansancio con las tomas; si progresa, taquicardia, pulsos débiles, mala perfusión y hepatomegalia.
+- Niños mayores: intolerancia al ejercicio y disnea; angina, dolor precordial y síncope sugieren insuficiencia coronaria (signos de gravedad). Con gradiente ≥ 50 mmHg hay riesgo de arritmia y muerte súbita.
+- **Estenosis crítica neonatal:** insuficiencia cardiaca grave y *shock* cardiogénico con hiperlactacidemia al cerrarse el ductus (que mantiene un *shunt* derecha-izquierda con flujo sistémico limitado). Cianosis leve-moderada por el ductus, que mejora al cerrarse, pero con hipoperfusión evidente. El soplo puede faltar al nacer.
+
+*Residentes.* La estenosis crítica es ductus-dependiente (flujo sistémico): el VI del neonato tolera muy mal la sobrecarga de presión y se dilata y falla rápido (palidez, mala perfusión, oliguria, taquipnea). Con el ductus abierto la saturación sistémica está disminuida por el *shunt* derecha-izquierda.
+
+**Subvalvular (Cuidados críticos).** Habitualmente asintomática; rara vez grave en la infancia (es evolutiva). Soplo mesosistólico paraesternal izquierdo y derecho irradiado a carótidas; a veces soplo diastólico de insuficiencia aórtica. En niños mayores graves, intolerancia al ejercicio o síncope.
+
+**Supravalvular (Cuidados críticos).** Soplo sistólico en el 1.^er^ espacio intercostal derecho irradiado al cuello; diferencia de tensiones entre los brazos a favor del derecho. Síntomas por obstrucción e isquemia coronaria; muerte súbita en obstrucciones muy graves o con lesión coronaria. HTA si hay coartación o estenosis de la arteria renal.
+
+**Insuficiencia aórtica (Cuidados críticos).** Mayoría asintomáticos, diagnosticados por soplo diastólico. Presión sistólica alta y diastólica baja: pulso amplio (de Corrigan) y saltón. Estables muchos años; cuando aparecen disnea o angina suele haber ya disfunción del VI.
+
+# Diagnóstico
+
+**Estenosis valvular (Cuidados críticos).**
+- **Exploración:** soplo sistólico precedido de chasquido de eyección, máximo en el 2.º espacio intercostal derecho, irradiado al cuello (con frémito).
+- **ECG:** normal si es leve; hipertrofia de VI si es importante (S profundas en precordiales derechas, R altas en izquierdas); en la grave, cambios de ST-T y ondas Q patológicas por isquemia.
+- **Radiografía:** generalmente sin cardiomegalia; en evolucionados, aorta ascendente dilatada y AI prominente. En neonatos y lactantes graves, cardiomegalia y edema pulmonar.
+- **Ecocardiografía:** confirma, define la morfología y la gravedad, mide el orificio y el anillo (clave para elegir el balón). El gradiente máximo instantáneo por Doppler es siempre mayor que el pico-pico del cateterismo y depende del flujo (sobreestimado con cortocircuitos e insuficiencia aórtica) y de la función ventricular. El gradiente medio se correlaciona mejor con el hemodinámico y la necesidad de intervenir.
+- Por área valvular: grave si < 0,6 cm²/m²; moderadamente grave si < 1 cm²/m².
+- **Cateterismo:** solo para estudiar lesiones asociadas, para valvuloplastia o si hay discrepancia clínico-ecográfica. El gradiente pico-pico puede infraestimarse con bajo gasto, cortocircuitos o ductus.
+
+*Cuidados críticos. Tabla I. Grado de estenosis según la AHA.*
+
+| | Leve | Moderada | Grave |
+|---|---|---|---|
+| Gradiente máximo | < 40 mmHg | 40-60 mmHg | > 64 mmHg |
+| Gradiente medio | < 25 mmHg | 25-40 mmHg | > 40 mmHg |
+
+! La tabla original deja sin asignar el intervalo entre 60 y 64 mmHg de gradiente máximo.
+
+**Subvalvular:** ECG normal o con hipertrofia de VI en las graves; ecocardiografía de elección (gradiente pico y medio, insuficiencia aórtica, anomalías asociadas).
+
+**Supravalvular:** diagnóstico por soplo, cribado familiar o estudio del síndrome de Williams. ECG con hipertrofia de VI si es grave (si hay hipertrofia derecha, sospechar estenosis pulmonar). Radiografía normal, sin dilatación de la aorta ascendente (a diferencia de la valvular). Eco-Doppler: nivel, gradiente, función y anomalías asociadas (coartación, estenosis de troncos supraaórticos). Cateterismo solo para estudio coronario.
+
+**Insuficiencia aórtica:** ecocardiografía de elección (grado, anatomía, lesiones, función). Radiografía con aorta ascendente prominente y VI grande. ECG con hipertrofia de VI en las moderadas-graves y ST-T de isquemia en las muy avanzadas. El seguimiento ecográfico decide el momento de intervenir.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+**Estenosis crítica neonatal (Cuidados críticos).** Tratar la insuficiencia cardiaca y estabilizar para intervenir de inmediato.
+- **PGE~1~** si el ductus está cerrado: reabre y aumenta la perfusión sistémica, y reduce la hipertensión pulmonar por la disfunción del VI. Respuesta entre 15 minutos y 4 horas (signos de bajo gasto). Puede causar apnea, fiebre e hipotensión que comprometa el flujo coronario. Si el ductus no se abre, intervención urgente.
+- **Ventilación mecánica** casi siempre, para la hipoxia (congestión pulmonar y *shunt* derecha-izquierda ductal) y la hipertensión pulmonar. Corregir la acidosis metabólica (agrava la disfunción y reduce el efecto de los inotrópicos).
+- **Inotrópicos:** dopamina y adrenalina. **Evitar vasodilatadores sistémicos** (bajan la presión diastólica y media y la perfusión coronaria en un ventrículo hipertenso).
+- Sedoanalgesia, diuréticos y nutrición parenteral (no suelen tolerar la enteral).
+- La gravedad es difícil de cuantificar (disfunción, ductus, regurgitación mitral): la indicación no depende solo del gradiente. Reparación biventricular si el anillo aórtico, el VI y el anillo mitral son adecuados; Norwood si hay otras obstrucciones izquierdas o estructuras hipoplásicas.
+
+**Lactante y niño mayor:** no suelen necesitar manejo preoperatorio.
+
+**Insuficiencia aórtica (Cuidados críticos).** Tratamiento médico si es moderada o grave o hay HTA: vasodilatadores para reducir la poscarga y el volumen regurgitado. IECA (captopril, enalapril) de primera línea; nifedipino o hidralazina de segunda.
+
+## Tratamiento quirúrgico
+
+**Estenosis valvular: indicaciones de valvulotomía en lactante y niño (AHA, clase I, evidencia C; Cuidados críticos).**
+- Gradiente pico-pico > 60 mmHg.
+- Síntomas con gradiente pico-pico ≥ 50 mmHg.
+- Cambios isquémicos o de repolarización del VI (T invertidas, ST descendido) en reposo o con ejercicio y gradiente pico-pico > 50 mmHg.
+- Algunos grupos la indican en asintomáticos con gradiente ≥ 50 mmHg por el riesgo de arritmias y muerte súbita.
+
+**Técnicas (Cuidados críticos).**
+- **Valvuloplastia percutánea con balón**, preferible a la quirúrgica si es candidato biventricular (mortalidad y supervivencia similares; reintervención frecuente y parecida en ambas; la insuficiencia aórtica progresa con ambas). Desaconsejada en válvulas unicúspides o muy displásicas y con insuficiencia moderada o grave. La valvulotomía quirúrgica es alternativa si no se dispone de la percutánea. Siempre es paliativa.
+- **Recambio valvular** (insuficiencia importante o valvuloplastia que no libera la obstrucción): mecánica (anticoagulación permanente, fuga paravalvular, endocarditis, limitación funcional, recambio con el crecimiento); bioprótesis (sin anticoagulación, pero calcifica y degenera más que en adultos y no crece).
+- **Ross:** la válvula pulmonar del paciente pasa a posición aórtica, con reimplante coronario, y el tracto de salida derecho se reconstruye con homoinjerto. Sin límite de edad; el autoinjerto crece, buena hemodinámica, sin hemólisis ni anticoagulación. Complicaciones: dilatación del autoinjerto, insuficiencia de la neoaorta y recambio del conducto derecho, más en niños y con insuficiencia aórtica previa. **Ross-Kono** si hay hipoplasia del anillo u obstrucción subvalvular (incisión septal para ampliar el tracto de salida).
+
+**Subvalvular (Cuidados críticos).**
+- Membrana: cirugía si el gradiente medio es > 40 mmHg (en algunos centros > 30) o el pico > 60 mmHg, si la insuficiencia aórtica progresa o hay síntomas. Más recurrencia en menores de 10 años (idealmente operar después). Resección de la membrana por aortotomía; baja morbimortalidad, extubación en quirófano. Resecar además músculo septal aumenta la morbilidad y quizá la recurrencia.
+- Tuneliforme: indicación con gradiente ecográfico > 50 mmHg, hipertrofia moderada-grave o insuficiencia aórtica. Resección (riesgo para el septo, la mitral o la conducción) o Kono modificado (incisión septal, resección y cierre de la CIV creada con parche).
+
+**Supravalvular (Cuidados críticos).** Gradiente > 50 mmHg, síntomas o alteraciones del ECG. Además de aliviar el gradiente, restablecer el tamaño y la geometría de la raíz preservando la válvula: aortoplastia con parche sintético o de pericardio bovino ampliando 1, 2 o 3 senos, o técnicas sin material protésico. En el síndrome de Williams, valorar *stent* o dilatación de estenosis pulmonares antes de la cirugía.
+
+**Insuficiencia aórtica (AHA, Cuidados críticos).** Intervención (reparación o sustitución) clase I: FE del VI < 50 % en estudios seriados de 1-3 meses, crecimiento progresivo del VI (telediastólico > 4 DE) o angina, síncope o disnea de esfuerzo. Clase IIb: asintomáticos con estenosis aórtica moderada asociada (pico-pico > 40 mmHg) o con ST descendido o T invertida en reposo. Reparación si se asocia a estenosis congénita o a prolapso con CIV; si no, prótesis mecánica o bioprótesis, o Ross o Ross-Kono.
+
+## Postoperatorio, complicaciones y su manejo
+
+**Recién nacido (Cuidados críticos).**
+- **Ventilación** hasta la estabilidad (mejoría de diuresis, láctico y acidosis; mejoría de la disfunción diastólica y descenso de la hipertensión pulmonar en la eco). Puede necesitarse hiperventilación (pCO~2~ en torno a 35 mmHg) y FiO~2~ alta por la hiperreactividad pulmonar. Óxido nítrico con prudencia: al bajar las resistencias aumenta la precarga del VI y puede descompensarlo.
+- **Inotrópicos:** dopamina a la dosis mínima eficaz con milrinona para reducir la poscarga. Si el VI no mantiene el gasto, PGE~1~ para sostener la perfusión sistémica por el ductus; si se sigue necesitando a los 3-5 días, cuestionar la adecuación del tracto de salida. Si no se resuelve la hipertensión pulmonar con bajo gasto: ECMO (HTP reversible y anatomía adecuada), Norwood (anatomía univentricular) o trasplante.
+- **Volumen:** VI poco distensible con presión alta en AI: sin bolos; diuréticos con cautela, furosemida (en perfusión para una diuresis más estable).
+- **Sedoanalgesia:** evitar taquicardia e hipertensión (aumentan la poscarga y acortan la perfusión coronaria); a veces relajación los primeros días por la hipertensión pulmonar.
+- **Complicaciones más frecuentes:** bajo gasto e insuficiencia aórtica, con inotrópicos y reductores de poscarga.
+
+**Niño mayor (Cuidados críticos).**
+- **Valvulotomía:** recuperación rápida; vigilar complicaciones neurológicas y arritmias.
+- **Recambio valvular:** extubación precoz; complicación más frecuente, el sangrado (rara vez significativo). Válvula mecánica: heparina en perfusión si no hay sangrado, objetivo INR 2,5-3,5 los tres primeros meses y 2-3 después. Bioprótesis: anticoagulación hasta tolerar la vía oral y después aspirina.
+- **Ross:** extubación en horas. ECG a la llegada comparado con el previo (isquemia). Sangrado (revisión en un pequeño porcentaje). Arritmias raras; si son ventriculares, descartar patología coronaria. Sedoanalgesia las primeras 48 h para evitar taquicardia (perfusión coronaria) y picos de TA (extensa sutura de la neoaorta).
+- **Resección subvalvular amplia:** más riesgo de BAV de 3.^er^ grado, arritmias ventriculares y disfunción ventricular. ETE en quirófano; a la llegada, función ventricular, insuficiencia mitral residual y estenosis o insuficiencia aórtica residual. El VI hipertrófico es muy sensible a la isquemia: evitar hipotensión e hipertensión (betabloqueantes y vasodilatadores).
+- **Supravalvular:** sencillo en las localizadas; en las difusas, como la valvular. Sedación y control de la TA las primeras 24-48 h (suturas). Tras liberar la obstrucción puede bajar la presión de perfusión coronaria: pueden necesitarse fármacos que aumenten la poscarga (agonistas alfa).

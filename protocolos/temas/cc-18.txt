@@ -1,0 +1,112 @@
+@f TEMAS/CC/18
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 23).* El ventrículo derecho de doble salida (VDDS) abarca un espectro complejo de patologías asociadas a gran variedad de malformaciones. Definición más aceptada: las dos grandes arterias están relacionadas morfológicamente con el VD; se usa mucho la «regla del 50 %» de Anderson y Becker (más del 50 % de ambos vasos debe salir del VD).
+- La CIV no es obligada pero está casi siempre presente y es la única salida del VI.
+- Frecuentes asociaciones: estenosis pulmonar o aórtica, coartación y, a veces, malformaciones complejas como el canal AV.
+- Poco frecuente: alrededor del 1 % de las cardiopatías congénitas. Anomalía conotruncal; puede asociarse a la deleción 22q11 (espectro velocardiofacial) o a trisomías 13 y 18.
+
+# Fisiopatología y variantes
+
+@img cc-18-vdds.svg
+
+*Cuidados críticos.* La fisiopatología depende de: la relación de la CIV con las grandes arterias, la obstrucción a la salida pulmonar o sistémica, la relación entre las grandes arterias y las anomalías asociadas.
+
+**Según la relación de la CIV:**
+1. **Subaórtica** (la más frecuente, 60-70 %): septo conal desviado anterior e izquierda; el flujo del VI va preferentemente a la aorta. Suele estrechar el área subpulmonar (estenosis pulmonar frecuente).
+2. **Subpulmonar** (20-25 %): infundíbulo mal desarrollado. **Taussig-Bing:** aorta dextropuesta y flujo del VI hacia la pulmonar, comportamiento similar a una D-TGA con CIV. Asocia a menudo obstrucción del tracto de salida izquierdo (estenosis subaórtica, coartación o interrupción del arco).
+3. **Doblemente relacionada** (< 5 %): el flujo del VI va a la pulmonar o a la aorta según la estenosis pulmonar y las resistencias pulmonares.
+4. **No relacionada** (la menos frecuente): no suele asociar obstrucciones; a veces canal AV. Difícil redirigir el flujo del VI a la aorta: a veces reparación univentricular.
+
+**Obstrucciones.** Estenosis subpulmonar sobre todo con CIV subaórtica o doblemente relacionada (infundíbulo incompleto, hipertrofia o desviación del septo conal). Estenosis aórtica más en la CIV subpulmonar, a veces con coartación o interrupción del arco.
+
+**Relación de las grandes arterias:** aorta posterior y a la derecha de la pulmonar; aorta anterior; o «lado a lado» (la más común, aorta generalmente a la derecha).
+
+**Asociaciones frecuentes:** malformaciones de las válvulas AV (sobre todo mitral: estenosis o atresia con hipoplasia del VI, *cleft*, *straddling*); canal AV disbalanceado; VD bicameral; heterotaxia (el VDDS es de las cardiopatías más frecuentes en asplenia y poliesplenia); anomalías coronarias hasta en el 50 %.
+
+**Clasificación AEPC/EACTS:**
+1. **Tipo CIV:** CIV subaórtica o doblemente relacionada sin estenosis pulmonar; se comporta como una CIV grande con *shunt* izquierda-derecha.
+2. **2A. Tipo Fallot** (la más frecuente): CIV subaórtica o doblemente relacionada con estenosis pulmonar; a veces difícil de diferenciar de la tetralogía. **2B. Con canal AV, estenosis pulmonar y heterotaxia:** como un canal AV con Fallot más las anomalías de la heterotaxia.
+3. **Tipo TGA (Taussig-Bing):** CIV subpulmonar; como TGA con CIV, a menudo con obstrucción sistémica.
+4. **Con CIV no relacionada:** según haya o no estenosis pulmonar; sin ella, como un ventrículo único sin restricción pulmonar.
+
+# Clínica
+
+*Cuidados críticos.* Entre dos extremos, hiperaflujo pulmonar y cianosis. La mezcla a menudo no es completa: la saturación es mayor en la arteria mejor alineada con la CIV y depende sobre todo de la estenosis pulmonar. Equivale a tres cardiopatías:
+1. **CIV no restrictiva** (tipo CIV): al bajar las resistencias, flujo preferente a la AP, saturaciones pulmonares supranormales, hiperaflujo e insuficiencia cardiaca en los primeros meses.
+2. **Tetralogía de Fallot** (CIV subaórtica o doblemente relacionada con estenosis pulmonar): balanceados o con cianosis variable según la obstrucción.
+3. **D-TGA con CIV** (Taussig-Bing): hiperaflujo y cianosis; con coartación o interrupción del arco, además hipoperfusión sistémica y *shock*.
+
+*Cuidados críticos. Tabla I. Características clínicas según el tipo de VDDS.*
+
+| Localización de la CIV | Obstrucción | Presentación clínica | Diagnóstico diferencial |
+|---|---|---|---|
+| Subaórtica | No | ICC | CIV no restrictiva |
+| Subaórtica | Estenosis pulmonar | Cianosis | Tetralogía de Fallot |
+| Subpulmonar | No | ICC + cianosis | D-TGA con CIV |
+| Subpulmonar | Estenosis aórtica | ICC + cianosis + mala perfusión | D-TGA con CIV y CoA |
+| Doblemente relacionada | No | ICC | CIV no restrictiva |
+| Doblemente relacionada | Estenosis pulmonar | Cianosis | Tetralogía de Fallot |
+| No relacionada | Raro | ICC | CIV no restrictiva |
+
+*ICC: insuficiencia cardiaca congestiva; CoA: coartación de aorta.*
+
+# Diagnóstico
+
+*Cuidados críticos.* La ecocardiografía es la base (a menudo prenatal) y casi siempre la única evaluación necesaria para la cirugía:
+- Localización y tamaño de la CIV y su relación con las grandes arterias.
+- Disposición de las grandes arterias entre sí.
+- CIV adicionales.
+- Obstrucción a la salida ventricular.
+- Anatomía coronaria.
+- Defectos asociados.
+
+Cateterismo, angio-TC o RM solo en los casos más complejos; el cateterismo es frecuente en el seguimiento posquirúrgico (lesiones residuales).
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* Objetivo: Qp/Qs = 1 con saturación sistémica en torno al 80-85 %.
+- **Tipo CIV:** hiperaflujo e insuficiencia cardiaca a las 3-6 semanas: diuréticos, vasodilatadores sistémicos y, si es grave, inotrópicos y presión positiva (CPAP). Si no basta y no es posible operar (p. ej., orientado a fisiología univentricular), *banding* pulmonar.
+- **Tipo Fallot:** según la obstrucción pulmonar al cerrarse el ductus. Si la cianosis es muy intensa, PGE~1~ y después *stent* ductal, valvulotomía percutánea o fístula sistémico-pulmonar hasta la reparación. Con obstrucción moderada pueden estar balanceados sin tratamiento, con seguimiento (puede empeorar).
+- **Tipo D-TGA:** asegurar la mezcla: PGE~1~ y, si no basta, atrioseptostomía con balón. Si no puede repararse en el periodo neonatal y no hay obstrucción pulmonar (lo habitual), *banding* pulmonar.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* Reparación biventricular en la mayoría; se asocian a reparación univentricular: ventrículos disbalanceados, anomalías graves de las válvulas AV (*straddling* mitral) y CIV múltiples («*swiss-cheese*»).
+
+**Momento orientativo:**
+- Tipo CIV: 3-6 meses (con o sin *banding* previo).
+- Tipo Fallot: 2-6 meses (con fístula previa según la cianosis).
+- Tipo D-TGA: periodo neonatal (si no es posible, *banding* hasta la cirugía).
+
+**Principios de la reparación biventricular:**
+- Continuidad VI-aorta, habitualmente cerrando la CIV con un parche tunelizado sin obstruir el tracto de salida; si la CIV es menor que el anillo aórtico, puede ampliarse (riesgo para el tejido de conducción).
+- Continuidad VD-AP y alivio de la obstrucción pulmonar (valvulotomía, resección infundibular, parche transanular o conducto VD-AP).
+- Reparación de defectos asociados (coartación, hipoplasia del arco…).
+
+**Según el subtipo:**
+- **Tipo CIV:** parche tunelizado (con o sin ampliación de la CIV).
+- **Tipo Fallot:** parche tunelizado y resección infundibular (con o sin valvulotomía, parche transanular o conducto).
+- **Tipo D-TGA (Taussig-Bing):** *switch* arterial y parche tunelizado. Con estenosis pulmonar el *switch* está contraindicado (crearía estenosis a la salida del VI): neoaorta por Damus-Kaye-Stansel y conducto VD-AP.
+- **CIV no relacionada:** el parche tunelizado tiene alto riesgo de obstruir la salida del VI; reparación uni o biventricular según el caso y el equipo.
+- **Univentricular:** primera etapa con fístula sistémico-pulmonar (si hay obstrucción pulmonar) o *banding* (si no).
+
+## Postoperatorio, complicaciones y su manejo
+
+*Cuidados críticos.* Según la intervención realizada (ver las fichas correspondientes).
+1. **Disfunción del VI:** tras un parche tunelizado, descartar primero obstrucción del tracto de salida (o CIV restrictiva no ampliada lo suficiente); tras un *switch*, isquemia coronaria; tras reparar un canal AV, insuficiencia mitral.
+2. **Disfunción del VD:** por la CEC y la ventriculotomía; si había obstrucción pulmonar, VD hipertrófico con fallo diastólico además del sistólico. También por obstrucción residual (estenosis pulmonar o del conducto, a reparar según la repercusión) o por hipertensión pulmonar (más riesgo en los tipos CIV y D-TGA, con hiperaflujo previo).
+3. **Lesiones residuales:** CIV adicionales, que se corrigen según su repercusión.
+4. **Arritmias:** sobre todo BAV cuando se amplía la CIV; muy recomendable dejar marcapasos temporal.
+
+*Cuidados críticos. Tabla II. Causas de disfunción del VI tras la reparación.*
+
+| Reparación | Causa | Diagnóstico | Tratamiento |
+|---|---|---|---|
+| Parche tunelizado | Obstrucción del tracto de salida del VI | Ecocardiografía | Quirúrgico (evitar vasodilatadores) |
+| *Switch* arterial | Isquemia miocárdica (manipulación coronaria) | ECG, troponinas, ecocardiografía | Médico (inotrópicos, vasodilatadores) |
+| Reparación de canal AV | Insuficiencia mitral | Ecocardiografía | Médico (inotrópicos, vasodilatadores) |
+
+**Evolución (Cuidados críticos).** El pronóstico ha mejorado y es en general bueno, según el subtipo y las complicaciones. Mortalidad y reintervención < 5 % en el tipo CIV, peor cuanto más compleja la lesión. La reintervención se debe sobre todo a obstrucciones sistémicas o pulmonares; el principal factor de riesgo es el conducto VD-AP (hasta el 40 % de reintervención en series anteriores a 2000).

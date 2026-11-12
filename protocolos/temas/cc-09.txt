@@ -1,0 +1,56 @@
+@f TEMAS/CC/9
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 15).* Es la causa más frecuente de insuficiencia congénita de la válvula tricúspide. Representa el 0,5-1 % de los defectos cardiacos congénitos. Mortalidad elevada: el 30 % fallece antes de los 10 años. En los casos graves, la gran atrialización del VD da una fisiología funcionalmente univentricular.
+
+# Fisiopatología y variantes
+
+@img cc-09-ebstein.svg
+
+*Cuidados críticos.* Desplazamiento de las valvas septal y posterior de la tricúspide hacia el VD, con la valva anterior bien insertada. Las valvas descendidas son displásicas y están adheridas a la pared. Parte del VD se incorpora a la AD (atrialización) y es disquinética, con hipoplasia funcional del VD.
+
+**Grados:**
+- **Tipo A:** displasia y desplazamiento leves; volumen y función del VD poco afectados; IT trivial.
+- **Tipo B:** válvula displásica, desplazamiento moderado y gran porción atrializada; valva anterior redundante pero móvil; IT leve o moderada; VD en el rango bajo de la normalidad.
+- **Tipo C:** VD casi completamente atrializado, cavidad limitada al tracto de salida; valva anterior redundante e inmóvil; el único paso anterógrado es por la comisura anteroseptal.
+
+**Asociaciones:** la mayoría tienen CIA o FOP. Frecuente atresia o estenosis pulmonar grave. Síndrome de Wolff-Parkinson-White en el 20-30 %; múltiples vías accesorias en el 6 %.
+
+**Fisiopatología.** Depende de la gravedad, las arritmias y la compresión del VI por las cavidades derechas. La porción atrializada produce flujo retrógrado en la AD. La disfunción valvular es mayor los primeros días por las resistencias pulmonares altas, y el flujo pulmonar puede depender por completo del ductus (atresia pulmonar funcional). Al bajar las resistencias (caen mucho la primera semana y llegan al mínimo hacia la 6.ª) mejora la disfunción y la insuficiencia cardiaca. La presión alta en la AD causa cianosis por *shunt* derecha-izquierda por el FOP o la CIA; las arritmias la empeoran (acortan el llenado del VD y aumentan la presión telediastólica). Sin CIA no hay cianosis y predomina la insuficiencia cardiaca derecha.
+
+# Clínica
+
+*Cuidados críticos.*
+- **Leves:** asintomáticos hasta la adolescencia o la edad adulta; después, por dilatación del anillo, cianosis, fatiga de esfuerzo y arritmias.
+- **Graves:** cianosis e insuficiencia cardiaca los primeros días, que mejoran al bajar las resistencias. En algunos recién nacidos el ductus puede ser vital, al menos de forma transitoria.
+- **Shunt circular:** con estenosis pulmonar importante, flujo retrógrado de la AP al VD y por la tricúspide a la AD: gran cortocircuito derecha-izquierda con bajo gasto, cianosis intensa, disnea, hepatomegalia, edemas y ascitis.
+- **Exploración:** 1.^er^ tono fuerte y desdoblado (cierre tricuspídeo retrasado); soplo holosistólico con thrill por la IT.
+- **Arritmias:** un tercio con taquicardia paroxística supraventricular; también fibrilación o flutter auricular y, menos, arritmias ventriculares que pueden causar muerte súbita.
+- **Riesgos a largo plazo:** embolia paradójica, episodios isquémicos, *shock*, endocarditis, arritmias y muerte súbita.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** suele ser anormal: P grandes por dilatación de la AD, PR corto si hay WPW, QRS de bajo voltaje y bloqueo de rama derecha.
+- **Radiografía:** cardiomegalia; vascularización pulmonar normal o disminuida.
+- **Ecocardiografía** (prueba principal): anatomía valvular, obstrucción del tracto de salida del VD y *shunt* auricular. Un área funcional del VD < 35 % del área total del VD se asocia a peor pronóstico. En el diagnóstico fetal, el *hydrops* implica muy mal pronóstico.
+- **Cateterismo:** raramente necesario; arritmias durante el procedimiento hasta en el 25 %, con un 14 % de mortalidad. Solo con otras anomalías asociadas, para identificar y ablacionar vías accesorias o para valvuloplastia pulmonar si hay obstrucción del tracto de salida.
+- **AngioRM:** volumen y función del VD si la ventana ecográfica es mala.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* Según la gravedad y la edad.
+- **Recién nacido:** PGE~1~ para mantener el ductus e inducir vasodilatación pulmonar, al menos de forma transitoria, hasta que bajen las resistencias. Reducirlas con la ventilación y óxido nítrico inhalado; soporte inotrópico con milrinona y/o dopamina. Diuréticos si hay edemas o anasarca.
+- **Lactantes y niños mayores** con insuficiencia cardiaca y/o cianosis: IECA, diuréticos y digoxina.
+- **Arritmias** persistentes o recurrentes: antiarrítmicos e incluso ablación por radiofrecuencia.
+
+## Tratamiento quirúrgico
+
+*Cuidados críticos.* Puede necesitarse en cualquier momento.
+- **Recién nacidos cianóticos** con obstrucción del tracto de salida del VD o con VI comprometido por la dilatación derecha: cirugía de ventrículo único o de ventrículo y medio, ampliando la CIA si es restrictiva.
+- **Niños mayores sintomáticos:** si el VD es de tamaño normal, valvuloplastia o recambio valvular, plicatura de la porción atrializada y cierre de la CIA; si el VD es inadecuado, cirugía univentricular.
+- **Casos muy graves:** trasplante.
+
+**Postoperatorio y complicaciones (Cuidados críticos).** Reducir la poscarga del VD bajando las resistencias pulmonares, lo que protege la pared del VD y reduce la insuficiencia tricuspídea. Si se hizo cirugía univentricular, el manejo y las complicaciones son los descritos en «Ventrículo único».

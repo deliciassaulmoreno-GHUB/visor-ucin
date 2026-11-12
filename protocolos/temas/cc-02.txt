@@ -1,0 +1,115 @@
+@f TEMAS/CC/2
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 11).* Defecto del tabique interauricular que genera un flujo de sangre entre ambas aurículas. Representa en torno al 7 % de las cardiopatías congénitas y se asocia a menudo a otras cardiopatías. Más frecuente en mujeres (2:1). La mortalidad quirúrgica actual es < 1 % y la supervivencia a largo plazo no difiere de la población general.
+
+*Cardiología pediátrica para residentes (cap. 13).* Cualquier abertura del septo interauricular que no sea un foramen oval permeable es una CIA. Supone el 10-15 % de las cardiopatías congénitas; la mayoría son esporádicas, más frecuentes en mujeres (2/1), con recurrencia familiar del 7-10 %. Algunas se asocian a síndromes: Holt-Oram (herencia AD, gen *TBX5* en el 85 %, con anomalías de las extremidades superiores: radio, carpo o pulgares), Noonan o Treacher-Collins.
+
+! Las dos fuentes dan cifras distintas de frecuencia: 7 % (Cuidados críticos) y 10-15 % (Residentes).
+
+# Fisiopatología y variantes
+
+@img cc-02-cia.svg
+
+*Cuidados críticos.* La presión en la AD es menor que en la AI durante casi todo el ciclo, por lo que el *shunt* es izquierda-derecha: dilatación de la AD, más flujo de salida del VD e hiperaflujo pulmonar. La hipertensión pulmonar irreversible (Eisenmenger) es rara en la CIA, incluso con igual flujo que una CIV, porque la presión es menor. Si aumenta la presión en la AD puede haber *shunt* bidireccional o derecha-izquierda, con hipoxemia sistémica.
+
+*Residentes.* La cuantía del cortocircuito depende de la distensibilidad del VD respecto al VI, no del tamaño del defecto: el VD es más distensible y asume mucho volumen sin aumentar la presión. El flujo extra recorre AD-VD-pulmón-AI y vuelve a la AD, con dilatación de cavidades derechas y de las arterias pulmonares y aumento de la vascularización pulmonar.
+
+## Foramen oval
+
+*Cuidados críticos.* El foramen oval es una comunicación fetal que se cierra al aumentar la presión izquierda tras el nacimiento: el *septum primum* móvil (que crece desde el techo auricular hacia los cojinetes endocárdicos) se apoya en el borde del *septum secundum* rígido (invaginación desde el suelo auricular, a la derecha del *primum*). Persiste hasta en un 35 % de los niños.
+
+*Residentes.* En el 70-80 % los septos *primum* y *secundum* se fusionan; en el 20-30 % restante el foramen oval queda permeable. No es un defecto del septo (no falta tejido) ni se considera CIA ni hallazgo patológico.
+
+! Cuidados críticos da una persistencia del foramen oval de hasta el 35 % y Residentes, del 20-30 %.
+
+## Tipos de CIA
+
+@img cc-02-cia-tipos.svg
+
+*Cuidados críticos y Residentes.*
+- **Foramen oval:** defecto de unión entre *septum primum* y *secundum*. Solo es sintomático si hay *shunt* derecha-izquierda (Cuidados críticos).
+- **Ostium secundum (OS), la «auténtica CIA»:** defecto en la zona central de la fosa oval. Es el tipo más frecuente (70 % según Residentes). Desde ausencia total del septo hasta múltiples perforaciones (fenestrado o cribiforme). Algunas se cierran en el primer año.
+- **Ostium primum (OP) o canal AV incompleto:** defecto de unión del *septum primum* con los cojinetes endocárdicos, caudal al foramen oval (20 %). Asocia hendidura (*cleft*) mitral con insuficiencia. Sin CIV y con válvulas AV bien diferenciadas (Cuidados críticos). Ver «Defectos del septo auriculoventricular».
+- **Seno venoso (10 %):** superior, junto a la entrada de la VCS, más frecuente y asociado generalmente a drenaje venoso pulmonar anómalo parcial (DVPAP) de las venas derechas; inferior, junto a la entrada de la VCI.
+- **Seno coronario (< 1 %):** en el techo del seno coronario; la AI drena al seno coronario y este a la AD. Suele asociar vena cava superior izquierda persistente que drena en el techo de la AI (Residentes).
+- **Aurícula única:** muy rara; a veces con malformaciones extracardiacas o síndromes.
+
+Lesiones asociadas: DVPAP, estenosis pulmonar y anomalías de la válvula mitral, incluido el prolapso.
+
+# Clínica
+
+*Cuidados críticos.* La mayoría son asintomáticos (soplo). Los síntomas aparecen con la edad en los no intervenidos y con el esfuerzo: disnea y taquipnea con el ejercicio, taquicardia sinusal o infecciones pulmonares recurrentes; en mayores, palpitaciones o disnea. Rara vez insuficiencia cardiaca (hasta un 5 % en < 1 año): si aparece, buscar anomalías asociadas. Puede debutar como hipertensión pulmonar (13 %). Las arritmias (flutter, fibrilación auricular) y las embolias paradójicas son infrecuentes en niños. La cianosis aparece al invertirse el *shunt* por aumento de las resistencias pulmonares. La endocarditis es infrecuente sin otros defectos y no suele recomendarse profilaxis.
+
+*Residentes.*
+- FOP y CIA pequeñas (< 5-6 mm): Qp/Qs < 1,5, sin repercusión; único riesgo, la embolia paradójica.
+- CIA medianas (> 5-6 mm) y grandes (> 8 mm): Qp/Qs > 1,5, pero no suelen dar síntomas en la infancia; a veces infecciones respiratorias de repetición o retraso ponderoestatural en lactantes.
+- A partir de la 3.ª-4.ª década: taquiarritmias supraventriculares (fibrilación, flutter), insuficiencia cardiaca derecha e hipertensión pulmonar (5-10 %, sin clara relación con la cuantía del cortocircuito ni con la edad), que puede invertir el *shunt* (Eisenmenger).
+
+**Exploración.**
+- *Cuidados críticos:* soplo sistólico; desdoblamiento del 2.º ruido (más evidente en inspiración mantenida, por sobrecarga de volumen pulmonar que retrasa el cierre pulmonar); soplo sistólico pulmonar funcional en el borde esternal izquierdo; estruendo diastólico tricuspídeo que imita una estenosis tricúspide.
+- *Residentes:* latido impulsivo de VD. Soplo sistólico eyectivo en foco pulmonar por hiperaflujo (el paso por la CIA no sopla, por el escaso gradiente). Desdoblamiento amplio y fijo del 2.º tono. Soplo protomesodiastólico en foco tricuspídeo en CIA significativas. Peso y talla habitualmente normales.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **ECG:** dilatación de AD, hipertrofia de VD y eje a la derecha (+100°). Ritmo generalmente sinusal; puede haber BAV de primer grado. Patrón rsR' o RSR' en V1 característico.
+- **Radiografía:** cardiomegalia variable (AD, VD), hiperaflujo pulmonar y tronco pulmonar prominente.
+- **Ecocardiografía transtorácica 2D:** pilar del diagnóstico, sobre todo el plano subcostal (2 ejes), con los ultrasonidos paralelos al septo. Describe localización, diámetro, forma y bordes (posterosuperior e inferior respecto a las cavas, AV respecto a la tricúspide, retroaórtico) y el tabique circundante, techo aórtico, seno coronario, válvula mitral y venas pulmonares. Bordes adecuados para cierre percutáneo: en general > 5-6 mm.
+- En la CIA-OP: anatomía y función de VI y AI, diámetro, *cleft* e insuficiencia mitral, presión pulmonar y tracto de salida del VI (sobre todo tras la cirugía, para descartar estenosis subaórtica).
+- En la CIA grande: grado de sobrecarga diastólica y dilatación derecha (Z score del VD) y movimiento paradójico del septo hacia el VD en diástole.
+- Descartar lesiones asociadas (estenosis pulmonar, DVPAP…); estimar la presión pulmonar por la insuficiencia pulmonar y el gradiente VD-AD por la insuficiencia tricuspídea (Doppler continuo). Si no se está habituado al Qp/Qs, el cálculo puede ser impreciso y no aportar más que el tamaño y la función del VD.
+- **Doppler color:** magnitud y dirección del flujo (normalmente izquierda-derecha; bidireccional o derecha-izquierda con hipertensión pulmonar y presión alta en AD, < 5 %); grado de insuficiencia mitral en la OP.
+- **Ecocardiografía transesofágica (ETE):** precisa ubicación y tamaño, sobre todo en el seno venoso, e identifica el drenaje venoso pulmonar anómalo; sospechar DVPAT si la CIA tiene cortocircuito derecha-izquierda. Esencial si la ventana subcostal es mala. Útil en quirófano y en el cierre percutáneo.
+- **Eco 3D:** número, forma y extensiones del orificio; decisiva para el tratamiento y el seguimiento del cierre.
+- **Cateterismo:** ocasional, para valorar hipertensión pulmonar arreactiva o inoperable en mayores, o lesiones asociadas.
+
+*Residentes.* ECG: además, PR algo prolongado (sobre todo en mayores) y P pulmonar. Radiografía: plétora pulmonar. La ETE se reserva para mala ventana acústica, para medir con exactitud y definir los bordes antes del cierre percutáneo y para detectar la CIA del seno coronario o el DVPAP asociado. Resonancia: si la eco no es concluyente, para calcular Qp/Qs y asegurar el drenaje de las venas pulmonares.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+*Cuidados críticos.* Actitud conservadora en niños asintomáticos sin *shunt* significativo.
+
+*Residentes.*
+- No suele ser necesario. Si hay sobrecarga ecográfica (dilatación derecha, hiperaflujo) y se decide esperar al cierre, puede usarse diurético con o sin IECA. Si además hay repercusión clínica (infecciones respiratorias de repetición, insuficiencia cardiaca, hipertensión pulmonar, retraso ponderal en lactantes), plantear el cierre aunque sean menores de 3 años.
+- Cuidados generales: sin restricción de actividad física; no se recomienda profilaxis de endocarditis, pero sí buena higiene oral. Con repercusión hemodinámica: gripe anual (> 6 meses) y tratamiento estacional del VRS (< 2 años).
+
+## Tratamiento quirúrgico
+
+**Indicaciones de cierre.**
+- *Cuidados críticos:* siempre que haya cortocircuito significativo (defecto > 5-6 mm y crecimiento de cavidades derechas). Si hay dudas, medir el flujo pulmonar por cateterismo o valorar el defecto y los bordes con ETE. Criterio clásico Qp/Qs > 1,5, incluyendo asintomáticos con desdoblamiento fijo del 2.º ruido con murmullo diastólico apical o sobrecarga de volumen del VD en la eco. Edad de elección: 3-5 años; los sintomáticos pueden intervenirse antes (2-3 años).
+- *Residentes:* cierre en el primer año solo si hay clínica con mala respuesta al tratamiento médico; no retrasarlo mucho más de lo recomendado (cambios irreversibles en AD, VD o circulación pulmonar). No cerrar CIA pequeñas (< 5-6 mm) ni FOP, salvo adultos con ictus de causa no aclarada con sospecha de embolia paradójica, migrañas o síndrome de platipnea-ortopnea. Contraindicado con enfermedad vascular pulmonar avanzada.
+
+! «Platipnea-ortopnea» aparece así en Residentes (el síndrome suele denominarse platipnea-ortodesoxia).
+
+**Cierre percutáneo.**
+- *Cuidados críticos:* dispositivo tipo Amplatzer® guiado por ETE; de elección en CIA significativas con anatomía adecuada: OS central, borde de tejido > 5 mm y sin signos de hiperaflujo pulmonar. Limitaciones: tamaño, márgenes inadecuados, proximidad a estructuras vitales y peso.
+- Tras el cierre, eco para descartar cortocircuito residual, obstrucción de las venas pulmonares derechas y de las cavas, insuficiencia mitral o tricuspídea (pueden ser previas), y valorar la función del VD, la presión pulmonar y la posición del dispositivo. ECG para descartar bloqueo AV.
+- Rara vez necesita UCIP: control del dolor y de la perfusión de la extremidad y del punto de acceso. Antiagregación precoz (2-3 horas tras el procedimiento): ácido acetilsalicílico 3-5 mg/kg/día en una toma durante 6 meses; si hay alergia, clopidogrel 1 mg/kg/día en una dosis. Profilaxis antibiótica para procedimientos dentales los 6 primeros meses tras la reparación con material protésico o dispositivo.
+- Complicaciones muy poco frecuentes: embolización del dispositivo, perforación cardiaca, endocarditis, arritmias. Menor recuperación, estancia y coste que la cirugía.
+- *Residentes:* más del 80 % de las CIA-OS se cierran de forma percutánea; solo las OS son candidatas. Márgenes pequeños (sobre todo el posteroinferior) y septo aneurismático aumentan el riesgo de embolización (< 1 %, en las primeras 24 h). En el seguimiento: arritmias (más en adultos), insuficiencia aórtica de novo y erosión o perforación auricular o fístula aortoauricular (muy rara pero potencialmente letal; riesgo sin borde retroaórtico). Sin limitación del ejercicio si la función es normal. Profilaxis de endocarditis 6 meses y después si persiste cortocircuito residual.
+
+**Cirugía.**
+- *Cuidados críticos:* esternotomía media (o pequeña toracotomía derecha) con circulación extracorpórea (CEC) en normotermia (34 °C), clampaje aórtico y cardioplejia. OS: sutura directa o parche de pericardio autólogo si es grande o no central. Seno venoso: parche (pericardio autólogo o sintético) dejando en el lado izquierdo las venas que drenan de forma anómala. Seno coronario: cuidado con el tejido de conducción.
+- *Residentes:* indicada en CIA no OS (OP, seno venoso, seno coronario) o en OS sin criterios de dispositivo (> 25-30 mm o sin buenos bordes). Sutura directa o parche de pericardio heterólogo (bovino). En el seno venoso superior con DVPAP a la AD, el parche redirige las venas a la AI. Supervivencia a 20 años del 96 % si se interviene antes de los 25 años con presión pulmonar normal.
+
+**Postoperatorio (Cuidados críticos).**
+- Suele cursar sin complicaciones. Monitorización no invasiva (FC, ECG, TA, FR, pulsioximetría, temperatura) e invasiva (TA, PVC, diuresis, drenajes); presión en AI solo si hay hipertensión pulmonar.
+- Al ingreso: ECG de 12 derivaciones, radiografía, analítica (hemograma, coagulación, gasometría arterial y venosa central, bioquímica con iones, glucosa, función hepática y renal, lactato, enzimas cardiacas) y eco (diámetros de VI y VD, función con TAPSE, integridad del tabique, cortocircuitos residuales, presión pulmonar, insuficiencia tricuspídea, derrame pericárdico; en el seno venoso, descartar obstrucción de la VCS y drenajes parciales).
+- Extubación en quirófano o poco después. Analgesia periférica con bolos de cloruro mórfico y benzodiacepinas en las primeras 48 h; la epidural es una opción. Objetivo: confortable y en respiración espontánea.
+- Inotrópicos rara vez, salvo niños mayores con hipertensión pulmonar: milrinona (0,5-0,75 µg/kg/min) y/o dopamina (2-5 µg/kg/min).
+- Drenaje aceptable < 1 ml/kg/h; si drena > 5 ml/kg/h de forma persistente tras corregir trombopenia o coagulopatía, reexploración quirúrgica. No necesita anticoagulación de rutina.
+
+**Complicaciones posquirúrgicas y su manejo.** *Cuidados críticos:* mortalidad nula sin malformaciones asociadas; complicaciones excepcionales.
+- **CIA residual (15 %):** desdoblamiento fijo del 2.º tono persistente (puede darse sin CIA residual) y soplo de salida pulmonar; generalmente sin repercusión.
+- **Disfunción del nodo sinusal (bradicardia sinusal):** por traumatismo directo o alteración de la irrigación del nodo. Respuesta cronotrópica inadecuada a la anemia, el estrés o los inotrópicos, o arritmias (23 %). Puede plantearse dexametasona para reducir el edema y acelerar la recuperación; mientras, marcapasos externo transitorio. Hasta un 2 % necesitan marcapasos definitivo; vigilarla a largo plazo.
+- **Taquiarritmias auriculares:** flutter, fibrilación auricular, taquicardia ectópica de la unión (JET).
+- **Síndrome postpericardiectomía:** astenia, fiebre, dolor torácico, a veces roce; puede acumular líquido y progresar a taponamiento. Analgesia y AINE; en refractarios, corticoides.
+- **Otras poco frecuentes:** hipertensión pulmonar; disfunción ventricular (fallo de VI por menor complianza tras sobrecarga crónica de VD en mayores, con edema pulmonar y presión alta en AI); embolia gaseosa por apertura de la AD; derrame pericárdico; sangrado mediastínico y bajo gasto por hipovolemia (revisión quirúrgica si el sangrado es excesivo tras corregir trombopenia y coagulopatía).
+- **Según el tipo:** OP, bloqueo AV e insuficiencia mitral residual; seno venoso superior, obstrucción de la VCS (síndrome de VCS, valorar en la evolución tardía); seno venoso inferior, cianosis por *shunt* VCI-AI (parche desplazado); seno coronario, bloqueo AV.
+
+! «Postpericardiectomía» aparece así en el original (habitualmente, síndrome pospericardiotomía).
+
+*Residentes.* Complicaciones: estenosis de la VCS (niños muy pequeños con CIA-SVS); arritmias supraventriculares y a veces bloqueos de 1.^er^ y 2.º grado; síndrome postpericardiectomía en el primer mes (antiinflamatorios; colchicina y corticoides de rescate); lesiones de la esternotomía (infección, protrusión de alambres, escoliosis), menos con abordajes mínimamente invasivos. Mortalidad < 1 %. Ejercicio sin limitaciones, evitando golpes en la esternotomía el primer mes; sin restricciones tras 3-6 meses. Profilaxis de endocarditis 6 meses o mientras haya defecto residual si se usó material protésico.

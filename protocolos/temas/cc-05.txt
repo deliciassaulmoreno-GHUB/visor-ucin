@@ -1,0 +1,155 @@
+@f TEMAS/CC/5
+# Introducción e incidencia
+
+*Cuidados críticos (cap. 13).* Es la cardiopatía congénita cianógena más frecuente. Lesión conotruncal cuyo defecto primario es la desviación anterior del septo infundibular (el que separa los tractos de salida aórtico y pulmonar).
+- Incidencia de 0,34/1.000 recién nacidos vivos (1/3.000), en torno al 5 % de las cardiopatías congénitas; ligero predominio en varones. Recurrencia familiar del 3 %.
+- Sin cirugía, mortalidad alta y progresiva: más del 30 % fallece el primer año y más del 50 % a los 3 años. La corrección total tiene hoy una mortalidad perioperatoria del 2-5 % y supervivencia del 95 % a 10 años, 93 % a 20 y 85-90 % a 30.
+
+**Etiología** (multifactorial).
+- Síndromes: DiGeorge, velocardiofacial, Down, Edwards (trisomía 18), Patau (trisomía 13), Alagille (*JAG1*, 20p12), Holt-Oram (*TBX5*), CHARGE, VATER/VACTERL. Se han asociado 12 mutaciones de genes únicos (factores de transcripción *NKX2.5*, *GATA4*, *ZFPM2*, *GATA6*, *TBX1*, *TBX20*; vía NOTCH; vía NODAL). Pocos casos son hereditarios.
+- Anomalías cromosómicas hasta en el 25 %: trisomía 21 (5 % de las TF) y microdeleción 22q11.2 (gen *TBX1*, en el 20 %; más probable con anomalías del arco: arco derecho, subclavia aberrante, ausencia de confluencia de ramas). En más del 60-70 % la causa genética es desconocida.
+- Factores ambientales: diabetes pregestacional, infecciones virales, vitamina A, disolventes orgánicos.
+
+**Estudio genético.** Interesa identificar la deleción 22q11.2:
+1. Anticipar y corregir la hipocalcemia (50 %, por hipoparatiroidismo) en la cirugía y el postoperatorio.
+2. Algunos tienen déficit completo de linfocitos T (DiGeorge completo), con riesgo de enfermedad injerto contra huésped por transfusión (CD4 < 1.000 cél./mm³ y CD8 < 800 cél./mm³). Se recomienda sangre irradiada en la cirugía si hay diagnóstico o sospecha, salvo que se haya excluido el déficit.
+
+Se recomienda en los «sindrómicos», y muchos centros lo hacen en todos, porque el 6-10 % de los portadores de la deleción no tienen otra anomalía.
+
+*Cardiología pediátrica para residentes (cap. 19).* Es la más frecuente de las cardiopatías complejas. Aparece en el 0,08 % de la población, el 5-10 % de las cardiopatías congénitas, aproximadamente 1/8.500 recién nacidos vivos. Microdeleción 22q11 en el 7-16 % (sobre todo con arco derecho). Hasta el 14-15 % de los niños con síndrome de Down y cardiopatía tienen TF.
+
+! Las fuentes difieren en la incidencia (1/3.000 en Cuidados críticos, 1/8.500 en Residentes) y en la frecuencia de la deleción 22q11 (20 % frente a 7-16 %).
+
+# Fisiopatología y variantes
+
+@img cc-05-fallot.svg
+
+*Cuidados críticos.* Los cuatro componentes son:
+1. **CIV** grande, no restrictiva, subaórtica. Perimembranosa con continuidad aorto-tricuspídea en 4 de cada 5 casos, o separada de la tricúspide por una franja muscular posteroinferior que protege el tejido de conducción. Si falta el septo infundibular, las válvulas aórtica y pulmonar están en continuidad (CIV «doble concomitante», con más riesgo de insuficiencia aórtica y de obstrucción residual). Puede extenderse a la entrada (Fallot con canal AV). Puede haber CIV musculares difíciles de ver.
+2. **Cabalgamiento aórtico** del 15 al 95 %. Si es > 50 % se discute si debe clasificarse como doble salida de VD.
+3. **Obstrucción del tracto de salida del VD** a varios niveles: infundibular (variable y progresiva), anillo (de casi normal a muy hipoplásico), válvula (engrosada, estenótica, a menudo bicúspide o monocúspide) y arteria pulmonar y ramas (anomalías hasta en el 40 %; estenosis frecuente en el origen de la rama izquierda, relacionada con el cierre ductal).
+4. **Hipertrofia del VD.**
+
+Al contraerse el VD frente a la estenosis, la sangre cruza por la CIV a la aorta: desaturación y cianosis. El grado de obstrucción determina el inicio de los síntomas, la cianosis y la hipertrofia. Con estenosis leve-moderada y *shunt* balanceado puede no haber cianosis visible (Fallot «rosado» o «acianógeno»); con obstrucción grave, cianosis desde el nacimiento, que empeora al cerrarse el ductus.
+
+*Residentes.* Funcionalmente solo importan dos anomalías, CIV y estenosis pulmonar, ambas por la desviación anterosuperior del septo conal; las otras dos no influyen en la hemodinámica ni se operan. El pronóstico depende del tamaño de la válvula y las ramas pulmonares. Hipoplasia de ramas: < 3 mm en el recién nacido.
+
+**Otros hallazgos para planificar la cirugía (Cuidados críticos):**
+- **Coronarias anómalas** (5-7 %): importan si cruzan el tracto de salida del VD. En el 4 % la descendente anterior (o una accesoria) nace de la coronaria derecha o del seno derecho y cruza el infundíbulo; coronaria única en el 1 %. Hoy, con anillo razonable, puede repararse por vía transauricular o transpulmonar; si hay coronaria cruzando e hipoplasia grave del anillo: parches separados, conducto VD-AP o parche tratado con glutaraldehído.
+- **Arco aórtico derecho** en el 20-25 % (troncos en espejo); aislado no da síntomas.
+- **Colaterales aortopulmonares** inusuales sin atresia; ductus persistente en el 6 %.
+
+## Variantes
+
+*Cuidados críticos.*
+- **Con atresia pulmonar** («Fallot extremo» o atresia pulmonar con septo abierto): flujo pulmonar variable (MAPCAs, ductus, coronarias…).
+- **Origen de la rama pulmonar izquierda de la aorta ascendente** («hemitruncus»): reparación precoz para evitar HTP en el pulmón izquierdo. Si falta la rama izquierda, buscar su origen en un ductus izquierdo (desde el tronco braquiocefálico izquierdo o la subclavia izquierda).
+- **Con válvula pulmonar ausente (agenesia)** (3-6 %): dilatación aneurismática del tronco y las ramas que puede comprimir la vía aérea y producir malacia. Estenosis en el anillo (no infundibular) e insuficiencia grave libre. Casi siempre sin ductus; arco derecho en el 50 %. Con compromiso respiratorio en las primeras semanas, cirugía precoz: reparación intracardiaca (con o sin conducto VD-AP) y plicatura de ramas.
+- **Con canal AV** (2 %): clínica más parecida a la TF que al canal (la obstrucción protege del hiperaflujo). Descartarlo en niños con síndrome de Down y TF. A veces solo hay *cleft* mitral, que debe repararse. Reparación de ambos en los primeros meses, con mejor pronóstico que paliar y reparar a los 3-4 años.
+
+# Clínica
+
+*Cuidados críticos.*
+- Con estenosis leve puede haber inicialmente insuficiencia cardiaca por *shunt* izquierda-derecha y cianosis más tarde en el primer año, al progresar la obstrucción. El diagnóstico puede llegar por un soplo neonatal o por la saturación rutinaria del recién nacido o durante el llanto.
+- Dos tercios de los recién nacidos son «acianógenos», pero hacia los 6 meses más de la mitad están desaturados en reposo. Con obstrucción grave, cianosis en los primeros días.
+- Niños mayores sin reparar: disnea de esfuerzo, piel azul oscura, escleróticas grises, dedos en palillo de tambor y posición en cuclillas (*squatting*) tras el ejercicio.
+- **Exploración:** cianosis en mucosas y lechos ungueales; 1.^er^ ruido normal, 2.º único, soplo sistólico eyectivo en el borde esternal izquierdo; pulsos normales.
+
+**Crisis de hipoxia** (la complicación más grave). Disminución súbita de la saturación por obstrucción completa o casi completa del infundíbulo, con hipoxia grave y acidosis metabólica. Pueden ocurrir incluso con poca estenosis infundibular. Más frecuentes al despertar, tras esfuerzo, con fiebre, agitación, llanto o deshidratación; suelen deberse a una descarga adrenérgica que espasma el infundíbulo. Aumento de la cianosis, agitación, taquipnea, llanto, letargo y desaparición del soplo; en las graves, pérdida de conciencia, convulsiones o hemiparesia, isquemia miocárdica, colapso y muerte. Duran minutos u horas y van seguidas de debilidad y sueño.
+
+*Residentes.*
+- **Fallot rosado** (poca obstrucción): asintomático o insuficiencia cardiaca leve. **Fallot cianógeno** (obstrucción grave): cianosis, hipoxemia y/o crisis desde el periodo neonatal. La hipoxia aumenta la viscosidad, con alteraciones del crecimiento e hipocratismo digital a largo plazo.
+- Crisis hipóxicas: emergencia vital, más frecuentes entre los 2 y 4 meses. Por espasmo infundibular o descenso de las resistencias periféricas (fiebre, ejercicio).
+- Soplo rudo sistólico eyectivo en borde esternal superior izquierdo desde el primer día, por la estenosis pulmonar (la CIV no sopla). 2.º ruido único con clic eyectivo. El soplo disminuye o desaparece en las crisis.
+
+# Diagnóstico
+
+*Cuidados críticos.*
+- **Prenatal:** posible desde la semana 12, más en los casos graves.
+- **ECG:** ritmo sinusal, eje normal o derecho, hipertrofia de VD con R dominante en precordiales derechas (Rs, R, qR, qRs) o RSR'. Eje izquierdo si se asocia canal AV. P alta y picuda. Tras la cirugía, bloqueo de rama derecha en > 90 % (menos con abordaje transauricular o transpulmonar). Con insuficiencia pulmonar grave residual el QRS se alarga con el tiempo (implicación pronóstica).
+- **Radiografía:** silueta de tamaño normal con punta levantada (hipertrofia de VD), «botón» pulmonar excavado y vascularización pulmonar disminuida: «*coeur en sabot*» o corazón en zueco, hoy menos visto por la cirugía precoz. Arco derecho (20 %): falta el botón aórtico izquierdo, abultamiento mediastínico derecho y muesca a la derecha de la tráquea.
+- **Ecocardiografía:** CIV (típicamente perimembranosa, bajo la valva septal tricúspide con extensión anterior hacia la aorta; excluir otras), cabalgamiento, tracto de salida del VD, válvula, tronco y ramas pulmonares (la aceleración Doppler bajo la válvula indica estenosis infundibular), ductus, arco derecho (supraesternal) y coronarias (paraesternal eje corto).
+- **Cateterismo:** no indispensable; puede descartar anomalías y planificar la cirugía.
+
+*Residentes.* Radiografía: corazón normal o pequeño; vascularización normal en la TF típica y disminuida si hay cianosis importante. Tras la cirugía, bloqueo de rama derecha y, tarde, arritmias (extrasístoles, TSV, TV). Hoy el diagnóstico suele ser prenatal y se repite la eco tras el nacimiento. Cateterismo excepcional; también intervencionista paliativo en críticos con poca probabilidad de éxito quirúrgico (valvuloplastia pulmonar, *stent* ductal o en el tracto de salida). RM/TC para el seguimiento: insuficiencia pulmonar, zonas aneurismáticas o acinéticas, volúmenes y función del VD.
+
+# Tratamiento
+
+## Tratamiento médico inicial
+
+**Crisis de hipoxia (Cuidados críticos).** Según frecuencia y gravedad:
+1. Posición genupectoral.
+2. Oxígeno.
+3. Morfina subcutánea, sin superar 0,2 mg/kg. Calmar al niño puede bastar.
+- Si es grave (acidosis metabólica si PaO~2~ < 40 mmHg), bicarbonato sódico. Si no responde, intubación y sedación.
+- Adrenalina intravenosa: disminuye el *shunt* derecha-izquierda y mejora los síntomas.
+- Propranolol 0,1 mg/kg lento, hasta un máximo de 0,2 mg/kg.
+- En casos graves refractarios, vasopresores (noradrenalina o terlipresina) para invertir el *shunt*.
+
+! Cuidados críticos indica que la adrenalina intravenosa disminuye el *shunt* derecha-izquierda; Residentes no la incluye en la secuencia (usa fenilefrina como vasopresor).
+
+**Crisis de hipoxia (Residentes),** escalonada; objetivo: mantener las resistencias sistémicas y relajar el infundíbulo con mínima depresión miocárdica:
+1. Oxígeno al 100 %.
+2. Posición genupectoral.
+3. Morfina subcutánea 0,1-0,2 mg/kg (canalizar una vía con dificultad puede perpetuar la crisis).
+4. Si no cede, vía intravenosa y volumen rápido (SSF 10-20 ml/kg).
+5. Bicarbonato sódico intravenoso 1-2 mEq/kg diluido al medio.
+6. Propranolol o esmolol 0,1 mg/kg intravenoso.
+7. Fenilefrina 5-20 µg/kg.
+
+Prevención: evitar la irritabilidad innecesaria (sedantes, aliviar el estreñimiento).
+
+**Manejo general (Residentes).**
+- Asintomáticos con anatomía favorable: sin tratamiento; control ambulatorio y explicar a los padres las crisis y los signos de alarma.
+- Insuficiencia cardiaca: diuréticos, captopril o digoxina, que se retiran al progresar la estenosis.
+- Recién nacido con cianosis grave: prostaglandina E~1~ para abrir o mantener el ductus. Si la cianosis progresa o hay crisis, cirugía inmediata.
+- Estenosis grave con gran componente infundibular: propranolol oral 1-4 mg/kg/día.
+
+## Tratamiento quirúrgico
+
+**Estrategia (Cuidados críticos).**
+- Reparación en dos tiempos en neonatos y lactantes sintomáticos menores de 4-6 meses y en hipodesarrollo o estenosis de ramas. Un anillo y ramas hipoplásicos contraindican la reparación primaria: fístula sistémico-pulmonar primero, para que crezcan.
+- Corrección primaria a partir de los 4-6 meses en los poco sintomáticos (algunos centros la hacen en el periodo neonatal, con mortalidad del 7-8 %), para evitar hipertrofia excesiva y el parche transanular. No es indispensable el cateterismo previo.
+- *Residentes:* reparación completa entre los 3 y 6 meses; paliación si no es posible por edad, peso, desaturación profunda, anomalías asociadas o anatomía (Blalock-Taussig de 3-4 mm, *stent* ductal o hemicorrección VD-AP dejando la CIV abierta).
+
+**Fístula de Blalock-Taussig modificada (Cuidados críticos).** Toracotomía lateral por el 4.º espacio intercostal; heparina sódica 1 mg/kg; tubo de Goretex de 3,5 o 4 mm término-lateral entre la subclavia y la rama pulmonar; no se revierte la heparina. Con ramas poco desarrolladas, fístula central por esternotomía (Goretex de 3,5-4 mm entre aorta ascendente y tronco pulmonar). Aspirina hasta la corrección. Objetivo: saturación > 80 % hasta el año. Antes se hacía cateterismo al año; hoy basta la eco y, si hay dudas, TC o RM.
+
+*Residentes:* tras fístula y/o *stent*, AAS a 7 mg/kg/día durante 4-6 meses.
+
+! Cuidados críticos indica aspirina hasta la corrección definitiva y Residentes, AAS a 7 mg/kg/día durante 4-6 meses.
+
+**Corrección por vía transauricular/transpulmonar (Cuidados críticos).** Esternotomía, CEC (aorta y ambas cavas), clampaje y cardioplejia hemática fría. Por la AD y a través de la tricúspide se secciona la extensión parietal de la trabécula septomarginal y se cierra la CIV con parche amplio de dacron (o pericardio bovino). Arteriotomía pulmonar: la válvula suele ser bicúspide con fusión comisural y anillo de 5-6 mm; comisurotomía hasta el anillo, que se mide con tallos de Hegar (aumenta unos 2 mm). Si Z = 0 no se hace más; si Z es negativo, dilatación del anillo con balón de 9-10 mm a 10-12 atm durante 2 minutos. Se resecan las bandas hipertróficas y se amplía el tronco con parche de pericardio bovino. A la salida de bomba la presión del VD debe ser < 50 % de la sistémica. ETE intraoperatoria para descartar defectos residuales reparables.
+
+*Residentes:* se cierra la CIV con parche y se corrige la estenosis con resección infundibular y/o parche transanular, preservando al máximo la válvula.
+
+**Postoperatorio (Cuidados críticos).**
+- Algunos centros los ingresan extubados, pero el postoperatorio suele ser complejo en las primeras 12-24 h: arritmias (JET, BAV completo) y bajo gasto por disfunción diastólica y sistólica del VD, arritmias y CIV residual.
+- Monitorización: FC, FR, pulsioximetría, TA invasiva, PVC, diuresis, drenajes y NIRS cerebral.
+- Al ingreso: gasometría arterial y venosa (lactato, SatvO~2~), hemograma, coagulación, bioquímica, radiografía (tubo, drenajes, derrame, atelectasias, neumotórax), ECG y eco (función sistólica y diastólica del VD, defectos residuales).
+- **Respiratorio:** extubación precoz; si no es posible, presión de soporte con PEEP ≤ 5 cmH~2~O para minimizar la poscarga del VD.
+- **Hemodinámico:** milrinona 0,25-0,75 µg/kg/min como profilaxis del bajo gasto durante 48 h. El VD hipertrófico con disfunción diastólica necesita presiones de llenado más altas (PVC 15 mmHg). Si tras optimizar la precarga necesita inotrópicos: dopamina (5-10 µg/kg/min) y/o adrenalina (0,05-0,25 µg/kg/min) si hay disfunción sistólica; levosimendán (0,2 µg/kg/min durante 24 horas, efecto durante 5 días) si hay disfunción diastólica.
+
+**Complicaciones posquirúrgicas y su manejo (Cuidados críticos).**
+- **Defectos residuales** (sobre todo CIV residual y obstrucción residual del tracto de salida): reintervención o cateterismo intervencionista si son significativos.
+- **Bajo gasto con disfunción del VD** (sobre todo diastólica, por VD poco compliante; fisiología restrictiva): edemas, derrame pleural, hepatomegalia, mala perfusión, oliguria. Optimizar la precarga, inodilatadores (milrinona, levosimendán) y diuréticos. Reducir la poscarga del VD con la ventilación: normoventilación, buena oxigenación, presión media baja y PEEP baja; puede añadirse óxido nítrico inhalado. Suele ser transitoria (primeras 72 h), aunque puede reaparecer.
+- **JET** (la arritmia más frecuente, 5-14 %): aumento progresivo de la FC en las primeras horas, hasta 200-230 lpm con disociación AV. Enfriar por medios físicos por debajo de 36 °C (habitualmente 34-35 °C); no retrasar la amiodarona si hay inestabilidad; limitar catecolaminas y optimizar la sedoanalgesia; marcapasos con electrodos epicárdicos para restablecer la sincronía AV.
+- **BAV completo:** marcapasos temporal; rara vez definitivo.
+- **A largo plazo:** fallo del VD por insuficiencia pulmonar crónica (sobre todo con parche transanular), arritmias supraventriculares y ventriculares y muerte súbita (2-9 %, probablemente por arritmias ventriculares).
+
+**Evolución y reemplazo valvular pulmonar (Cuidados críticos).** La insuficiencia pulmonar crónica tras el parche transanular, con otros defectos residuales (CIV, estenosis de ramas, insuficiencia tricuspídea), dilata y deteriora el VD. Con insuficiencia pulmonar grave (fracción regurgitante > 25 %), recambio valvular en sintomáticos o asintomáticos con más de 2 criterios de la tabla I, o disfunción significativa de VD o VI. Opciones: conductos biológicos, prótesis mecánica y *stents* valvulados.
+
+*Cuidados críticos. Tabla I.*
+
+| Síntomas | Dilatación/disfunción VD | Fallo del VI | Lesiones residuales |
+|---|---|---|---|
+| Intolerancia al ejercicio | Vol. TdVD > 160 mil/m² | Vol. TdVI < 65 mil/m² | Obstrucción TSVD |
+| Fallo cardiaco | Vol. TsVD > 70 mil/m² | – | CIA o CIV |
+| Síncope | FE VD < 45 % | – | IT moderada |
+| Taquicardia ventricular | Aneurisma TSVD | – | IAo moderada |
+| – | – | – | QRS > 160 ms |
+
+*Vol. TdVD/TdVI: volumen telediastólico del VD/VI; Vol. TsVD: volumen telesistólico del VD; TSVD: tracto de salida del VD; FE VD: fracción de eyección del VD.*
+
+! «mil/m²» aparece así en la tabla original (probablemente ml/m²).
+
+*Residentes.* Reintervenciones frecuentes en 20-30 años de seguimiento, sobre todo por insuficiencia pulmonar (más con parche transanular); también estenosis pulmonar o de ramas, CIV, insuficiencia tricuspídea, endocarditis, marcapasos o DAI. Tras la corrección, pronóstico excelente con vida normal y ejercicio adaptado. Calendario vacunal normal, evitando vacunas desde 4 semanas antes hasta 4-6 semanas después de cualquier cirugía; gripe desde los 6 meses; palivizumab según edad y situación.
