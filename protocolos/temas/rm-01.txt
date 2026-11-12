@@ -1,0 +1,91 @@
+@f TEMAS/RM/1
+*Fuentes:*
+- *Curso de Asistencia Respiratoria Neonatal, tema 3 «Acondicionamiento de gases. Monitorización y cuidados del RN ventilado».*
+- *Curso de ventilación mecánica (UCIP HGU Gregorio Marañón, SECIP): «Monitorización de la oxigenación y la ventilación» y «Gases medicinales».*
+- *Curso de ventilación mecánica, unidad 7.*
+
+! El material «Monitorización de la oxigenación y la ventilación» y «Gases medicinales» es de cuidados intensivos pediátricos; sus valores de normalidad son pediátricos. Los objetivos neonatales están en «Soporte respiratorio».
+
+## Métodos
+
+| | Discontinua | Continua |
+| Invasiva | Gasometría arterial o capilar | Gasometría intraarterial |
+| No invasiva | Exploración clínica | Pulsioximetría, pCO~2~ transcutánea, capnografía |
+
+- **Clínica** (trabajo respiratorio, confort, auscultación, movimientos torácicos, color, perfusión): siempre, y **ninguna monitorización la sustituye**.
+
+**Gasometría en el neonato (curso, tema 3):**
+- **Arterial** (umbilical o femoral): paciente agudo grave, sobre todo con compromiso hemodinámico. Evitar mantener una arteria > 5-6 días.
+- **Venosa** (umbilical o femoral): si no es posible o es arriesgada la arterial. La vena umbilical puede mantenerse 10-14 días. Protege el talón de los prematuros extremos los primeros días.
+- **Capilar arterializada:** ventilado sin vía arterial ni venosa central. **Correlación buena con el pH, regular con la PaCO~2~ y mala con la PaO~2~.**
+
+## Índices de oxigenación
+
+- **PaO~2~/FiO~2~** (normal > 300).
+- **Índice de oxigenación (IO) = MAP × FiO~2~ × 100 / PaO~2~** (normal < 5).
+- **Cociente arterio-alveolar a/ADO~2~** = PaO~2~ / [(713 × FiO~2~) − (PaCO~2~/0,8)].
+- **Diferencia alveolo-arterial A-aDO~2~** = (713 × FiO~2~) − (PaCO~2~/0,8) − PaO~2~.
+
+*Gravedad de la insuficiencia respiratoria (curso, tema 3).*
+| | a/ADO~2~ | A-aDO~2~ | IO |
+| Leve | > 0,22 | < 200 | < 10 |
+| Moderada | 0,1-0,22 | 200-500 | 10-25 |
+| Grave | < 0,1 | > 500 | > 25 |
+
+Umbrales de IO de uso neonatal (ver HTP, ONi y VAFO):
+- IO > 15 sugiere HTPP.
+- ONi con IO 15-40 o > 20-25 según la fuente.
+- VAFO con IO > 20.
+- ECMO con IO > 40.
+
+**Contenido y transporte de O~2~:**
+- CaO~2~ = Hb × SatO~2~ × 1,39 + PaO~2~ × 0,0031.
+- DO~2~ = CaO~2~ × índice cardiaco.
+
+**Curva de disociación de la hemoglobina:**
+- **A la izquierda** (más afinidad): alcalosis, **hipotermia**, hipocapnia. En la hipotermia terapéutica puede hacer falta más SatO~2~ para la misma PaO~2~.
+- **A la derecha:** acidosis, hipertermia, hipercapnia.
+
+## Ácido-base
+
+- **Gasometría normal:** pH 7,35-7,45; pCO~2~ 35-45 mmHg; bicarbonato 22-26 mEq/l; EB −2 a +2.
+- **Pasos:**
+  1. ¿Acidemia (pH < 7,35) o alcalemia (> 7,45)?
+  2. ¿El problema primario es metabólico (bicarbonato < o > 24) o respiratorio (PaCO~2~ > o < 40)?
+  3. ¿Hay compensación? La respiratoria es inmediata; la renal, lenta. No suele haber sobrecompensación.
+  4. **Anión gap** = Na − (Cl + HCO~3~) (normal aprox. 12): orienta la acidosis metabólica.
+- **Bicarbonato estándar:** componente metabólico. **Exceso de bases:** dosis de bicarbonato = peso × EB × 0,3.
+
+! El déficit de bicarbonato tiene calculadora en Calculadoras y escalas.
+
+## Pulsioximetría
+
+- Continua, sencilla y no invasiva.
+- **SatO~2~ preductal** en la mano o muñeca derecha; posductal en los pies. La diferencia > 10 % sugiere shunt ductal derecha-izquierda.
+- **Limitaciones:**
+  - Pierde sensibilidad < 80 %.
+  - **No detecta la hiperoxemia** (de ahí los rangos con límite superior en prematuros).
+  - Carboxihemoglobina (lectura falsamente alta) y metahemoglobina (falsamente baja).
+  - Artefactos por movimiento o luz.
+  - Baja perfusión.
+- **Cooximetría:** saturación real; detecta metahemoglobinemia (importante con **ONi**) y carboxihemoglobina.
+
+## CO~2~ transcutáneo y capnografía
+
+**pCO~2~ transcutánea:**
+- Sensor caliente a 38-41 °C (42 °C si mide también pO~2~), con calibración periódica.
+- **Buena correlación con pCO~2~ baja o normal; peor con valores altos.**
+- Útil como tendencia en críticos con riesgo de hipo o hiperventilación (VAFO inestable, paso a VAFO) y en VNI.
+- **Riesgo de quemadura en prematuros:** cambiar la posición con frecuencia.
+- Infraestima en zonas mal perfundidas.
+
+**Capnografía:**
+- En el neonato correlaciona peor con la PaCO~2~ (en adultos, PaCO~2~ aprox. PetCO~2~ + 2-6).
+- La de **en línea** aumenta mucho el espacio muerto; la de **en paralelo** altera las medidas. No se usa de rutina en UCIN.
+- **Capnógrafo colorimétrico:** confirma la intubación traqueal. Falsos negativos en parada o hipoventilación.
+- **PetCO~2~ baja:** hiperventilación, bajo gasto o parada, desconexión o fuga, obstrucción del tubo. **Ausente:** intubación esofágica o extubación.
+
+## Ventilación (PaCO~2~)
+
+- **Hipercapnia:** su daño depende del grado, la rapidez y el pH, y empeora si hay HTP o hipertensión intracraneal.
+- **Hipocapnia en el neonato:** leucomalacia y DBP. Evitarla, sobre todo con VAFO y al iniciar la ventilación.

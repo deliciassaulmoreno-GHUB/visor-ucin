@@ -1,0 +1,99 @@
+@f TEMAS/RS/2
+*Fuente principal: Experto en Neonatología, 12.3 «Terapia respiratoria. Asistencia ventilatoria» (Sánchez-Luna). Complementos: Curso de Asistencia Respiratoria Neonatal, tema 10 «Ventilación no invasiva»; Curso de ventilación mecánica, unidad 7 «Ventilación mecánica neonatal».*
+
+## Por qué el soporte no invasivo
+
+La ventilación mecánica invasiva daña el pulmón por varios mecanismos:
+- **Barotrauma:** presiones altas.
+- **Volutrauma:** sobredistensión, incluso con volúmenes bajos en un pulmón parcialmente colapsado.
+- **Atelectrauma:** colapso y reapertura repetidos.
+- **Biotrauma:** mediadores inflamatorios.
+
+Por eso se ha estandarizado la **CPAP nasal precoz** en el distrés y **profiláctica desde el nacimiento** en prematuros. Con CPAP o gafas, **la ventilación la hace el paciente**: necesita un esfuerzo adecuado. En la VNI la eficacia depende además de que la glotis esté abierta.
+
+| Presión continua | Presión discontinua |
+| CPAP de flujo constante (burbuja, respirador) | NIPPV / SNIPPV (sincronizada) |
+| CPAP de flujo variable (Infant Flow, Medijet) | BiPAP / DuoPAP |
+| Gafas de alto flujo | VAF nasal, NAVA no invasiva |
+
+## CPAP nasal
+
+**Efectos:** aumenta la **CRF** y la PaO~2~; reduce la taquipnea, el shunt intrapulmonar y las apneas. Mejora la distensibilidad, estabiliza la pared torácica y la vía aérea, e imita el **quejido** fisiológico.
+
+**Sistemas:**
+- **Burbuja:** la presión se fija por la profundidad del tubo bajo el agua (5 cm = 5 cmH~2~O). Oscilaciones de 2-4 cmH~2~O a 5-20 Hz.
+- **Respirador:** la válvula espiratoria regula la presión. Más fluctuaciones y peor detección del esfuerzo con fugas.
+- **Flujo variable** (Benveniste, Infant Flow): presión más constante y menos trabajo respiratorio.
+- **Interfase:** **cánulas binasales cortas** o mascarilla nasal (alternarlas para cambiar los puntos de apoyo); mejor que el tubo nasofaríngeo.
+- **Cánulas RAM:** solo en situaciones concretas (lesión nasal en el destete), dejando libre un tercio de la narina. Con ellas hay más intubación en prematuros.
+
+**Indicaciones:**
+- Profiláctica al nacer en prematuros.
+- Tratamiento inicial del distrés con estabilidad hemodinámica y buen esfuerzo.
+- Apneas.
+- Tras la extubación.
+- Curso (tema 10 y unidad 7): traqueo-broncomalacia, edema pulmonar, parálisis frénica o eventración.
+
+**Contraindicaciones:** **hernia diafragmática**, malformaciones nasobucales, **apnea central grave**.
+
+**Manejo:**
+- **Presión:** < 5 cmH~2~O es insuficiente; > 8 aumenta el neumotórax (sobre todo sin surfactante) y la distensión abdominal. Empezar con **5-6 cmH~2~O** en muy bajo peso o fase inicial, y **6-8** en los mayores o en el SDR avanzado.
+- **Flujo:** 8-10 l/min (unidad 7: 5-10 l/min, menos cuanto menor peso).
+- **Surfactante** si precisa **FiO~2~ 30 % con CPAP 6-8** para SatO~2~ preductal > 90 %, preferiblemente por **LISA/MIST**.
+- **Cuidados:** permeabilidad de narinas, tamaño correcto de la pieza y del gorro, revisar la piel **cada 2-3 h**, **sonda gástrica abierta**, boca cerrada (fugas).
+- **Objetivos:**
+  - **SatO~2~ 90-95 %**, con alarmas ajustadas.
+  - **PCO~2~ < 65 mmHg con pH > 7,22** los 5 primeros días y **> 7,20** después.
+  - Evitar la **hipocapnia** (riesgo de DBP y leucomalacia).
+- **Destete:** **bajar progresivamente hasta 4 cmH~2~O** y retirar; es mejor que los periodos de retirada. Curso: primero bajar la FiO~2~ al 30 %, luego la presión.
+
+*Tabla 12.3-1. Criterios de intubación (fracaso de la CPAP).*
+| Apneas | > 4 episodios por hora, o > 1 que precise ventilación con presión positiva intermitente |
+| Acidosis respiratoria | pCO~2~ > 65 mmHg y pH < 7,20 (arterial o capilar arterializada) |
+| FiO~2~ | > 50 % en los 3 primeros días tras el surfactante, o > 30 % por encima de la previa a la extubación si > 3 días |
+
+- **Fracasa** en casi el 50 % de < 1.000 g y en el 25-40 % de 1.000-1.500 g. Predictores: **< 750 g, < 26 semanas, FiO~2~ > 30 %**.
+- **Curso (tema 10):** fracaso de la VNI si precisa FiO~2~ 30-50 % con presiones adecuadas, **PaCO~2~ > 60 mmHg** en patología aguda, o apneas graves (reanimación vigorosa o > 3 por hora). **Antes de darla por fracasada, revisar** la posición del cuello, las secreciones, el generador, la interfase y el cierre de la boca.
+
+## Ventilación no invasiva con dos niveles de presión
+
+**NIPPV / SNIPPV:**
+- PIP alta con Ti corto y FR fijada.
+- Aumenta la ventilación, lava el espacio muerto y estimula el centro respiratorio.
+- Frente a la CPAP reduce la intubación inicial, la **reintubación** y las apneas.
+- La **sincronización** (sensor de flujo en la pieza nasal o NAVA; la cápsula de Graseby está en desuso) mejora la transmisión. La SNIPPV reduce la reintubación.
+- **Indicaciones:**
+  - Segunda línea si la CPAP no basta.
+  - Alto riesgo de fracaso: muy inmaduros, distrés grave tras el surfactante, hipoventilación central o neuromuscular.
+  - Extubaciones tras VM prolongada o con parámetros altos.
+
+**BiPAP / DuoPAP:**
+- Dos niveles con diferencia de 4-5 cmH~2~O; recluta y oxigena por la mayor presión media.
+- **Sin beneficio clínico demostrado frente a la CPAP**; menos eficaz que la NIPPV para evitar el fracaso de la extubación.
+
+**VAF nasal y NAVA no invasiva:** en estudio. La VAF nasal no se recomienda fuera de estudios.
+
+*Tabla 12.3-2 y Curso tema 10. Parámetros orientativos.*
+@ancha
+| | CPAP | NIPPV / SNIPPV | BiPAP / DuoPAP (curso) |
+| Presión | 5-8 cmH~2~O | PIP 15-25 cmH~2~O (tras extubar: > 2 cmH~2~O sobre la PIP previa en VMC) | Presión alta 6-10 cmH~2~O (2-4 sobre la PEEP) |
+| PEEP | — | 5-7 cmH~2~O | 4-6 cmH~2~O |
+| FR | — | 15-30 rpm sincronizada (curso: 20-45) | 10-30 rpm |
+| Ti | — | 0,4-0,5 s (Experto: 0,45-0,5) | 0,5-1 s |
+| Flujo | 8-10 l/min | 8-15 l/min (curso) | — |
+| Trigger | — | 0,2-0,4 | Si hay sincronización |
+| FiO~2~ | Para SatO~2~ 90-94 % | Para SatO~2~ 90-94 % | Según objetivo |
+
+- La presión transmitida a la tráquea es mucho menor por las fugas y la nasofaringe: hacen falta más flujo, presiones y Ti que en la ventilación invasiva.
+- **Destete:** bajar FR y PIP hasta CPAP; después bajar la presión hasta 3-4 cmH~2~O y retirar.
+- **Unidad 7:** BiPAP con presión espiratoria 4-8 y alta 6-10 cmH~2~O; N-IPPV con PIP 14-20, PEEP 4-7, Ti 0,3-0,5 s y FR 30-60 rpm.
+
+## Complicaciones
+
+- **Lesiones nasales:** ajuste y revisión de la interfase; buena humidificación.
+- **Obstrucción** por secreciones o agua.
+- **Distensión abdominal:** sonda gástrica.
+- **Escape aéreo:** más relacionado con un SDR grave sin surfactante y con el propio esfuerzo del paciente que con la presión de la CPAP.
+- Retención de CO~2~ con presiones altas (evitar > 8-10 cmH~2~O).
+
+! Ver también Protocolos → 30 (Ventilación no invasiva) y Sociedad Española → 6.1 (Asistencia ventilatoria).

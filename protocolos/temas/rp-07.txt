@@ -1,0 +1,69 @@
+@f TEMAS/RP/7
+*Fuentes: Experto en Neonatología, tema «Displasia broncopulmonar» y tema «Patología respiratoria del recién nacido».*
+
+## Concepto
+
+- Enfermedad pulmonar crónica del prematuro por **disrupción del crecimiento alveolar y vascular** (fase canalicular tardía/sacular) y daño pulmonar. Clínicamente: necesidad de O~2~ o soporte respiratorio a los **28 días** o a las **36 semanas de EPM** con radiografía compatible.
+- La de mayor comorbilidad en el prematuro, incluido el neurodesarrollo. Patrón **mixto** (restrictivo y obstructivo). Fenotipos parenquimatoso, vascular o de vía aérea (malacia); la mayoría mixtos. Un 10 % graves.
+
+## Clasificaciones
+
+**NICHD 2019** (por soporte; mejor predictor a largo plazo). < 32 semanas, con soporte a las 36 semanas de EPM y radiografía compatible:
+| Grado | Soporte a las 36 semanas de EPM |
+| I (leve) | Gafas nasales < 2 l/min |
+| II (moderada) | Alto flujo > 2 l/min, CPAP o NIPPV |
+| III (grave) | Ventilación mecánica |
+
+**Grupo Español / NIH 2001** (por FiO~2~). O~2~ > 21 % durante > 28 días; valoración a las 36 semanas (o al alta) en < 32 semanas, o a los 56 días en ≥ 32 semanas:
+| Grado | A las 36 semanas de EPM |
+| Leve | Aire ambiente |
+| Moderada | FiO~2~ < 0,3 (confirmar con test de reducción de O~2~) |
+| Grave | FiO~2~ > 0,3 y/o presión positiva (VM, CPAP o gafas > 2 l/min) |
+
+- **Test de reducción de O~2~:** supino tras la toma 30 min; registrar FC, FR, SatO~2~, apneas y bradicardias 15 min; bajar FiO~2~ un 2 % cada 5 min (o el flujo 0,1-0,5 l/min) hasta retirarlo y observar 60 min. **Fracaso: SatO~2~ 80-89 % > 5 min o < 80 % > 15 s.** En la grave, hacerlo si SatO~2~ > 96 % con FiO~2~ > 30 %.
+- Un día con O~2~ cuenta si lo recibe ≥ 12 h. Si el soporte a las 36 semanas es por otra causa (apneas, sepsis) no es DBP salvo enfermedad parenquimatosa.
+
+! El texto del Experto escribe «a los > 28 días > 56»; en la clasificación NIH 2001 la valoración en ≥ 32 semanas es a los 56 días de vida.
+
+## Factores de riesgo
+
+**Prematuridad (< 28 semanas)**, CIR, tabaco materno, **ventilación mecánica** (sobre todo volutrauma), **toxicidad del O~2~** (más con O~2~ acumulado las 2 primeras semanas; antioxidantes inmaduros), infección e inflamación (*Ureaplasma*, sepsis por *Candida*; corioamnionitis incierta), ductus (asociación incierta), susceptibilidad genética, déficit tardío de surfactante, **angiogénesis deficiente**. FiO~2~ > 0,25 a las 2 semanas aumenta el riesgo.
+
+## Clínica
+
+- Taquipnea, tiraje, sibilancias; hipoxemia e hipercapnia; volumen corriente bajo, distensibilidad baja y variable, obstrucción intermitente con hiperinsuflación heterogénea; **broncomalacia**.
+- **HTP** por alteración vascular y vasoconstricción hipóxica; edema intersticial.
+- **Radiografía:** opacidad difusa y patrón intersticial grueso; en las graves, hiperinsuflación con **áreas quísticas**.
+
+## Prevención (antes del diagnóstico)
+
+- Corticoides prenatales antes de la semana 34.
+- **Surfactante precoz** si FiO~2~ > 0,30 o según ecografía.
+- Líquidos totales **130-140 ml/kg/día**.
+- SatO~2~ **90-95 %**; pCO~2~ hasta **65 mmHg** las primeras semanas (más después) con **pH > 7,22**.
+- **Priorizar el soporte no invasivo.** Si VM: sincronizada con **volumen garantizado 4-5 ml/kg**, **PEEP 5-7 cmH~2~O**, VAFO de rescate precoz; limitar aspiraciones.
+- **Cafeína precoz.**
+- Vitamina A IM: beneficio a largo plazo no demostrado (algunas unidades en < 1.000 g ventilados).
+- **Corticoides posnatales en la 2.ª-4.ª semana** si está en VM con **FiO~2~ > 0,50**, para extubar.
+- **No recomendados:** óxido nítrico, surfactante tardío, surfactante con esteroides, insuflación mantenida en paritorio.
+
+## Tratamiento de la DBP establecida
+
+- **Nutrición:** **140-150 kcal/kg/día**, proteínas **3,5-4 g/kg/día**; leche materna fortificada de elección.
+- **Restricción hídrica 140-150 ml/kg/día** (110-120 en las graves).
+- **VM en DBP grave:** **Vt altos (7 ml/kg)** por más espacio muerto, **PEEP altas**, **Ti largos y FR bajas**; extubación precoz. SatO~2~ 90-95 % (> 92 % si hay HTP); tolerar pCO~2~ hasta **70 mmHg**.
+- **Diuréticos** si hay soporte respiratorio y edema pese a restringir líquidos: **hidroclorotiazida 3-4 mg/kg/día en 2 dosis ± espironolactona 1-3 mg/kg/24 h**, hasta retirar el soporte (descenso en 3-4 días). **Furosemida 1 mg/kg** en exacerbaciones o tras transfusiones.
+- **Corticoides sistémicos** solo en VM o exacerbaciones.
+- **No recomendados de rutina:** broncodilatadores, corticoides inhalados ni corticoides sistémicos.
+
+## Complicaciones
+
+- Descompensaciones (infección, edema, malposición del tubo, traqueobroncomalacia).
+- **HTP hasta en el 40 %:** ecocardiografías seriadas; **sildenafilo** iniciando con **0,3-0,5 mg/kg/dosis** y hasta **1 mg/kg/dosis cada 6-8 h**; bosentán o prostaciclinas inhaladas.
+- HTA, estenosis de venas pulmonares, sibilancias que no responden a broncodilatadores.
+- **Traqueobroncomalacia** (apneas y bradicardias graves; puede requerir traqueostomía), reflujo, estenosis subglótica, dificultad para la alimentación.
+- Retraso del crecimiento y del neurodesarrollo.
+
+! El Curso de Asistencia Respiratoria (tema 12) da otras dosis de diuréticos: furosemida 0,3-1 mg/kg/día IV o 1-2 mg/kg/día VO; hidroclorotiazida 1-2 mg/kg/día cada 12 h VO; espironolactona 1-3 mg/kg/día VO. Señala que asociar espironolactona a la tiazida no ha mostrado beneficio.
+
+! Protocolos del servicio: 32 (Displasia broncopulmonar) y 47 (Corticoides posnatales para DBP); SENEO 3.26.

@@ -1,0 +1,58 @@
+@f TEMAS/RP/6
+*Fuente principal: Experto en Neonatología, 12.5 «Malformaciones pulmonares y hernia diafragmática» (Pertierra Cortada). Complemento: Curso de Asistencia Respiratoria Neonatal, tema 1.*
+
+## Concepto
+
+- Defecto del diafragma (antes de la semana 8) por el que pasan vísceras abdominales al tórax. Hipótesis del doble golpe: alteración primaria del desarrollo pulmonar bilateral más compresión del pulmón ipsilateral.
+- **95 % posterolaterales (Bochdalek)**, **80 % izquierdas**, 2 % bilaterales. Incidencia 1/2.000-4.000; varones 1,5:1; recurrencia 2 %. **Hasta el 50 % con otras anomalías** (cromosomopatías, cardiopatías, tubo neural, renales, digestivas). Mortalidad 25-74 % según la serie.
+- **Determinantes:** **hipoplasia pulmonar** (parénquima y vasos) e **hipertensión pulmonar** (menos vasos, hipertrofia de la media) y **disfunción ventricular**. No hay déficit de surfactante. La hipoxemia por HTP no se corrige aumentando el soporte respiratorio (curso).
+
+## Prenatal
+
+- Diagnóstico diferencial con MCAP, secuestro, eventración, quistes, teratoma, atresia bronquial, agenesia.
+- **Peor pronóstico:** diagnóstico < 24 semanas; polihidramnios; malformaciones o cromosomopatías asociadas; **LHR < 1 o LHR O/E < 30 %** (pulmón contralateral/perímetro craneal, observado/esperado); **hígado intratorácico**; masa del VI < 2 g/kg.
+- **Oclusión traqueal fetal (FETO/PLUG):** balón por fetoscopia 3-4 semanas para estimular el crecimiento pulmonar; si no se retira antes del parto, EXIT. En HDC graves (compasivo) y moderadas (ensayos). Complicación principal: rotura de membranas (30-35 % antes de 32 semanas) y prematuridad.
+- **Parto:** a término si es posible, en **centro de referencia con ECMO**; vía según criterios obstétricos; corticoides si < 34 semanas.
+
+## Clínica y factores pronósticos posnatales
+
+- Dificultad respiratoria precoz, cianosis, **abdomen excavado**, hipoventilación del hemitórax afectado, **tonos desplazados** al lado contrario.
+- Mal pronóstico: HTP (presencia y gravedad), bajo peso y prematuridad, Apgar bajo a los 5 min, **IO > 20-40** en tres determinaciones, PaO~2~/FiO~2~ ≤ 300.
+
+## Sala de partos
+
+- **Intubación electiva. No ventilar con bolsa y mascarilla** (distiende estómago e intestino).
+- **Sonda orogástrica** lo más gruesa posible, con cuidado; aspiración.
+- Parámetros mínimos para expansión torácica: **PIP < 25 cmH~2~O**, FR altas, **volumen corriente inicial 4 ml/kg**.
+- **FiO~2~ inicial 0,3**, mínima para **SatO~2~ preductal ≥ 85 %**.
+
+## UCIN
+
+- **Monitorización:** vías centrales, **TA invasiva**, sondaje vesical, **SatO~2~ pre y posductal**; antibioterapia individualizada; **ecocardiografía** (cardiopatía y HTP); ecografía cerebral y abdominal; cariotipo y array-CGH; radiografía de tórax y abdomen.
+- **Respiratorio:**
+  - Ventilación protectora: picos bajos, volúmenes bajos, **FR 40-60**; mantener la respiración espontánea si no interfiere.
+  - Objetivos: **SatO~2~ preductal ≥ 90 %** y **hipercapnia permisiva (pH ≥ 7,20 con PCO~2~ ≤ 65 mmHg)**.
+  - Si no se alcanzan con FiO~2~ 1 (IO > 20) y PIP > 25: **VAFO** (MAP 13-17 cmH~2~O, 10 Hz, Δp 30-50 cmH~2~O).
+  - Evitar el aumento excesivo de la presión media (sobredistensión y aire ectópico) (curso).
+- **HTP:** evitar hipoxia, acidosis, dolor, estrés e hipotermia. **Óxido nítrico** si IO > 20-25 o diferencia de SatO~2~ pre-posductal > 10 %. Si persiste: reabrir el ductus u otros vasodilatadores. **Prostaglandinas** si hay HTP suprasistémica con shunt derecha-izquierda por el foramen oval y disfunción del VD.
+- **Hemodinámico:** ecocardiografía en las primeras horas y seriada; volumen 10-20 ml/kg de suero fisiológico si hay hipovolemia; vasoactivos si precisa.
+- **Digestivo:** dieta absoluta; sonda orogástrica en aspiración continua (3-5 cmH~2~O) o intermitente cada 2 h; nutrición parenteral; antirreflujo; enemas para reducir el volumen abdominal antes de la cirugía.
+- **Neurológico:** sedoanalgesia según escala de confort; relajación solo en HTP muy grave con inestabilidad.
+- **Cirugía:** **diferida**, cuando esté estable, con gases correctos y HTP controlada (shunt ductal izquierda-derecha o bidireccional). Laparotomía habitualmente (laparoscopia en seleccionados). Puede hacerse en ECMO o tras la decanulación. Complicaciones precoces: HTP suprasistémica persistente, **quilotórax**, hemorragia, infección.
+
+*Tabla 12.5-2. Criterios internacionales de entrada en ECMO.*
+- Imposibilidad de mantener SatO~2~ preductal > 85 % o posductal > 70 %.
+- PaCO~2~ elevada con pH < 7,15 pese a optimizar la ventilación.
+- PIP > 28 o MAP > 17 cmH~2~O para SatO~2~ > 85 %.
+- Acidosis metabólica (pH < 7,15) con lactato ≥ 5 mmol/l.
+- Hipotensión refractaria a fluidos e inotrópicos con oliguria 12-24 h.
+- IO > 40 o diferencia alveoloarterial > 600 durante ≥ 3 h.
+- **Requisitos:** EG ≥ 34 semanas y peso ≥ 2.000 g; sin coagulopatía ni sangrado incontrolado; sin hemorragia intracraneal de alto grado; sin otras anomalías letales.
+
+! En la tabla del libro el pH de la acidosis metabólica figura como «< 7-15»; se interpreta como < 7,15.
+
+## Seguimiento
+
+Morbilidad tardía alta (seguimiento multidisciplinar): reflujo, obstrucción por bridas, vólvulo, aversión oral, mal medro; reherniación, enfermedad pulmonar crónica, HTP persistente; deformidades torácicas y espinales; retraso del neurodesarrollo y problemas de conducta; más riesgo si precisaron ECMO.
+
+! Ver también Protocolos → Sociedad Española → 3.25, y la sección ECMO de Hemodinámica.

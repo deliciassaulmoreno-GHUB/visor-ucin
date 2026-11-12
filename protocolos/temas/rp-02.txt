@@ -1,0 +1,53 @@
+@f TEMAS/RP/2
+*Fuentes: Experto en Neonatología, 5.2 «Patología respiratoria del prematuro» (Elorza) y tema «Enfermedad por déficit de surfactante» (basado en la Guía Europea de SDR 2022).*
+
+## Concepto e incidencia
+
+- **Síndrome de distrés respiratorio (SDR) o enfermedad de membrana hialina:** dificultad respiratoria por **déficit de surfactante** en un pulmón inmaduro. Principal patología respiratoria del prematuro.
+- Incidencia: 0,5 % de RN vivos, **15 % de < 37 semanas y > 50 % de < 28 semanas**. La CPAP precoz y el surfactante han cambiado su presentación y su diagnóstico.
+- El RN con SDR tiene **< 10 mg/kg** de surfactante almacenado frente a unos 100 en el RN a término.
+
+## Fisiopatología
+
+- Déficit primario de síntesis (inmadurez, hipoxia, acidosis, diabetes materna), surfactante menos activo o **inactivación** (edema, infección, meconio, VM).
+- ↑ tensión superficial → alveolos inestables → **atelectasia**, ↓ CRF y ↓ distensibilidad, ↑ trabajo respiratorio (caja torácica muy distensible); edema y exudado de fibrina → **membranas hialinas**. Patrón **restrictivo**: constante de tiempo corta.
+- Alteración V/Q con hipoxemia e hipercapnia → acidosis mixta → ↑ RVP y **shunt derecha-izquierda** por ductus y foramen oval → más hipoxemia.
+- **Factores de riesgo:** prematuridad, hipoxia/asfixia, hipotermia, **diabetes materna**, **cesárea sin trabajo de parto**, segundo gemelo, varón, hermano con SDR. La **corioamnionitis** puede aumentar el riesgo de SDR, empeorar la respuesta al surfactante y aumentar la DBP.
+
+## Clínica y diagnóstico
+
+- Dificultad respiratoria **desde el nacimiento**, creciente en las **primeras 48-60 h**: polipnea > 70-80 rpm, **quejido**, aleteo, tiraje, disociación toracoabdominal, cianosis; hipoventilación bilateral simétrica. Hipoxemia progresiva; hipercapnia más tardía (precoz si es grave).
+- Sin complicaciones (neumotórax, ductus, infección), mejora **desde el 3.^er^ día** y desaparece a los 5-7 días; el surfactante acorta y suaviza el curso.
+- **Radiografía:** **volumen pulmonar disminuido** (diafragmas por encima del 8.º espacio), patrón **reticulogranular difuso en vidrio esmerilado** y **broncograma aéreo**; en los graves, pulmón blanco sin distinción de la silueta cardiaca.
+- **Ecografía pulmonar:** la puntuación **LUS** predice la necesidad de surfactante (protocolo ESTHER: **LUS > 8**).
+- Diagnóstico diferencial: hipoplasia pulmonar, HTPP, neumonía, TTRN, apnea o esfuerzo respiratorio pobre.
+
+## Prevención y manejo inicial
+
+- **Prenatal:** traslado a centro con UCIN si hay riesgo de parto **< 28-30 semanas**; **corticoides prenatales** en partos viables previstos **< 34 semanas** (máximo efecto a las 24 h; útiles aunque el parto ocurra antes) y repetir ciclo si < 32 semanas y el previo fue hace > 1-2 semanas; **sulfato de magnesio** si parto inminente < 32 semanas; tocolisis corta para completar la maduración.
+- **Sala de partos:** ambiente térmico (bolsa de polietileno, sala > 26 °C, gases humidificados); **pinzamiento del cordón ≥ 60 s** si lo tolera; **CPAP 5-8 cmH~2~O inmediata** en **< 30 semanas** con FC > 100 y respiración espontánea (y en ≥ 30 semanas con distrés); si hace falta presión positiva, **pieza en T** con PIP 20-25 y PEEP 5 cmH~2~O; FiO~2~ inicial **0,3 en < 28 semanas, 0,21-0,3 en 28-30, 0,21 en > 30**, ajustando a **SatO~2~ 90-94 %**; intubar solo si no responde y dar **surfactante a todo intubado**.
+- **En la unidad:**
+  - **Cafeína** en < 32 semanas o mayores con soporte: carga **20 mg/kg de citrato de cafeína**, mantenimiento **5-10 mg/kg/24 h**.
+  - Líquidos IV **80 ml/kg/día** al nacer con restricción de sodio las primeras 48 h.
+  - Nutrición parenteral inmediata (aminoácidos 1,5-2 → 2,5-3,5 g/kg/día; lípidos 1 → 4 g/kg/día) y trófica con leche materna en las primeras 24 h.
+  - Temperatura 36,5-37,5 °C; soporte hemodinámico si hay acidosis, mala perfusión u oliguria.
+  - **Hemoglobina:** transfundir si < 12 g/dl en distrés grave, < 11 si depende de O~2~, < 7 si está estable con > 2 semanas.
+  - Antibióticos racionales (suspender si se descarta sepsis).
+
+! Elorza (5.2) da otros objetivos: líquidos 70 ml/kg (90-100 en muy inmaduros), hemoglobina 12 g/dl la 1.ª semana, 11 la 2.ª y 9 después, y hematocrito > 40 %.
+
+## Surfactante
+
+- **Rescate precoz** (preferido desde 2013 frente al profiláctico): **FiO~2~ > 0,3 con CPAP ≥ 6 cmH~2~O** (umbral menor en los más inmaduros) o según **LUS**. Profiláctico en los intubados para estabilizar. Segunda o tercera dosis si persiste.
+- **LISA** (catéter fino entre las cuerdas con respiración espontánea en CPAP): de elección si hay experiencia; reduce intubación, HIV y muerte o DBP frente al **INSURE** (intubar, dar surfactante y extubar rápido). Si se da intubado, extubar lo antes posible. Mascarilla laríngea posible en > 1 kg (Guía Europea 2022); nebulizado en estudio.
+- **Dosis:** **poractant alfa (Curosurf®) 200 mg/kg**, repetible a 100 mg/kg cada 12 h (el más eficaz; 200 mejor que 100 mg/kg); beractant (Survanta®) 100 mg/kg cada 6 h; bovactant (Alveofact®) 50 mg/kg.
+- **Tras administrarlo:** mejora la distensibilidad (riesgo de sobredistensión), recluta (riesgo de **hiperoxia**) y alarga la constante de tiempo (atrapamiento si la FR es alta): vigilar expansión torácica, PaCO~2~ y TA y **bajar parámetros**.
+
+## Soporte respiratorio (resumen)
+
+- **CPAP nasal** con gas calentado y humidificado, **5-8 cmH~2~O** (Elorza: empezar con 5-6 y hasta 8), interfaz de cánulas binasales cortas o mascarilla. La **NIPPV sincronizada** es la mejor alternativa para evitar VM y reintubación. Alto flujo no como primera opción en prematuros (sí en el destete, 2-8 l/min).
+- **Objetivo de SatO~2~ 90-94 %** (alarmas 89-95 %).
+- **Intubación y VM** si: PaO~2~ < 50-60 mmHg con FiO~2~ ≥ 0,6; PaO~2~ < 60 con FiO~2~ > 0,4 en < 1.250 g; **PaCO~2~ > 65 con pH < 7,25**; apnea o fracaso de la VNI. (Elorza: FiO~2~ > 0,45-0,5 para SatO~2~ 88-92 %, pH < 7,25 y pCO~2~ > 60.) Pulmón abierto, **volumen garantizado**, Ti cortos y FR altas (constante de tiempo corta), hipercapnia permisiva moderada (pH > 7,22), extubación precoz.
+- La VAFO no es superior de entrada; se reserva como rescate.
+
+! El detalle de cada modalidad está en la pestaña «Soporte respiratorio». Ver también Protocolos → 31 (Administración de surfactante), 30 (VNI) y SENEO 3.21 y 6.4 (LISA).

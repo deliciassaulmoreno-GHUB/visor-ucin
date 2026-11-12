@@ -1,0 +1,31 @@
+@f TEMAS/RF/1
+*Fuentes: Experto en Neonatología, tema «El desarrollo, embriología, anatomía y fisiología pulmonar»; Curso de Asistencia Respiratoria Neonatal, tema 1 (Fisiología y fisiopatología respiratoria del RN); Tardío Torío y Sánchez Sánchez, «Desarrollo embriológico, anatomía y fisiología del aparato respiratorio».*
+
+## Leyes del desarrollo pulmonar
+
+- El **árbol bronquial** completa su desarrollo hacia la **semana 16**.
+- Los vasos preacinares siguen el desarrollo de las vías aéreas; los intraacinares, el de los alveolos.
+- Alrededor del **95 % de los alveolos se forman después del nacimiento** (su número aumenta hasta los 8 años; el pulmón crece hasta los 18-20).
+- Del **endodermo** derivan el epitelio y las glándulas de laringe, tráquea y bronquios; del **mesodermo**, cartílago, músculo, tejido conjuntivo, capilares y pleura visceral.
+
+## Fases del desarrollo
+
+| Fase | Semanas | Acontecimientos |
+| **Embrionaria** (organogénesis) | 4-8 (vasculogénesis < 6) | Yema endodérmica del intestino anterior a los 22 días; tráquea y bronquios principales a las 5 semanas (el derecho, más vertical y grueso); conexión de vasos pulmonares con el corazón a la 6.ª; esbozo de arterias pulmonares del 6.º arco aórtico |
+| **Pseudoglandular** | 5-17 (6-16) | Vía aérea de conducción hasta los bronquiolos terminales (completa a la semana 16); músculo liso, glándulas, cartílago; arterias pulmonares que siguen a los bronquios. Inviable |
+| **Canalicular** | 16-28 (16-24) | Bronquiolos respiratorios y red capilar; diferenciación de **neumocitos I y II** (20-24 semanas); circulación pulmonar distal a las 20-22 semanas: el intercambio gaseoso empieza a ser posible |
+| **Sacular** | 24-36 (26-36) | Sáculos terminales; maduran los neumocitos II e **inicia la síntesis de surfactante (aprox. 24 semanas)**; adelgaza la barrera alveolocapilar; doble red capilar en los septos |
+| **Alveolar** | Desde 32-34 semanas hasta los 2-3 años (o más) | Septación alveolar y fusión de la red capilar; continúa en la infancia |
+
+! Los intervalos de semanas difieren entre fuentes (el curso da pseudoglandular 6-16, canalicular 16-24, sacular 24-36 y alveolar hasta 2-3 años; Tardío y Sánchez, 5-17, 16-28 y 26-36; el Experto sitúa el inicio de la fase alveolar en 32-34 semanas). Se dan los dos rangos.
+
+## Otros hitos
+
+- **Líquido pulmonar fetal:** se produce desde la **6.ª semana**, aumenta progresivamente hasta unos días antes del parto; con los movimientos respiratorios fetales es imprescindible para el desarrollo de los espacios aéreos. **Un oligohidramnios precoz e intenso (sobre todo en la fase canalicular) causa hipoplasia pulmonar.**
+- **Músculo liso arterial pulmonar:** se desarrolla sobre todo **a partir de la semana 34**.
+- **Ausencia de alveolos verdaderos hasta la semana 34** (curso).
+
+## Células alveolares
+
+- **Neumocito I:** cubre el **95 %** de la superficie alveolar; citoplasma muy fino para el intercambio; no se divide (procede de los neumocitos II).
+- **Neumocito II:** la mayoría de las células alveolares pero solo el **5 %** de la superficie; **sintetiza y secreta el surfactante** (cuerpos lamelares) y regenera el epitelio.

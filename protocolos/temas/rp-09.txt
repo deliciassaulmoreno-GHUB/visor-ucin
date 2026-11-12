@@ -1,0 +1,82 @@
+@f TEMAS/RP/9
+*Fuente: Experto en Neonatología, 12.6 «Hipertensión pulmonar persistente neonatal» (Álvaro y Dakshinamurti).*
+
+## Concepto
+
+- **HPPN:** fallo de la relajación vascular pulmonar normal tras el nacimiento. Vasoconstricción pulmonar grave con **shunt derecha-izquierda** (ductus, foramen oval) e hipoxemia. Precipitantes: hipoxia perinatal, aspiración meconial, hipoplasia pulmonar, sepsis o inflamación.
+- Incidencia **1-6/1.000** nacidos vivos (hasta el 10 % de los ingresos en UCIN), sobre todo **prematuros tardíos y a término**.
+
+## Clasificación (Rudolph)
+
+| Grupo | Mecanismo | Ejemplos |
+| **Subdesarrollo** | Lecho vascular reducido, más reactivo a la hipoxia | Hipoplasia pulmonar: **hernia diafragmática**, masas torácicas, oligohidramnios crónico |
+| **Desarrollo anormal** | Exceso de muscularización (remodelado) | Hipoxia fetal crónica (insuficiencia placentaria, CIR), **cierre ductal intraútero por AINE**, cardiopatías (interrupción del arco) |
+| **Adaptación anormal** (**80-90 %**) | Vasoconstricción sin descenso de la RVP al nacer | Asfixia, depresión respiratoria, **aspiración meconial**, EMH, **sepsis por estreptococo**; pocos idiopáticos |
+
+- **Aguda:** transición anormal en el periodo neonatal inmediato.
+- **Crónica:** aumento secundario de la RVP tras una transición normal; prematuros con enfermedad pulmonar crónica (ver «Displasia broncopulmonar»).
+
+## Hemodinámica
+
+- La RVP alta sobrecarga el **VD**; empeoran su función: hipovolemia, **presión media de la vía aérea elevada**, asfixia, infección y fármacos (milrinona baja la precarga; dosis altas de adrenalina o dopamina suben la poscarga).
+- Menos precarga del **VI**; el VD dilatado desplaza el septo a la izquierda y limita su llenado.
+- Los shunts por ductus y foramen oval descargan el VD y mantienen la precarga del VI, pero agravan la hipoxemia.
+
+## Clínica y diagnóstico
+
+- **Hipoxemia grave en las primeras horas**; soplo de insuficiencia tricuspídea y 2.º ruido reforzado. Pruebas iniciales: **radiografía de tórax y gasometría arterial**.
+- **Datos sugestivos:**
+  - **Índice de oxigenación (IO) > 15** tras optimizar el soporte respiratorio. IO = MAP × FiO~2~ × 100 / PaO~2~.
+  - Hipoxemia **desproporcionada** a la dificultad respiratoria y a la patología pulmonar.
+  - **Labilidad**: desaturación y cianosis con la manipulación.
+  - **Diferencia de SatO~2~ preductal (mano derecha) − posductal (pies) > 10 %.** Su ausencia no la descarta (shunt auricular o ductus cerrado). Las cardiopatías izquierdas (coartación, interrupción del arco, corazón izquierdo hipoplásico) pueden simularla y empeoran al bajar la RVP.
+- **Ecocardiografía (patrón oro):** descarta cardiopatía estructural.
+  - Velocidad pico de la **insuficiencia tricuspídea** (presión sistólica pulmonar por Bernoulli).
+  - **Shunt derecha-izquierda** ductal o auricular.
+  - **Septo** aplanado o abombado hacia la izquierda al final de la sístole.
+  - Hipertrofia del VD.
+  - **Tiempo de aceleración pulmonar < 90 ms**.
+  - La disfunción grave del VD puede infraestimar la presión.
+
+## Tratamiento
+
+**General**
+- Temperatura normal; corregir hipoglucemia, hipocalcemia, acidosis y policitemia; volumen intravascular adecuado; evitar hipoxemia e hipercapnia.
+- **Accesos venoso y arterial** seguros.
+- **Mínima manipulación**; sedoanalgesia juiciosa.
+
+**Oxigenación**
+- Evitar hipoxia e hiperoxia: la RVP sube de forma exponencial con PO~2~ < 50 mmHg; la hiperoxia aumenta la vasoconstricción y reduce la respuesta al óxido nítrico.
+- Objetivo: **PaO~2~ 50-80 mmHg**, **SatO~2~ preductal 90-97 %** y **posductal > 70 %** sin acidosis láctica.
+- En **hipotermia terapéutica**: preductal **95-98 %** (desviación de la curva de disociación).
+
+**Ventilación**
+- **Volumen pulmonar óptimo**: tanto la sobredistensión como el colapso aumentan la RVP.
+- **PCO~2~ 35-60 mmHg**: < 35 sube la RVP, baja la perfusión cerebral y se asocia a hipoacusia; > 60 también sube la RVP.
+- **VAFO**: alcanza los objetivos con volúmenes pequeños.
+- **Surfactante** si hay enfermedad parenquimatosa (EMH, SAM); puede reducir la ECMO.
+- Seguimiento con radiografía, gases, SatO~2~ pre y posductal e **IO**.
+
+**Soporte cardiovascular** (según la TA sistémica)
+- Corregir la hipovolemia sin sobrecargar el VD.
+- **TA normal:** **dobutamina** de primera línea.
+- **Milrinona:** vasodilatación pulmonar y mejora diastólica; útil con óxido nítrico; de elección si hay **disfunción del VI**; limitada por la hipotensión.
+- **TA baja:** adrenalina o dopamina (pueden reducir los flujos pulmonar y sistémico). **Noradrenalina** y **vasopresina a dosis bajas** reducen el cociente presión pulmonar/sistémica.
+- **PGE1 a dosis baja** si hay bajo gasto con ductus cerrado o pequeño.
+
+**Óxido nítrico inhalado (ONi):** vasodilatador selectivo de los alveolos ventilados; mejora la V/Q y la oxigenación, reduce la ECMO y la mortalidad en > 34 semanas.
+- **Primera línea con IO 15-40.** **Dosis inicial 20 ppm.**
+- Descenso de **5 ppm cada 4-6 h** con el paciente estable; suspender desde **1-2 ppm** (rebote).
+- Responden aprox. el **60 %**; un **30-40 % no responde**: revisar la ecocardiografía, el reclutamiento, la estenosis de venas pulmonares, la cardiopatía izquierda ductus-dependiente, una RVS baja (malformación arteriovenosa) y la función ventricular.
+- En la **hernia diafragmática** no ha reducido la mortalidad ni la ECMO.
+
+**Alternativas al ONi**
+- **Sildenafilo** (inhibidor de PDE5; sistémico, puede empeorar la V/Q): reduce la mortalidad donde no hay ONi, VAFO ni ECMO. Efectos adversos: hipotensión, visuales, neurológicos y digestivos; sin relación con la ROP. **No sustituye el traslado** a un centro con esas terapias.
+- **Milrinona:** sin ensayos controlados en HPPN.
+- **Prostaciclinas** (iloprost inhalado): opción en la HPPN que no responde al ONi; las sistémicas producen hipotensión.
+
+**ECMO:** generalmente con **IO > 40** (criterio de Bartlett: mortalidad ≥ 80 %). Aumenta la supervivencia sin más discapacidad grave; riesgos: hemorragia intracraneal, ligadura carotídea.
+
+**Terapias emergentes, sin evidencia en neonatos:** bosentán (sin beneficio como adyuvante en un ensayo), L-arginina y L-citrulina, riociguat y cinaciguat, fasudil, antioxidantes, adenosina.
+
+! La HTP asociada a la DBP está en «Displasia broncopulmonar», y la HTP en cardiopatías en Hemodinámica → «Otras patologías». Ver también Protocolos → Sociedad Española → 3.24 (HTPP).

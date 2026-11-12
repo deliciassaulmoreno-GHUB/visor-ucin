@@ -1,0 +1,144 @@
+@f TEMAS/RR/1
+*Fuentes:*
+- *Curso de Asistencia Respiratoria Neonatal, tema 6 «Reanimación neonatal» y tema 7 «Reanimación del prematuro de bajo peso»; ambos resumen la Guía española de estabilización y reanimación neonatal 2021 (GRN-SENeo), la AHA 2020 y la ERC 2021.*
+- *European Resuscitation Council Guidelines 2021: Newborn resuscitation and support of transition of infants at birth (Madar et al.).*
+
+## Preparación
+
+- Unos **9 de cada 10** RN a término no precisan ayuda; **1 de cada 10** necesita algún apoyo en la transición.
+- En **cada nacimiento**, al menos una persona capaz de iniciar la **ventilación con presión positiva**, dedicada solo al RN.
+- **Antes del parto:** comprobar el material, asignar los roles (*briefing* con listas de verificación) y, después, *debriefing*.
+- Si el tiempo lo permite, hablar con los padres y trasladar a la madre a un centro perinatal.
+- **Secuencia:**
+  1. Estabilización inicial: calor, secar, estimular, posicionar y abrir la vía aérea si hace falta.
+  2. Ventilación y oxigenación.
+  3. Compresiones torácicas.
+  4. Adrenalina y/o volumen.
+
+## Temperatura
+
+- Mantener **36,5-37,5 °C**; registrar la temperatura al ingreso (indicador pronóstico y de calidad). Evitar ≤ 36,0 °C y > 38,0 °C.
+- **Sala a 23-25 °C** (ERC), sin corrientes; **> 25 °C en los de 28 semanas o menos**.
+- **Término:** secar, cubrir con paño seco y caliente, y **piel con piel** si está bien.
+- **< 32 semanas y/o < 1.500 g:** **envoltura o bolsa de polietileno sin secar**, que se mantiene hasta el ingreso en la UCIN. Cuna de calor radiante servocontrolada a 36,5 °C y colchón térmico.
+
+## Cordón umbilical
+
+- **Pinzamiento tardío ≥ 60 s** en término y pretérmino de cualquier EG que **no precisen reanimación inmediata**, idealmente tras airear el pulmón.
+- Si precisa reanimación: individualizar, **sin retrasar la ventilación**. Se puede reanimar con el cordón íntegro si hay consenso y seguridad.
+- **Ordeño del cordón: no recomendado; desaconsejado en < 28 semanas** (más hemorragia intraventricular).
+
+## Vía aérea y meconio
+
+- **Aspirar solo si hay obstrucción** confirmada, bajo visión directa.
+- **RN no vigoroso con líquido meconial:** no aspirar de rutina; **ventilar cuanto antes**. Si no se consigue airear, inspeccionar y aspirar bajo visión directa; rara vez intubar para aspirar la tráquea.
+
+## Ventilación con presión positiva
+
+- **Iniciarla en el primer minuto** (minuto de oro) si está en **apnea, *gasping* o con FC < 100 lpm**.
+- Mascarilla del tamaño adecuado con buen sellado.
+- Usar **pieza en T o respirador con control de presión**. La bolsa autoinflable sistemática se considera obsoleta; si se usa, con válvula limitadora.
+- Gas caliente y humidificado.
+- **Pulsioximetría preductal** (mano o muñeca derecha) y, mejor, **ECG de 3 derivaciones** para la FC.
+
+*Parámetros (Guía española 2021, curso).*
+| | Término | Pretérmino |
+| PIP inicial | 25-30 cmH~2~O | 20-25 cmH~2~O |
+| PEEP | 5-7 cmH~2~O | 5-7 cmH~2~O |
+| FR | 40-60 rpm, Ti < 1 s | 40-60 rpm, Ti < 1 s |
+
+- **ERC 2021:**
+  - **5 insuflaciones iniciales de 2-3 s** con 30 cmH~2~O en el término (25 en ≤ 32 semanas).
+  - Después unas **30 rpm** con Ti < 1 s.
+  - Si hay monitor de función respiratoria, Vt espirado aprox. **5-8 ml/kg**.
+- **Insuflación sostenida (> 1 s, hasta 15-20 s): no recomendada.** No reduce mortalidad, intubación ni DBP, y se asoció a más mortalidad en las primeras 48 h.
+- **Indicador principal de eficacia: el ascenso de la FC** (en 30 s); también el movimiento torácico.
+- **Reevaluar cada 30 s.**
+
+**Si no responde** (corregir la técnica antes de escalar):
+- Ajustar la mascarilla y el sellado; sujeción a dos manos.
+- Recolocar la cabeza; abrir la boca y adelantar la mandíbula.
+- Aspirar boca y nariz si hace falta.
+- **Subir la presión de 5 en 5 o de 10 en 10 cmH~2~O.**
+- Si persiste: **intubación o mascarilla laríngea**.
+
+! La ERC 2021 propone unas 30 rpm tras las insuflaciones iniciales; la Guía española 2021, recogida en el curso, 40-60 rpm.
+
+## Oxígeno
+
+**FiO~2~ inicial:**
+| EG | Guía española 2021 / curso | ERC 2021 |
+| ≥ 35 semanas | 0,21 | 0,21 |
+| 30-34 semanas | 0,21 | 0,21 (≥ 32); 0,21-0,30 (28-31) |
+| < 30 semanas | 0,21 sin distrés; **0,30 con distrés** | 0,21-0,30 (28-31 semanas) |
+| < 28 semanas | Considerar **0,30-0,40** | 0,30 |
+| Con compresiones | **1,0** | 1,0 |
+
+- Mezclador y pulsioxímetro en la sala de partos. Revisar cada 30 s y **titular para evitar hipoxia e hiperoxia** (bajar la FiO~2~ si la SatO~2~ > 95 % en prematuros).
+- **SatO~2~ preductal objetivo** (Dawson): aprox. **65 % a los 2 min, 85 % a los 5 min y ≥ 90 % a los 10 min**.
+- **< 32 semanas:** evitar SatO~2~ < 80 % y bradicardia a los 5 min; se asocian a HIV y mortalidad (estudio To2rpido).
+- En ≥ 35 semanas, la FiO~2~ 0,21 frente a 1,0 reduce la mortalidad (ILCOR).
+
+## Intubación y mascarilla laríngea
+
+**Intubar si:**
+- Ventilación ineficaz pese a corregir la técnica.
+- Ventilación prolongada.
+- Obstrucción traqueal.
+- **Compresiones torácicas.**
+- Situaciones especiales (hernia diafragmática, surfactante).
+
+**Confirmación:** **CO~2~ espirado** (detector colorimétrico); el videolaringoscopio ayuda; radiografía si se mantiene.
+
+*Tabla 1 (ERC 2021). Tubo orotraqueal según EG (nasotraqueal: + 1 cm).*
+| EG (semanas) | Longitud en el labio (cm) | Diámetro interno (mm) |
+| 23-24 | 5,5 | 2,5 |
+| 25-26 | 6,0 | 2,5 |
+| 27-29 | 6,5 | 2,5 |
+| 30-32 | 7,0 | 3,0 |
+| 33-34 | 7,5 | 3,0 |
+| 35-37 | 8,0 | 3,5 |
+| 38-40 | 8,5 | 3,5 |
+| 41-43 | 9,0 | 4,0 |
+
+- **Mascarilla laríngea:** en **> 34 semanas** (> 1.500-2.000 g) si falla la ventilación con mascarilla facial o no se puede intubar. Requiere entrenamiento.
+
+## Compresiones torácicas
+
+- **FC < 60 lpm tras 30 s de ventilación eficaz.**
+- **3 compresiones : 1 ventilación** (unos 15 ciclos cada 30 s), **técnica de los dos pulgares** abrazando el tórax.
+- **FiO~2~ 1,0**, intubar y preparar la vena umbilical.
+- Reevaluar cada 30 s.
+
+## Accesos y fármacos
+
+- **Vena umbilical de elección** (sistema cerrado para evitar la embolia gaseosa; aspirar sangre antes de infundir). **Intraósea** como alternativa.
+- **Adrenalina** si FC < 60 lpm pese a 30 s de ventilación eficaz y compresiones:
+  - **IV o IO: 10-30 µg/kg** (**0,1-0,3 ml/kg de la dilución 1:10.000**, 0,1 mg/ml).
+  - **Endotraqueal** si no hay otro acceso: **50-100 µg/kg**.
+  - Repetir **cada 3-5 min**.
+- **Volumen:** **10 ml/kg** de suero salino isotónico o sangre O Rh negativo si hay sospecha de pérdida o shock.
+- **Glucosa** en la reanimación prolongada: **250 mg/kg (2,5 ml/kg de glucosa al 10 %)**.
+- **Bicarbonato** (ERC; reanimación prolongada sin respuesta con ventilación adecuada): 1-2 mmol/kg (2-4 ml/kg de bicarbonato al 4,2 %), IV lento.
+- **Naloxona** (ERC): 200 µg IM en apnea persistente con buen gasto si hubo opiáceos maternos (efecto transitorio).
+- **Si no responde:** pensar en neumotórax, hipovolemia, malformaciones o fallo del equipo.
+
+## Tras la reanimación
+
+- Monitorización estrecha.
+- **Glucemia** (evitar hipo e hiperglucemia y oscilaciones).
+- Temperatura 36,5-37,5 °C.
+- **Hipotermia terapéutica (33-34 °C)** si hay riesgo de EHI moderada o grave. En nuestro medio se aplica desde > 35 semanas, y en > 34 semanas de forma individualizada.
+
+## Aspectos éticos
+
+- **Presencia de los padres** si es posible, con información.
+- **Suspender la reanimación** tras unos **20 min sin latido**, individualizando.
+- **Límites de viabilidad (Guía 2021):**
+  - **22+0 a 22+6 semanas: paliativo** (salvo petición expresa cerca de las 23 semanas en gestaciones normales).
+  - **23+0 a 23+6: zona gris**, decisión conjunta con los padres.
+  - **Desde 24 semanas: activo.**
+  - Corticoides y traslado materno a un tercer nivel en toda amenaza de parto prematuro desde las 22 semanas.
+- **Formación** con simulación, con reciclaje como máximo cada 2 años (idealmente cada año).
+
+! Ver también Protocolos → Sociedad Española → 2.8 (Reanimación en paritorio. Muerte súbita neonatal).

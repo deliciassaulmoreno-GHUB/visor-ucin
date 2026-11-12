@@ -1,0 +1,81 @@
+@f TEMAS/RM/2
+*Fuentes:*
+- *Curso de ventilación mecánica: «Curvas de función respiratoria» (UCIP HGU Gregorio Marañón) y López-Herce, «Monitorización de la función respiratoria II» (An Pediatr 2003).*
+- *Experto en Neonatología, 12.3.*
+- *Curso de Asistencia Respiratoria Neonatal, tema 3.*
+
+## Qué monitoriza el respirador
+
+- **Ventilación invasiva:**
+  - Apnea; curvas de presión, volumen y flujo, y bucle volumen-presión.
+  - **Vt y volumen minuto espirados**; PEEP, PIP, frecuencia, FiO~2~ y **fuga**.
+  - **C20/C**, distensibilidad dinámica y resistencia.
+  - En VAFO: Vt, PMA y DCO~2~.
+- **VNI:** presión, flujo, PIP y frecuencia.
+- El **sensor de flujo** es esencial: todas las medidas salvo la presión dependen de él.
+  - Si se moja con agua o secreciones, deja de funcionar.
+  - Colocarlo **más alto que la entrada de las tubuladuras** en la incubadora.
+  - Cambiarlo si da alarma.
+
+## Distensibilidad (complianza)
+
+- **C = volumen / presión** (ml/cmH~2~O):
+  - **Estática** = Vt / (meseta − PEEP); requiere pausa inspiratoria.
+  - **Dinámica** = Vt / (pico − PEEP); es un 10-20 % menor que la estática.
+- **Valores:**
+  - Lactantes aprox. **2 × peso (kg)** ml/cmH~2~O (López-Herce).
+  - RN sano 1,2-2 ml/cmH~2~O (Experto).
+  - Unidad 7: 3-6 en el término y 2-4 en el pretérmino.
+- **Baja en las enfermedades restrictivas:**
+  - Membrana hialina, edema, neumonía.
+  - Atelectasia, derrame, neumotórax.
+  - Distensión abdominal, enfermedades neuromusculares.
+- **Bucle volumen-presión:**
+  - **Punto de inflexión inferior:** apertura alveolar. **Superior:** sobredistensión.
+  - Ventilar cerca de la rama espiratoria, entre ambos puntos; sirve para buscar la **PEEP óptima**.
+  - **C20/C < 0,8**: sobredistensión. El bucle en «pico de loro» indica sobredistensión.
+  - Si la distensibilidad baja: en modalidad de volumen sube la presión; en modalidad de presión baja el volumen.
+
+## Resistencia
+
+- **R = ΔP / flujo** (cmH~2~O/l/s); incluye la del tubo endotraqueal.
+  - Pulmón sano o SDR inicial: **20-40**.
+  - **Intubado: 50-80** (Experto).
+- **Aumenta con:**
+  - Tubo estrecho, acodado u obstruido.
+  - **Secreciones**.
+  - Broncoespasmo.
+  - Flujos altos en tubos pequeños (turbulencia).
+- **En las curvas:**
+  - Modalidad de volumen: sube el pico de presión con la meseta sin cambios.
+  - Modalidad de presión: baja el flujo pico, el flujo cae más despacio y baja el volumen.
+  - Bucle flujo-volumen: se aplana.
+- **Constante de tiempo = C × R.** El Te debe ser > 3 constantes de tiempo para vaciar el pulmón.
+
+## Atrapamiento aéreo (auto-PEEP)
+
+- Parte del volumen inspirado no sale en la espiración.
+- **Causas:** resistencia espiratoria alta, colapso espiratorio de la vía aérea, **Te demasiado corto** (FR alta, Vt alto, I:E invertida).
+- **Signos:**
+  - **El flujo espiratorio no llega a cero** antes de la siguiente inspiración (curva flujo-tiempo y bucle flujo-volumen).
+  - Se mide con una pausa espiratoria. PEEP total = PEEP programada + auto-PEEP.
+- **Riesgo:** volu-barotrauma, más trabajo respiratorio y repercusión hemodinámica.
+
+## Otros problemas que muestran las curvas
+
+| Problema | Curva más útil | Hallazgo |
+| **Fugas** (tubo pequeño o poco introducido, postura de la cabeza, neumotórax) | Volumen-tiempo, flujo-volumen | Se cuantifica como Vt inspirado − Vt espirado |
+| **Secreciones o agua** en las tubuladuras | Flujo-volumen | Alteración del bucle flujo-volumen |
+| **Asincronía, autociclado, esfuerzo inefectivo** | Presión-tiempo, flujo | Ciclos sin esfuerzo, o esfuerzos que no disparan |
+| **Sobredistensión** | Volumen-presión | Aplanamiento final («pico de loro») |
+| **Atrapamiento** | Flujo-tiempo | Flujo espiratorio que no vuelve a cero |
+
+- **Agua en el circuito:** flujo turbulento visible en la curva de flujo, autociclado y obstrucción. Aumenta con la sala fría, las corrientes de aire, el mal funcionamiento del calentador y los flujos altos (VAFO).
+
+## Alarmas
+
+- Ajustarlas al iniciar la ventilación, con **valores útiles para cada paciente**.
+- Las mal programadas generan fallos de seguridad o exceso de alarmas, con tolerancia y retraso en la respuesta.
+- Las más frecuentes en VMC: **Vt insuficiente en VG** y **volumen minuto alto o bajo**.
+
+! Las gráficas ayudan a ajustar el respirador y a detectar complicaciones, pero no sustituyen la exploración clínica.

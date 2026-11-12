@@ -1,0 +1,147 @@
+@f TEMAS/RS/3
+*Fuentes:*
+- *Experto en Neonatología, 12.3 «Terapia respiratoria. Asistencia ventilatoria» (Sánchez-Luna).*
+- *Curso de Asistencia Respiratoria Neonatal: tema 5 «Estrategias ventilatorias: manejo, destete y extubación» y tema 12 «Tratamientos farmacológicos en el paciente ventilado».*
+- *Curso de ventilación mecánica, unidad 7 «Ventilación mecánica neonatal».*
+
+## Indicaciones y objetivos
+
+- **Indicaciones (unidad 7):**
+  - **PaO~2~ < 50 mmHg** pese a O~2~ o con FiO~2~ > 0,4, y/o **PaCO~2~ > 60-65 mmHg con pH < 7,20**.
+  - Trabajo respiratorio excesivo con riesgo de fatiga o apneas.
+  - Falta de estímulo respiratorio.
+  - Fracaso de la VNI.
+- **Ventilación protectora:** volumen corriente adecuado sin PIP altas, pulmón reclutado (PEEP), **FiO~2~ mínima** y buena sincronización, que evita sedantes y relajantes. Si se necesitan presiones altas: **VAFO**.
+
+*Objetivos gasométricos.*
+| | Pretérmino | Término |
+| PaO~2~ | 50-60 mmHg (unidad 7: 55-60) | 50-70 mmHg (unidad 7: 60-70) |
+| SatO~2~ | 90-95 % | 90-95 % (unidad 7: 92-96 %) |
+| PaCO~2~ | 45-55 mmHg; hipercapnia permisiva hasta 65 con pH > 7,20-7,25 | 45-55 mmHg |
+
+- En la **EHI**: normocapnia y PO~2~ 60-90 mmHg (unidad 7).
+- Evitar la **hipocapnia** (leucomalacia).
+
+## Respiradores y sincronización
+
+- Neonatales de **flujo continuo, ciclados por tiempo y limitados por presión**. Se programan Ti, Te, PIP, PEEP, flujo y FiO~2~.
+- **Sensor de flujo proximal** (hilo caliente, en la pieza en Y): sincroniza y mide los volúmenes y la fuga. Respuesta < 80 ms.
+- **NAVA:** actividad eléctrica del diafragma por sonda esofágica.
+- Para sincronizar, usar **frecuencias de rescate bajas** que permitan al paciente disparar.
+
+## Modalidades
+
+| Modalidad | Cómo funciona | Uso |
+| **SIMV** | FR fijada; las respiraciones espontáneas por encima no se asisten (salvo con PS) | Cuando interesa controlar el volumen minuto: cardiopatías con flujo sistémico dependiente del pulmonar, posoperatorio sedado, patología neurológica. **Poco adecuada en prematuros** (el tubo impide respiraciones espontáneas eficaces) |
+| **A/C** | Todas las inspiraciones se asisten con PIP y Ti fijos; FR de rescate en apnea | Riesgo de hiperventilación por autodisparo; el Ti fijo no se adapta. Experto: solo si se quiere un Ti largo y constante. Curso: el destete en A/C acorta la VM frente a SIMV |
+| **PSV** | Inicio y final de la inspiración por el paciente; **ciclada por flujo** (termina al caer al 15-30 % del pico) | La más fisiológica; tolera fugas. Con constantes de tiempo muy cortas o broncoespasmo el Ti puede quedar corto: asociar VG y ajustar la PEEP |
+| **Volumen garantizado (VG)** | Ajusta la PIP en cada respiración para alcanzar el Vt espirado fijado, con la PIP programada como límite | La más estudiada: menos volúmenes extremos, **menos muerte o DBP**, destete automático. Se asocia a SIMV, A/C, PSV y VAFO |
+| **PS en espontáneas** | Soporte de presión sobre la PEEP, ciclado por flujo | Con SIMV; fases crónicas o destete difícil |
+| Nuevas: APRV, BIPAP, MMV, PPS, NAVA | Experiencia limitada en neonatos | Uso individualizado |
+
+**Recomendación del Experto:** **PSV + VG en el SDR**. Usar **SIMV + VG** cuando el clínico deba controlar el volumen minuto (corazón univentricular, patología neurológica).
+
+## Parámetros
+
+- **Vt 4-6 ml/kg.** Más en DBP por más espacio muerto (7-8 ml/kg; curso: 6-12).
+- **PEEP 5-7 cmH~2~O**, según la curva presión-volumen y la oxigenación.
+- **Flujo:** > 10 l/min en tubo n.º 3 produce turbulencia; con flujo muy bajo la curva de presión es triangular. La **rampa** (tiempo hasta la PIP) se ajusta a un tercio del Ti (curso: 80-150 ms).
+- **Ti** según la constante de tiempo (**Kt = C × R**). **Te > 3 Kt.**
+- **FR:** con respiración espontánea, rescate **< 40 rpm**. Sin respiración espontánea, la necesaria con I:E 1:1,2-1,5.
+- **Volumen minuto** = Vt × FR; fisiológico **250-400 ml/kg/min** (curso: 240-360). Subir el Vt ventila más que subir la FR, porque el espacio muerto es fijo.
+- **Mecánica:**
+  - **Distensibilidad** del RN sano 1,2-2 ml/cmH~2~O (unidad 7: 3-6 en el término y 2-4 en el pretérmino).
+  - **C20/C < 0,8**: sobredistensión.
+  - **Resistencia** 20-40 cmH~2~O/l/s; 50-80 si intubado.
+- **Signos de sobredistensión:** C20/C < 0,8-1, diafragmas aplanados con > 8 espacios intercostales, curva P/V en «pico de loro», compromiso hemodinámico.
+
+! Las cifras de distensibilidad difieren entre fuentes (ml/cmH~2~O totales frente a ml/cmH~2~O/kg en la pestaña de fisiología).
+
+*Curso, tema 5 (según Keszler 2019). Vt y PIP iniciales orientativos.*
+@ancha
+| Situación | Vt inicial | PIP inicial | Razón |
+| Término o pretérmino tardío con pulmón normal | 4-4,5 ml/kg | 18 cmH~2~O | C normal |
+| Pretérmino con SDR, 1.250-2.500 g | 4-4,5 ml/kg | 26 cmH~2~O | C disminuida |
+| Pretérmino con SDR, 700-1.249 g | 4,5-5 ml/kg | 24 cmH~2~O | Espacio muerto del sensor, C disminuida |
+| Pretérmino con SDR < 750 g | 5,5-6 ml/kg | 24 cmH~2~O | Espacio muerto del sensor, riesgo de aire ectópico |
+| Pretérmino evolucionando a DBP (3 semanas) | 5,5-6 ml/kg | 26 cmH~2~O | Más espacio muerto, peor C |
+| Término con SAM y atrapamiento | 5,5-6 ml/kg | 28 cmH~2~O | Más espacio muerto anatómico |
+| Término con SAM y pulmón velado | 4,5-5 ml/kg | 30 cmH~2~O | C muy disminuida |
+| Término con hernia diafragmática | 4-4,5 ml/kg | 24 cmH~2~O | Riesgo de aire ectópico |
+| Pretérmino con DBP grave | 7-12 ml/kg | 30 cmH~2~O | Constantes de tiempo largas: Ti largo, FR baja |
+
+! En la tabla del curso las filas de 700-1.249 g y de < 750 g se solapan entre 700 y 750 g; se transcriben tal cual.
+
+*Curso, tema 5. Programación inicial según la mecánica.*
+@ancha
+| | C disminuida (SDR) | Resistencia aumentada (SAM) | Pulmón normal |
+| Modalidad | A/C (SIMV) + VG | SIMV, A/C (+ VG) | SIMV (+ VG) |
+| Vt | < 700 g: 5,5-6; 700-1.249 g: 4,5-5; > 1.250 g: 4-4,5 ml/kg | 4,5-6 ml/kg | 4-4,5 ml/kg |
+| PIP (limitada por presión / límite con volumen) | 20-24 / 24-28 cmH~2~O | 20-26 / 24-30 cmH~2~O | 13-15 / 18-20 cmH~2~O |
+| PEEP | 5-6 cmH~2~O | 4-7 cmH~2~O | 3-5 cmH~2~O |
+| FR | 50-60 rpm | 30-50 rpm | 20-40 rpm |
+| Ti | 0,25-0,35 s | 0,4-0,6 s | 0,3-0,4 s |
+| Te | Al menos 1,3 veces el Ti | | |
+| Flujo | 6 l/min (< 1,5 kg); 8 (> 1,5 kg); 10 si PIP altas | | |
+
+! La tabla de programación inicial se ha reconstruido a partir del texto de la diapositiva.
+
+## Estrategias según la patología (curso, tema 5)
+
+- **SDR:** VNI con surfactante no invasivo de primera opción. Si VMC: A/C, PEEP 5-6, **Ti corto y FR alta** (constante de tiempo corta), **VG 4-5 ml/kg (5-6 en < 750 g)**. VAFO en los graves.
+- **SAM:** identificar qué predomina.
+  - **Atrapamiento:** Ti y Te largos, **FR bajas (30-40)**, PEEP 5-7 si no hay PEEP inadvertida, Vt 5-6 ml/kg.
+  - **Colapso:** PEEP altas; la VAFO recluta mejor.
+  - Surfactante si hay hipoxemia con atelectasia difusa; ONi si HPPN; ECMO si fracasa.
+- **Hernia diafragmática:**
+  - Objetivos: SatO~2~ preductal 90-95 % (> 85 % las primeras horas), pH > 7,27 y pCO~2~ 45-55 (tolerable < 65).
+  - **A/C con FR 40-60, PIP < 26, VG 4-5 ml/kg, PEEP 3-5, Ti 0,3-0,35 s.**
+  - VAFO si SatO~2~ preductal < 90 % o pH < 7,27 con pCO~2~ > 60 y PIP > 25.
+  - Vigilar PMA > 16 y que el pulmón contralateral tenga 8-9 espacios.
+- **DBP establecida:** Vt 6-12 ml/kg, **Ti 0,4-0,6 s**, PEEP a veces 8-10 (colapso dinámico), **FR 20-30**; hipercapnia permisiva.
+- **Posoperatorio cardiaco:**
+  - **Disfunción sistólica** (switch arterial, ALCAPA): Vt algo alto (6-8 ml/kg), porque baja la poscarga.
+  - **Fisiología restrictiva** (Fallot): evitar PEEP y presión media altas.
+
+## Destete y extubación
+
+- **Empieza al intubar.** Reducir primero el parámetro más dañino. Con **VG el destete es automático**: la PIP baja al mejorar la mecánica (mantener Vt ≥ 4 ml/kg).
+- En SIMV no bajar la FR de 25 rpm sin añadir PS. Las estrategias de volumen reducen muerte o DBP, neumotórax, hipocapnia y lesión cerebral.
+- **Criterios de extubación (unidad 7):** **FiO~2~ < 0,35, PIP < 15 cmH~2~O, PMA < 9 cmH~2~O.** Con VNI disponible se puede extubar con buen esfuerzo y FR de rescate baja sin esperar a PIP < 15 (Experto).
+- **Ayudas:**
+  - **Cafeína** (en muy bajo peso, 12-24 h antes si no la llevaba).
+  - **VNI tras extubar.**
+  - Ciclo corto de corticoides en < 1.000-1.250 g con VM prolongada o trabajo respiratorio previo.
+- **Peor pronóstico de extubación:** menor EG y peso, CO~2~ previo alto, mayor gravedad.
+- **Tras extubar:**
+  - Vigilar estridor (edema de glotis: humedad, adrenalina, corticoides), atelectasia y apnea.
+  - Considerar el prono.
+  - Gasometría de control; **no hace falta radiografía de rutina**.
+
+! La unidad 7 dice «disminuir la PIP hasta valores inferiores a 20 mmHg»; por el contexto se refiere a cmH~2~O.
+
+## Premedicación para la intubación electiva (curso, tema 12)
+
+Respetar la secuencia y los tiempos de inyección y lavado:
+1. **Atropina 0,02 mg/kg IV.**
+2. **Remifentanilo 1 µg/kg IV en 1 min** más lavado en 1 min (evita la rigidez torácica), **o fentanilo 2 µg/kg IV**.
+3. **Rocuronio 600 µg/kg** o cisatracurio 100 µg/kg IV.
+
+**Durante la VM:**
+- En prematuros confortables, sin opioides sistemáticos.
+- Fentanilo si hay inestabilidad hemodinámica o HTP; morfina en el resto.
+- Sedación ligera y dirigida.
+- Evitar la relajación completa.
+
+## Complicaciones (unidad 7)
+
+- Intubación selectiva del bronquio derecho.
+- Obstrucción del tubo.
+- **Escape aéreo** (enfisema intersticial, neumotórax, neumomediastino, neumopericardio, neumoperitoneo).
+- Neumonía asociada.
+- **DBP**.
+- Alteraciones hemodinámicas.
+- **ROP** (mal control de la oxigenación).
+- **HIV y leucomalacia** (mal control de la ventilación).
+
+! Ver también Protocolos → 33 (Ventilación invasiva) y Sociedad Española → 6.1 (Asistencia ventilatoria).

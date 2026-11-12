@@ -1,0 +1,24 @@
+@f TEMAS/RP/5
+*Fuente: Experto en Neonatología, 12.5 «Malformaciones pulmonares y hernia diafragmática» (Pertierra Cortada).*
+
+## Generalidades
+
+- Malformaciones pulmonares congénitas (MPC): 5-18 % de todas las malformaciones; cada vez más con **diagnóstico prenatal** (ecografía y RM fetal). Manejo multidisciplinar.
+- **Prenatal:** solo dan clínica fetal si ocupan espacio y comprometen la circulación. Valorar **hidrops**, ascitis, derrame, arteria sistémica nutricia, efecto masa, tamaño, localización y otras malformaciones. El hidrops (masas grandes o arteria de alto flujo) empeora el pronóstico. Tratamientos fetales: **betametasona materna** (reduce las microquísticas grandes y puede revertir el hidrops), punciones de quistes, *shunt* toracoamniótico, lobectomía fetal, láser o esclerosis de la arteria nutricia. Suelen **dejar de crecer a las 26-28 semanas** y pueden «desaparecer» en la ecografía sin estar resueltas. Si el feto está estable, parto como cualquier otro.
+- **Posnatal:** muchas son asintomáticas al nacer. Si hay insuficiencia respiratoria, el soporte menos agresivo posible (VNI, VMC, VAFO, ECMO). **TC con contraste: prueba de referencia** (diagnóstico y planificación quirúrgica); la radiografía tiene un 50 % de sensibilidad (útil para complicaciones); ecografía pulmonar para complicaciones.
+- **Cirugía en asintomáticos** (controvertida): riesgo de infecciones (5-10 %), malignización (1-3 %), fuga aérea (1-5 %) y aprovechar el crecimiento compensador; mejor pasada la época neonatal.
+
+## Tipos
+
+| Malformación | Rasgos | Manejo |
+| **Agenesia / aplasia pulmonar** | Ausencia de pulmón (o bronquio rudimentario ciego); 75 % con otras malformaciones. Unilateral: mediastino desviado al lado afecto, hiperinsuflación contralateral | Según gravedad; bilateral incompatible con la vida |
+| **Hipoplasia pulmonar** | Menos vía aérea, alveolos y vasos. Primaria (rara) o **secundaria**: HDC, **oligohidramnios grave**, hidrotórax, malformaciones torácicas, enfermedades neuromusculares, trisomías. Frecuente **HTP**. Radiografía: volumen bajo (cúpulas por encima de la 7.ª costilla), tórax acampanado, neumotórax | Conservador; corregir la causa si es secundaria |
+| **Quiste broncogénico** | Quiste único de 2-10 cm, mediastínico (cerca de la carina) o periférico; casi siempre asintomático | Exéresis o lobectomía (infección, malignización) |
+| **Malformación congénita de la vía aérea pulmonar (MCAP)** | La más frecuente (30-40 %; 95 % de las quísticas). Quistes conectados a la vía aérea, unilobular (lóbulos inferiores). Stocker 0-IV (tipo I el más frecuente y mejor pronóstico; II se asocia a otras malformaciones y a secuestro); Adzick: macroquística (> 5 mm) o microquística. **CVR > 1,6 predice un 80 % de hidrops** | Quirúrgica si es sintomática; en asintomáticos, cirugía electiva entre 6 meses y 2 años (controvertido). TC en el 1.^er^-6.º mes si es asintomática |
+| **Secuestro pulmonar** | Pulmón no funcional sin comunicación bronquial y con **arteria sistémica** (aorta). Intralobar (3:1; base izquierda, a menudo diagnóstico en la adolescencia) o extralobar (pleura propia; asociado a HDC). Lesiones híbridas con MCAP | **Siempre quirúrgico**; embolización como alternativa |
+| **Enfisema lobar congénito** | Sobredistensión lobar por cartílago bronquial deficiente (atrapamiento espiratorio); lóbulo superior izquierdo (43 %); 30 % con síntomas neonatales; 10-20 % con cardiopatía | Conservador si es leve-moderado; **lobectomía** si progresa o es grave |
+| **Linfangiectasia pulmonar** | Dilatación linfática; prenatal con hidrotórax, ascitis, hidrops; quilotórax | Soporte intensivo (VM, HTP, drenajes, octreótido, pleurodesis, nutrición con MCT); suele evolucionar a enfermedad pulmonar crónica |
+| **Displasia alveolocapilar** | **HTP grave e irreversible en la primera semana en un RN a término**, sin respuesta al tratamiento; FOXF1; letal | Biopsia pulmonar precoz (diagnóstica en la mayoría) para replantear el soporte |
+| **Atresia bronquial** | Segmentaria la más frecuente; asociada a MCAP (70 %) o secuestro; a menudo hallazgo tardío | Resección si es sintomática; electiva en asintomáticos |
+
+! Ver también Protocolos → Sociedad Española → 3.25 (Malformaciones pulmonares y hernia diafragmática).

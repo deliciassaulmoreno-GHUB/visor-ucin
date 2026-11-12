@@ -1,0 +1,25 @@
+@f TEMAS/RF/2
+*Fuentes: Experto en Neonatología, tema «El desarrollo, embriología, anatomía y fisiología pulmonar»; Curso de Asistencia Respiratoria Neonatal, tema 1.*
+
+## Particularidades del sistema respiratorio neonatal
+
+El sistema respiratorio del RN, y más el del prematuro, está todavía en desarrollo:
+- **Vía aérea** pequeña, con **resistencia aumentada** y muy **colapsable**. Respiración preferentemente **nasal**.
+- **Volumen pulmonar reducido:** pocos alveolos funcionales, menor superficie de intercambio, sin comunicaciones interalveolares.
+- **Musculatura respiratoria poco eficiente y fatigable:** menos fibras resistentes a la fatiga; **diafragma aplanado**, más corto y con menos zona de aposición.
+- **Caja torácica muy elástica e inestable** (sobre todo en el prematuro): favorece el colapso alveolar, dificulta generar presión pleural negativa y da menos soporte en espiración → **capacidad residual funcional (CRF) baja**.
+- **Surfactante:** reduce la tensión superficial en la interfase aire-líquido y contrarresta la tendencia al colapso.
+- **Inmadurez antioxidante:** más vulnerable a la **hipoxia y a la hiperoxia**.
+- **Control respiratorio inmaduro:** inestabilidad respiratoria y **apneas de la prematuridad**.
+- **Metabolismo basal elevado** (mayor consumo de O~2~).
+- **Autorregulación cerebral limitada:** muy sensible a los cambios de pCO~2~.
+
+## Transición a la vida extrauterina
+
+- Al iniciar la ventilación, el **líquido alveolar se aclara** al intersticio (transporte activo de sodio) y **caen bruscamente las resistencias vasculares pulmonares** (ventilación y aumento de la PaO~2~): llega flujo al pulmón y empieza el intercambio.
+- Al **pinzar el cordón** suben las resistencias sistémicas: se cierran el **foramen oval** (más presión en la aurícula izquierda) y el **ductus** (aumento de la PaO~2~). Aumenta la secreción de surfactante.
+- Saturaciones fetales aproximadas: vena umbilical 70-80 %; cava inferior 40 %; aorta ascendente (preductal) 65 %; aorta descendente (posductal) 60 %.
+- **Una transición anómala** complica la patología respiratoria y favorece la persistencia de la circulación fetal (hipoxemia, HTPP).
+- En el prematuro se suman: ausencia de alveolos hasta la semana 34, persistencia de shunts fetales, RVP elevadas y surfactante insuficiente o inactivado (prematuridad, infección, neumonía).
+
+! La circulación fetal y los cambios al nacer se desarrollan en Hemodinámica → «Circulación fetal y postnatal».

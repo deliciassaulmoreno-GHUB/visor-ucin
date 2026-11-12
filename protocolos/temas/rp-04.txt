@@ -1,0 +1,38 @@
+@f TEMAS/RP/4
+*Fuente: Experto en Neonatología, 12.4 «Enfermedad respiratoria aguda neonatal» (Elorza), apartado «Síndrome de fuga aérea/aire ectópico».*
+
+## Aire ectópico: concepto
+
+- Escape de aire desde el alveolo a zonas extraalveolares: **enfisema intersticial, neumomediastino, neumotórax**, enfisema subcutáneo, neumopericardio, neumoperitoneo.
+- Más frecuente cuanto **menor la edad gestacional** y con patología de base (SAM, hipoplasia pulmonar, neumonía). Neumotórax en el 1-2 % de los RN a término normales y en el 4-6 % de los < 1.500 g; neumomediastino espontáneo sintomático 2,5/1.000.
+- **Mecanismo:** rotura de un alveolo sobredistendido → aire perivascular que diseca hacia el hilio (neumomediastino) o la pleura (neumotórax). En el prematuro el tejido perivascular es más abundante y queda atrapado (**enfisema intersticial**). Causas de sobredistensión: respiración vigorosa al nacer, reanimación intensa, **presiones altas en VM**, mecanismo valvular.
+
+## Neumotórax
+
+- Hasta el 1 % de los RN, solo el 10 % sintomáticos. Antiguamente: 4 % con patología pulmonar, 16 % con CPAP y 36 % con VM (hoy mucho menos).
+- **Clínica:** taquipnea, quejido, cianosis; hemitórax insuflado e hipoventilado; **tonos desplazados** al lado contrario; distensión abdominal. **A tensión:** menos retorno venoso y gasto, **hipotensión y bradicardia**. En prematuros graves aumenta la mortalidad y la hemorragia intraventricular.
+- **Diagnóstico:** sospecharlo ante **deterioro respiratorio brusco, sobre todo en VM**.
+  - Transiluminación (puede fallar si hay enfisema intersticial).
+  - **Radiografía:** patrón oro, antes de tratar salvo urgencia; en supino el aire es anterior (decúbito lateral si es pequeño); a tensión, desviación mediastínica y diafragma aplanado.
+  - **Ecografía:** ausencia de deslizamiento pulmonar (VPN 100 %); **punto pulmonar** (patognomónico, poco sensible); línea pleural y líneas A sin líneas B ni consolidación (VPN 100 %).
+- **Tratamiento:**
+  - **Conservador** si no hay fístula ni dificultad respiratoria ni soporte ni patología de base: vigilancia; suele resolverse en 24-48 h.
+  - Con dificultad respiratoria: monitorizar y O~2~ para saturación adecuada (**el O~2~ a alta concentración no acelera la resolución**).
+  - En ventilados: **minimizar la presión media**, evitar sobredistensión y volutrauma, Ti adecuado.
+  - **Toracocentesis** de urgencia: catéter **18-20 G en el 2.º espacio intercostal, línea medioclavicular**, aspirando con jeringa o a sello de agua (resolutiva si no está ventilado, o puente al drenaje).
+  - **Drenaje torácico** (a tensión o en ventilados que lo dificultan): **6.º espacio intercostal, línea media axilar**, punta anterior retroesternal, confirmar con radiografía; sello de agua con aspiración inicial **10-15 cmH~2~O**.
+- **Prevención:** reanimación cuidadosa; VM suave (Ti cortos, FR altas); surfactante con extubación rápida a CPAP; **ventilación con volumen garantizado**. No hay evidencia de que la VAFO lo prevenga (la jet puede ayudar en fístulas broncopleurales).
+
+## Neumomediastino
+
+- Casi siempre asintomático; grandes colecciones: taquipnea, cianosis; **tonos débiles**.
+- **Radiografía:** lengüeta de aire junto a la silueta cardiaca; en lateral, radiolucencia retroesternal; timo levantado en **«vela de barco»**.
+- Suele resolverse solo; si está a tensión con compromiso hemodinámico, drenaje con aguja ecoguiada.
+
+## Enfisema intersticial
+
+- Aire atrapado en el tejido perivascular: menor distensibilidad, sobredistensión, compresión de la vía aérea. Típico del **prematuro ventilado hacia las 96 h**; uni o bilateral; hipoxemia y acidosis respiratoria; puede reducir el retorno venoso y favorece el neumotórax.
+- **Radiografía:** burbujas de 1-4 mm o líneas claras por todo el parénquima.
+- **Manejo** (difícil): prevenirlo con estrategias protectoras (Ti cortos, volumen garantizado); **VAFO con normovolumen** en algunos casos. **Unilateral:** decúbito sobre el lado afectado, reducir presión media (PIP, PEEP, Ti); en graves, intubación selectiva del pulmón sano o bloqueo bronquial con catéter balón.
+
+! Ver también Protocolos → Sociedad Española → 3.20 (Distrés respiratorio en el RN a término) y 3.21 (Distrés respiratorio del prematuro).

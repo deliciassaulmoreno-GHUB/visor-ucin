@@ -1,0 +1,27 @@
+@f TEMAS/RP/1
+*Fuente principal: Experto en Neonatología, 12.4 «Enfermedad respiratoria aguda neonatal» (Elorza). Complemento: Experto, tema «Patología respiratoria del recién nacido».*
+
+## Causas de dificultad respiratoria en el RN
+
+*Tabla 12.4-1 (resumen).*
+- **Pulmonares de inicio al nacer y curso corto:** SDR (enfermedad de membrana hialina), TTRN/maladaptación pulmonar, dificultad respiratoria leve, SAM.
+- **Infección pulmonar** precoz o tardía.
+- **Secundarias:** hipertensión pulmonar persistente, aire extraalveolar, enfermedad pulmonar crónica, dificultad respiratoria aguda.
+- **Alteraciones del desarrollo:** hipoplasia pulmonar (primaria o por compresión: hernia diafragmática, hidro/quilotórax, quiste); obstrucción de la vía aérea (atresia de coanas, Pierre Robin, laringomalacia, anillo vascular); malformaciones pulmonares; enfermedad pulmonar difusa (displasia alveolocapilar, defectos del surfactante…).
+- **Extrapulmonares:** cardiopatías, insuficiencia cardiaca, shock, arritmias; asfixia, alteraciones del control respiratorio, sedación; anemia, policitemia; acidosis, hipo/hipertermia, hipoglucemia.
+
+## Dificultad respiratoria leve
+
+La forma más frecuente y benigna: taquipnea y retracción leve desde el nacimiento, buena saturación sin O~2~ o con FiO~2~ baja, radiografía normal, sin datos de infección; mejora en **6-8 h**. Probablemente por líquido pulmonar.
+
+## Taquipnea transitoria del RN (TTRN)
+
+También «maladaptación pulmonar», «distrés tipo II» o «pulmón húmedo».
+- **Quién:** sobre todo **prematuros de 30-35 semanas**, también RN a término; más tras **cesárea** (sin compresión torácica en el canal del parto).
+- **Fisiopatología:** **exceso de líquido pulmonar** tras el nacimiento (reabsorción insuficiente o aspiración de líquido amniótico claro), que se acumula en tejidos perivasculares y cisuras hasta que lo eliminan los linfáticos. Ligera disminución de la distensibilidad, aumento del espacio muerto y posible aumento de resistencias con atrapamiento aéreo.
+- **Clínica:** en las **primeras 6 h puede ser indistinguible del SDR** (polipnea, quejido, tiraje, hipoventilación). Después mejora rápido; puede quedar **polipnea residual 24-48 h**. Hipoxemia leve e hipercapnia que se resuelven antes que la clínica.
+- **Radiografía:** líquido en cisuras o pequeño derrame, marcas broncovasculares prominentes, condensaciones alveolares difusas, **aumento del volumen pulmonar** (diafragmas a nivel o por debajo del 8.º espacio).
+- **Tratamiento** inespecífico: ambiente térmico neutro, soporte nutricional, **presión de distensión continua nasal** (ayuda a reabsorber el líquido) y O~2~ si hace falta. **Los diuréticos no modifican la evolución.** El salbutamol inhalado podría acortar la oxigenoterapia y el ingreso, con evidencia limitada.
+- Suele resolverse en horas o días, aunque puede requerir soporte con presión positiva de forma transitoria (Experto, tema 2).
+
+! Ver también Protocolos → Sociedad Española → 3.20 (Distrés respiratorio en el RN a término).

@@ -1,0 +1,74 @@
+@f TEMAS/RS/5
+*Fuentes: Curso de Asistencia Respiratoria Neonatal, tema 9 «Óxido nítrico inhalado en patología respiratoria neonatal»; Experto en Neonatología, 12.6 «Hipertensión pulmonar persistente neonatal».*
+
+## Fundamento
+
+- El ON endógeno media la caída de las RVP al nacer: la ON sintetasa endotelial aumenta durante la gestación.
+- El **ON inhalado (ONi)** difunde al músculo liso y activa la guanilato ciclasa (↑ GMPc). Se inactiva con rapidez en contacto con la hemoglobina, por lo que su efecto es **selectivo pulmonar**.
+
+**Aumenta la oxigenación:**
+- Baja selectivamente la RVP.
+- Reduce el **shunt extrapulmonar** derecha-izquierda (ductus, foramen oval).
+- Reduce el **shunt intrapulmonar** (efecto microselectivo): dirige el flujo a los alveolos bien ventilados y mejora la V/Q.
+
+**Toxicidad:**
+- **Metahemoglobina.**
+- **NO~2~** y peroxinitrito: daño pulmonar agudo, edema, inactivación del surfactante.
+
+## Evidencia (≥ 34 semanas con insuficiencia respiratoria hipoxémica e HTP)
+
+| Estudio | IO de inicio | Resultado |
+| NINOS 1997 | 40 | Reduce la ECMO en ≥ 34 semanas |
+| NINOS 1997 (hernia diafragmática) | 40 | **No** reduce la ECMO |
+| CINRGI 2000 | ≥ 25 | Reduce la ECMO en todas las causas salvo la hernia diafragmática |
+| Konduri 2004 | ≥ 15-25 frente a > 25 | Sin diferencia en muerte o ECMO |
+| Konduri 2013 (post hoc) | > 15-20 frente a > 20-25 | Menos ECMO o muerte; el surfactante precoz también la redujo |
+
+Experto: el ONi mejora la oxigenación, reduce la ECMO y la mortalidad en > 34 semanas. Responden aprox. el **60 %**; el **30-40 % no responde**.
+
+## Antes de iniciarlo
+
+- **Optimizar el reclutamiento** (PEEP o PMA) sin volutrauma. **VAFO** si PIP > 25-28 cmH~2~O o Vt > 6 ml/kg; la combinación VAFO + ONi da la máxima respuesta.
+- **Surfactante** si hay enfermedad parenquimatosa.
+- Optimizar la TA con inotrópicos.
+- **Ecocardiografía:** shunt derecha-izquierda o bidireccional por foramen oval o ductus, función del VI, **descartar cardiopatía**.
+
+## Pauta en ≥ 34 semanas
+
+- **Indicación:** **IO > 20-25** (Curso). El Experto lo indica como primera línea con **IO 15-40**. IO = MAP × FiO~2~ × 100 / PaO~2~.
+- **Dosis: 20 ppm.**
+- **Respuesta a los 60 min:** **descenso del IO ≥ 20 %** o **aumento de la PaO~2~ posductal > 20 mmHg**. **Si no responde en 60 min: suspender.**
+- **Monitorización:** FiO~2~ y SatO~2~; **NO~2~ < 1 ppm**; **metahemoglobina (< 2,5 %)** a las **2 h, a las 8 h y después cada 24 h**.
+
+**Retirada (Curso):**
+- Con FiO~2~ < 60 %, PaO~2~ > 60 y SatO~2~ > 90 %, bajar **de 5 en 5 ppm hasta 5 ppm durante 6-12 h**.
+- Después, **de 1 en 1 ppm hasta 0 en 4 h**.
+- El Experto: bajar 5 ppm cada 4-6 h y suspender desde 1-2 ppm. Ambos para evitar el **rebote**.
+
+**Si no responde, revisar (Experto):**
+- La interpretación ecocardiográfica y el reclutamiento.
+- Estenosis de venas pulmonares.
+- Cardiopatía izquierda ductus-dependiente.
+- RVS baja (malformación arteriovenosa).
+- Disfunción ventricular.
+
+## Contraindicaciones
+
+**Cardiopatías que dependen del shunt derecha-izquierda** para la perfusión sistémica:
+- Interrupción del arco aórtico.
+- Corazón izquierdo hipoplásico.
+- **Disfunción ventricular izquierda** grave.
+
+## Prematuros
+
+- **No previene la DBP**: no recomendado con ese fin.
+- Puede ser útil si hay **hipoxemia grave por HTP** más que por enfermedad parenquimatosa, sobre todo con **rotura prolongada de membranas y oligohidramnios**. **Dosis 5-10 ppm.**
+
+## Administración (INOMAX®)
+
+- **Balas de 800 ppm** (ON en N~2~).
+- Se inyecta en la **rama inspiratoria** del respirador, con dosis constante según el flujo. Sirve también con VAFO; los sistemas modernos ajustan el flujo de ON al de la VAFO.
+- Analiza continuamente O~2~, NO~2~ y NO.
+- Tiene **sistema manual de reserva** (con bolsa) para no desconectar.
+
+! Ver también Protocolos → Respiratorio → «Purgado de óxido nítrico» y la pestaña «Hipertensión pulmonar» de Patología respiratoria.

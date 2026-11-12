@@ -1,0 +1,54 @@
+@f TEMAS/RS/1
+*Fuentes:*
+- *Curso de Asistencia Respiratoria Neonatal, tema 3: «Oxigenoterapia en el recién nacido» (Vento), Cochrane 2023 sobre alto flujo en prematuros, «Alto flujo» (AEP 2021) y tema 10 «Ventilación no invasiva».*
+- *Experto en Neonatología, 12.3 «Terapia respiratoria. Asistencia ventilatoria» (Sánchez-Luna).*
+
+## Oxígeno: principios
+
+- **El oxígeno es un fármaco.** Tanto la hipoxia o reoxigenación como la **hiperoxia** generan especies reactivas de oxígeno. El estrés oxidativo se asocia a **DBP, ROP, enterocolitis necrosante, ductus persistente y hemorragia intraventricular**.
+- Las **fluctuaciones** frecuentes de la SatO~2~ son especialmente dañinas.
+- **Transición:** la PaO~2~ fetal es de 25-30 mmHg, con SatO~2~ 50-60 %. Pasa a 80-90 mmHg y SatO~2~ 90-95 % en pocos minutos. Los prematuros de 27-28 semanas pueden tardar **8-10 min** en llegar al 90 %; si la FC sube y el niño está activo, no hay prisa en dar oxígeno.
+
+*Tabla 1. SatO~2~ preductal objetivo minuto a minuto tras el nacimiento (AAP).*
+| Minuto | SatO~2~ preductal |
+| 1 | 60-65 % |
+| 2 | 65-70 % |
+| 3 | 70-75 % |
+| 4 | 75-80 % |
+| 5 | 80-85 % |
+| 5-10 | 85-90 % |
+
+- **FiO~2~ inicial en la reanimación:** **21 %** en el RN a término y **21-30 %** en el pretérmino. Cambiar la FiO~2~ en pasos del **10 % cada 15-30 s**, según la FC (la respuesta más fiable), la SatO~2~ y el tono. Evitar los cambios bruscos, que pueden inducir HTP.
+- **Rango objetivo en el prematuro extremo (≤ 28 semanas) con oxígeno: SatO~2~ 90-95 %.** El rango bajo (85-89 %) aumenta la mortalidad y la enterocolitis; el alto (91-95 %), la ROP. Vigilar el cumplimiento del rango y las alarmas.
+- **Control automático de la FiO~2~** (Experto): reduce los ajustes manuales y la hiperoxia; ayuda, pero no sustituye la vigilancia.
+
+## Gafas nasales de alto flujo (GNAF)
+
+- **Qué son:** flujo de gas **calentado y humidificado** por cánulas nasales, superior al flujo inspiratorio del paciente. En el neonato, **> 1-2 l/min** (Curso: > 2 l/min; en < 1.500 g, > 1 l/min).
+- **Mecanismo:**
+  - Lavado del **espacio muerto nasofaríngeo** (hasta 3 ml/kg en el RN).
+  - Menos resistencia de la vía aérea alta.
+  - **Cierta presión positiva no medida e impredecible**, variable con las fugas, el tamaño de la cánula y la boca abierta o cerrada.
+  - A diferencia de la CPAP, da un flujo fijo con presión variable.
+- **La cánula no debe ocupar más de la mitad de la narina**: las fugas son necesarias por seguridad.
+- **Eficacia:** limitada si la distensibilidad es baja; mejor cuando el trabajo respiratorio se debe a resistencia (bronquiolitis). **No hay evidencia suficiente como primera opción en prematuros**, sobre todo en < 28 semanas (Experto).
+- **Cochrane 2023** (soporte primario, prematuros ≥ 28 semanas, frente a CPAP):
+  - Sin diferencia en muerte o DBP.
+  - **Más fracaso del tratamiento en 72 h** (NNTH 11), sin más ventilación mecánica.
+  - **Menos trauma nasal y neumotórax.**
+  - Pocos datos en < 28 semanas.
+- **Usos (Curso, tema 10):** distrés con CRF disminuida, **destete** de la CPAP, apneas del prematuro, edema pulmonar, parálisis diafragmática, laringo-traqueomalacia, DBP.
+- **Manejo neonatal (Curso):**
+  - Flujo inicial **4-6 l/min**, **máximo 8 l/min**.
+  - Subir si aumentan la FiO~2~, la PaCO~2~ o el trabajo respiratorio, o si baja el volumen pulmonar.
+  - **Destete** si FiO~2~ < 30 % con la SatO~2~ y la PCO~2~ objetivo y sin trabajo respiratorio.
+  - **Retirar** cuando se consiguen los objetivos con **3-4 l/min**.
+- **Riesgo principal:** **retrasar un soporte superior**. La SatO~2~ puede ser normal con hipercapnia.
+
+! El protocolo «Alto flujo» de la AEP (Curso, tema 3) usa pautas pediátricas por peso (2 l/kg/min, objetivo SatO~2~ 93-97 %); no son las neonatales.
+
+## Humidificación
+
+El gas debe estar **calentado y humidificado**. El gas frío y seco aumenta la resistencia nasal, daña la mucosa y empeora el aclaramiento de secreciones. En CPAP y alto flujo, el humidificador se programa a 37 °C con humedad del 100 % (modo invasivo en los automáticos).
+
+! Ver también Protocolos → 68 (Humidificación del gas inhalado en terapia respiratoria neonatal) y Sociedad Española → 6.3 (Oxigenoterapia).

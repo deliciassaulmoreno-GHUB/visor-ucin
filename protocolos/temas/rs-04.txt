@@ -1,0 +1,146 @@
+@f TEMAS/RS/4
+*Fuentes:*
+- *Experto en Neonatología, 12.3 «Terapia respiratoria. Asistencia ventilatoria» (Sánchez-Luna).*
+- *Curso de Asistencia Respiratoria Neonatal, tema 7 «Ventilación de alta frecuencia».*
+- *Curso de ventilación mecánica, unidad 7.*
+
+## Concepto
+
+- **Volúmenes tidales menores que el espacio muerto (< 2,7 ml/kg)** a frecuencias suprafisiológicas (> 3 Hz; **1 Hz = 60 ciclos/min**), sobre una presión de distensión continua.
+- Mantiene el pulmón abierto por encima de la CRF con mínimas oscilaciones alveolares: menos volutrauma, barotrauma y atelectrauma, y lavado eficaz de CO~2~.
+- **Oscilador:** la **espiración es activa** (la membrana o pistón genera presión negativa), lo que reduce el atrapamiento.
+- **Mecanismos de intercambio:** ventilación alveolar directa, *pendelluft*, convección asimétrica, dispersión de Taylor y difusión molecular.
+
+## Evidencia e indicaciones
+
+- **Electiva frente a VMC en el SDR del prematuro:**
+  - Sin diferencia de mortalidad.
+  - Ligera reducción de DBP cuando se usó estrategia de reclutamiento (Cochrane), pero más fuga aérea y secuelas neurológicas en algunos ensayos.
+  - **No se recomienda de forma electiva: es de rescate**, cada vez más precoz.
+
+**Indicaciones (Experto):**
+- **Insuficiencia respiratoria grave refractaria a VMC:** PaCO~2~ > 55-60 mmHg con las PIP de la tabla, tras el surfactante en el SDR.
+- **Escape aéreo:** enfisema intersticial, neumotórax.
+- **HPPN** con fracaso de la VMC.
+- Hemorragia pulmonar.
+- Atelectasia.
+
+| Peso | PIP que define el fracaso de la VMC |
+| < 1.000 g | > 15 cmH~2~O |
+| 1.000-1.500 g | > 15-17 cmH~2~O |
+| 1.500-2.000 g | > 17 cmH~2~O |
+| 2.000-3.000 g | > 20 cmH~2~O |
+| > 3.000 g | > 25-30 cmH~2~O |
+
+**Otras indicaciones:**
+- **Curso, tema 7:** PIP > 25 cmH~2~O para ventilar, o FiO~2~ > 0,6 con signos de sobredistensión (C20/C < 0,8). Útil en SAM, fuga aérea, hernia diafragmática e hipoplasia, y pulmón inmaduro.
+- **Unidad 7:**
+  - IO > 20.
+  - Enfisema intersticial (principal indicación actual).
+  - Neumotórax con fístula > 12 h o con neumopericardio o neumoperitoneo.
+  - HPPN.
+  - Hernia diafragmática con PIP > 25 e IO > 15.
+
+## Fisiología de los parámetros
+
+- **Oxigenación** = **presión media (PMA)** (grado de reclutamiento) + **FiO~2~**.
+- **Ventilación:** **DCO~2~ = VThf² × f**. El volumen tidal pesa más que la frecuencia.
+  - **Sin VG** (SensorMedics): el VThf depende de la amplitud (ΔP) y baja al subir la frecuencia. Para **bajar la pCO~2~**: **subir ΔP o BAJAR la frecuencia**.
+  - **Con VG** (VN500 y otros): VThf fijo y frecuencia independiente. Para **bajar la pCO~2~**: **subir el VThf o SUBIR la frecuencia**.
+- **Impedancia:** la amplitud se atenúa en el circuito, el tubo y la vía aérea. Más resistencia significa más atenuación (peor con frecuencias altas).
+
+*Tabla 12.3-4. Maniobras en VAFO.*
+| Objetivo | VG OFF | VG ON |
+| ↑ Oxigenación | ↑ PMA, ↑ FiO~2~ | ↑ PMA, ↑ FiO~2~ |
+| ↓ PCO~2~ | ↑ ΔP o ↓ frecuencia | ↑ VThf o ↑ frecuencia |
+
+## Inicio
+
+**1. Reclutamiento (estrategia de volumen pulmonar óptimo):**
+- **PMA inicial 1-2 cmH~2~O por encima de la de la VMC** (la **misma si hay escape aéreo**, sin maniobras), con la misma FiO~2~.
+- Subir la PMA **1-2 cmH~2~O cada 2 min** hasta la **presión de apertura** (baja la necesidad de O~2~ sin compromiso hemodinámico).
+- Cuando la FiO~2~ baja a **0,4 en prematuros (0,6 en término)** con SatO~2~ 90-95 %, bajar la PMA del mismo modo hasta que la SatO~2~ caiga < 90 %: es la **presión de cierre**.
+- Volver a la presión de apertura y dejar la PMA **2 cmH~2~O por encima de la de cierre** (**PMA óptima**).
+- **Radiografía: 8-9 espacios intercostales** (diafragma en la 9.ª costilla). La ecografía pulmonar puede guiar la maniobra.
+
+*Tabla 12.3-6. Parámetros iniciales (Experto).*
+| | VAFO con VG (VN500) | VAFO sin VG |
+| FiO~2~ | La de la VMC | La de la VMC |
+| PMA | VMC + 1-2 cmH~2~O | VMC + 1-2 cmH~2~O |
+| Frecuencia | 8-15 Hz (más alta cuanto menor peso) | 8-15 Hz |
+| ΔP | Deslimitada para VThf 1,5-2 ml/kg | 20-30 cmH~2~O: oscilación simétrica hasta el ombligo |
+| VThf | 1,5-2 ml/kg | Resultante |
+| I:E | 1:2 (33 %) si ≤ 15 Hz; 1:1 si > 15 Hz | 33 % |
+
+**Frecuencia según el peso (curso, tema 7):**
+| Peso | Frecuencia inicial |
+| < 1.000 g | 14-15 Hz |
+| 1.000-1.500 g | 12-13 Hz |
+| > 1.500 g, prematuro tardío y término | 10-12 Hz (10 Hz en el término) |
+
+- **Curso, tema 7:**
+  - **VThf 1,5-3 ml/kg** o DCO~2~ aprox. 80 ml²/s/kg.
+  - Amplitud inicial 20-30 cmH~2~O, ajustada de 5 en 5.
+  - No pasar de 50-60 cmH~2~O (lesión de la vía aérea proximal).
+- **Unidad 7:** frecuencias más bajas con el VN500 en mayores de 2.000 g (5-7 Hz).
+- **Estrategia de frecuencias altas con VG** (Experto, solo validada con VN500): una vez ventilado, subir la frecuencia bajando el VThf con DCO~2~ estable. Pasar a I:E 1:1 por encima de 15 Hz y repetir la gasometría (riesgo de hipocapnia).
+
+*Tabla 12.3-5. Objetivos gasométricos en VAFO (Experto).*
+| | < 32 semanas y/o < 1.500 g | > 32 semanas y/o > 1.500 g |
+| pH | 7,25-7,45 | 7,30-7,45 |
+| PaO~2~ | 50-60 mmHg | 50-70 mmHg |
+| PaCO~2~ | 40-55 mmHg | 40-55 mmHg |
+
+- Capilar arterializado: PCO~2~ 40-55. Venoso: 45-60.
+- Sin gases arteriales: SatO~2~ preductal 90-95 %.
+
+! La unidad 7 del curso de ventilación invierte los rangos de pH (7,25-7,45 en > 32 semanas y 7,30-7,45 en < 32) y da PaCO~2~ 45-55 mmHg.
+
+## Ajustes
+
+| Problema | 1.º | 2.º |
+| Oxigenación (PaO~2~ o SatO~2~ alta o baja) | FiO~2~ (hasta 0,4-0,5) | PMA de 1 a 2 cmH~2~O |
+| Ventilación (pCO~2~ alta o baja) | ΔP de 5 cmH~2~O, o VG de 0,1 ml/kg | FR de 1 Hz |
+
+*Esquema del curso, tema 7: cada parámetro se sube o se baja según el sentido del cambio, primero el de la columna 1.º.*
+
+## Situaciones especiales (curso, tema 7)
+
+- **SAM:**
+  - Atrapamiento y atelectasia coexisten. Si predomina el atrapamiento, **PMA igual a la de la VMC**; si predomina el colapso, PMA + 2.
+  - **Frecuencias bajas 6-9 Hz**; VG 2,5-3,5 ml/kg.
+- **Fuga aérea:** **misma PMA que en VMC**, sin maniobras de reclutamiento, I:E 1:2 con Ti corto.
+- **Hernia diafragmática:**
+  - **Objetivos:** SatO~2~ preductal 80-95 % y posductal > 70 %, PaCO~2~ 50-70 mmHg, pH > 7,2, lactato < 5 mmol/l, diuresis > 1 ml/kg/h.
+  - **Parámetros:** PMA convencional + 2 (rango 12-15), **sin maniobras de reclutamiento**, no superar 16-17 cmH~2~O, frecuencia 9-12 Hz, amplitud 30-50 cmH~2~O.
+  - **VICI trial:** la VAFO inicial no fue mejor que la VMC; la VAFO es de rescate (PIP > 28, SatO~2~ preductal < 85 % o posductal < 70 %, o pH < 7,27 con pCO~2~ > 60 y PIP > 25).
+- **ONi y VAFO** se combinan con frecuencia en la HTPP.
+
+! Los objetivos de la hernia diafragmática en VAFO (curso, tema 7) difieren de los de la pestaña «Hernia diafragmática» (SatO~2~ preductal ≥ 90 % en UCIN y PCO~2~ ≤ 65 mmHg, Experto).
+
+## Monitorización y cuidados
+
+- **Vibración** torácica hasta el ombligo, auscultación, **CO~2~ transcutáneo** (o DCO~2~ con VG), gasometría, TA, FC y diuresis; radiografía.
+- Una caída de la vibración y de la DCO~2~ sugiere obstrucción por secreciones.
+- **Aspiración con sistema cerrado**, solo cuando sea necesaria.
+- **Humidificación a 37 °C y 100 %**, más difícil que en VMC.
+- Optimizar el gasto (volumen, inotrópicos).
+- Sedación individualizada; mantener la respiración espontánea mejora la ventilación regional. Puede hacer falta más sedación si hay HTP.
+- **Conocer el respirador:**
+  - El SensorMedics 3100A es una VAFO pura, sin medida de volumen (riesgo de hipocapnia).
+  - VN500, Fabian, SLE 6000, Servo-n y Leoni Plus son híbridos con VG.
+
+## Destete
+
+- **Cuándo:** hay que bajar la ΔP o subir la frecuencia (sin VG), o bajar el VThf o la frecuencia (con VG), para mantener la pCO~2~; o se puede bajar la PMA y la FiO~2~ con mejoría clínica y radiológica.
+- **Curso:** con FiO~2~ 0,30-0,35, bajar la PMA **1 cmH~2~O cada 2-24 h**; volver a subirla si empeora.
+- Con **PMA 10-12 cmH~2~O**, pasar a VMC o extubar directamente: menos sedación, PMA 7-10 y amplitud mínima.
+
+## Complicaciones
+
+- **Sobredistensión:** retención de CO~2~, caída de la PaO~2~, escape aéreo y **compromiso hemodinámico** (menor retorno venoso: volumen e inotrópicos).
+- **Hipo o hiperventilación:** **HIV y leucomalacia** por cambios del flujo cerebral, sobre todo con equipos sin medida del VThf. **Monitorizar el CO~2~ transcutáneo.**
+- **Traqueítis necrosante:** restos de mucosa en la aspiración y pérdida de aireación y de oscilación. Diagnóstico por fibrobroncoscopia.
+- Aumento de la presión venosa central, intracraneal y de las RVP.
+
+! Ver también Protocolos → 34 (VAFO).

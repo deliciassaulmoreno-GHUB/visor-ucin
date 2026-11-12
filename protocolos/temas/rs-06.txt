@@ -1,0 +1,57 @@
+@f TEMAS/RS/6
+*Fuentes:*
+- *Experto en Neonatología: tema «Enfermedad por déficit de surfactante» (Guía Europea de SDR 2022), 5.2 «Patología respiratoria del prematuro» (Elorza), 12.3 «Asistencia ventilatoria», 12.4 «Enfermedad respiratoria aguda neonatal» y 12.6 «HPPN».*
+- *Curso de Asistencia Respiratoria Neonatal, temas 5 y 12.*
+
+## Fundamento
+
+- El RN con SDR tiene **< 10 mg/kg** de surfactante almacenado, frente a unos 100 mg/kg en el RN a término.
+- El déficit puede ser primario (inmadurez, hipoxia, acidosis, diabetes materna) o por **inactivación** (edema, infección, meconio, ventilación mecánica).
+- El surfactante exógeno reduce la tensión superficial, estabiliza los alveolos y aumenta la CRF y la distensibilidad. Acorta y suaviza el curso del SDR.
+
+## Indicaciones
+
+**SDR del prematuro, rescate precoz** (preferido al profiláctico desde 2013):
+- **FiO~2~ > 0,3 con CPAP ≥ 6 cmH~2~O** (umbral menor en los más inmaduros). Experto 12.3: FiO~2~ 30 % con CPAP 6-8 para SatO~2~ preductal > 90 %.
+- O **ecografía pulmonar con LUS > 8** (protocolo ESTHER).
+- **Todo prematuro intubado** por SDR (profiláctico para estabilizar).
+- **Segunda y tercera dosis** si persiste la necesidad.
+
+**Otras indicaciones (inactivación):**
+- **SAM grave:** **FiO~2~ > 50 % y MAP > 10-12 cmH~2~O**, o radiografía de disfunción del surfactante. Reduce la ECMO.
+- Curso, tema 5: en el SAM con hipoxemia y atelectasia difusa, puede ser aconsejable antes del ONi.
+- **HPPN con enfermedad parenquimatosa** (EMH, SAM): puede reducir la ECMO. En la HTP, el surfactante precoz redujo la ECMO o la muerte (Konduri).
+
+**No recomendado:**
+- **Surfactante tardío** para prevenir la DBP.
+- **Surfactante con budesonida**: un metaanálisis inicial fue favorable, pero estudios posteriores no lo confirmaron.
+
+## Preparados y dosis
+
+| Preparado | Dosis |
+| **Poractant alfa (Curosurf®)** | **200 mg/kg**; repetir **100 mg/kg cada 12 h** |
+| Beractant (Survanta®) | 100 mg/kg cada 6 h |
+| Bovactant (Alveofact®) | 50 mg/kg |
+
+- La dosis inicial de 200 mg/kg de poractant es mejor que la de 100 mg/kg; es el preparado más eficaz.
+
+! La calculadora «Surfactante (poractant)» está en Calculadoras y escalas.
+
+## Técnicas de administración
+
+- **LISA / MIST:** catéter fino entre las cuerdas vocales con el niño en respiración espontánea con CPAP.
+  - **De elección** si hay experiencia.
+  - Frente al INSURE: menos intubación, menos HIV y menos muerte o DBP.
+- **INSURE:** intubar, dar el surfactante y extubar en seguida.
+- **Intubado:** extubar lo antes posible.
+- Mascarilla laríngea, posible en > 1 kg (Guía Europea 2022). Nebulizado, en estudio.
+
+## Después de administrarlo
+
+- **Mejora la distensibilidad:** riesgo de **sobredistensión y neumotórax**; bajar la PIP o confiar en el VG.
+- **Recluta:** riesgo de **hiperoxia**; bajar la FiO~2~.
+- **Alarga la constante de tiempo:** riesgo de atrapamiento si la FR es alta.
+- Vigilar la expansión torácica, la PaCO~2~ y la TA, y **bajar los parámetros**.
+- **Si no responde:** buscar otra causa (neumonía, HPPN, cardiopatía). En el protocolo del servicio se indica ecocardiografía.
+
+! Ver también Protocolos → 31 (Administración de surfactante) y «Surfactante utilizado HGM»; SENEO 3.21 (SDR) y 6.4 (LISA). La fisiopatología y el manejo del SDR están en Patología respiratoria → «Déficit de surfactante».

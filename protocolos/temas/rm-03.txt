@@ -1,0 +1,97 @@
+@f TEMAS/RM/3
+*Fuentes: Curso de Asistencia Respiratoria Neonatal, tema 3 «Acondicionamiento de gases. Monitorización y cuidados del RN ventilado»; Curso de ventilación mecánica, «Gases medicinales».*
+
+## Humidificación y calentamiento
+
+- **Ventilación invasiva:** el tubo anula la función de la vía aérea superior. El gas debe entrar en el tubo a **37 °C con humedad relativa del 100 % (humedad absoluta 44 mg/l)**.
+- **VNI y cánulas con flujo ≥ 2 l/min:** igual de calientes y húmedos, sobre todo en prematuros. A más flujo, menos capacidad de la vía aérea para acondicionarlo.
+- **El gas frío puede producir hipotermia** en prematuros, tanto en VNI como en invasiva. Calentar el gas no altera la temperatura esofágica en la hipotermia terapéutica.
+
+**Mal acondicionamiento:**
+- Mal funcionamiento ciliar y moco espeso.
+- Lesión de la mucosa nasal en VNI.
+- Atelectasias.
+- DBP.
+- **Traqueobronquitis necrosante**.
+- Hipotermia.
+
+**Equipo:**
+- Base calentadora servocontrolada con sensores a la salida del humidificador y a la **entrada del paciente**.
+- Cazoleta con agua destilada estéril de rellenado automático.
+- **Hilo calefactor** en la rama inspiratoria (y en la espiratoria en invasiva).
+
+**Condensación:**
+- Unas gotitas son normales con gas saturado.
+- Si es abundante: flujo turbulento, **autociclado** e incluso obstrucción del circuito o del tubo.
+- Al pasar de 37 °C a 30 °C, un flujo de 6 l/min deposita unos **120 g de agua en 24 h**.
+
+**Activa frente a pasiva** (curso de VM, uso pediátrico): la nariz artificial es más barata y simple, pero menos eficaz y añade resistencia y espacio muerto.
+
+! Ver también Protocolos → 68 (Humidificación del gas inhalado en terapia respiratoria neonatal).
+
+## Filtros y circuito
+
+- **Filtro en la rama espiratoria** antes del respirador. En la inspiratoria solo en VAFO con alto riesgo de contaminación, porque un doble filtro aumenta la resistencia.
+- Cambiar los filtros **cada 24-48 h**, o antes si se mojan (aumento inadecuado de la PEEP).
+- Revisar el circuito: condensación, desconexiones o fugas, montaje correcto.
+
+## Tubo endotraqueal
+
+**Fijación y posición:**
+- Fijación estable (tipo mariposa sobre hidrogel), sin tracción.
+- **Registrar la longitud** tras la radiografía y comprobarla, con la auscultación bilateral, tras cada manipulación.
+- **Punta en T2.**
+- El desplazamiento puede causar extubación accidental, atelectasia, neumotórax o lesión traqueal.
+
+**Profundidad orotraqueal desde el labio superior:**
+- **> 1.000 g: 6 + peso en kg (cm).**
+- **< 1.000 g: 5-6 cm.**
+
+**Aspiración traqueal:**
+- **Solo si hay secreciones, no pautada.**
+- Entre dos personas, estéril y breve.
+- **Presión 50-100 cmH~2~O.**
+- Sonda de **2/3 del calibre del tubo**, sin sobrepasar la punta.
+- Poca aspiración en los 2-3 primeros días; más después.
+- **Sistema cerrado:** aspira sin desconectar, se cambia cada 24 h y es **fundamental en VAFO** para no desreclutar.
+
+## CPAP y VNI
+
+- **Fijación estable:** transmite la presión de forma estable.
+- **Boca cerrada** (chupete).
+- Tamaño adecuado del generador; hidrogel protector.
+- **No presionar la columela.**
+- Rama espiratoria fuera de la incubadora (ruido).
+
+**Riesgos:**
+- Reclutamiento inestable o apneas.
+- **Lesión de la columela** (mascarillas pequeñas apretadas).
+- Lesión de la mucosa con flujos altos o gas mal acondicionado.
+
+## Posición y cuidados generales
+
+- **Supino** en la estabilización, al canalizar vías, al dar surfactante y en las radiografías.
+- **Cabeza algo elevada y en línea media** (en muy bajo peso, sobre todo los 3 primeros días, por el riesgo de HIV).
+- Flexión con las manos en línea media y contención.
+- Cambios periódicos de postura si es posible. El **prono** en pacientes estables puede mejorar la oxigenación (evidencia débil).
+- **Cuidados centrados en la familia:**
+  - Padres 24 h.
+  - **Piel con piel / canguro**, seguro también intubado y estable.
+  - Control del dolor, la luz y el ruido.
+  - Protección del sueño.
+  - Leche materna.
+
+## Extubación
+
+- Valorar el esfuerzo y la mecánica respiratoria.
+- **Citrato de cafeína** en prematuros.
+- **CPAP o VNI preparada y funcionando antes de extubar** si se prevé que la necesitará.
+- Ambiente tranquilo y vía aérea permeable.
+- **No aspirar justo antes ni durante la retirada del tubo.**
+- Observación estrecha posterior.
+
+## Riesgos del oxígeno (curso de VM)
+
+- **Agudos:** hipoventilación inducida por O~2~, atelectasias por absorción.
+- **Crónicos:** DBP, ROP.
+- Umbral de toxicidad citado: **FiO~2~ 50-60 %** (unidad 7: > 0,6).

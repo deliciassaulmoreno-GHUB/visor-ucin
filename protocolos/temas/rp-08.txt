@@ -1,0 +1,69 @@
+@f TEMAS/RP/8
+*Fuente principal: Experto en Neonatología, 5.1 «Apneas: medidas de prevención y terapéuticas» (Rodríguez Castaño). Complemento: Curso de Asistencia Respiratoria Neonatal, tema 9 «Apnea de la prematuridad».*
+
+## Definición
+
+- **Apnea de la prematuridad:** cese de la respiración **> 20 s**, o más corto si se asocia a **bradicardia o desaturación**, en < 37 semanas.
+- Distinguir de la **respiración periódica**: pausas de 5-10 s sin repercusión cardiocirculatoria (o con pequeñas caídas) y recuperación espontánea; no precisa intervención.
+- Causa: **inmadurez del control respiratorio** (menor respuesta al CO~2~, inhibición hipóxica, mielinización pobre, más GABA y adenosina) y **vía aérea superior colapsable** (hipotonía hipofaríngea, sobre todo en sueño).
+
+| Tipo | Mecanismo | Frecuencia (curso) |
+| Central | Sin esfuerzo inspiratorio | 10-25 % |
+| Obstructiva | Obstrucción de la vía aérea superior con esfuerzo | 10-25 % |
+| Mixta | Obstrucción seguida (o precedida) de apnea central | **50-75 %** (la más frecuente) |
+
+Por su causa: **primaria** (idiopática, de la prematuridad) o **secundaria** (sintomática).
+
+## Epidemiología y evolución
+
+- Incidencia inversamente proporcional a la EG: **casi el 100 % de < 28 semanas** y hasta la mitad de los prematuros moderados.
+- Empieza en los primeros días (a menudo aumenta tras la 1.ª semana). Se resuelve hacia las **36-37 semanas** de EPM; en los nacidos a las **24-28 semanas puede persistir hasta las 43 (43-44) semanas**. Su cese coincide con otros signos de maduración (coordinación succión-deglución).
+- Consecuencias a largo plazo controvertidas; las apneas prolongadas pueden producir hipoperfusión cerebral.
+
+## Diagnóstico
+
+- Monitorización continua: **impedancia torácica** (detecta las centrales), FC (bradicardia) y **pulsioximetría** (gravedad de las desaturaciones). **Monitorizar a todo < 35 semanas.**
+- **Diagnóstico de exclusión.** Sobre todo descartar **sepsis**, especialmente si aparecen tras un periodo libre de apneas.
+
+*Tabla 5.1-1. Evaluación diagnóstica.*
+| Antecedentes | Sulfato de magnesio u opiáceos maternos; opiáceos al RN; riesgo de sepsis precoz; trauma obstétrico; asfixia |
+| Clínica | Alteraciones metabólicas (temblor, hipotonía, letargia); sepsis (inestabilidad hemodinámica); clínica neurológica (HIV, hidrocefalia, encefalopatía); anomalías de la vía aérea superior |
+| Pruebas | Hemograma, PCR, glucosa, Ca, Mg, iones; función hepática, amonio; hemocultivo, urocultivo, LCR; virus respiratorios; gasometría; radiografía de tórax; ECG; metabolopatías; impedanciometría; ecografía cerebral; ecocardiografía |
+
+Otras causas a descartar: anemia, infección vírica (VRS), hipoglucemia, hipocalcemia, hiponatremia, depresión farmacológica, hipoxemia, reflujo, obstrucción nasal, **ductus**, **convulsiones**, malformación del SNC, enterocolitis necrotizante.
+
+## Prevención (< 35 semanas)
+
+- **Temperatura neutra** (evitar hipo e hipertermia); evitar luces y ruidos intensos.
+- **Vía aérea permeable:** evitar flexión o extensión extremas del cuello; prono con la cuna algo elevada o en nido.
+- **Manipulación cuidadosa:** aspiración suave, analgesia en procedimientos.
+- **O~2~ el estrictamente necesario:** tanto la hipoxemia como los aumentos rápidos de FiO~2~ inducen apneas.
+- Soporte respiratorio y nutricional adecuados; valorar transfundir si el **hematocrito < 25-30 %** (curso).
+
+## Tratamiento
+
+- **Ante la pausa:** restablecer FC y oxigenación (estimulación táctil, aspiración, O~2~, bolsa y mascarilla; si hace falta, intubación). Después buscar la causa; si es secundaria, tratamiento etiológico.
+- Tratar en orden creciente de invasividad si las apneas son **repetidas y prolongadas** o precisan **ventilación con bolsa frecuente**.
+
+**Cafeína (metilxantina de elección):** antagonista de los receptores de adenosina; estimula el centro respiratorio y la contractilidad diafragmática. Reduce apneas, VM y **DBP**, y mejora la supervivencia sin discapacidad a los 18-21 meses.
+| | Cafeína base | Citrato de cafeína |
+| Carga (IV u oral) | 10 mg/kg | **20 mg/kg** |
+| Mantenimiento | 2,5-5 mg/kg/24 h | **5-10 mg/kg/24 h** |
+
+- Niveles terapéuticos 5-20 μg/ml (curso: 5-25 mg/l); **no medir de rutina**, solo si hay toxicidad o mala respuesta.
+- **Indicación (curso):** profiláctica en **< 28 semanas** (la Guía Europea de SDR la amplía a **< 32 semanas**), o a cualquier EG con **apneas significativas** (desaturación < 85 % o necesidad de bolsa autoinflable). El Experto no la recomienda profiláctica de rutina en todos los prematuros, pero es frecuente en < 1.000 g para evitar la VM.
+- **Efectos adversos:** taquicardia, intolerancia digestiva, hiperactividad, más diuresis y calciuria, más gasto energético.
+- **Retirada:** a las **34-36 semanas** (curso: 32-34) si no hay apneas en **5-7 días** y no precisa soporte. Su efecto dura una semana: mantener la monitorización hasta **≥ 5 días sin apneas** tras ese periodo.
+- **Teofilina** (alternativa): carga 5-7 mg/kg, luego 2 mg/kg/12 h (niveles 5-15 mg/l). La cafeína es preferible (vida media larga, mejor tolerancia, niveles estables, acción rápida).
+
+**Soporte no invasivo:**
+- **CPAP nasal** (reduce las obstructivas y mixtas): **4-6 cmH~2~O** iniciales, hasta **7-8** si no responde y no hay distensión abdominal.
+- **Alto flujo**: efecto quizá comparable, con menos datos en < 28 semanas.
+- **NIPPV** (sincronizada o no): más eficaz que la CPAP según algunos estudios.
+- Si fracasa: **intubación y VM convencional**.
+
+**Otros:**
+- **Doxapram:** eficaz en la apnea refractaria, pero con efectos adversos (hiperglucemia, convulsiones, HTA; alcohol bencílico) y relación con retraso del desarrollo; dosis máxima 1,5 mg/kg/h. **Hoy no se considera en el manejo.**
+- **Antirreflujo:** sin relación causal demostrada entre reflujo y apnea ni beneficio del tratamiento.
+
+! Ver también Protocolos → Sociedad Española → 3.22 (Apnea de la prematuridad).
