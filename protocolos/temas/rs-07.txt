@@ -1,0 +1,65 @@
+@f TEMAS/RS/7
+*Fuentes: Curso de Asistencia Respiratoria Neonatal, tema 3 «Acondicionamiento de gases. Monitorización y cuidados del RN ventilado»; Experto en Neonatología, 12.3; Curso de ventilación mecánica, «Gases medicinales» (UCIP HGU Gregorio Marañón).*
+
+## Por qué acondicionar el gas
+
+- La vía aérea superior calienta y humidifica el aire inspirado (100 % de humedad relativa) y filtra partículas. Del aire espirado recupera aprox. el 25 % del calor y la humedad.
+- **Con tubo endotraqueal** esa función se anula: el gas debe llegar a la tráquea suficientemente caliente y húmedo.
+- **En VNI y con cánulas nasales de flujo ≥ 2 l/min** el gas también debe entrar caliente y húmedo, para no lesionar la mucosa respiratoria superior, sobre todo en prematuros. **A más flujo, menos capacidad de la vía aérea para acondicionarlo.**
+- **El gas frío puede producir hipotermia** en prematuros, tanto en ventilación invasiva como no invasiva. El calentamiento habitual del gas no altera la temperatura esofágica en la hipotermia terapéutica.
+
+## Conceptos
+
+- **Humedad absoluta:** masa de vapor de agua en el gas (mg/l).
+- **Humedad relativa:** proporción respecto al máximo posible (saturación = 100 %) a esa temperatura y presión.
+- El gas más caliente admite más agua.
+- **Punto de rocío:** temperatura a la que el gas saturado condensa. Si el gas saturado se enfría en el circuito, deposita agua: un flujo de 6 l/min saturado a 37 °C que baja a 30 °C deposita unos **5 g de agua en 1 h y 120 g en 24 h**.
+
+| Temperatura | Vapor de agua en el gas saturado |
+| 37 °C | 44 mg/l |
+| 30 °C | 30 mg/l (− 32 %) |
+| 20 °C | 17 mg/l (− 61 %) |
+
+## Objetivo
+
+**Temperatura de entrada 37 °C y humedad relativa del 100 % (humedad absoluta 44 mg/l).**
+- En ventilación invasiva, a la entrada del tubo.
+- En VNI, a la entrada de la vía aérea superior.
+
+**Efectos del mal acondicionamiento:**
+- Mal funcionamiento ciliar y mala fluidificación del moco; retención de secreciones.
+- Lesión de la mucosa nasal en la VNI.
+- Atelectasias.
+- Displasia broncopulmonar.
+- **Traqueobronquitis necrosante**.
+- Hipotermia.
+- Curso de VM: también lesión pulmonar y daño del surfactante.
+
+## Equipo
+
+- **Base calentadora servocontrolada**, con sensores de temperatura a la salida del humidificador y a la **entrada del paciente**. Controla la temperatura a la entrada del tubo o a la salida del circuito de VNI.
+- **Cazoleta** con agua destilada estéril; rellenado automático.
+- **Hilo calefactor** en la rama inspiratoria y/o espiratoria, para evitar el enfriamiento y la condensación. Alternativa en la rama espiratoria: trampa de agua.
+- En VNI es igual, sin calentar la rama espiratoria.
+- **CPAP y VNI (Experto):** humidificador al 100 % a 37 °C; en los humidificadores automáticos, **modo invasivo**.
+
+**Humidificación activa frente a pasiva** (curso de VM, uso pediátrico):
+- **Activa:** más eficaz y con temperatura programable, pero más cara y con reservorio (infección, desconexiones).
+- **Pasiva** (nariz artificial): barata, portátil y simple, pero menos eficaz, con más resistencia y espacio muerto.
+
+## Condensación
+
+- **Unas gotitas son normales** con gas saturado.
+- **Si es abundante:** flujo turbulento visible en la curva de flujo, ventilación alterada, **autociclado** en modalidades con trigger y, si obstruye el circuito o el tubo, interrupción de la ventilación.
+- **La favorecen:** corrientes de aire, sala fría, mal funcionamiento de la base calentadora.
+- **Flujos muy altos (frecuentes en VAFO):** más consumo de agua y condensación. A veces puede considerarse quitar la compensación automática de humedad. Los flujos muy altos o cambiantes también dificultan el calentamiento y pueden dar gas mal acondicionado.
+- En VAFO es más difícil alcanzar 37 °C y 100 % que en VMC: hay que ajustar el humidificador.
+
+## Filtros
+
+- **En la rama espiratoria**, antes del respirador: evitan emitir aerosoles con patógenos y que entren partículas en la máquina.
+- **En la rama inspiratoria** solo en VAFO con riesgo muy alto de contaminación ambiental: el doble filtro aumenta las resistencias.
+- **Cambiarlos cada 24-48 h**, o antes si se mojan u obstruyen (aumento inadecuado de la PEEP).
+- **Sensor de flujo:** si se moja deja de funcionar. Colocarlo más alto que la entrada de las tubuladuras en la incubadora.
+
+! Ver también Protocolos → 68 (Humidificación del gas inhalado en terapia respiratoria neonatal) y Monitorización → «Humidificación y cuidados del paciente ventilado».

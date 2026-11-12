@@ -1,5 +1,5 @@
 @f TEMAS/RP/9
-*Fuente: Experto en Neonatología, 12.6 «Hipertensión pulmonar persistente neonatal» (Álvaro y Dakshinamurti).*
+*Fuentes: Experto en Neonatología, 12.6 «Hipertensión pulmonar persistente neonatal» (Álvaro y Dakshinamurti); Nevarez Gilbert y Bischoff, «Pulmonary Hypertension in Infants Who Are Premature», NeoReviews 2026;27(3):e144 (apartado «HTP en el prematuro: fenotipos»).*
 
 ## Concepto
 
@@ -78,5 +78,95 @@
 **ECMO:** generalmente con **IO > 40** (criterio de Bartlett: mortalidad ≥ 80 %). Aumenta la supervivencia sin más discapacidad grave; riesgos: hemorragia intracraneal, ligadura carotídea.
 
 **Terapias emergentes, sin evidencia en neonatos:** bosentán (sin beneficio como adyuvante en un ensayo), L-arginina y L-citrulina, riociguat y cinaciguat, fasudil, antioxidantes, adenosina.
+
+## HTP en el prematuro: fenotipos (NeoReviews 2026)
+
+- La HTP aguda afecta a unos **2/1.000 nacidos vivos** y complica aprox. el **10 %** de las insuficiencias respiratorias neonatales. En una cohorte japonesa de más de 12.000 prematuros extremos estaba presente en el **8,1 %**, más con **rotura prematura de membranas o corioamnionitis**.
+- **Aguda o transicional:** poco después de nacer, por RVP elevada y labilidad de la oxigenación.
+- **Crónica:** después del primer mes, por remodelado vascular progresivo. Se asocia sobre todo a DBP, hipoplasia pulmonar o síndromes genéticos.
+- **Factores de riesgo fetales:**
+  - Vasculatura **constreñida**: sepsis, SAM, SDR.
+  - **Hipoplásica**: hernia diafragmática, agenesia o displasia renal.
+  - **Remodelada**: idiopática, SAM.
+  - Asociación emergente con **RPM prolongada y oligohidramnios**.
+- **Ley de Darcy:** **PAPm = (flujo pulmonar × RVP) + presión de enclavamiento** (aprox. presión en la AI). La PAP puede subir por RVP, por flujo o por presión en la AI: de ahí los **tres fenotipos**.
+
+*Tabla 1 (NeoReviews 2026). Fenotipos de HTP en el prematuro.*
+@ancha
+| Fenotipo | Fisiología | Ecocardiografía característica | Respuesta al ONi y vasodilatadores |
+| Todos | PAPm elevada | Presión sistólica del VD alta (por la IT), septo aplanado o movimiento paradójico, ductus derecha-izquierda o bidireccional | Variable según el fenotipo dominante |
+| **Precapilar** | RVP alta por vasoconstricción o remodelado | **Foramen oval derecha-izquierda**, flujo pulmonar bajo, dilatación o disfunción del VD | **Habitualmente responde**: mejora la oxigenación y baja la poscarga del VD |
+| **Poscapilar** | Presión en la AI alta por disfunción sistólica y/o diastólica del VI, con congestión venosa | **Foramen oval izquierda-derecha**, AI y/o VI dilatados, disfunción del VI | **Puede empeorar** el edema pulmonar y la hipoxemia |
+| **Por flujo** | Flujo pulmonar aumentado: shunts izquierda-derecha (ductus, CIA, CIV, MAV) o gasto alto | Gasto alto y sobrecarga de volumen (cavidades dilatadas, más flujo en venas pulmonares, VI hiperdinámico) | **A menudo perjudicial**: aumenta el shunt y empeora la perfusión sistémica |
+
+**Precapilar** (el clásico):
+- La RVP alta sobrecarga el VD y reduce el flujo pulmonar. La disfunción del VD altera el VI por desplazamiento del septo y por interdependencia ventricular.
+- El shunt derecha-izquierda por el **foramen oval** mantiene la precarga del VI, pero desatura sobre todo la circulación preductal.
+- El shunt por el **ductus** descarga el VD a costa de desaturación posductal y gradiente pre-posductal.
+
+**Poscapilar:**
+- **Aguda:** disfunción sistólica del VI, descrita en la **hernia diafragmática**.
+  - **Patrón típico:** ductus derecha-izquierda o bidireccional **con foramen oval izquierda-derecha**.
+  - El ONi puede mejorar la SatO~2~ pero invertir el ductus y comprometer la perfusión sistémica si depende de él (**SatO~2~ falsamente tranquilizadora**).
+- **Crónica:** prematuros con **DBP e HTA sistémica** con disfunción diastólica del VI.
+  - Sin ductus ni gradiente pre-posductal, con hipoxemia persistente.
+  - La HTA sistémica suele pasar desapercibida en la UCIN.
+  - **Los vasodilatadores pulmonares no son el tratamiento principal: reducir la poscarga** (en un estudio, **enalapril** fue seguro y mejoró la situación cardiorrespiratoria).
+
+**Por flujo:**
+- **Ductus izquierda-derecha amplio:** IT y septo aplanado junto a sobrecarga de AI y VI y flujo diastólico reverso en la aorta descendente.
+  - Si la presión pulmonar llega a sistémica, el ductus se hace bidireccional.
+  - **Foramen oval izquierda-derecha**: aún predomina el flujo. **Derecha-izquierda**: sugiere RVP elevada.
+- **CIA y CIV grandes:** sobrecarga derecha.
+- **MAV (vena de Galeno):** robo preductal e insuficiencia cardiaca de gasto alto.
+- Con el tiempo, el exceso de flujo remodela los vasos y la HTP pasa a depender de la resistencia. Un ductus grande no tratado en los 2 primeros años causa enfermedad vascular pulmonar en más de la mitad.
+
+**Clínica:**
+- Todos los fenotipos pueden dar **hipoxemia refractaria y lábil** pese a ventilación óptima y surfactante.
+- **Gradiente pre-posductal > 5-10 %** apoya el shunt ductal derecha-izquierda. Su ausencia no la descarta (ductus bidireccional o cerrado, shunt intracardiaco).
+- **Gradiente muy alto (> 20-25 %):** buscar disfunción del VI o cardiopatía, en las que el **ONi puede estar contraindicado o ser perjudicial**.
+- **Hipoxemia progresiva con congestión radiológica y sin gradiente:** sospechar HTP por flujo de un ductus izquierda-derecha significativo.
+- **Hipoperfusión sistémica** (hipotensión, láctico, relleno lento, oliguria): pensar en otras causas añadidas.
+
+**Ecocardiografía (patrón oro):** valoración multiparamétrica:
+- Presión del VD por la IT, posición del septo e índice de excentricidad telesistólico.
+- RVP, función y gasto de ambos ventrículos.
+- Dirección y magnitud de los shunts, sobre todo el **auricular**.
+- Flujo de venas pulmonares.
+- Función sistólica y diastólica izquierda.
+- Descartar cardiopatía estructural.
+
+**ONi en el prematuro (< 34 semanas):**
+- Clásicamente desaconsejado: sin beneficio en mortalidad, DBP ni neurodesarrollo.
+- Estudios observacionales muestran mejor oxigenación y, en algunos, menos mortalidad o DBP en **casos seleccionados**.
+- La Pediatric Pulmonary Hypertension Network admite su uso en prematuros de alto riesgo con **HTP o hipoplasia pulmonar**.
+
+*Figura 2 (NeoReviews 2026). Decisión escalonada sobre el ONi empírico:*
+1. **Antecedentes:** asfixia, **RPM prolongada**, corioamnionitis.
+2. **Hipoxemia desproporcionada** a la radiografía y la clínica.
+3. **Gradiente pre-posductal > 5-10 %** (apoya); **> 20 %**: precaución.
+4. **Compromiso cardiovascular** (hipotensión, mala perfusión, acidosis) en el contexto de la función del VD (fallo del VD propio del fenotipo precapilar).
+
+- **Reservar el ONi** para alta probabilidad de reactividad vascular, idealmente con ecocardiografía dirigida.
+- **Retirarlo** si no hay beneficio o aumentan los riesgos:
+  - Al bajar bruscamente la RVP, el ductus puede desviar flujo al pulmón, con riesgo de **HIV**.
+  - Con disfunción diastólica del VI, el aumento del retorno venoso puede producir **hemorragia pulmonar**.
+- Si funciona, **retirada gradual**. Si reaparece la hipoxemia, se puede reiniciar transitoriamente, pero hay que reevaluar.
+
+*Tabla 2 (NeoReviews 2026). Tratamiento según el fenotipo.*
+@ancha
+| Fenotipo | Objetivo | Primera línea | Complementos | Precauciones |
+| **Precapilar** | ↓ RVP | ONi, oxígeno, ventilación suave | PGE1 (circulación ductus-dependiente, descargar el VD); inotrópicos (dobutamina, adrenalina); vasopresores (vasopresina, noradrenalina); milrinona | Evitar hipoxia, hipercapnia y acidosis |
+| **Poscapilar** (aguda: hernia diafragmática, disfunción sistólica del VI; crónica: DBP con HTA) | Apoyar el VI, ↓ presión en la AI | Inotrópicos (dobutamina, adrenalina a dosis baja); reducción de poscarga (milrinona; enalapril en la crónica) | Diuréticos; PGE1 (perfusión sistémica ductus-dependiente, sobre todo aguda) | **Evitar el ONi** (edema pulmonar, peor perfusión sistémica) |
+| **Por flujo** (ductus, CIA/CIV, MAV) | ↓ sobrecarga de volumen, equilibrar Qp:Qs | Ductus: cierre farmacológico (indometacina, paracetamol), modulación del shunt. CIA/CIV: diuréticos, volemia. MAV: estabilización individualizada | Ductus: cierre definitivo si indicado. CIA/CIV: cierre con dispositivo o quirúrgico. MAV: embolización | **Evitar la vasodilatación pulmonar excesiva** (más shunt e hipoperfusión sistémica) |
+
+- **Precapilar aguda:**
+  - Dobutamina o adrenalina a dosis baja si hay disfunción del VD.
+  - **Vasopresina o noradrenalina mejor que dopamina**, que puede aumentar la vasoconstricción pulmonar. Objetivo: subir la presión en la raíz aórtica para mejorar la perfusión coronaria del VD.
+  - PGE1 para mantener el ductus si el VD está muy comprometido.
+- **Ductus con HTP por flujo:** la hipercapnia permisiva modula el shunt. Diuréticos y restricción hídrica alivian, pero no son tratamiento definitivo.
+- **Cateterismo con test de vasorreactividad:** en casos seleccionados, para decidir el cierre de shunts o los vasodilatadores.
+
+! El artículo es una revisión narrativa. Sus recomendaciones sobre el ONi en prematuros difieren de las del curso de asistencia respiratoria («Óxido nítrico»: no previene la DBP; posible utilidad con 5-10 ppm en HTP con RPM y oligohidramnios). El artículo no da dosis.
 
 ! La HTP asociada a la DBP está en «Displasia broncopulmonar», y la HTP en cardiopatías en Hemodinámica → «Otras patologías». Ver también Protocolos → Sociedad Española → 3.24 (HTPP).
