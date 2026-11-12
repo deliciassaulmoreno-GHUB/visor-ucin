@@ -248,3 +248,14 @@ $("#panelOpen").onclick=()=>$("#panel").classList.add("open");
 $("#panelClose").onclick=()=>$("#panel").classList.remove("open");
 setTheme(store.get(KEY+"-tema",matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"));
 render();
+
+/* Comprobación de versión: si index.html publicado trae otras versiones de los archivos, recargar */
+(()=>{const firma=d=>[...d.querySelectorAll('script[src],link[rel="stylesheet"]')].map(e=>e.getAttribute("src")||e.getAttribute("href")).filter(x=>/\?v=/.test(x)).sort().join("|");
+ const mia=firma(document);let comprobando=false;
+ const check=async()=>{if(comprobando||location.protocol==="file:")return;comprobando=true;
+  try{const r=await fetch(location.pathname+"?nc="+Date.now(),{cache:"no-store"});if(!r.ok)return;
+   const nueva=firma(new DOMParser().parseFromString(await r.text(),"text/html"));
+   if(nueva&&nueva!==mia){let k="";try{k=sessionStorage.getItem("visor-recarga")}catch(e){}
+    if(k!==nueva){try{sessionStorage.setItem("visor-recarga",nueva)}catch(e){}location.replace(location.pathname+"?r="+Date.now()+location.hash)}}}
+  catch(e){}finally{comprobando=false}};
+ check();document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")check()});})();
