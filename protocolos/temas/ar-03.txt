@@ -29,24 +29,64 @@ ECG de 12 derivaciones siempre que sea posible (y durante la cardioversión). Se
 
 **Taquicardia auricular focal** (automatismo, sobre todo): QRS estrecho precedido de P de morfología anormal (**RP largo**); puede haber bloqueo AV variable o 2:1 con irregularidad. **La presencia de bloqueo AV excluye las que usan el nodo AV.** Adenosina: muestra mejor las P (no la suele interrumpir). Tratamiento (libro): disminuir el automatismo; amiodarona o procainamida; β-bloqueante (esmolol, propranolol) ± flecainida o propafenona.
 
+@img ar-t01.jpg
+*Taquicardia auricular (Cardiología pediátrica para residentes, cap. 7).*
+
+
 **Taquicardia auricular multifocal o caótica:** rara, de neonatos y lactantes; ≥ 3 morfologías de P con PR variable, bloqueo variable, ritmo **muy irregular**. Suele resolverse espontáneamente; β-bloqueante para controlar la frecuencia.
 
 **Flutter auricular:** macrorreentrada. Dos escenarios: **neonatos con corazón normal** y pacientes con cardiopatía y cirugía previa. Ondas F «en dientes de sierra» (> 300 lpm; negativas en inferiores en el típico) con bloqueo AV variable (2:1, 3:1); con conducción 1:1, QRS ancho sinusoidal. **Adenosina: desenmascara las F, sin utilidad terapéutica.** Tratamiento (libro): **cardioversión sincronizada 1 J/kg**, sobreestimulación auricular, amiodarona o procainamida (otros: flecainida, digoxina).
 
+@img ar-t02.jpg
+*Flutter auricular: ondas F con conducción 2:1 (Cardiología pediátrica para residentes, cap. 7).*
+
+
 **Fibrilación auricular:** muy rara en la infancia (miocardiopatía, inflamación; puede provocarla la adenosina). Línea de base irregular sin P, ritmo ventricular muy irregular.
+
+@img ar-t03.jpg
+*Fibrilación auricular (Cardiología pediátrica para residentes, cap. 7).*
+
 
 **Reentrada AV por vía accesoria**
 - Vía accesoria (VAc): conexión muscular aurículo-ventricular. Con conducción anterógrada → **preexcitación**: **PR corto, onda delta y QRS ancho** en ritmo sinusal (Wolff-Parkinson-White si además hay taquicardia). Puede conllevar riesgo de muerte súbita por FA conducida a FV. **VAc oculta** (solo retrógrada): ECG basal normal y sin riesgo de muerte súbita.
+
+@img ar-t04.jpg
+*Preexcitación ventricular: PR corto y onda delta (Cardiología pediátrica para residentes, cap. 7).*
+
 - **Ortodrómica** (la más frecuente en la infancia): regular, muy rápida (más cuanto menor es el niño), **QRS estrecho** (ancho si bloqueo de rama funcional), **RP corto** (P poco después del QRS). La adenosina la **termina** (típicamente con una P no conducida).
+
+@img ar-t05.jpg
+*Taquicardia por reentrada AV ortodrómica (Cardiología pediátrica para residentes, cap. 7).*
+
 - **Antidrómica:** baja por la VAc: **QRS siempre ancho** (todo preexcitado), P tras el QRS; la adenosina la termina.
+
+@img ar-t06.jpg
+*Taquicardia por reentrada AV antidrómica (Cardiología pediátrica para residentes, cap. 7).*
+
 - **Taquiarritmia auricular preexcitada** (flutter/FA con VAc): taquicardia **irregular** con QRS anchos y estrechos; riesgo de FV que **aumenta si se bloquea el nodo**: **adenosina contraindicada en taquicardias irregulares de QRS ancho**.
+
+@img ar-t07.jpg
+*Taquiarritmia auricular preexcitada: taquicardia irregular con QRS anchos y estrechos (Cardiología pediátrica para residentes, cap. 7).*
+
 - **Digoxina contraindicada si hay preexcitación.**
 
 **Taquicardia por reentrada AV permanente (PJRT, de Coumel):** VAc posteroseptal derecha de conducción lenta y decremental solo retrógrada; **incesante**, a menudo hallazgo casual o debut con **taquimiocardiopatía**. QRS estrecho, **RP largo**, P negativas en II, III, aVF (aprox. 200 lpm según el libro). La adenosina la interrumpe solo transitoriamente. Libro: si reaparece tras la cardioversión, amiodarona; **ablación precoz**.
 
+@img ar-t08.jpg
+*Taquicardia por reentrada AV permanente (PJRT) (Cardiología pediátrica para residentes, cap. 7).*
+
+
 **Reentrada intranodal:** muy rara antes de la edad escolar; doble vía nodal. QRS estrecho, regular, inicio y fin bruscos; en la común, **P no visible** (superpuesta al QRS). La adenosina la termina.
 
+@img ar-t09.jpg
+*Taquicardia por reentrada intranodal (Cardiología pediátrica para residentes, cap. 7).*
+
+
 **Taquicardia de la unión (JET):** automatismo junto al His; forma primaria (precoz e incesante) o **secundaria, más frecuente, en el postoperatorio** precoz. QRS estrecho, disociación AV con frecuencia ventricular > auricular (o P retrógradas tras el QRS), latidos de captura. **No responde a la cardioversión.**
+
+@img ar-t10.jpg
+*Taquicardia automática de la unión (JET) (Cardiología pediátrica para residentes, cap. 7).*
+
 
 ! El manejo del JET postoperatorio (hipotermia, sedación y relajación, reducción de catecolaminas, amiodarona, marcapasos) está en «Complicaciones postoperatorias → Arritmias».
 

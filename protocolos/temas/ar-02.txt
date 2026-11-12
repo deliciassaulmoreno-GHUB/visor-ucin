@@ -24,6 +24,10 @@
 
 - **Alto riesgo:** **Jervell-Lange-Nielsen** (autosómico recesivo, **sordera neurosensorial congénita**, QTc muy largo) y **Timothy** (QT muy largo con **sindactilia** y afectación sistémica). Romano-Ward: autosómico dominante.
 - **Diagnóstico:** QTc prolongado en ≥ 2 ECG, por Bazett, preferiblemente en II y V5 (incluir la onda U si es > 50 % de la T). Normal: **< 440 ms en varones y < 460 ms en mujeres; en neonatos y lactantes pequeños hasta 480 ms puede ser normal**. **Criterios de Schwartz:** ≤ 1 punto, probabilidad baja; 2-3, moderada; > 4, alta. Si hay sospecha: estudio genético (positivo en el 75 %).
+
+@img ar-c02.jpg
+*ECG con intervalo QT largo (Cardiología pediátrica para residentes, fig. 4 del cap. 12).*
+
 - **Tratamiento:** **β-bloqueantes** de primera línea en todos los tipos (superiores **nadolol y propranolol**); si el fenotipo es grave o persisten síntomas: **simpatectomía y DAI**.
 - **Recomendaciones:** evitar esfuerzos intensos o competitivos y actividades de riesgo (natación en el SQTL1), **fármacos que alargan el QT** (www.crediblemeds.org), productos de herbolario, bebidas energéticas, drogas y deshidratación.
 
@@ -39,6 +43,10 @@
 - Arritmias ventriculares polimorfas **desencadenadas por estrés adrenérgico** (esfuerzo, emociones), con **ECG basal normal** y corazón normal. Prevalencia estimada 1:10.000. Mutaciones del **receptor de la rianodina (RYR2)**, autosómica dominante.
 - Se presenta sobre todo en la infancia (**7-10 años**). Sospecharla ante todo **síncope atípico con esfuerzo o emoción**: muy letal y fácil de pasar por alto.
 - **Diagnóstico:** prueba de esfuerzo: extrasístoles de distinta morfología, bidireccionales y/o **TV bidireccional** (rotación del QRS de 180° latido a latido).
+
+@img ar-c03.jpg
+*ECG con extrasístoles bidireccionales/TV típicas de la TVPC (Cardiología pediátrica para residentes, fig. 5 del cap. 12).*
+
 - **Tratamiento:** β-bloqueantes (**nadolol a dosis altas** de elección); añadir **flecainida** si persisten síncopes o arritmias en la ergometría; simpatectomía en alto riesgo; el DAI es controvertido. Evitar estímulos emocionales y ejercicio intenso; vigilancia estrecha.
 
 ## Síndrome de Brugada
@@ -46,6 +54,10 @@
 - Pérdida de función de canales de sodio (**SCN5A**) con riesgo de arritmias ventriculares malignas. Típico de varones adultos (3.ª-4.ª década). En pediatría, casi siempre diagnóstico incidental (**patrón en el ECG con fiebre**) o por estudio familiar.
 - **Presentación infantil** (infrecuente): disfunción sinusal (bradicardia, pausas, bradi-taquicardia, incompetencia cronotropa), arritmias supraventriculares (flutter, FA), trastornos de conducción (QRS ancho), y arritmias ventriculares: en niños es más frecuente la **TV monomorfa desencadenada por fiebre** (en el adulto, TV polimórfica o FV).
 - **Diagnóstico** (solo el tipo 1 es diagnóstico): **elevación convexa del ST ≥ 2 mm «en aleta de tiburón» con T negativa en V1-V2**. Según la guía rápida, tipos 2 y 3 (ST «en silla de montar») son sugestivos, no diagnósticos. Patrón **dinámico** (temperatura, testosterona, tono vagal): espontáneo es diagnóstico; si no, test farmacológico. Colocar V1-V2 en el 3.^er^ o 2.º espacio intercostal aumenta la sensibilidad.
+
+@img ar-c04.jpg
+*ECG típico de Brugada tipo 1 «en aleta de tiburón» (Cardiología pediátrica para residentes, fig. 6 del cap. 12).*
+
 - **Tratamiento:** **DAI** es la única opción en sintomáticos. Evitar fármacos precipitantes (www.brugadadrugs.org), deshidratación, drogas y bebidas energéticas. **Tratar la fiebre de forma precoz y agresiva**; con patrón tipo 1, **ingreso para monitorización si tiene fiebre** y/o no se controla con antitérmicos orales.
 
 ## Otras alteraciones de la conducción (guía rápida)

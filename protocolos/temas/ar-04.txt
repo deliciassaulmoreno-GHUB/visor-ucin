@@ -7,10 +7,25 @@ Latidos prematuros por la descarga de un foco ectópico.
 
 **Extrasístole auricular:** P anormal y prematura seguida de QRS normal (aberrante si es muy precoz); **pausa compensadora incompleta**. Frecuentes en RN, lactantes y niños pequeños; suelen ser **idiopáticas y benignas** (también por crecimiento auricular, miocarditis, hipertiroidismo). Pueden **no conducirse** (extrasistolia auricular bloqueada, p. ej., en bigeminismo) y producir **bradicardia**.
 
+@img ar-f11.jpg
+*Extrasístole auricular: onda P anómala prematura (flecha) seguida de QRS normal (Cardiología pediátrica para residentes, fig. 11 del cap. 6).*
+
+@img ar-f12.jpg
+*Extrasistolia supraventricular bloqueada en bigeminismo (Cardiología pediátrica para residentes, fig. 12 del cap. 6).*
+
+
 **Extrasístole nodal:** QRS normal y prematuro sin P delante (o con P invertida retrógrada pegada al QRS). Infrecuentes y sin significado clínico.
+
+@img ar-f13.jpg
+*Extrasístole nodal: QRS de morfología normal, prematuro y no precedido de onda P (Cardiología pediátrica para residentes, fig. 13 del cap. 6).*
+
 
 **Extrasístole ventricular (EV):** QRS **prematuro, ancho y de mayor voltaje, sin P previa**, con **pausa compensadora completa** (el intervalo entre el QRS previo y el siguiente es el doble del ciclo sinusal).
 - Bigeminismo (cada latido normal seguido de una EV), trigeminismo (dos normales y una EV), doblete, triplete; **una serie rápida de EV es una taquicardia ventricular**.
+
+@img ar-f14.jpg
+*Combinaciones de extrasístoles ventriculares y latidos normales (Cardiología pediátrica para residentes, fig. 14 del cap. 6).*
+
 - **Muy frecuentes tras la pubertad** (50 % de adolescentes y adultos jóvenes) y raras (1 %) en lactantes y niños pequeños. **Benignas si no aparecen ni aumentan con el ejercicio.**
 - Causas: **estímulo por catéter**, alteraciones del K y el Ca, hipoxia, digital, catecolaminas, tumores ventriculares, prolapso mitral, miocarditis, **postoperatorio cardiaco**, QT largo, tóxicos.
 - **Mayor riesgo de TV:** EV **multifocales** (distintas morfologías) y EV que caen sobre la onda T.
@@ -29,9 +44,17 @@ Latidos prematuros por la descarga de un foco ectópico.
 - **Disociación AV** con más QRS que P (o conducción retrógrada con P tras cada QRS); en las muy rápidas, P difíciles de ver.
 - **Latidos de captura** (QRS estrecho adelantado precedido de P sinusal) y **de fusión** (morfología híbrida). La disociación AV y las capturas **descartan las taquicardias de QRS ancho de origen supraventricular** (auricular, ortodrómica o intranodal con bloqueo de rama, antidrómica).
 - Morfología: imagen de bloqueo de rama derecha → origen en el VI, y viceversa.
+
+@img ar-t11.jpg
+*Taquicardia ventricular (Cardiología pediátrica para residentes, cap. 7).*
+
 - Libro (tabla del cap. 31): QRS anchos, P disociadas, latidos de captura, duración > 30 s; ratio P/QRS < 1:1.
 
 **Fibrilación ventricular:** activación caótica sin bombeo eficaz: emergencia que requiere **desfibrilación inmediata**.
+
+@img ar-t12.jpg
+*Fibrilación ventricular (Cardiología pediátrica para residentes, cap. 7).*
+
 
 ! Causas de TV que el propio material menciona en distintos capítulos: miocarditis y miocardiopatías («Otras patologías»), canalopatías (QT largo, TVPC, Brugada), postoperatorio de Fallot, doble salida del VD, truncus y TGA (tabla de asociaciones del cap. 31), hipomagnesemia (*torsade*, cap. 40), alteraciones del K y el Ca y fármacos proarrítmicos. Es una recopilación del visor, no una tabla del libro.
 

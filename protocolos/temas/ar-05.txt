@@ -10,9 +10,21 @@
 
 **Disfunción sinusal** (residentes)
 - **Bradicardia sinusal:** casi siempre fisiológica (vagotonía); también hipertensión intracraneal, fármacos, hipotermia, hipoxia, cardiopatías. Marcapasos solo si es sintomática con repercusión.
+
+@img ar-f01.jpg
+*Bradicardia sinusal (Cardiología pediátrica para residentes, fig. 1 del cap. 6).*
+
 - **Arritmia sinusal:** sobre todo respiratoria (fisiológica); variabilidad PP > 0,12 s con PR normal.
+
+@img ar-f02.jpg
+*Arritmia sinusal (Cardiología pediátrica para residentes, fig. 2 del cap. 6).*
+
 - **Paro sinusal:** patológico si la pausa es > 3 s (isquemia aguda, ictus, digital); marcapasos si es sintomático.
 - **Bloqueo sinoauricular:** pausa de al menos un ciclo completo; pueden aparecer escapes.
+
+@img ar-f03.jpg
+*Bloqueo sinoauricular (Cardiología pediátrica para residentes, fig. 3 del cap. 6).*
+
 - **Postoperatorio** (libro): disfunción sinusal tras cirugías con manipulación de la aurícula derecha, habitualmente transitoria.
 
 ## Bloqueo auriculoventricular
@@ -26,6 +38,22 @@ Conducción anormal del impulso desde la aurícula hasta los ventrículos (retra
 | **2:1** | Una P conduce y la siguiente no | — |
 | **Avanzado o de alto grado** | ≥ 2 P consecutivas no conducidas | — |
 | **3.^er^ grado (completo)** | Ninguna P conduce: **disociación AV** | La frecuencia de escape define la repercusión |
+
+@img ar-f04.jpg
+*Bloqueo AV de 1.^er^ grado (Cardiología pediátrica para residentes, fig. 4 del cap. 6).*
+
+@img ar-f05.jpg
+*Bloqueo AV de 2.º grado Mobitz I (Cardiología pediátrica para residentes, fig. 5 del cap. 6).*
+
+@img ar-f06.jpg
+*Bloqueo AV avanzado o de alto grado (Cardiología pediátrica para residentes, fig. 6 del cap. 6).*
+
+@img ar-f07.jpg
+*Bloqueo AV de 3.^er^ grado o completo (Cardiología pediátrica para residentes, fig. 7 del cap. 6).*
+
+@img ar-f08.jpg
+*Esquema de los bloqueos AV (de Park MK, How to read pediatric ECGs, 4.ª ed.) (Cardiología pediátrica para residentes, fig. 8 del cap. 6).*
+
 
 **Nivel del bloqueo completo** (residentes):
 - **Suprahisiano** (nodo AV): escape **40-60 lpm, QRS estrecho**, bajo riesgo de asistolia.

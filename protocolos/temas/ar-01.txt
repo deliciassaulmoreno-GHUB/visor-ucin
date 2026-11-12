@@ -63,6 +63,13 @@ Ritmo → frecuencia → ejes → ondas e intervalos (P, PR, QRS, ST, T, QT).
   - **Bloqueo de rama derecha:** rsR' («en M») en precordiales derechas con ST descendido y T invertida; S anchas en I, V5, V6. En la infancia el patrón puede ser normal; con voltajes altos y QRS no ancho sugiere hipertrofia del VD. Según la guía rápida, RSR' en V1 es normal si el QRS no está alargado y R' < 15 mm (< 1 año) o < 10 mm (> 1 año).
   - **Bloqueo de rama izquierda:** muy raro en niños (cirugía del tracto de salida del VI, válvula aórtica o septo; extrasístoles o TV del tracto de salida del VD): sin Q en V6, QS o rS en V1, R ancha y empastada en V6, T opuesta.
   - **Hemibloqueo anterior izquierdo:** eje −30° a −90°, qR en I y aVL, rS en II, III y aVF, QRS normal. **Posterior:** eje derecho (+90/+120° a +180°), rS en I y aVL, qR en II, III y aVF.
+
+@img ar-f09.jpg
+*Bloqueo de rama derecha: rSR' en V1 y qRs en V6 (Cardiología pediátrica para residentes, fig. 9 del cap. 6).*
+
+@img ar-f10.jpg
+*Bloqueo de rama izquierda: rS en V1 y R ancha en V6 (Cardiología pediátrica para residentes, fig. 10 del cap. 6).*
+
 - **Onda Q:** < 1 mm de ancho y < 2 mm de profundidad; en < 3 años puede ser de 6-8 mm en III (normal). **Q > 4 mm en otras derivaciones: isquemia** (Q profundas en I y aVL en **ALCAPA**) o hipertrofia septal (II, III, aVF).
 - **Voltajes:** bajos en pericarditis, miocarditis, hipotiroidismo; altos en hipertrofias y trastornos de conducción.
 
@@ -109,6 +116,10 @@ Ritmo → frecuencia → ejes → ondas e intervalos (P, PR, QRS, ST, T, QT).
 - **Auricular derecha:** P > 3 mm. **Auricular izquierda:** P ancha (> 0,09 s) y mellada.
 - **Ventricular derecha:** eje derecho para la edad (> 180° en el neonato); R en V1-V2 y S en I y V6 por encima del límite para la edad sin QRS ancho; R/S en V1-V2 alto y R/S en V6 < 1 tras el primer mes; **T positiva en V1 tras la primera semana** (con T positiva en V5-V6; a partir de los 6 años ya no es patológica); qR en V1 (normal hasta en el 10 % de los RN).
 - **Ventricular izquierda:** R por encima del límite en I, II, III, aVF o V5, o R en V6 > 25 mm (> 20 mm en < 6 meses); S en V1-V2 por encima del límite o S en V6 > 25 mm (> 20 mm en < 6 meses); T negativas en II, III, aVF, V5-V6; eje izquierdo. **HVI + ángulo QRS-T amplio + T invertida en V6: patrón de sobrecarga** (obstrucción grave del tracto de salida del VI).
+
+@img ar-c01.jpg
+*ECG sugerente de hipertrofia de cavidades izquierdas con alteración de la repolarización (T negativas en II, III, aVF, V5 y V6) (Cardiología pediátrica para residentes, fig. 3 del cap. 12).*
+
 - **Biventricular:** criterios de ambas con QRS de duración normal; complejos grandes y equifásicos en ≥ 2 derivaciones de miembros y en V2-V5.
 
 ## ECG en otras situaciones
