@@ -1,0 +1,283 @@
+@f TEMAS/PC/4
+*Cuidados críticos del niño con patología cardíaca, cap. 7 (Sedación y analgesia).*
+
+La sedoanalgesia alivia el dolor y la ansiedad y favorece la estabilidad y el manejo de pacientes con soporte avanzado. Evitar infravalorar el dolor; el miedo a los efectos adversos, la toxicidad o la dependencia no justifica no usar o infrautilizar los fármacos.
+
+## Conceptos
+
+- **Dolor:** experiencia sensorial y emocional desagradable asociada a daño tisular real o potencial.
+- **Ansiedad:** aumento de la percepción del entorno y de la reactividad, con sensación angustiosa que impide la relajación y el descanso.
+- **Delirio:** alteración fluctuante de la conciencia con inatención y alteraciones cognitivas o perceptivas de inicio rápido. Hiperactivo, hipoactivo o mixto (el más frecuente).
+- **Síndrome de abstinencia:** síntomas por la interrupción brusca o la reducción de un fármaco administrado de forma repetida (también por antagonistas).
+- **Tolerancia:** necesidad de aumentar la dosis para el mismo efecto.
+- **Rotación de opioides:** cambio programado (no por efectos adversos) para prevenir efectos colaterales y escaladas de dosis en tratamientos prolongados.
+
+## Evaluación del dolor y de la sedación
+
+Parámetros fisiológicos (FC, FR, TA, sudoración, midriasis, llanto) y conductuales (expresión facial, movimientos, consuelo); los fisiológicos pueden alterarse por otras causas. Especial atención en pacientes relajados y en los que tienen más limitación para expresarlo. Titular el sedante individualmente; no siempre se necesita sedación profunda.
+
+*Tabla I. Escala FLACC (1-3 años y no colaboradores).*
+
+@ancha
+| | 0 | 1 | 2 |
+|---|---|---|---|
+| Cara | Cara relajada | Arruga la nariz | Mandíbula tensa |
+| Piernas | Relajadas | Inquietas | Golpea con los pies, tiembla o se estremece |
+| Actividad | Acostado y quieto, se mueve con facilidad, respira a ritmo normal | Se doblega sobre las piernas, levemente agitado; respira con rigidez, suspiros ocasionales | Se arquea, muy agitado, rígido; golpea la cabeza, aguanta la respiración o jadea |
+| Llanto | No llora | Gime, se queja ocasionalmente | Llanto constante, chillidos o sollozos; quejas frecuentes |
+| Consuelo | Conforme, relajado | Se consuela con el contacto o al hablarle; se le puede distraer | Difícil de consolar, rechaza los cuidados o el consuelo |
+
+*Puntuación: 0 no dolor; 1-2 leve; 3-5 moderado; 6-8 intenso; 9-10 máximo dolor imaginable.*
+
+*Tabla II. Escala multidimensional del dolor (1 mes-3 años).*
+
+@ancha
+| Ítem | 0 | 1 | 2 |
+|---|---|---|---|
+| Signos vitales | FC y TA coinciden con el basal | Aumento de FC o TA > 10 puntos sobre el basal | Disminución de FC o TA > 10 puntos sobre el basal |
+| Patrón respiratorio | Sin cambios respecto al basal | Aumento de FR y trabajo respiratorio y/o respiración paradójica; intubado que lucha contra el respirador | Dificultad respiratoria grave con oxigenación comprometida |
+| Tensión facial | Caras relajadas | Caras intermedias | Caras de dolor intenso |
+| Movimientos corporales | Sin movimientos o movimientos con propósito claro | Intranquilo, movimientos incontrolados, golpeo con las piernas, temblorosos, retorciendo el cuerpo | Rigidez de tronco, movimientos forzados, posturas extremas hipertónicas, puños cerrados o movimientos sin propósito y/o enlentecidos |
+| Estado de alerta | Calmado o dormido, movimientos coordinados y suaves, se despierta con facilidad | Respuestas exageradas a estímulos no dolorosos (luz, sonido, tacto) | Decaído, alerta y actividad disminuidas, no se comunica ni mantiene contacto visual |
+
+*Puntuación: 0 no dolor; 1-2 leve; 3-5 moderado; 6-8 intenso; 9-10 insoportable.*
+
+! La tensión facial se puntúa en el original con dibujos de caras (dos por cada puntuación); aquí se describen con palabras.
+
+**Mayores de 3 años (figura 1):** escala de caritas, de color o numérica de 0 a 10 (0 no dolor; 1-2 leve; 3-5 moderado; 6-8 intenso; 9-10 insoportable).
+
+*Tabla III. Escala de sedación de la Universidad de Michigan (ESUM), validada para procedimientos (similar a la del Hospital del Niño Jesús).*
+
+| Nivel | Descripción |
+|---|---|
+| 0 | Despierto, alerta |
+| 1 | Sedación mínima (adormilado, responde apropiadamente a estímulos verbales) |
+| 2 | Sedación moderada (somnoliento o dormido, se despierta fácilmente con estímulo verbal o táctil suave) |
+| 3 | Sedación profunda (sueño profundo, se despierta solo con estímulos táctiles significativos) |
+| 4 | No se despierta |
+
+**Índice biespectral (BIS):** 90-100 despierto; 80-90 sedación leve; 60-80 moderada; 40-60 profunda o anestesia general; < 40 sobresedación. Usarlo en pacientes sedados, sobre todo si están relajados. **Rango óptimo en UCIP: 50-70.** BIS < 50 se ha relacionado con más hipotensión en la sedación para procedimientos.
+
+*Tabla IV. Escala COMFORT (validada en niños intubados con ventilación mecánica; no validada con relajación muscular).*
+
+@ancha
+| Puntos | Nivel de conciencia | Calma-agitación | Respuesta respiratoria | Movimientos físicos |
+|---|---|---|---|---|
+| 1 | Profundamente dormido | Calma | Sin respiración espontánea ni tos | Sin movimiento |
+| 2 | Ligeramente dormido | Ligera ansiedad | Mínimo esfuerzo respiratorio | Movimientos ocasionales |
+| 3 | Somnoliento | Ansiedad | Tos ocasional o resistencia contra el respirador | Movimientos frecuentes |
+| 4 | Despierto | Mucha ansiedad | Lucha contra el respirador y tos frecuente | Movimientos vigorosos de extremidades |
+| 5 | Hiperalerta | Pánico | Lucha contra el respirador y tos constante | Movimientos vigorosos de cabeza y tronco |
+
+@ancha
+| Puntos | Tensión arterial | Frecuencia cardiaca | Tono muscular | Tensión facial |
+|---|---|---|---|---|
+| 1 | Por debajo de la media | Por debajo de la media | Totalmente relajado | Músculos faciales totalmente relajados |
+| 2 | En la media | En la media | Tono reducido | Tono facial normal |
+| 3 | Infrecuentes elevaciones > 15 % sobre la media | Infrecuentes elevaciones > 15 % | Tono normal | Tensión en algunos músculos faciales |
+| 4 | Frecuentes elevaciones > 15 % | Frecuentes elevaciones > 15 % | Tono aumentado (flexión de dedos/pies) | Tensión en todos los músculos faciales |
+| 5 | Constantes elevaciones > 15 % | Constantes elevaciones > 15 % | Rigidez muscular | Tensión facial extrema |
+
+*8-10: sedación muy profunda; 10-17: profunda; 18-26: superficial; 27-40: no sedación.*
+
+## Indicaciones en el paciente cardiovascular
+
+- **Preoperatorio:** estabilización, reducir el trabajo cardiorrespiratorio, adaptación a la ventilación y procedimientos dolorosos (atrioseptostomía, catéteres). Riesgo de crisis de HTP (también por la aspiración de secreciones) y crisis hipoxémicas del Fallot.
+- **Postoperatorio:** según el tipo y duración de la cirugía, la estabilidad y la ventilación.
+  - Pacientes estables con cirugías no complicadas (CIA, CIV) o que se benefician de extubación precoz (Fontan): opioides para el dolor y evitar perfusiones de benzodiacepinas.
+  - Cirugías complejas, CEC prolongada, tórax abierto, poca reserva miocárdica o riesgo de crisis de HTP (canal AV completo, DVPAT): sedoanalgesia más profunda y duradera (reduce catecolaminas, trabajo miocárdico y consumo de O~2~).
+  - Intensificarla en procedimientos (vías centrales, drenajes, pericardiocentesis, cardioversión); bolos de relajantes en el cierre esternal diferido o la cirugía del ductus en prematuros.
+
+## Fármacos
+
+*Tabla V. Clasificación y dosis.*
+
+@ancha
+| Grupo | Fármaco y dosis |
+|---|---|
+| {2} **Sedantes anestésicos** |
+| Ketamina | iv 1-2 mg/kg; PC 0,5-3 mg/kg/h iv; im 3-8 mg/kg |
+| Propofol | 1-3 mg/kg; PC 1-4 mg/kg/h iv |
+| Tiopental | 3-5 mg/kg; PC 1-5 mg/kg/h iv |
+| Etomidato | 0,2-0,3 mg/kg iv |
+| Dexmedetomidina | 1 µg/kg; PC 0,2-0,75 µg/kg/h iv |
+| {2} **Ansiolíticos-hipnóticos** |
+| Midazolam | iv 0,1-0,2 mg/kg; PC 0,05-0,6 mg/kg/h iv; R-vo 0,5-0,75 mg/kg; IN-SL 0,2-0,5 mg/kg |
+| Diazepam | iv 0,3-0,5 mg/kg; PC 0,3-0,7 mg/kg/h; R 0,5 mg/kg |
+| Cloracepato | 0,2-0,5 mg/kg cada 8-12 h iv o vo |
+| Clorpromazina | iv 0,5 mg/kg cada 6-8 h; vo 0,5-1,5 mg/kg |
+| Hidrato de cloral | vo-R 25-75 mg/kg/dosis |
+| {2} **Analgésicos opiáceos** |
+| Morfina | 0,1-0,2 mg/kg; PC 10-60 µg/kg/h iv |
+| Fentanilo | 1-3 µg/kg; PC 1-10 µg/kg/h iv |
+| Remifentanilo | 1 µg/kg; PC 0,1-1,3 µg/kg/min iv |
+| Tramadol | iv 1-2 mg/kg cada 4-6 h; PC 0,2-0,4 mg/kg/h; vo 2 mg/kg cada 6-8 h |
+| Meperidina | 0,5-2 mg/kg cada 3-4 h im, iv o sc; PC 0,5-1 mg/kg/h |
+| Codeína | 0,5-1 mg/kg cada 4-6 h vo |
+| Metadona | 0,1-0,2 mg/kg cada 4-6-8-12 o 24 h iv o vo |
+| {2} **Analgésicos no opiáceos** |
+| Paracetamol | 10-15 mg/kg cada 6 h iv |
+| Ibuprofeno | 5-10 mg/kg cada 6-8 h vo |
+| Ketorolaco | 0,5-1 mg/kg cada 6 h iv o im |
+| Metamizol | 10-40 mg/kg cada 4-6 h; PC 4-6,6 mg/kg/h iv |
+| Diclofenaco | 0,5-3 mg/kg/día cada 6-12 h iv, vo, im, R (máx. 150 mg/día) |
+| Ácido acetilsalicílico | 10-15 mg/kg cada 6 h vo |
+| Salicilato de lisina | 15-30 mg/kg cada 6 h vo |
+| {2} **Relajantes** |
+| Succinilcolina (despolarizante) | 1-2 mg/kg iv |
+| Vecuronio | 0,1-0,2 mg/kg; PC 0,1-0,2 mg/kg/h iv |
+| Rocuronio | 0,6-1,2 mg/kg; PC 5-15 µg/kg/min iv |
+| Atracurio | 0,3-0,6 mg/kg; PC 0,3-0,6 mg/kg/h iv |
+| Cisatracurio | 0,1-0,3 mg/kg; PC 0,1-0,2 mg/kg/h iv |
+| Mivacurio | 0,1-0,8 mg/kg; PC 0,5-0,8 mg/kg/h iv |
+
+*PC: perfusión continua; iv: intravenoso; im: intramuscular; vo: vía oral; R: rectal; SL: sublingual; IN: intranasal.*
+
+**Propofol.** Hipnótico GABAérgico, anticonvulsivante; inicio en 15-45 s, sin acumulación, recuperación rápida (bueno para procedimientos); vida media 30-60 min. **Bolo 1-3 mg/kg iv; mantenimiento 1-4 mg/kg/h, máximo 8-12 mg/kg/h.**
+- Neonatos: dosis no establecidas, gran variabilidad; no se recomienda el uso continuo; más hipotensión (sobre todo prematuros); > 5 mg/kg/h, más efectos secundarios.
+- Cardiovascular: vasodilatación y depresión de la contractilidad: TA sistólica y diastólica −25-40 %, gasto −15 %, resistencias sistémicas, dosis dependiente. Más inotropismo negativo que etomidato o tiopental. Precaución en neonatos, hipovolemia o disfunción ventricular, y con bolos o dosis altas en el inestable; la hidratación reduce la hipotensión. Bradicardia y asistolia en la inducción (atropina recomendable, aunque puede aparecer igual), ritmo de la unión y QT largo: evitar en pacientes de riesgo.
+- Neurológico: baja consumo cerebral, flujo, PIC y presión intraocular; conserva la autorregulación; no neuroprotector. Respiratorio: depresión y apnea dosis dependiente; broncodilatación; no inhibe la vasoconstricción hipóxica.
+- Sin efectos hepatorrenales (orina verdosa en infusiones largas), ni sobre coagulación o suprarrenal. **Síndrome por infusión de propofol** (acidosis grave y fallo miocárdico) con dosis altas e infusiones prolongadas.
+- Contraindicado en alergia a huevo o soja. Doloroso por vía periférica; no diluir; no por la misma vía que sangre o plasma; incompatible en Y con amikacina, anfotericina B, gentamicina, levofloxacino, tobramicina, pantoprazol, fenitoína y diazepam.
+
+**Etomidato.** Hipnótico sin analgesia; inductor y secuencia rápida por sus escasos efectos hemodinámicos y la reducción de la PIC. Inicio 5-30 s, duración 5-20 min. **Bolo 0,1-0,4 mg/kg iv; mantenimiento 10 µg/kg/min (en general no recomendada la perfusión).** De elección en la inducción con poca reserva miocárdica (algo de perfusión coronaria, menos consumo). Mioclonías (premedicar con benzodiacepina). **Supresión suprarrenal reversible incluso con dosis única.** Náuseas y vómitos en el 30-40 %.
+
+! Tabla V da para el etomidato 0,2-0,3 mg/kg iv y el texto, bolo de 0,1-0,4 mg/kg.
+
+**Ketamina.** Anestesia disociativa, sedante y potente analgésico (NMDA y otros; no GABA). Vida media 2-3 h. **iv 1-2 mg/kg (pico a 30-60 s); im 3-8 mg/kg (inicio en 5 min, pico a 20 min); mantenimiento 0,5-3 mg/kg/h iv.**
+- Estimula el simpático: aumenta TA sistémica y pulmonar, FC, gasto, consumo y flujo coronario (máximo a los 2-4 min, desaparece a los 10-20 min); prevenible con benzodiacepinas. En críticos con catecolaminas agotadas puede causar hipotensión y depresión. En neonatos con cardiopatía no modifica los cortocircuitos ni la saturación, pero **aumenta la presión y la resistencia pulmonares más que las sistémicas**.
+- Aumenta el flujo cerebral y la PIC; nistagmo, movimientos, alucinaciones al despertar (hasta 24 h; atenuadas con benzodiacepinas). Sin depresión respiratoria significativa, broncodilatación, conserva reflejos; más salivación y secreciones (atropina). Segura en miopatías e hipertermia maligna. Dependencia y abstinencia; precipita con barbitúricos.
+
+**Dexmedetomidina.** Agonista α2: analgésica, ansiolítica y sedante, **sin depresión respiratoria**; reduce otros sedantes y la rigidez por opioides. Inicio < 5 min, vida media 2 h. **Bolo 1 µg/kg en 10 min; mantenimiento 0,2-0,75 µg/kg/h; máximo 1,2 µg/kg/h.**
+- Respuesta bifásica: con la carga, HTA y bradicardia refleja (bradicardia grave e incluso parada con infusión rápida); a los 5-10 min, hipotensión y bradicardia por menor tono simpático. Más marcado en el postoperatorio inmediato, hipovolemia, hipotensión, bradicardia o trastornos de conducción previos y disfunción ventricular. **Contraindicada si hay bloqueo AV.**
+- Sedación con capacidad de despertar; amnésica; útil en extubados sin bajar la dosis. Reducir en fallo hepático (no en el renal). Abstinencia tras uso prolongado. Muchos efectos se evitan omitiendo la carga o infundiendo más despacio.
+
+**Midazolam.** Benzodiacepina ansiolítica, hipnótica, relajante, anticonvulsivante y amnésica. Vida media 2,9-4,5 h en niños; 4-12 h en neonatos a término y 2,6-17,7 h en pretérmino. **Bolo 0,05-0,2 mg/kg; mantenimiento 0,05-0,6 mg/kg/h** (en neonatos, las menores, sobre todo con opioides).
+
+*Tabla VI. Midazolam según la vía.*
+
+| | iv | im | Intranasal | Oral |
+|---|---|---|---|---|
+| Inicio | < 5 min | < 5 min | < 5 min | < 20 min |
+| Máximo efecto | 5-7 min | 15-30 min | 10 min | 30 min |
+| Duración media | 20-30 | 2-6 h | 30-60 min | |
+
+- Puede bajar la TA (sobre todo diastólica) y subir la FC; más con opioides. Mioclonías en prematuros. Depresión respiratoria revertible con **flumazenilo 0,01 mg/kg iv**; apneas más probables con opioides. Reacción paradójica, dependencia; posibles efectos neurológicos en < 32 semanas. Potencian su efecto eritromicina, cimetidina, verapamilo, ketoconazol e itraconazol.
+
+**Sevofluorano.** Halogenado inhalado; inicio en 2 min. La potencia se expresa como MAC (mayor cuanto más pequeño).
+
+*Tabla VII. MAC de sevofluorano según la edad.*
+
+| Edad | 0-30 días | 1-6 meses | 6-12 meses | 1-12 años |
+|---|---|---|---|---|
+| MAC (% espirado) | 3,3 | 3,2 | 2,5 | 2,5 |
+
+- En UCIP, dispositivo AnaConDa® (espacio muerto de 100 ml): con VT < 350 ml en el asa inspiratoria; con más, tras la pieza en Y. Se monitoriza el sevofluorano espirado y la MAC-awake. **Concentración óptima 0,6-1 %**, flujos habitualmente 2-7 ml/h o más.
+- Baja la TA (vasodilatación y menor contractilidad) de forma dosis dependiente, sin bajar el tono simpático; reduce el consumo miocárdico; a dosis recomendadas, seguro en el postoperatorio cardiaco. Aumenta la FC con MAC > 1,5 %. Depresión respiratoria y menor respuesta a la hipoxemia; broncodilatación. Escalofríos, náuseas, vómitos; posible daño renal (componente A). Potencia los relajantes; aumenta la arritmogenia de la digital. Evitar burbujas y jeringa por debajo de la cabeza. La sobredosis puede causar parada (suspender y RCP).
+
+**Fentanilo.** Opioide 100-200 veces más potente que la morfina; efecto iv casi inmediato (im 7-15 min, transmucoso 5-15), duración 1-2 h; tras perfusión, vida media de 11-36 h según la edad. **Bolo 1-2 µg/kg iv; mantenimiento 1-5 µg/kg/h** (menos en neonatos). En ECMO, carga de 5-10 µg/kg y perfusión de 1-5 µg/kg/h. Tolerancia rápida (se han usado hasta 20 µg/kg/h).
+- Mínimo efecto cardiovascular salvo combinado con otros sedantes; 25 µg/kg iv reducen la presión pulmonar suprasistémica. **Rigidez torácica** y depresión respiratoria según dosis y velocidad (naloxona o relajantes). Sobredosis: rigidez, crisis, hipoxemia, bradicardia, hipotensión: **naloxona 0,01 mg/kg** repetida, atropina y soporte ventilatorio. Aumentan sus niveles azoles, claritromicina, diclofenaco, eritromicina, isoniazida, nicardipino, propofol y verapamilo.
+
+! Tabla V da para el fentanilo bolo de 1-3 µg/kg y perfusión de 1-10 µg/kg/h; el texto, 1-2 µg/kg y 1-5 µg/kg/h.
+
+**Remifentanilo.** Opioide de inicio y fin muy rápidos (vida media 3,4-5,7 min, esterasas). **Carga 1 µg/kg iv; mantenimiento 0,1-1,3 µg/kg/min.** Bradicardia más intensa que el fentanilo e hipotensión, dosis dependientes; depresión respiratoria y rigidez, más tras bolo.
+
+## Síndrome de abstinencia (SA)
+
+Frecuente por las infusiones prolongadas.
+- **Clínica** (desde 8 a 48 h tras suspender): SNC (agitación, irritabilidad, clonus, hiperreflexia, delirio, bostezos, estornudos, convulsiones, confusión, insomnio), digestivos (náuseas, vómitos, diarrea) y simpáticos (taquicardia, HTA, taquipnea, fiebre, sudoración, lagrimeo, midriasis).
+- **Diagnóstico de exclusión** con escalas validadas.
+- **Factores de riesgo:** infusión de opioides y/o benzodiacepinas > 5 días; fentanilo acumulado > 415 µg/kg en neonatos o > 2.500 µg/kg en niños mayores (más SA con fentanilo que con morfina); en benzodiacepinas importa más la duración (descrito con midazolam > 60 mg/kg, también con menos). La supresión brusca o rápida tras dosis altas y prolongadas.
+
+*Tabla VIII. WAT-1 (Withdrawal Assessment Tool-1).* Cada ítem 0 (no) o 1 (sí).
+- **Información de las 12 h previas:** 1. Diarrea. 2. Vómitos. 3. Temperatura > 37,8 °C.
+- **Observación 2 min antes de estimular:** 4. Tranquilo 0, irritable 1. 5. Temblores. 6. Sudoración. 7. Movimientos anormales o repetitivos. 8. Bostezos o estornudos.
+- **Estimulación 1 min** (llamarle, tocar suave, estímulo doloroso si no responde): 9. Sobresalto al tocar. 10. Aumento del tono muscular.
+- **Recuperación:** 11. Tiempo hasta que se calma: < 2 min 0; 2-5 min 1; > 5 min 2.
+- 11 síntomas, puntuación máxima 12. Puntuación ≥ 13 indica SA.
+
+! La tabla del original da una puntuación máxima de 12 y a la vez un umbral de SA de ≥ 13, lo que es incoherente; conviene comprobar el punto de corte en la fuente de la escala.
+
+*Tabla IX. SOS (Sophia Observation withdrawal Symptoms scale).* Un punto por ítem; cada 8 h, el peor dato de las últimas 4 h; **≥ 4 indica SA.**
+1. Taquicardia (> 15 % de la FC basal). 2. Taquipnea (< 15 % de la FR basal). 3. Fiebre > 38,4 °C. 4. Sudoración. 5. Agitación (irritabilidad, inquietud, nerviosismo). 6. Ansiedad (ojos abiertos, cejas tensas y elevadas, de alerta a pánico). 7. Temblores. 8. Movimientos anormales de brazos o piernas. 9. Hipertonía (puños y pies apretados). 10. Llanto inconsolable. 11. Muecas o gestos de malestar. 12. Insomnio (sueño < 1 h). 13. Alucinaciones. 14. Vómitos. 15. Diarrea.
+
+! «Taquipnea (< 15 % FR basal)» aparece así en el original.
+
+*Tabla X. Escala de Finnegan (neonatos hasta 3 meses).*
+
+| Signo | Puntos |
+|---|---|
+| Llanto agudo / continuo | 2 / 3 |
+| Sueño tras la toma < 1 h / < 2 h / < 3 h | 3 / 2 / 1 |
+| Moro aumentado / muy aumentado | 2 / 3 |
+| Temblores leves con estímulo / moderados con estímulo / leves espontáneos / moderados espontáneos | 1 / 2 / 3 / 4 |
+| Hipertonía | 2 |
+| Excoriaciones cutáneas | 1 |
+| Mioclonías | 3 |
+| Convulsiones | 5 |
+| Sudoración | 1 |
+| Fiebre < 38,4 °C / > 38,4 °C | 1 / 2 |
+| Bostezos | 1 |
+| Cutis marmorata | 1 |
+| Congestión nasal | 1 |
+| Estornudos | 1 |
+| Aleteo nasal | 2 |
+| FR > 60 / > 60 con tiraje | 1 / 2 |
+| Succión excesiva | 1 |
+| Inapetencia | 2 |
+| Regurgitaciones | 2 |
+| Vómitos | 3 |
+| Diarrea pastosa / acuosa | 2 / 3 |
+
+*0-7: no SA; 8-12: leve-moderado; 13-16: moderado-grave; > 16: grave.*
+
+**Prevención.** Descenso progresivo en varios días (3 a 21). Alternativas: suspensión diaria del sedante (más agitación y extubaciones accidentales), sedación secuencial (de midazolam a propofol 24-48 h antes de extubar), sedación dinámica o rotación programada cada 4-5 días, volviendo a la pauta inicial cada 15-17 días.
+
+**Ejemplo de rotación** (*modificado del protocolo de analgesia y sedación de la UCIP del H.U. Gregorio Marañón, S. Mencía y R. Torrero*): cambio cada 4 días, retirando la pauta anterior en 2-4 h; si precisa bolos, usar los de la rotación previa.
+1. Fentanilo + midazolam (si precisa dosis altas, añadir propofol en PC).
+2. Ketamina + metamizol en PC (si precisa, añadir propofol en PC).
+3. Remifentanilo + midazolam.
+4. Dexmedetomidina + metamizol en PC (si precisa, añadir cloruro mórfico en PC).
+
+**Tratamiento.** Metadona como sustituto de opioides; benzodiacepinas orales para la agitación (siempre si recibió benzodiacepinas iv). Clonidina o dexmedetomidina junto a las perfusiones reducen el riesgo (dexmedetomidina útil en el trasplante cardiaco). **Clonidina 0,1-2 µg/kg/h iv o 1-4 µg/kg/dosis cada 8 h vo.** La ketamina apenas se usa con este fin.
+
+**Esquema de actuación** si opioides y/o benzodiacepinas > 5 días o fentanilo > 500 µg/kg o midazolam > 40 mg/kg:
+1. **Metadona oral 0,2 mg/kg cada 6 h** y **diazepam 0,1 mg/kg cada 6 h** o **cloracepato dipotásico** (inicio 0,2 mg/kg/día; mantenimiento 0,5-3 mg/kg/día en 2-4 dosis, máx. 60 mg/día).
+2. Tras la segunda dosis de metadona, bajar la sedoanalgesia: perfusión de 5-8 días, −20 % de la dosis inicial cada 12 h (suspender en 3 días); > 8 días, −10 % cada 12 h.
+3. Monitorizar con escalas validadas.
+4. Si aparece SA: metadona hasta **0,3-0,4 mg/kg cada 6 h** y subir diazepam o cloracepato; valorar **clonidina 1 µg/kg cada 8 h hasta 4-5 µg/kg vo**.
+5. Si no se controla: bajar las perfusiones más despacio (−10 % cada 12 h si 5-8 días; −5 % cada 12 h si > 8 días).
+6. Valorar **dexmedetomidina 0,2-1,4 µg/kg/h iv**.
+7. Agitación importante o alucinaciones (delirium): **haloperidol 0,01-0,05 mg/kg/día cada 12 h vo o 0,05-0,5 mg/kg/día iv**.
+8. Sin SA a las 24 h de suspender las perfusiones: bajar metadona y benzodiacepinas un 20-30 % cada 24 h. Si hubo SA en el destete: −10 % al día cuando esté controlado y 24-48 h asintomático.
+9. Si reaparece durante el descenso, volver a la dosis asintomática y bajar más despacio.
+
+! Los umbrales de riesgo difieren dentro del capítulo: fentanilo > 415 µg/kg (neonatos) o > 2.500 µg/kg (mayores) y midazolam > 60 mg/kg en los factores de riesgo, frente a fentanilo > 500 µg/kg y midazolam > 40 mg/kg en el esquema de actuación.
+
+## Delirium
+
+Inicio brusco de alteración de conciencia, atención, cognición y percepción, fluctuante. Casi un 30 % de los ingresados en UCIP por causa cardiovascular (tercera causa tras infecciosa/inflamatoria y neurológica). Se solapa con la abstinencia y la enfermedad de base.
+- **Factores de riesgo:** < 5 años (sobre todo < 2), ventilación mecánica, sedantes y analgésicos (sobre todo benzodiacepinas y opiáceos), anestésicos inhalados, antiepilépticos, vasopresores, contención física, patología neurológica previa o cirugía reciente.
+- **Clínica:** desorientación, inquietud, irritabilidad, alteración del sueño-vigilia, ilusiones o alucinaciones, déficit de atención y memoria, alteraciones cognitivas y del lenguaje; peor por la noche; puede persistir semanas. **Hiperactivo** (agitación, hipervigilancia, se arranca catéteres), **hipoactivo** (apatía, somnolencia; más difícil de detectar) o **mixto**.
+- **Criterios DSM-IV:** inicio agudo y fluctuante; alteración del nivel de conciencia; alteración cognitiva; relación con una condición médica.
+
+*Tabla XI. Cornell Assessment of Pediatric Delirium (CAPD).* Cada pregunta: nunca 4, raramente 3, a veces 2, frecuente 1, siempre 0. **Delirium si ≥ 9.** Válida a cualquier edad; no aplicable en coma o sedación profunda.
+- ¿Establece contacto ocular con el cuidador?
+- ¿Las acciones tienen un propósito?
+- ¿Es consciente del entorno?
+- ¿Comunica sus necesidades y deseos?
+- ¿Está inquieto?
+- ¿Está inconsolable?
+- ¿Está poco activo, pocos movimientos mientras está despierto?
+- ¿Tarda mucho tiempo en responder a los estímulos?
+
+! La tabla del original muestra una sola fila de puntuación (nunca 4 … siempre 0) para las 8 preguntas.
+
+**Tratamiento farmacológico:**
+- **Haloperidol** (delirium hiperactivo; puede asociarse loracepam o cloracepato): carga 0,013-0,28 mg/kg (preferentemente iv o im), dosis máxima 0,1 mg/kg, repetible a los 15-30 min; mantenimiento 0,05-0,5 mg/kg/día iv u oral en 2-3 dosis. Vigilar arritmias (QT largo, hipopotasemia, vía im o dosis altas), extrapiramidalismo e hipertermia maligna.
+- **Clorpromazina** (> 6 meses; contraindicada en enfermedad cardiovascular grave o riesgo de arritmias): 0,5-1 mg/kg/dosis iv, im u oral cada 6-8 h; máximo 40 mg/día hasta 5 años y 75 mg/día de 5 a 12 años.
+- **Risperidona** (hiperactivo e hipoactivo; los betabloqueantes aumentan su concentración): carga 0,1-0,2 mg vo; mantenimiento 0,25-2 mg/día vo.
+
+! En el haloperidol, el rango de carga (0,013-0,28 mg/kg) supera la dosis máxima indicada (0,1 mg/kg); aparece así en el original.
+
+**No farmacológico:** evitar la sobresedación; corregir alteraciones metabólicas, cardiovasculares e infecciosas; respetar el ritmo sueño-vigilia; presencia de los padres y objetos familiares; estimulación cognitiva y movilización precoz.

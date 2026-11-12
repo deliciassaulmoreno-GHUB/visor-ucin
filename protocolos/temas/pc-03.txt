@@ -1,0 +1,117 @@
+@f TEMAS/PC/3
+*Cuidados críticos del niño con patología cardíaca, cap. 6 (Soporte respiratorio).*
+
+## Causas de insuficiencia respiratoria
+
+*Tabla I. Causas más frecuentes de insuficiencia respiratoria en el niño con cardiopatía.*
+
+| Grupo | Causas |
+|---|---|
+| Vías respiratorias (obstructiva) | Broncoespasmo, laringotraqueomalacia, edema postextubación// Compresión traqueobronquial por estructuras vasculares// Acumulación de secreciones// Parálisis de cuerdas vocales |
+| Pulmonares | Bronconeumonía, atelectasia, daño pulmonar por la ventilación o por CEC, SDRA// Displasia broncopulmonar// Derrame pleural, quilotórax, neumotórax |
+| Cardiacas | Insuficiencia cardiaca, edema pulmonar cardiogénico, bajo gasto// Arritmias graves// Lesiones residuales tras la cirugía |
+| Pared torácica, neuromuscular, SNC | Cifoescoliosis// Cierre diferido de esternón// Parálisis diafragmática// Debilidad por malnutrición, polineuromiopatía del crítico// Encefalopatía hipóxica// Agitación, dolor, necesidad de sedación profunda |
+| Sistémicas | Sepsis, anemia grave, ascitis masiva |
+
+## Interacción cardiopulmonar
+
+- **Ventrículos:** trabajan en serie (a través del pulmón) y en paralelo (interdependencia por el septo). En la inspiración espontánea, el mayor llenado derecho desplaza el septo y limita el llenado y gasto izquierdo (descenso fisiológico de la TA). Todo aumento de presión intratorácica o de poscarga del VD comprime el VI y reduce el gasto sistémico.
+- **Circulación pulmonar:** al aumentar el volumen pulmonar se comprimen los vasos alveolares y se distienden los extraalveolares. **La RVP es mínima en la capacidad residual funcional (CRF):** por encima aumenta por compresión de vasos alveolares; por debajo, por pérdida de tracción de los extraalveolares y por la hipoxia de los alveolos atelectásicos.
+- **Retorno venoso:** depende del gradiente entre la presión media de llenado sistémico y la presión en AD; en la inspiración espontánea baja la presión en AD y aumenta el retorno.
+- **Pulmón:** el volumen depende de la presión transpulmonar (alveolar − pleural). En espontánea la genera la presión pleural negativa; en ventilación mecánica, la presión alveolar positiva (aumenta la presión intratorácica): efectos hemodinámicos opuestos.
+
+**Efectos de la ventilación con presión positiva.**
+- **Gasto derecho:** más presión en AD (menos retorno en hipovolémicos) y más RVP (más poscarga del VD): menos volumen sistólico derecho.
+- **Gasto izquierdo:** menos precarga del VI (en serie), compensada por el vaciado del lecho pulmonar hacia la AI; la presión intratorácica sostenida reduce la poscarga del VI.
+  - Con **disfunción sistólica**, la ventilación mecánica es beneficiosa: más precarga y menos poscarga del VI, protege del hiperaflujo y mejora la hipoxia.
+  - Con **disfunción diastólica**, baja el gasto si antes no se optimiza el volumen telediastólico y la precarga del VI.
+- **Abdomen:** el descenso diafragmático y la presión intraabdominal pueden dificultar o, sin hipovolemia, favorecer el retorno venoso; en hipovolemia, lo disminuyen.
+- **Neuroendocrinos** (más en recién nacidos y lactantes): taquicardia con volúmenes adecuados (6-10 ml/kg); bradicardia con volúmenes muy grandes (> 10-15 ml/kg) o muy pequeños; arritmia sinusal respiratoria; depresión miocárdica humoral por hiperinsuflación; retención hídrica (renina-angiotensina-aldosterona, ADH a menudo inadecuada, menos péptido natriurético); vasodilatación refleja.
+- **Intercambio gaseoso:** el bajo gasto aumenta el espacio muerto (hipoxemia e hipercapnia) y mejora al mejorar el gasto. La hipoxia y la hipercapnia bajan el gasto, causan arritmias, vasodilatación e hipotensión. La hiperoxia causa vasoconstricción coronaria, aumenta las resistencias sistémicas y baja el gasto. La hiperventilación reduce el flujo cerebral y desvía la curva de la Hb a la izquierda.
+- **RVP:** la acidosis las aumenta, y más con hipoxemia; el pH influye con independencia de la pCO~2~. En HTP, evitar la acidosis (pH 7,40) con normoventilación y, a veces, bicarbonato. Sobredistensión y desreclutamiento aumentan la RVP: **mantener la CRF** con PEEP óptima y sin volúmenes altos ni atrapamiento.
+- **Consumo de O~2~:** en el bajo gasto la ventilación mecánica ahorra el O~2~ de la musculatura respiratoria (evita fatiga, hipoxemia y acidosis láctica).
+- **Ventilación/perfusión:** hiperaflujo, efecto *shunt* intrapulmonar y edema con menor complianza; hipoaflujo, efecto espacio muerto y, a largo plazo, hipoplasia de la vía aérea.
+
+## Soporte ventilatorio
+
+**Objetivos de la ventilación mecánica:** garantizar el intercambio gaseoso; reducir o sustituir el trabajo respiratorio; disminuir el consumo de O~2~ (frecuente en la inestabilidad hemodinámica); permitir sedoanalgesia profunda y relajación si se precisa. Tener en cuenta su repercusión hemodinámica y evitar la lesión pulmonar y la neumonía asociada. Usar, en cuanto sea posible, modalidades de soporte (menor repercusión hemodinámica).
+
+*Tabla II. Parámetros en ventilación mecánica invasiva de pulmón sano.*
+
+@ancha
+| Parámetro | RN | Lactante | Niño |
+|---|---|---|---|
+| Volumen corriente (ml/kg) | 4-6 | {2} 6-8 (si no compensa tubuladuras: 10) |
+| Presión inspiratoria (cmH~2~O) | 15-20 | {2} 20-25 |
+| | {3} Ajustarla para conseguir el VC deseado |
+| Frecuencia respiratoria (rpm) | 40-60 | 30-40 | 15-30 |
+| Relación I/E | {3} 1:2 |
+| Tiempo inspiratorio (s) | {3} 60/FR/3 (si I/E 1:2). Tiempo de pausa en ventilación por volumen: 1/3 del Ti |
+| PEEP | {3} 5 |
+| Flujo (lpm) | 6-8 | 10-12 | 12-40 |
+| | {3} Por volumen: flujo (lpm) = VT (l) / (Ti − Tpausa) (min). Por presión: ajustar para que la curva presión-tiempo haga meseta = 2/3 del Ti |
+| Tiempo de rampa | {3} 0,03-0,3 s / 5-10 % del Ti. Importante en modalidades espontáneas |
+| Presión de soporte | {3} Ajustar para VT adecuado. Mínimo 4-5 cmH~2~O sobre PEEP para compensar el tubo |
+| *Trigger* inspiratorio | {3} Mínimo posible sin autodisparo. Flujo: 1-3 l/min. Presión: −1,5 a −2 cmH~2~O (bajo la PEEP) |
+| *Trigger* espiratorio | {3} 15-40 % (25 %): a mayor %, menor Ti. En algunos respiradores es fijo |
+| Alarma de presión | {3} Alta: 10 cmH~2~O sobre la alcanzada, máx. 30-35. En volumen, permitir PIP mayor si P meseta < 30 cmH~2~O. Baja: desconexión o fuga |
+| Alarma de volumen minuto y corriente | {3} 20 % por encima y por debajo de lo pautado o alcanzado |
+| Alarma de frecuencia | {3} Alta: 20 % sobre la normal para edad y patología. Baja (apnea): 10-20 s |
+| Alarma de FiO~2~ | {3} 20 % por encima y por debajo |
+
+**Ventilación no invasiva (VNI).** Fundamental en el cardiópata si la hemodinámica lo permite; tras la extubación facilita la transición, sobre todo en los más pequeños, con edema pulmonar, disfunción del VI, alteraciones neuromusculares o disfunción diafragmática. Cautela en la inestabilidad hemodinámica (la ventilación invasiva reduce más el consumo de O~2~ respiratorio).
+- Respirador específico de VNI (compensa fugas y mejora la sincronía) o domiciliario o convencional con módulo VNI. Interfases nasales, buconasales, faciales o casco (Helmet), con puerto de exhalación de CO~2~.
+- Modalidades: CPAP (5-15 cmH~2~O) o BiPAP (preferiblemente en modo soporte, con o sin FR de rescate).
+- Preparación: explicar la técnica, valorar sedación consciente, empezar con parámetros bajos y subir; interfase adecuada y apósitos coloides.
+
+*Tabla III. Contraindicaciones de la VNI.*
+1. Necesidad de proteger la vía aérea (salvo coma hipercápnico).
+2. Insuficiencia respiratoria hipoxémica grave.
+3. Secreciones abundantes y espesas (relativa).
+4. Inestabilidad hemodinámica sin respuesta a fluidos o vasoactivos a dosis bajas.
+5. Traumatismos, quemaduras o malformaciones craneofaciales (valorar Helmet).
+6. Neumotórax no drenado (relativa).
+7. Cirugía gastrointestinal reciente (relativa).
+
+## Programación según la cardiopatía
+
+Considerar función sistólica y diastólica, volemia, hiper o hipoaflujo, V/Q, Qp:Qs, tipo de cardiopatía, presión abdominal, HTP, situaciones como el taponamiento y la patología respiratoria.
+
+- **Cortocircuitos izquierda-derecha** (CIV, DAP, CIA, DVPAP; hiperaflujo y congestión): **aumentar la RVP** subiendo la presión intratorácica: más PEEP, FiO~2~ baja, Ti largo; evitar la hiperventilación.
+- **HTP poscapilar con flujo normal** (obstrucción izquierda: estenosis mitral o aórtica, coartación; DVPAT obstructivo; disfunción del VI: miocarditis, miocardiopatía dilatada): la ventilación mecánica apenas afecta al volumen sistólico por el menor retorno, reduce la poscarga sistémica (aumenta el gasto) y el consumo de O~2~ respiratorio: beneficiosa.
+- **Obstrucción al flujo pulmonar** (estenosis o atresia pulmonar, Fallot, MAPCAs): reducir en lo posible las presiones torácicas para disminuir la poscarga derecha.
+- **Disfunción diastólica:**
+  - **Miocardiopatía hipertrófica:** la presión positiva baja precarga y poscarga; puede aumentar o reducir el gradiente dinámico.
+  - **Glenn/Fontan:** disfunción diastólica siempre; extremadamente sensibles a la RVP y a pequeños aumentos de presión inspiratoria o de PEEP. Mejoran mucho al retirar la ventilación o con presión de soporte. Programación: **extubación precoz** (quirófano o primeras 4-6 h, *fast-track*), salvo hipoxia; si no, modalidades espontáneas o de soporte; minimizar la RVP con PEEP óptima, VT bajos (presión inspiratoria baja) y FiO~2~ alta («¿hiperoxia permisiva?»). Igual en el Ebstein (presión alta en AD). Derrames y quilotórax recurrentes: CPAP o PEEP óptimas para reclutar.
+  - **Postoperatorio de Fallot:** disfunción diastólica del VD; mejoran con la respiración espontánea y con toda maniobra que reduzca la presión intratorácica (programación como en el Glenn/Fontan).
+- **Compresión de la vía aérea** (anillos vasculares, dilatación del tronco o ramas pulmonares): obstrucción extrínseca; soporte invasivo o no invasivo para vencer la resistencia.
+- **Complicaciones respiratorias postoperatorias** (derrame, quilotórax, edema, atelectasias, paresia diafragmática): restrictivas, subir PEEP para mantener la CRF. También obstructivas (broncoespasmo).
+
+### Hipertensión pulmonar
+
+Alto riesgo: canal AV, truncus, DAP o CIV amplias, ventana aortopulmonar, D-TGA con FOP restrictivo, DVPAT. Objetivo: buena oxigenación y reclutamiento, bajar la RVP y mantener la CRF sin sobredistensión.
+- **PaO~2~ > 100** con la FiO~2~ necesaria (la hipoxia sube la RVP).
+- **PaCO~2~ 30-35 mmHg.** Hiperventilar (pCO~2~ < 30) de forma puntual en las crisis y después normoventilar; bicarbonato si hay componente metabólico (**bicarbonato > 21 mmol/l**).
+- **Volumen corriente 5-8 ml/kg** con P meseta < 30.
+- **PEEP óptima** (ni desreclutamiento ni sobredistensión).
+- **Óxido nítrico inhalado 5-20 ppm.**
+
+### Sospecha de cardiopatía en el recién nacido
+
+- **Circulación ductus-dependiente** (sistémica o pulmonar): iniciar prostaglandinas.
+- **Circulaciones en paralelo** (TGA con septo íntegro): crear una comunicación auricular (atrioseptostomía).
+- **Mezcla sin obstrucción al flujo pulmonar** (ventrículo único funcional…): equilibrar Qp/Qs lo más cerca de 1:1 (al menos < 1,5:1; SaO~2~ 70-80 %, PaO~2~ 40 mmHg):
+  - **Qp/Qs > 1,5:1 (SaO~2~ > 85 %): aumentar la RVP** con FiO~2~ mínima, más presión intratorácica (PEEP, VT alto evitando volutrauma, Ti largos) e hipoventilación controlada (pCO~2~ 45-50 mmHg).
+  - **Qp/Qs < 1:1 (SaO~2~ < 70 %, descartado septo restrictivo): bajar la RVP** con FiO~2~ alta, menor presión intratorácica (PEEP óptima, sin atelectasias ni sobredistensión) y normoventilación (pCO~2~ 35-45 mmHg).
+  - Además, inotrópicos, vasodilatadores pulmonares y control de la acidosis metabólica.
+
+## Adaptación y retirada de la ventilación
+
+- Permitir la respiración espontánea y evitar la asincronía (más trabajo y consumo de O~2~, menos VC eficaz, barotrauma; más poscarga de VD y VI y menos precarga del VD).
+- El destete puede desencadenar edema cardiogénico en la disfunción ventricular y aumenta el tono catecolaminérgico (más consumo miocárdico, riesgo de isquemia).
+- **Antes de extubar:** ritmo estable, TA adecuada con soporte bajo (**dopamina < 5 µg/kg/min, adrenalina < 0,05 µg/kg/min o milrinona**), SaO~2~ adecuada a la cardiopatía con **FiO~2~ < 0,4**, buen nivel de conciencia y hemostasia normal.
+- **Extubación precoz (*fast-track*)**, en quirófano o en las primeras 4-6 h, segura en: RASCH-1 < 3; sin clampaje o clampaje < 30 min o CEC < 60 min; sin patología extracardiaca; edad > 3 meses y peso > 4 kg.
+- **Ventilación prolongada probable:** mayor riesgo quirúrgico, menor edad, isquemia o CEC largas, complicaciones infecciosas o respiratorias (derrame, paresia diafragmática), HTP u otras patologías.
+- Ante el fracaso del destete, descartar complicaciones intercurrentes. Requisitos: mejoría de la causa, estabilidad hemodinámica, estímulo respiratorio y fuerza suficientes y parénquima suficiente. La velocidad de descenso es inversamente proporcional a la duración de la ventilación. Apoyar las respiraciones espontáneas con presión de soporte y ajustar la sensibilidad para no aumentar el esfuerzo.
+
+! «RASCH-1» aparece así en el original (la escala se denomina RACHS-1).

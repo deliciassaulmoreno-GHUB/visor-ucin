@@ -1,0 +1,142 @@
+@f TEMAS/PC/5
+*Cuidados críticos del niño con patología cardíaca, cap. 8 (Manejo hidroelectrolítico y de la nutrición en el paciente pediátrico postoperatorio de cirugía cardiovascular).*
+
+## Manejo hidroelectrolítico
+
+El niño tiene más agua corporal y líquido extracelular, menor capacidad renal para diluir y concentrar y más pérdidas cutáneas que el adulto.
+
+### Aporte hídrico
+
+**Preoperatorio.** Necesidades basales según el gasto calórico, regla de Holliday: 100 ml/kg para los primeros 10 kg; 50 ml/kg entre 10 y 20 kg; 20 ml/kg por encima de 20 kg. Habitualmente suero glucosado isotónico (5 %) con sodio 140 mEq/l y potasio 20 mEq/l.
+
+**Intraoperatorio.** Mantener al paciente isovolémico, isotónico e isooncótico reponiendo necesidades basales (NB), déficit previo (DP = NB × horas de ayuno) y pérdidas concurrentes:
+- Insensibles (sin humidificador ni reinhalación, cavidades abiertas): **2 ml/kg/h**.
+- Hacia el tercer espacio: líquido similar al plasma, mayores en la primera hora.
+- Sangrado: valoración cuantitativa y de repercusión (FC, temperatura central y periférica, TA, diuresis).
+- **Pérdidas sanguíneas permisibles:** PSP = peso (kg) × VSE × (Hto − Hto mín) / Hto.
+
+*Tabla I. Volumen sanguíneo efectivo (VSE).*
+
+| Edad | VSE |
+|---|---|
+| Prematuro | 90-100 ml/kg |
+| Recién nacido a término | 80-90 ml/kg |
+| < 1 año | 75-80 ml/kg |
+| 1-6 años | 70-75 ml/kg |
+| > 6 años | 65-70 ml/kg |
+
+**Postoperatorio.** Según la cirugía, la hidratación, el curso intraoperatorio y las complicaciones (sangrado). Evitar la sobrecarga hídrica:
+- **Restricción hídrica al 50-75 % de las necesidades basales.**
+- Corrección de trastornos iónicos.
+- Diuréticos precoces para balances negativos, preferiblemente en perfusión continua, y/o depuración extrarrenal.
+
+La sobrecarga hídrica aumenta la morbimortalidad (más inotrópicos y ventilación, peor oxigenación, fallo renal, estancias y mortalidad) y el riesgo de fuga capilar. Factores de riesgo: cardiopatías cianosantes, menor peso, CEC más larga, más complejidad (RACHS-1), muchos fluidos en las primeras 6 h, VIS alto y fallo renal.
+
+### Trastornos electrolíticos
+
+Afectan al potencial de membrana, a la contractilidad y a las arritmias.
+
+- **Hipopotasemia** (diuréticos de asa): aportes de **2-4 mEq/kg/día** y ahorradores de potasio (canreonato iv o espironolactona vo).
+- **Hiperpotasemia** (ahorradores de potasio, IECA, insuficiencia renal). Grave (K^+^ > 6,5 o cambios en el ECG):
+  1. Gluconato cálcico **0,3-0,5 mEq/kg/dosis** (estabiliza la membrana).
+  2. Glucosa iv **0,5 g/kg**.
+  3. Insulina rápida iv **0,1 U/kg**.
+  4. Quelantes de potasio. Si persiste, depuración extrarrenal.
+- **Hipocalcemia** (más consumo y citrato de los hemoderivados; vigilar en cardiopatías del tronco pulmonar con hipoparatiroidismo, deleción 22q11.2/CATCH-22). No corregir de rutina la leve. Prevención tras hemoderivados: **0,5 mEq de calcio por cada 100 ml de sangre transfundida**; tratar las moderadas y graves con gluconato cálcico iv.
+- **Hiponatremia** (desde las 48 h por furosemida, antes por exceso de agua libre; SIADH). Corrección de la grave: **(Na diana − Na actual) × peso (kg) × 0,6**; 1/3 en 4-6 h y 2/3 en 24 h, con controles frecuentes.
+- **Hipernatremia** (frecuente al llegar de quirófano por la ultrafiltración): aporte inicial bajo de sodio las primeras 48 h (**40 mEq/l**).
+- **Hipofosforemia:** corregir si < 2,5 mg/dl (iv si es sintomática, o vo **1-2 mmol/kg/día**); importante para el ATP.
+- **Hiperfosforemia** (insuficiencia renal): forzar diuresis, dieta sin fósforo; si > 7 mg/dl o producto calcio-fósforo > 60, quelantes (sevelamer) o depuración extrarrenal.
+- **Hipomagnesemia** (diuréticos, catecolaminas): arritmogénica (torsade de pointes, TV refractarias); causa hipocalcemia y aumenta la toxicidad digitálica.
+
+### Equilibrio ácido-base
+
+- **Acidosis metabólica:** evitarla y corregir la moderada-grave (**pH < 7,2 y EB > −10**) para mejorar el efecto de los vasoactivos. Bicarbonato = **(HCO~3~ diana − HCO~3~ actual) × peso × 0,5** (0,8 en acidosis extrema); la mitad del déficit en 24 h y recalcular.
+- **Alcalosis metabólica** (diuréticos prolongados): suele bastar corregir la causa, la volemia y el potasio, y suspender fuentes de álcalis (bicarbonato, citrato, lactato, acetato). Exceso de bicarbonato = (HCO~3~ actual − 24) × 0,5 × peso.
+- **Respiratorias:** ajustar el soporte respiratorio.
+
+## Nutrición en el postoperatorio
+
+Malnutrición significativa en el 40-80 %. La mayoría reanudan la alimentación en 1-2 días y no necesitan soporte artificial; los de curso complicado (soporte hemodinámico, ventilación prolongada) son hipercatabólicos y candidatos.
+
+**Fisiopatología.**
+- La alimentación aumenta el gasto y el consumo esplácnico; con insuficiencia cardiaca o bajo gasto la extracción visceral de O~2~ aumenta: explica las complicaciones digestivas.
+- La motilidad baja en la insuficiencia hemodinámica grave; las dosis de noradrenalina y los mórficos son los principales determinantes de la progresión de la enteral; el aporte enteral se relaciona inversamente con dopamina y noradrenalina. Aun así la enteral (hipocalórica) suele ser posible; procinéticos y antieméticos.
+- **En la insuficiencia circulatoria aguda inestable con vasoactivos en ascenso, la enteral está relativamente contraindicada** (isquemia intestinal). Isquemia mesentérica tras cirugía cardiaca 0,5-2 %, con mortalidad del 11-27 %.
+- El intestino suele seguir siendo funcional; la enteral parcial es bien tolerada y beneficiosa (perfusión esplácnica, inmunidad), con precaución en hipotensos; la respuesta hemodinámica a la enteral continua es adecuada.
+- **ECMO:** más inestables, hipermetabólicos, catabólicos, resistentes a la insulina; los neonatos pueden perder hasta el 15 % de masa magra en 7 días; balance nitrogenado positivo con > 60 kcal/kg; riesgo de sangrado digestivo por la anticoagulación.
+
+**Causas de desnutrición:** ingesta inadecuada (la más importante: 50-76 % de lo necesario; 60-88 % de lo recomendado por FAO/OMS según el peso real; pausas, malabsorción, disnea al comer, anorexia), aumento del gasto (insuficiencia cardiaca, poscarga alta, más masa magra), problemas no cardiacos, malabsorción e hipoxia.
+
+*Tabla II. Factores de riesgo nutricional.*
+
+| Origen cardiaco | Origen sistémico-digestivo |
+|---|---|
+| Sobrecarga de presión y/o volumen | Ingesta calórica inadecuada |
+| Insuficiencia cardiaca congestiva | Aumento del gasto energético |
+| Disfunción miocárdica | Malabsorción intestinal |
+| Hipoxemia crónica | Déficit de nutrientes específicos |
+| Hipertensión arterial pulmonar | Factores genéticos |
+
+- Los inotrópicos no deben impedir iniciar la enteral si no hay otra contraindicación (mejoran la perfusión gástrica). Todos los vasopresores pueden afectar la motilidad y la perfusión; la adrenalina reduce más el flujo esplácnico que dopamina y noradrenalina. La dopamina a dosis bajas (< 5 mg/kg/min) tendría poco o ningún efecto negativo; a dosis más altas, enfoque conservador.
+- Otros: distensión por hepatomegalia, hipomotilidad por edema o hipoxia, pérdidas, enteropatía pierde-proteínas (Fontan), déficits que causan miocardiopatía (carnitina, tiamina, selenio), síndromes, prematuridad, CIR, infecciones respiratorias, reflujo, factores psicosociales.
+
+! «< 5 mg/kg/min» aparece así en el original (la dopamina se dosifica en µg/kg/min).
+
+**Evaluación nutricional.**
+- Preoperatoria, a tener en cuenta después: en el lactante, peso semanal, talla y perímetro braquial.
+- **Evaluación Global Subjetiva (SGA):** pérdida de peso en 6 meses, ingesta, síntomas digestivos, capacidad funcional, fármacos; exploración de grasa subcutánea, masa muscular, edemas y ascitis. Clase A bien nutrido, B desnutrición moderada, C grave (iniciar apoyo nutricional).
+- **Analítica inicial:** albúmina, prealbúmina, proteínas, PCR, Na, K, Ca, Mg, P, creatinina, AST, ALT, triglicéridos; Hb, Hto, linfocitos, plaquetas; B12, 25-OH-vitamina D, fólico, nitrógeno urinario. **Seguimiento:** diario (BUN, creatinina, Na, K, Cl, Ca, Mg, fosfato); semanal (triglicéridos, prealbúmina, PCR, osmolaridad urinaria); según evaluación, vitaminas, TSH, hierro.
+- **Desnutrición aguda:** cae el peso para la edad y la talla, con talla y perímetro cefálico normales. **Crónica:** cae el peso, después la talla y finalmente el perímetro cefálico (*stunting*: preserva el peso para la talla a costa del crecimiento lineal).
+
+### Necesidades energéticas
+
+*Tabla III. Gasto energético en reposo (GER).*
+
+@ancha
+| | Edad | Schofield (megajulios) | OMS (kcal) |
+|---|---|---|---|
+| Niños | 0-3 años | 0,007 P + 6,349 T − 2,584 | 60,9 P − 54 |
+| Niños | 3-10 años | 0,082 P + 0,545 T + 1,730 | 22,7 P + 495 |
+| Niños | 10-18 años | 0,068 P + 0,574 T + 2,157 | 17,5 P + 651 |
+| Niñas | 0-3 años | 0,068 P + 4,281 T − 1,730 | 61 P − 51 |
+| Niñas | 3-10 años | 0,071 P + 0,677 T + 1,553 | 22,5 P + 499 |
+| Niñas | 10-18 años | 0,035 P + 1,984 T + 0,837 | 12,1 P + 746 |
+
+*P: peso (kg); T: talla (m). Megajulios × 239 = kcal.*
+
+**Requerimientos totales = GER × factor de actividad × factor de estrés.**
+- Actividad: encamado 1,2-1,3; leve-moderada 1,5-1,6.
+- Estrés: fiebre 1,1-1,3; intervención quirúrgica (menor 1,1; mayor 1,2); infección (leve 1,2; moderada 1,4; grave 1,6); politraumatismo 1,3-1,5; depleción nutricional 1,2-1,5; quemados 1,6-2.
+
+*Tabla IV. Aproximación rápida (necesidades basales de calorías y líquidos).*
+
+| Peso (kg) | kcal/kg/día | ml/kg/día |
+|---|---|---|
+| 3-10 | 80 | 110 |
+| 11-20 | 70 | 100 |
+| 21-30 | 60 | 85 |
+| 31-40 | 50 | 70 |
+| > 40 | 30 | 45 |
+
+*Incrementos: crecimiento 10 %; actividad 10 %; estrés 20-40 %; cirugía mayor 20-30 %; fiebre 12 % por °C > 37 °C; sepsis 40-50 %; insuficiencia cardiaca 15-25 %; malnutrición 40-50 %; quemados hasta 100 %.*
+
+### Estrategia
+
+- Las fórmulas muy energéticas pueden aumentar la termogénesis y la ineficiencia metabólica; vigilar la glucemia. Si no alcanzan las calorías, apoyo enteral (gástrico si no hay gastroparesia); la enteral profiláctica puede estar indicada antes de que aparezca el fallo de crecimiento.
+- **Pasos:** elegir la fórmula, valorar el aporte energético-proteico, aumentar la densidad calórica y controlar los líquidos.
+- Proteínas de alto valor biológico (aumentan la carga renal de solutos; aprox. 10 % de las calorías), evitando la hipoproteinemia. Grasas bajas con suficiente linoleico (> 300 mg/100 kcal), más MCT y poliinsaturadas < 10 % de las calorías.
+- En general no pasar de **1-1,2 kcal/ml**, suplementando las fórmulas habituales (0,67-0,72 kcal/ml) con módulos (Duocal, MCT, Sandoz FQ). Osmolaridad urinaria entre **300-400 mOsm/l**.
+- Lactantes con riesgo de insuficiencia cardiaca: más fraccionamiento de las tomas (menos cansancio al succionar).
+- Vitaminas y micronutrientes; vigilar el hierro (su déficit aumenta la hipoxia tisular y la viscosidad); suplementar vitamina D, complejo B y fólico (sobre todo en miocardiopatías).
+
+**Fórmulas enterales.**
+- Completas o incompletas (módulos de hidratos de carbono, grasas o proteínas; suplementos orales).
+- Poliméricas (nutrientes enteros), oligoméricas o peptídicas (péptidos < 5.000 Da; semielementales con MCT y dextrinomaltosa) y monoméricas o elementales (L-aminoácidos, MCT, polímeros de glucosa; más osmolaridad).
+
+**Vía y ritmo.**
+- Vía oral de elección; si no basta, enteral con algo oral; **parenteral solo si no puede iniciarse la vía oral antes de 3-5 días.** Gastrostomía endoscópica si va a durar > 2 meses. **Transpilórica** si hay mal vaciamiento, residuo elevado o intolerancia.
+- Medir el residuo gástrico al menos 4 veces al día: elevado si > 50 % de lo pasado en las 4-5 h previas. Diarrea: ≥ 5 deposiciones o por volumen.
+- **Empezar con el 30-50 % de los requerimientos** y alcanzar la meta en 48-72 h; si a los 5-7 días no se logra, complementar con parenteral. Éxito: enteral exclusiva > 80 % de los requerimientos desde el día 7.
+- **Suspender** si: residuo > 50 % de lo infundido en 4-5 h sin síntomas; residuo < 50 % con síntomas digestivos; procedimiento con anestesia general (gástrica: suspender 6-8 h antes y reiniciar 6-8 h después; transpilórica: 4 h antes y 4 h después). Evitar suspensiones innecesarias.
+- La mayoría de los niños con insuficiencia hemodinámica toleran la enteral, sobre todo transpilórica, con más complicaciones digestivas: vigilar distensión, residuos excesivos, diarrea con sangre, asas dilatadas o neumatosis. Si aparecen y no mejoran al reducir o modificar la dieta, suspender y pasar a parenteral. Combinar enteral y parenteral si el aporte es insuficiente. Riesgo de isquemia intestinal en el *shock* con vasoactivos.

@@ -1,0 +1,123 @@
+@f TEMAS/PC/2
+*Cuidados críticos del niño con patología cardíaca, cap. 5 (Soporte hemodinámico).*
+
+## Definiciones
+
+**Insuficiencia cardiaca aguda (ICA):** incapacidad del corazón para mantener un gasto cardiaco adecuado a los requerimientos metabólicos. Síndrome progresivo con mecanismos mecánicos, neurohormonales, celulares, moleculares, genéticos e inmunológicos; con o sin cardiopatía previa, de novo o como descompensación.
+
+**Shock cardiogénico:** ICA con perfusión tisular inadecuada. Orientativamente:
+- Hipoperfusión tisular (frialdad periférica, oligoanuria, alteración del nivel de conciencia).
+- Hipotensión arterial persistente (PAS < 2 DE).
+- Índice cardiaco muy reducido (< 1,8 l/min/m² sin inotrópicos o < 2 l/min/m² con inotrópicos) con presiones de llenado adecuadas o altas.
+
+En niños el fallo cardiaco se debe sobre todo a anomalías estructurales: cardiopatías congénitas o su postoperatorio (el 82 % de la IC pediátrica). En corazones estructuralmente normales, la causa más frecuente son las miocardiopatías primarias, sobre todo dilatadas.
+
+## Fisiopatología
+
+**Aporte de oxígeno.** Depende del contenido arterial de O~2~ (sistemas respiratorio y hematológico) y del gasto cardiaco.
+- DO~2~ = GC × CaO~2~.
+- CaO~2~ = (1,34 × Hb × SatHb) + (0,003 × PaO~2~).
+- GC = volumen latido × FC. El volumen latido depende de precarga, poscarga y contractilidad; la FC, del tono autonómico y factores hormonales.
+
+**Mecanismos de bajo gasto:**
+- **IC sistólica (contractilidad):** aumento de precarga (*shunt* izquierda-derecha: dilatación) o de poscarga (estenosis aórtica, coartación, HTA, estenosis pulmonar: hipertrofia).
+- **IC diastólica (distensibilidad):** miocardiopatías, pericarditis o derrame, infarto o isquemia, postquirúrgicas (Fallot, Fontan).
+- **Ritmo o conducción:** BAV completo, taquiarritmias.
+
+**Monitorización analítica.**
+- **SvO~2~ (arteria pulmonar) o ScvO~2~ (VCS):** su descenso indica más consumo (fiebre, ejercicio, dolor, trabajo respiratorio), menos aporte (hipoxia, anemia) o gasto inadecuado (hipovolemia, insuficiencia cardiaca). **SvO~2~ < 60 % se asocia a más mortalidad**; el objetivo > 70 % en el paciente séptico reduce la morbimortalidad.
+- **Lactato y pH:** la hipoxia activa la glucólisis anaerobia (lactato) y la acumulación de hidrogeniones (acidosis). Otras causas de hiperlactacidemia: insuficiencia hepática, soluciones de hemodiafiltración, etanol, metanol, metformina. El lactato sube algo antes de alcanzar el punto crítico aporte-consumo.
+- Objetivo del tratamiento: normalizar lactato, pH y SvO~2~/ScvO~2~.
+
+**Consumo miocárdico de O~2~:**
+- **Tensión de pared** (Laplace: proporcional a presión y radio, inversa al grosor).
+- **FC:** la taquicardia aumenta la demanda y acorta la perfusión coronaria; la bradicardia excesiva aumenta el volumen telediastólico y la tensión.
+- **Contractilidad:** en el corazón sano, los inotrópicos aumentan el consumo; en el ventrículo dilatado lo reducen (menos presión y volumen telediastólicos), limitado por el aumento de FC.
+- La perfusión miocárdica depende del GC, del tiempo diastólico y de la presión diastólica aórtica.
+
+## Fármacos vasoactivos
+
+### Simpaticomiméticos
+
+Catecolaminas endógenas (dopamina, adrenalina, noradrenalina), sintéticas (isoproterenol, dobutamina) y no catecolamínicos (dopexamina).
+
+*Tabla I. Efecto farmacológico de los simpaticomiméticos.*
+
+| Fármaco | Receptores | Δdp/dt | FC | VC | VD |
+|---|---|---|---|---|---|
+| Dopamina | DA1, β1, α1 | ++ | + | ++ | – |
+| Dobutamina | β1, β2 | ++ | ++ | – | + |
+| Dopexamina | β2, DA1 | ++ | + | – | ++ |
+| Adrenalina | β1, β2, α1 | +++ | ++ | +++ | +/– |
+| Noradrenalina | β1, α1 | + | + | +++ | – |
+| Isoproterenol | β1, β2 | + | +++ | – | ++ |
+
+*Δdp/dt: contractilidad; FC: frecuencia cardiaca; VC: vasoconstricción; VD: vasodilatación.*
+
+*Tabla II. Rango de dosis y vida media.*
+
+| Fármaco | Dosis (µg/kg/min) | Vida media |
+|---|---|---|
+| Dopamina | 2,5-15 | 2 min |
+| Adrenalina | 0,05-2 | 3 min |
+| Noradrenalina | 0,05-2 | 2 min |
+| Dobutamina | 5-30 | 2 min |
+| Isoproterenol | 0,05-1 | 1,5 min |
+| Dopexamina | 0,5-6 | 2 min |
+
+- **Dopamina:** el inotrópico más usado en pediatría (bajo gasto). A dosis altas, efecto β (contractilidad, FC) y α (vasoconstricción sistémica y pulmonar), menor que la noradrenalina; sin evidencia de mejorar la perfusión renal a dosis bajas. Puede aumentar el consumo miocárdico, causar taquicardia (menos flujo coronario diastólico) y arritmias. **Tendencia actual: 3-5 µg/kg/min, sin superar 8-10 µg/kg/min.**
+- **Adrenalina:** RCP y segunda línea si no basta la dopamina o la dobutamina. A dosis bajas (< 0,05-0,10 µg/kg/min) disminuye las resistencias sistémicas; a dosis mucho más altas las aumenta considerablemente. Siempre venoconstricción y más inotropismo que dopamina o dobutamina.
+- **Noradrenalina:** potente vasoconstrictor; mantiene o reduce algo el GC y aumenta el flujo coronario en el bajo gasto. Para *shock* sin respuesta a dopamina con predominio de vasodilatación.
+- **Dobutamina:** inotrópico directo; aumenta el GC, baja las presiones de llenado y las resistencias sistémicas, mejora el automatismo y la conducción AV; vasodilatador coronario. Fallo ventricular importante con resistencias altas.
+- **Isoproterenol:** inotrópico y cronotropo; uso muy restringido: bajo gasto con vasoconstricción y bradicardia, o bajo gasto transitorio por bradiarritmias graves y BAV.
+- **Dopexamina:** inodilatador; sin experiencia ni indicaciones establecidas en pediatría.
+
+### Otros
+
+- **Milrinona** (inhibidor de la fosfodiesterasa III): muy útil en la disfunción ventricular tras cirugía cardiaca y en el fallo derecho con hipertensión pulmonar. Reduce la incidencia de bajo gasto postoperatorio en niños (Hoffman, 2003): **uso generalizado en todos los postoperados cardiacos las primeras 24-48 h.** Limitada en el *shock* cardiogénico por su vida media larga y la hipotensión (útil asociada a otros). Aumenta la contractilidad, reduce las resistencias sistémicas y pulmonares, efecto lusitrópico y mejora el VD. Frente a la dobutamina: vasodilatación sistémica y pulmonar más potente (mejor en el fallo derecho) y menos consumo de O~2~ (menos taquicardia); la dobutamina se reserva para la disfunción sistólica aislada.
+- **Prostaglandinas:** PGE~1~ para mantener el ductus en cardiopatías ductus-dependientes; epoprostenol, el tratamiento más eficaz de la HTP en niños.
+- **Vasopresina:** eficaz en el bajo gasto postoperatorio resistente a catecolaminas, pero el gran aumento de poscarga la hace poco útil a largo plazo en el *shock* cardiogénico; su principal interés es el *shock* séptico refractario. **Terlipresina:** análogo de vida media más larga (6 h); rescate en bajo gasto extremo tras cirugía cardiaca.
+- **Levosimendán** (sensibilizador al calcio): mejora hemodinámica, síntomas y supervivencia en el bajo gasto; en niños, sobre todo bajo gasto postoperatorio y miocardiopatía (menos necesidad de soporte mecánico o facilita su retirada). Inotrópico y vasodilatador arterial; no aumenta el consumo de O~2~ (no altera el ciclo del calcio); metabolito activo con vida media de 70-80 h.
+
+### Vasodilatadores
+
+Indicados en disfunción miocárdica, insuficiencia coronaria, insuficiencia valvular e hipertensión sistémica o pulmonar (venosos, arteriales o mixtos). En la disfunción aguda buscan reducir la poscarga; **contraindicados si hay hipotensión**; en el *shock* cardiogénico, asociados a un inotrópico.
+- **Nitroglicerina:** a dosis bajas (0,5-2 µg/kg/min) venodilatadora (baja la precarga); a más dosis, arterial (baja la poscarga, aumenta el GC y reduce el consumo). Vasodilatación coronaria y antiagregante: de elección en la isquemia. En pediatría, bajo gasto con precarga elevada tras cirugía, sobre todo con manipulación coronaria.
+- **Nitroprusiato:** mixto, sistémico y pulmonar; inicio rápido y corta duración. **0,4-4 µg/kg/min**, en perfusión protegida de la luz y **no más de 72 h** (tiocianato y cianuro, sobre todo con insuficiencia renal o hepática). Útil en el *shock* cardiogénico con vasoconstricción; aumenta el flujo cerebral.
+- **Labetalol:** α y β bloqueante con gran acción vasodilatadora, mantiene el GC; de elección en la HTA tras corrección de coartación.
+- **Hidralazina:** vasodilatador arteriolar directo; coadyuvante en la HTA perioperatoria; taquicardia refleja.
+- **Urapidilo:** bloqueante α1 postsináptico y agonista serotoninérgico central; sin taquicardia refleja; HTA postoperatoria cardiaca (posible efecto miocardioprotector). **Dosis inicial 1-2 mg/kg lenta y mantenimiento 0,8-3,3 mg/kg/h.**
+
+## Terapias coadyuvantes
+
+- **Vitamina D:** el déficit en críticos pediátricos se asocia a más vasoactivos, ventilación, sepsis y mortalidad. Según la Sociedad Española de Endocrinología Pediátrica: normal > 30 ng/ml, insuficiencia 15-30, déficit < 15. La suplementación del déficit es una opción barata y segura, aún sin evidencia de mejorar el pronóstico.
+- **Corticoides:** sospechar insuficiencia suprarrenal relativa ante hipotensión refractaria a inotrópicos o vasopresores. **Hidrocortisona 50 mg/m² inicial y después 50 mg/m²/día cada 6 h** hasta retirar el soporte inotrópico, máximo 5 días (suspender o bajar en pauta breve). Sin evidencia para uso rutinario ni como profilaxis de la respuesta inflamatoria de la CEC.
+- **Hormona tiroidea:** el síndrome del eutiroideo enfermo (menor conversión de T4 a T3, más rT3, alteración de T4 y TSH) se describe en el *shock* cardiogénico; la sustitución puede mejorar la función miocárdica y reducir inotrópicos.
+
+## Manejo práctico
+
+Objetivo: mejorar la perfusión y el aporte de O~2~, guiándose por parámetros clínicos (FC, TA, diuresis, PVC) y analíticos (lactato, pH, SvO~2~). Optimizar la oxigenación y la hemoglobina e identificar qué componente corregir (precarga, contractilidad, poscarga, FC). **Decidir los inotrópicos por criterios clínicos, no ecocardiográficos.** Idealmente deben mejorar el GC y la diastólica (perfusión miocárdica) con poca taquicardia; usar la menor dosis eficaz.
+
+**Scores de soporte inotrópico:**
+- **Inotropic Score (Wernovsky, 1995):** IS = dopamina (µg/kg/min) + dobutamina (µg/kg/min) + 100 × adrenalina (µg/kg/min).
+- **Vasoactive-Inotropic Score (Gaies):** VIS = IS + 10 × milrinona (µg/kg/min) + 10.000 × vasopresina (U/kg/min) + 100 × noradrenalina (µg/kg/min). Mejor predictor de mal pronóstico (más ventilación, estancia y morbimortalidad).
+- **Soporte elevado: VIS > 20 en las primeras 24 h o > 15 en las primeras 48 h** tras la cirugía (no extrapolable a neonatos).
+
+**Pauta.**
+1. Valorar precarga, poscarga y contractilidad y la volemia (los vasoactivos con volemia inadecuada causan iatrogenia o fracaso). Si la precarga está baja: **cargas de volumen de 5-10 ml/kg**; si persiste el bajo gasto, fármacos. Con contractilidad baja y precarga correcta, inotrópicos de primera elección. En emergencias, actuar a la vez sobre todo.
+2. **Primer fármaco:** milrinona o dopamina según la TA: con TA mantenida, milrinona; hipotenso, dopamina (o adrenalina si está muy taquicárdico). La hipotensión de la milrinona puede compensarse asociando dopamina o adrenalina.
+3. **Segundo:** dopamina si empezó con milrinona, o adrenalina si empezó con dopamina.
+4. **Tercero:** adrenalina o noradrenalina. Valorar hidrocortisona a dosis de estrés (50 mg/m²/día cada 6 h), vasopresina/terlipresina y hormona tiroidea.
+5. Con predominio de vasodilatación, noradrenalina antes y vasopresores (vasopresina, terlipresina) más precoces.
+6. **Retirada:** con estabilidad, bajar vigilando la respuesta (lactato, SvO~2~, eco), empezando por los que causen efectos indeseados (taquicardia, vasoconstricción, arritmias).
+7. Con VIS altos mantenidos, el tratamiento médico probablemente no revierta la situación y aumenta el estrés miocárdico (edema, bandas de contracción, miocitólisis, fibrosis): valorar **asistencia mecánica** (ECMO, balón de contrapulsación, asistencia ventricular) como puente a la recuperación o al trasplante.
+
+*Figura 1. Escalada del soporte.*
+
+| Paso | Fármacos |
+|---|---|
+| 1.^er^ inotrópico | Milrinona 0,37-0,7 µg/kg/min · Dopamina 5 µg/kg/min · Adrenalina 0,01-0,03 µg/kg/min |
+| 2.º inotrópico | Dopamina 10 µg/kg/min · Adrenalina 0,05-0,1 µg/kg/min |
+| 3.^er^ inotrópico | Adrenalina, dopamina o noradrenalina (adrenalina > 0,3 µg/kg/min raramente) |
+| Terapias coadyuvantes | Hidrocortisona · Vasopresina/terlipresina · Hormona tiroidea (0,2 µg/kg/8 h) |
+| Asistencia mecánica | ECMO · Asistencia ventricular · Balón de contrapulsación |

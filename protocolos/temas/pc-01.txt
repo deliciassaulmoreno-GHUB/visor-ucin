@@ -1,0 +1,128 @@
+@f TEMAS/PC/1
+*Cuidados críticos del niño con patología cardíaca, cap. 4 (Monitorización del paciente con cardiopatía).*
+
+## Monitorización hemodinámica
+
+La corrección quirúrgica altera la hemodinámica previa y la anestesia con CEC suma efectos sobre el transporte de oxígeno. En las primeras horas existe riesgo de bajo gasto: hay que anticiparse con una monitorización adecuada, basada en la vigilancia de enfermería entrenada y del intensivista. La exploración está limitada por la ventilación y la sedación. La valoración objetiva del gasto cardiaco (GC) en niños es compleja (casi no se usa el catéter de arteria pulmonar). La monitorización básica se centra en el ECG y las presiones; la avanzada, en la ecocardiografía, complementada con termodilución transpulmonar (TDTP) y espectroscopia cercana al infrarrojo (NIRS).
+
+### Monitorización básica
+
+**Electrocardiograma.** Derivaciones I, II y III en continuo: frecuencia cardiaca y ritmo sinusal; la central de monitorización permite analizar tendencias y eventos. Para un diagnóstico preciso, ECG de 12 derivaciones. **ECG auricular** con los electrodos epicárdicos temporales: conectando los electrodos auriculares a la derivación V o a las pinzas roja y amarilla (derivación I) se obtiene una onda P aumentada, muy útil en las arritmias supraventriculares como la taquicardia ectópica de la unión.
+
+**Presión arterial.**
+- Mantenerla en un rango según edad, cardiopatía y situación. **PAM de referencia: 40 mmHg en el neonato, 45 en el lactante, 50-60 en el niño y 65-75 en el adolescente.**
+- Presión de perfusión tisular (PPT) = PAM − PVC. En el fallo derecho la PVC suele estar alta: hará falta una PAM mayor para mantener la PPT.
+- La hipotensión debe resolverse de inmediato. La PA depende del GC y de la resistencia sistémica: manejarla siempre junto con la estimación del gasto. Evitar también la hipertensión (aumento de poscarga con fallo cardiaco, hemorragia, lesión cerebral).
+- El manguito es adecuado si no hay bajo gasto, hipotensión ni arritmias; en el postoperatorio se recomienda línea arterial (femoral o radial; umbilical en neonatos) con lavado continuo de suero heparinizado (1 UI/ml) a 1-2 ml/h, mínimas manipulaciones y manejo aséptico como una vía central.
+- **Onda de pulso:** pendiente escasa indica fallo de contractilidad; punto dícroto tardío y poco elevado, vasodilatación.
+- **Variación de la presión de pulso (VPP)** con el ciclo respiratorio: elevada en ventilados se relaciona con hipovolemia. VPP (%) = (PP máx − PP mín) / [(PP máx + PP mín) / 2] × 100.
+
+**Presión venosa central.** Catéter en la entrada de la VCS en la AD (yugular interna o subclavia) o largo femoral supradiafragmático. Imprescindible para la SvO~2~ central, pero poco útil para estimar la volemia (alteración de la complianza, presión intraabdominal alta, ventilación): desechada como estimación de precarga; usar ecografía o TDTP.
+
+**Presión de arteria pulmonar.** Catéter intraoperatorio; indicación fundamental: diagnóstico y manejo de la hipertensión pulmonar. Permite gasometrías para detectar *shunt* izquierda-derecha significativo (SvO~2~ elevada).
+
+**Presión de aurícula izquierda** (normal 4-12 mmHg). Útil en hipertensión pulmonar (valores bajos), patología mitral o fallo del VI (altos). Uso restringido por riesgo de infección y sangrado. El taponamiento eleva a la vez PAI y PVC.
+
+**Presión intraabdominal (PIA).** Fuga capilar, anasarca y ascitis pueden causar síndrome compartimental. Medición por sonda vesical; **> 15-20 mmHg** puede ser significativa en inestabilidad: valorar paracentesis o apertura abdominal.
+
+### Monitorización avanzada
+
+**Ecocardiografía-Doppler.** Lesiones residuales, derrame pericárdico, función contráctil (FE del VI), sincronía, hipovolemia (colapso inspiratorio de la cava). Función sistólica del VD por TAPSE. GC = volumen sistólico × FC (VS = área valvular aórtica × integral de la curva Doppler en el tracto de salida del VI); tiene subjetividad (angulación, reparto fijo 30/70 entre territorio coronario-braquiocefálico y aorta descendente): útil sobre todo para ver la evolución y la respuesta. Ecografía torácica: edema pulmonar (abundantes líneas B) y derrames.
+
+**Saturación venosa de O~2~.** La mixta (arteria pulmonar) se sustituye en la práctica por la central (SvcO~2~, aurícula derecha por vía yugular, subclavia o femoral). Estima el balance aporte-consumo de O~2~.
+- ConsO~2~ = GC × [(Hb × 1,34 × SaO~2~ + 0,0031 × PaO~2~) − (Hb × 1,34 × SvO~2~ + 0,0031 × PvO~2~)].
+- **Normal 70 %.** Baja en anemia, hipoxemia, bajo gasto o aumento de demandas. Un valor alto también puede ser patológico (fallo mitocondrial, vasoplejía postquirúrgica).
+- En hipoxémicos es más útil la diferencia SaO~2~ − SvO~2~: **> 25 % es compatible con bajo gasto**.
+- Normalmente la SvO~2~ de la VCS es menor que la de la VCI (más consumo cerebral); en el *shock* la relación se invierte (cae antes la perfusión esplácnica). Muestras de ambas cavas ayudan a detectar el bajo gasto.
+- Gasometrías de muestras de catéter o sondas de fibra óptica continuas (2 Fr por introductor o catéteres de 2 luces de 4,5 Fr).
+
+**Gasto cardiaco por termodilución transpulmonar (TDTP).** Validada en pediatría: caída de temperatura en la arteria femoral tras inyectar suero frío en una vía central. No es válida con recirculación ni flujo irregular: lesiones residuales (insuficiencias, cortocircuitos) y arritmias la invalidan, por lo que a menudo no es aplicable al postoperado cardiaco. Aporta datos de volemia y agua pulmonar (en niños, aún sin valores establecidos; más agua extravascular y menos volumen intracardiaco que en el adulto). Las guías prefieren estos volúmenes a la PVC para estimar precarga. La monitorización continua por onda de pulso necesita recalibraciones tan frecuentes en el crítico que es poco útil. En la experiencia de los autores fue segura y útil: un **índice cardiaco < 3 l/min/m²** se asoció a peor evolución (más PVC, resistencias, edema pulmonar e inovasopresores).
+
+*Tabla I. Valores de TDTP relacionados con mejor evolución.*
+
+| Parámetro | Media ± DE | Unidades |
+|---|---|---|
+| Índice cardiaco | 4,23 ± 0,92 | l/min/m² |
+| Índice de volumen sistólico | 35,14 ± 7,90 | ml/m² |
+| Contractilidad | 823 ± 254 | mmHg/s |
+| Índice de volumen intracardiaco telediastólico | 487 ± 167 | ml/m² |
+| Índice de resistencia vascular sistémica | 1.353 ± 326 | dyn·s·cm^5^/m² |
+| Índice de agua pulmonar extravascular | 17,33 ± 9,76 | ml/kg |
+
+**Espectroscopia cercana al infrarrojo (NIRS).** Sensor cutáneo que mide la saturación regional (rSO~2~) del lecho venoso-capilar (la Hb oxigenada absorbe más a 800-850 nm y la reducida a 650-800 nm). Refleja sobre todo el compartimento venoso y los cambios de demanda o suministro regional. Más que un valor absoluto, es un proceso dinámico:
+- Descenso de rSO~2~: menor perfusión, más extracción, metabolismo elevado o estancamiento circulatorio.
+- Valores altos: más perfusión, menor metabolismo o menor extracción.
+- El territorio esplácnico es el primero que se «sacrifica» en el bajo gasto: el NIRS somático puede anticiparlo antes que la SvcO~2~ (que es un promedio). Los valores renales basales son un 15-20 % mayores que los cerebrales.
+- **Fórmula de Hoffman:** SvcO~2~ = 0,45 × rSO~2~ cerebral + 0,45 × rSO~2~ renal.
+- El NIRS renal (flanco posterior, T10-L1) solo es aplicable en < 10 kg y sin anasarca importante (alcance de 2-3 cm).
+- Experiencia de los autores en lactantes: rSO~2~ renal basal 86-91 % (sobrestima la SvO~2~) y cerebral 62-70 % (la infraestima); se confirmó la fórmula de Hoffman. La monitorización combinada, 64 (60-69) frente a 72 (67-76) %, detectó índices cardiacos < 3 l/min/m². La rSO~2~ renal fue muy sensible al compromiso del aporte de O~2~ (hipoxemia, anemia, bajo gasto): la recomiendan en los pacientes de más riesgo y menor peso.
+
+## Monitorización respiratoria
+
+Como en cualquier crítico, pero vigilando situaciones que comprometen más a estos pacientes (fallo derecho y presiones intratorácicas altas, Fontan, derrames).
+- **Clínica:** FR, FC, patrón y signos de dificultad (quejido, aleteo, estridor), ventilación simétrica, expansión, crepitantes, sibilancias, roces; TA, perfusión, sudoración. Valora la necesidad de soporte y la respuesta.
+- **Paciente intubado a su llegada:** auscultación y expansión bilateral, descartar desplazamiento del tubo, permeabilidad, secreciones, acodamiento, fugas; adaptación o agitación (sedación).
+
+### Oxigenación
+
+**Pulsioximetría.** Buena correlación con la PaO~2~ entre el 80 y el 97 %; no detecta PaO~2~ elevadas. Limitaciones: retraso de respuesta, hipoperfusión periférica, hemoglobinas anormales y valores > 97 %.
+- **SaFi (SatO~2~/FiO~2~):** SaFi < 264 equivale a PaFi < 300 y SaFi < 221 a PaFi < 200; útil también para predecir indicación y fallo de la VNI.
+- **Índice de saturación de oxígeno** (PALICC): ISO = (FiO~2~ × Pmva × 100) / SatO~2~. SDRA leve 5-7,5, moderado 7,5-12,3, grave > 12,3. No aplicable en cardiopatías cianógenas.
+
+**Gasometría arterial** (oxigenación, ventilación y equilibrio ácido-base).
+- PaO~2~ normal 80-100 mmHg; hipoxemia < 60 mmHg.
+- PaO~2~/FiO~2~: normal > 350; SDRA leve 200-300, moderado 100-200, grave < 100.
+- Índice de oxigenación: IO = (Pmva × FiO~2~ × 100) / PaO~2~. Normal < 5; SDRA leve 4-8, moderado 8-16, grave > 16. Incluye la presión media necesaria.
+- PaFi e IO no son aplicables en cardiopatías cianógenas.
+
+### Ventilación
+
+- **PaCO~2~**, en equilibrio con la presión alveolar de CO~2~.
+- **Capnografía:** suele ser < 5 mmHg menor que la arterial. Confirma la intubación; detecta pronto hipoventilación, extubación accidental, asincronías, fugas, desconexión o fallo del equipo; en RCP, valores muy bajos persistentes indican imposibilidad de recuperación. Mala correlación con la PaCO~2~ si aumenta el espacio muerto, el cortocircuito intrapulmonar o hay bajo gasto: preferir la PaCO~2~. Otros métodos: transcutáneo y capnografía volumétrica.
+
+### Mecánica ventilatoria
+
+- **Presión inspiratoria máxima** < 35 cmH~2~O; si es alta, descartar obstrucción (broncoespasmo, secreciones) o problemas del tubo.
+- **Presión meseta** (pausa inspiratoria ≥ 2 s) < 30 cmH~2~O; refleja la elasticidad del sistema.
+- **Curvas** (al menos presión-tiempo y flujo-tiempo), de forma sistemática: modo ventilatorio, respiraciones espontáneas y asistidas, optimizar la programación, atrapamiento, asincronías, patrones obstructivo/restrictivo, PEEP intrínseca, fugas, agua en tubuladuras, secreciones y respuesta a intervenciones. Bucle volumen-presión: complianza dinámica y puntos de inflexión inferior (apertura alveolar) y superior (sobredistensión). Bucle flujo-volumen: volumen exhalado, fugas, flujo espiratorio adicional o espiración forzada.
+- **Volumen corriente 6-8 ml/kg** (protección pulmonar). Volumen minuto = FR × Vc.
+
+### Imagen
+
+- **Radiografía:** edema, derrames, neumonía, desplazamiento del tubo, atelectasia, neumotórax, posición de sondas y catéteres.
+- **Ecografía pulmonar:** intubación, edema, derrames, condensaciones, neumotórax (mejor que la radiografía) y movilidad diafragmática; a pie de cama, inocua.
+- **TC:** parénquima; radiación y traslado (existen equipos portátiles).
+
+Los monitores no cuidan al paciente: con ratio 1/1 mejoran la atención; con varios pacientes, las falsas alarmas hacen perder la confianza en ellos.
+
+## Monitorización neurológica
+
+Base de la prevención e identificación del riesgo de isquemia cerebral en la cirugía cardiaca; permite valorar el efecto de los fármacos, la profundidad anestésica y la lesión. La ideal es continua, con mínimas interferencias y que permita intervenir.
+
+**Actividad metabólica.** La diferencia arterio-yugular de O~2~ (AjvDO~2~) se mantiene si oferta y demanda no cambian, salvo en lesión aguda. Con Hb y SaO~2~ estables, depende sobre todo de la **saturación venosa yugular (SjO~2~)**, medida con catéter de fibra óptica en el bulbo de la yugular.
+
+*Tabla II. Valores de SjO~2~.*
+
+| SjO~2~ | Interpretación |
+|---|---|
+| > 75 % | Exceso de aporte respecto a requerimientos; isquemia cerebral global (el tejido infartado no consume) |
+| 70 % | Valor normal |
+| < 54 % | Hipoperfusión cerebral compensada |
+| < 40 % | Isquemia cerebral global |
+
+**NIRS cerebral (rSO~2~c).** Saturación mixta arterial, venosa y microcirculatoria; tendencia y comparación entre hemisferios; buena correlación con el bulbo yugular. **Rango habitual 55-80 %.**
+- **Umbral de intervención:** rSO~2~c < 50 % o caída del 20 % respecto al basal del paciente.
+- **Mal pronóstico neurológico:** rSO~2~c < 45 % mantenida al menos 10 minutos o caída del 25 % respecto al basal.
+- Limitación: no da información cuantitativa precisa de la saturación venosa cerebral.
+
+**Marcadores bioquímicos.**
+- **Acidosis metabólica hiperlactacidémica** (pH < 7,15 y lactato > 40 mg/dl) en las primeras 24 h: el que mejor se correlaciona con lesión neurológica posterior.
+- **Enolasa neuronal específica:** aumenta durante la CEC (también en hemólisis); su persistencia tras 24 h se asocia a déficit neurológico.
+- **S-100β:** proteína glial; pico al final de la CEC, vida media 130 min; mayor con CEC y en cirugía valvular.
+- Ventaja: cuantitativos e independientes de la sedación; limitación: sin umbral pronóstico consistente.
+
+**Flujo sanguíneo cerebral (FSC).** La autorregulación lo mantiene constante con PAM de **50-150 mmHg**. Por debajo de 50 mmHg el FSC se compromete gravemente; por encima del límite superior aumenta rápidamente (distensión o rotura vascular, edema, hemorragia). Al bajar la presión de perfusión: vasodilatación, más volumen sanguíneo, más extracción de O~2~, alteración sináptica (visible en el EEG), fallo de membrana e infarto, según el grado y la duración.
+
+**Doppler transcraneal.** Velocidades en grandes vasos (ventana temporal para la cerebral media); la velocidad diastólica disminuye al bajar la presión de perfusión. Un aumento de velocidad puede ser vasoconstricción (falso aumento del FSC) o hiperemia.
+
+**Actividad eléctrica: BIS.** Escala de 0 (EEG isoeléctrico) a 100 (despierto); **40-60, sedación adecuada.** El BIS bilateral (4 canales frontotemporales) añade la asimetría interhemisférica y la matriz de densidad espectral, útil en el postoperatorio cardiaco para diagnosticar convulsiones.
