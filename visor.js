@@ -157,9 +157,18 @@ function fix(w){const v=vocab();if(w.length<5||v.has(w))return w;let best=w,bd=3
 function terms(q){const ws=norm(q).split(/\s+/).filter(Boolean).map(fix);return ws.map(w=>[w,...(SINONIMOS[w]||"").split(" ").filter(Boolean)])}
 const hit=(txt,ts)=>{const n=norm(txt);return ts.every(g=>g.some(w=>n.includes(w)))};
 function snip(t,ts){const n=norm(t),w=ts.flat().find(x=>n.includes(x));const i=Math.max(0,n.indexOf(w)-45);let s=esc(t.slice(i,i+130));return(i?"…":"")+s.replace(new RegExp("("+w+")","i"),"<mark>$1</mark>")+"…"}
+let TIDX=null;
+function temaIdx(){if(TIDX)return TIDX;TIDX=[];const el=document.createElement("div");
+ for(const[id,T]of Object.entries(TEMAS))T.p.forEach((parte,i)=>{const e=PROTO["1. Protocolos/TEMAS/"+(T.k||T.t)+"/"+(i+1)];el.innerHTML=e?e.h.replace(/<\/(p|li|td|th|h\d|div|caption)>|<br\s*\/?>/gi,"$& "):"";
+  const txt=(el.textContent||"").replace(/\s+/g," ").trim();TIDX.push({id,i,T,cab:T.t+" "+parte+" "+(T.esp||""),txt})});return TIDX}
+function tsnip(t,ts){if(!t)return"";const n=Array.from(t).map(c=>c.normalize("NFD")[0].toLowerCase()).join(""),w=ts.flat().find(x=>n.includes(x));if(!w)return esc(t.slice(0,130))+"…";
+ const i=Math.max(0,n.indexOf(w)-45),j=n.indexOf(w);return(i?"…":"")+esc(t.slice(i,j))+"<mark>"+esc(t.slice(j,j+w.length))+"</mark>"+esc(t.slice(j+w.length,i+130))+"…"}
 function searchHtml(q){if(norm(q).trim().length<2)return"<p>Escribe al menos dos letras.</p>";const ts=terms(q);let h="";
  const fi=FICHAS.filter(f=>hit(f.titulo+" "+f.sin,ts));
  if(fi.length)h+="<h2>Fichas</h2>"+fi.map(f=>row({s:"ficha",id:f.id},esc(f.titulo)+" "+tag(f.tag),esc(f.fuente))).join("");
+ const tsc=x=>{const nt=norm(x.txt),np=norm(x.T.p[x.i]+" "+x.T.t);let k=0;for(const g of ts)for(const w of g){if(np.includes(w))k+=1000;k+=nt.split(w).length-1}return k};
+ const tm=temaIdx().filter(x=>hit(x.cab+" "+x.txt,ts)).map(x=>[tsc(x),x]).sort((a,b)=>b[0]-a[0]).map(a=>a[1]);
+ if(tm.length)h+=`<h2>Temas · ${tm.length}</h2>`+tm.slice(0,30).map(x=>row({s:"tparte",id:x.id,i:x.i},esc(x.T.t)+" · "+esc(x.T.p[x.i]),tsnip(hit(x.T.p[x.i],ts)&&!hit(x.txt,ts)?x.T.esp||"":x.txt,ts),tag(x.T.esp||""))).join("");
  if(hit("compatibilidades compatibilidad incompatibilidad en y",ts))h+="<h2>Tablas</h2>"+row({s:"compat"},"Compatibilidades","Foto sin validar");
  const se=ESCALAS.filter(e=>hit(e.t,ts));if(se.length)h+="<h2>Escalas</h2>"+se.map(e=>row({s:"escala",id:e.id},esc(e.t),esc(e.fuente))).join("");
  const ca=CALCS.filter(c=>hit(c.t,ts));if(ca.length)h+="<h2>Calculadoras</h2>"+ca.map(c=>row({s:"calc",id:c.id},esc(c.t),esc(c.fuente))).join("");
