@@ -1,0 +1,98 @@
+@f TEMAS/OP/2
+*Fuente principal: Cuidados críticos del niño con patología cardíaca, cap. 27 (Miocardiopatías). Complemento: Cardiología pediátrica para residentes de pediatría, cap. 12 (Cardiopatías familiares).*
+
+## Generalidades
+
+- Grupo heterogéneo de enfermedades del miocardio con disfunción mecánica y/o eléctrica, generalmente con hipertrofia o dilatación ventricular.
+- **La más frecuente en pediatría es la dilatada** (casi dos tercios), seguida de la hipertrófica.
+- Incidencia anual en la infancia aprox. 1/100.000, mucho mayor en los 2 primeros años. **Primera indicación de trasplante cardiaco en la infancia** (manual de residentes).
+- En el lactante y el niño pequeño hay que **excluir siempre síndromes malformativos (rasopatías como el Noonan), metabolopatías/mitocondriopatías y enfermedades neuromusculares**. Las genéticas por mutaciones de proteínas del miocito (sarcómero, núcleo, citoesqueleto) afectan solo al corazón. La mayoría se heredan de forma autosómica dominante, con **penetrancia incompleta y edad-dependiente** y **expresividad variable**: estudiar escalonadamente a la familia (árbol de al menos 3 generaciones) y seguir a los portadores sin fenotipo.
+
+*Tabla I. Clasificación (Sociedad Europea de Cardiología).*
+- **Tipos:** hipertrófica · dilatada · restrictiva · displasia (miocardiopatía) arritmogénica del VD · no clasificadas (el manual de residentes incluye la **no compactada**).
+- Cada tipo puede ser **familiar (genético)** —alteración genética no identificada o subtipos específicos— o **no familiar** —idiopática o subtipos específicos—.
+
+! Proporciones distintas según la fuente: el libro da casi 2/3 para la dilatada y > 25 % para la hipertrófica; el manual de residentes, aprox. 50 % y 35-50 %.
+
+## Miocardiopatía hipertrófica (MCH)
+
+**Definición:** hipertrofia ventricular simétrica o asimétrica, con o sin obstrucción del tracto de salida del VI (TSVI), sin enfermedad cardiaca o extracardiaca que la explique (valvulopatía, cardiopatía congénita, HTA).
+
+- Segunda en frecuencia (> 25 %); prevalencia 0,2-0,5 %. **Primera causa de muerte súbita en jóvenes sin otra patología** (arritmias ventriculares). aprox. 50 % hereditaria (autosómica dominante, penetrancia variable).
+- **Causas familiares** (manual de residentes): mutaciones sarcoméricas (MYH7 y MYBPC3 aprox. 90 %; sobre todo adolescentes y adultos), rasopatías (Noonan, Noonan con lentiginosis), neuromusculares (ataxia de Friedreich), errores innatos del metabolismo (glucogenosis, mucopolisacaridosis…).
+
+**Fisiopatología**
+- **Disfunción diastólica** (relajación y distensibilidad alteradas); función sistólica normal o hipercontráctil hasta fases finales.
+- **Obstrucción del TSVI en el 25 %**, dinámica y variable: aparece o aumenta con **menor precarga o poscarga o mayor contractilidad**.
+- Coronarias intramiocárdicas anormales → isquemia; con la fibrosis, sustrato de arritmias. Disfunción sinusal (2/3), trastornos de conducción (30 %), arritmias supraventriculares (aprox. 50 %; taquicardia auricular, FA), extrasístoles ventriculares (43 %), TV no sostenida (26 %).
+- Anatomía: hipertrofia con cavidades pequeñas, aurículas dilatadas; desorganización de miocitos (no patognomónica).
+
+**Clínica**
+- **Lactantes: más grave** — insuficiencia cardiaca (25 %) y obstrucción de ambos tractos de salida (60 %); mortalidad frecuente en el primer año. > 2 años: solo 6 % sintomáticos, < 4 % con insuficiencia cardiaca. Adolescentes: **la muerte súbita puede ser el debut** (durante o tras el esfuerzo).
+- **Disnea** (> 90 %; presión telediastólica alta; empeora con la taquicardia), **angina** (desequilibrio oferta/demanda), síncope, palpitaciones. Arritmias en cualquier fase.
+- El gradiente no implica por sí mismo más gravedad, pero se correlaciona con los síntomas, y reducirlo los mejora.
+- Mortalidad bimodal (residentes): pico en < 2 años (sobre todo errores del metabolismo, por insuficiencia cardiaca) y en la adolescencia (muerte súbita).
+
+**Diagnóstico** (hipertrofia, generalmente asimétrica, no explicada)
+- **Exploración:** 4.º ruido, 2.º desdoblado, a veces 3.^er^; **soplo mesotelesistólico eyectivo áspero** entre la punta y el borde esternal izquierdo; pulso rápido (no tardío como en la estenosis aórtica). Buscar estigmas sindrómicos (rasgos de Noonan, léntigos, alteración de la marcha).
+- **Radiografía:** cardiomegalia y/o aurícula izquierda grande, sin dilatación de la raíz aórtica.
+- **ECG:** normal hasta en el 15 % (según el manual de residentes, casi siempre alterado y precoz, antes de la hipertrofia en imagen): alteraciones del ST-T, QT largo, HVI (biventricular en lactantes), **ondas Q patológicas** en II, III, aVF y V2-V6. Bloqueos o preexcitación orientan a causa mitocondrial o de depósito.
+- **Ecocardiograma:** disfunción diastólica (flujo mitral E < A), que puede preceder a la hipertrofia; ecocardiograma y RM confirman. **Estudio genético siempre indicado** (residentes).
+- **Cateterismo** si clínica y eco no concuerdan (aprox. 25 % con HTP, generalmente leve).
+
+**Muerte súbita y DAI**
+- El **DAI** es el único tratamiento eficaz para prevenirla.
+- **Prevención secundaria:** tras parada cardiaca recuperada.
+- **Prevención primaria:** con **≥ 2 factores de riesgo** (con uno solo, estudio profundo y vigilancia estrecha).
+- Factores de riesgo: muerte prematura por MCH en la familia, síncope (múltiple o con el ejercicio), TV no sostenida en Holter, **HVI > 30 mm**, respuesta plana o hipotensiva de la TA en la ergometría. Existen escalas pediátricas validadas.
+
+**Tratamiento** (prevenir la muerte súbita y mejorar la capacidad funcional: reducir la contractilidad y aumentar volumen ventricular, tracto de salida, distensibilidad y poscarga; individualizar)
+- **β-bloqueantes** (esmolol, propranolol): **primera elección**; mejoran disnea, angina y síncope y reducen el gradiente.
+- **Verapamilo:** si no mejoran con β-bloqueantes o sin gradiente con disfunción diastólica importante. **Contraindicado en insuficiencia cardiaca, bloqueos y menores de 1 año.** **Evitar diltiazem y nifedipino en la forma obstructiva** (la vasodilatación aumenta la obstrucción).
+- **Diuréticos** (furosemida, espironolactona): en sintomáticos, de primera elección **asociados al β-bloqueante** (el β-bloqueante solo, al bajar la precarga, aumentaría la obstrucción); también en insuficiencia cardiaca avanzada.
+- **Amiodarona** para arritmias ventriculares no sostenidas y supraventriculares; eficaz en la prevención de la muerte súbita. **FA: cardioversión eléctrica sin demora** (rápido deterioro). Disopiramida asociada al β-bloqueante (reduce la obstrucción). **Evitar antiarrítmicos IC y digoxina** (esta aumenta el gradiente).
+- **Anticoagulación** si hay FA (embolias sistémicas relativamente frecuentes).
+- Mantener buena hidratación (buena precarga, sobre todo si hay obstrucción del TSVI) y evitar deportes de competición (manual de residentes).
+- **Cirugía:** miotomía-miectomía de Morrow en clase NYHA III-IV sin respuesta médica (reduce gradiente e insuficiencia mitral). Alternativas: ablación septal con alcohol (uso limitado); marcapasos DDD con el intervalo AV más largo que permita captura ventricular completa. Evolución a fase dilatada con disfunción sistólica refractaria: **trasplante** (descartar antes metabolopatías).
+- **Pronóstico:** 10-15 % evolucionan a dilatada; peor con más hipertrofia y gradiente. Mortalidad 1-5 % anual; supervivencia 90 % a 5 años y 85 % a 10.
+
+! En el postoperatorio cardiaco, la obstrucción dinámica empeora con hipovolemia, taquicardia, vasodilatadores e inotrópicos (por el mecanismo descrito en el capítulo); el libro no da una pauta específica de UCIP para la MCH.
+
+## Miocardiopatía dilatada (MCD)
+
+**Definición:** dilatación y disfunción sistólica del VI (a veces también del VD) sin anomalías congénitas, isquemia o condiciones de carga que la expliquen.
+
+- **La más frecuente en pediatría**, sobre todo en **< 1 año**, varones (formas ligadas al X y mitocondriales) y raza negra. Incidencia 2-8/100.000/año. Mortalidad elevada sin tratamiento.
+- **Etiología:** mayoría idiopática (50-70 %); genética/familiar (autosómica dominante en el 90 % de las hereditarias; también recesiva, ligada al X o mitocondrial, a menudo con enfermedad metabólica o neuromuscular; mutación identificable en 35-40 %), vírica/inmune (**miocarditis, Coxsackie B3**), tóxica (quimioterapia), asociada a cardiopatías. **Excluir siempre causas tratables o reversibles:** metabolopatías, miocarditis, **taquiarritmias (sobre todo taquicardias auriculares)**, tóxicos y **anomalías del origen coronario (operables)**.
+- Anatomía: corazón globular, cavidades dilatadas, engrosamiento endocárdico y **trombos intracavitarios**.
+
+**Clínica** (disfunción sistólica: congestión y bajo gasto)
+- Disnea; edema agudo de pulmón ante un desencadenante (arritmia, crisis hipertensiva); palpitaciones (la arritmia más frecuente, la FA, 25 %); **tromboembolias (3,5 %)**; oliguria; raramente disfagia por compresión esofágica.
+- Lactantes: escasa ganancia ponderal, sudoración y fatiga con las tomas, polipnea. Puede debutar con síncope o muerte súbita.
+
+**Diagnóstico** (sospechar ante disfunción cardiaca con biomarcadores elevados, p. ej., troponina; descartar causas primarias o secundarias, especialmente **distrofias musculares**)
+- **Exploración:** mala perfusión, taquipnea, quejido, tiraje; edemas (mayores); hepatomegalia y ascitis; 4.º ruido y **galope con 3.^er^ ruido en la descompensación**; soplo de insuficiencia mitral o tricuspídea.
+- **Radiografía:** cardiomegalia, congestión o edema pulmonar, derrame pleural.
+- **ECG:** crecimiento del VI, taquicardia sinusal, alteraciones ST-T, BAV de 1.^er^ grado, bloqueo de rama izquierda, hemibloqueo anterior, QTc largo. **TSV y TV deben tratarse enérgicamente** (mala tolerancia y posible causa de la miocardiopatía).
+- **Ecocardiografía:** VI dilatado con función sistólica disminuida; **buscar trombos**; insuficiencia mitral y tricuspídea.
+- **Cateterismo:** anatomía coronaria y biopsia (**los trombos en el VI son contraindicación relativa**). **Biopsia:** patrón oro, sensibilidad baja, riesgo de perforación (más en pequeños y con inotrópicos). **RM:** muy útil y segura. Holter y ergometría en el seguimiento. Estudio genético tras excluir causas secundarias.
+
+**Tratamiento** (control de la insuficiencia cardiaca y freno de la progresión)
+- **Inodilatadores:** **levosimendán** (sensibilizador del calcio; no aumenta el consumo de O~2~ ni causa arritmias); milrinona a la mínima dosis posible (arritmias).
+- **IECA** (reducen poscarga; con diuréticos si hay retención); **ARA II** de segunda elección (angioedema o tos).
+- **Diuréticos** asociados a IECA o β-bloqueantes; **espironolactona en clase funcional III-IV**.
+- **β-bloqueantes** (carvedilol, con efecto vasodilatador α): mejoran la FE; asociados a IECA y diuréticos; **iniciar a dosis bajas** y subir progresivamente.
+- **Digoxina:** controvertida (no mejora la supervivencia); a dosis bajas en sintomáticos, con diuréticos e IECA; puede favorecer arritmias en el miocardio inflamado; normalizar el potasio.
+- **Antiarrítmicos** si TV sostenida o sintomática, FV o muerte súbita recuperada, o arritmias auriculares recurrentes; de preferencia **amiodarona** (casi todos son inotrópicos negativos).
+- **Anticoagulación** si FA, trombos o embolias; **antiagregación profiláctica** si la función ventricular está disminuida.
+- Otros: nesiritida como puente al trasplante; **carnitina** si se confirma su déficit; **ventilación mecánica** en insuficiencia respiratoria grave (protege del edema pulmonar y reduce el trabajo respiratorio).
+- **Trasplante:** de elección en insuficiencia cardiaca intratable o mala supervivencia esperada; indicación temprana si **presión telediastólica > 25 mmHg**. Excepcional en enfermedades neuromusculares o metabólicas.
+- **Soporte mecánico** (ECMO, asistencia izquierda, Berlin Heart EXCOR) como puente al trasplante o a la recuperación (miocarditis). Operación de Batista (muy poca experiencia en niños). Resincronización consolidada; DAI antes de FEVI < 35 % si hay antecedentes familiares de muerte súbita o mutación **LMNA**.
+
+**Pronóstico:** mejor si el diagnóstico es en < 2 años, con viriasis en los 3 meses previos o mejoría de la función en los 6 meses siguientes. «Un tercio se recupera, un tercio fallece y un tercio queda con cardiopatía crónica.» Recuperación más probable en formas hiperagudas y con normalización precoz (6-8 meses). Muerte por arritmias ventriculares, insuficiencia cardiaca, complicaciones del trasplante o QT largo asociado.
+
+## Otras miocardiopatías
+
+El libro no las desarrolla; resumen del manual de residentes:
+- **Miocardiopatía arritmogénica:** autosómica dominante; sustitución fibroadiposa por mutaciones desmosómicas; puede afectar al VD, al VI o a ambos; suele manifestarse a partir de la 3.ª-4.ª década. ECG: T negativas en precordiales (las derechas hasta V3-V4 son normales en la infancia), onda épsilon, extrasístoles y TV. Diagnóstico con RM, ECG, Holter, ergometría y genética (rentabilidad 60 %); la eco suele ser normal en niños. **Evitar el ejercicio físico** (puede precipitarla).
+- **Restrictiva y no compactada:** reconocidas en la clasificación, sin desarrollo en el material de la carpeta.

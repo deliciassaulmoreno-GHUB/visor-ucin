@@ -1,0 +1,116 @@
+@f TEMAS/OP/1
+*Fuente principal: Cuidados críticos del niño con patología cardíaca, cap. 26 (Miocarditis). Complemento: Cardiología pediátrica para residentes de pediatría, cap. 10.*
+
+## Definición
+
+Enfermedad inflamatoria del miocardio diagnosticada por criterios histológicos, inmunológicos, inmunohistoquímicos y moleculares a partir de una biopsia endomiocárdica (BEM). Presentación aguda, subaguda o crónica y progresiva; afectación focal o difusa.
+
+*Tabla I. Definiciones (adaptado de Caforio, 2013).*
+- **Miocarditis:**
+  - Criterios histológicos de Dallas: infiltrados inflamatorios con degeneración y necrosis de miocitos de origen no isquémico.
+  - Criterios inmunohistoquímicos: ≥ 14 leucocitos/mm², con hasta un máximo de 4 monocitos/mm² y ≥ 7 linfocitos T CD3+/mm².
+  - Criterios inmunológicos: **vírica** (histología e inmunohistoquímica + con PCR + para ≥ 1 virus); **autoinmune** (histología e inmunohistoquímica + con PCR −, con o sin autoanticuerpos cardiacos, excluidas otras causas); **vírica e inmune** (PCR + y autoanticuerpos +).
+- **Miocardiopatía inflamatoria:** miocarditis con disfunción cardiaca; implicada en el desarrollo de miocardiopatía dilatada (idiopática, autoinmune, infecciosa).
+- **Miocardiopatía dilatada (MCD):** dilatación y alteración de la contracción del VI o de ambos ventrículos no explicada por sobrecarga ni enfermedad coronaria.
+
+! El manual de residentes define la inflamación en la BEM como ≥ 14 células mononucleares con ≥ 7 linfocitos CD3/mm² y llama «miocarditis borderline» a la inflamación sin necrosis.
+
+## Etiología
+
+- A menudo no se identifica. **Los virus son la causa más frecuente** en Norteamérica y Europa, sobre todo en niños: antes enterovirus (Coxsackie B) y adenovirus; hoy predominan **herpes humano-6 y parvovirus B19**.
+- Formas especiales: **autoinmune** (aislada o en enfermedad sistémica: mal pronóstico); **de células gigantes** (rara, grave, a menudo mortal); linfocítica y granulomatosa/sarcoidosis (idiopáticas o autoinmunes si no hay virus); **por hipersensibilidad** (eosinofílica, por fármacos, independiente de la dosis: fiebre, exantema, eosinofilia, alteraciones del ECG; puede causar muerte súbita o fallo rápidamente progresivo).
+
+*Tabla II. Causas (adaptado de Caforio, 2013).*
+@ancha
+| Grupo | Causas |
+| Virus | ARN: Coxsackie A y B, echovirus, poliovirus, influenza A y B, VRS, paperas, sarampión, rubéola, hepatitis C, dengue, fiebre amarilla, Chikungunya, Junín, Lassa, rabia, VIH-1 // ADN: adenovirus, parvovirus B19, CMV, herpes humano-6, Epstein-Barr, varicela-zóster, herpes simple, viruela, vaccinia |
+| Bacterias | Estafilococo, estreptococo, neumococo, meningococo, gonococo, *Salmonella*, difteria, *H. influenzae*, tuberculosis, *Mycoplasma*, *Brucella*, *Klebsiella*, *Chlamydia* |
+| Espiroquetas, hongos, protozoos, parásitos, rickettsias | *Borrelia* (Lyme), *Leptospira*, *T. pallidum*; *Aspergillus*, *Candida*, *Cryptococcus*, *Histoplasma*…; *T. cruzi*, *Toxoplasma*, *Entamoeba*, *Leishmania*; *Trichinella*, *Echinococcus*, *Taenia*, *Ascaris*, esquistosoma; *Coxiella*, *Rickettsia* |
+| Inmunológica: alérgenos | Toxoide tetánico, vacunas, enfermedad del suero, penicilinas, cefalosporinas, sulfamidas, colchicina, furosemida, tiazidas, isoniazida, lidocaína, tetraciclinas, fenitoína, fenilbutazona, metildopa, amitriptilina |
+| Inmunológica: aloantígenos | Rechazo del trasplante cardiaco |
+| Autoinmune | Células gigantes, linfocítica; asociada a LES, artritis reumatoide, Churg-Strauss, **Kawasaki**, EII, celiaquía, esclerodermia, dermatomiositis, polimiositis, miastenia, diabetes tipo 1, tirotoxicosis, sarcoidosis, Wegener, fiebre reumática, Takayasu, síndrome hipereosinofílico |
+| Tóxicos | Anfetaminas, antraciclinas, cocaína, ciclofosfamida, etanol, fluorouracilo, litio, catecolaminas, interleucina-2, trastuzumab; metales pesados (cobre, hierro, plomo); venenos (escorpión, serpiente, araña, abejas, avispas), monóxido de carbono, fósforo, arsénico |
+| Hormonas, físicos | Feocromocitoma, beriberi; radiación, electrocución |
+
+## Epidemiología
+
+- **Causa más frecuente de insuficiencia cardiaca en niños previamente sanos.** Distribución bimodal: < 2 años y 14-18 años.
+- Incidencia anual aprox. 1/100.000 niños; infraestimada (formas asintomáticas o inespecíficas). El manual de residentes estima que afecta al 0,05 % de la población pediátrica, más a varones.
+- **La forma fulminante es más frecuente en niños, sobre todo en neonatos e inmunodeprimidos.**
+- Responsable de muerte súbita en aprox. 2 % de lactantes, 5 % de niños y 5-12 % de jóvenes atletas.
+
+## Fisiopatología
+
+Tres fases (Figura 1 del capítulo):
+1. **Aguda** (pocos días): el virus entra en el miocito (Coxsackie B y adenovirus por el receptor CAR, más abundante en el periodo neonatal según el manual de residentes; parvovirus B19 y HHV-6 infectan el endotelio), se replica y causa necrosis y apoptosis; respuesta innata (NK, interferón γ, óxido nítrico, macrófagos). La mayoría se recupera aquí.
+2. **Subaguda** (semanas-meses): respuesta adaptativa con linfocitos T y anticuerpos frente al virus y **autoanticuerpos** frente a proteínas propias (miosina, receptores β1; mimetismo molecular). **Es la fase más destructiva.**
+3. **Crónica:** si persisten el virus o la inflamación → remodelado, fibrosis, dilatación y **miocardiopatía inflamatoria/dilatada**.
+
+## Clínica
+
+Muy variable: desde asintomática o inespecífica hasta **shock cardiogénico, arritmias graves o muerte súbita**. En niños predominan las formas **agudas o fulminantes**, de causa vírica.
+
+- **Fulminante** (más frecuente en niños pequeños): compromiso hemodinámico grave de inicio agudo (hipotensión, pulsos débiles, mala perfusión, alteración de la consciencia, acidosis metabólica, hepatomegalia, arritmias malignas), a veces precedido de síntomas inespecíficos. **Requiere al menos 2 de: fiebre, inicio bien definido de los síntomas cardiacos en 1-2 días, infección vírica en las 2 semanas previas.**
+- **Aguda:** < 2 semanas, inicio menos definido y menor compromiso. **Crónica:** > 3 meses.
+- **Recién nacidos y lactantes:** rechazo de tomas, vómitos, fiebre, irritabilidad o apatía, palidez, sudoración; **la muerte súbita no es infrecuente y las apneas o crisis de cianosis son signos ominosos**. Exploración: palidez, hepatomegalia, taquipnea, taquicardia, a veces galope.
+- **Niños mayores:** pródromos catarrales o digestivos 10-14 días antes, fiebre, mialgias; luego insuficiencia cardiaca. Síntomas respiratorios al inicio y cardiovasculares a partir de los 7-14 días. Dolor torácico raro (frecuente en adolescentes según el manual de residentes); síncope y muerte súbita (generalmente por TV).
+- **Exploración:** insuficiencia cardiaca congestiva (taquipnea, tiraje, crepitantes, cianosis, taquicardia en reposo, arritmias, ingurgitación yugular, 3.^er^/4.º tono con galope, soplo de insuficiencia mitral o tricuspídea funcional, roce si miopericarditis, hepatomegalia, edemas). **Los signos precoces de bajo gasto son típicos de la fulminante.**
+- **Células gigantes:** aguda, insuficiencia cardiaca, dilatación del VI, arritmias ventriculares, bloqueo AV avanzado y/o falta de respuesta al tratamiento en 1-2 semanas.
+- **Parvovirus B19:** puede simular un síndrome coronario agudo (dolor torácico, cambios ST-T, troponinas muy elevadas).
+
+## Diagnóstico
+
+**Sospecharla** ante infección vírica reciente con síntomas respiratorios o abdominales inespecíficos más **taquicardia, hipotensión o arritmias**, aunque no haya cardiomegalia. Preguntar por enfermedades autoinmunes, cardiopatías, inmunodeficiencias, inmunosupresores, tumores, vacunas, viajes y antecedentes familiares.
+
+- **Radiografía de tórax:** normal al inicio; después cardiomegalia y edema pulmonar; dilatación del VD si afectación biventricular; ángulo carinal > 75° por dilatación de AI en la crónica.
+- **ECG:** casi siempre alterado pero inespecífico (un ECG normal no la descarta): taquicardia sinusal, **QRS de bajo voltaje**, T invertidas, alteraciones del ST (difusas o de distribución coronaria), ondas Q, ST difusamente elevado si hay pericarditis. Arritmias (a veces la primera manifestación): extrasístoles, TV/FV, TSV, FA, trastornos de conducción (BAV completo raro).
+- **Ecocardiograma** (fundamental): disfunción del VI y **descartar cardiopatía estructural, sobre todo ALCAPA**. Más frecuente la hipocinesia global. Típico: **dilatación menor de la esperada para el grado de disfunción**; en la **fulminante, VI de tamaño normal con FE baja y septo engrosado (edema)**. La disfunción del VD empeora el pronóstico.
+- **Biomarcadores:** ninguno distingue miocarditis de otras causas (p. ej., isquemia). Troponinas más sensibles que la CK (troponina I elevada en 35-45 %); AST elevada en > 80 % de casos probados o probables; BNP/NT-proBNP elevados al inicio (descienden con tratamiento eficaz; ayudan a diferenciar causas cardiacas de respiratorias). **Valores normales no la excluyen.** VSG, PCR y hemograma inespecíficos.
+- **RM cardiaca:** la prueba de imagen más sensible y específica (en lactantes puede requerir intubación). Valora función, edema, hiperemia y necrosis/fibrosis, y guía la biopsia.
+
+*Tabla III. Criterios de RM.*
+| Hallazgo | Indica |
+| Aumento de señal en T2, focal o difusa | Edema |
+| Realce precoz con gadolinio en T1 | Hiperemia |
+| Realce tardío con gadolinio en T1 | Necrosis o fibrosis |
+
+! Según el manual de residentes, 2 de 3 criterios permiten el diagnóstico (en adultos: precisión 79 %, sensibilidad 81 %, especificidad 71 %); el T1 y T2 *mapping* aumentan la sensibilidad.
+
+- **Biopsia endomiocárdica:** patrón oro, pero con sensibilidad baja con los criterios de Dallas (confirma en < 20-50 %; afectación parcheada y transitoria). Mejora con más muestras y si se hace precoz, y con inmunohistoquímica (CD3, CD68, HLA-DR; la inflamación inmunohistoquímica implica peor pronóstico e identifica candidatos a inmunosupresión) y PCR vírica (virus en aprox. 40 %). Complicaciones aprox. 1 %: sobre todo **perforación del VD** (más en < 10 kg e inestables), arritmias, neumotórax, lesión tricuspídea. Cada vez más sustituida por la RM.
+
+*Tabla IV. Criterios de Dallas.*
+- **Miocarditis activa:** infiltrado inflamatorio con necrosis y/o degeneración de miocitos adyacentes (generalmente mononuclear; a veces neutrófilos o eosinófilos).
+- **Miocarditis *borderline*:** infiltrado linfocítico sin destrucción de miocitos.
+
+- **Etiología:** el cultivo de miocardio rara vez es positivo; cultivos periféricos y serologías poco fiables (útiles solo ante sospecha de hepatitis C, rickettsias, Lyme o VIH). **PCR** muy sensible en tejido; también en sangre y **aspirado traqueal en intubados** (puede evitar la BEM). Pruebas de enfermedad sistémica según sospecha. Autoanticuerpos sin genoma vírico sugieren mecanismo autoinmune.
+
+**Diagnóstico diferencial**
+- Cardiopatías estructurales (**ALCAPA**, valvulopatías) y tumores: ecocardiografía.
+- Otras miocardiopatías (arritmogénica, hipertrófica, restrictiva) y **MCD idiopática** (a favor de miocarditis: inicio reciente, viriasis cercana, VI poco dilatado).
+- Shock de otra causa, incluido el séptico: **la falta de respuesta a líquidos debe hacer sospechar shock cardiogénico por miocarditis fulminante.**
+- Arritmias primarias (biopsia).
+- Neumonía o bronquiolitis cuando debuta con distrés respiratorio.
+
+## Tratamiento
+
+Ingreso en **UCIP** si hay disfunción ventricular significativa o arritmias.
+
+**1. Soporte hemodinámico** (base del tratamiento; según el manual de residentes, el único que ha demostrado mejorar el pronóstico):
+- **Estables:** IECA o ARA II, β-bloqueantes (carvedilol, metoprolol, propranolol) y diuréticos; oxígeno, líquidos controlados, nutrición. IECA, ARA II y antialdosterónicos frenan el remodelado. **Digoxina en fase aguda: controvertida, en general no recomendada** (efecto proinflamatorio y más mortalidad en modelos animales). Oxígeno y transfusión si hay anemia significativa.
+- **Inestables (shock cardiogénico):** **ventilación mecánica** e inotrópicos/vasodilatadores IV (**levosimendán**, milrinona, catecolaminas; experiencia creciente y buena con levosimendán).
+- **Fulminante sin respuesta:** **ECMO o asistencia ventricular** como puente a la recuperación o al trasplante. En ECMO puede necesitarse **atrioseptostomía o cánula en AI** para descomprimir el VI y evitar hipertensión venosa y hemorragia pulmonar.
+- **Trasplante:** fallo agudo sin respuesta ni recuperación tras soporte mecánico, o fase final de la evolución a MCD.
+
+**2. Arritmias** (indican afectación grave y peor pronóstico; sobre todo arritmias ventriculares y BAV completo). Los antiarrítmicos son inotrópicos negativos: individualizar. **Amiodarona** la más usada. Inestables: **cardioversión eléctrica**. Arritmias persistentes: ECMO. Bradicardia sintomática o BAV completo con bajo gasto: **marcapasos temporal transvenoso**. Fuera de la fase aguda: DAI en arritmias ventriculares sintomáticas o tras parada en FV; en sarcoidosis o células gigantes, marcapasos o DAI precoces.
+
+**3. Tratamiento específico** (sin evidencia suficiente de eficacia):
+- **Inmunoglobulinas IV** (lo más usado): algunos autores recomiendan **2 g/kg en 24 h** en la miocarditis aguda confirmada por biopsia o con sospecha clínica muy elevada (aumento de FE y tendencia a mejor supervivencia al año; bajo riesgo).
+- **Antivirales:** dudosa eficacia (diagnóstico tardío); aciclovir, ganciclovir o valganciclovir en herpesvirus, más útiles en formas crónicas con persistencia viral. Interferón β SC en enterovirus y adenovirus (el manual de residentes añade parvovirus B19): no recomendado por ahora. **En shock indiferenciado: cultivos y antibiótico de amplio espectro.**
+- **Corticoides e inmunosupresores** (azatioprina, ciclosporina): **no recomendados en la miocarditis vírica aguda** (mejoran la FE sin reducir la mortalidad; evitarlos si hay infección activa). Reservados para células gigantes, eosinofílica, enfermedades autoinmunes sistémicas y MCD crónica con inflamación inmunohistoquímica y PCR vírica negativa.
+- Inmunoadsorción y otras terapias: en investigación.
+
+## Pronóstico
+
+- La mayoría de las víricas se recuperan (60-80 % recuperación completa según el manual de residentes); **aprox. 30 % evolucionan a MCD** con fallo progresivo. En niños con MCD, mortalidad o trasplante a los 5 años del 27-30 %.
+- **La fulminante** es muy grave en la fase aguda (puede requerir soporte mecánico) pero tiene **buen pronóstico a largo plazo**: la mayoría recupera la función, con supervivencia del 90 % a los 10 años y menos evolución a MCD.
+- Peor pronóstico: disfunción del VI, disfunción del VD, QRS ancho, TV, realce tardío en RM; formas eosinofílica, de células gigantes y sarcoidosis. Recaídas posibles (raras), incluso años después.
