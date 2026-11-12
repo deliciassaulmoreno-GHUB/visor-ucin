@@ -1,0 +1,81 @@
+@f TEMAS/AR/3
+*Fuentes: Cuidados críticos del niño con patología cardíaca, caps. 31 (Arritmias en el postoperatorio) y 40 (ECG); Cardiología pediátrica para residentes, cap. 7 (Taquiarritmias); Experto en Neonatología, tema 8 (Trastornos del ritmo en neonatología).*
+
+## Concepto y clasificación
+
+- «Supraventricular» solo indica que la arritmia no es puramente ventricular; suele ser, **pero no siempre**, de QRS estrecho.
+- **Por localización** (residentes): auriculares (taquicardia auricular focal y multifocal, flutter, fibrilación); auriculoventriculares (reentrada AV por vía accesoria, reentrada intranodal, reentrada AV permanente o de Coumel); de la unión (JET); ventriculares.
+- **Por mecanismo** (libro): **reentrada** (inicio y fin súbitos «on-off», frecuencia fija; responde a cardioversión eléctrica y farmacológica; más frecuente en neonatos) frente a **automatismo** (inicio y fin progresivos «warm-up/cool-down», frecuencia variable; **no responde a la cardioversión**; más frecuente en el postoperatorio inmediato). La actividad desencadenada es rara.
+- **Epidemiología:** más de la mitad debutan en el **primer año** (a menudo neonatal o fetal) y muchas desaparecen espontáneamente en ese año. **La más frecuente en la infancia es la reentrada AV por vía accesoria.** En el neonato (Experto): la taquicardia sinusal es la más frecuente (tratar la causa: anemia, alteraciones hidroelectrolíticas, sepsis…); la reentrada AV supone el 50 % de las TSV paroxísticas, aprox. 1/1.700 RN, y requiere ecocardiograma (Ebstein, miocardiopatías, anomalías de grandes vasos).
+
+## Clínica
+
+- Depende del tipo, la edad, la frecuencia y la duración. **Lactantes:** signos sutiles de insuficiencia cardiaca (rechazo de tomas, irritabilidad, taquipnea). Mayores: palpitaciones (a veces referidas como dolor torácico); síncope raro.
+- **Las incesantes producen taquimiocardiopatía** con disfunción del VI.
+
+## Diagnóstico ECG
+
+ECG de 12 derivaciones siempre que sea posible (y durante la cardioversión). Secuencia: **¿QRS regular o irregular? ¿estrecho o ancho? ¿relación P/QRS? ¿RP corto o largo?**
+
+*Diagnóstico diferencial por ratio P:QRS (libro, figura 1).*
+- QRS estrecho con P:QRS **> 1:1** → ritmo auricular regular: flutter; variable: taquicardia auricular ectópica; caótico: multifocal o fibrilación.
+- QRS estrecho con **1:1** → P no visible: reentrada intranodal; RP corto: reentrada AV ortodrómica; RP largo: PJRT (Coumel) o taquicardia auricular ectópica.
+- QRS estrecho con **< 1:1** → JET.
+- QRS ancho con 1:1 → TV, TSV con bloqueo de rama, reentrada antidrómica; > 1:1 → TV.
+
+**Adenosina** (de rutina en la evaluación si es posible): bloquea transitoriamente el nodo AV → **interrumpe las taquicardias que lo usan** (reentrada AV e intranodal) y, en las auriculares, **aumenta el bloqueo y desenmascara las P o las ondas F**. Registrar siempre el ECG durante su administración.
+
+## Tipos
+
+**Taquicardia auricular focal** (automatismo, sobre todo): QRS estrecho precedido de P de morfología anormal (**RP largo**); puede haber bloqueo AV variable o 2:1 con irregularidad. **La presencia de bloqueo AV excluye las que usan el nodo AV.** Adenosina: muestra mejor las P (no la suele interrumpir). Tratamiento (libro): disminuir el automatismo; amiodarona o procainamida; β-bloqueante (esmolol, propranolol) ± flecainida o propafenona.
+
+**Taquicardia auricular multifocal o caótica:** rara, de neonatos y lactantes; ≥ 3 morfologías de P con PR variable, bloqueo variable, ritmo **muy irregular**. Suele resolverse espontáneamente; β-bloqueante para controlar la frecuencia.
+
+**Flutter auricular:** macrorreentrada. Dos escenarios: **neonatos con corazón normal** y pacientes con cardiopatía y cirugía previa. Ondas F «en dientes de sierra» (> 300 lpm; negativas en inferiores en el típico) con bloqueo AV variable (2:1, 3:1); con conducción 1:1, QRS ancho sinusoidal. **Adenosina: desenmascara las F, sin utilidad terapéutica.** Tratamiento (libro): **cardioversión sincronizada 1 J/kg**, sobreestimulación auricular, amiodarona o procainamida (otros: flecainida, digoxina).
+
+**Fibrilación auricular:** muy rara en la infancia (miocardiopatía, inflamación; puede provocarla la adenosina). Línea de base irregular sin P, ritmo ventricular muy irregular.
+
+**Reentrada AV por vía accesoria**
+- Vía accesoria (VAc): conexión muscular aurículo-ventricular. Con conducción anterógrada → **preexcitación**: **PR corto, onda delta y QRS ancho** en ritmo sinusal (Wolff-Parkinson-White si además hay taquicardia). Puede conllevar riesgo de muerte súbita por FA conducida a FV. **VAc oculta** (solo retrógrada): ECG basal normal y sin riesgo de muerte súbita.
+- **Ortodrómica** (la más frecuente en la infancia): regular, muy rápida (más cuanto menor es el niño), **QRS estrecho** (ancho si bloqueo de rama funcional), **RP corto** (P poco después del QRS). La adenosina la **termina** (típicamente con una P no conducida).
+- **Antidrómica:** baja por la VAc: **QRS siempre ancho** (todo preexcitado), P tras el QRS; la adenosina la termina.
+- **Taquiarritmia auricular preexcitada** (flutter/FA con VAc): taquicardia **irregular** con QRS anchos y estrechos; riesgo de FV que **aumenta si se bloquea el nodo**: **adenosina contraindicada en taquicardias irregulares de QRS ancho**.
+- **Digoxina contraindicada si hay preexcitación.**
+
+**Taquicardia por reentrada AV permanente (PJRT, de Coumel):** VAc posteroseptal derecha de conducción lenta y decremental solo retrógrada; **incesante**, a menudo hallazgo casual o debut con **taquimiocardiopatía**. QRS estrecho, **RP largo**, P negativas en II, III, aVF (aprox. 200 lpm según el libro). La adenosina la interrumpe solo transitoriamente. Libro: si reaparece tras la cardioversión, amiodarona; **ablación precoz**.
+
+**Reentrada intranodal:** muy rara antes de la edad escolar; doble vía nodal. QRS estrecho, regular, inicio y fin bruscos; en la común, **P no visible** (superpuesta al QRS). La adenosina la termina.
+
+**Taquicardia de la unión (JET):** automatismo junto al His; forma primaria (precoz e incesante) o **secundaria, más frecuente, en el postoperatorio** precoz. QRS estrecho, disociación AV con frecuencia ventricular > auricular (o P retrógradas tras el QRS), latidos de captura. **No responde a la cardioversión.**
+
+! El manejo del JET postoperatorio (hipotermia, sedación y relajación, reducción de catecolaminas, amiodarona, marcapasos) está en «Complicaciones postoperatorias → Arritmias».
+
+## Tratamiento agudo
+
+Asegurar el ABC. Registrar el ECG en taquicardia y en el momento de la cardioversión.
+
+**QRS estrecho, estable** (residentes):
+1. **Maniobras vagales:** frío en la cara en lactantes (compresas frías durante 20 s en el RN, según el Experto); Valsalva o inducción del vómito en mayores.
+2. **Adenosina** en bolo rápido por la vía más gruesa y próxima al corazón, ascendente cada 2 min hasta respuesta.
+3. Si no cede: flecainida, esmolol o amiodarona IV. **Verapamilo IV: evitar en menores de 1 año.**
+4. Si no responde o empeora: **cardioversión sincronizada 0,5-1 J/kg** con sedación.
+
+**QRS estrecho, inestable:** cardioversión sincronizada 0,5-1 J/kg (varias dosis, máximo 4 J/kg).
+
+*Dosis de adenosina según la fuente.*
+| Fuente | Dosis |
+| Residentes | 0,1-0,3 mg/kg en dosis ascendentes cada 2 min (máx. 12 mg/dosis o 30 mg en total) |
+| Libro (caps. 31 y Tabla V) | 100 → 200 → 300 µg/kg |
+| Experto (RN) | Inicial 50-100 µg/kg; si no responde, 200 µg/kg a los 2 min; máximo en el RN 300 µg/kg |
+
+! Cardioversión: el libro da 1 J/kg → 2 J/kg en la reentrada inestable (cap. 31) y 1-2 J/kg en general; el manual de residentes 0,5-1 J/kg (máx. 4); el Experto 0,5 J/kg en el RN inestable.
+
+**Estado hiperadrenérgico:** es frecuente la recurrencia inmediata tras adenosina: se necesita un fármaco de acción más prolongada (digoxina, β-bloqueante, amiodarona, procainamida) (libro).
+
+## Tratamiento crónico (residentes)
+
+- Usar pocos fármacos y bien conocidos. **Flecainida:** tejido auricular y vías accesorias (auriculares y reentrada AV), sola o con β-bloqueante. **β-bloqueantes:** nodo AV (reentrada AV e intranodal); poco eficaces en incesantes. **Amiodarona:** muy eficaz, pero de segunda elección por sus efectos secundarios. **Digoxina:** eficaz y con niveles, **contraindicada con preexcitación**.
+- En lactantes, posible desaparición espontánea: plantear retirar la medicación a los 6-12 meses.
+- **Ablación:** más complicaciones en < 15 kg; reservada a taquicardias incontrolables con fármacos.
+
+! Dosis de los antiarrítmicos (procainamida, amiodarona, esmolol, propranolol, flecainida, propafenona, digoxina, adenosina…): tabla de Vaughan-Williams en «Complicaciones postoperatorias → Arritmias».

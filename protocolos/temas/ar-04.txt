@@ -1,0 +1,73 @@
+@f TEMAS/AR/4
+*Fuentes: Cardiología pediátrica para residentes, caps. 6 (extrasístoles) y 7 (taquicardia ventricular); Cuidados críticos del niño con patología cardíaca, caps. 31 y 40; Experto en Neonatología, tema 8.*
+
+## Extrasístoles
+
+Latidos prematuros por la descarga de un foco ectópico.
+
+**Extrasístole auricular:** P anormal y prematura seguida de QRS normal (aberrante si es muy precoz); **pausa compensadora incompleta**. Frecuentes en RN, lactantes y niños pequeños; suelen ser **idiopáticas y benignas** (también por crecimiento auricular, miocarditis, hipertiroidismo). Pueden **no conducirse** (extrasistolia auricular bloqueada, p. ej., en bigeminismo) y producir **bradicardia**.
+
+**Extrasístole nodal:** QRS normal y prematuro sin P delante (o con P invertida retrógrada pegada al QRS). Infrecuentes y sin significado clínico.
+
+**Extrasístole ventricular (EV):** QRS **prematuro, ancho y de mayor voltaje, sin P previa**, con **pausa compensadora completa** (el intervalo entre el QRS previo y el siguiente es el doble del ciclo sinusal).
+- Bigeminismo (cada latido normal seguido de una EV), trigeminismo (dos normales y una EV), doblete, triplete; **una serie rápida de EV es una taquicardia ventricular**.
+- **Muy frecuentes tras la pubertad** (50 % de adolescentes y adultos jóvenes) y raras (1 %) en lactantes y niños pequeños. **Benignas si no aparecen ni aumentan con el ejercicio.**
+- Causas: **estímulo por catéter**, alteraciones del K y el Ca, hipoxia, digital, catecolaminas, tumores ventriculares, prolapso mitral, miocarditis, **postoperatorio cardiaco**, QT largo, tóxicos.
+- **Mayor riesgo de TV:** EV **multifocales** (distintas morfologías) y EV que caen sobre la onda T.
+- En el neonato (Experto): las extrasístoles supraventriculares y ventriculares son frecuentes y no suelen desencadenar taquiarritmias, pero precisan **ecocardiograma** para descartar alteraciones estructurales.
+
+! Discrepancia en el manual de residentes: en el cap. 6 una «serie de más de 4 EV» se llama taquicardia ventricular; en el cap. 7, la TV es la sucesión de **3 o más** latidos ventriculares.
+
+## Taquicardia ventricular (TV)
+
+**Definición** (residentes): ≥ 3 latidos ventriculares a frecuencia elevada, generalmente > 120 lpm; si la frecuencia es menor, ritmo ventricular acelerado.
+- **Sostenida** (generalmente > 30 s; más inestabilidad) o **no sostenida**.
+- **Monomorfa** o **polimorfa** (esta, más relacionada con cardiopatía, miocardiopatía y, sobre todo, **canalopatías**). Las monomorfas con corazón normal (**idiopáticas**) son propias de adolescentes y adultos jóvenes, aunque pueden verse en neonatos.
+
+**Criterios ECG**
+- **QRS ancho** (la anchura depende de la edad y del mecanismo).
+- **Disociación AV** con más QRS que P (o conducción retrógrada con P tras cada QRS); en las muy rápidas, P difíciles de ver.
+- **Latidos de captura** (QRS estrecho adelantado precedido de P sinusal) y **de fusión** (morfología híbrida). La disociación AV y las capturas **descartan las taquicardias de QRS ancho de origen supraventricular** (auricular, ortodrómica o intranodal con bloqueo de rama, antidrómica).
+- Morfología: imagen de bloqueo de rama derecha → origen en el VI, y viceversa.
+- Libro (tabla del cap. 31): QRS anchos, P disociadas, latidos de captura, duración > 30 s; ratio P/QRS < 1:1.
+
+**Fibrilación ventricular:** activación caótica sin bombeo eficaz: emergencia que requiere **desfibrilación inmediata**.
+
+! Causas de TV que el propio material menciona en distintos capítulos: miocarditis y miocardiopatías («Otras patologías»), canalopatías (QT largo, TVPC, Brugada), postoperatorio de Fallot, doble salida del VD, truncus y TGA (tabla de asociaciones del cap. 31), hipomagnesemia (*torsade*, cap. 40), alteraciones del K y el Ca y fármacos proarrítmicos. Es una recopilación del visor, no una tabla del libro.
+
+## Tratamiento agudo de la taquicardia de QRS ancho
+
+Asegurar el ABC; registrar el ECG.
+
+**Estable** (residentes):
+1. Considerar **TSV con conducción aberrante**: maniobras vagales y, si es preciso, adenosina (**no en taquicardias irregulares de QRS ancho**: posible FA preexcitada).
+2. Si no es eficaz o se cree ventricular: **amiodarona 5 mg/kg IV en 15-30 min**, repetible hasta un máximo de 15 mg/kg.
+3. Si no cede: valorar otros fármacos y después cardioversión 0,5-4 J/kg.
+
+Libro (cap. 31): estable → amiodarona; después lidocaína y procainamida. **Torsade de pointes: sulfato de magnesio IV 15-30 mg/kg en 20 min.**
+
+**Inestable:** **cardioversión sincronizada** (residentes 0,5-4 J/kg; libro 1 J/kg en la TV inestable y 1-2 J/kg en general).
+
+**FV o TV sin pulso** (residentes):
+1. **Desfibrilación no sincronizada 4 J/kg** y RCP 2 min.
+2. Si persiste: desfibrilación 4 J/kg y RCP 2 min.
+3. Si persiste: **adrenalina 0,01 mg/kg**, choque y RCP 2 min.
+4. Si persiste: **amiodarona 5 mg/kg**, choque y RCP 2 min.
+5. Continuar la secuencia fármaco-choque-RCP: adrenalina cada 3-5 min (cada 2 choques) y amiodarona hasta 3 dosis.
+
+Libro (cap. 31): RCP, desfibrilación 4 J/kg; amiodarona 5 mg/kg tras la 3.ª y la 5.ª desfibrilación + adrenalina 0,01 mg/kg.
+
+**Desfibrilación y cardioversión** (libro): bifásicos; parches (de elección) o palas con máximo contacto y sin tocarse (infraclavicular derecha y ápex/axilar media izquierda; anteroposterior en los pequeños). Con marcapasos interno o DAI, parches a ≥ 12 cm; **con marcapasos externo, desconectarlo antes de la descarga**. En la cardioversión sincronizada, asegurar el sensado de la R y mantener pulsado el botón (retraso hasta la siguiente R).
+
+## Fármacos (libro, Tabla V del cap. 31)
+
+| Fármaco | Dosis |
+| Amiodarona | Bolo 5 mg/kg en 20 min (hasta 20 mg/kg); perfusión 5-20 µg/kg/min |
+| Lidocaína | Bolo 1 mg/kg (repetir cada 10 min, máx. 5 dosis); perfusión 10-50 µg/kg/min |
+| Procainamida | Bolo 3-15 mg/kg en 30 min (máx. 100 mg); perfusión 20-80 µg/kg/min |
+| Esmolol | Bolo 0,1-0,5 mg/kg en 2-4 min; perfusión 50-300 µg/kg/min |
+| Sulfato de magnesio (*torsade*) | 15-30 mg/kg IV en 20 min |
+
+! La amiodarona figura a 5 mg/kg en 15-30 min (máx. 15 mg/kg) en el manual de residentes y a 5 mg/kg en 20 min (hasta 20 mg/kg) en el libro. Tabla completa de antiarrítmicos en «Complicaciones postoperatorias → Arritmias».
+
+**Tratamiento a largo plazo** (libro, caps. 26-27): DAI en arritmias ventriculares sintomáticas o tras parada en FV; en miocardiopatías y canalopatías, según la entidad (ver «Otras patologías» y «Canalopatías»).

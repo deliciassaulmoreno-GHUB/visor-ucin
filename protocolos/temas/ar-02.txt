@@ -1,0 +1,55 @@
+@f TEMAS/AR/2
+*El libro Cuidados críticos no tiene un capítulo de canalopatías (solo los límites del QTc en el cap. 40). Fuentes: Cardiología pediátrica para residentes, cap. 12 (Cardiopatías familiares); Guía rápida para la lectura sistemática del ECG pediátrico (Pérez-Lescure, 4.ª ed.).*
+
+## Generalidades
+
+- Alteraciones genéticas de las proteínas de los canales iónicos del miocito que predisponen a **arritmias ventriculares malignas**, típicamente **polimórficas y letales**, con corazón estructuralmente normal.
+- Las más frecuentes: **síndrome de QT largo (SQTL)**, **taquicardia ventricular polimórfica catecolaminérgica (TVPC)** y **síndrome de Brugada**.
+- Pueden ser asintomáticas; si hay síntomas, los más comunes son el **síncope y la muerte súbita**. Los síncopes, a diferencia de los vasovagales, **no suelen tener pródromos**, y cada entidad tiene desencadenantes típicos (ejercicio, sustos, ruidos, sueño, fiebre).
+- Como cardiopatías familiares: herencia mayoritariamente autosómica dominante, penetrancia incompleta y edad-dependiente, expresividad variable → **estudio escalonado de la familia** y seguimiento de portadores.
+- La TV polimorfa en el niño se relaciona sobre todo con canalopatías (también con cardiopatía congénita y miocardiopatía).
+
+## Síndrome de QT largo
+
+- **La canalopatía más frecuente y la primera causa de muerte súbita en jóvenes con corazón estructuralmente normal.** Alteración de la repolarización con QT largo que predispone a arritmias ventriculares (*torsade de pointes*).
+- **Adquirido** (mucho más frecuente; descartarlo siempre, sobre todo sin antecedentes familiares): fármacos, alteraciones electrolíticas, anorexia, insuficiencia renal, TCE, parada cardiorrespiratoria.
+- **Congénito:** prevalencia 1:2.000 (probablemente infraestimada); hasta 17 subtipos; los 3 primeros son los más frecuentes:
+
+| Tipo | Frecuencia | Canal y gen | Desencadenante | ECG (guía rápida) |
+| SQTL1 | 40-55 % | K (KCNQ1) | Descarga adrenérgica, ejercicio (típicamente **natación**) | T de base ancha y muy prolongada |
+| SQTL2 | 30-45 % | K (KCNH2) | **Estímulos sonoros**, estrés emocional | T de baja amplitud con muescas |
+| SQTL3 | 5-10 % | Na (SCN5A) | **Reposo/sueño** | T acuminada de aparición tardía |
+
+! La guía rápida da otras proporciones: tipo 1 30 %, tipo 2 30 %, tipo 3 10 %.
+
+- **Alto riesgo:** **Jervell-Lange-Nielsen** (autosómico recesivo, **sordera neurosensorial congénita**, QTc muy largo) y **Timothy** (QT muy largo con **sindactilia** y afectación sistémica). Romano-Ward: autosómico dominante.
+- **Diagnóstico:** QTc prolongado en ≥ 2 ECG, por Bazett, preferiblemente en II y V5 (incluir la onda U si es > 50 % de la T). Normal: **< 440 ms en varones y < 460 ms en mujeres; en neonatos y lactantes pequeños hasta 480 ms puede ser normal**. **Criterios de Schwartz:** ≤ 1 punto, probabilidad baja; 2-3, moderada; > 4, alta. Si hay sospecha: estudio genético (positivo en el 75 %).
+- **Tratamiento:** **β-bloqueantes** de primera línea en todos los tipos (superiores **nadolol y propranolol**); si el fenotipo es grave o persisten síntomas: **simpatectomía y DAI**.
+- **Recomendaciones:** evitar esfuerzos intensos o competitivos y actividades de riesgo (natación en el SQTL1), **fármacos que alargan el QT** (www.crediblemeds.org), productos de herbolario, bebidas energéticas, drogas y deshidratación.
+
+! El libro (cap. 40) da como límite superior del QTc 0,44 s en > 6 meses y 0,45 s en < 6 meses (0,47 s en la primera semana, poco valorable); la guía rápida, 0,35-0,45 s. Ver «ECG pediátrico».
+
+## Síndrome de QT corto
+
+- Mucho menos frecuente, también asociado a arritmias letales. Sin límites inferiores aceptados universalmente: **QTc < 0,33 s en varones y < 0,34 s en mujeres** deben tenerse en cuenta (libro); la guía rápida lo define como QTc ≤ 0,33 s.
+- QT corto también por hipercalcemia y digital.
+
+## Taquicardia ventricular polimórfica catecolaminérgica (TVPC)
+
+- Arritmias ventriculares polimorfas **desencadenadas por estrés adrenérgico** (esfuerzo, emociones), con **ECG basal normal** y corazón normal. Prevalencia estimada 1:10.000. Mutaciones del **receptor de la rianodina (RYR2)**, autosómica dominante.
+- Se presenta sobre todo en la infancia (**7-10 años**). Sospecharla ante todo **síncope atípico con esfuerzo o emoción**: muy letal y fácil de pasar por alto.
+- **Diagnóstico:** prueba de esfuerzo: extrasístoles de distinta morfología, bidireccionales y/o **TV bidireccional** (rotación del QRS de 180° latido a latido).
+- **Tratamiento:** β-bloqueantes (**nadolol a dosis altas** de elección); añadir **flecainida** si persisten síncopes o arritmias en la ergometría; simpatectomía en alto riesgo; el DAI es controvertido. Evitar estímulos emocionales y ejercicio intenso; vigilancia estrecha.
+
+## Síndrome de Brugada
+
+- Pérdida de función de canales de sodio (**SCN5A**) con riesgo de arritmias ventriculares malignas. Típico de varones adultos (3.ª-4.ª década). En pediatría, casi siempre diagnóstico incidental (**patrón en el ECG con fiebre**) o por estudio familiar.
+- **Presentación infantil** (infrecuente): disfunción sinusal (bradicardia, pausas, bradi-taquicardia, incompetencia cronotropa), arritmias supraventriculares (flutter, FA), trastornos de conducción (QRS ancho), y arritmias ventriculares: en niños es más frecuente la **TV monomorfa desencadenada por fiebre** (en el adulto, TV polimórfica o FV).
+- **Diagnóstico** (solo el tipo 1 es diagnóstico): **elevación convexa del ST ≥ 2 mm «en aleta de tiburón» con T negativa en V1-V2**. Según la guía rápida, tipos 2 y 3 (ST «en silla de montar») son sugestivos, no diagnósticos. Patrón **dinámico** (temperatura, testosterona, tono vagal): espontáneo es diagnóstico; si no, test farmacológico. Colocar V1-V2 en el 3.^er^ o 2.º espacio intercostal aumenta la sensibilidad.
+- **Tratamiento:** **DAI** es la única opción en sintomáticos. Evitar fármacos precipitantes (www.brugadadrugs.org), deshidratación, drogas y bebidas energéticas. **Tratar la fiebre de forma precoz y agresiva**; con patrón tipo 1, **ingreso para monitorización si tiene fiebre** y/o no se controla con antitérmicos orales.
+
+## Otras alteraciones de la conducción (guía rápida)
+
+- **Wolff-Parkinson-White:** PR corto, onda delta, QRS ancho (ver «Taquicardia supraventricular»).
+- **Lown-Ganong-Levine (en la guía, «Long-Ganong-Levine»)/conducción AV acelerada:** PR corto, QRS normal, TSV. **Preexcitación tipo Mahaim:** PR normal, onda delta, TSV.
+- **Exposición fetal a lupus materno:** bloqueo AV (ver «Bloqueo AV»).

@@ -1,0 +1,64 @@
+@f TEMAS/AR/5
+*Fuentes: Cuidados críticos del niño con patología cardíaca, caps. 31 (Arritmias en el postoperatorio) y 40 (ECG); Cardiología pediátrica para residentes, cap. 6 (Bradiarritmias); Experto en Neonatología, tema 8; Guía rápida del ECG pediátrico.*
+
+## Bradiarritmias: conceptos
+
+- Ritmos regulares o irregulares con **frecuencia inferior a la normal para la edad**, por alteración del automatismo o de la conducción sinoauricular o AV (en aurícula, nodo AV o His-Purkinje).
+- **Primarias** (fetal o neonatal): anomalías del desarrollo en algunas cardiopatías; **bloqueo AV congénito por anticuerpos maternos transplacentarios (hijos de madre con lupus)**. **Secundarias:** isquemia, miocarditis, **cirugía**, vías patológicas.
+- En el **recién nacido** (Experto), la bradiarritmia es la arritmia más frecuente: inmadurez del sistema de conducción, más en **prematuros**, en la **hipoxia** y con fármacos.
+- En UCIP, la bradicardia puede reflejar lesión del sistema de conducción (bloqueo AV postoperatorio) o ser **signo de fallo ventricular con colapso inminente** (libro).
+
+**Disfunción sinusal** (residentes)
+- **Bradicardia sinusal:** casi siempre fisiológica (vagotonía); también hipertensión intracraneal, fármacos, hipotermia, hipoxia, cardiopatías. Marcapasos solo si es sintomática con repercusión.
+- **Arritmia sinusal:** sobre todo respiratoria (fisiológica); variabilidad PP > 0,12 s con PR normal.
+- **Paro sinusal:** patológico si la pausa es > 3 s (isquemia aguda, ictus, digital); marcapasos si es sintomático.
+- **Bloqueo sinoauricular:** pausa de al menos un ciclo completo; pueden aparecer escapes.
+- **Postoperatorio** (libro): disfunción sinusal tras cirugías con manipulación de la aurícula derecha, habitualmente transitoria.
+
+## Bloqueo auriculoventricular
+
+Conducción anormal del impulso desde la aurícula hasta los ventrículos (retraso o ausencia).
+
+| Grado | ECG | Significado |
+| **1.^er^ grado** | PR largo para la edad y la frecuencia; todas las P conducen | Sin síntomas ni tratamiento urgente. Fármacos (β-bloqueantes, antagonistas del calcio), vagotonía; también miocarditis, alteraciones electrolíticas, digital (guía rápida) |
+| **2.º grado Mobitz I (Wenckebach)** | Alargamiento progresivo del PR hasta una P no conducida | Generalmente QRS estrecho; raramente progresa; fisiológico en el sueño y la vagotonía. Más grave con cardiopatía estructural |
+| **2.º grado Mobitz II** | P no conducida **sin** alargamiento previo del PR | Casi siempre QRS ancho; **progresa a menudo a bloqueo completo** con escape inestable |
+| **2:1** | Una P conduce y la siguiente no | — |
+| **Avanzado o de alto grado** | ≥ 2 P consecutivas no conducidas | — |
+| **3.^er^ grado (completo)** | Ninguna P conduce: **disociación AV** | La frecuencia de escape define la repercusión |
+
+**Nivel del bloqueo completo** (residentes):
+- **Suprahisiano** (nodo AV): escape **40-60 lpm, QRS estrecho**, bajo riesgo de asistolia.
+- **Intrahisiano:** raro; pronóstico similar al infrahisiano.
+- **Infrahisiano** (His distal o ramas): escape **20-30 lpm, QRS ancho**, inestable, **alto riesgo de asistolia**.
+
+**Bloqueos de rama y bifasciculares:** escaso riesgo de progresión a bloqueo completo; no suelen tratarse (ver criterios en «ECG pediátrico»).
+
+**Diagnóstico ECG** (libro): identificar las P (PP) y los QRS (RR); si PR y RR no guardan relación constante, sospechar bloqueo de 2.º o 3.^er^ grado. En el bloqueo completo, frecuencia auricular por el PP y ventricular por el RR.
+
+## Bloqueo AV postoperatorio
+
+- Tras cirugías del **tracto de salida del VI, del septo interventricular y, sobre todo, la corrección de Fallot** (libro). Asociaciones (Tabla IV del cap. 31): bloqueo AV tras canal AV, CIV, doble salida del VD, estenosis aórtica, truncus; **completo** en heterotaxias y TGA.
+- **Manejo:** **marcapasos secuencial con cables epicárdicos auriculares y ventriculares** colocados en quirófano (optimizan la frecuencia y la sincronía AV).
+- Si fallan los cables: **cronotrópicos transitorios** (isoproterenol, atropina, adrenalina) mientras se coloca un **marcapasos endocavitario percutáneo** o se usa **estimulación externa**.
+- **Mobitz II o BAV completo que persisten 2 semanas tras la cirugía: marcapasos definitivo.**
+
+## Tratamiento de las bradiarritmias
+
+- Según la situación clínica: **RCP** si hay bradicardia extrema con compromiso hemodinámico; si no, **isoproterenol en perfusión** y **marcapasos** temporal o definitivo (residentes).
+- **Miocarditis:** bradicardia sintomática o BAV completo con bajo gasto → **marcapasos temporal transvenoso** (libro, cap. 26).
+
+*Tabla I. Fármacos en la bradiarritmia (libro, cap. 31).*
+@ancha
+| Fármaco | Indicación | Dosis | Efectos secundarios |
+| Atropina | Bradicardia sinusal, bloqueo AV | Bolo 0,01-0,02 mg/kg (mín. 0,1 mg, máx. 2 mg) | Taquicardia, bradicardia paradójica |
+| Adrenalina | Asistolia (RCP), bradicardia grave | Bolo 0,01 mg/kg; BIC 0,05-2 µg/kg/min | Taquicardia, HTA, arritmias |
+| Isoproterenol | Bloqueo AV | BIC 0,01-0,05 µg/kg/min | Taquicardia, arritmias |
+
+**Marcapasos temporal** (libro, cap. 31): con función sinusal intacta y bloqueo AV → **VDD**; si hay bloqueo AV y buena captura auricular → **DDD**; sin buena captura auricular → **VVI**; durante electrocauterio o cirugía → modos asincrónicos (AOO/VOO/DOO según la conducción). Programación, problemas y emergencia (transcutáneo, transesofágico): ver «Complicaciones postoperatorias → Arritmias».
+
+## Bloqueo AV congénito
+
+- Por paso transplacentario de **anticuerpos maternos** (hijos de madre con lupus) o por anomalías del desarrollo en algunas cardiopatías (residentes); la guía rápida lo recoge como «exposición fetal a lupus materno: BAV».
+
+! El material de la carpeta no desarrolla el manejo específico del bloqueo AV congénito (criterios de marcapasos neonatal, tratamiento prenatal); solo menciona su causa.

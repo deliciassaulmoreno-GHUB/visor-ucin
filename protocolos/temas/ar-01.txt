@@ -1,0 +1,137 @@
+@f TEMAS/AR/1
+*Fuente principal: Cuidados críticos del niño con patología cardíaca, cap. 40 (ECG en el niño con patología cardíaca). Complementos: Guía rápida para la lectura sistemática del ECG pediátrico (Pérez-Lescure, 4.ª ed.) y Cardiología pediátrica para residentes, cap. 5.*
+
+## Conceptos básicos
+
+- Papel a **25 mm/s**: 1 mm = 0,04 s; 5 mm (línea gruesa) = 0,2 s. Calibración: **1 mV = 10 mm**.
+- **12 derivaciones:** bipolares I, II, III; aumentadas aVR, aVL, aVF (plano frontal); precordiales V1-V6 (plano horizontal):
+  - V1: 4.º espacio intercostal derecho junto al esternón. V2: 4.º espacio izquierdo junto al esternón. V3: entre V2 y V4. V4: 5.º espacio, línea medioclavicular izquierda. V5: a la altura de V4, axilar anterior. V6: a la altura de V4, medioaxilar.
+  - En dextrocardia: precordiales derechas (V3R-V6R).
+- **Monitorización en UCIP:** 3 electrodos en fosas claviculares derecha e izquierda y abdomen bajo el reborde costal izquierdo (evita artefactos); habitualmente se muestra la **derivación II**.
+- En neonatos y lactantes la colocación es difícil (tórax pequeño, poca colaboración): ser cuidadoso y pedir ayuda para mantenerlos tranquilos.
+- Algunas cardiopatías tienen ECG típico: **canal AV con eje de hemibloqueo anterior izquierdo (−60° a −120°)**; **Ebstein con Wolff-Parkinson-White**; eje derecho en lactante cianótico sugiere Fallot; eje izquierdo en cianótico, atresia tricuspídea.
+
+## Lectura sistemática
+
+Ritmo → frecuencia → ejes → ondas e intervalos (P, PR, QRS, ST, T, QT).
+
+**1. Ritmo sinusal:** P positiva en I, II, III y aVF y negativa en aVR (eje P 0-90°); todas las P iguales y seguidas de un QRS; PR y RR constantes (o con pequeñas variaciones con la frecuencia).
+- Variantes sin significado patológico: marcapasos migratorio (P y PR cambiantes); ritmo de seno coronario o auricular bajo (P negativa en II, III, aVF con PR corto; vagotonía, drenaje venoso a seno coronario).
+- En cardiopatías: ritmos auriculares anómalos (dilatación auricular, suturas tipo Senning), ritmos nodales por bloqueo AV.
+- Según la guía rápida: sin P delante del QRS → ritmo nodal; P sin relación con los QRS → bloqueo AV de 3.^er^ grado o disociación AV.
+
+**2. Frecuencia:** 60 / intervalo RR (s); o por cuadros grandes entre R: 1 → 300, 2 → 150, 3 → 100, 4 → 75, 5 → 60, 6 → 50 lpm. Si frecuencias auricular y ventricular difieren (BAV completo), la auricular por el intervalo PP. **En el niño, bradicardia y taquicardia se definen por los extremos para la edad**, no por 60 y 100.
+
+*Tabla I. Frecuencia cardiaca por edad (libro).*
+| Edad | FC media (rango) |
+| RN-6 meses | 145 (90-180) |
+| 1 año | 132 (105-170) |
+| 2 años | 120 (90-150) |
+| 4 años | 108 (72-135) |
+| 6 años | 100 (65-135) |
+| 10 años | 90 (65-130) |
+| 14 años | 85 (60-120) |
+
+! La guía rápida da otros rangos (p. ej., neonato 95-150, media 123; 1-2 meses 121-179, media 149). Las tablas de referencia difieren entre fuentes.
+
+**3. Ejes**
+- **Eje QRS:** derecho en el RN (+110°; 135-180° en la primera semana), hacia +60° a los 3-6 meses y cerca del valor adulto (+50°) hacia los 3 años. Guía rápida: 1 semana-1 mes +110° (+30 a +180); 1-3 meses +70° (+10 a +125); 3 meses-3 años +60° (+10 a +110); > 3 años +60° (+20 a +120).
+- **Eje T:** 0 a +90° (+45°): T positivas en I, II, III y aVF (pueden ser planas, nunca invertidas).
+- **Ángulo QRS-T > 90°:** anormal (hipertrofia con sobrecarga, trastornos de conducción, isquemia).
+
+**4. Onda P:** ≤ 2,5 mm y ≤ 0,08 s en lactantes; ≤ 3 mm y ≤ 0,10 s en > 1 año. **P > 3 mm: crecimiento auricular derecho** (CIA, Ebstein, insuficiencia tricuspídea). **P ancha y mellada: crecimiento auricular izquierdo** (> 0,08 s en lactantes; guía rápida: < 1 año > 0,08, 1-3 años > 0,09, > 3 años > 0,10 s).
+
+**5. Intervalo PR** (inicio de P a inicio de QRS): varía con edad y frecuencia. PR y RR distintos sugieren bloqueo AV de 2.º o 3.^er^ grado.
+
+*Tabla II. PR normal (libro, de Park).*
+| Edad | PR en s (máximo) |
+| 0-1 mes | 0,09-0,10 (0,12) |
+| 1-6 meses | 0,09-0,11 (0,14) |
+| 6 meses-1 año | 0,10-0,11 (0,14) |
+| 1-3 años | 0,10-0,12 (0,15) |
+| 3-8 años | 0,12-0,15 (0,17) |
+| 8-12 años | 0,14-0,16 (0,18) |
+| 12-16 años | 0,15-0,16 (0,19) |
+
+- **PR corto:** preexcitación (WPW), glucogenosis; ritmo desde la aurícula baja o la unión.
+- **PR largo** (BAV de 1.^er^ grado): miocarditis, alteraciones electrolíticas, hiperpotasemia, digital, fármacos, vagotonía.
+- **PR variable:** marcapasos migratorio, BAV Mobitz I.
+
+**6. QRS**
+- **Duración máxima:** < 0,07 s (0-1 mes); < 0,075 s (1 mes-8 años); < 0,09 s (8-12 años); < 0,10 s (> 12 años).
+- **QRS ancho:** preexcitación (onda delta), bloqueos de rama, trastornos de conducción intraventricular (antiarrítmicos, hiperpotasemia), ritmos ventriculares.
+  - **Bloqueo de rama derecha:** rsR' («en M») en precordiales derechas con ST descendido y T invertida; S anchas en I, V5, V6. En la infancia el patrón puede ser normal; con voltajes altos y QRS no ancho sugiere hipertrofia del VD. Según la guía rápida, RSR' en V1 es normal si el QRS no está alargado y R' < 15 mm (< 1 año) o < 10 mm (> 1 año).
+  - **Bloqueo de rama izquierda:** muy raro en niños (cirugía del tracto de salida del VI, válvula aórtica o septo; extrasístoles o TV del tracto de salida del VD): sin Q en V6, QS o rS en V1, R ancha y empastada en V6, T opuesta.
+  - **Hemibloqueo anterior izquierdo:** eje −30° a −90°, qR en I y aVL, rS en II, III y aVF, QRS normal. **Posterior:** eje derecho (+90/+120° a +180°), rS en I y aVL, qR en II, III y aVF.
+- **Onda Q:** < 1 mm de ancho y < 2 mm de profundidad; en < 3 años puede ser de 6-8 mm en III (normal). **Q > 4 mm en otras derivaciones: isquemia** (Q profundas en I y aVL en **ALCAPA**) o hipertrofia septal (II, III, aVF).
+- **Voltajes:** bajos en pericarditis, miocarditis, hipotiroidismo; altos en hipertrofias y trastornos de conducción.
+
+*Tabla III. Eje QRS y voltajes normales (mm), media (rango) (libro, de Johnson y Moller).*
+@ancha
+| Edad | Eje QRS | R en V1 | S en V1 | R en V6 | S en V6 |
+| 1.^er^ día | 137 (70-205) | 16 (6-27) | 10 (0-25) | 4 (0-8) | 4 (0-12) |
+| 1-7 días | 125 (75-185) | 17 (4-30) | 10 (0-20) | 6 (0-16) | 3 (0-12) |
+| 8 días-1 mes | 108 (30-190) | 13 (3-24) | 7 (0-18) | 8 (0-20) | 2 (0-9) |
+| 1-3 meses | 75 (25-125) | 10 (2-20) | 7 (0-18) | 9 (2-16) | 2 (0-6) |
+| 3-6 meses | 65 (30-96) | 10 (2-20) | 7 (0-12) | 10 (2-16) | 1 (0-5) |
+| 6-12 meses | 65 (10-115) | 10 (2-20) | 8 (2-15) | 12 (3-20) | 1 (0-3) |
+| 1-3 años | 55 (6-08) | 9 (2-18) | 10 (2-25) | 12 (3-21) | 1 (0-3) |
+| 3-5 años | 62 (20-105) | 7 (1-16) | 13 (2-25) | 13 (4-21) | 1 (0-3) |
+| 5-8 años | 65 (16-112) | 7 (1-16) | 14 (2-25) | 14 (6-24) | 1 (0-3) |
+| 8-12 años | 62 (15-112) | 6 (1-16) | 14 (2-25) | 14 (8-21) | 1 (0-3) |
+| 12-16 años | 65 (20-116) | 5 (0-16) | 15 (2-25) | 13 (8-20) | 1 (0-3) |
+
+! En el libro, el rango del eje a 1-3 años figura como «6-08» (probable errata); se transcribe tal cual.
+
+**7. Segmento ST:** isoeléctrico (referencia: el PR); en el niño se admite hasta 1 mm en derivaciones de miembros y 2 mm en precordiales (libro). La guía rápida da como límite elevación ≤ 1 mm y descenso ≤ 0,5 mm; la repolarización precoz (ST elevado < 4 mm en laterales e inferiores con T altas) es una variante normal en adolescentes.
+
+**8. Onda T:** 0,10-0,25 s y < 5 mm.
+- Positiva en V1 los primeros 3-7 días (en el 75 % de los RN); después **negativa en V1-V3 hasta los 8-12 años** (patrón infantil). **T positiva en V1 pasada la primera semana sugiere hipertrofia del VD** (Fallot).
+- **Siempre positiva en V5-V6 desde las 48 h de vida** (antes de los 4 días según el libro); invertida: HVI grave, miocarditis, pericarditis, isquemia.
+- T altas y picudas: hiperpotasemia, sobrecarga de volumen del VI, repolarización precoz. T planas: hipotiroidismo, hipopotasemia, digital, pericarditis, miocarditis, isquemia.
+
+**9. Intervalo QT**
+- Medir donde la T esté mejor definida y sin onda U (en la práctica, II, V3-V4 o V5). Si el QRS es ancho, el QT se alarga. **Bazett: QTc = QT / √RR previo.**
+- **Límite superior del QTc (libro):** 0,44 s en > 6 meses; 0,45 s en < 6 meses; primera semana poco valorable (como máximo 0,47 s); adolescentes 0,45 s varones y 0,46 s mujeres. Valor medio 0,40 s.
+- **QT corto:** QTc < 0,33 s en varones y < 0,34 s en mujeres deben tenerse en cuenta.
+- **QT largo:** hipocalcemia, miocarditis, TCE, síndrome de QT largo, fármacos. **QT corto:** hipercalcemia, digital, síndrome de QT corto.
+
+! El manual de residentes da como normal un QTc < 440 ms en varones y < 460 ms en mujeres, y hasta 480 ms en neonatos y lactantes pequeños; la guía rápida, 0,35-0,45 s.
+
+## Particularidades del ECG en el niño
+
+- **Predominio del VD** cuanto menor es el niño: eje derecho, R altas en aVR y precordiales derechas (R/S alto en V1-V2) y S profundas en I, V5 y V6. Entre 1 mes y 3 años, patrón de transición; hacia los 3 años se parece al del adulto joven.
+- Frecuencias más altas; PR, QRS y QT más cortos. **En los primeros días el QT no es valorable** (sí a partir de la 3.ª-4.ª semana).
+- Onda T: ver arriba. Hasta un 10 % de RN sanos tienen qR en V1.
+
+## Hipertrofias
+
+- **Auricular derecha:** P > 3 mm. **Auricular izquierda:** P ancha (> 0,09 s) y mellada.
+- **Ventricular derecha:** eje derecho para la edad (> 180° en el neonato); R en V1-V2 y S en I y V6 por encima del límite para la edad sin QRS ancho; R/S en V1-V2 alto y R/S en V6 < 1 tras el primer mes; **T positiva en V1 tras la primera semana** (con T positiva en V5-V6; a partir de los 6 años ya no es patológica); qR en V1 (normal hasta en el 10 % de los RN).
+- **Ventricular izquierda:** R por encima del límite en I, II, III, aVF o V5, o R en V6 > 25 mm (> 20 mm en < 6 meses); S en V1-V2 por encima del límite o S en V6 > 25 mm (> 20 mm en < 6 meses); T negativas en II, III, aVF, V5-V6; eje izquierdo. **HVI + ángulo QRS-T amplio + T invertida en V6: patrón de sobrecarga** (obstrucción grave del tracto de salida del VI).
+- **Biventricular:** criterios de ambas con QRS de duración normal; complejos grandes y equifásicos en ≥ 2 derivaciones de miembros y en V2-V5.
+
+## ECG en otras situaciones
+
+- **Pericarditis** (también tras cirugía, sobre todo cierre de CIA): QRS de bajo voltaje si hay derrame; **alternancia eléctrica en el taponamiento**; ST elevado cóncavo en todas las derivaciones salvo aVR y V1; T elevadas.
+- **Hiperpotasemia:** T estrechas, altas y picudas (≥ 50 % del QRS) con 5,5-6,5 mEq/l (sobre todo II, III, V2-V6); QRS ancho con 6-6,5; P aplanada y ancha con 6,5 y desaparece entre 7 y 9 (con ella el PR); ST desaparece con 9; con ≥ 10 mEq/l QRS muy deformados que se funden con ST y T.
+- **Hipopotasemia:** T planas con < 3 mEq/l y onda U creciente que se fusiona con la T (U mayor que T con 2 mEq/l; gigante con 1); QRS ancho < 3; ST descendido ≥ 1 mm; P de tipo pulmonale con ≤ 2; QT aparentemente largo.
+- **Hipercalcemia:** QT corto. **Hipocalcemia:** ST y QT largos.
+- **Hipermagnesemia:** QT corto, PR y QRS largos (la hipocalcemia asociada puede enmascararlo; en intoxicaciones, la FV puede ser la primera manifestación). **Hipomagnesemia** (< 1 mEq/l): QT y PR largos, ST descendido, P planas o invertidas; riesgo de arritmias ventriculares y *torsade de pointes*.
+
+## Utilidad del ECG en UCIP y en el postoperatorio cardiaco
+
+- En cardiopatías con sobrecarga de presión o volumen, el gasto depende de frecuencias relativamente altas. La **taquicardia mantenida** puede indicar insuficiencia cardiaca, dolor, ansiedad o sepsis; la **bradicardia**, lesión del sistema de conducción (BAV postoperatorio) o **fallo ventricular con colapso inminente**.
+- **Identificación de una arritmia** (ECG de 12 derivaciones; la tira del monitor de una sola derivación no basta, aunque es útil la tira de ritmo de 3 derivaciones o la II larga):
+  1. Frecuencia ventricular (extremos para la edad).
+  2. Regularidad: RR iguales o con diferencias < 0,16 s.
+  3. Identificar P, P' (ectópica), F (flutter) o f (fibrilación), su frecuencia y su relación con el QRS.
+  4. PR o RP': corto (aurícula baja, unión, vía accesoria) o largo (retraso nodal o hisiano); ¿cada P va seguida de QRS?; relación de conducción (p. ej., flutter 3:1 con FC 100 = aurículas a 300 lpm).
+  5. Analizar los QRS.
+  6. Inicio y fin bruscos (paroxística) o progresivos.
+- **Registrar el ECG durante las maniobras terapéuticas:** la adenosina puede yugular una taquicardia de QRS estrecho o **desenmascarar un flutter**.
+- **Antiarrítmicos proarrítmicos:** primero alargan el QRS y el QT. Medir siempre en la misma derivación antes y después de cada dosis. Alargan el QT (riesgo de *torsade*): quinidina, disopiramida, sotalol, **flecainida**; la amiodarona también, sin relación con inducción de arritmias. **Los cambios del QT pueden tardar 48-72 h.**
+- **Postoperatorio:** ECG de 12 derivaciones precoz al llegar de quirófano. Frecuentes: bradicardia por bloqueo sinoauricular, bloqueos AV de cualquier grado, taquicardia sinusal (estrés, dolor, simpaticomiméticos) y taquicardia automática de la unión (QRS estrecho: localizar la P). Asegurar el ritmo sinusal y la sincronía AV. En cirugías con riesgo para la conducción (CIV, Fallot, D-TGA) se dejan **cables epicárdicos**.
+- **Auriculograma:** si con 12-15 derivaciones (incluidas precordiales derechas) no se identifica la P, conectar los cables epicárdicos auriculares a V1 y V2: la P aparece magnificada (espicular). Útil también antes, durante y después de la sobreestimulación auricular.
+
+! El manejo de las arritmias postoperatorias, el marcapasos temporal y la tabla de antiarrítmicos están en «Complicaciones postoperatorias → Arritmias».
