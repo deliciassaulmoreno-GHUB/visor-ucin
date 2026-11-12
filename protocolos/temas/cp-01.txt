@@ -1,0 +1,78 @@
+@f TEMAS/CP/1
+*Cuidados críticos del niño con patología cardíaca, cap. 28 (Hipertensión pulmonar).*
+
+## Definiciones
+
+- **Hipertensión pulmonar (HTP):** presión media de arteria pulmonar (PAPm) ≥ 25 mmHg en reposo.
+- **Hipertensión arterial pulmonar (HAP):** PAPm ≥ 25 mmHg con presión de enclavamiento (PCP) < 15 mmHg y resistencias vasculares pulmonares indexadas (RVPI) > 3 UW/m².
+- **Idiopática/hereditaria:** HAP sin enfermedad de base (la hereditaria con historia familiar o estudio genético positivo).
+
+La PAPm es casi sistémica intraútero y alcanza valores del adulto a los 2-3 meses; desde los 3 meses hay HTP si supera 25 mmHg. En cardiopatías es clave incluir las RVPI:
+- En la fisiología univentricular (anastomosis cavopulmonar) puede haber enfermedad vascular hipertensiva pulmonar (EVHP) con PAPm < 25 mmHg.
+- En los cortocircuitos con hiperaflujo (HTP hipercinética) puede haber PAPm ≥ 25 sin cambios histológicos ni RVPI altas; se normaliza si se cierra a tiempo el defecto.
+- **EVHP biventricular:** PAPm elevada con RVPI > 3 UW/m²; precapilar (PCP ≤ 15 mmHg) o poscapilar (PCP > 15, corazón izquierdo). **EVHP univentricular tras anastomosis cavopulmonar:** RVPI > 3 UW/m² o gradiente transpulmonar (PAPm − presión media en AI) > 6 mmHg, aunque la PAPm sea < 25.
+
+*Tabla I. Clasificación clínica de la HTP (Niza, 2013).*
+1. **HAP:** idiopática; hereditaria (BMPR2; ALK-1, ENG, SMAD9, CAV1, KCNK3; desconocido); por fármacos o tóxicos; asociada a conectivopatías, VIH, hipertensión portal, cardiopatías congénitas, esquistosomiasis. 1': enfermedad venooclusiva y/o hemangiomatosis capilar pulmonar. 1'': HTP persistente del recién nacido.
+2. **Por enfermedad del corazón izquierdo:** disfunción sistólica o diastólica del VI, valvulopatía, obstrucción congénita del tracto de entrada o salida izquierdo.
+3. **Por enfermedad pulmonar y/o hipoxemia:** EPOC, intersticiales, patrón mixto, trastornos del sueño, hipoventilación alveolar, altitud, trastornos del desarrollo pulmonar.
+4. **Tromboembólica crónica.**
+5. **Multifactorial:** hematológicas, sistémicas, metabólicas, otras (obstrucción tumoral, mediastinitis fibrosante, insuficiencia renal crónica, HAP segmentaria).
+
+*Tabla II. Clasificación pediátrica de la EVHP (Panamá, 2011):* prenatal o del desarrollo; HTP persistente del recién nacido; cardiopatía pediátrica; displasia broncopulmonar; EVHP aislada; multifactorial en síndromes polimalformativos; enfermedad pulmonar; tromboembólica; hipoxia hipobárica; asociada a otros órganos.
+
+## Fisiopatología en cardiopatías
+
+**1. Cortocircuitos sistémico-pulmonares** (50-60 % de las cardiopatías). Al inicio, HTP hipercinética (hiperaflujo con RVP bajas), reversible al cerrar el defecto. Sin cierre: remodelado, más RVP, *shunt* bidireccional y finalmente inversión irreversible (Eisenmenger).
+- Más riesgo en los postricuspídeos (alto flujo y presión) que en los pretricuspídeos, y cuanto mayor el defecto. CIV y DAP no suelen dar cambios irreversibles antes de los 2 años (cerrar antes). Sin cirugía, el 50 % de las CIV grandes no restrictivas llegan a Eisenmenger. CIA: menos riesgo, en la 3.ª-5.ª década (6-17 %).
+- Aceleran la EVHP: hipoxia (TGA con CIV, irreversible y casi siempre inoperable más allá de los 9 meses; truncus), patología pulmonar (displasia broncopulmonar), síndromes (síndrome de Down con canal AV completo: cirugía hacia los 6 meses).
+- **No están indicados los vasodilatadores pulmonares prequirúrgicos** con sobrecirculación (aumentan el hiperaflujo).
+- **Operabilidad.** Menores de 1-2 años con cortocircuito simple (CIA, CIV, DAP), insuficiencia cardiaca, SatO~2~ > 95 % en aire y *shunt* solo izquierda-derecha en la eco: no necesitan cateterismo previo. Si no cumplen estos criterios: cateterismo. Cirugía si RVPI < 6 UW·m² o RVP/RVS < 0,3. Si RVPI > 6 y RVP/RVS > 0,5: test vasodilatador (oxígeno, óxido nítrico inhalado y/o prostaciclina inhalada); si responde (RVPI < 6 y RVP/RVS < 0,3), cirugía y después vasodilatadores; si no, no operar (puede tratarse y repetir el cateterismo en 4-6 meses). También cateterismo en cardiopatías complejas tardías (truncus) o con comorbilidades.
+
+**2. Corazón izquierdo (HTP poscapilar o venosa).** Congénitas (estenosis de venas pulmonares, cor triatriatum, valvulopatía mitral o aórtica, coartación, fibroelastosis, VI hipoplásico/Shone, miocardiopatías) y adquiridas (valvulopatía reumática o posendocarditis, miocardiopatía, pericarditis constrictiva). Tratar la causa; **los vasodilatadores pulmonares pueden causar edema pulmonar en la obstrucción poscapilar.** La disfunción diastólica del VI emerge como causa (tras coartación, CIV, trasplante, mitral supraanular, estenosis aórtica, SCIH, Shone).
+
+**3. Fisiología univentricular.** SCIH con CIA restrictiva o septo íntegro: cambios vasculares, cianosis grave, hipoplasia de ramas, linfangiectasias, alta mortalidad. Tras Glenn o Fontan el flujo pulmonar depende del gradiente transpulmonar: pequeñas elevaciones de RVPI alteran oxigenación y gasto. **RVPI > 3 UW/m² y/o GTP > 6 mmHg son de mal pronóstico para el Fontan**; sildenafilo y/o bosentán previos pueden ayudar en seleccionados.
+
+**4. Otras:** HAP coincidente con cardiopatía (cortocircuitos pequeños que no la explican; como la idiopática); HAP postoperatoria (meses o años tras la reparación sin defectos residuales, agresiva; incluye la tras corrección neonatal de TGA con septo íntegro); HTP segmentaria (atresia pulmonar con CIV y MAPCAs, estenosis de ramas).
+
+## Clínica
+
+El aumento crónico de PAPm y RVP aumenta la poscarga del VD: hipertrofia, dilatación, AD grande, insuficiencia tricuspídea funcional; el septo se desplaza a la izquierda, con disfunción diastólica del VI, bajo gasto y compromiso coronario.
+- Lactantes: taquicardia, taquipnea, irritabilidad, dificultad para comer, vómitos, retraso ponderal. Mayores: cansancio, disnea de esfuerzo, dolor torácico, síncopes. Edemas, hepatomegalia e ingurgitación yugular, en casos avanzados.
+- Cianosis si hay cortocircuitos o FOP.
+- HTP aguda o crisis en infecciones respiratorias y, típicamente, en el postoperatorio.
+
+## Diagnóstico
+
+- **Ecocardiografía** (de elección): anatomía y cortocircuitos; PAP sistólica por la insuficiencia tricuspídea (si no hay obstrucción del tracto de salida derecho); posición del septo (tipo I normal, excluye HTP grave; tipo II, presiones igualadas; tipo III, VD suprasistémico); PAPm y diastólica por la insuficiencia pulmonar; función biventricular.
+- **ECG:** eje derecho, dilatación de AD, hipertrofia y sobrecarga del VD; descartar arritmias.
+- **Radiografía:** cardiomegalia con plétora (hiperaflujo); cavidades izquierdas con congestión (corazón izquierdo); corazón pequeño con congestión (obstrucción del drenaje venoso); en la HAP establecida, tronco dilatado y oligohemia periférica.
+- **Cateterismo** (no rutinario): confirmar y graduar, etiología, terapéutica, pronóstico, operabilidad o trasplante; oximetría, presiones, resistencias, flujos, angiografía y test de vasorreactividad. Requiere anestesia (riesgo en la inducción y con presión positiva).
+- **RM/angio-TC.**
+
+## HTP en el postoperatorio
+
+**Crisis de HTP / fallo agudo del VD:** aumento súbito de PAP y RVP con fallo del VD; el septo comprime el VI, cae el volumen telediastólico izquierdo, hipotensión, isquemia coronaria que perpetúa el fallo; la acidosis, la hipoxia y la hipercapnia cierran el círculo. Desencadenantes: dolor, ansiedad, secreciones, aspiración del tubo; también el descenso rápido de vasodilatadores o infecciones.
+- HTP en el 7 % de las cirugías cardiacas y crisis en el 1-4 %, con una mortalidad del 20 %.
+- **Riesgo:** edad, canal AV completo, truncus, TGA con CIV, DVPAT obstructivo (sobre todo con reparación tardía), patología pulmonar, síndromes. La CEC (inflamación, isquemia-reperfusión) aumenta las RVP. La respuesta del VD depende de su función previa, ventriculotomía, disfunción, IP o IT y arritmias.
+- Al cerrar los cortocircuitos el VD no puede descomprimirse; los **parches fenestrados** permiten *shunt* derecha-izquierda que mantiene el gasto a costa de desaturación.
+
+### Manejo en UCIP
+
+La prevención es la estrategia más eficaz: identificar a los pacientes de riesgo y evitar desencadenantes.
+1. **Monitorización:** vía central y TA invasiva. El catéter de AP identifica el riesgo (PAPm > 25 mmHg o PAP > 60 % de la sistémica), hoy menos usado. Descartar arritmias. Eco a pie de cama (presión del VD, función, lesiones residuales, derrames).
+2. **Respiratorio y ácido-base:** evitar acidosis, hipercapnia e hipoxia. Mantener la CRF sin presiones medias altas (comprometen la precarga del VD); tratar atelectasias, derrames y neumotórax. **Objetivo pCO~2~ 35-40 mmHg y pH 7,40-7,45.** En la crisis, hiperventilación manual y bicarbonato (la hiperventilación mantenida daña el pulmón; el bicarbonato prolongado afecta a la perfusión cerebral) y **oxígeno al 100 %**; de base, SatO~2~ > 95 % (sin mezcla).
+3. **Sedoanalgesia y relajación:** bien sedados en el postoperatorio inmediato; relajante en crisis graves; dosis extra antes de manipulaciones y aspiraciones.
+4. **Fluidos y hemoderivados:** el VD es precarga-dependiente (volumen útil en la crisis); en el fallo crónico, volumen con cautela y diuréticos, sin cambios bruscos. Precaución al transfundir: un hematocrito alto aumenta la viscosidad y la RVP.
+5. **Inotrópicos y vasopresores:** milrinona y levosimendán (poco o nulo cronotropismo; bajan la RVP). Noradrenalina, vasopresina o terlipresina (las dos últimas pueden bajar la RVP) para la hipotensión, la desviación septal y la vasodilatación de los vasodilatadores pulmonares.
+6. **Vasodilatadores pulmonares:** la vía inhalada afecta menos a las RVS y a la V/Q; la oral o intravenosa puede aumentar el cortocircuito intrapulmonar. La combinación suma efecto y efectos adversos.
+   - **Óxido nítrico inhalado:** primera elección; selectivo, rápido, mejora la V/Q y la oxigenación y reduce las crisis. **2-80 ppm, pero > 20 ppm rara vez aporta beneficio** y aumenta los efectos adversos. Retirada lenta hasta 1-5 ppm antes de suspender (rebote). No retrasar la extubación por él (cánulas nasales o VNI).
+   - **Sildenafilo oral** antes de retirar el óxido nítrico: reduce el rebote, la intubación y la estancia; también útil prequirúrgico. El intravenoso es muy potente, pero puede empeorar la oxigenación.
+   - **Prostaciclina inhalada** (alternativa al óxido nítrico) o intravenosa (con cierta estabilidad, baja las RVS; sin alteración importante de la V/Q).
+   - **Bosentán** postoperatorio; ambrisentán y macitentán (menos hepatotóxicos), sin estudios suficientes en niños.
+7. **ECMO venoarterial** en la HTP grave refractaria con compromiso del gasto.
+
+### Fisiología univentricular
+
+- Tras el Glenn, una subida de RVP produce cianosis intensa y estasis con riesgo de trombosis de la conexión. En el Fontan, unas RVP bajas son requisito.
+- Óxido nítrico, milrinona y ventilación con presión media baja o, mejor, espontánea mejoran los resultados. Tras el Fontan con RVP altas, sildenafilo oral y bosentán han mejorado oxigenación, hemodinámica y tolerancia al ejercicio en algunos estudios.

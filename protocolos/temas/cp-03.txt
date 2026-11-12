@@ -1,0 +1,88 @@
+@f TEMAS/CP/3
+*Cuidados críticos del niño con patología cardíaca, cap. 30 (Shock. Síndrome de bajo gasto cardíaco).*
+
+## Concepto y fisiopatología
+
+- **Shock:** aporte de oxígeno a los tejidos insuficiente para sus necesidades → déficit energético celular que, si no se revierte, lleva a fracaso multiorgánico (FMO) y muerte. Casi siempre por fracaso circulatorio (excepcionalmente, incapacidad celular para usar el O~2~: enfermedades mitocondriales, intoxicaciones).
+- Sin O~2~, el piruvato se reduce a lactato (rendimiento energético hasta 18 veces menor): déficit de ATP y acidosis láctica que altera la función enzimática.
+- La perfusión depende del **gasto cardiaco (GC)** y de la **tensión arterial (TA)**:
+  - GC = FC × VL. El VL aumenta con precarga y contractilidad y disminuye con la poscarga.
+  - TA = (FC × VL) × RVS. Las RVS son el principal determinante de la poscarga.
+- Hipotensión y bajo gasto son muy frecuentes en el shock pero **no imprescindibles**: al inicio la TA puede ser normal (compensación) y en el shock distributivo el GC puede ser normal o alto.
+
+## Tipos de shock
+
+- **Distributivo** (↓ RVS): el niño aumenta el GC sobre todo con la FC (poca capacidad de aumentar el VL). Fase compensada: taquicardia, normotensión con TAD baja y diferencial amplio, relleno capilar rápido, piel caliente, pulsos saltones, saturación venosa alta. Causa más frecuente: SIRS (infeccioso; también quemaduras, pancreatitis y **respuesta inflamatoria tras la circulación extracorpórea**). Otros: anafiláctico, neurogénico (hipotensión sin taquicardia).
+- **Hipovolémico** (↓ precarga): taquicardia precoz y universal. Hemorrágico o no hemorrágico (pérdidas renales, digestivas, cutáneas, tercer espacio, fuga capilar en SIRS grave o shock evolucionado).
+- **Obstructivo:** aumento brusco de poscarga (TEP, coartación tras el cierre del ductus) o descenso súbito de precarga (neumotórax a tensión, taponamiento).
+- **Cardiogénico:**
+  - Miopático: miocarditis y **disfunción postclampaje aórtico** (las dos más comunes); isquemia en malformaciones coronarias o cirugías con manipulación coronaria (switch arterial, Ross); cualquier shock grave no revertido.
+  - Arrítmico: ritmos rápidos o lentos; pueden desencadenar o agravar el shock si la función ya está afectada.
+  - Mecánico: lesiones intracardiacas, sobre todo valvulares de instauración brusca (rotura de cuerda tendinosa o músculo papilar tras endocarditis).
+- **El postoperado cardiaco suele combinar mecanismos:** cardiogénico (arritmia, disfunción miocárdica, lesiones residuales), distributivo (SIRS post-CEC) e hipovolémico (sangrado, fuga capilar). Hay que identificar cuál predomina y dirigir la terapia hacia él.
+- **Fases:** compensado (mecanismos compensadores aún eficaces; reconocerlo precozmente es clave) → descompensado (hipotensión, FMO, riesgo de PCR) → irreversible (círculo vicioso; puede aparecer bradicardia sinusal paradójica; evolución fatal aunque se revierta la causa).
+
+## Diagnóstico
+
+Un paciente cardiaco en shock no siempre está en shock cardiogénico y pueden coexistir varios tipos.
+- **Clínica:** taquicardia, taquipnea, vasoconstricción periférica y pulsos débiles (en el distributivo, vasodilatación y pulsos saltones), hipotensión, hepatomegalia (cardiogénico), gradiente térmico central-periférico > 3 °C, diuresis < 1 ml/kg/h.
+- **Gasometría:** acidosis metabólica hiperlactacidémica.
+- **SatvO~2~** (catéter en AD por yugular, subclavia o femoral): GC adecuado si > 70 %, o diferencia arteriovenosa < 30 % en cardiopatía cianógena. En el distributivo puede ser > 80 % (fallo mitocondrial).
+- **Lactato:** normal < 2 mmol/l (18 mg/dl). Elevado en el postoperatorio cardiaco se asocia a alta mortalidad, sobre todo con SatvO~2~ baja; > 4,2 mmol/l (38 mg/dl) se asocia a peor pronóstico.
+- **Troponinas y CPK-MB:** miocarditis; isquemia y lesión miocárdica postoperatoria.
+- **BNP/proBNP:** se elevan en la disfunción ventricular; útiles en el seguimiento postoperatorio.
+- Función renal y hepática (afectadas por el bajo gasto).
+- **Hemoglobina:** > 10 g/dl en cardiopatía acianógena; > 12-14 g/dl en cianógena.
+- Radiografía de tórax (cardiomegalia, edema; descartar neumotórax y derrame), **ECG y auriculograma postoperatorio** (onda P), ecocardiograma (función sistólica y diastólica, FE, respuesta a inotrópicos, GC); cateterismo o TC/RM si se sospechan lesiones residuales con disfunción grave.
+- **Gasto cardiaco:** bajo gasto si **IC < 2 l/min/m²**. Invasivo (termodilución transpulmonar, PiCCO®) o no invasivo (bioimpedancia, NICCOMO®; Doppler transtorácico, USCOM®).
+- **NIRS cerebral y renal/esplácnico:** se correlaciona con la SatvO~2~. Basalmente el renal es un 15-20 % mayor que el cerebral; **el descenso del renal con menor diferencia respecto al cerebral es un indicador precoz de shock.**
+
+## Tratamiento
+
+### Algoritmo del bajo gasto cardiaco postoperatorio
+*Figura 1 del capítulo (adaptado de Jones B, et al. Curr Anaesth Crit Care 2005).*
+
+**Sospecha:** taquicardia, oliguria, mala perfusión periférica, hipotensión; acidosis metabólica; láctico elevado; SatvO~2~ < 70 %.
+1. **Descartar problemas específicos:** vía aérea/ventilación, taponamiento, HTP, arritmias, lesiones residuales, diselectrolitemias.
+2. **Evaluarlos y tratarlos:** ecocardiografía, ECG/auriculograma, intervención quirúrgica o médica.
+3. Valorar sucesivamente:
+
+@ancha
+| Valorar | Hallazgo | Actuación |
+| Precarga (PVC, PAI, compresión hepática) | Baja | Prueba de fluidos 5-10 ml/kg de albúmina 5 % o concentrado de hematíes; revalorar y repetir; considerar el efecto de la VM sobre el retorno venoso |
+| Poscarga del VI | Alta | Vasodilatadores (nitroprusiato); inodilatadores (milrinona); ventilación mecánica |
+| Poscarga del VD | Alta (HTP) | Sedación; FiO~2~ alta, PEEP óptima; óxido nítrico; inodilatadores (milrinona) |
+| Función sistólica | Disminuida | Inotrópicos: dopamina/dobutamina; adrenalina < 0,3 µg/kg/min; levosimendán |
+| Función diastólica | Disminuida | Aumentar precarga; lusitropos (levosimendán); sincronía AV |
+
+4. **Minimizar los efectos del bajo gasto:** diuréticos/diálisis peritoneal, optimizar nutrición, optimizar ventilación.
+5. **Si no mejora, considerar:** hipotermia, tórax abierto, ECMO.
+
+### Precarga
+- Sobre todo en el hipovolémico. Si la compresión hepática aumenta la TA, probablemente hay hipovolemia.
+- Cristaloides o coloides **5-10-20 ml/kg** para PVC 8-12 mmHg.
+- **Sangrado postoperatorio:** si el débito de los drenajes es hemático y **> 5 ml/kg/h**: hemograma y coagulación; concentrado de hematíes, plaquetas y plasma. Si persiste: valorar **ácido tranexámico (40 mg/kg/día)** y **factor VII recombinante activado (40-90 µg/kg)** y avisar a Cirugía Cardiaca para revisión.
+
+### Contractilidad
+Sobre todo en el cardiogénico. Los inotrópicos aumentan el consumo miocárdico de O~2~: titular a la menor dosis eficaz.
+- **Dopamina 5-10 µg/kg/min**, **dobutamina 5-20 µg/kg/min** y **adrenalina 0,05-0,25 µg/kg/min**: a estas dosis aumentan la contractilidad por receptores β sin afectar a los α.
+- **Milrinona 0,25-1 µg/kg/min:** inhibidor de la fosfodiesterasa, inodilatador con vasodilatación sistémica y pulmonar.
+- **Levosimendán 0,2 µg/kg/min durante 24 h** (efecto durante 5 días): sensibilizador del calcio, inodilatador sin apenas consumo de O~2~; lusitrópico.
+- En el shock cardiogénico postoperatorio, descartar y tratar arritmias y lesiones residuales; tras optimizar la precarga, iniciar inotrópicos. Si no mejora, aparece el síndrome de bajo gasto con disfunción multiorgánica. En determinadas cirugías se recomienda **profilaxis del bajo gasto con milrinona**.
+
+**Scores**
+- **IS** = dopamina (µg/kg/min) × 1 + dobutamina (µg/kg/min) × 1 + adrenalina (µg/kg/min) × 100.
+- **VIS** = IS + milrinona (µg/kg/min) × 10 + noradrenalina (µg/kg/min) × 100 + vasopresina (µg/kg/min) × 10.000.
+- **VIS > 20 en las primeras 24 h** del postoperatorio se asocia a peor pronóstico.
+
+! El libro expresa la vasopresina del VIS en «µg/kg/min»; se transcribe tal cual.
+
+### Poscarga
+- RVS altas con GC bajo: **nitroprusiato sódico 0,5-10 µg/kg/min** (poscarga del VI).
+- Poscarga del VD con HTP: **milrinona y óxido nítrico (5-20 ppm)**.
+- Shock distributivo (tono vascular bajo): **noradrenalina 0,05-0,5 µg/kg/min**.
+
+### Otros tratamientos
+- **Corticoides:** shock refractario a fluidos y catecolaminas → **hidrocortisona 50-100 mg/m²/día** ante insuficiencia suprarrenal relativa o síndrome de fuga capilar.
+- **Hipotermia inducida (34-35 °C)** en el shock refractario para reducir el consumo de O~2~.
+- **ECMO** en el shock cardiogénico refractario potencialmente reversible. Criterios de entrada: hipotensión, IC < 2 l/min/m², lactato > 5 mmol/l (> 45 mg/dl) mantenido, SatvO~2~ < 55 %, FE < 30 % en la eco, inotropic score > 50. Si no se puede retirar la ECMO: valorar asistencia ventricular (p. ej., EXCOR® Berlin Heart) como puente al trasplante.

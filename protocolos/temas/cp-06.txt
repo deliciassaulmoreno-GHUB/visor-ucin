@@ -1,0 +1,194 @@
+@f TEMAS/CP/6
+*Cuidados críticos del niño con patología cardíaca, cap. 33 (Endocarditis. Mediastinitis. Profilaxis antibiótica). Entre paréntesis, clase de recomendación y nivel de evidencia de la AHA.*
+
+## Endocarditis infecciosa (EI)
+
+Infección del endocardio y/o válvulas con formación de un trombo (vegetación); bacteriana, vírica o fúngica.
+
+### Factores de riesgo e incidencia
+- La mayoría tiene un factor identificable. Hoy predominan las **cardiopatías congénitas** (35-60 % de los niños con EI; sobre todo cianóticas) y los **catéteres venosos centrales permanentes** (prematuros, oncológicos). Riesgo acumulado hasta los 18 años en CC: 6,1/1.000; mayor en cianóticas, defectos de cojines endocárdicos y lesiones izquierdas, cirugía en los 6 meses previos y edad < 3 años.
+- Incidencia 0,05-0,12/1.000 ingresos. Los materiales sintéticos (conductos, parches, prótesis) y los defectos residuales aumentan el riesgo a largo plazo. EI sin CC (8-10 %): relacionada con catéteres centrales y *S. aureus*, sobre todo mitral o aórtica.
+- **Tras cirugía o dispositivos:** la corrección sin defecto residual de CIV, CIA o DAP elimina el riesgo a los 6 meses, pero la cirugía en sí es un riesgo (vías centrales, nutrición parenteral, hospitalización). El 50 % de las EI en CC tenía cirugía previa (sobre todo *shunts* paliativos o reparaciones complejas). Máximo riesgo: obstrucción al flujo pulmonar y prótesis aórtica. El riesgo es bajo el primer mes, salvo con **prótesis valvulares o conductos y alteración hemodinámica persistente: riesgo alto incluso en las 2 primeras semanas**. Los dispositivos por cateterismo son un riesgo hasta su endotelización.
+- **Neonatos:** 7,3 % de las EI; ligadas a líneas centrales y epicutáneas, a menudo en el corazón derecho; < 1/3 con CC. *S. aureus*, *S. epidermidis*, gramnegativos y *Candida*. Clínica indistinguible de sepsis o insuficiencia cardiaca, con embolias (osteomielitis, meningitis, neumonía) y clínica neurológica (apnea, hemiparesia, convulsiones).
+
+### Patogenia y microbiología
+- Lesión endotelial por flujo turbulento o catéter → trombo no infectado de fibrina y plaquetas → colonización en una bacteriemia transitoria. En el corazón derecho influyen catéteres y dispositivos (rozamiento o insuficiencia tricuspídea). Biofilm en el material protésico: facilita recaídas.
+- Gérmenes (serie de 1.588 ingresos): *S. aureus* 57 %, *S. viridans* 20 %, estafilococo coagulasa negativo (SCoN) 14 %, estreptococo A 3 %, B 2 %, *E. coli* 2 %, neumococo 1 %, *H. influenzae* 1 %.
+- *S. viridans* es el más frecuente tras el primer año y con CC; *S. aureus* el segundo (primero en algunas series y en las formas fulminantes). **EI asociada a catéter, válvula o material protésico: *S. aureus* o SCoN**, implantados en la cirugía, con clínica en los primeros 60 días (SCoN incluso pasado un año). Los gramnegativos dan muchas bacteriemias por catéter pero raramente EI (poca adherencia); en neonatos, considerar *Enterobacter* y *Klebsiella*.
+- **Fúngica:** *Candida* (catéteres, nutrición parenteral con glucosa alta en prematuros); vegetaciones grandes y friables con embolias.
+- **Cultivos negativos (EICN):** 5-7 % (8-36 % en series recientes): antibióticos previos (incluso orales), técnica inadecuada, gérmenes de crecimiento difícil (*Abiotrophia*, *Granulicatella*, HACEK), hongos, EI derecha, endocarditis marántica, *Bartonella*, *Coxiella*, *Brucella*, etc.
+
+### Clínica
+- **Subaguda:** fiebre de bajo grado prolongada, astenia, sudoración, artralgias, pérdida de peso, glomerulonefritis (*S. viridans*, SCoN).
+- **Aguda:** progresión rápida, fiebre en picos (*S. aureus*, neumococo).
+- Soplo nuevo o cambiante; insuficiencia cardiaca por perforación valvular, rotura de cuerdas o disfunción ventricular. **En cianóticos con *shunt*: descenso de la SatO~2~ por obstrucción del shunt, sin cambios del soplo.**
+- Fenómenos inmunológicos (glomerulonefritis; raros en niños: nódulos de Osler, lesiones de Janeway, manchas de Roth). **Embolias sépticas frecuentes** (osteomielitis, neumonía, ictus, convulsiones, embolias renales, digestivas, pulmonares o de extremidades).
+
+### Diagnóstico (criterios de Duke modificados)
+
+*Tabla I. Diagnóstico.*
+- **EI definitiva:** criterio patológico (microorganismos por cultivo o histología en una vegetación, émbolo o absceso; o vegetación/absceso con EI activa confirmada histológicamente) **o** criterios clínicos: **2 mayores, 1 mayor + 3 menores, o 5 menores**.
+- **EI posible:** hallazgos que se aproximan a «definitiva» sin cumplir los de «rechazada».
+- **EI rechazada:** diagnóstico alternativo; resolución con ≤ 4 días de antibiótico; sin evidencia patológica en cirugía o autopsia tras ≤ 4 días de antibiótico.
+
+*Tabla II. Definiciones.*
+- **Mayores**
+  1. Hemocultivo positivo: germen típico en ≥ 2 hemocultivos (*S. viridans*, *S. bovis*, HACEK; *S. aureus* comunitario o enterococo sin foco primario); o bacteriemia persistente (≥ 2 positivos separados 12 h; 3, o la mayoría de ≥ 4, independientemente del tiempo); o 1 hemocultivo de *Coxiella burnetii* o IgG antifase I > 1:800.
+  2. Afectación endocárdica: ecocardiograma positivo (masa oscilante sobre válvula, estructura de soporte, trayecto de un chorro o material implantado; absceso; dehiscencia parcial nueva de prótesis); o nueva regurgitación valvular (el cambio de un soplo previo no basta). ETE recomendada en prótesis con EI al menos «posible» o EI complicada; en el resto basta ETT.
+- **Menores:** predisposición (cardiopatía o drogas IV); fiebre ≥ 38 °C; fenómenos vasculares (émbolos arteriales, infartos pulmonares sépticos, aneurismas micóticos, hemorragia intracraneal, hemorragias conjuntivales, Janeway); fenómenos inmunológicos (glomerulonefritis, Roth, Osler, factor reumatoide); evidencia microbiológica que no cumple el criterio mayor o serología compatible.
+- Se excluye un hemocultivo único de SCoN y gérmenes que no causan EI. Para algunos autores, la bacteriemia por *S. aureus* solo debería ser criterio mayor si persiste tras retirar el catéter.
+
+**Hemocultivos**
+- En toda fiebre inexplicada con soplo patológico, cardiopatía o EI previa (I-B).
+- Mínimo 3, de venopunciones separadas, en las primeras 24 h; +2 en las 24 h siguientes si no crece nada (IIa-B). Si está estable y negativos o con probables contaminantes, razonable esperar 48 h más sin antibiótico (IIa-C). Raramente > 5 (salvo antibiótico en las 2 semanas previas). No hace falta coincidir con el pico febril.
+- Volumen: 1-3 ml en lactantes y niños pequeños, 5-7 ml en mayores (ideal 10-20 ml); con poca muestra, priorizar aerobios.
+- **Inestable hemodinámicamente:** 3 venopunciones en < 1 h e iniciar antibiótico empírico (I-C). No aporta cultivar sangre arterial.
+- EICN con < 4 días de antibiótico: suspenderlo unos días y recultivar (IIa-C). PCR/NAAT en muestras quirúrgicas con microbiología (I-C). Determinar la CMI (I-B).
+
+**Ecocardiografía** en toda sospecha razonable (sobre todo cardiopatía previa, catéter central permanente, material protésico, bacteriemia persistente o germen típico). Valora vegetación, afectación valvular y perivalvular, **obstrucción del shunt**, función ventricular y derrame; repetirla durante y al final del tratamiento.
+- **ETE si:** > 10 años o > 60 kg, enfermedad respiratoria importante, **CC reparada con parches o material protésico y postoperatorio inmediato** (mala ventana), alteraciones de la pared torácica (I-B), pectus, EI aórtica (raíz) (IIa-C). ETT y ETE pueden ser falsamente negativas si la vegetación es pequeña o ya embolizó.
+
+**Otros:** anemia, leucocitosis (inconstante), trombopenia (neonatos), VSG/PCR elevadas, hematuria/proteinuria, hipocomplementemia, factor reumatoide. **ECG: PR largo o bloqueo AV indican extensión perianular (complicación grave).** Radiografía: cardiomegalia, infiltrados por émbolos sépticos.
+
+### Complicaciones
+- **Riesgo alto:** prótesis valvulares, EI izquierda, EI fúngica o por *S. aureus*, EI previa, síntomas ≥ 3 meses, cardiopatía cianógena, **shunt sistémico-pulmonar**, mala respuesta antibiótica. Además: tamaño y localización de la vegetación, bloqueo AV de inicio brusco, tipo de germen, EI sobre corazón normal, edad < 2 años.
+- **Cardiacas:** la más frecuente es la **insuficiencia cardiaca** (regurgitación valvular sobre disfunción ventricular): la cirugía urgente en insuficiencia moderada-grave mejora la supervivencia; la gravedad no contraindica la cirugía (I-B). Perforación valvular, rotura de cuerda o de seno de Valsalva, fugas perivalvulares, dehiscencia protésica, fístulas y abscesos (arritmias, bloqueo AV), **obstrucción de shunts o conductos protésicos** (requiere cirugía).
+- **Extracardiacas:** embolias sépticas e infartos; aneurismas micóticos (sobre todo cerebrales; cirugía IIb-B); complicaciones neurológicas hasta en el 30 % (ictus 6 %, hasta 11 % con CC); glomerulonefritis.
+
+### Tratamiento
+- Tras los hemocultivos, antibiótico empírico ajustado al resultado. **Al menos 4 semanas, frecuentemente 6-8** (I-B). Bactericidas (I-A), **IV y no IM** en niños (I-C). Consultar con microbiología e infecciosas.
+- Hemocultivos diarios hasta negativizarse (*S. aureus* puede persistir 3-5 días con β-lactámicos y 5-10 con vancomicina; difícil de controlar sin retirar el dispositivo endovascular).
+- **Gentamicina** (3-6 mg/kg/día c/8 h): niveles al menos semanales, pico 3-4 µg/ml y valle < 1 µg/ml (IIa-B); en algunos gramnegativos hasta 7,5 mg/kg/día (pico 5-10, valle < 1,5 µg/ml). No hay experiencia suficiente con monodosis en EI (III-C).
+- **Vancomicina:** inicio 40-60 mg/kg/día; monitorizar solo el valle, **10-15 µg/ml** (15-20 µg/ml en MRSA con CIM > 1 µg/ml o mala respuesta). Ajustes más frecuentes en insuficiencia renal (I-B).
+- Tratamiento domiciliario solo en casos seleccionados (afebril, estable, hemocultivos negativos, sin riesgo alto de complicaciones) (IIb-C).
+- rTPA asociado a antibiótico: serie única de 32 niños con resolución rápida de vegetaciones; no estandarizado.
+
+*Duración (Tabla III; AHA 2015).*
+| Situación | Duración |
+| Estreptococo muy sensible (CIM penicilina ≤ 0,1 µg/ml), válvula nativa | 4 semanas |
+| Estreptococo relativamente resistente (CIM ≥ 0,2 µg/ml), válvula nativa | 4 semanas |
+| *S. viridans* o *S. bovis*, material protésico | 6 semanas |
+| Estafilococo sensible a oxacilina, válvula nativa | 4-6 semanas |
+| Estafilococo resistente a oxacilina, válvula nativa | 6 semanas |
+| Estafilococo, válvula protésica | ≥ 6 semanas |
+| Enterococo, válvula nativa o protésica | 4-6 semanas |
+| Enterococo tratado con vancomicina | 6 semanas |
+| HACEK | 4 semanas |
+| EICN válvula nativa / protésica | 4-6 / 6 semanas |
+| Gramnegativos entéricos | ≥ 6 semanas |
+
+**Pautas antibióticas** *(Tablas IV-X; AHA 2015, consenso de expertos IIa-C; no aplicables a neonatos y lactantes; dosis para función renal normal; no superar la dosis máxima del adulto).*
+
+@ancha
+| Situación | Pauta | Alternativa |
+| **Empírico / EICN:** válvula nativa comunitaria o EVP tardía (> 1 año) | Ampicilina-sulbactam + gentamicina ± vancomicina; si EVP, añadir rifampicina | Vancomicina + gentamicina |
+| **Empírico:** EI nosocomial por catéter o EVP precoz (< 1 año) | Vancomicina + gentamicina ± rifampicina (si material protésico) + cefepima o ceftazidima | |
+| Estreptococo muy sensible (CIM ≤ 0,1): mayoría de *S. viridans*, grupos A, B, C, G, D | Penicilina G o ceftriaxona | Vancomicina o cefazolina o ceftriaxona |
+| Estreptococo relativamente resistente (CIM ≥ 0,2): enterococo, *S. viridans* menos sensible | Penicilina G o ampicilina + gentamicina (2 primeras semanas; si enterococo, todo el tratamiento) | Vancomicina + gentamicina (enterococo); ampicilina + ceftriaxona (enterococo resistente o intolerancia a aminoglucósidos); ceftriaxona + gentamicina (no en enterococo) |
+| Estafilococo sensible a penicilina (raro) | Penicilina G | Oxacilina/nafcilina o cefazolina o vancomicina |
+| Estafilococo resistente a penicilina | Oxacilina o nafcilina ± gentamicina (3-5 días) | Vancomicina (alergia grave a β-lactámicos) o cefazolina |
+| MRSA (CIM oxacilina > 4) | Vancomicina | Daptomicina (EI derecha; puede servir en izquierda) |
+| Resistente o intolerante a vancomicina | Daptomicina | |
+| **Cualquier estafilococo con material protésico** | Añadir **rifampicina + gentamicina (2 primeras semanas)**. En prótesis infectada por *S. aureus* es preferible el recambio valvular (IIb-C) | |
+| Bacilo gramnegativo entérico | Ceftazidima o cefepima o cefotaxima o ceftriaxona + gentamicina (o tobramicina o amikacina según sensibilidad) | Piperacilina-tazobactam + aminoglucósido |
+| HACEK | Ceftriaxona o cefotaxima o ampicilina-sulbactam | Ampicilina (si sensible) + aminoglucósido |
+| *Candida* / *Aspergillus* | **Cirugía** + anfotericina B ± flucitosina | Si no es posible la cirugía: anfotericina B seguida de supresión con imidazólicos (fluconazol, itraconazol, voriconazol) |
+
+*Dosis de las tablas.*
+@ancha
+| Fármaco | Dosis |
+| Ampicilina-sulbactam | 200-300 mg/kg/día IV c/4-6 h (hasta 12 g/día) |
+| Ampicilina | 200-300 mg/kg/día IV c/4-6 h (hasta 12 g/día) |
+| Penicilina G | 200.000-300.000 U/kg/día IV c/4 h (hasta 12-24 millones U/día) |
+| Oxacilina o nafcilina | 200 mg/kg/día IV c/4-6 h (hasta 12 g/día) |
+| Cefazolina | 100 mg/kg/día IV c/8 h (máx. 12 g/día) |
+| Ceftriaxona | 100 mg/kg/día IV c/12 h u 80 mg/kg/día c/24 h (máx. 4 g/día; si > 2 g/día, c/12 h) |
+| Cefotaxima | 200 mg/kg/día IV c/6 h (hasta 12 g/día) |
+| Ceftazidima | 100-150 mg/kg/día IV c/8 h (hasta 2-4 g/día) |
+| Cefepima | 100-150 mg/kg/día IV c/8-12 h (hasta 6 g/día) |
+| Piperacilina-tazobactam | 240 mg/kg/día IV c/8 h (hasta 18 g/día) |
+| Vancomicina | 60 mg/kg/día IV c/6 h (hasta 2 g/día) en la pauta empírica; 40 mg/kg/día IV c/8-12 h (máx. 2 g/día) en las alternativas |
+| Gentamicina / tobramicina | 3-6 mg/kg/día IV c/8 h |
+| Amikacina | 15 mg/kg/día IV c/8-12 h |
+| Rifampicina | 15-20 mg/kg/día IV c/12 h (hasta 600 mg/día); en EVP precoz/nosocomial **20 mg/kg/día IV c/8 h (hasta 900 mg/día)** |
+| Daptomicina | 6 mg/kg/día IV; < 6 años: 10 mg/kg/día IV |
+| Anfotericina B | 1 mg/kg/día IV en 3-4 h (liposomal o lipídica: 3-5 mg/kg/día en dosis única) |
+| Flucitosina | 150 mg/kg/día VO c/6 h |
+
+! El libro da para la vancomicina 60 mg/kg/día c/6 h en la Tabla IV, 40 mg/kg/día c/8-12 h en las Tablas V, VI y X, y «40-60 mg/kg/día» en el texto; se transcriben las tres tal como aparecen. La Tabla VII escribe «Tobramicna».
+
+*Tabla X. EICN (consultar con infecciosas).*
+@ancha
+| Situación | Pauta y duración | Clase |
+| Válvula nativa | Ampicilina-sulbactam 300 mg/kg/día IV c/4-6 h (máx. 12 g/día) 4-6 sem + gentamicina 3 mg/kg/día IV c/8 h 4-6 sem // **o** (solo si no tolera penicilinas) vancomicina 40 mg/kg/día IV c/8-12 h (máx. 2 g/día) + gentamicina + ciprofloxacino 20-30 mg/kg/día IV o VO c/12 h (máx. 800 mg/día IV o 1.500 mg/día VO), 4-6 sem | IIb/C |
+| Válvula protésica precoz (< 1 año) | Vancomicina 6 sem + gentamicina 2 sem + cefepima 150 mg/kg/día IV c/8 h (máx. 6 g/día) 6 sem + rifampicina 20 mg/kg/día VO o IV c/8 h (máx. 900 mg/día) 6 sem | IIb/C |
+| Válvula protésica tardía (> 1 año) | Régimen similar a la válvula nativa, 6 sem | IIb/C |
+| Sospecha de *Bartonella* | Ceftriaxona 100 mg/kg/día IV o IM monodosis (máx. 2 g/día) 6 sem + gentamicina 3 mg/kg/día c/8 h 2 sem ± doxiciclina 2-4 mg/kg/día IV o VO c/12 h (máx. 200 mg/día) 6 sem | IIa/B |
+| *Bartonella* confirmada (no por hemocultivo) | Doxiciclina 6 sem + gentamicina 2 sem; si no es posible la gentamicina, rifampicina 20 mg/kg/día IV o VO c/12 h (máx. 600 mg/día) | IIa/B |
+
+**Gramnegativos no HACEK** (*E. coli*, *Pseudomonas*, *Serratia*): raros, nosocomiales; penicilina o cefalosporina de espectro ampliado + aminoglucósido ≥ 6 semanas, con microbiología (I-C).
+
+### Cirugía
+Indicaciones más frecuentes (extrapoladas del adulto): **insuficiencia cardiaca congestiva, disfunción valvular progresiva, fenómenos embólicos**. No hay datos para la cirugía profiláctica de una embolia primaria (III-C). Mayor riesgo embólico: lesiones izquierdas, sobre todo valva anterior mitral y con *S. aureus*. Cirugía precoz también en: extensión perivalvular, EI fúngica, bacteriemia persistente pese a antibiótico adecuado, prótesis inestable, rotura de seno de Valsalva, aneurisma micótico o del septo.
+
+**Mortalidad:** 5-10 % (48 % en tetralogía de Fallot con atresia pulmonar; 8 % con prótesis). Factores: prematuridad, cianosis, *S. aureus*.
+
+### Prevención (profilaxis de EI)
+Higiene oral. Profilaxis antibiótica antes de procedimientos dentales de riesgo solo en el riesgo más alto (AHA, IIb-C):
+- Válvula reparada con material protésico o prótesis valvular.
+- EI previa.
+- CC cianógena no reparada.
+- CC reparada con material protésico o dispositivo, **durante los 6 primeros meses**.
+- CC reparada con defecto residual en o junto a un parche o dispositivo protésico.
+- Trasplante cardiaco con valvulopatía.
+
+## Mediastinitis
+
+- La cirugía cardiotorácica es su causa más frecuente. Infección quirúrgica tras cirugía cardiaca pediátrica 0,5-10 %; mediastinitis 0,2-2 % (más con asistencia ventricular o trasplante; más en < 1 año y varones).
+- **Clasificación de Robicsek:** tipo 1, sin necrosis (apertura, limpieza, drenajes, cierre primario con estabilización esternal); tipo 2, con necrosis (tórax abierto varios días, desbridamientos repetidos, cierre secundario); tipo 3, cronificada (desbridamientos seriados y colgajos).
+- **Factores de riesgo:**
+  - Preoperatorios: colonización por gérmenes resistentes.
+  - Intraoperatorios: CEC > 105 min, clampaje > 85 min, alteración de la irrigación (mamarias internas, distractores), reesternotomías, electrocauterio excesivo.
+  - Postoperatorios: **cierre esternal diferido**, reintervención en los primeros 4-5 días, ECMO, > 3 transfusiones, dehiscencia precoz, masaje cardiaco, estancia prolongada en UCI, **cables de marcapasos > 3 días** (retirarlos a las 48 h si no se han necesitado).
+  - Del huésped: neonatos, estado inmunológico y nutricional, síndromes genéticos, ASA > 3.
+- **Microbiología:** hemocultivo positivo hasta en el 50 %; monomicrobiana hasta en el 80 %. *S. aureus* sensible 45 %, MRSA 16 % (nosocomial), SCoN 13 %, gramnegativos (*Pseudomonas*, *Enterobacter*) 17 % (hasta un tercio en niños), estreptococos 5 %.
+- **Clínica:** generalmente en las 2 primeras semanas (puede retrasarse meses). Taquicardia e inestabilidad como signos precoces; fiebre (puede quedar enmascarada por mantas térmicas); signos en la herida, supuración en la incisión, drenajes o cables, esternón inestable (tardíos).
+- **Diagnóstico:**
+  - Clínico: fiebre, taquicardia, inestabilidad esternal, celulitis o supuración.
+  - Laboratorio: leucocitosis (inconstante en niños), PCR.
+  - Imagen: el ensanchamiento mediastínico en la radiografía es inespecífico. En la TC, líquido libre y neumomediastino: especificidad del 33 % en los primeros 14 días; **hacer la TC al menos 2 semanas tras la cirugía**.
+  - Definitivo: quirúrgico (pus).
+  - Microbiológico: la bacteriemia o sepsis postoperatoria debe hacer pensar en mediastinitis. Cultivo de cables epicárdicos (VPP 12 %, VPN 99 %); cultivos profundos (punción retroesternal, desbridamiento); los superficiales son poco útiles.
+- **Tratamiento quirúrgico** (esencial, en quirófano): desbridamiento hasta hueso vascularizado y luego:
+  - Cierre primario precoz con drenajes (buenos resultados en niños). La irrigación con antisépticos ha perdido aceptación (toxicidad, yodo, resistencias).
+  - Si no es posible, herida abierta y cierre secundario: gasas impregnadas o **terapia de presión negativa (VAC)**, que en niños se inicia con unos −50 mmHg (−125 mmHg en el adulto).
+  - Menos frecuente en niños: placas reabsorbibles ± colgajo muscular.
+- **Antibioterapia:** empírica de amplio espectro según flora local y colonización: grampositivos incluidos MRSA y SCoN (vancomicina o teicoplanina) + gramnegativos incluida *Pseudomonas* (piperacilina-tazobactam, ceftazidima o carbapenem ± aminoglucósido o quinolona). Ajustar a los cultivos mediastínicos. Duración **4-6 semanas** (como una osteomielitis).
+- **Complicaciones:** sepsis/shock séptico (la más frecuente), recurrencias, infección de material protésico (presente hasta en el 88 % de los niños con mediastinitis), mediastinitis fibrosante.
+- **Prevención:** lavados preoperatorios con clorhexidina, profilaxis adecuada a la colonización, asepsia, **retirada precoz de drenajes y cables de marcapasos**.
+
+## Profilaxis antibiótica en cirugía cardiaca
+
+*Tabla XI. Factores de riesgo de infección de la zona quirúrgica:* infección previa; menor edad (neonatos, lactantes) y peso; procedimiento largo (más CEC); transfusión intraoperatoria; apertura esternal; reintervención exploradora; procedimientos de emergencia en el postoperatorio inmediato; estancia larga en UCI.
+
+- Gérmenes: grampositivos aprox. 2/3 (SCoN, *S. aureus*; raros *Corynebacterium*, *Propionibacterium*); gramnegativos aprox. 20 %. Riesgo de MRSA: colonización/infección previa; neonatos y lactantes < 3 meses ingresados desde el nacimiento o con CC compleja.
+- **Indicaciones:** cirugía correctora o paliativa de CC; dispositivos intracardiacos (marcapasos, DAI, resincronizadores); cateterismo terapéutico (atrioseptostomía, angioplastias, valvuloplastias, stents); cirugía valvular; pericardiocentesis.
+- **Pauta:** dosis IV de **cefazolina** (o cefuroxima) **60 min antes de la incisión**. Alergia a β-lactámicos: vancomicina (90-120 min antes) o clindamicina. **Colonización por MRSA: vancomicina** (y valorar mupirocina intranasal 5 días antes). Centros con gramnegativos frecuentes: vancomicina + cefazolina/cefuroxima o aminoglucósido (si alergia).
+- **Redosificar** si la cirugía dura más de 2 vidas medias o hay sangrado > 10-20 ml/kg (no siempre necesario en insuficiencia renal o hepática).
+- **Duración:** dosis única o < 24 h; las 48 h en cirugía cardiaca se aceptan sin evidencia. No hay evidencia para mantenerla hasta retirar drenajes o catéteres, ni hasta el cierre esternal en el tórax abierto. No se recomiendan antibióticos tópicos esternales de rutina.
+- Eliminar focos dentales ≥ 2 semanas antes de implantar prótesis o material intracardiaco (salvo urgencia).
+- **ECMO:** misma pauta; cubrir gérmenes de colonizaciones o infecciones previas.
+- **Asistencia ventricular:** gran variabilidad (1-4 fármacos, incluidos vancomicina y fluconazol; 24-72 h).
+- **Trasplante:** cefazolina o cefuroxima (clindamicina o vancomicina si alergia; vancomicina si MRSA; aminoglucósido si gramnegativos frecuentes), 24-48 h; si colonización o infección previa, cobertura dirigida.
+- **No** indicada en cateterismo diagnóstico ni en ETE.
+
+*Tabla XII. Dosis profilácticas.*
+| Antibiótico | Dosis | Vida media |
+| Cefazolina | 30 mg/kg | 1,2-2,2 h |
+| Cefuroxima | 50 mg/kg | 1-2 h |
+| Vancomicina | 10-15 mg/kg | 4-8 h |
+| Clindamicina | 10 mg/kg | 2-4 h |
+| Gentamicina | 2,5 mg/kg | 2-3 h |
+| Aztreonam | 30 mg/kg | 1,3-2,4 h |
+| Ciprofloxacino | 10 mg/kg | 3-7 h |
+| Levofloxacino | 10 mg/kg | 6-8 h |

@@ -1,0 +1,53 @@
+@f TEMAS/CP/8
+*Cuidados críticos del niño con patología cardíaca, cap. 35 (Complicaciones gastrointestinales: enteropatía pierdeproteínas. Síndrome postcoartectomía).*
+
+## Síndrome postcoartectomía
+
+- Complicación de la reparación quirúrgica de la coartación de aorta (descrito por Sealy en 1953): **dolor abdominal asociado a HTA postoperatoria persistente**. Incidencia aprox. 20 % en 1965; hoy poco frecuente.
+- **Clínica:** dolor abdominal intenso con HTA, fiebre, vómitos, íleo, melenas y leucocitosis; en casos graves, **infarto mesentérico**. Aparece hacia las **48 h** de la cirugía; probablemente más frecuente en adultos y niños mayores.
+- **Mecanismo propuesto:** aumento súbito de la presión por debajo de la coartación al llegar bruscamente flujo pulsátil → **arteritis necrotizante** de las pequeñas arterias del mesenterio e intestino delgado.
+- **HTA paradójica** postoperatoria (frecuente, sobre todo en lactantes): componente temprano sistólico que se resuelve en aprox. 48 h y otro tardío sistólico y diastólico más persistente. Mediada por activación simpática (disrupción de aferentes y mecanorreceptores aórticos con la manipulación quirúrgica) y del sistema renina-angiotensina. **La angioplastia con balón no produce HTA paradójica.**
+- **Prevención:** β-bloqueantes y tratamiento antihipertensivo agresivo en el postoperatorio; **retrasar la alimentación 48 h tras la cirugía**.
+- **Tratamiento sintomático:** aspiración por sonda nasogástrica, líquidos IV, después alimentación enteral, y control adecuado de la presión arterial.
+
+! El manejo de la HTA tras la coartectomía (objetivos, fármacos) está en la pestaña «Hipertensión arterial» de esta misma sección.
+
+## Enteropatía pierdeproteínas (EPP) tras Fontan
+
+- Pérdida intestinal excesiva de proteínas con hipoalbuminemia y edemas. Puede deberse a daño mucoso, aumento de la presión linfática intestinal (incluida PVC alta: insuficiencia cardiaca, pericarditis constrictiva) o, como aquí, **tras la cirugía de Fontan**.
+- **Prevalencia:** 3-18 % de los Fontan a lo largo de la vida (existe EPP subclínica). Sin factores de riesgo conocidos; aparece semanas o años después (**media 3,5 años**): complicación sobre todo a largo plazo.
+- **Mortalidad:** históricamente 45-50 % a los 5 años; en series recientes 12-28 % a los 5 y 10 años. Peor supervivencia con **presión en el Fontan > 15 mmHg, FE < 55 % y NYHA > II** al diagnóstico. Causas de muerte: insuficiencia cardiaca, hipocalcemia, tromboembolismo, arritmias, infecciones/sepsis (hipogammaglobulinemia).
+
+**Fisiopatología** (no aclarada; hipótesis multifactorial): bajo gasto crónico → hipoperfusión mucosa y aumento de resistencias mesentéricas, más congestión venosa → disfunción del enterocito con pérdida de heparán sulfato y sindecano-1 (función de barrera), agravada por inflamación, PVC alta e infecciones intercurrentes (desencadenantes y recaídas); posible predisposición genética.
+
+**Clínica** (inicio sutil, a menudo 2-3 semanas tras una infección viral; remisiones y recaídas):
+- ↓ presión oncótica: edemas, derrames pleurales y pericárdicos, ascitis, hipovolemia relativa.
+- Mal drenaje linfático intestinal: dolor y distensión abdominal, diarrea, esteatorrea, malabsorción, desnutrición y retraso pondoestatural.
+- Pérdida de inmunoglobulinas y linfocitos: infecciones.
+- Pérdida de proteínas de la coagulación: hipercoagulabilidad.
+
+**Diagnóstico**
+- Albúmina < 3,5 g/dl y proteínas < 6-6,3 g/dl, descartando otras causas (síndrome nefrótico, insuficiencia hepática, EII, neoplasias).
+- α-1 antitripsina fecal de 24 h aumentada (patológica > 27 ml/24 h sin diarrea, > 54 ml/24 h con diarrea o concentración > 54 mg/dl).
+- Linfopenia, hipocalcemia.
+- **Ecocardiografía, ECG, Holter y estudio hemodinámico** en todos, para descartar causas mecánicas reversibles: obstrucción del conducto de Fontan (tratamiento percutáneo o quirúrgico), insuficiencia AV significativa (plastia o prótesis), obstrucción del tracto de salida o del arco (percutáneo/quirúrgico), colaterales aortopulmonares (cierre percutáneo). Las presiones en estos pacientes no suelen ser mayores que en los Fontan sin EPP.
+
+**Tratamiento** (sin protocolo de eficacia demostrada; según gravedad)
+- **Hipoproteinemia:**
+  - Diuréticos con cuidado (hipovolemia relativa): **furosemida 1 mg/kg/día + espironolactona 2-4 mg/kg/día** (esta también antiinflamatoria; casos con buena evolución a dosis altas).
+  - Dieta hiperproteica (1,5-3 g/kg/día), pobre en grasas (< 25 % de las calorías), rica en MCT y pobre en sodio. Fórmulas elementales o nutrición parenteral si la afectación digestiva es importante.
+  - En diarrea aguda con gran pérdida proteica: **albúmina 20 % 0,5-1 g/kg** con furosemida.
+- **Mucosa intestinal:**
+  - Corticoides orales: **budesonida 3-9 mg/día o prednisona 1-2 mg/kg/día, 14-21 días** (no por vía rectal; retirada difícil por recaídas).
+  - **Heparina no fraccionada** como estabilizador de membrana (las HBPM son ineficaces): 100 UI/kg o 5.000 UI/m²/día SC diaria, semanas a meses.
+  - Octreótido (reduce el flujo linfático): no como terapia inicial; siempre asociado a tratamiento de la mucosa y cardiovascular.
+  - Suplementos de calcio (casos con recuperación de la albúmina).
+- **Función cardiovascular:**
+  - Presión en el Fontan > 15 mmHg: vasodilatadores pulmonares: **sildenafilo 0,5-1 mg/kg/dosis c/8 h VO**; **bosentán** < 10 kg 15,6 mg/12 h, 10-20 kg 31,25 mg/12 h, 20-40 kg 62,5 mg/12 h, > 40 kg 125 mg/12 h (empezar a mitad de dosis las primeras 4 semanas y vigilar enzimas hepáticas); prostaciclinas inhaladas (menos hipotensión, requieren gran adherencia).
+  - **Fenestración** de 4-5 mm (percutánea o quirúrgica): mejora el gasto a costa de SatO~2~ 80-85 % y riesgo de embolia paradójica (precisa anticoagulación). Normalización proteica a las 4-8 semanas.
+  - Alteraciones del ritmo: disfunción sinusal → marcapasos auricular; taquiarritmias → ablación o antiarrítmicos; bloqueo AV → marcapasos secuencial (buena sincronía AV).
+  - Fontan intracardiaco con gran dilatación auricular (sobre todo con arritmias): conversión a extracardiaco.
+  - Disfunción sistólica (FE < 55 %): IECA, ARA II, espironolactona, digoxina.
+- **Trasplante cardiaco** en refractarios (peores resultados por malnutrición e inmunodeficiencia; tras el primer año la supervivencia se iguala). La EPP suele desaparecer a los 3-6 meses del trasplante.
+
+! El capítulo del libro solo trata estas dos entidades como complicaciones digestivas. La nutrición del cardiópata figura en «Paciente con cardiopatía → Manejo hidroelectrolítico y nutrición».

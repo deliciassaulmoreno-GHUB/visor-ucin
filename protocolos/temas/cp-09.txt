@@ -1,0 +1,85 @@
+@f TEMAS/CP/9
+*Cuidados críticos del niño con patología cardíaca, cap. 36 (Daño renal agudo. Diálisis peritoneal. Hemodiafiltración venovenosa continua).*
+
+## Daño renal agudo (DRA)
+
+- Todo cardiópata tiene riesgo (síndrome cardiorrenal). El DRA **aumenta la mortalidad** en el postoperatorio cardiaco pediátrico.
+- **Incidencia:** 20-42 % tras cirugía con CEC (criterios pRIFLE o AKIN). Necesidad de depuración extrarrenal 1-17 %, según la complejidad.
+- **Fisiopatología:**
+  - Preoperatoria: el bajo gasto activa factores neurohumorales (angiotensina, catecolaminas, vasopresina) → vasoconstricción renal, retención hidrosalina, oliguria; la sobrecarga y las presiones de llenado altas producen congestión renal (círculo vicioso).
+  - Intraoperatoria: isquemia-reperfusión, pérdida de pulsatilidad, inflamación por el circuito y los hemoderivados.
+  - Postoperatoria: inestabilidad hemodinámica, sangrado, sepsis, **nefrotóxicos** (aminoglucósidos, AINE, abuso de diuréticos).
+- **Factores de riesgo:** complejidad (RACHS-1), **CEC > 2 h**, clampaje aórtico prolongado, **edad < 2 años** (el filtrado máximo no se alcanza hasta los 2 años).
+
+*Tabla I. Clasificación del DRA (European Renal Best Practice, 2012). Basta un criterio.*
+@ancha
+| Estadio | Creatinina | Diuresis |
+| 1 | ×1,5-1,9 la basal, o aumento > 0,3 mg/dl (26,5 µmol/l) | < 0,5 ml/kg/h en 6 h |
+| 2 | ×2-2,9 la basal | < 0,5 ml/kg/h en 2 bloques de 6 h |
+| 3 | ×3 la basal, o creatinina 4 mg/dl (353 µmol/l), o inicio de tratamiento renal sustitutivo | < 0,3 ml/kg/h en 24 h, o anuria > 12 h |
+
+**Prevención:** ningún fármaco ha demostrado proteger (p. ej., aminofilina). Evitar nefrotóxicos y contrastes antes de la cirugía; después, **TA suficiente para la perfusión renal, evitar la sobrecarga de volumen y uso precoz de las técnicas de sustitución renal**.
+
+## Tratamiento sustitutivo renal
+
+- Indicado en el postoperatorio cardiaco ante DRA y/o sobrecarga de volumen, sin un umbral de creatinina, estadio o porcentaje de sobrecarga claramente definido.
+- **Diálisis peritoneal (DP):** de elección en el **periodo neonatal**; sencilla, sin heparinización, bien tolerada en inestables. En cirugías con riesgo de ascitis o síndrome compartimental abdominal, el cirujano puede dejar un catéter peritoneal (drenaje pasivo y diálisis si se necesita). Inconvenientes: **balance negativo no programable** e ineficacia con baja perfusión peritoneal.
+- **Técnicas continuas (TDEC):** hoy preferidas en pediatría (aún no totalmente adaptadas al neonato). Intensidad y balance programables de forma continua; permiten no restringir infusiones y nutrir adecuadamente; con **citrato** se pueden usar con riesgo de sangrado.
+
+### Protocolo de diálisis peritoneal
+- **Catéter:** agudos temporales por Seldinger percutáneo en la unidad (inicio rápido), o Tenckhoff (percutáneo, laparoscópico o quirúrgico, incluso en la cirugía cardiaca; menos fugas y obstrucciones). Con coagulopatía grave, colocación quirúrgica.
+- **Pases de lavado** de 10-20 ml/kg (permeabilidad, color del líquido, tolerancia).
+- **Programación de inicio:**
+  - Volumen: 10-20 ml/kg; aumentar según tolerancia hemodinámica y respiratoria hasta 600-800 ml/m² en < 2 años y 800-1.200 ml/m² en > 2 años (hasta 45-50 ml/kg en el lactante y 30-35 ml/kg en el adolescente). Puede guiarse por la presión intraperitoneal (10-14 cmH~2~O).
+  - Infusión en 5-10 min a caída libre; permanencia 30-40 min (en DP aguda se prefieren permanencias cortas; hasta 15 min en neonatos); drenaje aprox. 15 min (10-20 min si el catéter funciona bien).
+  - **Solución:** glucosa 1,5 % (2,5 % si gran sobrecarga), tampón bicarbonato o bicarbonato-lactato, K 3-4 mmol/l si no hay hiperpotasemia, **heparina sódica 500 UI/l** hasta que el líquido sea claro (vigilar coagulación en RN y lactantes pequeños). Infundir a temperatura corporal.
+- **Adecuación:** más difusión → recambios rápidos y volúmenes mayores; más ultrafiltración → más glucosa, recambios más frecuentes, más volumen si es posible. Las permanencias largas reducen la ultrafiltración pero depuran mejor creatinina y fósforo.
+- **Monitorización:** balance de cada ciclo y del paciente cada 8 h; gasometría, glucemia y electrolitos en las primeras horas y luego diarios.
+- **Complicaciones:** del catéter (perforación intestinal, vesical u otra víscera; hemoperitoneo; fuga); de la técnica (dolor, mala tolerancia hemodinámica o respiratoria, hidrotórax, hernias, alteraciones electrolíticas, hiperglucemia, peritonitis).
+
+### Hemodiafiltración venovenosa continua (TDEC)
+- **Acceso:** ecoguiado. Femoral la más usada (menos complicaciones al canalizar, más trombosis y disfunción); yugular (menos trombosis, peor fijación); subclavia (mejor fijación, más riesgo con coagulopatía y más estenosis tardía).
+- **Catéteres** cortos y gruesos: < 3-4 kg 5,5 Fr doble luz o 2 de 4 Fr; 4-20 kg 6,5-7 Fr; > 20 kg 8-11 Fr.
+- **Circuito y filtro** con el menor volumen de cebado posible (filtros hasta 0,2 m² en lactantes y 0,9 m² en adolescentes).
+- **Líquidos** con electrolitos plasmáticos: Na 140, Cl 105, Ca 3,5, Mg 1,5, lactato o bicarbonato 35 y K 0-4 mEq/l según el potasio. Calcio y bicarbonato se mezclan en el momento de usar (precipitan). Si no lleva fosfato, añadir 0,8-1,2 ml de fosfato monosódico por litro. Reposición **prefiltro** (diluye la sangre, menos anticoagulación, algo menos eficaz) o **postfiltro** (más eficaz; flujo postfiltro ≤ 20 % del flujo sanguíneo).
+- **Inicio:**
+  1. Canalizar la vía.
+  2. Purgar con 1-2 l de salino heparinizado (5.000 UI/l), sin burbujas. El circuito purgado lleva 5 UI/ml de heparina (dosis importante en neonatos y lactantes).
+  3. En neonatos y lactantes pequeños, cebar con sangre, plasma, albúmina 5 % o coloide (evita exceso de heparina e hipovolemia en la conexión).
+  4. Conectar con flujo inicial de 10 ml/min en lactantes (subidas de 5 en 5 ml/min) y 20 ml/min en mayores (de 10 en 10 ml/min cada minuto) hasta el flujo deseado, con control hemodinámico estricto.
+  5. Con heparina: bolo prefiltro al llenarse de sangre e iniciar la perfusión.
+  6. Programar reposición, diálisis y ultrafiltrado/balance; empezar en balance neutro y aumentar según tolerancia.
+
+*Tabla II. Parámetros iniciales con heparina.*
+@ancha
+| Parámetro | Valor |
+| Flujo de sangre | 3-10 ml/kg/min (mayor cuanto menor es el paciente): neonatos 10-30 ml/min; lactantes < 10 kg 40-80; 10-20 kg 40-100; > 20 kg 60-180 ml/min. Empezar bajo y subir según tolerancia |
+| Flujo de reposición | 20-40 ml/kg/h (100-2.000 ml/h) |
+| Flujo de diálisis | 20-40 ml/kg/h (50-2.500 ml/h) |
+| Balance negativo horario | Programado = deseado + entradas − pérdidas. Empezar en balance 0 y subir |
+| Heparina (prefiltro) | Bolo 20-50 U/kg. Perfusión: inicio 10 U/kg/h en el lactante y 5 U/kg/h en el niño mayor; mantenimiento 5-20 U/kg/h según TTPA postfiltro (1,5-2 veces el control) o ACT 180-200 s. Con riesgo de sangrado, dosis menores o sin heparina |
+
+- Reposición de alto volumen (> 35 ml/kg/h): más depuración de mediadores sin beneficio demostrado en supervivencia. Hemodiafiltración si la hemofiltración no basta (algunos la usan siempre: más duración del filtro).
+
+**Anticoagulación con citrato** (regional): quela el calcio iónico; concentración de citrato 3-6 mmol/l para calcio iónico postfiltro < 0,35 mmol/l o ACT > 200 s; se repone calcio por otra vía o en el retorno. **Mayor duración del filtro y menos sangrado**, pero exige controlar el calcio iónico, líneas específicas y líquidos sin calcio; complicaciones: alcalosis o acidosis metabólica, hiper- o hipocalcemia.
+
+*Tabla III. Parámetros iniciales con citrato.*
+@ancha
+| Parámetro | Valor |
+| Flujo de sangre | 3-10 ml/kg/min |
+| Citrato | Inicial 2,5 mmol/l; ajustar al calcio iónico **postfiltro** (objetivo 0,25-0,35): < 0,25 → bajar 0,3 mmol/l; 0,25-0,35 → igual; 0,35-0,45 → subir 0,3 mmol/l; > 0,45 → subir 0,5-1 mmol/l |
+| Flujo de diálisis | 20-40 ml/kg/h (50-2.500 ml/h) |
+| Reposición | El citrato actúa como reposición prefiltro; solo 20-50 ml/h postfiltro si el circuito tiene cámara atrapaburbujas |
+| Balance negativo horario | Igual que con heparina |
+| Calcio | Inicial 0,1 mEq/kg/h (gluconato cálcico al medio con glucosa 10 % por otra vía central); compensación 100 % en máquinas con esa opción. Según el calcio iónico **del paciente**: < 0,8 → subir 0,05 mEq/kg/h (control en 1 h); 0,8-1 → subir 0,02 (control en 1 h); 1-1,4 → igual; 1,4-1,6 → bajar 0,02 (pauta habitual); > 1,6 → suspender 1 h (control en 1 h) |
+
+- Alternativas: heparina a dosis bajas (2,5 U/kg/h) + prostaciclina (menos eficaz, hipotensión) o HBPM (difícil de ajustar sin anti-Xa urgente).
+- **Cambio de filtro** programado cada 24-72 h o si hay signos de coagulación.
+- **Temperatura:** producen hipotermia (mantas, cunas, calentadores de sangre o líquidos).
+- **Monitorización:** FC, FR, ECG, TA invasiva, PVC, balance horario, temperatura; gasometría, electrolitos (Na, K, Cl, Ca, Ca iónico, P, Mg), hemograma, función renal, albúmina, coagulación; ACT postfiltro o calcio iónico postfiltro; coágulos y burbujas. Hoja de verificación.
+- **Fármacos:** la mayoría (< 1.000 Da) atraviesan el filtro. Dosis de carga normal; aclaramiento estimado 10-50 ml/min para ajustar intervalos; **niveles en fármacos de margen estrecho** (aminoglucósidos).
+- **Complicaciones:** mecánicas (disfunción del acceso, desconexión con sangrado, coagulación del circuito, embolia aérea); clínicas (hemorragia, trombosis del acceso, **hipovolemia en la conexión**, anemia, hipotermia, infección, alteraciones hidroelectrolíticas).
+
+### TDEC en ECMO
+- 36 % de los pacientes en ECMO (ELSO) la precisan (hasta 50 % en series). Mejora el balance y los electrolitos, permite nutrir sin restringir líquidos y reduce diuréticos; la reducción de edemas se relaciona con la posibilidad de retirar la ECMO.
+- Con un monitor de TDEC conectado al circuito de ECMO: mejor control del filtro y del balance; puede retirarse sin afectar a la ECMO; flujo alto y constante, sin alarmas de presión; mayor duración de los filtros. Inconvenientes: añade complejidad y posiblemente coste.

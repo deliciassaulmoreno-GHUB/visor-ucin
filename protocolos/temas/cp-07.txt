@@ -1,0 +1,81 @@
+@f TEMAS/CP/7
+*Cuidados críticos del niño con patología cardíaca, cap. 34 (Complicaciones respiratorias en el postoperatorio cardíaco).*
+
+## Generalidades
+
+- Son las complicaciones más frecuentes del postoperatorio cardiaco (5-45 % según las series). Aumentan la estancia, la mortalidad y los costes.
+- Pueden ser previas (malformaciones de vía aérea o pulmonares asociadas, malnutrición, infecciones recientes, problemas neuromusculares), intraoperatorias (anestesia, incisión, trauma directo, tiempo de CEC, atelectasias, empeoramiento de HTP previa) o postoperatorias.
+- **Factores de riesgo pediátricos** (Reyes y Guilera): estado nutricional alterado, infección respiratoria previa, HTP previa, función pulmonar alterada. PediaRiSM: capacidad vital forzada, pH y leucocitos.
+- **Prevención:** preoperatoria (optimizar broncodilatadores en asmáticos, antibióticos si hay infección, rehabilitación respiratoria); intraoperatoria (menor tiempo quirúrgico, cirugía mínimamente invasiva, anestesia locorregional); postoperatoria (reclutamiento, fisioterapia, analgesia no depresora, anestesia locorregional).
+
+*Tabla I. Clasificación de las complicaciones respiratorias del postoperatorio cardiovascular.*
+1. **Vía aérea**
+  - Alta: edema supraglótico, OVAS postextubación, laringomalacia en síndromes (Down, VACTERL, CHARGE); edema o granuloma subglótico; parálisis de cuerdas vocales; anillos vasculares (doble arco, *sling* pulmonar).
+  - Baja: compresión extrínseca cardiaca (cardiomegalia, aurícula izquierda) o vascular (arteria pulmonar, anillos); broncomalacia; broncoespasmo; **bronquitis plástica (Glenn, Fontan)**.
+2. **Pulmón**
+  - Edema pulmonar: hipertensión venosa pulmonar (disfunción del VI, obstrucción venosa, *shunts* izquierda-derecha); menor flujo linfático (fisiología univentricular…); aumento de permeabilidad (CEC, fármacos, transfusión); otras (reperfusión, hemorragia, trauma, sobrecarga de volumen).
+  - Atelectasia, neumonía, SDRA, contusión, hemorragia pulmonar.
+3. **Pleura:** neumotórax, derrame pleural, quilotórax.
+4. **Neuromuscular y caja torácica:** parálisis diafragmática; hipoventilación central (isquemia, hidrocefalia); anomalías costales (VACTERL), tórax abierto, escoliosis.
+
+## Quilotórax
+
+- Derrame pleural por extravasación de linfa por lesión u obstrucción del conducto torácico. Incidencia tras cirugía de CC 0,89-6,6 % (Fallot, D-TGA, ventrículo único, canal AV, coartación…).
+- La linfa es rica en proteínas, inmunoglobulinas y linfocitos T; el quilo, en triglicéridos, quilomicrones, ácidos grasos de cadena larga y vitaminas liposolubles. **Los ácidos grasos de cadena media y corta se absorben directamente por la porta** (base del tratamiento dietético). Las variaciones anatómicas del conducto torácico son frecuentes (más con VCS izquierda persistente, subclavia derecha aberrante, arco derecho).
+
+**Mecanismos**
+- **Lesión directa** del conducto en la cirugía: aparece en el postoperatorio inmediato.
+- **Aumento de la presión venosa central** (disfunción miocárdica, trombosis de la VCS): dilatación y rotura linfática; más tardío, más difícil y refractario. Alto riesgo en **Glenn y Fontan**; la fenestración del Fontan baja la presión venosa pero no se ha demostrado que acorte los derrames.
+
+**Clínica:** dificultad respiratoria; aumento del débito de los drenajes (lechoso si ya come); malnutrición; inmunodepresión (pérdida de inmunoglobulinas y linfocitos T); hiponatremia e hipocalcemia. Derecho, izquierdo o bilateral.
+
+**Diagnóstico:** análisis del líquido pleural. La linfografía (también isotópica) localiza la fuga, poco usada en pediatría.
+
+*Tabla II. Características del líquido.*
+| Parámetro | Valor |
+| pH | 7,4-7,8 |
+| Aspecto | Lechoso (claro si dieta absoluta) |
+| Estéril | Sí |
+| Colesterol | 65-220 mg/dl |
+| Triglicéridos | > 110 mg/dl |
+| Proteínas totales | 2-6 g/L |
+| Albúmina | 2,1-4,1 g/L |
+| Globulinas | 1,1-3,1 g/L |
+| Electrolitos | Similares al plasma |
+| Glucosa | 50-200 mg/dl |
+| Células | > 1.000 cél/mm³; linfocitos > 80 % |
+| Quilomicrones | Sí |
+
+! Las unidades de proteínas, albúmina y globulinas aparecen en el libro como «g/L»; se transcriben tal cual.
+
+### Tratamiento
+*Figura 1. Algoritmo del quilotórax.*
+1. **Manejo conservador:** toracocentesis/tubo de drenaje pleural; nutrición enteral con TCM; nutrición parenteral (*); somatostatina/octreótido (*).
+  - Asociar **monitorización** (pérdidas diarias y electrolitos; albúmina, proteínas totales y vitaminas; inmunoglobulinas) y **PVC, eco-Doppler vascular y ecocardiografía** ± tratamiento coadyuvante (trombosis venosa, disfunción miocárdica).
+2. ¿Pérdidas ≥ 10 ml/kg/día o 100 ml/año de edad/día tras 5 días, fuga persistente tras 2 semanas o deterioro clínico?
+  - **No:** mantener el tratamiento 4-6 semanas.
+  - **Sí:** tratamiento quirúrgico (ligadura del conducto torácico ± pleurodesis; derivación pleuroperitoneal) o radiología intervencionista (embolización percutánea).
+
+Nota de la figura (*): **considerar NPT y somatostatina/octreótido de forma precoz si PVC > 15 cmH~2~O.**
+
+- **Drenaje:** toracocentesis; tubo pleural según cuantía o recidiva. Soporte respiratorio según la insuficiencia (O~2~, VNI, VM).
+- **Dieta:** enteral sin lípidos o con TCM (no forman quilomicrones); o **nutrición parenteral** (reduce secreciones y producción de quilo; riesgo de colestasis, trombosis e infección del catéter). Sin estudios comparativos. Si el quilotórax se debe a PVC alta responde peor a la enteral: algunos empiezan con parenteral y pasan a enteral especial si disminuye.
+- **Somatostatina/octreótido:** reducen el flujo esplácnico y la producción de linfa; poco eficaces con PVC alta o trombosis de la VCS. Efectos: náuseas, vómitos, diarrea, disfunción hepática, hipotiroidismo transitorio, hipo- e hiperglucemia. **Octreótido 1-4 µg/kg/h IV o 5-40 µg/kg/día SC.** Sin acuerdo sobre cuándo iniciarlo (habitualmente tras las medidas dietéticas).
+- **Sostén:** ecocardiografía y Doppler vascular tras el diagnóstico; en disfunción miocárdica, inotrópicos, IECA, β-bloqueantes o diuréticos.
+- **Cirugía** si fracasa lo conservador (momento controvertido): **ligadura del conducto torácico** (de elección; puede fallar por la variabilidad anatómica, sobre todo en lesiones izquierdas); pleurodesis (química o física, sola o con ligadura); derivación pleuroperitoneal (última opción).
+- **Radiología intervencionista:** linfografía transpedal, punción de la cisterna de Pecquet y embolización con *coils* o pegamento de fibrina; complicaciones 3 %, éxito 27-68 %.
+
+## Parálisis diafragmática
+
+- La cirugía cardiovascular es su principal causa en niños (0,3-12,8 %): lesión del frénico al disecar grandes vasos, retirar pericardio o resecar el timo. Más en **Glenn, Fontan, fístula sistémico-pulmonar, cierre de CIV, Fallot y switch arterial**.
+- Movimiento paradójico del hemidiafragma afectado: menor capacidad residual funcional, colapso alveolar y atelectasias. Peor tolerada cuanto menor es el niño (costillas horizontales, poca musculatura intercostal, mediastino móvil). **Especialmente perjudicial en la fisiología univentricular** (la presión negativa intratorácica favorece el retorno venoso y el flujo pulmonar pasivo).
+- **Sospecha:** atelectasias recurrentes, neumonía, dificultad para el destete o reintubaciones, tras descartar causas cardiacas.
+- **Diagnóstico:** elevación de un hemidiafragma en la radiografía (puede no verse en VM). **Ecografía** (movilidad disminuida o paradójica), **extubado y sin presión positiva** para evitar falsos negativos. La electromiografía es el patrón oro, no rutinario; la fluoroscopia irradia más.
+- **Tratamiento** (controvertido): la **plicatura** es lo más aceptado, sobre todo en < 1 año. Unos la difieren 1-6 semanas con soporte respiratorio (posible recuperación espontánea); otros la hacen al diagnóstico, sobre todo en < 1 año y univentriculares. Retrasarla demasiado favorece la atrofia diafragmática y el fracaso.
+
+## Atelectasias
+
+- De las complicaciones más frecuentes; suelen resolverse en los primeros días, pero pueden aumentar la morbilidad.
+- Mecanismos: compresión, absorción del gas alveolar, alteración del surfactante. Favorecen: FiO~2~ alta, volumen corriente bajo, obesidad, anestesia general con relajantes, enfermedad bronquial previa, menor edad, tipo de cirugía.
+- Consecuencias: menor *compliance* y oxigenación, **aumento de las resistencias vasculares pulmonares**, empeoramiento de la lesión pulmonar, infecciones.
+- **Prevención y tratamiento:** mantener la ventilación espontánea siempre que sea posible (evitar relajación; movilidad diafragmática), evitar FiO~2~ altas, presión continua en la vía aérea, evitar desconexiones (aspiración cerrada), parámetros ventilatorios adecuados y maniobras de reclutamiento.

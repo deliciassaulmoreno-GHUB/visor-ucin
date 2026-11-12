@@ -1,0 +1,102 @@
+@f TEMAS/CP/11
+*Cuidados críticos del niño con patología cardíaca, cap. 38 (Complicaciones hematológicas: trombocitopenia inducida por heparina, hemólisis, coagulopatía. Indicaciones de antiagregación y anticoagulación).*
+
+## Trombocitopenia inducida por heparina (TIH)
+
+- Reacción autoinmune con trombocitopenia absoluta o relativa, **trombosis** y anticuerpos (sobre todo IgG) contra el complejo heparina-PF4. Puede darse con cualquier heparina, tipo o dosis. Incidencia 0,5-5 %; más si hubo heparina en los **100 días previos** y con heparina IV.
+- Los anticuerpos activan las plaquetas (micropartículas protrombóticas, consumo), liberan más PF4, activan monocitos (factor tisular, daño endotelial) y el PF4 neutraliza la heparina: **estado protrombótico en un paciente trombopénico y heparinizado**.
+- Diferenciar de la trombocitopenia no inmune por heparina: leve, días 1-4, asintomática, se resuelve al suspender (antigua «TIH tipo II»).
+
+**Clínica:** caída brusca **> 50 %** de las plaquetas y/o trombosis entre los **días 5 y 14** de heparina, excluidas otras causas y con anticuerpos positivos. El riesgo trombótico persiste días tras suspender la heparina y normalizarse las plaquetas. Trombosis arteriales o venosas (venosas en portadores de catéter, trombos auriculares o ventriculares, **trombosis protésica**, infarto, TEP). Otras reacciones a la heparina: reacción sistémica aguda (taquicardia, fiebre, escalofríos, HTA, disnea, dolor torácico) y lesiones cutáneas en el punto de inyección de HBPM.
+
+*Tabla I. Puntuación 4T.*
+@ancha
+| | 2 puntos | 1 punto | 0 puntos |
+| Trombocitopenia | Descenso > 50 % o nadir 20-100 ×10⁹/l | Descenso 30-50 % o nadir 10-19 ×10⁹/l | Descenso < 30 % o nadir < 10 ×10⁹/l |
+| Tiempo exposición-trombocitopenia | 5-10 días, o ≤ 1 día si heparina en los 30 días previos | > 10 días, o < 1 día si heparina hace 30-100 días | ≤ 1 día sin exposición reciente |
+| Trombosis | Confirmada | Dudosa | No |
+| Otras causas de trombocitopenia | No | Dudosa | Confirmada |
+
+Puntuación: **6-8 alta probabilidad; 4-5 intermedia; 0-3 baja.**
+
+*Tabla II. Control de plaquetas (American College of Chest Physicians).*
+@ancha
+| Riesgo | Recuentos |
+| Heparina en los 100 días previos o exposición desconocida | Basal y en las primeras 24 h |
+| Reacción sistémica aguda en los 30 min tras la heparina | Inmediato, comparar con previos |
+| Riesgo elevado: HNF a dosis terapéuticas o HBPM a dosis antitrombóticas | Basal y cada 2 días hasta el día 14 o hasta suspender |
+| Riesgo moderado: HNF profiláctica, HBPM tras bolo de HNF, catéteres con bolos de HNF | Basal y cada 2-3 días del día 4 al 14 o hasta suspender |
+| Riesgo bajo (< 0,1 %): profilaxis con HBPM | No necesario |
+
+**Diagnóstico de laboratorio:** test de liberación de serotonina (patrón oro; especificidad 99 %, sensibilidad > 95 %; requiere radioisótopos) o anticuerpos anti-PF4/heparina por ELISA (sensibles, menos específicos: falsos positivos).
+
+**Algoritmo** *(Figura 1)*
+- **Sospecha baja (4T):** buscar otros diagnósticos y continuar la heparina.
+- **Sospecha alta-intermedia:** **suspender la heparina** e iniciar anticoagulante alternativo (inhibidores directos o indirectos de la trombina); pedir anticuerpos anti-PF4:
+  - Alta + anticuerpos positivos → TIH confirmada; tratamiento alternativo.
+  - Intermedia + positivos → test de liberación de serotonina: positivo → TIH confirmada; negativo → otros diagnósticos y reintroducir heparina.
+  - Alta-intermedia + negativos → valorar diagnóstico alternativo y reintroducir heparina.
+
+**Tratamiento**
+- Suspender la heparina; **la HBPM no es alternativa** (reactividad cruzada).
+- Alternativos: inhibidores directos de la trombina (lepirudina, argatrobán, bivalirudina) o indirectos/anti-Xa (danaparoide, fondaparinux), según disponibilidad, experiencia, monitorización y situación clínica.
+- **Suspender warfarina/acenocumarol y revertir con vitamina K** (pueden empeorar la trombosis, gangrena, necrosis cutánea).
+- **No transfundir plaquetas.**
+- Si hubo trombosis: anticoagulación oral al menos 3-6 meses; no reiniciar antivitamina K hasta normalizar las plaquetas, sin dosis de carga y solapando ≥ 5 días con el alternativo (control de TP). La reexposición a heparina no siempre repite la TIH, pero el riesgo es mayor.
+
+## Hemólisis
+
+- Sobre todo durante la **CEC** (la cánula arterial es la parte más estrecha del circuito: elegir la de mayor diámetro posible; tendencia a cánulas de pared fina, alambradas y flexibles) y en reparaciones con **parches o prótesis valvulares** (turbulencias, cortocircuitos residuales o **fugas periprotésicas**): 5-12 % con prótesis aórtica, 2 % mitral.
+- Clínica precoz o a las 2-4 semanas: febrícula, ictericia, coluria, hepatomegalia. Laboratorio: anemia, reticulocitosis, hemoglobinuria, haptoglobina baja, **esquistocitos**; ferropenia en casos crónicos.
+- Tratamiento sustitutivo (hierro, ácido fólico); transfusiones en casos graves e incluso corrección quirúrgica (valorar riesgo/beneficio; a menudo disminuye con el tiempo).
+
+## Coagulopatía y sangrado postoperatorio
+
+- Hemorragia en el 5-10 % de los postoperatorios de CC. Más riesgo con cirugía compleja (múltiples suturas y anastomosis, hipotermia profunda, CEC prolongada), niños muy pequeños, cianóticos y reintervenciones. **Sangrado excesivo con plaquetas > 100.000/µl y coagulación normal → sospechar origen quirúrgico.**
+- Más riesgo: policitemia, hiperviscosidad, trombocitopenia, alteraciones de la función plaquetaria, de la coagulación y de la fibrinólisis.
+- **Factores propios de la edad:** < 6 meses con niveles bajos de II, V, VII, IX, X, XI, XII, XIII, precalicreína y cininógeno; TTPA alargado hasta los 3-6 meses.
+- **Factores de la cardiopatía:** neonatos cardiópatas con factores más bajos que los sanos; < 10 kg con menor agregación; algunos acianóticos con **déficit adquirido de factor von Willebrand** (revierte con la corrección); **cianóticos**: trombocitopenia, menor agregación, tiempo de sangría alargado y CID crónica leve, proporcionales a la policitemia.
+- **Factores de la CEC:** hemodilución de factores; trombocitopenia (bombas de rodillo, neonatos); disfunción plaquetaria por algunas penicilinas semisintéticas y por **PGE1**; mayor respuesta inflamatoria; respuesta variable a la heparina en el neonato con eliminación lenta (inmadurez hepática, hipotermia) → **rebote heparínico** postoperatorio; aumento de la fibrinólisis (sobre todo con hipotermia profunda y parada).
+
+! El manejo del sangrado por los drenajes (umbral, hemoderivados, tranexámico, factor VII) figura en la pestaña «Bajo gasto cardíaco» de esta sección.
+
+## Antiagregación y anticoagulación
+
+Mayor riesgo trombótico: ventrículo único dependiente de fístula, circulación de Fontan, arritmias, catéteres venosos centrales prolongados (el factor general más frecuente). Recomendaciones AHA y ACCP, en gran parte extrapoladas del adulto; individualizar.
+
+1. **Fístula de Blalock-Taussig (BT) modificada:** oclusión trombótica 1-17 % (riesgo en las primeras 24 h: shunt pequeño, bajo peso, hemoglobina preoperatoria alta); tras el alta, hasta 14 %. HNF intraoperatoria y en el postoperatorio inmediato (si no hay alto riesgo de sangrado), seguida de **AAS a dosis bajas a largo plazo**; como el AAS tarda 5-7 días en hacer efecto completo, se suele solapar **HBPM 2-3 días**.
+  - **Trombosis de la fístula (urgencia):** bolo de heparina IV **50-100 UI/kg** y perfusión; **aumentar la presión sistémica** para mejorar el flujo por la fístula; intubación, VM y relajación (menor consumo de O~2~); cateterismo intervencionista (angioplastia con trombectomía o trombólisis local), reintervención o recambio del shunt. **Desaconsejados los fibrinolíticos sistémicos (rTPA)** por hemorragias.
+2. **Norwood (y Sano modificado):** igual que la BT modificada.
+3. **Glenn bidireccional:** habitualmente acenocumarol con **INR 2-3 durante 6 meses** y después AAS a largo plazo (cada vez más autores mantienen la anticoagulación).
+4. **Fontan:** trombosis arterial y venosa es una de las mayores complicaciones. Riesgo: bajo gasto, flujo no pulsátil, tipo de conexión, material trombogénico, dilatación auricular, arritmias, disfunción ventricular, alteraciones de la coagulación (EPP, quilotórax), trombosis previa. Muchos centros usan antivitamina K los primeros 6-12 meses y luego antiagregación (sin diferencias claras entre AAS y antivitamina K); anticoagulación a largo plazo en alto riesgo. Acenocumarol: retirar la HBPM tras dos INR > 2. Ecocardiografías periódicas en paliados.
+5. **Prótesis valvulares** (más riesgo en lactantes: prótesis pequeñas y anticoagulación inestable):
+  - **Mecánicas:** acenocumarol indefinido. Aórtica **INR 2-3**; mitral **INR 2,5-3,5**; aórtica con factores de riesgo (tromboembolia previa, disfunción ventricular, hipercoagulabilidad) 2,5-3,5. Si hay tromboembolias pese a buena anticoagulación, añadir **dipiridamol 3-6 mg/kg/día** (preferible a AAS: menos sangrado).
+  - **Biológicas:** acenocumarol 3 meses (aórtica INR 2-3; mitral 2,5-3,5) y después **AAS 3-5 mg/kg/día** a largo plazo. Pulmonar: sin anticoagulación, con AAS. Disfunción del VD o riesgo añadido: anticoagulación a largo plazo (INR 2-3) + antiagregante.
+6. **Fibrilación/flutter auricular:** acenocumarol INR 2-3; **2,5-3,5** si valvulopatía mitral, gran dilatación auricular o embolia previa.
+7. **Ablación en el lado izquierdo:** HNF; tras radiofrecuencia o con shunts intracardiacos significativos, AAS 4-6 semanas.
+8. **Cateterismo:** con acceso arterial, bolo de **HNF 100 UI/kg** antes del procedimiento; también en acceso venoso con shunt derecha-izquierda, cateterismos terapéuticos o prolongados.
+9. **Stents:** HNF 100 UI/kg previa; en stents no coronarios, AAS 6 meses. Alto riesgo de trombosis (flujo no pulsátil, oclusión previa, estado protrombótico): HBPM o antivitamina K 3-6 meses y después antiagregación.
+10. **Miocardiopatía dilatada:** ecocardiografía en todos (ETE si la convencional no muestra trombo). Con trombo: anticoagulación ≥ 3 meses; indefinida si arritmias, embolias previas, estado protrombótico o **FE < 25 %**.
+11. **Catéteres venosos centrales:** **retirarlos lo antes posible**. Con trombo asociado: considerar retirarlo, anticoagulando 3-5 días antes y mantener 3 meses. ACCP: no profilaxis en CVC de corta duración (1B); AHA: en cardiópatas con CVC no retirable y bacteriemia o hipercoagulabilidad (poliglobulia, trombosis previa, trombofilia), heparina a dosis bajas hasta retirarlo (IIb).
+
+! Discrepancias del propio capítulo: para las prótesis mecánicas el texto dice primero «INR entre 2,5 y 4» y después da 2-3 (aórtica) y 2,5-3,5 (mitral); el dipiridamol figura a 3-6 mg/kg/día en el texto y a 1-5 mg/kg/d en la Tabla III. Se transcriben ambos.
+
+*Tabla III. Fármacos.*
+@ancha
+| Fármaco | Vía | Dosis | Eliminación | Monitorización | Efectos adversos |
+| **Heparina sódica** (HNF) | IV | < 12 meses 28 U/kg/h; ≥ 12 meses 20 U/kg/h; profilaxis 10 U/kg/h | Hepática y renal | Anti-Xa 0,35-0,7 U/ml; TTPA 1,5-3. Reversible con protamina | Hemorragia, trombocitopenia, osteoporosis, hipersensibilidad |
+| **Enoxaparina** | SC | Tratamiento < 2 meses 1,5 mg/kg/12 h; > 2 meses 1 mg/kg/12 h // Profilaxis < 2 meses 1,5 mg/kg/24 h; > 2 meses 1 mg/kg/24 h | Renal | Anti-Xa 0,5-1 U/ml | Hemorragia, necrosis en el punto de inyección |
+| Dalteparina | SC | Tratamiento < 2 m 150 UI/kg/12 h; > 2 m 100 UI/kg/12 h // Profilaxis < 2 m 150 UI/kg/24 h; > 2 m 100 UI/kg/24 h | Renal | | Hemorragia, trombopenia, necrosis local |
+| Reviparina | SC | Tratamiento < 5 kg 150 UI/kg/12 h; ≥ 5 kg 100 UI/kg/12 h // Profilaxis < 5 kg 50 UI/kg/12 h; ≥ 5 kg 30 UI/kg/12 h | Renal | | Hemorragia, necrosis local |
+| Tinzaparina | SC | Tratamiento < 2 m 275; 2-12 m 250; 1-5 a 240; 5-10 a 200; > 10 a 175 UI/kg/24 h // Profilaxis 0-10 a 75; 10-16 a 50 UI/kg/24 h | Renal | | Hemorragia |
+| Nadroparina | SC | Tratamiento < 10 kg 105 UI/kg/12 h; > 10 kg 88 UI/kg/12 h | Renal | | Hemorragia |
+| **Acenocumarol** | VO | 0,04 mg/kg/día | Hepática | INR 2-3; válvulas mecánicas mitrales 2,5-3,5 | Hemorragia, alteraciones digestivas |
+| Warfarina | VO | 0,2 mg/kg/día | Hepática | INR 2-3; válvulas mecánicas mitrales 2,5-3,5 | Hemorragia, calcificación traqueal, desmineralización ósea |
+| Lepirudina | IV | Bolo 0,4 mg/kg; perfusión 0,15 mg/kg/h (algunos: 0,1 mg/kg y 0,05-0,075 mg/kg/h) | Renal | TTPA 1,5-3 | No en insuficiencia renal aguda; hemorragias, anafilaxia |
+| Bivalirudina | IV | Bolo 0,125 mg/kg; perfusión 0,125 mg/kg/h | Enzimática 80 %, renal 20 % | ACT 400-500 s; TTPA 1,5-2,5 | Hemorragia |
+| Argatrobán | IV | 6 m-6 a: 0,5-1 µg/kg/min; ≥ 6-16 a: 1-2 µg/kg/min | Hepática | TTPA (INR 1,5-3); máximo 100 s | Hemorragia |
+| Danaparoide | IV | Bolo 30 U/kg; perfusión 1,2-2 U/kg/h | Renal | No necesaria; anti-Xa 0,5-0,8 U/ml | Menor riesgo de sangrado y trombosis |
+| Fondaparinux | SC | 0,1 mg/kg/24 h | Renal | No necesaria; anti-Xa 0,5-0,8 U/ml | El factor VIIa revierte su efecto; menos sangrado; sin reacción cruzada con heparina |
+| **Aspirina** | VO | 1-5 mg/kg/día | Hepática; aclaramiento renal | Salicilato (objetivo 100 µg/ml) | Vértigo, náuseas, vómitos, confusión, tinnitus, dolor abdominal, sangrado |
+| Clopidogrel | VO | 0,2-1 mg/kg/día | Hepática; aclaramiento renal | Signos de sangrado | Fatiga, vértigo, epigastralgia, diarrea, sangrado |
+| Dipiridamol | VO | 1-5 mg/kg/día | Hepática | No estudiado | Dolor torácico, angina, cefalea, vértigo, alteraciones del ECG |

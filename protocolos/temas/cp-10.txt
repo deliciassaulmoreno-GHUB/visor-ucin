@@ -1,0 +1,52 @@
+@f TEMAS/CP/10
+*Cuidados críticos del niño con patología cardíaca, cap. 37 (Complicaciones neurológicas en los pacientes con cardiopatías congénitas. Estrategias de monitorización y prevención del daño neurológico).*
+
+## Generalidades
+
+- Con la caída de la mortalidad, el foco está en la morbilidad neurológica. Son más frecuentes las secuelas del **neurodesarrollo a largo plazo** (motricidad fina y gruesa, habla y lenguaje, alteraciones visuomotoras y espaciales, déficit de atención, aprendizaje, funciones ejecutivas) que las complicaciones precoces (convulsiones, accidentes cerebrovasculares), que son poco frecuentes.
+- La lesión más frecuente y grave es la **leucomalacia periventricular (LPV)**.
+- Origen multifactorial: hipoxia-isquemia, émbolos y microvasculopatía inflamatoria de la cirugía y la CEC, más malformaciones cerebrales, factores genéticos, cromosomopatías, alteraciones del flujo cerebral intraútero e hipoxia/hipoperfusión pre y postoperatoria por bajo gasto. El daño puede producirse en cualquier momento del ingreso.
+
+## Factores de riesgo
+
+- **Genéticos:** trisomía 21, DiGeorge, Williams, VACTERL, CHARGE (retraso mental de grado variable); alteraciones de la vascularización cerebral, colaterales aortopulmonares extensas, trastornos protrombóticos, polimorfismos de la apolipoproteína E (el alelo APOE ε2 es factor de riesgo independiente de peor desarrollo psicomotor al año).
+- **Prenatales:** menor flujo cerebral y alteración de las resistencias cerebrales en fetos con CC.
+- **Preoperatorios:** hipoperfusión e hipoxemia. Las **CC ductus-dependientes** tienen a menudo **hipotensión diastólica** con compromiso del flujo cerebral (la RM relaciona el flujo bajo con la LPV). Con *shunts* intracardiacos, **embolias de aire o trombos** de cavidades derechas (especialmente tras **atrioseptostomía con balón**). SIRS por endotoxinas (hipoperfusión mesentérica o sepsis).
+- **Intraoperatorios** (periodo de mayor riesgo: lesiones nuevas de LPV o hipóxico-isquémicas en RM en el 50-70 %): hipoperfusión, toxicidad anestésica, inflamación por el bypass, isquemia-reperfusión, tromboembolias, alteraciones de glucemia, electrolitos y equilibrio ácido-base. Isquemia relacionada con parada circulatoria prolongada en hipotermia profunda, manejo alfa-stat, hematocrito bajo, enfriamiento inadecuado o no uniforme y bypass a flujos bajos. Incluso la CEC simple (defectos septales) se asocia a menor CI que el cierre percutáneo.
+- **Postoperatorios** (riesgo igual o mayor): hipoperfusión por **bajo gasto** y reactividad vascular anómala, hipoxemia, **convulsiones, hipertermia**, alteraciones endocrinas, mal control glucémico, alteraciones hidroelectrolíticas y del equilibrio ácido-base. La **estancia prolongada en UCI** se asocia a peor neurodesarrollo.
+
+## Neuromonitorización
+
+- **Doppler transcraneal (DTC):** flujo y resistencias cerebrales, microembolias (con falsos positivos; el número de émbolos no se correlacionó con déficits agudos).
+- **EEG convencional:** detecta isquemia y la supresión metabólica en la parada hipotérmica; requiere neurofisiólogo y se altera por anestesia, temperatura y cirugía.
+- **EEG integrado por amplitud (EEGa):** monitorización continua habitual en neonatos y lactantes; fácil de interpretar en UCI (trazado de base, ciclos vigilia-sueño, actividad paroxística). Sedantes y antiepilépticos reducen la amplitud.
+- **BIS:** profundidad anestésica (0 isoeléctrico – 100 vigilia), detecta brote-supresión; artefactos; poco fiable en el neonato.
+- **NIRS cerebral:** saturación regional (SO~2~r). **Periodos prolongados con SO~2~r < 45 % se asocian a más LPV y peor desarrollo neurológico** (epilepsia, hemiparesia, coma prolongado). Solo mide una pequeña región frontal; sin datos de que su uso pre y postoperatorio mejore el neurodesarrollo.
+- **Neuromarcadores** (NSE, S100β, GFAP, BDNF): predictivos en adultos; en niños no se asociaron a eventos adversos postoperatorios.
+- La **combinación (sobre todo NIRS + DTC)** cubre aprox. 70 % del flujo hemisférico; en un estudio, un algoritmo de actuación ante sus alteraciones redujo los eventos neurológicos adversos de 26 % a 7 %.
+
+## Neuroprotección
+
+### Preoperatoria
+- **Diagnóstico prenatal** (planificar el parto y tratamientos precoces; intervenciones intraútero en casos seleccionados).
+- Cautela con catéteres y procedimientos intravasculares en pacientes con **shunt derecha-izquierda** (embolias).
+- Evitar hipoxia e isquemia; mejorar la perfusión cerebral **evitando alcalosis e hipocarbia** (autorregulación conservada en esta fase).
+- En univentriculares con circulación desequilibrada y flujo sistémico bajo, sedados y paralizados: **CO~2~ inspirado al 3 %** disminuye Qp/Qs y aumenta la SO~2~r cerebral y la SvO~2~; la FiO~2~ subambiental baja Qp/Qs pero no mejoró la SO~2~r ni la SvO~2~. Evitar aumentos innecesarios de O~2~.
+- Manejo hemodinámico exquisito, **evitando la hipotensión**.
+
+### Intraoperatoria
+- La hipotermia reduce pero no previene el daño. Parada en hipotermia profunda > 41 min (Boston Circulatory Arrest Trial) empeora el pronóstico (relación no lineal). Minimizar la parada (a costa de más tiempo de CEC).
+- Flujos altos continuos (150 ml/kg/min, salvo durante la perfusión cerebral anterógrada). La perfusión cerebral regional a bajo flujo en la reconstrucción del arco no ha mostrado mejorar supervivencia ni pronóstico neurológico.
+- **pH-stat** (corregir la PaCO~2~ en hipotermia): más flujo cerebral y enfriamiento más homogéneo; la evidencia reciente lo favorece en niños.
+- **Hematocrito 30-35 %** durante la cirugía.
+- Neuromonitorización (NIRS, DTC). Ultrafiltración modificada (mejora hemodinámica, pulmonar, coagulación, flujo cerebral; menos hemoderivados y agua libre). Corticoides: reducen la inflamación sin beneficio clínico demostrado. En estudio: precondicionamiento isquémico remoto, normotermia durante la CEC.
+
+### Postoperatoria
+- La autorregulación cerebral puede estar alterada tras la CEC: **el flujo cerebral depende de la hemodinámica y de la TA** → mantener estabilidad hemodinámica.
+- **Evitar hipocarbia y alcalosis**; evitar hipoxemia.
+- Monitorizar flujo y oxigenación cerebral (NIRS), aunque sin datos para recomendarlo de forma generalizada.
+- **Bajo gasto:** se asocia a más mortalidad. Valorar soporte extracorpóreo si no se puede salir de CEC o hay inestabilidad o hipoxemia refractarias, descartadas lesiones residuales corregibles (la ECMO profiláctica sistemática, p. ej., tras Norwood, es controvertida).
+- **Convulsiones:** no infrecuentes (posiblemente > 20 %, muchas solo eléctricas); relacionadas con paradas hipotérmicas prolongadas. Sin relación clara con el pronóstico a medio-largo plazo; solo los EEGa patológicos que tardan **> 48 h en normalizarse** se correlacionan con peor pronóstico.
+- **Hiperglucemia:** marcador de gravedad; no parece empeorar el pronóstico neurológico pero sí la morbimortalidad global → se recomienda tratarla en pediatría (más dudas en neonatos).
+- **Hipertermia:** perjudicial para el cerebro lesionado; razonable **mantener la normotermia**.
+- Reducir la estancia en UCI (VM, inotrópicos, inflamación) puede mejorar el pronóstico neurocognitivo.

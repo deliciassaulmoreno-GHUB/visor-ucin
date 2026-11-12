@@ -1,0 +1,113 @@
+@f TEMAS/CP/2
+*Cuidados críticos del niño con patología cardíaca, cap. 29 (Hipertensión arterial).*
+
+## Generalidades
+
+- **Definición:** TAS y/o TAD por encima del p95 para edad, talla y sexo (en el adolescente, > 120/80 mmHg). Entre p90 y p95: prehipertensión. Valores de referencia del cuarto informe del *National High Blood Pressure Education Program* (2004).
+- No hay valores de referencia en cuidados intensivos (la única definición consensuada se refiere al niño sano). En UCIP se describe HTA hasta en el 35 % de los ingresados (3-4 % en la población general) y se asocia a peores resultados.
+- **Etiología:** > 90 % de la HTA en niños no obesos es secundaria, más probable cuanto mayor la TA y menor la edad. Las causas secundarias más frecuentes son la patología renal (parenquimatosa o vascular) y la coartación de aorta.
+
+*Tabla I. Causas de HTA secundaria.*
+@ancha
+| Grupo | Causas |
+| Enfermedad renal | Parénquima renal: glomerulonefritis (aguda o crónica), pielonefritis (aguda o crónica), anomalías congénitas (displasias, poliquistosis), síndrome hemolítico-urémico, vasculitis (periarteritis, lupus, Kawasaki, Schönlein-Henoch…), lesión por tóxicos, trauma o radioterapia // Enfermedad renovascular // Uropatía obstructiva |
+| Patología cardiovascular | Coartación de aorta // Aumento del volumen sistólico: ductus arterioso persistente, insuficiencia aórtica, fístula arteriovenosa, bloqueo AV completo |
+| Sistema endocrino | Hipertiroidismo (HTA sistólica) // Aumento de catecolaminas: feocromocitoma, neuroblastoma // Disfunción adrenal: hiperplasia adrenal congénita // Síndrome de Cushing // Hiperaldosteronismo (primario o secundario) // Hiperparatiroidismo (e hipercalcemia) |
+| Enfermedades neurológicas | Hipertensión intracraneal (tumores, infecciones, TCE) // Poliomielitis // Guillain-Barré // Disautonomía |
+| Fármacos y tóxicos | Simpaticomiméticos, anfetaminas, corticoides, AINE, teofilina, anticonceptivos orales, metales pesados (mercurio, plomo), cocaína, ciclosporina A, eritropoyetina // Hipervolemia e hipernatremia |
+| Miscelánea | Stevens-Johnson // Displasia broncopulmonar // Dolor, miedo |
+
+*Tabla II. Causas más frecuentes por edad.*
+| Edad | Causas |
+| Neonato | Enfermedad renovascular (trombosis y estenosis de arteria renal) // Malformaciones renales congénitas // Coartación de aorta // Displasia broncopulmonar |
+| 1-5 años | Enfermedad renovascular // Patología renal // Coartación de aorta |
+| 5-10 años | HTA esencial // Patología renal // Enfermedad renovascular // Causas endocrinológicas |
+| 10-15 años | HTA esencial // Patología renal // Causas endocrinológicas |
+
+## Clínica
+
+- Suele ser asintomática. Si el ascenso es brusco: cefalea, mareo, irritabilidad, náuseas y vómitos; a veces focalidad neurológica (más que en adultos), insuficiencia cardiaca o disfunción renal. La insuficiencia cardiaca o el edema de pulmón son muy raros en pediatría **salvo en el postoperatorio de cirugía cardiaca**. Proteinuria y microhematuria son frecuentes como primer síntoma.
+- Exploración: pulsos (saltones en DAP o insuficiencia aórtica; débiles en coartación), TA en los cuatro miembros, talla e IMC.
+
+### Crisis hipertensivas
+Aumento brusco de la TA con riesgo para órganos vitales (< 1 % de las urgencias); la causa más frecuente es la HTA secundaria. Descartarla ante hemorragia subaracnoidea o parenquimatosa de causa desconocida.
+- **Emergencia hipertensiva (EH):** ascenso brusco por encima del p99 con disfunción orgánica aguda. Descenso inmediato, en general IV. Importa más la clínica y las lesiones en órganos diana (LOD) que el valor absoluto.
+- **Encefalopatía hipertensiva:** cefalea intensa con alteración de la consciencia por fallo de la autorregulación cerebral. Es la EH más frecuente en niños; típica de ascensos bruscos sobre TA previa normal (glomerulonefritis, eclampsia).
+- **Urgencia hipertensiva (UH):** clínica más leve, sin LOD. Descenso en horas, en general oral.
+- **HTA maligna acelerada:** papiledema o hemorragias y exudados; TAD suele superar 140 mmHg.
+
+### HTA en el postoperatorio de cirugía cardiaca
+Relativamente frecuente, más cuanto mayor es el paciente y si era hipertenso previamente. Se considera parte de la "adaptación fisiológica" tras la circulación extracorpórea; suele asociar taquicardia (descarga adrenérgica al ceder la anestesia, catecolaminas endógenas, aumento de resistencias). Hay que mantener una TAM adecuada para la perfusión (sobre todo miocárdica), pero a veces precisa tratamiento enérgico y exquisito: **puede comprometer las suturas vasculares (sobre todo aórticas)** y el aumento de poscarga limita el flujo coronario diastólico.
+
+## Diagnóstico y monitorización
+
+- TA seriada en los cuatro miembros. Oscilometría fiable con manguito adecuado: longitud 80-100 % del perímetro del brazo (punto medio olécranon-acromion) y anchura 40 % de la circunferencia; ante la duda, el más grande (el pequeño sobrestima). Frente a la auscultación, sobreestima la TAS y subestima discretamente la TAD.
+- La oscilometría no es de elección en EH, bajo gasto, hipotensión, arritmias, vasoconstricción o edemas: **monitorización invasiva** (p. ej., postoperatorio cardiaco), manteniendo la no invasiva por si falla.
+- **Línea arterial:** radial, femoral, pedia, tibial posterior, braquial; umbilical en el neonato. Complicaciones: hematoma, hemorragia (canalización o desconexión), compromiso vascular del miembro, infección; ante ellas, retirar cuanto antes. Usar el menor diámetro que permita medir (menos trombosis). Evitar la hiperextensión mantenida del carpo (nervio mediano). Vigilar la perfusión, manipular poco y en esterilidad, calibrar el cero a nivel del corazón.
+- **Pruebas:** hemograma, bioquímica con función renal y hepática, iones, gasometría; sedimento de orina; ECG, radiografía de tórax y eco-Doppler renal; perfil renina-angiotensina-aldosterona; fondo de ojo. La hipertrofia del VI es la LOD más importante (30-40 % de los hipertensos). Si hay clínica neurológica: imagen (generalmente TC).
+
+## Tratamiento
+
+**Objetivo general:** TA < p95 sin LOD; < p90 si enfermedad renal crónica, diabetes o LOD.
+
+**Recomendaciones generales**
+1. Menos agresivo en la HTA crónica; evitar descensos bruscos (hipoperfusión; la autorregulación cerebral necesita tiempo).
+2. **Si la HTA se debe a hipertensión intracraneal, es compensadora (mantiene la presión de perfusión cerebral) y su tratamiento está contraindicado**; manejar la hipertensión intracraneal.
+3. Restricción de sodio, sobre todo si hay afectación del filtrado o insuficiencia cardiaca; potencia todos los fármacos excepto diuréticos de asa y antagonistas del calcio.
+4. Indicaciones de fármacos: HTA sintomática, secundaria, LOD, diabetes (tipos I y II), falta de respuesta a medidas no farmacológicas.
+5. Al asociar fármacos, buscar sinergia sin solapar efectos secundarios; individualizar.
+6. La HTA grave sintomática precisa tratamiento IV.
+
+**Específicas**
+- **Esencial:** primero medidas no farmacológicas (dieta pobre en sodio, pérdida de peso, ejercicio aeróbico, evitar tabaco y anticonceptivos orales); fármacos si no son eficaces.
+- **Secundaria:** tratamiento etiológico. Coartación: cirugía o angioplastia, con seguimiento de recoartación. Parénquima renal: sodio, líquidos y fármacos (nefrectomía en casos extremos unilaterales resistentes). Renovascular: corrección quirúrgica, autotrasplante o nefrectomía unilateral. Tumores secretores de catecolaminas: cirugía.
+
+### Crisis hipertensivas
+Área de atención inmediata, monitorización precoz, dos accesos periféricos; convulsiones según protocolo.
+- **EH:** ingreso en UCI. Descenso **≤ 25 % en las primeras 8 h** y normalización paulatina en 24-48 h (en la encefalopatía, fármacos urgentes con objetivo de descenso en 1-2 h). Suele bastar un fármaco en perfusión continua, empezando por la dosis mínima.
+- **UH:** evaluación inmediata. Si es un ascenso brusco (p. ej., glomerulonefritis), actuar rápido; si es sobre HTA crónica (sobre todo enfermedad renal crónica), descenso en 24-48 h o más, posible vía oral/sublingual (grado 2C).
+- Fármaco según etiología, urgencia y experiencia (no conocer la causa no debe retrasarlo). La mayoría de los IV se usan *off-label* (salvo hidralazina). Ideal: inicio rápido, vida media corta, seguro y eficaz. **Diuréticos solo si hay sobrecarga de volumen y nunca en monoterapia.**
+- Tratar ansiedad y dolor (analgesia, sedantes-ansiolíticos).
+- Se recomienda monitorización invasiva en la EH, pero **no demorar el tratamiento por canalizar**; no invasiva cada 2-4 min mientras tanto.
+- EH de causa renal: puede requerir depuración extrarrenal.
+
+### Medidas en el postoperatorio de cirugía cardiaca
+- Volemia adecuada y uso racional de inotrópicos (evitar sobretratamiento).
+- Vía IV; la oral para mantenimiento o cuando esté más estable.
+- Monitorización invasiva e inicio progresivo, sobre todo con fármacos rápidos con riesgo de hipotensión (**tener preparada carga de volumen**).
+- Analgesia adecuada (opioides en perfusión en el postoperatorio inmediato; no infravalorar el dolor tras la extubación). Considerar analgesia locorregional, sobre todo en toracotomía (más dolorosa que la esternotomía).
+- Elección según experiencia del centro (no hay superioridad demostrada). Valorar antes la función ventricular: **evitar betabloqueantes o antagonistas del calcio en bajo gasto**; evitar betabloqueantes (incluso cardioselectivos) si hay antecedente de asma.
+
+*Tabla III. Fármacos antihipertensivos de uso frecuente.*
+@ancha
+| Fármaco | Familia | Dosis | Comentarios |
+| Esmolol | Betabloqueante β1 cardioselectivo | 100-500 µg/kg/min IV | Inicio muy rápido (1-2 min), duración 7-10 min. Muy eficaz. Puede producir bradicardia significativa. |
+| Labetalol | Alfa y betabloqueante no selectivo | Bolo de carga: 0,2-1 mg/kg (máx. 40 mg) IV // Perfusión: 0,25-3 mg/kg/h IV // Oral: 1-2 mg/kg/8-12 h (máx. 50-100 mg) | IV: inicio inmediato en 2-5 min, efecto potente, duración 2-3 h. Bastante seguro y predecible, menos hipotensor que otros. No produce taquicardia ni vasodilatación cerebral. Contraindicado en BAV; vigilancia estrecha si hiperreactividad bronquial o hiperpotasemia. |
+| Hidralazina | Vasodilatador periférico arterial | IV: 0,15-0,6 mg/kg/4-6 h | Amplia experiencia. Muy eficaz. Inicio a los 15-20 min. Produce taquicardia y cefalea. |
+| Nitroprusiato sódico | Vasodilatador arteriolar y venoso | Perfusión: 0,5-10 µg/kg/min IV | Muy potente, vida media muy corta (1-2 min), inicio < 1 min. Empezar a dosis baja y subir con cautela (riesgo alto de hipotensión). Puede aumentar la HIC. "Metabolismo a óxido nítrico": monitorizar tiocianato y cianuro si > 72 h o insuficiencia renal. HTA de rebote al retirarlo. Fotosensible; diluido en glucosado al 5 %, estable solo 4 h. |
+| Nitroglicerina | Vasodilatador arterial y venoso | Perfusión: 1-10 µg/kg/min IV | Inicio < 1 min, vida media corta (3-5 min). Frecuente en el postoperatorio inmediato. Toxicidad similar al nitroprusiato. |
+| Urapidilo | Antagonista α1 y α2 + agonista serotoninérgico central | Bolo de carga: 3,5 mg/kg IV // Perfusión: 1-3 mg/kg/h IV | Vasodilatador sistémico y pulmonar. Inicio en 5-10 min, vida media 2-5 h. Frecuente en el postoperatorio inmediato. Poca taquicardia y pocos efectos secundarios. No mantener más de una semana. Contraindicado en estenosis aórtica. |
+| Clonidina | Agonista α2 | Perfusión: 0,5-2 µg/kg/min IV // VO: 2-5 µg/kg/4-12 h | IV: inicio lento, vida media larga (6-24 h). VO: inicio 15-30 min. Puede producir bradicardia significativa. HTA de rebote si se retira bruscamente. Antihipertensivo y sedante sin deprimir el centro respiratorio; previene y trata la abstinencia. |
+| Nifedipino | Antagonista del calcio | VO: 0,1-0,25 mg/kg/dosis (máx. 10 mg) | De elección en la UH en niños (VO/sublingual). Eficaz, pero respuesta poco previsible a dosis altas: empezar por la mínima. Inicio 15-30 min VO, 5-15 min sublingual. |
+| Captopril | IECA | VO: 0,05-0,5 mg/kg/4-12 h | Inicio rápido (15 min sublingual), vida media corta. No indicado en la UH hasta descartar enfermedad renal o renovascular. Cautela en RN (mayor actividad de renina), monorrenos, hiperpotasemia e hipovolemia. |
+
+! En el original la tabla escribe «Captropil»; aquí se pone «Captopril». La dosis de clonidina en perfusión figura en el libro como «0,5-2 µg/kg/min»; se transcribe tal cual (verificar la unidad con la fuente del servicio antes de usarla). La frase «Metabolismo a óxido nítrico» aparece así en el comentario del nitroprusiato.
+
+## Situaciones especiales en el postoperatorio cardiaco
+
+### Obstrucción al tracto de salida del VI
+- Más sencillo en el niño mayor que en el neonato: con CEC sin complicaciones y clampaje breve, no suelen necesitar inotrópicos y es frecuente la **HTA en las primeras 48 h**.
+- Extubación precoz con buen control del dolor. Con función del VI normal, control estricto de la HTA para **proteger la sutura aórtica**: betabloqueantes o vasodilatadores (según experiencia). **Contraindicada la reducción agresiva de poscarga si persiste estenosis aórtica significativa.**
+- Después, mantenimiento oral con IECA o betabloqueantes, sobre todo si hay regurgitación aórtica residual.
+
+### Coartación de aorta
+- Las dos complicaciones principales son isquemia e HTA (la más frecuente, 37-100 %). Línea arterial en **miembro superior derecho** y TA no invasiva en un miembro inferior para detectar gradiente residual.
+- Mecanismo multifactorial y bifásico: estímulo quirúrgico de fibras simpáticas del istmo (liberación de noradrenalina y adrenalina; ausente tras angioplastia), liberación de renina, barorreceptores y manipulación del arco. Al 2.º-3.^er^ día predomina el componente diastólico, asociado a arteritis mesentérica; la renina se normaliza en aprox. 1 semana. Por disfunción de barorreceptores, aun normotensos a los 5-10 años, la TA puede subir con los años (hasta el 70 % de los adultos operados precisa antihipertensivos).
+- Control estricto para evitar sangrado (desgarro de la anastomosis o de intercostales, en relación con el síndrome postcoartectomía) y aneurismas en el segmento postestenótico. **Objetivo: TAS < 80-90 mmHg**, adaptado a cada paciente. Aparece con o sin estenosis residual y su duración es variable; más frecuente en niños mayores o intervenidos más tarde.
+- Tratamiento: nitroprusiato en perfusión o betabloqueantes (sobre todo si hay taquicardia), preferentemente esmolol y labetalol (vida media corta, perfusión). Con tolerancia oral: IECA o betabloqueantes orales. Control adecuado del dolor.
+
+! El libro da «TAS por debajo de 80-90 mmHg» sin especificar edad; se transcribe tal cual.
+
+### Segundo estadio univentricular (Glenn)
+- HTA y bradicardia muy frecuentes en las primeras 24-72 h tras el *shunt* cavopulmonar bidireccional: dolor, catecolaminas, hipertensión intracraneal o combinación.
+- Si hay aumento de la presión intracraneal (p. ej., estasis venosa por mal funcionamiento del Glenn), la HTA es necesaria para la presión de perfusión cerebral, como en el TCE grave. **No se recomienda tratarla agresivamente**; si se usan vasodilatadores, con mucha cautela.

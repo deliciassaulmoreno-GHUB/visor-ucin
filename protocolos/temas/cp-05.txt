@@ -1,0 +1,109 @@
+@f TEMAS/CP/5
+*Cuidados críticos del niño con patología cardíaca, cap. 32 (Pericarditis. Taponamiento cardíaco. Pericardiocentesis).*
+
+## Taponamiento cardiaco
+
+**Definición:** compresión lenta o rápida del corazón por acúmulo pericárdico de líquido, pus, coágulos o gas (inflamación, traumatismo, rotura cardiaca, disección aórtica). Urgencia vital. Puede surgir de un derrame de cualquier causa, de forma aguda o progresiva.
+
+*Tabla IV. Causas de taponamiento.*
+| Frecuentes | Infrecuentes |
+| Pericarditis // Tuberculosis // **Iatrogénica** (procedimientos invasivos, poscirugía cardiaca, postoperatorio de toracotomía) // Traumatismo // Neoplasia | Enfermedades del colágeno // Radiación // Tras infarto de miocardio // Uremia // Disección aórtica // Infección bacteriana // Neumopericardio |
+
+**Fisiopatología:** compresión de todas las cámaras por aumento de la presión intrapericárdica. Depende de la velocidad y la cantidad de acúmulo, la distensibilidad del pericardio y las presiones de llenado. La curva presión-volumen del pericardio tiene un ascenso lento inicial seguido de un tramo casi vertical, que es el que produce la compresión crítica; el acúmulo rápido se tolera peor.
+
+### Clínica
+- Dificultad del retorno venoso → menor llenado y gasto: taquipnea, taquicardia, vasoconstricción periférica; al fallar la compensación, hipotensión y oliguria.
+- Ingurgitación yugular y hepatomegalia.
+- **Pulso paradójico:** descenso de la PAS > 10 mmHg en inspiración, con menor presión de pulso (en el taponamiento grave puede no apreciarse por la hipotensión, pero la presión venosa está claramente elevada).
+- Intranquilidad, distrés respiratorio, latido precordial disminuido, tonos apagados.
+- El taponamiento agudo grave produce bajo gasto, colapso y muerte. **Sospecharlo en portadores de catéter central con deterioro respiratorio o hemodinámico brusco** (perforación por catéter).
+
+### Diagnóstico
+- **ECG:** signos de pericarditis, voltajes del QRS bajos y alternancia eléctrica.
+- **Ecocardiografía** (la herramienta más útil; guía la pericardiocentesis). Signos de taponamiento: corazón oscilante; colapso diastólico precoz del VD; colapso diastólico tardío de la AD; movimiento anómalo del septo; variación respiratoria exagerada (> 25 %) del flujo mitral; disminución inspiratoria y aumento espiratorio del flujo diastólico de venas pulmonares; variación respiratoria del tamaño ventricular y de la velocidad del flujo aórtico (pulso paradójico ecocardiográfico); plétora de la vena cava inferior.
+- TC y RM: generalmente innecesarias salvo que la eco no sea factible.
+
+### Tratamiento
+- Objetivo: mejorar el gasto y **drenar** el pericardio, preferiblemente con **pericardiocentesis ecoguiada**. Drenaje quirúrgico en pericarditis purulenta, derrames espesos que obstruyen drenajes (linfangiomatosis) o sangrado pericárdico urgente (disección aórtica).
+- **No están recomendados diuréticos ni vasodilatadores.**
+- La ventilación con presión positiva aumenta la presión intratorácica y reduce más el gasto: **evitar PEEP elevadas**.
+- Mientras se prepara la pericardiocentesis: **cristaloides 20 ml/kg** rápidos o **albúmina 5 % 10 ml/kg**, e inotrópicos (dopamina o adrenalina).
+- Recurrencias (taponamiento maligno, linfangiomatosis): pericardiotomía con ventana pleuropericárdica.
+
+### Taponamiento en el postoperatorio de cirugía cardiaca
+- Sangrado mediastínico continuo con **obstrucción de los tubos de drenaje**: signos de taponamiento con **ausencia o disminución brusca del débito** por los drenajes.
+- Alto índice de sospecha; **avisar con urgencia al cirujano cardiaco**.
+- Si hay shock: intentar aspirar los coágulos conectando el tubo mediastínico a aspiración negativa o lavándolo; si no se desobstruye, abrir con técnica aséptica los últimos puntos de tórax y esternón para retirar coágulos.
+- Tratamiento definitivo: **exploración quirúrgica** para localizar y resolver el sangrado.
+
+## Pericardiocentesis
+
+Por personal experto o supervisado; guiada por ecocardiografía o fluoroscopia, con anestesia local y/o sedoanalgesia.
+- **Terapéutica:** taponamiento agudo con riesgo vital o derrame progresivo con compromiso hemodinámico. **A ciegas solo** en taponamiento con muerte inminente sin posibilidad de eco.
+- **Diagnóstica:** sospecha de pericarditis purulenta, tuberculosa o neoplásica; derrame crónico o recurrente.
+
+**Material:** monitorización y vía IV; catéter pericárdico o multiperforado doble J (*pig-tail*) adecuado a la edad con guía en "J"; jeringas, llave de 3 pasos con alargadera, bisturí, antiséptico (clorhexidina o povidona yodada), material estéril, lidocaína 1-2 % sin adrenalina, tubos para cultivo, bioquímica y citología; ECG y ecografía.
+
+**Procedimiento**
+- Monitorización de ECG, FC, FR, SatO~2~ y TA (preferentemente invasiva); vía central si es posible. Equipo de RCP y desfibrilador a pie de cama. Si se puede, hemograma, coagulación y pruebas cruzadas.
+- Sedoanalgesia vigilando la depresión hemodinámica (valorar carga de volumen): p. ej., **midazolam 0,15-0,2 mg/kg + fentanilo 2-3 µg/kg o ketamina 1-3 mg/kg**.
+- Decúbito supino a 30°. Con la eco, buscar el punto con más líquido, más cercano al transductor y sin estructuras interpuestas.
+- Campo estéril; infiltrar anestésico en la región subxifoidea a 1 cm de la línea media, en el margen costoesternal izquierdo.
+- **Punción subxifoidea** (ángulo entre xifoides y reborde costal izquierdo): aguja a 45° respecto al tórax, dirigida a la línea media de la escápula izquierda, aspirando al avanzar; se nota una resistencia que cede al entrar en el pericardio (en niños pequeños a aprox. 5 cm; en adolescentes a 6-8 cm). Alternativas ecoguiadas: paraapical o paraesternal.
+- Al obtener líquido, avanzar la cánula (comprobando por eco que está dentro) y retirar la aguja. Muestras: microbiología (Gram, Ziehl, cultivo bacteriano y fúngico), citología y bioquímica (glucosa, LDH, proteínas, colesterol, ADA, anticuerpos antinucleares, factor reumatoide). Extraer lentamente la máxima cantidad posible.
+- **Dejar drenaje** (Seldinger: guía en J, dilatador, *pig-tail* preferiblemente en la cara lateral izquierda). Con control ecográfico no hace falta monitorizar el ECG a través de la aguja.
+- Verificar la posición con eco o radiografía; fijar. Permeabilidad con lavados cada 5-6 h con suero salino con 50-100 UI de heparina. Preferiblemente aspiración continua suave (Pleurevac®) o intermitente cada 4-6 h. Retirar cuando el débito sea escaso y no haya derrame en la eco.
+- **Mínimo 24 h en UCIP** por si reaparece el taponamiento.
+
+**Limitaciones y complicaciones**
+- Si el líquido no está libre, es lateral/posterior o está a más de 10 mm (hemopericardio con coágulos, purulenta loculada) o en el taponamiento por síndrome pospericardiotomía, **es más seguro el abordaje quirúrgico**.
+- Complicaciones 4-10 %: arritmias, punción de coronaria o de cámara cardiaca, hemotórax, neumotórax, neumopericardio, daño hepático.
+
+## Pericarditis
+
+- Reacción inflamatoria del pericardio (líquido normal en el niño 10-15 cc). Puede producir derrame, taponamiento o, por adherencias, constricción. Aguda; incesante (> 4-6 semanas); crónica (> 3 meses); recurrente (nuevo episodio tras 4-6 semanas o más sin síntomas).
+- **Etiología:** en nuestro medio, infecciosa (viral, generalmente sin diagnóstico exacto); TBC es la primera causa mundial. **La pericarditis tras pericardiotomía quirúrgica (sobre todo tras cierre de defectos auriculares) es la más descrita actualmente en nuestro medio.** Otras: bacterianas, autoinmunes (LES, ARJ, fiebre reumática, Kawasaki…), traumáticas/iatrogénicas (perforación por catéter central, síndrome pospericardiotomía), fármacos, neoplasias, uremia.
+- **Diagnóstico clínico (2 de 4):** dolor torácico pleurítico que mejora sentado e inclinado hacia delante (> 85-90 %); roce pericárdico (≤ 33 %); ECG con elevación difusa del ST y/o descenso del PR (hasta 60 %); derrame pericárdico (hasta 60 %, generalmente leve). En lactantes el dolor puede pasar inadvertido (intranquilidad); la taquicardia puede ser el único signo.
+- **ECG:** fases (ST elevado con T positiva y PR descendido → aplanamiento → T invertida → normalización), poco típicas en niños; con derrame importante, bajo voltaje y alternancia eléctrica.
+- **Ecocardiografía:** derrame pequeño (< 10 mm), moderado (10-20 mm) o grande (> 20 mm), medido en telediástole. Los derrames loculados o con coágulos (p. ej., tras cirugía cardiaca) pueden ser difíciles de ver.
+
+*Tabla II. Cuantificación del derrame según Béland (diámetro del derrame respecto a la raíz aórtica en diástole, eje largo).*
+| Grado | Definición |
+| 0 | ≤ 2 mm |
+| 1 | < 1/4 raíz aórtica |
+| 2 | ≥ 1/4 < 1/2 raíz aórtica |
+| 3 | ≥ 1/2 < 3/4 raíz aórtica |
+| 4 | ≥ 3/4 < raíz aórtica |
+| 5 | ≥ raíz aórtica |
+
+- **TC / RM:** engrosamiento y realce pericárdico; grosor > 4 mm se considera anormal; útiles en derrames focales.
+- **Laboratorio:** función renal y hepática, iones, gasometría, hemograma, PCR, VSG; CK, CK-MB, troponina T y proBNP; cultivos, serologías y PCR virales; *Mycoplasma* y TBC; autoinmunidad según sospecha. Análisis del líquido si se hace pericardiocentesis (citología, proteínas, glucosa, colesterol, triglicéridos, microbiología).
+
+**Manejo**
+- Ingreso de todo niño con sospecha. **UCIP si:** sepsis, shock séptico, insuficiencia cardiaca, alteraciones del ritmo, signos de taponamiento o derrame grande.
+- Restricción de la actividad física hasta resolver los síntomas y normalizar la PCR (deportistas de competición: al menos 3 meses).
+- **AINE a dosis altas** de primera elección (ibuprofeno preferente; evitar AAS). **Colchicina** asociada (primer fármaco de rescate si no responde a AINE; reduce a la mitad las recurrencias); mantenimiento 0,5 mg/día en < 5 años y 1-1,5 mg/día en 2-3 dosis en > 5 años. **Corticoides** no de primera elección (favorecen la cronicidad): si fallan AINE + colchicina, enfermedades autoinmunes o síndrome pospericardiotomía; mínima dosis eficaz. **Anakinra** 1-2 mg/kg/día SC (máx. 100 mg/día) en corticodependientes.
+
+*Tabla III. Fármacos en la pericarditis aguda.*
+@ancha
+| Fármaco | Dosis de carga* | Duración y reducción |
+| AAS | Preferible evitarlo (síndrome de Reye). 60-100 mg/kg/día en 3-4 dosis (máx. 1 g c/6-8 h) | Primer episodio: 1-4 semanas (mientras persistan síntomas). Recurrencias: semanas-meses. Duración óptima discutible, guiada por la PCR; reducción cada 1-2 semanas solo si asintomático y PCR normal |
+| Ibuprofeno | 30-50 mg/kg/día c/8 h; máx. 2,4 g/día | (casilla común con el AAS en la tabla) |
+| Indometacina | > 2 años: oral 1-2 mg/kg/día en 2-4 dosis; máx. 4 mg/kg/día, sin sobrepasar 150-200 mg/día | (casilla común con el AAS en la tabla) |
+| Naproxeno | > 2 años: oral 10 mg/kg/día en 2 dosis; máx. 15 mg/kg/día | (casilla común con el AAS en la tabla) |
+| Colchicina | Inicial 0,02 mg/kg/día con aumento diario hasta 1 mg/día máx. | 6-18 semanas; algunos autores mantienen 0,5 mg/día durante 1 año |
+| Prednisona / metilprednisolona | Dosis baja: 0,2-0,5 mg/kg/día de prednisona | No de primera elección. Hasta reducir síntomas; descenso muy lento |
+
+Nota de la tabla (*): iniciar por el límite inferior y ajustar al alza.
+
+**Pronóstico:** bueno en la viral/idiopática. Riesgo de constricción < 1 % (idiopática/viral), 2-5 % (autoinmune, neoplásica), 20-30 % (bacteriana, sobre todo TBC y purulenta). Sin colchicina, 15-30 % recurren. Factores de mal pronóstico: fiebre > 38 °C, curso subagudo, derrame > 20 mm, taponamiento, falta de respuesta a AINE en 7 días; menores: miopericarditis, inmunodepresión, traumatismo, anticoagulantes orales.
+
+### Síndrome pospericardiotomía (SPP)
+- 2-6 semanas tras cirugía con apertura del pericardio (casos tardíos a las 12-52 semanas). Más frecuente tras **cierre de CIA**; también estenosis subaórtica, CIV, tetralogía de Fallot. Autolimitado en 2-3 semanas; patogenia autoinmune.
+- **Diagnóstico (≥ 2 de 5):** fiebre sin otra causa; dolor pericárdico o pleurítico; roces pericárdicos o pleurales; derrame pericárdico; derrame pleural con elevación de la PCR. Es fundamental demostrar actividad inflamatoria.
+- Tratamiento antiinflamatorio empírico (como la pericarditis aguda). Prevención: solo la colchicina se ha asociado a menor riesgo; no se recomienda tratamiento perioperatorio en ausencia de inflamación sistémica ni dexametasona intraoperatoria a dosis altas. Pronóstico bueno: < 4 % recurrencias, < 2 % taponamiento.
+
+### Pericarditis purulenta
+< 1 %; asociada a infecciones graves (neumonía con empiema, meningitis, osteomielitis). *S. aureus*, *S. pyogenes*, *S. pneumoniae*. Rápida progresión a taponamiento y constricción. **Pericardiocentesis urgente** y, como tratamiento definitivo, ventana pericárdica o pericardiostomía subxifoidea con lavado (trombólisis intrapericárdica si hay loculaciones). Antibioterapia empírica (cefotaxima/ceftriaxona + cloxacilina/vancomicina) durante 6-8 semanas.
+
+! En el libro, el recuento celular medio del líquido purulento figura como «2,8/µl con 92 % de neutrófilos»; la cifra parece incompleta y no se reproduce como valor de referencia.

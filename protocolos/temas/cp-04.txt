@@ -1,0 +1,183 @@
+@f TEMAS/CP/4
+*Cuidados críticos del niño con patología cardíaca, cap. 31 (Arritmias en el postoperatorio de cirugía cardíaca).*
+
+Las arritmias son una de las complicaciones más frecuentes del postoperatorio inmediato de cardiopatías congénitas: incidencia 10-50 %, mortalidad hasta el 12 %. Las taquiarritmias, la bradicardia extrema y la pérdida de sincronía AV pueden comprometer gravemente el gasto cardiaco.
+
+## Bradiarritmias
+
+Las más frecuentes: disfunción del nodo sinusal (habitualmente transitoria), bradiarritmia farmacológica y bloqueos de conducción (pueden comprometer la vida si no hay cables de marcapasos).
+
+- **Disfunción del nodo sinusal:** bradicardia sinusal con pausas o ritmo nodal de escape. Tras cirugías con manipulación de la aurícula derecha. Suele ser temporal (a veces permanente).
+- **Bloqueo AV:** tras cirugías del tracto de salida del VI, del septo interventricular y, especialmente, la corrección de la tetralogía de Fallot.
+  - 1.^er^ grado: PR alargado; sin repercusión ni tratamiento urgente.
+  - 2.º grado Mobitz 1 (Wenckebach): alargamiento progresivo del PR hasta una P no conducida; relativamente bien tolerado.
+  - 2.º grado Mobitz 2: bloqueo intermitente; riesgo de progresar a completo.
+  - 3.^er^ grado (completo): disociación AV completa; la frecuencia de escape ventricular define la repercusión.
+
+**Manejo:** marcapasos secuencial con **cables auriculares y ventriculares** colocados en quirófano (optimizan la frecuencia y la sincronía AV). Si fallan los cables: cronoestimulantes transitorios (isoproterenol, atropina, adrenalina…) mientras se coloca un marcapasos endocavitario percutáneo o se usa estimulación externa.
+- **Mobitz 2 o BAV completo que persisten 2 semanas después de la cirugía: indicación de marcapasos definitivo.**
+
+*Tabla I. Fármacos en la bradiarritmia.*
+@ancha
+| Fármaco | Indicaciones | Dosis | Efectos secundarios |
+| Atropina | Bradicardia sinusal // Bloqueo AV | Bolo: 0,01-0,02 mg/kg (mín. 0,1 mg, máx. 2 mg) | Taquicardia // Bradicardia paradójica |
+| Adrenalina | Asistolia (RCP) // Bradicardia grave | Bolo: 0,01 mg/kg // BIC: 0,05-2 µg/kg/min | Taquicardia // HTA // Arritmias |
+| Isoproterenol | Bloqueo AV | BIC: 0,01-0,05 µg/kg/min | Taquicardia // Arritmias |
+
+## Taquiarritmias
+
+Son las arritmias más frecuentes del postoperatorio inmediato; etiología multifactorial (factores intra y extraoperatorios).
+
+### Clasificación por mecanismo
+*Tabla II.*
+@ancha
+| | Reentrada | Automatismo |
+| Inicio | Súbito ("on-off") | Progresivo: "warm-up" / "cool-down" |
+| Frecuencia | Constante | Variable |
+| Cuándo | Más frecuente en neonatos; menos en el postoperatorio inmediato | **Más frecuente en el postoperatorio inmediato** |
+| Tipos | Flutter auricular; taquicardia por reentrada AV (macrorreentrada); reentrada intranodal (microrreentrada); taquicardia recíproca permanente de la unión | Taquicardia auricular ectópica; taquicardia auricular multifocal; taquicardia ectópica de la unión (JET) |
+| Tratamiento | Cardioversión eléctrica, sobreestimulación auricular o cardioversión farmacológica eficaces (sobre todo si el circuito incluye el nodo AV) | Disminuir el automatismo: hipotermia, optimizar sedación y dolor, curarización si es necesario, minimizar inotrópicos, normalizar electrolitos (Mg y Ca) y pH. **Cardioversión eléctrica y farmacológica no eficaces** |
+
+### Diagnóstico diferencial (ratio P:QRS)
+*Figura 1 del capítulo. QRS estrecho/ancho: < / > 80 ms.*
+- **QRS estrecho**
+  - P:QRS > 1:1 → ritmo auricular regular: flutter; variable: taquicardia auricular ectópica (EAT); caótico: taquicardia auricular multifocal (MAT) o fibrilación auricular.
+  - P:QRS 1:1 → intervalo QRS-P: P no visible: reentrada intranodal (AVNRT); corto: reentrada AV ortodrómica (AVRT); largo: PJRT o EAT.
+  - P:QRS < 1:1 → JET.
+- **QRS ancho**
+  - P:QRS 1:1 → TV, TSV con bloqueo de rama, AVRT antidrómica.
+  - P:QRS > 1:1 → TV.
+
+! La figura del libro sitúa la TV con QRS ancho en las ramas «1:1» y «> 1:1»; en la Tabla III del mismo capítulo la TV figura con ratio P/QRS < 1:1. Se transcribe tal cual.
+
+### Clasificación por localización
+*Tabla III.*
+@ancha
+| Arritmia | Características | Tratamiento |
+| {3} **Auriculares** (P/QRS > 1:1, excepto flutter > 1:1 o 1:1) |
+| Taquicardia auricular ectópica (automatismo) | P no sinusales antes del QRS; QRS estrecho; frecuencia variable | 1. Disminuir automatismo* // 2. Amiodarona o procainamida // 3. β-bloqueante (esmolol o propranolol) ± flecainida o propafenona |
+| Taquicardia auricular multifocal (automatismo) | Irregularmente irregular; P de morfología cambiante; ráfagas cortas | (mismo bloque que la anterior en la tabla) |
+| Flutter auricular (reentrada) | Frecuencia auricular > 300 lpm; P en "dientes de sierra"; conducción AV variable 1:1-3:1; QRS estrechos e irregulares; la adenosina desenmascara el flutter | 1. Cardioversión eléctrica sincronizada: 1 J/kg // 2. Sobreestimulación auricular // 3. Amiodarona o procainamida. Otros: flecainida, digoxina |
+| {3} **Sistema de conducción** (P/QRS 1:1, excepto JET 1:1 o < 1:1) |
+| AVRT ortodrómica (reentrada) | Vía accesoria oculta; P retrógrada tras el QRS; QRS-P corto (0,08); QRS estrecho | **Estable:** 1. Maniobras vagales y oxigenoterapia // 2. Adenosina IV en bolo 100 → 200 → 300 µg/kg // 3. Amiodarona o procainamida (otros: flecainida, esmolol) // 4. Sobreestimulación auricular // **Inestable:** 1. Cardioversión eléctrica sincronizada 1 J/kg → 2 J/kg // 2. Seguir el mismo algoritmo farmacológico |
+| AVRT antidrómica (reentrada) | Vía accesoria Wolff-Parkinson-White; onda delta en ritmo sinusal; P retrógrada invertida en II y aVF; QRS-P corto (0,08); QRS ancho | (bloque de tratamiento común con la AVRT ortodrómica en la tabla) |
+| Reentrada intranodal (AVNRT) | P no visible, QRS-P muy corto con P superpuesta al QRS; despolarización A y V simultáneas; doble vía nodal (rápida y lenta) | (bloque de tratamiento común con la AVRT en la tabla) |
+| PJRT (vía de Coumel)† | Incesante, aprox. 200 lpm; P invertida en II, III y aVF antes del QRS; QRS-P largo | (bloque común con la AVRT) // † Si reaparece tras la cardioversión, amiodarona; se indica ablación precoz |
+| JET (automatismo) | Frecuencia > 170 lpm; disociación AV; QRS estrecho; P retrógradas posibles e irregulares | 1. Disminuir el automatismo* // 2. Hipotermia 34-36 °C // 3. Amiodarona // 4. Procainamida (si no baja el ritmo nodal con amiodarona) // 5. Resincronización AV con marcapasos // 6. Dexmedetomidina // 7. Corticoterapia |
+| {3} **Ventriculares** (P/QRS < 1:1) |
+| Taquicardia ventricular | QRS anchos; P disociadas; latidos de "captura"; duración > 30 s | 1. Inestable: cardioversión sincronizada 1 J/kg; estable: amiodarona // 2. Lidocaína // 3. Procainamida // 4. *Torsade de pointes*: sulfato de magnesio IV 15-30 mg/kg en 20 min |
+| Fibrilación ventricular | Ritmo irregular y caótico; shock hemodinámico | RCP // 1. Desfibrilación 4 J/kg // 2. Amiodarona (tras 3.ª y 5.ª desfibrilación) 5 mg/kg IV + adrenalina 0,01 mg/kg IV |
+
+Nota de la tabla (*): en un estado hiperadrenérgico es frecuente la recurrencia inmediata de la TSV tras adenosina; se requiere tratamiento de acción más prolongada: digoxina, β-bloqueante, amiodarona, procainamida.
+
+! Discrepancias del propio capítulo: la Tabla III da hipotermia 34-36 °C para el JET y el texto 35-36 °C; la Tabla III da cardioversión de la TV a 1 J/kg y el apartado de cardioversión 1-2 J/kg. En la tabla, la ubicación de la fila de tratamiento de la taquicardia auricular multifocal no está separada de la ectópica.
+
+### Asociaciones cirugía-arritmia
+*Tabla IV.*
+@ancha
+| Cirugía | Arritmias habituales |
+| Anomalía de Ebstein | Auriculares; ventriculares |
+| Atresia pulmonar (ventrículo único) | Auriculares |
+| Canal AV | Bloqueo AV; JET |
+| CIA | Disfunción del nodo sinusal; taquicardia por reentrada auricular; bloqueo de rama derecha; JET |
+| CIV | Bloqueo de rama derecha; bloqueo AV; JET |
+| Doble salida del VD | Bloqueo AV; taquicardia ventricular |
+| Estenosis aórtica | Bloqueo AV |
+| Fontan | Disfunción del nodo sinusal; taquicardia por reentrada auricular |
+| Heterotaxias | Bloqueo AV completo |
+| Norwood | JET |
+| Reparación del tracto de salida del VI | Bloqueo de rama izquierda |
+| Retorno venoso pulmonar anómalo | Disfunción del nodo sinusal; auriculares; JET |
+| Senning/Mustard | Taquicardia por reentrada auricular |
+| Tetralogía de Fallot | Bloqueo de rama derecha; JET; taquicardia ventricular |
+| Transposición de grandes arterias | Disfunción del nodo sinusal; auriculares; bloqueo AV completo; taquicardia ventricular |
+| Truncus arterioso | Bloqueo AV; JET; taquicardia ventricular |
+
+## Taquicardia ectópica de la unión (JET)
+
+- **La arritmia hemodinámicamente significativa más frecuente del postoperatorio inmediato.** Primeras 24-48 h, intermitente, dura 2-5 días. Incidencia 10-50 %, mortalidad hasta el 10 %.
+- **Definición:** taquiarritmia automática del nodo AV, QRS estrecho, **> 170 lpm, con disociación AV**; a veces conducción retrógrada con P retrógradas en el auriculograma.
+- **Factores de riesgo:** neonatos y lactantes pequeños; cirugías complejas con tiempos quirúrgicos y de bypass prolongados (> 100 min); lesión miocárdica importante (> 2 inotrópicos, lactato > 20 mg/dl en el postoperatorio inmediato); hipertermia, hipomagnesemia. Cirugías más asociadas: canal AV, tetralogía de Fallot, TGA.
+- **Fisiopatología:** desconocida (¿tracción o traumatismo del nodo AV o His?); la descarga adrenérgica endógena o exógena aumenta el automatismo. Taquicardia + asincronía AV empeoran el gasto.
+
+**Tratamiento** (objetivo: bajar la frecuencia y, si el gasto se compromete, restablecer la sincronía AV):
+1. **Disminuir el automatismo del nodo AV:**
+  - Optimizar sedación y analgesia; en la mayoría, plantear curarización.
+  - Disminuir las catecolaminas exógenas.
+  - Normalizar Mg y Ca (el magnesio durante la CEC se ha asociado a menos JET).
+  - Evitar hipertermia; hipotermia terapéutica moderada (35-36 °C).
+  - Corticoides: evidencia insuficiente para recomendarlos.
+  - Antiarrítmico: **amiodarona**; si es necesario, procainamida.
+  - Dexmedetomidina como adyuvante de la sedación: eficaz en la prevención.
+2. **Marcapasos para restaurar la sincronía AV:** con la frecuencia nodal < 150 lpm, la estimulación auricular (AAI o AOO) suele bastar; si no, marcapasos AV secuencial (habitualmente DDD).
+
+## Fármacos antiarrítmicos
+
+*Tabla V. Clasificación de Vaughan-Williams.*
+@ancha
+| Clase | Mecanismo y efectos | Indicaciones | Fármaco | Dosis | Efectos adversos |
+| IA | Bloqueo de canales de Na (fase 0); ↓ FC; alargan el potencial de acción y el QT; enlentecimiento moderado de la conducción; bloqueo AV | Arritmias SV y V; preexcitación; JET; FA | Procainamida (otros: quinidina, disopiramida) | Bolo: 3-15 mg/kg en 30 min (máx. 100 mg) // P: 20-80 µg/kg/min | Síndrome *lupus-like*; hipotensión; arritmias |
+| IB | Acortan la repolarización; aumentan el periodo refractario; reducen automatismo; mínimo enlentecimiento; bloqueo AV | Arritmias V; intoxicación digitálica | Lidocaína (otros: fenitoína, mexiletina, tocainida) | Bolo: 1 mg/kg (repetir c/10 min, máx. 5 dosis) // P: 10-50 µg/kg/min | Bradicardia; hipotensión; efectos SNC |
+| IC | Alargan el periodo refractario; ↓ FC; enlentecimiento importante; alargan PR y QRS; ↓ función del VI | Arritmias SV; FA; preexcitación; arritmias V | Propafenona | Bolo: 1-2 mg/kg en 15 min (máx. 140 mg) // P: 4-8 µg/kg/min | Hipotensión; bradicardia; arritmias |
+| IC | | | Flecainida | Bolo: 2-4 mg/kg en 30 min (máx. 150 mg) // P: 0,25-1 mg/kg/h | Hipotensión; arritmias |
+| II | β-bloqueantes: ↓ automatismo, FC y velocidad de conducción; alargan el periodo refractario del nodo AV; ↓ función del VI | Arritmias SV; extrasistolia V | Esmolol | Bolo: 0,1-0,5 mg/kg en 2-4 min // P: 50-300 µg/kg/min | Hipotensión; bradicardia; broncoespasmo |
+| II | | | Propranolol | Bolo: 0,1 mg/kg c/6 h IV en 5 min (máx. 1 mg/dosis) | |
+| III | Bloqueo de canales de K^+^; alargan el potencial de acción; retrasan la repolarización; ↓ FC | Arritmias por reentrada; preexcitación; arritmias V; JET | Amiodarona | Bolo: 5 mg/kg en 20 min (hasta 20 mg/kg) // P: 5-20 µg/kg/min | Alteración tiroidea; hepatitis tóxica; bradicardia; hipotensión |
+| III | | | Sotalol | Bolo: 1,5 mg/kg | Alarga QT |
+| IV | Bloqueo de canales de Ca^2+^; ↓ velocidad de conducción; alargan el periodo refractario; bloquean el nodo AV | Arritmias A y SV | Verapamilo | Bolo: 0,1-0,2 mg/kg en 2 min, 2-3 dosis // P: 1-5 µg/kg/min | Hipotensión; bradicardia; PCR; **uso muy restringido en niños** |
+| IV | | | Diltiazem | Bolo: 0,25 mg/kg en 2 min // P: 0,1-0,3 mg/kg/h | |
+| Otros | | Arritmia SV | Adenosina | Bolo: 1.º 100 µg/kg, 2.º 200 µg/kg, 3.º 300 µg/kg | Broncoespasmo; alerta en trasplante |
+| Otros | ↑ Na y Ca intracelular (inotrópico +); ↓ conducción por nodo sinusal y AV; ↓ tono simpático | FA; arritmias SV | Digoxina | Bolo: 15 µg/kg lento 5-10 min (hasta 0,5 mg) | Bradicardia; bloqueo AV; arritmia ventricular |
+| Otros | Agonista α2 | Taquicardia nodal; JET | Dexmedetomidina | Bolo: 0,5-1 µg/kg en 10 min // P: 0,2-0,7 µg/kg/h | Hipotensión; bradicardia; sedante |
+
+! En el libro, «Propanolol» y «Tocainida»/«Mexilitina» aparecen escritos así; aquí se normaliza a propranolol y mexiletina.
+
+## Marcapasos temporal
+
+En el postoperatorio se usan marcapasos temporales bicamerales con electrodos epicárdicos bipolares: modulan la frecuencia, tratan bradiarritmias y bloqueos, rescatan la asincronía AV y permiten sobreestimulación auricular.
+
+**Parámetros**
+1. **Salida (mA):** rango 0,1-25 mA; inicio habitual 10 mA. Valorar a diario y programar 2 puntos por encima del umbral (mínimo que produce P o QRS y contracción).
+2. **Sensibilidad (mV):** rango 0,4-20 mV; inicio habitual auricular 0,5 mV y ventricular 2 mV. Valorar a diario y programar la mitad del umbral de sensibilidad (sensibilidad mínima que sensa todas las P y QRS).
+3. **Frecuencia** de estimulación.
+4. **Intervalo AV:** 50-300 ms, según la frecuencia.
+5. **Seguimiento auricular:** estimular el ventrículo tras una P propia.
+6. **PVARP:** periodo tras el QRS en que no se responde a estímulos auriculares.
+7. **Frecuencia máxima** de seguimiento ventricular: determinada por el TARP (intervalo AV + PVARP).
+
+! El libro denomina «Voltaje (mA)» a la salida; se mantiene la unidad mA del original.
+
+**Nomenclatura:** cámara estimulada – cámara sensada – respuesta (A aurícula, V ventrículo, D ambas, O ninguna; I inhibición, T *trigger*, D ambos, O ninguno).
+- Nodo AV conservado y se quiere aumentar la frecuencia: AAI, AOO.
+- Bloqueo AV: marcapasos secuencial; idealmente con sensado auricular y estimulación ventricular (DDD, DVI, VDD, VVI).
+
+**Selección del modo** *(Figura 3 del capítulo)*:
+1. ¿Electrocauterización o cirugía? Sí → AOO / VOO / DOO (según conducción AV).
+2. ¿Función sinusal intacta con bloqueo AV? Sí → VDD.
+3. Si no → AAI. ¿Buena captura auricular? No → VVI.
+4. Con buena captura: ¿bloqueo AV? No → AAI; sí → DDD.
+5. Con DDD: si hay taquiarritmia por marcapasos → DVI (riesgo de precipitar FA) o DDD tras ajustar PVARP, salida o sensibilidad; si hay taquiarritmia supraventricular → DDI (previene la sobreestimulación ventricular).
+
+**Otras funciones**
+- *Overdrive pacing* auricular para arritmias por reentrada.
+- **Flutter:** sobreestimulación auricular a una frecuencia 10-30 % mayor; tras confirmar la captura (P de morfología distinta), parar bruscamente.
+- **TSV:** *underdrive pacing* (periodo refractario en el circuito) u *overdrive pacing* (despolarización auricular anterógrada).
+
+**Problemas**
+- **Fallo de estimulación** (sin salida ni espícula): cable o batería, inhibición, *cross-talk*, sobresensado. Los problemas de sensado se resuelven pasando a modo asincrónico.
+- **Fallo de captura** (espícula sin contracción): fibrosis, isquemia, alteraciones metabólicas (hiperglucemia, hipoxemia, hiperpotasemia, acidosis o alcalosis), antiarrítmicos. Cambiar la polaridad, corregir causas, revisar salida y periodos refractarios.
+- **Fallo de sensado:** mismas causas. Infrasensado → competición con el ritmo propio; sobresensado → inhibición y pausas ventriculares.
+- Los cables fallan con los días, sobre todo **> 5 días** (inflamación); a veces útiles los corticoides sistémicos.
+- **Wenckebach del marcapasos** (DDD, ritmo auricular por encima de la frecuencia máxima): ajustar intervalo AV y PVARP. Un AV demasiado corto es hemodinámicamente desfavorable y un PVARP demasiado corto puede inducir taquicardia mediada por marcapasos o sobresensado.
+- **Taquicardia "endless loop"** (DDD o VDD, conducción VA retrógrada iniciada por una extrasístole ventricular): pasar a un modo sin sensado auricular (DVI, VVI) o alargar el PVARP.
+- **Fibrilación:** en modos unicamerales asincrónicos (AOO, VOO) un estímulo en la repolarización puede desencadenar FA o FV.
+- **Cross-talk** (en sensado dual): disminuir la sensibilidad o la salida.
+- **Emergencia:** marcapasos transcutáneo o transesofágico (estimulación auricular transitoria; introducir a talla (cm)/5 desde la boca; salida > 10 mA).
+
+## Desfibrilación y cardioversión
+
+- **Desfibrilación** (asincrónica): FV o TV sin pulso, **4 J/kg**.
+- **Cardioversión** (sincronizada con la R): TSV o TV con inestabilidad y/o refractarias a fármacos, **1-2 J/kg**.
+- Desfibriladores bifásicos. Parches (de elección; más eficaces y seguros) o palas, con máxima superficie de contacto y sin tocarse: infraclavicular derecho y ápex/axilar media izquierda; en pequeños, anterior y posterior. Funcionan igual invertidos.
+- **Procedimiento:** encender y elegir modo → confirmar ritmo (en sincronizada, buen sensado de la R; ajustar sensibilidad) → seleccionar energía y cargar → comprobar que persiste el ritmo → seguridad (nadie en contacto; retirar oxígeno libre, se puede mantener por ventilación invasiva) → descargar manteniendo pulsado el botón (en sincronizada puede haber retraso hasta detectar la R).
+- **Postoperatorio cardiaco:** con marcapasos interno o DAI, separar los parches al menos 12 cm; con marcapasos externo, **desconectarlo antes de la descarga**.
