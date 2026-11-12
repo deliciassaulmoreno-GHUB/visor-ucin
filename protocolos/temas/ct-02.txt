@@ -1,0 +1,79 @@
+@f TEMAS/CT/2
+*Fuente principal: Cuidados críticos del niño con patología cardíaca, cap. 42 (Cateterismo en pediatría). Complemento: Cardiología pediátrica para residentes, cap. 22.*
+
+## Frecuencia y riesgo
+
+- Efectos adversos en el **4,5 %** de los procedimientos (1.072 en 665 pacientes de 14.790 cateterismos). Se relacionan con edad, peso, situación clínica previa, fármacos vasoactivos, ventilación mecánica, complejidad de la cardiopatía y tipo de procedimiento.
+- Efectos con riesgo vital: < 1 % en la categoría 1 (p. ej., embolización de colateral venosa en > 1 año); 4 % en la categoría 3 (p. ej., valvuloplastia aórtica en > 1 mes) y 7 % en la 4 (p. ej., stent en arteria pulmonar).
+
+*Tabla I. Efectos adversos más frecuentes (CRISP, Nykanen 2016).*
+@ancha
+| Efecto adverso | N | % |
+| Necesidad de aumentar el soporte vasoactivo | 134 | 0,91 |
+| Prolongación no esperada de la hospitalización | 110 | 0,74 |
+| Compromiso arterial que precisa cirugía o intervención percutánea | 104 | 0,70 |
+| Transfusión no planeada | 94 | 0,64 |
+| Arritmia que precisa tratamiento farmacológico | 87 | 0,59 |
+| Migración de dispositivo | 75 | 0,51 |
+| Procedimiento de emergencia | 69 | 0,47 |
+| Daño vascular que requiere cirugía o tratamiento percutáneo | 60 | 0,40 |
+| Efecto adverso tras el alta | 41 | 0,24 |
+| Bloqueo cardiaco completo | 36 | 0,24 |
+| Daño en otro órgano | 29 | 0,19 |
+| Paro cardiaco en las 24 h siguientes | 25 | 0,17 |
+| Perforación cardiaca | 24 | 0,16 |
+| Hemopericardio | 21 | 0,14 |
+| Paro cardiaco o broncoespasmo en la inducción | 21 | 0,14 |
+| Sangrado tardío que requiere transfusión | 19 | 0,13 |
+| Accidente cerebrovascular | 14 | 0,09 |
+| Transfusión tras el alta | 14 | 0,09 |
+| Muerte relacionada con el procedimiento | 12 | 0,08 |
+| Compromiso venoso que precisa cirugía o tratamiento percutáneo | 11 | 0,07 |
+| Migración de dispositivo tras el alta | 11 | 0,07 |
+| ECMO no planificada | 11 | 0,07 |
+| Hemotórax | 9 | 0,06 |
+| Anafilaxia | 7 | 0,05 |
+| Crisis convulsiva | 7 | 0,05 |
+| Daño renal | 6 | 0,04 |
+| Retención no planeada de dispositivo | 5 | 0,03 |
+| Embolismo pulmonar | 4 | 0,03 |
+| Pseudoaneurisma | 3 | 0,02 |
+| Fístula arteriovenosa | 3 | 0,02 |
+| Hematoma retroperitoneal | 2 | 0,01 |
+| Embolia sistémica que requiere cirugía | 2 | 0,01 |
+| Infección | 2 | 0,01 |
+| **Total** | **1.072** | **4,5** |
+
+*Tabla II. Categorías de riesgo de los cateterismos terapéuticos (Bergersen, 2011).*
+@ancha
+| | Categoría 1 | Categoría 2 | Categoría 3 | Categoría 4 |
+| Edad | > 1 año | > 1 mes y < 1 año | < 1 mes | |
+| Valvuloplastia | | Pulmonar > 1 mes | Aórtica > 1 mes; pulmonar < 1 mes; tricúspide | Aórtica < 1 mes; mitral |
+| Dispositivo o *coil* | Colateral venosa; VCSI | Ductus; CIA; fenestración de Fontan; colaterales aortopulmonares | Fístula sistémico-pulmonar; fístula coronaria; fuga en parche | CIV; fuga perivalvular |
+| Angioplastia con balón | | TSVD; aorta < 8 atm | Arteria pulmonar < 4 vasos; aorta > 8 atm; fístula quirúrgica; colaterales aortopulmonares; vena sistémica | Vena pulmonar |
+| *Stent* | | Vena sistémica | TSVD; aorta; arteria sistémica | Septo interventricular; arteria pulmonar; vena pulmonar; fístula quirúrgica; colaterales aortopulmonares |
+| Redilatación de *stent* | | TSVD; aorta; arteria sistémica | Arteria pulmonar; vena pulmonar | Septo interventricular |
+| Otras | Biopsia miocárdica | Extracción de cuerpo extraño; punción transeptal | Septostomía auricular; recanalización de arteria enjaulada en stent; recanalización de vaso ocluido | Stent o dilatación del septo auricular; cualquier cateterismo < 4 días tras cirugía cardiaca; perforación de válvula atrésica |
+
+## Complicaciones en la zona de punción
+
+Las más frecuentes en la UCIP; habitualmente leves (pequeño sangrado, hematoma), pero **aumentan con el tamaño del introductor y con la punción arterial**. Vigilar el acceso las horas siguientes; si hay sangrado significativo, retirar el vendaje y volver a comprimir viendo el punto de punción.
+
+- **Hematoma retroperitoneal:** de asintomático a hipovolemia grave. **Sospecharlo ante anemia aguda o inestabilidad hemodinámica inexplicada tras acceso femoral (sobre todo arterial).**
+- **Oclusión arterial** (niños pequeños, introductores grandes): frialdad, palidez, pérdida de pulsos.
+  - En neonatos y lactantes es frecuente la **pérdida transitoria del pulso con buena perfusión: no precisa tratamiento**.
+  - Ante sospecha: **Doppler arterial** (angio-TC si no es concluyente o se planea cirugía).
+  - Sin recuperación del pulso: **heparina sódica**. Con perfusión comprometida: **fibrinolíticos**. Cirugía o trombectomía percutánea rara vez, pero sin retrasarla si el tratamiento falla o los fibrinolíticos están contraindicados.
+- **Pseudoaneurisma:** masa palpable creciente; diagnóstico ecográfico. Los pequeños se trombosan solos; los grandes, compresión ± trombina ecoguiada; cirugía si fracasa o hay compromiso arterial.
+- **Fístula arteriovenosa:** tardía (tras el alta); frémito y soplo en la punción; diagnóstico ecográfico. Las pequeñas pueden cerrarse (seguimiento); las grandes, cirugía.
+- Residentes: también espasmo arterial y trombosis venosa (crónica, limita accesos futuros).
+
+## Complicaciones sistémicas (residentes)
+
+- **Perforación cardiaca** con riesgo de taponamiento.
+- Daño vascular (disección, sangrado) o valvular (insuficiencia aguda).
+- **Embolismo** (aéreo, trombótico, de dispositivo) con secuelas multiorgánicas.
+- Arritmias benignas (extrasístoles, TSV) o malignas (TV, FV); bloqueo AV completo.
+- Parada cardiorrespiratoria y muerte.
+
+! El taponamiento y la pericardiocentesis están en «Complicaciones postoperatorias → Taponamiento cardíaco»; las arritmias, en «Alteraciones del ritmo».

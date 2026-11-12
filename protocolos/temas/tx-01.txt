@@ -1,0 +1,40 @@
+@f TEMAS/TX/1
+*Fuente: Cuidados críticos del niño con patología cardíaca, cap. 45 (Trasplante cardíaco).*
+
+## Generalidades
+
+- Alternativa eficaz en la **insuficiencia cardiaca terminal** sin otra opción terapéutica. Vida media del injerto 13-20 años.
+- La escasez de donantes pediátricos y la necesidad de ajuste de peso donante-receptor alargan la lista de espera: manejo pretrasplante complejo, con frecuente necesidad de **asistencia ventricular**.
+
+## Indicaciones
+
+Las más frecuentes son las **cardiopatías congénitas y las miocardiopatías**; más raras, tumores irresecables, retrasplante y arritmias intratables.
+
+*Tabla I. Indicaciones de trasplante cardiaco en pediatría.*
+- **Miocardiopatía dilatada:** idiopática, familiar, miocarditis, toxicidad por adriamicina, distrofia muscular de Becker.
+- **Miocardiopatía restrictiva:** idiopática, fibrosis endomiocárdica eosinofílica.
+- **Miocardiopatía hipertrófica.**
+- **Fallo miocárdico tras corrección quirúrgica** refractario al tratamiento médico.
+- **Cardiopatías congénitas no subsidiarias de cirugía:** Ebstein grave con buen desarrollo de las arterias pulmonares; atresia pulmonar con septo íntegro y sinusoides coronarios; VI hipoplásico con disfunción del VD; canal AV desbalanceado con VI hipoplásico.
+- **Arritmias graves intratables.**
+- **Tumores cardiacos irresecables.**
+
+## Contraindicaciones
+
+- **Absolutas:** hipoplasia de arterias o venas pulmonares; **hipertensión pulmonar irreversible**.
+- **Relativas:** alteraciones genéticas, cromosómicas o malformaciones que limiten la supervivencia o el beneficio; **sepsis activa**; **fallo multiorgánico**; evaluación neurológica anormal de mal pronóstico. Cada vez más revisadas e individualizadas.
+
+## Donante
+
+- Peso: se acepta un donante de **hasta 3 veces el peso del receptor**.
+- **Isquemia > 4 h** se asocia a peor pronóstico (valorar según la situación del receptor).
+- Mismo grupo sanguíneo; en **< 1 año** (inmadurez inmunológica) se hacen **trasplantes ABO incompatibles** con buenos resultados a medio plazo.
+
+! La política de hemoderivados en el trasplante ABO incompatible tiene protocolos propios en el menú Protocolos (46.a y 46.b).
+
+## Estudio para la lista de espera
+
+*Tabla II. Pruebas para la inclusión en lista.*
+- **Cardiovasculares:** ecocardiografía completa; **cateterismo** con resistencias pulmonares (y pruebas farmacológicas de reversibilidad si hace falta) e índice cardiaco; Holter de 24 h; en mayores, ergometría con consumo máximo de O~2~.
+- **Generales:** radiografía de tórax; cariotipo; grupo, Rh y Coombs directo; hemograma; inmunidad celular; **panel de anticuerpos reactivos (anti-HLA I y II)**; serologías (VEB, hepatitis B y C, CMV, VIH); cultivos; función hepática y renal.
+- **Consentimiento informado** del tutor legal o del menor maduro.

@@ -1,0 +1,50 @@
+@f TEMAS/TX/4
+*Fuente: Cuidados críticos del niño con patología cardíaca, cap. 45 (Trasplante cardíaco).*
+
+## Rechazo celular agudo
+
+- Respuesta mediada por linfocitos T. Más frecuente el **primer año**, sobre todo los 3 primeros meses (incidencia del 16 % en el primer año). El rechazo tardío (> 1 año) empeora el pronóstico.
+- **Clínica inespecífica al inicio:** fiebre, vómitos, diarrea, anorexia, irritabilidad; después disfunción diastólica (disnea, edemas) y bajo gasto por disfunción sistólica.
+- **ECG:** voltajes bajos; taquiarritmias auriculares o ventriculares, bradiarritmias, bloqueo AV (**una arritmia tras los 7-10 primeros días obliga a sospechar rechazo**).
+- **Ecocardiograma:** edema de pared (septo o pared posterior engrosados), disfunción diastólica, **derrame pericárdico nuevo**, insuficiencia de las válvulas AV, dilatación del VI y finalmente disfunción sistólica.
+- **Diagnóstico:** **biopsia endomiocárdica** (patrón oro; la mayoría se diagnostican en biopsias de seguimiento asintomáticas). En **< 1 año (< 10 kg)**, más riesgo (perforación, daño tricuspídeo, acceso vascular): interés de marcadores no invasivos (aumento de troponina T, BNP, CK, lactato, LDH).
+- **Ante la sospecha, tratar aunque no se pueda hacer la biopsia.** El rechazo no obliga a cambiar la inmunosupresión de mantenimiento.
+
+*Tabla III. Clasificación y tratamiento.*
+@ancha
+| Grado | Tratamiento |
+| **0R** (sin rechazo) | No precisa |
+| **1R** (infiltrado leve intersticial y/o perivascular con un solo foco de daño de miocitos) | Sin afectación hemodinámica: no precisa; ajustar la inmunosupresión de mantenimiento // Con afectación hemodinámica: bolos de corticoides: prednisona oral 3-5 mg/kg 3-5 días o metilprednisolona IV 15 mg/kg/día 3 días |
+| **2R** (≥ 2 focos de infiltrado con daño de miocitos) | Sin afectación hemodinámica: prednisona oral 3-5 mg/kg 3-5 días o metilprednisolona IV 15 mg/kg/día 3 días; **repetir biopsia en 7-10 días** // Con afectación hemodinámica: metilprednisolona IV 15 mg/kg/día 3-5 días, corticoides a dosis altas ≥ 4 semanas y valorar timoglobulina si no mejora |
+| **3R** (infiltrados difusos con múltiples focos de daño, edema, hemorragia, vasculitis) | Metilprednisolona IV 15 mg/kg/día 3-5 días, corticoides a dosis altas ≥ 4 semanas y valorar timoglobulina si no mejora |
+
+## Rechazo humoral (mediado por anticuerpos)
+
+- Menos frecuente; linfocitos B y anticuerpos contra el endotelio del injerto → disfunción y vasculopatía. Más frecuente el primer mes; **hiperagudo** (primera semana) si el receptor estaba sensibilizado; también tardío.
+- Sospecharlo ante **disfunción del injerto con biopsia sin rechazo celular** o cambios ecocardiográficos sutiles (edema, hipertrofia). Diagnóstico: clínica, anticuerpos en sangre e histología/inmunohistoquímica.
+- **Grados (ISHLT 2013):** pAMR0 (histo- e inmunopatología negativas; sin tratamiento); pAMR1 (sospecha: solo una positiva); pAMR2 (ambas positivas); pAMR3 (grave: además hemorragia intersticial, edema, fragmentación capilar…).
+- **pAMR1-2 sin compromiso hemodinámico:** **inmunoglobulinas IV 2 g/kg** (4 tandas) cada 15 días + 3 bolos de **metilprednisolona IV 10-15 mg/kg/24 h** + optimizar la inmunosupresión. Estudiar anticuerpos y valorar inmunoadsorción; biopsia antes del tratamiento y a las 4 semanas.
+- **pAMR3 o pAMR1-2 con compromiso hemodinámico:** 3 bolos de corticoides IV + optimizar la inmunosupresión; **aféresis** (plasmaféresis o inmunoadsorción, 4-5 pases, al menos 2 ciclos, con reposición de inmunoglobulinas 1-2 g/kg tras el último); **rituximab 375 mg/m²** (1-4 dosis semanales; monitorizar inmunoglobulinas y reponerlas cada 2-4 semanas durante 6 meses); soporte inotrópico o mecánico.
+- Peor pronóstico que el celular (más mortalidad, pérdida del injerto y vasculopatía).
+
+! La reposición de inmunoglobulinas tras rituximab figura en el libro como «0,5 mg/kg»; probablemente sea g/kg. Por eso arriba no se da la dosis: comprobar con el protocolo del centro.
+
+## Rechazo crónico (enfermedad vascular del injerto)
+
+- Obstrucción progresiva de las coronarias. Clínica: insuficiencia cardiaca con disfunción del injerto, **infartos silentes** (corazón denervado) o muerte súbita.
+- Diagnóstico: ecografía intravascular (limitada en pequeños), coronariografía, eco de estrés con dobutamina, angio-TC, RM con realce tardío.
+- Tratamiento: sintomático; valorar retrasplante; stent coronario; cambiar a everolimus con inhibidor de la calcineurina; estatinas.
+
+## Infección
+
+- **Primer mes:** nosocomiales relacionadas con la cirugía (neumonía, mediastinitis, catéter). **Hasta el 6.º mes:** oportunistas (CMV, *Pneumocystis jirovecii*, candidiasis).
+- **CMV:** la infección viral más frecuente; mayor riesgo en receptor CMV negativo con donante positivo.
+
+*Tabla IV. Profilaxis antiinfecciosa.*
+@ancha
+| Agente | Indicación | Pauta | Duración |
+| Flora cutánea | Profilaxis quirúrgica, todos | **Cefazolina 30 mg/kg/8 h** | 48 h |
+| *Pneumocystis*, *Toxoplasma* | Todos | **Trimetoprim-sulfametoxazol 10 mg/kg/día c/12 h, 3 días por semana (V, S, D)** | 6-12 meses |
+| CMV | Todos | **Ganciclovir 5 mg/kg/12 h IV 2-3 semanas** y después **valganciclovir 15 mg/kg/día c/24 h VO** // Inmunoglobulina anti-CMV 150 mg/kg el día 0 y 100 mg/kg los días 2, 7, 14, 22, 35, 56 y 77 | 6-12 meses |
+| CMV | Tratamiento de la infección o intensificación de la inmunosupresión por rechazo | Ganciclovir IV 5 mg/kg/12 h o valganciclovir 15 mg/kg/24 h | IV hasta negativizar antigenemia o PCR; completar 4-6 semanas |
+| Hongos | Micosis oral, todos | Nistatina oral cada 8 h | 3-6 meses |

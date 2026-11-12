@@ -1,0 +1,57 @@
+@f TEMAS/CT/1
+*Fuente principal: Cuidados críticos del niño con patología cardíaca, cap. 42 (Cateterismo en pediatría). Complemento: Cardiología pediátrica para residentes, cap. 22 (Cateterismo cardíaco pediátrico).*
+
+## Generalidades
+
+- Introducción de catéteres por vía venosa o arterial hasta cavidades y grandes vasos: medición de presiones, oximetrías (cortocircuitos, gasto, resistencias), angiografía, biopsia endomiocárdica e intervencionismo.
+- Con la ecocardiografía, la angio-TC y la RM han disminuido las indicaciones diagnósticas y aumentado las terapéuticas. La evaluación hemodinámica preoperatoria **no es rutinaria** en canal AV, CIA, CIV, Fallot, doble salida del VD, coartación, VI hipoplásico o TGA.
+- Procedimientos **híbridos** (cirugía menos invasiva + tratamiento percutáneo) cada vez más frecuentes.
+
+## Indicaciones diagnósticas (libro)
+
+1. Valvulopatías con fisiología de alto o bajo flujo (gradientes no fiables por eco) o lesiones a varios niveles.
+2. **Fisiología univentricular** antes del estadio 2 (Glenn) y 3 (Fontan): anatomía, presiones y resistencias pulmonares.
+3. **Tras cirugía cardiaca:**
+  - Desaturación excesiva tras fístula sistémico-pulmonar (estenosis de ramas o de la fístula).
+  - Desaturación excesiva tras anastomosis cavopulmonar (fístulas arteriovenosas pulmonares, colaterales veno-venosas o veno-arteriales).
+  - Cortocircuito residual significativo tras cierre de CIV.
+  - Sospecha de hiperaflujo por colaterales aortopulmonares.
+  - Estenosis residual del tracto de salida del VD tras Fallot o doble salida del VD.
+  - **Necesidad no explicada de ECMO o imposibilidad de retirarla.**
+4. **Hipertensión pulmonar** con test de vasorreactividad.
+5. Atresia pulmonar con CIV y colaterales (colaterales y ramas pulmonares verdaderas).
+6. Atresia pulmonar con septo íntegro: excluir **circulación coronaria dependiente del VD** antes de descomprimirlo.
+7. **Antes de la lista de trasplante** (presiones de llenado y resistencias pulmonares; puede obviarse si está crítico y hay datos no invasivos).
+8. Coronariografía en trasplantados (vasculopatía del injerto).
+9. Biopsia endomiocárdica (rechazo).
+
+Según el manual de residentes: HTP o valoración de RVP prequirúrgica (PAPm > 20 mmHg o RVP > 2 UW·m²), gravedad de cortocircuitos, disfunción diastólica (miocardiopatía restrictiva), estenosis complejas (conductos, obstrucciones en serie, venas pulmonares) y situaciones complejas (univentricular, colaterales, fallo de destete de ECMO).
+
+## Información que aporta (residentes)
+
+- **Presiones:** cero del transductor a la altura de la aurícula derecha. La **presión capilar pulmonar (enclavada)** estima la presión venosa pulmonar (≈ aurícula izquierda).
+- **Oximetrías:** saltos oximétricos, **Qp/Qs**. Muestras en condiciones estables (pH y CO~2~ equilibrados, FiO~2~ mínima).
+- **Gasto cardiaco:** por **Fick** (consumo de O~2~ estimado / diferencia arteriovenosa de contenido de O~2~) o por termodilución.
+- **Gradientes** (estenosis) y **resistencias** (R = ΔP/Q): la RVP es un parámetro diagnóstico y pronóstico esencial.
+- **Angiografía** (también rotacional con reconstrucción 3D).
+- Pruebas de estrés: dobutamina, isoproterenol, volumen; test con O~2~ y óxido nítrico en la HTP.
+
+## Técnica y preparación
+
+**Antes** (libro):
+- Historia completa, planificación e información a la familia; **consentimiento informado** y consulta con anestesia.
+- Hemograma, iones y función renal; **sangre reservada** si es terapéutico.
+- **Ayuno mínimo de 6 h.**
+- Residentes: llegar en euvolemia (diuréticos o sueroterapia si ayuno prolongado); **posponer si hay un cuadro respiratorio intercurrente**; no hace falta suspender la antiagregación, pero **la anticoagulación se suele retirar la mañana anterior**.
+
+**Durante:**
+- Casi siempre **anestesia general** en niños (permite ETE simultánea). Cuidar la posición y la **temperatura**.
+- **Heparina 100 UI/kg (máx. 5.000 UI)** tras canalizar (libro); residentes: bolo de 50-100 UI/kg, obligatoria con acceso arterial o shunt derecha-izquierda.
+- **Profilaxis de endocarditis en el intervencionista:** **cefazolina 30 mg/kg, 3 dosis cada 8 h**, la primera antes del procedimiento (si no hay alergia a β-lactámicos). En implantes valvulares a veces 24-48 h (residentes).
+- **Contraste yodado:** intentar no superar **10 ml/kg** (nefrotoxicidad).
+- **Accesos:** femoral el más usado; yugular (algunos procedimientos o trombosis de miembros inferiores); subclavio, miembros superiores, transhepático (más riesgo), umbilical en el neonato (raro). En neonatos, generalmente ≤ 4 F arterial y 6-7 F venoso. Evitar la punción arterial si no es imprescindible.
+
+**Después:**
+- **Hemostasia por compresión manual** en el punto de punción **del vaso, 1-2 cm por encima de la punción cutánea** (error frecuente: comprimir la piel). Dispositivos de cierre percutáneo (Perclose®, Angio-Seal®) solo en adolescentes y adultos.
+- Vigilancia hospitalaria aprox. 24 h con reposo, analgesia y vendaje compresivo (residentes); **auscultar la zona de punción** (pseudoaneurisma, fístula). Pruebas de imagen si hacen falta. Después, reposo relativo 1-2 semanas.
+- **Antiagregación** tras implantar dispositivos (nitinol) hasta su endotelización (3-6 meses): **AAS 3-5 mg/kg/24 h** (residentes).

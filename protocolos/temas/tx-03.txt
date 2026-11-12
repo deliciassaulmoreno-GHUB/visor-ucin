@@ -1,0 +1,31 @@
+@f TEMAS/TX/3
+*Fuente: Cuidados críticos del niño con patología cardíaca, cap. 45 (Trasplante cardíaco).*
+
+## Principios
+
+- Mayor riesgo de rechazo el **primer año**, sobre todo la **primera semana**. Equilibrio entre rechazo y efectos adversos; múltiples protocolos.
+- Regla general: **triple terapia 3-6 meses** (inhibidor de la calcineurina + antiproliferativo + corticoides) y después **biterapia** al retirar los corticoides.
+
+## Inducción (opcional)
+
+- No reduce el rechazo según las últimas publicaciones, pero permite introducir más tarde y despacio los inhibidores de la calcineurina (útil con **insuficiencia renal o alteraciones neurológicas**).
+- **Basiliximab** (anti-CD25): **12 mg/m²/día (máx. 20 mg) los días 0 y +4**.
+- **Alto riesgo inmunológico** (sensibilizado, politransfundido, en asistencia…): **timoglobulina 1,5 mg/kg/día IV 5 días**, con objetivo de linfocitos 200-500/mm³.
+
+## Mantenimiento
+
+*Fármacos y dosis.*
+@ancha
+| Fármaco | Dosis | Niveles y comentarios |
+| **Tacrolimus** (el más usado, 58 %) | Iniciar a los **3-5 días**, VO o por SNG si hay ruidos intestinales: **0,1 mg/kg/día c/12 h**. Si no es posible la vía oral: IV en perfusión continua **0,025 mg/kg/día** | Valle: **10-12 ng/ml el 1.^er^ mes**, 8-10 los 5 meses siguientes y 5-10 después. Cambios de dosis del 20 %. Efectos: **insuficiencia renal, diabetes**, tumores, infecciones oportunistas |
+| Ciclosporina (si no puede usarse tacrolimus) | Inicio 5-10 mg/kg/día c/12 h; mantenimiento 2-6 mg/kg/día; IV en perfusión si no hay vía oral | 200-300 ng/ml los primeros 3-6 meses; después 80-120 ng/ml. Hirsutismo, hiperplasia gingival |
+| **Micofenolato de mofetilo** (el más asociado a tacrolimus) | **600 mg/m² (20-40 mg/kg) c/12 h** VO o IV, con una dosis antes de la cirugía | Niveles poco fiables. Diarrea, leucopenia, neutropenia: **reducir si leucocitos < 4.000/mm³; suspender si neutrófilos < 1.500/mm³** |
+| Azatioprina (si no tolera micofenolato) | 1-3 mg/kg/día VO | Mielosupresión, pancreatitis, hepatotoxicidad, vómitos |
+| Sirolimus | 1 mg/m² una vez al día | Niveles 4-8 ng/ml. Protege frente a la vasculopatía del injerto; alternativa al tacrolimus en insuficiencia renal grave. Anemia, leucopenia, trombopenia, HTA, hiperlipemia, artralgias, edemas, úlceras orales |
+
+**Corticoides** (pautas variables):
+- **Intraoperatorio:** 10 mg/kg en la esternotomía y 10 mg/kg al desclampar la aorta.
+- **Día +1:** 1 mg/kg cada 6 h. **Desde el día +2:** 1 mg/kg/día en dosis única.
+- Descenso hasta retirarlos a los **3-6 meses** si no hay rechazo.
+
+! El libro no especifica el corticoide de la pauta intraoperatoria y postoperatoria.

@@ -1,0 +1,48 @@
+@f TEMAS/TX/2
+*Fuente: Cuidados críticos del niño con patología cardíaca, cap. 45 (Trasplante cardíaco).*
+
+## Características del corazón trasplantado
+
+**Denervación**
+- **No responde con taquicardia** a la hipovolemia, la vasodilatación o la caída de contractilidad (sin reflejo barorreceptor), ni al dolor o la ansiedad: la FC sube solo con catecolaminas circulantes.
+- Solo responde a fármacos de **acción directa** (adrenalina, isoproterenol, dobutamina); receptores α y β intactos. Respuesta normal a β-bloqueantes.
+- **No responde a la atropina** (vía parasimpática).
+- Los **vasodilatadores arteriales tienen más efecto** (sin taquicardia refleja).
+
+**Isquemia:** menor distensibilidad diastólica y contractilidad de ambos ventrículos → en el postoperatorio inmediato hacen falta **presiones de llenado altas e inotrópicos y cronotrópicos**.
+
+**Poscarga del VD:** el VD del donante (no hipertrofiado) es el que más sufre; con la resistencia pulmonar del receptor, pequeños aumentos de poscarga reducen mucho su volumen latido, la precarga del VI y el gasto. **Bajar la poscarga del VD es crucial** en el postoperatorio inmediato.
+
+## Monitorización
+
+FC, ECG, FR, TA invasiva, SatO~2~, capnografía; PVC y presión en aurícula izquierda (catéter transtorácico); gasto cardiaco por PiCCO; presión pulmonar (Swan-Ganz, que añade la presión de enclavamiento pero requiere otro acceso, o catéter transtorácico en la arteria pulmonar).
+
+## Manejo hemodinámico
+
+Objetivo: **gasto adecuado** pese a la isquemia y la denervación.
+- **Precarga:** **PVC 10-15 mmHg y PAI 12-15 mmHg** (mejora la distensibilidad y reduce inotrópicos).
+- **Frecuencia** en el **límite alto para la edad** y en **ritmo sinusal**: marcapasos AAI o DDD si disfunción sinusal o bloqueo AV; **isoproterenol 0,01-1 µg/kg/min** en perfusión los primeros **3-5 días**.
+- **Contractilidad:** dopamina, dobutamina o adrenalina; **levosimendán** (vasodilatador coronario, mejora la función diastólica).
+- **Poscarga de ambos ventrículos:** **milrinona**; vasodilatadores pulmonares selectivos (**óxido nítrico 10-20 ppm**; sildenafilo y bosentán si hay HTP).
+- Fracaso ventricular grave: **asistencia ventricular o ECMO**.
+
+## Complicaciones postoperatorias
+
+- **Fallo primario del injerto:** principal causa de muerte en los **primeros 30 días**; factor de riesgo principal, la isquemia prolongada. Tratamiento: soporte mecánico hasta la recuperación o el retrasplante.
+- **Hipertensión arterial:** paradójica (RVS altas de la insuficiencia cardiaca previa), donante grande o inmunosupresores (corticoides, tacrolimus, ciclosporina). **Inmediato: nitroprusiato** (ajuste fino; baja la telediastólica del VI y la presión pulmonar). A medio-largo plazo: antagonistas del calcio, IECA o β-bloqueantes.
+- **Arritmias:** al inicio, sobre todo **ventriculares** (isquemia-reperfusión): **amiodarona**. **Una arritmia tras 7-10 días (la más frecuente, el flutter auricular) debe hacer sospechar rechazo y tratarse como tal.**
+
+## Otros sistemas
+
+- **Respiratorio:** ventilación poco agresiva, **PIP y PEEP bajas** (presión media baja protege el VD); extubar con estabilidad hemodinámica. Frecuentes: atelectasias, broncoespasmo, **parálisis diafragmática**; fisioterapia respiratoria.
+- **Renal:** insuficiencia renal frecuente (bajo gasto previo, **inhibidores de la calcineurina, sobre todo tacrolimus**). Con disfunción grave u oligoanuria: depuración extrarrenal, preferiblemente **hemodiafiltración venovenosa continua**.
+- **Neurológico:** sedoanalgesia adecuada (menor consumo miocárdico); relajación si hay gran inestabilidad, con monitorización estricta de la sedoanalgesia.
+
+## Cuidados generales
+
+- Restricción de líquidos con iones adecuados; coloides si precisa.
+- Cuidado diario de la esternotomía.
+- Profilaxis de úlcera de estrés (ranitidina u omeprazol) y de trombosis venosa profunda.
+- **Retirada precoz** de catéteres, drenajes y cables epicárdicos.
+- **Analítica diaria la primera semana:** hemograma, iones, función renal y hepática, lípidos y **niveles de inmunosupresores**; PCR de VEB y CMV; **ECG diario**; ecocardiografía y radiografía.
+- **Biopsia endomiocárdica:** a los **7-10 días**, al mes, 2 meses, 6 meses y al año; después anual los 5 primeros años y luego bianual.

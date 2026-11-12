@@ -1,0 +1,41 @@
+@f TEMAS/CT/3
+*Fuente principal: Cuidados críticos del niño con patología cardíaca, cap. 42 (Cateterismo en pediatría). Complemento: Cardiología pediátrica para residentes, cap. 22.*
+
+## Septostomía auricular con balón (Rashkind)
+
+- **Urgente** en hipoxemia grave con **mezcla insuficiente**; ejemplo típico, la **D-TGA** (residentes: de elección en la D-TGA con septo íntegro en neonatos desaturados).
+- Puede hacerse **en la UCI con control ecocardiográfico**, sin trasladar al paciente.
+- Vía venosa femoral o **umbilical**: se pasa el catéter-balón a la aurícula izquierda por el foramen oval, se infla (suero o contraste diluido) y se retira bruscamente a la AD desgarrando el septo.
+- Eco para valorar el orificio; clínicamente, **aumento inmediato de la saturación**.
+- Residentes: también paliativa en sobrecarga derecha o izquierda crónica (stent o dispositivo regulador de flujo).
+
+## Valvuloplastia
+
+- **Pulmonar:** en la estenosis grave o crítica a cualquier edad es el **tratamiento universalmente aceptado, por delante de la cirugía**. Segura, pocas complicaciones. Vía venosa, guía a una arteria lobar distal, **relación balón/anillo 1-1,2**, inflado a baja presión. Pronóstico excelente.
+- **Aórtica:** **alto riesgo**. Indicaciones: estenosis grave sintomática o de progresión rápida, con hipertrofia grave, **estenosis crítica del RN**. Sin consenso frente a la cirugía (en neonatos y lactantes pequeños muchos prefieren la percutánea). Vía arterial femoral retrógrada; **sobreestimulación con marcapasos en el VD** para estabilizar el balón; **relación balón/anillo 0,8**. La **insuficiencia aórtica grave** es impredecible y se relaciona con balones grandes.
+- Mitral muy rara y tricuspídea excepcional.
+
+## Angioplastia
+
+- **Arterias pulmonares:** balones de alta presión; mortalidad > 1 %. Complicaciones: rotura, pseudoaneurisma, **síndrome de reperfusión** (vigilar **≥ 24 h en UCIP** la hipoxemia; responde a oxígeno y diuréticos). Éxito 50-60 % (70 % con alta presión).
+- **Aorta:** indicada en la **recoartación**. En la coartación nativa del neonato y lactante, de elección la **cirugía** (alta recoartación y lesión arterial). Complicaciones 2 % (rotura, disección, pseudoaneurisma, ACV). **Ingreso en UCIP con TA en miembros superiores e inferiores.**
+
+## Stents
+
+- Menos reestenosis que la angioplastia, pero **restrictivos en niños pequeños** (redilataciones, extracciones): reservarlos para vasos de tamaño adulto salvo riesgo de desconexión o contraindicación quirúrgica (residentes: evitar por debajo de 20 kg).
+- **Pulmonares:** mejores resultados que la angioplastia; además, embolización y malposición.
+- **Coartación:** cirugía en neonatos, lactantes y niños pequeños; **> 30 kg**, stent en coartación nativa o recoartación (residentes: de elección en niños mayores). Riesgo de rotura aórtica: **stents recubiertos**. Introductores 10-14 F: **UCIP 24 h** con analgesia y vigilancia de la perfusión de la pierna.
+- **Ductal (neonato):** en cardiopatías ductus-dependientes (alternativa a la fístula; residentes: procedimiento clave frente a la fístula quirúrgica) y en el VI hipoplásico con cerclaje bilateral de pulmonares (híbrido, difiere el Norwood). Alto riesgo.
+- Tras cualquier stent: **radiografía de tórax** (posición, migración, fractura) y, en general, **antiagregación** (algunos centros anticoagulan los primeros días).
+
+## Cierre de defectos
+
+- **Ductus:** indicado con sobrecarga de cavidades izquierdas o ductus con exploración típica y soplo continuo; **no en el ductus silente** sin dilatación hallado en una eco. *Coils* en ductus < 2 mm (cierre 70 %); dispositivos tipo Amplatzer en cualquier ductus (aprox. 100 %). Profilaxis antibiótica; sin anticoagulación (algunos antiagregan); comprobar el dispositivo antes del alta; **profilaxis de endocarditis 6 meses**. Residentes: en grandes prematuros, cada vez más por punción venosa única.
+- **CIA ostium secundum:** procedimiento de elección si hay buenos bordes y el dispositivo cabe y se estabiliza. Complicaciones raras: embolia aérea, embolización, trombo, arritmias auriculares, BAV transitorio y, rara vez, **erosión auricular con derrame o taponamiento**. Profilaxis antibiótica, **antiagregación 6 meses** (algunos anticoagulan), comprobación antes del alta y profilaxis de endocarditis 6 meses.
+- **CIV** muscular o perimembranosa seleccionada (la cirugía sigue siendo de elección): asa arteriovenosa; éxito 90 %; arritmias y **BAV completo 2-5 %** (precoz o tardío). Profilaxis antibiótica y antiagregación 6 meses.
+
+## Válvula pulmonar percutánea
+
+- Insuficiencia pulmonar grave tras reparación del tracto de salida del VD (Fallot, atresia pulmonar con CIV). **Melody** en conductos de 16-22 mm (acceso 22 F); también en tractos nativos con stent previo.
+- Sin reintervención 80-90 % a 3 años. Riesgos: **compresión coronaria** (puede contraindicarla) y **endocarditis 2-3 %** → **antiagregación y profilaxis antibiótica estricta de por vida**.
+
