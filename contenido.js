@@ -142,6 +142,29 @@ window.CALCS=[
  {id:"c-fort",t:"FM 1:25",fuente:"Protocolo 65, enero 2025",doc:"65. Protocolo",disc:"m-p65",formula:"Tabla por volumen",fields:[{k:"vol",l:"Volumen de leche",u:"cc"}],
   run:v=>{const T=[[20,20,0],[25,39,1],[40,49,1],[50,59,2],[60,74,2],[75,79,3],[80,99,3],[100,119,4],[120,124,4],[125,130,5]];const f=T.find(x=>v.vol>=x[0]&&v.vol<x[1]+1);if(v.vol>130)return[{w:"No fortificar más de 130 cc"}];return f?[{l:"Sobres FM85",v:String(f[2])}]:[{w:"Volumen sin fila en la tabla de P65"}]},test:{in:{vol:100},out:"4"}},
  {id:"c-epm",t:"Edad postmenstrual",fuente:"Protocolo 9b, enero 2022",doc:"9.b. Protocolo",formula:"EG + días de vida",fields:[{k:"s",l:"EG, semanas",u:"s"},{k:"d",l:"EG, días",u:"d",d:0},{k:"v",l:"Días de vida",u:"d"}],run:v=>{const t=v.s*7+v.d+v.v;return[{l:"EPM",v:Math.floor(t/7)+"+"+(t%7)}]},test:{in:{s:29,d:2,v:7},out:"30+2"}},
+ {id:"c-alarm",t:"Alarmas de monitorización",fuente:"Protocolo 63, febrero 2025 (TA: gráfica de la p. 3, Zubrow 1995, leída por ordenador)",doc:"63. Protocolo",formula:"FC, FR, SaO2 y temperatura: límites generales del protocolo 63. TA: alarma mínima en p5 y máxima en p95 para la edad postmenstrual, leídos de la gráfica de la p. 3 (rectas de 22 a 42 semanas). TAM = TAD + (TAS − TAD)/3 (estimación)",
+  fields:[{k:"sg",l:"Edad postmenstrual",u:"semanas",im:"numeric"},{k:"sd",l:"Días",sel:["0","1","2","3","4","5","6"]},{k:"fio2",l:"FiO2",sel:["21 %","> 21 %"]},{k:"temp",l:"Situación térmica",sel:["Normotermia","Hipotermia pasiva","Hipotermia activa (Tecotherm)"]}],
+  run:v=>{const w=v.sg+(+v.sd||0)/7,r=[];
+   if(!(w>=22&&w<=43))return[{w:"La gráfica de TA del protocolo va de 22 a 42 semanas"}];
+   const ln=(a,b)=>a+b*(Math.min(w,42)-22),R=x=>Math.round(x);
+   const s5=ln(22.1,1.445),s50=ln(37.5,1.455),s95=ln(53.7,1.445),d5=ln(14.5,1.03),d50=ln(23.5,1.01),d95=ln(31.4,1.02),m=(s,d)=>d+(s-d)/3;
+   const pret=w<37,o2=v.fio2==="21 %";
+   const sat=o2?(pret?"92-100 %":"94-100 %"):(pret?"90-96 %":"92-98 %");
+   const t=v.temp==="Normotermia"?"36-37,5 °C":v.temp==="Hipotermia pasiva"?"34-35 °C":"33-34,5 °C (rectal, servocontrolada)";
+   r.push({n:`${Math.floor(w)}+${+v.sd||0} semanas · ${pret?"pretérmino":"RN a término"} · FiO2 ${v.fio2}`});
+   r.push({l:"FC",v:"100-180 lpm"});
+   r.push({l:"FR",v:"30-60 rpm"});
+   r.push({l:"SaO2",v:sat});
+   r.push({l:"Temperatura",v:t});
+   r.push({l:"TA sistólica",v:`${R(s5)}-${R(s95)} mmHg`});
+   r.push({l:"TA diastólica",v:`${R(d5)}-${R(d95)} mmHg`});
+   r.push({l:"TA media (estimada)",v:`${R(m(s5,d5))}-${R(m(s95,d95))} mmHg`});
+   r.push({n:`p50: TAS ${R(s50)} · TAD ${R(d50)} · TAM ${R(m(s50,d50))} mmHg`});
+   if(w>42)r.push({w:"Por encima de 42 semanas se usan los valores de 42"});
+   r.push({n:"FC y FR pueden individualizarse consultando al médico responsable; en RN a término los percentiles de FC son p3 102, p50 120 y p95 162 lpm. SaO2: individualizar según EG, oxígeno y patología (sobre todo cardiopatías). En cardiopatía con taquicardia que requiera hipotermia, el médico indica la temperatura objetivo"});
+   r.push({n:"La gráfica está hecha por edad gestacional y marca límites de confianza del 95 %; el protocolo los usa como p5 y p95 de la edad postmenstrual. La TAM no está en la gráfica: es una estimación"});
+   return r},
+  test:{in:{sg:30,sd:"0",fio2:"21 %",temp:"Normotermia"},out:"34-65 mmHg"}},
  {id:"c-nirs",t:"Nirsevimab",fuente:"Protocolo 42, 2025",doc:"42. Protocolo",formula:"<5 kg: 50 mg; ≥5 kg: 100 mg (1ª temporada)",fields:PF,run:v=>[{l:"Dosis",v:(v.peso<5?"50":"100")+" mg"}],test:{in:{peso:4.9},out:"50 mg"}},
  {id:"c-mg",t:"Sulfato de magnesio",fuente:"Protocolo 50, junio 2018",doc:"50. Protocolo",formula:"25-50 mg/kg/dosis. Presentación de 150 mg/ml: diluir al medio. Presentación de 75 mg/ml: sin diluir. Máximo 125 mg/h. Tiempo mínimo = mg / 125 × 60",fields:[{k:"ind",l:"Indicación",sel:["Hipomagnesemia (cada 6 h)","Torsade des Pointes (cada 4-6 h)"]},{k:"dosis",l:"Dosis",u:"mg/kg/dosis"},...PF],
   run:v=>{const mg=v.dosis*v.peso,r=[{l:"Dosis",v:fmt(mg)+" mg"},{l:"Con 150 mg/ml, diluir",v:`${fmt(mg/150)} ml + ${fmt(mg/150)} ml SSF o SG5 %`},{l:"Con 75 mg/ml, sin diluir",v:fmt(mg/75)+" ml"},{l:"Tiempo mínimo / ritmo máximo",v:`${Math.ceil(mg/125*60)} min / ${fmt(125/75)} ml/h`},{n:`Queda siempre a 75 mg/ml: ${fmt(mg/75)} ml en total`},{n:"Máximo 125 mg/h (corregido con Farmacia). Monitorizar TAM y FC. Reevaluar niveles a las 2-3 dosis. Riesgo de flebitis"}];if(v.dosis<25||v.dosis>50)r.unshift({w:"Fuera del rango de P50 (25-50 mg/kg/dosis)"});return r},test:{in:{ind:"Hipomagnesemia (cada 6 h)",dosis:50,peso:2},out:"100 mg"}},
@@ -199,6 +222,7 @@ window.CALC_ARBOL=[
  {t:"Sedoanalgesia estándar",id:"c-sedo"},
  {t:"Distancia vías",hijos:["c-cau","c-cvu"]},
  {t:"Edad postmenstrual",id:"c-epm"},
+ {t:"Alarmas de monitorización",id:"c-alarm"},
  {t:"Fluidoterapia",hijos:["c-flu","c-si","c-osm"]},
  {t:"Hidroelectrolitos",hijos:[{t:"Hipoglucemia",hijos:["c-gel","c-glucagon","c-bolo","c-glu"]},{t:"Otros déficits",hijos:["c-mg","c-nacl","c-bicb","c-kcl","c-ca"]}]},
  {t:"Nutricional",hijos:["c-fort50","c-fort","c-nut"]},

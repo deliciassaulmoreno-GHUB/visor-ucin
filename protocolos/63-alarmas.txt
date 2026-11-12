@@ -56,6 +56,34 @@ Alarma mínima en percentil 5 y máxima en percentil 95 de la EPM del paciente.
 ! En el PDF los valores normales y las alarmas son líneas de texto; aquí la temperatura y la saturación van en tablas y los límites generales de alarma en recuadros. En el PDF no van en negrita ni en recuadro.
 
 @p 3
+### Valores de TA por edad gestacional (tabla elaborada a partir de la gráfica)
+
+@ancha
+| EG (sem) | TAS p5 | TAS p50 | TAS p95 | TAD p5 | TAD p50 | TAD p95 | TAM p5 (calc.) | TAM p50 (calc.) | TAM p95 (calc.) |
+| 22 | 22 | 38 | 54 | 14 | 24 | 31 | 17 | 28 | 39 |
+| 23 | 24 | 39 | 55 | 16 | 25 | 32 | 18 | 29 | 40 |
+| 24 | 25 | 40 | 57 | 17 | 26 | 33 | 19 | 30 | 41 |
+| 25 | 26 | 42 | 58 | 18 | 27 | 34 | 21 | 32 | 42 |
+| 26 | 28 | 43 | 59 | 19 | 28 | 35 | 22 | 33 | 43 |
+| 27 | 29 | 45 | 61 | 20 | 29 | 36 | 23 | 34 | 45 |
+| 28 | 31 | 46 | 62 | 21 | 30 | 38 | 24 | 35 | 46 |
+| 29 | 32 | 48 | 64 | 22 | 31 | 39 | 25 | 36 | 47 |
+| 30 | 34 | 49 | 65 | 23 | 32 | 40 | 26 | 37 | 48 |
+| 31 | 35 | 51 | 67 | 24 | 33 | 41 | 28 | 39 | 49 |
+| 32 | 37 | 52 | 68 | 25 | 34 | 42 | 29 | 40 | 50 |
+| 33 | 38 | 54 | 70 | 26 | 35 | 43 | 30 | 41 | 52 |
+| 34 | 39 | 55 | 71 | 27 | 36 | 44 | 31 | 42 | 53 |
+| 35 | 41 | 56 | 72 | 28 | 37 | 45 | 32 | 43 | 54 |
+| 36 | 42 | 58 | 74 | 29 | 38 | 46 | 33 | 44 | 55 |
+| 37 | 44 | 59 | 75 | 30 | 39 | 47 | 35 | 46 | 56 |
+| 38 | 45 | 61 | 77 | 31 | 40 | 48 | 36 | 47 | 57 |
+| 39 | 47 | 62 | 78 | 32 | 41 | 49 | 37 | 48 | 59 |
+| 40 | 48 | 64 | 80 | 33 | 42 | 50 | 38 | 49 | 60 |
+| 41 | 50 | 65 | 81 | 34 | 43 | 51 | 39 | 50 | 61 |
+| 42 | 51 | 67 | 83 | 35 | 44 | 52 | 40 | 51 | 62 |
+
+! Tabla elaborada por el visor leyendo la gráfica de la página 3 del protocolo (Zubrow 1995, adaptada de UpToDate): las curvas son rectas, así que los valores se han medido por ordenador sobre la imagen y redondeado a mmHg. La gráfica marca la línea media y los «límites de confianza del 95 %» (Upper/Lower 95% CL); aquí se presentan como p50, p5 y p95, que es como el protocolo usa esos límites para las alarmas. La gráfica no tiene TAM: La TAM («calc.») se ha calculado como TAD + (TAS − TAD)/3 con los valores de cada columna, por lo que es una estimación y no un percentil real. La gráfica está construida por edad gestacional y el protocolo indica fijar las alarmas según la edad postmenstrual.
+
 @caja
 **NO HACER:**
 -NO administrar nunca oxígeno sin monitorización de pulsioximetría
