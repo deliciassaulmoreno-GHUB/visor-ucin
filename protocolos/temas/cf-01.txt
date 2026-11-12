@@ -11,6 +11,9 @@
 
 ## Recorrido de la sangre
 
+@img cf-g32.jpg
+*Circulación fetoplacentaria: rojo, sangre rica en oxígeno; azul, pobre en oxígeno; morado, mezclada (Cardiología pediátrica y cardiopatías congénitas, Vol. I, fig. 3.2).*
+
 1. **Vena umbilical** (la sangre más oxigenada, PO~2~ 35-40 mmHg): la mitad va al hígado y la otra mitad, por el **ductus venoso**, a la vena cava inferior.
   - El ductus venoso se estrecha con estímulos adrenérgicos y aumento de presión en la vena umbilical, y se dilata con prostaglandinas, óxido nítrico e hipoxia.
 2. **Flujos preferenciales:** la sangre del ductus venoso circula por la zona posterolateral izquierda de la cava inferior sin mezclarse apenas; en la aurícula derecha la **crista dividens** la dirige hacia el tabique y el **foramen oval** → aurícula izquierda (las prostaglandinas fetales lo mantienen abierto).
