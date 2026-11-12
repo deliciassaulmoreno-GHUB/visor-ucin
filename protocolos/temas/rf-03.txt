@@ -11,6 +11,12 @@
   - **V/Q = 0:** alveolos colapsados o atelectasia → **shunt intrapulmonar** (hipoxemia que no corrige bien el O~2~).
 - **Oxigenación tisular:** convección (PAO~2~), difusión, captación por la hemoglobina; transporte (DO~2~ = gasto cardiaco × contenido de O~2~), liberación (curva de disociación) y consumo tisular (VO~2~). El gasto cardiaco debe garantizar el aporte.
 
+@img rf-g03.jpg
+*Unidad alveolocapilar: bronquiolo, conducto alveolar, alveolos y red capilar (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
+@img rf-g04.jpg
+*Relación ventilación/perfusión: shunt (V/Q = 0), normal (aprox. 0,8) y espacio muerto (V/Q = ∞) (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
 ## Mecánica respiratoria
 
 - **Distensibilidad o *compliance* (C):** cambio de volumen por unidad de presión (pendiente de la curva presión/volumen; cuanto más vertical, mayor C). Depende de la tensión superficial alveolar y de la elasticidad.
@@ -19,6 +25,12 @@
 - **Resistencia (R):** gradiente de presión necesario para mover un gas por la vía aérea a flujo constante (R = ΔP/flujo, cmH~2~O/l/s). Depende de la viscosidad, del calibre y la longitud de la vía aérea y del flujo (laminar o turbulento). La espiratoria es mayor que la inspiratoria (favorece la CRF). Normal **20-40 cmH~2~O/l/s**, **2-3 veces mayor si está intubado**.
 - **Constante de tiempo (CT) = C × R:** tiempo para que entre o salga el **63 %** del volumen corriente. Hacen falta **3-5 CT** para igualar la presión alveolar y la de la vía aérea (3 CT vacían el 95 %).
 - **Trabajo respiratorio (WOB):** presión × volumen (área bajo la curva P/V). Aumenta con la rigidez pulmonar (restrictiva) y con la resistencia (obstructiva); aumenta el consumo de O~2~.
+
+@img rf-g05.jpg
+*Tensión superficial y ley de Laplace (ΔP = 2σ/r): el surfactante, más concentrado en los alveolos pequeños, iguala las presiones entre alveolos de distinto radio (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
+@img rf-g06.jpg
+*Constante de tiempo: porcentaje del cambio de presión alcanzado tras 1 a 5 constantes de tiempo (63 %, 86 %, 95 %, 98 %, 99 %) (Curso de Asistencia Respiratoria Neonatal, tema 1).*
 
 ## Patrones de enfermedad
 

@@ -16,6 +16,9 @@ Por eso se ha estandarizado la **CPAP nasal precoz** en el distrés y **profilá
 | CPAP de flujo variable (Infant Flow, Medijet) | BiPAP / DuoPAP |
 | Gafas de alto flujo | VAF nasal, NAVA no invasiva |
 
+@img rs-g01.jpg
+*Mecanismos de la lesión pulmonar inducida por el respirador: alveolo normal frente a volutrauma y atelectrauma (Curso de Asistencia Respiratoria Neonatal, tema 6).*
+
 ## CPAP nasal
 
 **Efectos:** aumenta la **CRF** y la PaO~2~; reduce la taquipnea, el shunt intrapulmonar y las apneas. Mejora la distensibilidad, estabiliza la pared torácica y la vía aérea, e imita el **quejido** fisiológico.

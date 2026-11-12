@@ -18,12 +18,18 @@
 
 **Función pulmonar:** en las primeras 48 h predomina la **resistencia elevada**; **constante de tiempo alta los 3 primeros días**; volumen pulmonar normal, bajo o alto según predomine obstrucción o neumonitis; afectación heterogénea. Patrón obstructivo, a menudo mixto.
 
+@img rp-g03.jpg
+*Fisiopatología del síndrome de aspiración meconial (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
 ## Clínica y diagnóstico
 
 - Antes del nacer: amnioscopia positiva, signos de hipoxia fetal. Al nacer: impregnación por meconio, posmadurez, signos neurológicos de hipoxia, dificultad respiratoria progresiva, cianosis, quejido, **tórax hiperinsuflado**, roncus; tonos desplazados (neumotórax) o alejados (neumomediastino).
 - Espectro: lo más frecuente, polipnea leve-moderada que mejora en 24-48 h; formas medias con hipoxemia e hipercapnia moderadas y polipnea 3-4 días; **formas graves** con hipoxemia e hipercapnia intensas, VM y FiO~2~ altas desde el inicio, hipotensión, fallo miocárdico e HPPN.
 - **Radiografía:** condensaciones irregulares algodonosas alternando con **hiperinsuflación**; aire ectópico; a las 24-48 h puede evolucionar a pulmón blanco.
 - **Gasometría:** hipoxemia, hipercapnia y acidosis mixta.
+
+@img rp-g04.jpg
+*Radiografía de tórax en el contexto de la fisiopatología del SAM (Curso de Asistencia Respiratoria Neonatal, tema 1).*
 
 ## Tratamiento
 

@@ -14,6 +14,9 @@
 - Alteración V/Q con hipoxemia e hipercapnia → acidosis mixta → ↑ RVP y **shunt derecha-izquierda** por ductus y foramen oval → más hipoxemia.
 - **Factores de riesgo:** prematuridad, hipoxia/asfixia, hipotermia, **diabetes materna**, **cesárea sin trabajo de parto**, segundo gemelo, varón, hermano con SDR. La **corioamnionitis** puede aumentar el riesgo de SDR, empeorar la respuesta al surfactante y aumentar la DBP.
 
+@img rp-g01.jpg
+*Curva presión-volumen del pulmón normal frente al pulmón con SDR: menor distensibilidad, constante de tiempo y CRF (Curso de Asistencia Respiratoria Neonatal, tema 1, «Fisiopatología en SDR»).*
+
 ## Clínica y diagnóstico
 
 - Dificultad respiratoria **desde el nacimiento**, creciente en las **primeras 48-60 h**: polipnea > 70-80 rpm, **quejido**, aleteo, tiraje, disociación toracoabdominal, cianosis; hipoventilación bilateral simétrica. Hipoxemia progresiva; hipercapnia más tardía (precoz si es grave).
@@ -21,6 +24,9 @@
 - **Radiografía:** **volumen pulmonar disminuido** (diafragmas por encima del 8.º espacio), patrón **reticulogranular difuso en vidrio esmerilado** y **broncograma aéreo**; en los graves, pulmón blanco sin distinción de la silueta cardiaca.
 - **Ecografía pulmonar:** la puntuación **LUS** predice la necesidad de surfactante (protocolo ESTHER: **LUS > 8**).
 - Diagnóstico diferencial: hipoplasia pulmonar, HTPP, neumonía, TTRN, apnea o esfuerzo respiratorio pobre.
+
+@img rp-g02.jpg
+*Radiografía de enfermedad por déficit de surfactante (Curso de Asistencia Respiratoria Neonatal, tema 8, Grupo de patología respiratoria y surfactante de la SENeo).*
 
 ## Prevención y manejo inicial
 

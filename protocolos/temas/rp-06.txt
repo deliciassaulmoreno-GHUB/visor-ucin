@@ -7,6 +7,9 @@
 - **95 % posterolaterales (Bochdalek)**, **80 % izquierdas**, 2 % bilaterales. Incidencia 1/2.000-4.000; varones 1,5:1; recurrencia 2 %. **Hasta el 50 % con otras anomalías** (cromosomopatías, cardiopatías, tubo neural, renales, digestivas). Mortalidad 25-74 % según la serie.
 - **Determinantes:** **hipoplasia pulmonar** (parénquima y vasos) e **hipertensión pulmonar** (menos vasos, hipertrofia de la media) y **disfunción ventricular**. No hay déficit de surfactante. La hipoxemia por HTP no se corrige aumentando el soporte respiratorio (curso).
 
+@img rp-g11.jpg
+*Fisiopatología de la hernia diafragmática congénita: hipoplasia pulmonar, hipertensión pulmonar y disfunción ventricular (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
 ## Prenatal
 
 - Diagnóstico diferencial con MCAP, secuestro, eventración, quistes, teratoma, atresia bronquial, agenesia.

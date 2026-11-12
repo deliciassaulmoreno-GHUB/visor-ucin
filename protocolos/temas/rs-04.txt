@@ -11,6 +11,9 @@
 - **Oscilador:** la **espiración es activa** (la membrana o pistón genera presión negativa), lo que reduce el atrapamiento.
 - **Mecanismos de intercambio:** ventilación alveolar directa, *pendelluft*, convección asimétrica, dispersión de Taylor y difusión molecular.
 
+@img rs-g02.jpg
+*Mecanismos de intercambio gaseoso en la ventilación de alta frecuencia: convección, pendelluft, perfiles de velocidad asimétricos, dispersión, difusión, ventilación colateral y mezcla cardiogénica (Curso de Asistencia Respiratoria Neonatal, tema 7).*
+
 ## Evidencia e indicaciones
 
 - **Electiva frente a VMC en el SDR del prematuro:**
@@ -53,6 +56,9 @@
 | Objetivo | VG OFF | VG ON |
 | ↑ Oxigenación | ↑ PMA, ↑ FiO~2~ | ↑ PMA, ↑ FiO~2~ |
 | ↓ PCO~2~ | ↑ ΔP o ↓ frecuencia | ↑ VThf o ↑ frecuencia |
+
+@img rs-g03.jpg
+*Ventilación convencional con VG (se programa la presión y el Vt es constante) frente a VAFO con VG (se programa la amplitud ΔP y el VThf es constante) (Curso de Asistencia Respiratoria Neonatal, tema 7).*
 
 ## Inicio
 

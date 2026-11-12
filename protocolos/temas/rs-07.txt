@@ -35,6 +35,12 @@
 - Hipotermia.
 - Curso de VM: también lesión pulmonar y daño del surfactante.
 
+@img rs-g04.jpg
+*Ventilación espontánea: la vía aérea calienta y humidifica el aire inspirado de forma progresiva hasta aprox. 37 °C (Curso de Asistencia Respiratoria Neonatal, tema 3).*
+
+@img rs-g05.jpg
+*Ventilación invasiva: el tubo anula esa función y el gas debe llegar ya a 37 °C y saturado (Curso de Asistencia Respiratoria Neonatal, tema 3).*
+
 ## Equipo
 
 - **Base calentadora servocontrolada**, con sensores de temperatura a la salida del humidificador y a la **entrada del paciente**. Controla la temperatura a la entrada del tubo o a la salida del circuito de VNI.

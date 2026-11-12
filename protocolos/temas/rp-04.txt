@@ -23,16 +23,34 @@
   - **Drenaje torácico** (a tensión o en ventilados que lo dificultan): **6.º espacio intercostal, línea media axilar**, punta anterior retroesternal, confirmar con radiografía; sello de agua con aspiración inicial **10-15 cmH~2~O**.
 - **Prevención:** reanimación cuidadosa; VM suave (Ti cortos, FR altas); surfactante con extubación rápida a CPAP; **ventilación con volumen garantizado**. No hay evidencia de que la VAFO lo prevenga (la jet puede ayudar en fístulas broncopleurales).
 
+@img rp-g05.jpg
+*Escape aéreo, diagnóstico radiológico: enfisema subcutáneo y neumotórax (Curso de Asistencia Respiratoria Neonatal, tema 6).*
+
+@img rp-g10.jpg
+*Escape aéreo, diagnóstico ecográfico en modo M: signo de la orilla del mar (pulmón normal), punto pulmón y signo de la estratosfera o código de barras (neumotórax) (Curso de Asistencia Respiratoria Neonatal, tema 6).*
+
 ## Neumomediastino
 
 - Casi siempre asintomático; grandes colecciones: taquipnea, cianosis; **tonos débiles**.
 - **Radiografía:** lengüeta de aire junto a la silueta cardiaca; en lateral, radiolucencia retroesternal; timo levantado en **«vela de barco»**.
 - Suele resolverse solo; si está a tensión con compromiso hemodinámico, drenaje con aguja ecoguiada.
 
+@img rp-g06.jpg
+*Neumomediastino (Curso de Asistencia Respiratoria Neonatal, tema 6).*
+
+@img rp-g07.jpg
+*Neumopericardio (Curso de Asistencia Respiratoria Neonatal, tema 6).*
+
+@img rp-g08.jpg
+*Neumoperitoneo (Curso de Asistencia Respiratoria Neonatal, tema 6).*
+
 ## Enfisema intersticial
 
 - Aire atrapado en el tejido perivascular: menor distensibilidad, sobredistensión, compresión de la vía aérea. Típico del **prematuro ventilado hacia las 96 h**; uni o bilateral; hipoxemia y acidosis respiratoria; puede reducir el retorno venoso y favorece el neumotórax.
 - **Radiografía:** burbujas de 1-4 mm o líneas claras por todo el parénquima.
 - **Manejo** (difícil): prevenirlo con estrategias protectoras (Ti cortos, volumen garantizado); **VAFO con normovolumen** en algunos casos. **Unilateral:** decúbito sobre el lado afectado, reducir presión media (PIP, PEEP, Ti); en graves, intubación selectiva del pulmón sano o bloqueo bronquial con catéter balón.
+
+@img rp-g09.jpg
+*Enfisema pulmonar intersticial a las 48 horas de vida (Curso de Asistencia Respiratoria Neonatal, tema 6).*
 
 ! Ver también Protocolos → Sociedad Española → 3.20 (Distrés respiratorio en el RN a término) y 3.21 (Distrés respiratorio del prematuro).
