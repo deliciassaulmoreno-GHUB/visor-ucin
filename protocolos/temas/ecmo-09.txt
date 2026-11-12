@@ -22,17 +22,6 @@
 | ↓ = | ↑ | ↓ = | ↑ | Fallo del oxigenador (inicialmente sin disminución del flujo de la bomba) |
 | + | ↓ | ↓ | ↓ | Fallo de la bomba// Trombo intrabomba// Embolismo de la bomba |
 
-*Inicio y monitorización (Curso 2019, Zamorano).* Tabla equivalente con flechas en todas las columnas:
-
-| P1 succión (> −20 −80) | P2 premembrana (< 250) | P3 postmembrana (< 200) | ΔP | Diagnóstico |
-|---|---|---|---|---|
-| ↑ | ↓ | ↓ | ↓ | Hipovolemia// Obstrucción o acodamiento de cánula o línea venosa |
-| ↓ | ↓ | ↓ | ↓ | Fallo de la bomba// Trombo intrabomba |
-| ↓ | ↓ | ↓ | ↑ | Fallo del oxigenador |
-| ↓ | ↑ | ↑ | ↓ | Resistencia a la eyección// Cánula arterial acodada// Obstrucción de cánula// Flujo elevado para el tamaño de cánula |
-
-! Las dos tablas no usan las flechas igual. En la de Zamorano, «↑» en la succión de la hipovolemia equivale a «se hace más negativa» de la otra. Además, la de Zamorano da ΔP ↓ en hipovolemia y en resistencia a la eyección, P2 ↓ en el fallo del oxigenador y P1 ↓ en el fallo de bomba; la de Santiago y Sánchez Galindo da ΔP =, P2 ↑ y P1 «+». Se copian las dos tal como aparecen.
-
 ## Complicaciones del circuito
 
 *Cuidados críticos.*
