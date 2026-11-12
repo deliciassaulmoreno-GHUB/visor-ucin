@@ -25,6 +25,10 @@ ECG de 12 derivaciones siempre que sea posible (y durante la cardioversión). Se
 
 **Adenosina** (de rutina en la evaluación si es posible): bloquea transitoriamente el nodo AV → **interrumpe las taquicardias que lo usan** (reentrada AV e intranodal) y, en las auriculares, **aumenta el bloqueo y desenmascara las P o las ondas F**. Registrar siempre el ECG durante su administración.
 
+@img ar-b12.jpg
+*TPSV que cede tras la administración de adenosina (Cuidados críticos del niño con patología cardíaca, fig. 12 del cap. 40).*
+
+
 ## Tipos
 
 **Taquicardia auricular focal** (automatismo, sobre todo): QRS estrecho precedido de P de morfología anormal (**RP largo**); puede haber bloqueo AV variable o 2:1 con irregularidad. **La presencia de bloqueo AV excluye las que usan el nodo AV.** Adenosina: muestra mejor las P (no la suele interrumpir). Tratamiento (libro): disminuir el automatismo; amiodarona o procainamida; β-bloqueante (esmolol, propranolol) ± flecainida o propafenona.
@@ -39,6 +43,10 @@ ECG de 12 derivaciones siempre que sea posible (y durante la cardioversión). Se
 
 @img ar-t02.jpg
 *Flutter auricular: ondas F con conducción 2:1 (Cardiología pediátrica para residentes, cap. 7).*
+
+@img ar-b11.jpg
+*Flutter auricular 3:1 (Cuidados críticos del niño con patología cardíaca, fig. 11 del cap. 40).*
+
 
 
 **Fibrilación auricular:** muy rara en la infancia (miocardiopatía, inflamación; puede provocarla la adenosina). Línea de base irregular sin P, ritmo ventricular muy irregular.
@@ -86,6 +94,10 @@ ECG de 12 derivaciones siempre que sea posible (y durante la cardioversión). Se
 
 @img ar-t10.jpg
 *Taquicardia automática de la unión (JET) (Cardiología pediátrica para residentes, cap. 7).*
+
+@img ar-b15.jpg
+*Auriculograma diagnóstico de una taquicardia ectópica de la unión (Cuidados críticos del niño con patología cardíaca, fig. 2 del cap. 31).*
+
 
 
 ! El manejo del JET postoperatorio (hipotermia, sedación y relajación, reducción de catecolaminas, amiodarona, marcapasos) está en «Complicaciones postoperatorias → Arritmias».
