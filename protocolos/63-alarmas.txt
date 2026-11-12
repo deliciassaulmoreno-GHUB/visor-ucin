@@ -82,7 +82,7 @@ Alarma mínima en percentil 5 y máxima en percentil 95 de la EPM del paciente.
 | 41 | 50 | 65 | 81 | 34 | 43 | 51 | 39 | 50 | 61 |
 | 42 | 51 | 67 | 83 | 35 | 44 | 52 | 40 | 51 | 62 |
 
-! Tabla elaborada por el visor leyendo la gráfica de la página 3 del protocolo (Zubrow 1995, adaptada de UpToDate): las curvas son rectas, así que los valores se han medido por ordenador sobre la imagen y redondeado a mmHg. La gráfica marca la línea media y los «límites de confianza del 95 %» (Upper/Lower 95% CL); aquí se presentan como p50, p5 y p95, que es como el protocolo usa esos límites para las alarmas. La gráfica no tiene TAM: La TAM («calc.») se ha calculado como TAD + (TAS − TAD)/3 con los valores de cada columna, por lo que es una estimación y no un percentil real. La gráfica está construida por edad gestacional y el protocolo indica fijar las alarmas según la edad postmenstrual.
+! Tabla elaborada por el visor leyendo la gráfica de la página 3 del protocolo (Zubrow 1995, adaptada de UpToDate): las curvas son rectas, así que los valores se han medido por ordenador sobre la imagen y redondeado a mmHg. La gráfica marca la línea media y los «límites de confianza del 95 %» (Upper/Lower 95% CL); aquí se presentan como p50, p5 y p95, que es como el protocolo usa esos límites para las alarmas. La gráfica no tiene TAM: La TAM («calc.») se ha calculado como (2 × TAD + TAS)/3 con los valores de cada columna, por lo que es una estimación y no un percentil real. La gráfica está construida por edad gestacional y el protocolo indica fijar las alarmas según la edad postmenstrual.
 
 @caja
 **NO HACER:**

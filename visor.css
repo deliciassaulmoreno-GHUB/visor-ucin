@@ -195,3 +195,4 @@ code{font-size:12.5px}
 .proto .ptab td.pfondo,.proto .ptab th.pfondo{color:#1b1b1b}
 .tnav{display:flex;justify-content:space-between;gap:8px;margin:18px 0 8px}.tnav .btn{cursor:pointer;font:inherit;font-size:14px}
 .secnav{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px}.secnav .chip{cursor:pointer;font:inherit;font-size:13px;padding:5px 10px;border-radius:14px;border:1px solid var(--line);background:var(--card,transparent);color:inherit}.proto h3[id]{scroll-margin-top:70px;border-bottom:1px solid var(--line);padding-bottom:3px}.proto img.fig[src*=".svg"]{max-width:440px;margin:10px auto}
+.nut.tabres{min-width:0;width:100%;font-size:15px}.nut.tabres th,.nut.tabres td{text-align:center}.nut.tabres th:first-child{min-width:0;text-align:left}

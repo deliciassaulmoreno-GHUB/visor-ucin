@@ -182,7 +182,7 @@ function render(){const n=cur(),r=S[n.s](n);$("#title").textContent=r.t;$("#scre
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
 const isFav=n=>FAV.some(x=>same(x,n));
 function go(n){stack.push(n);if(["ficha","doc","calc","drug","escala"].includes(n.s)){REC=[n,...REC.filter(x=>!same(x,n))].slice(0,8);store.set(KEY+"-rec",REC)}render()}
-const rowsHtml=out=>out.map(r=>r.w?`<div class="note n-danger">${esc(r.w)}</div>`:r.n?`<div><small>${esc(r.n)}</small></div>`:`<div><small>${esc(r.l)}</small><span class="big">${esc(r.v)}</span></div>`).join("");
+const rowsHtml=out=>out.map(r=>r.tab?`<div class="tscroll" style="display:block"><table class="nut tabres">${r.tab.map((f,i)=>`<tr>${f.map((x,j)=>i===0||j===0?`<th>${esc(x)}</th>`:`<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table></div>`:r.w?`<div class="note n-danger">${esc(r.w)}</div>`:r.n?`<div><small>${esc(r.n)}</small></div>`:`<div><small>${esc(r.l)}</small><span class="big">${esc(r.v)}</span></div>`).join("");
 function escPts(c){return[...document.querySelectorAll("#sf select")].map(s=>{const it=c.items[+s.dataset.i];return s.value===""?(c.sinElegir?0:null):it.o[+s.value][1]})}
 function escRun(){const c=ESCALAS.find(x=>x.id===cur().id).calc;$("#sres").innerHTML=rowsHtml(c.res(escPts(c),c.items))}
 function calcRun(){const n=cur(),c=CALCS.find(x=>x.id===n.id),f=$("#cf");if(!f)return;const v={};let ok=true;
