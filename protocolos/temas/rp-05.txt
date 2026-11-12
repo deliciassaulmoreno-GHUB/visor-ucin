@@ -21,4 +21,21 @@
 | **Displasia alveolocapilar** | **HTP grave e irreversible en la primera semana en un RN a término**, sin respuesta al tratamiento; FOXF1; letal | Biopsia pulmonar precoz (diagnóstica en la mayoría) para replantear el soporte |
 | **Atresia bronquial** | Segmentaria la más frecuente; asociada a MCAP (70 %) o secuestro; a menudo hallazgo tardío | Resección si es sintomática; electiva en asintomáticos |
 
+### Imágenes
+
+@img rp-m01.jpg
+*Agenesia pulmonar derecha: radiografía y TAC pulmonar (fig. 12.5-2; Experto en Neonatología, 12.5, Pertierra Cortada).*
+
+@img rp-m02.jpg
+*Quiste broncogénico: radiografía, TAC pulmonar y visualización directa (fig. 12.5-3; Experto en Neonatología, 12.5, Pertierra Cortada).*
+
+@img rp-m03.jpg
+*MCAP: 1A-1B, radiografía normal en un paciente con diagnóstico prenatal de MCAP, con lesiones quísticas en la TAC; 2A-2B, radiografía y TAC de otro paciente con diagnóstico prenatal, ambas con lesiones quísticas (fig. 12.5-4; Experto en Neonatología, 12.5, Pertierra Cortada).*
+
+@img rp-m04.jpg
+*Secuestro pulmonar: A) radiografía con una condensación triangular en la base pulmonar izquierda; B) angiografía del mismo paciente, que muestra el vaso que sale de la aorta abdominal hacia el secuestro (fig. 12.5-5; Experto en Neonatología, 12.5, Pertierra Cortada). El panel C del original, una TAC, no se reproduce porque lleva texto superpuesto del equipo.*
+
+@img rp-m05.jpg
+*Enfisema pulmonar congénito del lóbulo superior izquierdo: radiografía y TAC (fig. 12.5-6; Experto en Neonatología, 12.5, Pertierra Cortada).*
+
 ! Ver también Protocolos → Sociedad Española → 3.25 (Malformaciones pulmonares y hernia diafragmática).

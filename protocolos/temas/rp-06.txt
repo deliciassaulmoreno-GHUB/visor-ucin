@@ -22,6 +22,9 @@
 - Dificultad respiratoria precoz, cianosis, **abdomen excavado**, hipoventilación del hemitórax afectado, **tonos desplazados** al lado contrario.
 - Mal pronóstico: HTP (presencia y gravedad), bajo peso y prematuridad, Apgar bajo a los 5 min, **IO > 20-40** en tres determinaciones, PaO~2~/FiO~2~ ≤ 300.
 
+@img rp-m06.jpg
+*Radiografía de hernia diafragmática congénita izquierda y derecha (fig. 12.5-8; Experto en Neonatología, 12.5, Pertierra Cortada).*
+
 ## Sala de partos
 
 - **Intubación electiva. No ventilar con bolsa y mascarilla** (distiende estómago e intestino).
