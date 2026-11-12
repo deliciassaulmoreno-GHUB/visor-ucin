@@ -50,7 +50,7 @@ const S={
  esp(n){const e=ESPEC[n.i],f=FICHAS.filter(x=>x.menu===e[2]),st=study.filter(x=>x.startsWith(e[1]+"/"));
   const g={};st.forEach(x=>{const p=x.slice(e[1].length+1).split("/");const k=p.length>1?p[0]:"General";(g[k]=g[k]||[]).push(x)});
   const tm=Object.keys(TEMAS).filter(k=>TEMAS[k].esp===e[0]);
-  return{t:e[0],h:`${tm.length?`<h2>Temas</h2><div class="grid">${tm.map(k=>`<button class="tile wide big-tile" data-nav='${esc(JSON.stringify({s:"tema",id:k}))}'>${esc(TEMAS[k].t)}<small>${TEMAS[k].p.length} apartado${TEMAS[k].p.length===1?"":"s"}</small></button>`).join("")}</div>`:""}${e[0]==="Hemodinámica"?`<details><summary>Árbol del boceto (sin revisar)</summary><ul>${ARBOL.map(a=>`<li>${esc(a)}</li>`).join("")}</ul></details>`:""}
+  return{t:e[0],h:`<input class="search" id="qe" type="search" data-esp="${esc(e[0])}" placeholder="Buscar en ${esc(e[0])}…" aria-label="Buscar en ${esc(e[0])}"><div id="er"></div>${tm.length?`<h2>Temas</h2><div class="grid">${tm.map(k=>`<button class="tile wide big-tile" data-nav='${esc(JSON.stringify({s:"tema",id:k}))}'>${esc(TEMAS[k].t)}<small>${TEMAS[k].p.length} apartado${TEMAS[k].p.length===1?"":"s"}</small></button>`).join("")}</div>`:""}${e[0]==="Hemodinámica"?`<details><summary>Árbol del boceto (sin revisar)</summary><ul>${ARBOL.map(a=>`<li>${esc(a)}</li>`).join("")}</ul></details>`:""}
   ${f.length?"<h2>Fichas rápidas</h2>"+f.map(x=>row({s:"ficha",id:x.id},esc(x.titulo),esc(x.fuente),stTag("ficha:"+x.id))).join(""):""}
   <h2>Material de estudio · ${st.length} archivos</h2><div class="note n-info">Solo inventariado, sin revisar.</div>
   ${Object.keys(g).sort((a,b)=>a.localeCompare(b,"es",{numeric:true})).map(k=>`<details><summary>${esc(k)} (${g[k].length})</summary>${g[k].map(x=>`<p><a target="_blank" rel="noopener" href="${esc(pdfUrl(x))}">${esc(x.split("/").pop())}</a></p>`).join("")}</details>`).join("")}`}},
@@ -92,9 +92,9 @@ const S={
   ${c?`<form id="sf"${c.cols===3?' class="c3"':""}>${c.items.map((it,i)=>`${it.g&&it.g!==(c.items[i-1]||{}).g&&it.g.length>2?`<h2>${esc(it.g)}</h2>`:""}<label class="field"><span>${esc(it.t)}</span><select data-i="${i}"><option value="">${esc(c.sinElegir||"Elegir…")}</option>${it.o.map((o,k)=>`<option value="${k}">${esc(o[0])} (${String(o[1]).replace("-","−")})</option>`).join("")}</select></label>`).join("")}</form><div class="result" id="sres" aria-live="polite"></div><p><button class="btn" id="slimpia" type="button">Limpiar</button></p>`:""}
   ${fotos.map(i=>`<img class="fig" src="${esc(i)}" alt="${esc(e.t)}">`).join("")}<div class="src"><b>Fuente:</b> ${esc(e.fuente)}<br><a target="_blank" rel="noopener" href="${esc(pdfUrl(e.f,e.pag))}">Abrir original</a></div>`}},
  farmacos(){return{t:"Fármacos",h:`<input class="search" id="qd" type="search" placeholder="Buscar fármaco" aria-label="Buscar fármaco"><div id="dl" style="margin-top:10px">${catList()}</div>`}},
- tema(n){const T=TEMAS[n.id];return{t:T.t,h:`<div class="grid">${T.p.map((x,i)=>`<button class="tile wide" data-nav='${esc(JSON.stringify({s:"tparte",id:n.id,i}))}'>${i+1}. ${esc(x)}</button>`).join("")}</div>`}},
+ tema(n){const T=TEMAS[n.id];return{t:T.t,h:`<input class="search" id="qe" type="search" data-tema="${esc(n.id)}" placeholder="Buscar en ${esc(T.t)}…" aria-label="Buscar en ${esc(T.t)}"><div id="er"></div><div class="grid">${T.p.map((x,i)=>`<button class="tile wide" data-nav='${esc(JSON.stringify({s:"tparte",id:n.id,i}))}'>${i+1}. ${esc(x)}</button>`).join("")}</div>`}},
  tparte(n){const T=TEMAS[n.id],p=PROTO["1. Protocolos/TEMAS/"+(T.k||T.t)+"/"+(n.i+1)],nv=j=>`<button class="btn" data-nav='${esc(JSON.stringify({s:"tparte",id:n.id,i:j}))}'>${j<n.i?"‹ ":""}${esc(T.p[j])}${j>n.i?" ›":""}</button>`;
-  return{t:T.p[n.i],h:`<div class="note n-warn">Elaborado para el visor a partir del material de la carpeta ${esc(T.fuente||T.t)}. Pendiente de tu validación.</div>${T.sec&&p?`<div class="secnav">${T.sec.map((x,j)=>`<button class="chip" onclick="document.getElementById('sec${j+1}').scrollIntoView({behavior:'smooth'})">${j+1}. ${esc(x)}</button>`).join("")}</div>`:""}<div class="proto">${p?(T.sec?(()=>{let j=0;return p.h.replace(/<h3>/g,()=>`<h3 id="sec${++j}">`)})():p.h):"<p>No disponible.</p>"}</div><div class="tnav">${n.i>0?nv(n.i-1):""}${n.i<T.p.length-1?nv(n.i+1):""}</div>`}},
+  return{t:T.p[n.i],h:`<div class="findbar"><input class="search" id="qf" type="search" placeholder="Buscar en este apartado…" aria-label="Buscar en este apartado" value="${esc(n.q||"")}"><span id="fc"></span><button class="btn" id="fp" aria-label="Anterior">▲</button><button class="btn" id="fn" aria-label="Siguiente">▼</button></div><div class="note n-warn">Elaborado para el visor a partir del material de la carpeta ${esc(T.fuente||T.t)}. Pendiente de tu validación.</div>${T.sec&&p?`<div class="secnav">${T.sec.map((x,j)=>`<button class="chip" onclick="document.getElementById('sec${j+1}').scrollIntoView({behavior:'smooth'})">${j+1}. ${esc(x)}</button>`).join("")}</div>`:""}<div class="proto">${p?(T.sec?(()=>{let j=0;return p.h.replace(/<h3>/g,()=>`<h3 id="sec${++j}">`)})():p.h):"<p>No disponible.</p>"}</div><div class="tnav">${n.i>0?nv(n.i-1):""}${n.i<T.p.length-1?nv(n.i+1):""}</div>`}},
  abx(){return{t:"Antibióticos según protocolo",h:`<div class="grid">${ABX.map((x,i)=>`<button class="tile wide" data-nav='${esc(JSON.stringify({s:"abxdoc",i}))}'>${esc(x)}</button>`).join("")}</div>`}},
  abxdoc(n){const p=PROTO["1. Protocolos/Fármacos/Antibióticos según protocolo/"+ABX[n.i]];return{t:ABX[n.i],h:`<div class="note n-warn">Transcrito del PDF «Antibióticos» para la app. Pendiente de tu validación.</div><div class="proto">${p.h}</div>`}},
  fcat(n){const c=FARM_CATS[n.i],l=drugs.filter(d=>d.p>=c[1]&&d.p<=c[2]);return{t:c[0],h:l.map(d=>row({s:"drug",n:d.n},esc(d.n),"p. "+d.p,stTag("drug:"+d.n))).join("")}},
@@ -163,12 +163,37 @@ function temaIdx(){if(TIDX)return TIDX;TIDX=[];const el=document.createElement("
   const txt=(el.textContent||"").replace(/\s+/g," ").trim();TIDX.push({id,i,T,cab:T.t+" "+parte+" "+(T.esp||""),txt})});return TIDX}
 function tsnip(t,ts){if(!t)return"";const n=Array.from(t).map(c=>c.normalize("NFD")[0].toLowerCase()).join(""),w=ts.flat().find(x=>n.includes(x));if(!w)return esc(t.slice(0,130))+"…";
  const i=Math.max(0,n.indexOf(w)-45),j=n.indexOf(w);return(i?"…":"")+esc(t.slice(i,j))+"<mark>"+esc(t.slice(j,j+w.length))+"</mark>"+esc(t.slice(j+w.length,i+130))+"…"}
+
+function scopeHtml(q,flt,espName){if(norm(q).trim().length<2)return"";const ts=terms(q);let h="";
+ const tsc=x=>{const nt=norm(x.txt),np=norm(x.T.p[x.i]+" "+x.T.t);let k=0;for(const g of ts)for(const w of g){if(np.includes(w))k+=1000;k+=nt.split(w).length-1}return k};
+ const tm=temaIdx().filter(flt).filter(x=>hit(x.cab+" "+x.txt,ts)).map(x=>[tsc(x),x]).sort((a,b)=>b[0]-a[0]).map(a=>a[1]);
+ if(tm.length)h+=`<h2>Temas · ${tm.length}</h2>`+tm.slice(0,40).map(x=>row({s:"tparte",id:x.id,i:x.i,q:q.trim()},esc(x.T.t)+" · "+esc(x.T.p[x.i]),tsnip(x.txt,ts))).join("");
+ if(espName){const e=ESPEC.find(x=>x[0]===espName);
+  const fi=FICHAS.filter(f=>f.menu===e[2]&&hit(f.titulo+" "+f.sin,ts));if(fi.length)h+="<h2>Fichas rápidas</h2>"+fi.map(f=>row({s:"ficha",id:f.id},esc(f.titulo),esc(f.fuente))).join("");
+  const es=study.filter(f=>f.startsWith(e[1]+"/")&&hit(f.split("/").pop(),ts));if(es.length)h+=`<h2>Material de estudio · ${es.length}</h2>`+es.slice(0,15).map(f=>`<p><a target="_blank" rel="noopener" href="${esc(pdfUrl(f))}">${esc(f.split("/").pop())}</a></p>`).join("")}
+ return(h||"<div class='note n-info'>Sin resultados en esta sección.</div>")+"<hr>"}
+let FM=[],FI=-1;
+function findRun(q){const box=$("#screen").querySelector(".proto");if(!box)return;
+ box.querySelectorAll("mark.fm").forEach(m=>{const t=document.createTextNode(m.textContent);m.replaceWith(t)});box.normalize();FM=[];FI=-1;
+ const ws=norm(q).split(/\s+/).filter(w=>w.length>=2);const fc=$("#fc");
+ if(!ws.length){if(fc)fc.textContent="";return}
+ const tw=document.createTreeWalker(box,NodeFilter.SHOW_TEXT),nodes=[];while(tw.nextNode())nodes.push(tw.currentNode);
+ for(const nd of nodes){const t=nd.nodeValue;let n="";for(let k=0;k<t.length;k++)n+=t[k].normalize("NFD")[0].toLowerCase();
+  const hits=[];for(const w of ws){let i=n.indexOf(w);while(i>=0){hits.push([i,i+w.length]);i=n.indexOf(w,i+w.length)}}
+  if(!hits.length)continue;hits.sort((a,b)=>a[0]-b[0]);const fr=document.createDocumentFragment();let last=0;
+  for(const[a,b]of hits){if(a<last)continue;fr.appendChild(document.createTextNode(t.slice(last,a)));const m=document.createElement("mark");m.className="fm";m.textContent=t.slice(a,b);fr.appendChild(m);FM.push(m);last=b}
+  fr.appendChild(document.createTextNode(t.slice(last)));nd.replaceWith(fr)}
+ if(fc)fc.textContent=FM.length?"":"0";findGo(1)}
+function findGo(d){const fc=$("#fc");if(!FM.length){if(fc)fc.textContent=norm($("#qf")?.value||"").trim().length>=2?"0":"";return}
+ if(FI>=0)FM[FI].classList.remove("cur");FI=(FI+d+FM.length)%FM.length;const m=FM[FI];m.classList.add("cur");
+ let a=m.parentElement;while(a){if(a.tagName==="DETAILS")a.open=true;a=a.parentElement}
+ m.scrollIntoView({block:"center",inline:"center",behavior:"smooth"});if(fc)fc.textContent=(FI+1)+"/"+FM.length}
 function searchHtml(q){if(norm(q).trim().length<2)return"<p>Escribe al menos dos letras.</p>";const ts=terms(q);let h="";
  const fi=FICHAS.filter(f=>hit(f.titulo+" "+f.sin,ts));
  if(fi.length)h+="<h2>Fichas</h2>"+fi.map(f=>row({s:"ficha",id:f.id},esc(f.titulo)+" "+tag(f.tag),esc(f.fuente))).join("");
  const tsc=x=>{const nt=norm(x.txt),np=norm(x.T.p[x.i]+" "+x.T.t);let k=0;for(const g of ts)for(const w of g){if(np.includes(w))k+=1000;k+=nt.split(w).length-1}return k};
  const tm=temaIdx().filter(x=>hit(x.cab+" "+x.txt,ts)).map(x=>[tsc(x),x]).sort((a,b)=>b[0]-a[0]).map(a=>a[1]);
- if(tm.length)h+=`<h2>Temas · ${tm.length}</h2>`+tm.slice(0,30).map(x=>row({s:"tparte",id:x.id,i:x.i},esc(x.T.t)+" · "+esc(x.T.p[x.i]),tsnip(hit(x.T.p[x.i],ts)&&!hit(x.txt,ts)?x.T.esp||"":x.txt,ts),tag(x.T.esp||""))).join("");
+ if(tm.length)h+=`<h2>Temas · ${tm.length}</h2>`+tm.slice(0,30).map(x=>row({s:"tparte",id:x.id,i:x.i,q:q.trim()},esc(x.T.t)+" · "+esc(x.T.p[x.i]),tsnip(hit(x.T.p[x.i],ts)&&!hit(x.txt,ts)?x.T.esp||"":x.txt,ts),tag(x.T.esp||""))).join("");
  if(hit("compatibilidades compatibilidad incompatibilidad en y",ts))h+="<h2>Tablas</h2>"+row({s:"compat"},"Compatibilidades","Foto sin validar");
  const se=ESCALAS.filter(e=>hit(e.t,ts));if(se.length)h+="<h2>Escalas</h2>"+se.map(e=>row({s:"escala",id:e.id},esc(e.t),esc(e.fuente))).join("");
  const ca=CALCS.filter(c=>hit(c.t,ts));if(ca.length)h+="<h2>Calculadoras</h2>"+ca.map(c=>row({s:"calc",id:c.id},esc(c.t),esc(c.fuente))).join("");
@@ -187,7 +212,7 @@ function cur(){return stack[stack.length-1]}
 function render(){const n=cur(),r=S[n.s](n);$("#title").textContent=r.t;$("#screen").innerHTML=r.h;$("#screen").scrollTop=0;
  $("#back").style.visibility=stack.length>1?"visible":"hidden";
  const fv=["ficha","doc","calc","drug","escala"].includes(n.s);$("#fav").style.visibility=fv?"visible":"hidden";$("#fav").textContent=isFav(n)?"★":"☆";
- if(n.s==="calc")calcRun();if(n.s==="escala"&&$("#sf"))escRun();renderPanel()}
+ if(n.s==="calc")calcRun();if(n.s==="escala"&&$("#sf"))escRun();if(n.s==="tparte"&&n.q)findRun(n.q);renderPanel()}
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
 const isFav=n=>FAV.some(x=>same(x,n));
 function go(n){stack.push(n);if(["ficha","doc","calc","drug","escala"].includes(n.s)){REC=[n,...REC.filter(x=>!same(x,n))].slice(0,8);store.set(KEY+"-rec",REC)}render()}
@@ -230,7 +255,8 @@ function md(){const l=items().filter(i=>est(i.id)!=="pendiente"||nota(i.id));if(
 function toast(m){const t=document.createElement("div");t.className="toast";t.textContent=m;t.setAttribute("role","status");document.body.append(t);setTimeout(()=>t.remove(),1800)}
 
 /* Eventos */
-document.addEventListener("click",e=>{const nv=e.target.closest("[data-nav]");
+document.addEventListener("keydown",e=>{if(e.target.id==="qf"&&e.key==="Enter"){e.preventDefault();findGo(e.shiftKey?-1:1)}});
+document.addEventListener("click",e=>{if(e.target.id==="fn"){findGo(1);return}if(e.target.id==="fp"){findGo(-1);return}const nv=e.target.closest("[data-nav]");
  if(nv){go(JSON.parse(nv.dataset.nav));$("#panel").classList.remove("open");return}
  const st=e.target.closest("[data-st]");if(st){const id=st.parentElement.dataset.id;R[id]={...R[id],e:st.dataset.st,ts:new Date().toISOString()};saveR();const y=$("#screen").scrollTop;render();$("#screen").scrollTop=y;return}
  const tb=e.target.closest("[data-tab]");if(tb){tab=tb.dataset.tab;renderPanel();return}
@@ -243,6 +269,8 @@ document.addEventListener("click",e=>{const nv=e.target.closest("[data-nav]");
 document.addEventListener("input",e=>{const t=e.target;
  if(t.id==="q"){const pos=t.selectionStart;if(cur().s==="buscar"){cur().q=t.value;$("#sr").innerHTML=searchHtml(t.value)}else{stack.push({s:"buscar",q:t.value});render();const q=$("#q");q.focus();q.setSelectionRange(pos,pos)}return}
  if(t.id==="qr"){$("#screen").querySelector("#rl").innerHTML=renalList(t.value);return}
+ if(t.id==="qe"){const id=t.dataset.tema,es=t.dataset.esp;$("#screen").querySelector("#er").innerHTML=scopeHtml(t.value,id?x=>x.id===id:x=>x.T.esp===es,es);return}
+ if(t.id==="qf"){cur().q=t.value;findRun(t.value);return}
  if(t.id==="qd"){const b=$("#screen").querySelector("#dl");b.innerHTML=t.value.trim()?drugList(t.value):catList();return}
  if(t.closest("#cf")){calcRun();return}
  if(t.dataset.note){const id=t.dataset.note;R[id]={...R[id],e:est(id),n:t.value,ts:new Date().toISOString()};saveR()}});
