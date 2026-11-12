@@ -79,6 +79,35 @@
 @img rs-c12.jpg
 *Ventilación asistida proporcional (PAV): la presión entregada aumenta o disminuye con el esfuerzo del paciente (Curso de Asistencia Respiratoria Neonatal, tema 4).*
 
+### Bucles en ventilación convencional
+
+@img rm-c05.jpg
+*Bucle volumen/presión en modalidad de volumen y de presión (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c04.jpg
+*Bucle flujo/volumen en modalidad de volumen y de presión (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rs-g07.jpg
+*Curva presión-volumen y CRF: atelectasia, zona normal y sobredistensión; reclutamiento alveolar, estrategia «open lung» (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
+@img rp-g01.jpg
+*Bucle presión-volumen del pulmón normal frente al pulmón con SDR (Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
+@img rm-c09.jpg
+*Bucle volumen/presión: puntos de inflexión inferior y superior (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c08.jpg
+*Variación de la distensibilidad: con volumen control, menor distensibilidad implica más presión; con presión control, menos volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c13.jpg
+*Sobredistensión en el bucle volumen/presión (modalidad de volumen) (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c07.jpg
+*Aumento de las resistencias en el bucle flujo/volumen (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
+@img rm-c11.jpg
+*Atrapamiento en el bucle flujo/volumen: el flujo espiratorio no llega a 0 (Curso de ventilación mecánica, «Curvas de función respiratoria», UCIP HGU Gregorio Marañón).*
+
 ## Parámetros
 
 - **Vt 4-6 ml/kg.** Más en DBP por más espacio muerto (7-8 ml/kg; curso: 6-12).

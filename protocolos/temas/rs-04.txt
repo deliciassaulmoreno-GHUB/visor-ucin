@@ -69,6 +69,15 @@
 - Volver a la presión de apertura y dejar la PMA **2 cmH~2~O por encima de la de cierre** (**PMA óptima**).
 - **Radiografía: 8-9 espacios intercostales** (diafragma en la 9.ª costilla). La ecografía pulmonar puede guiar la maniobra.
 
+@img rs-g07.jpg
+*Curva presión-volumen y CRF: atelectasia (CRF baja), zona normal y sobredistensión (CRF elevada); reclutamiento alveolar, estrategia «open lung» (Grupo Respiratorio y Surfactante de la SEN; Curso de Asistencia Respiratoria Neonatal, tema 1).*
+
+@img rs-g06.svg
+*Maniobra de reclutamiento al pasar a VAFO: subir la PMA de 1 a 2 cmH₂O cada 2 min hasta SpO₂ 90-95 % sin cambios hemodinámicos y/o FiO₂ < 0,4; bajarla igual hasta que la SpO₂ caiga < 90 %; añadir 2 cmH₂O a la última PMA; ajustar con la radiografía según la posición del diafragma respecto a la 9.ª costilla. Esquema redibujado de la diapositiva del Curso de Asistencia Respiratoria Neonatal, tema 7, con sus mismos textos («HMD» del original se ha desarrollado como «hemodinámicos»).*
+
+@img rs-g08.jpg
+*Ecografía pulmonar guiando una maniobra de reclutamiento. De izquierda a derecha: pulmón atelectasiado con consolidación, que se va reclutando con la aparición de líneas B (asteriscos) y finalmente de líneas A (flechas) al aumentar la PMA (Curso de Asistencia Respiratoria Neonatal, tema 7).*
+
 *Tabla 12.3-6. Parámetros iniciales (Experto).*
 | | VAFO con VG (VN500) | VAFO sin VG |
 | FiO~2~ | La de la VMC | La de la VMC |
